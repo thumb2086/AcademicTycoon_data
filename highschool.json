@@ -1,0 +1,15 @@
+{
+  "bundle_id": "HS_V1",
+  "questions": [
+    {
+      "id": "HS01",
+      "subject": "高中數學",
+      "q": "若 log2(x) = 3，則 x 之值為何？",
+      "image_url": "",
+      "options": ["6", "8", "9", "12"],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據對數定義，2^3 = 8。"
+    }
+  ]
+}
