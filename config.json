@@ -3,25 +3,25 @@
     "data_version": 2,
     "bundles": [
         {
-            "id": "HS_V1",
-            "name": "高中數學",
-            "file_name": "highschool.json",
-            "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/refs/heads/main/highschool.json",
-            "updated_at": "2026-01-22"
+            "id": "MM_CH1",
+            "name": "機械製造 第一章",
+            "file_name": "mech_mfg_ch1.json",
+            "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/refs/heads/main/mech_mfg_ch1.json",
+            "updated_at": "2026-02-03"
         },
         {
-            "id": "MECH_V1",
-            "name": "機械原理",
-            "file_name": "mechanical.json",
-            "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/refs/heads/main/mechanical.json",
-            "updated_at": "2026-01-22"
+            "id": "MM_CH2",
+            "name": "機械製造 第二章",
+            "file_name": "mech_mfg_ch2.json",
+            "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/refs/heads/main/mech_mfg_ch2.json",
+            "updated_at": "2026-02-03"
         },
         {
-            "id": "MM_V1",
-            "name": "機械製造",
-            "file_name": "Mechanical_manufacturing.json",
-            "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/refs/heads/main/Mechanical_manufacturing.json",
-            "updated_at": "2026-01-25"
+            "id": "MM_CH3",
+            "name": "機械製造 第三章",
+            "file_name": "mech_mfg_ch3.json",
+            "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/refs/heads/main/mech_mfg_ch3.json",
+            "updated_at": "2026-02-03"
         }
     ]
 }
