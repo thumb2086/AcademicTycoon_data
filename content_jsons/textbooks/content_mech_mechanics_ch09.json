@@ -1,0 +1,3473 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH09",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH09",
+    "title": "CH9"
+  },
+  "title": "機械力學 Chapter 9 張力與壓力",
+  "source_pdf": "機械力學/CH9PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH09",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        },
+        {
+          "type": "heading",
+          "text": "張力與壓力"
+        },
+        {
+          "type": "heading",
+          "text": "本章網要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-1 張應力、張應變、壓應力、 1. 能瞭解張 ( 拉 ) 力、壓力、張應"
+        },
+        {
+          "type": "heading",
+          "text": "壓應變及彈性係數 力與壓應力的定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-2 蒲松氏比介紹 2. 能瞭解應變與彈性係數的定義 9-3 應變的相互影響 3. 能推演出伸長量與外力、彈性"
+        },
+        {
+          "type": "heading",
+          "text": "9-4 容許應力及安全因數 係數的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-5 體積應變與體積彈性係數 4. 能明瞭蒲松氏比的定義與其範"
+        },
+        {
+          "type": "heading",
+          "text": "圍"
+        },
+        {
+          "type": "heading",
+          "text": "5. 能知道安全因數對設計的影響"
+        },
+        {
+          "type": "heading",
+          "text": "6. 能清楚材料體積應變與應力、"
+        },
+        {
+          "type": "heading",
+          "text": "彈性係數的關係"
+        },
+        {
+          "type": "heading",
+          "text": "7. 能瞭解彈性係數與體積彈性係"
+        },
+        {
+          "type": "heading",
+          "text": "數的關聯"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "美國曼哈頓第五大道的帝國大廈 (Empire State Building) 保持世界建築地位最久的摩天 大樓 (1931-1972),高 391 公尺, 103 層,於 1930 年動工, 1931 年落成建造工程僅 410 天,"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "建築材料約有 330,000 噸, 73 部電梯,共使用了 5660 m 石灰岩和花崗岩, 730 噸鋁和不 銹鋼等材質,其強度 ( 張應力、壓應力、彎曲應力、剪應力⋯等 ) 都需要精心計算,才能 建造屹立近百年之人類建築物地標,如圖 9-1 ∼ 9-4 均需精心計算才能設計出所需之結構。 本書從 材料力學 (mechanics of materials),來討論物體受力後的內應力產生變形的科 學,應用力學將物體視為剛體,討論受力的外效應;而由 應用力學算材料的受力,再由材 料力學計算其所需要的材料斷面積大小,並選用 安全因數 來設計出符合的材料尺寸。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-1 美國曼哈頓帝國大廈 ▲ 圖 9-2 杜拜哈里發塔"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-3 美國海狼級潛艇 ▲ 圖 9-4 以色列披著反應裝甲的 M60A1 主戰坦克"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 3"
+        },
+        {
+          "type": "heading",
+          "text": "9-1 張應力、張應變、壓應力、壓應變及彈性係數"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料所受的外力負荷 (load),較常見的種類如表 9-1 所示,有張力 (tension)、壓力 (compression)、剪力 (shear force)、力偶矩負荷 (couple load) 及扭矩 (torque) 等五種,有時 候只受一種負荷,但材料經常承受兩種以上之負荷。本章即探討單純受張力 ( 拉力 ) 或壓 力時之應力和變形。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-1 常見外力負荷的種類"
+        },
+        {
+          "type": "heading",
+          "text": "示意圖 實例圖"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 張力和壓力與接觸面垂直"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 剪力與接觸面平行"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-1 常見外力負荷的種類 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "示意圖 實例圖"
+        },
+        {
+          "type": "heading",
+          "text": "(c) 橋樑所受之彎曲力矩"
+        },
+        {
+          "type": "heading",
+          "text": "(d) 傳動軸所受之扭轉力矩"
+        },
+        {
+          "type": "heading",
+          "text": "9-1-1 張應力、壓應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料受到外力作用時,內部會產生抵抗外力的反作用力,這個反作用力稱為內力 (internal force),此力與外力大小相等,方向相反。如圖 9-5 所示,斷面為方形之直桿受 P 力作用,在截面積 A 上會產生均勻的抵抗力,材料在單位面積上所受的內力稱為應力 (stress),以希臘字母“ σ ” (sigma) 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "heading",
+          "text": "應力 σ = ( 公式 9-1)"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "paragraph",
+          "text": "若內力為張力 (P t ),則稱為張應力 (tensile stress),以“ σ t ”表示;若內力為壓力 (P c ), 則稱為壓應力 (compressive stress),以“ σ c ”表示。 張力和壓力均與接觸面垂直。一般定義 張應力取「正」;壓應力取「負」,且 張應力和壓應力均與接觸面垂直,所以又稱為正交 應力 (normal stress) 或軸向應力 (axial stress)。若應力與接觸面平行者則稱為剪應力。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 5"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-5 張應力與壓應力"
+        },
+        {
+          "type": "heading",
+          "text": "單位 應力: σ 力量: P 面積: A"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "SI 制 Pa ( 巴斯卡 ) N m"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "重力單位 kgf/cm kgf cm"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "英制 psi lb in"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "最常用 MPa N mm"
+        },
+        {
+          "type": "heading",
+          "text": "3 6 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: (1) 1 kPa = 10 Pa, 1 MPa = 10 Pa = 1 N/mm"
+        },
+        {
+          "type": "heading",
+          "text": "2 - 6 2 6 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ∵ 1 N/mm = 1 N/10 m = 10 N/m = 1 MPa)"
+        },
+        {
+          "type": "heading",
+          "text": "9 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 1 GPa = 10 Pa = 10 00 MPa = 1 kN/mm"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "heading",
+          "text": "σ = 公式成立之假設:"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "1. 材料為 均質 且等截面,材料本身的重量忽略不計。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 所受外力之作用線需通過材料的形心,與材料的軸線一致,即受軸向負荷。"
+        },
+        {
+          "type": "heading",
+          "text": "2 6 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 1 m = 1 m × 1 m = 1000 mm × 1000 mm = 10 mm"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 1 cm = 1 cm × 1 cm = 10 mm × 10 mm = 100 mm (3) 1 kN = 1000 N, 1 GPa = 1000 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "3 6 9"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 1 k (kilo) = 10, 1 M (Mega) = 10, 1 G (Giga) = 10"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "3. 國際 SI 制,力量的單位為牛頓 (N),面積的單位為公尺平方 (m ),故應力的單位以 N/m 表示,稱為"
+        },
+        {
+          "type": "paragraph",
+          "text": "巴斯卡 (Pascal),簡寫為 Pa。因 Pa 的單位太小,常以 kPa、 MPa 或 GPa 來表示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-1 題型:應力的計算 ( 斷面積 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "若桌上型車床重 135 π kN,利用 4 根外徑 50mm 的鋁合金中空圓柱在車床周圍 的四腳來均勻支撐車床之重量,若鋁合金可承受容許壓應力為 150 MPa,忽略"
+        },
+        {
+          "type": "heading",
+          "text": "鋁合金的重量,則此鋁合金的內徑至多為多少 mm?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "P = 135 π kN = 135 π × 1000 N,壓應力 σ c = 150 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "heading",
+          "text": "σ c = (A 由 4 根圓柱組成 )"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 d 2 π d"
+        },
+        {
+          "type": "heading",
+          "text": "圓面積 A = π r = π × ( ) ="
+        },
+        {
+          "type": "heading",
+          "text": "2 4"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "π d 外 π d 內 π 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "空心圓面積 A = − = ( d 外 − d 內 )"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "135 π × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "150 ="
+        },
+        {
+          "type": "heading",
+          "text": "π 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "4 × ( 50 − d 內 )"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "50 - d 內 = 900,∴ d 內 = 40 mm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示的一根正方形斷面桿件 AB,承受垂直向下 W = 80 kN 的軸向負荷, 若桿件內應力不允許超過 200 MPa,若不考慮桿件的重量,試求此桿件 AB 的"
+        },
+        {
+          "type": "heading",
+          "text": "斷面邊長應為多少公分才不會斷裂?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 7"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-2 題型:應力的計算 (F = ma)"
+        },
+        {
+          "type": "paragraph",
+          "text": "有 一 置 物 櫃 質 量 為 200 kg, 放 置 在 靜 摩 擦 係 數 0.3、 動 摩 擦 係 數 0.25 的 水 平面上,如圖所示,阿龍欲以容許應力為 50 MPa 的鋼索,使置物櫃沿水平"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "面上產生 2 m/s 的加速度,試求鋼索的面積至少為多少 mm 才不會斷裂?"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "( 若 g = 10 m/s )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "f 動 = μ 動 × N = 0.25 × 2000 = 500 N ∑ F = ma, T - 500 = 200 × 2,∴ T = 900 N"
+        },
+        {
+          "type": "heading",
+          "text": "P 900 2"
+        },
+        {
+          "type": "heading",
+          "text": "σ =, 50 =, A = 18 mm"
+        },
+        {
+          "type": "heading",
+          "text": "A A"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "質量 10 kg 的鏈球固定於一細鐵絲的一端,另一端為旋轉中心,以 120 rpm 的"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉速在水平面轉動,今已知細鐵絲的長度為 100 cm,截面積為 20 mm,試求"
+        },
+        {
+          "type": "heading",
+          "text": "鐵絲所產生的張應力?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-3 題型:應力的計算 ( 平衡 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,以 AB 及 BC 二條繩索來支撐重物,欲使 AB 繩及 BC 繩所承受的應力相同,則 AB 繩及 BC 繩"
+        },
+        {
+          "type": "heading",
+          "text": "的截面積比值為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "1 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fx = 0, T BC = T AB,∴ T BC = 3 T AB"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 3 1 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, T AB + T BC − 1000 = 0, T AB + × 3 T AB = 1000 = 2 T AB"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "TAB = 500 N, T BC = 500 3 N T AB T BC 500 500 3 A AB 500 1 3"
+        },
+        {
+          "type": "heading",
+          "text": "σ = =, =, = = ="
+        },
+        {
+          "type": "paragraph",
+          "text": "A AB A BC A AB A BC A BC 500 3 3 3"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 AB 和 AC 兩桿所組成的簡單構架,如圖所示,在接點 A 處承受垂直負荷 P。 已知兩桿的材料相同,且 a = 30 °,若兩桿內所承受的應力值相等,不計各桿 的重量,則桿 AB 的截面積 (AAB) 與桿 AC 的截面積 (AAC) 的比值 AAB / AAC 為"
+        },
+        {
+          "type": "heading",
+          "text": "多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 9"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 有一長度為 400 mm,橫截面積為 100 mm 的金屬棒,受 20 kN 的拉 力作用時,則該金屬棒所受的張應力為何? (A) 20 Pa (B) 200 kPa (C) 20 MPa (D) 0.2 GPa。 ( ) 2. 如 圖 所 示, 有 一 剛 桿 ( 不 計"
+        },
+        {
+          "type": "heading",
+          "text": "重量與變形 ),以一鋼索繫於"
+        },
+        {
+          "type": "heading",
+          "text": "牆 上, 並 承 受 一 負 荷 P, 若"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "鋼索的截面積為 100mm,容"
+        },
+        {
+          "type": "heading",
+          "text": "許拉應力 σ = 300 MPa,試求"
+        },
+        {
+          "type": "heading",
+          "text": "鋼索可承受之最大負荷 P 為多少 kN?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 30 (B) 60 (C) 18 (D) 9。"
+        },
+        {
+          "type": "heading",
+          "text": "9-1-2 張應變、壓應變"
+        },
+        {
+          "type": "paragraph",
+          "text": "當材料受到外力作用產生變形,若承受張力會伸長,承受壓力會縮短,此一伸長量或 縮短量之變形,以希臘字母“ d ” (delta) 表示,如圖 9-6 所示。 應變的定義為單位長度的伸 長量或縮短量,應變 (strain),以希臘字母“ ` ” (epsilon) 表示 ( 註: d = L ′ - L)。"
+        },
+        {
+          "type": "heading",
+          "text": "δ δ mm"
+        },
+        {
+          "type": "paragraph",
+          "text": "應變 P = ( 若 P =,∴ 應變沒有單位 ) ( 公式 9-2)"
+        },
+        {
+          "type": "heading",
+          "text": "L L mm"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-6 張壓變與壓應變"
+        },
+        {
+          "type": "paragraph",
+          "text": "L 為材料的原長; L ′ 為材料受力後的總長; d 為受力後的長度變化量,其值為受力後 的總長 L ′ 減去原來長度 L,即變形量 d = L ′ - L ( 變形後之總長 - 原長 )。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "1. 張應變 (tensile strain),物體受張力時所產生之應變,如圖 9-6(a),以“ ` t ”表示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料 受張力時,變形量 d 為正值,所以張應變為正。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 壓應變 (compressive strain),物體受壓力時所產生之應變,如圖 9-6(b),以“ ` c ”"
+        },
+        {
+          "type": "paragraph",
+          "text": "表示。 材料受壓力時,變形量 d 為負值,所以壓應變為負。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 張應變、壓應變均與接觸面垂直,又稱為正交應變 (normal strain) 或軸向應變 (axial"
+        },
+        {
+          "type": "paragraph",
+          "text": "strain)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 不因外力產生之應變稱為 自由應變 (free strain),如:熱應變、橫向應變。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-4 題型:軸向應變的計算"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之相同材料的 AB 階級桿件,受力後 C 點向下 移動 6 mm, D 點向下移動 4 mm,若 A 與 B 的面積各為"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "200 cm、 400 cm,試求 CD 段與 DE 段材料的應變比值?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "δ A − 2"
+        },
+        {
+          "type": "heading",
+          "text": "P CD L A 400 12 3"
+        },
+        {
+          "type": "heading",
+          "text": "= = = ="
+        },
+        {
+          "type": "heading",
+          "text": "P DE δ B − 4 16 4"
+        },
+        {
+          "type": "heading",
+          "text": "L B 600"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一金屬棒直徑 20 mm,長度 100 mm,受壓力作用後,長度變成 98 mm,其"
+        },
+        {
+          "type": "heading",
+          "text": "應變為多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 11"
+        },
+        {
+          "type": "heading",
+          "text": "9-1-3 彈性係數"
+        },
+        {
+          "type": "heading",
+          "text": "1. 虎克定律 (Hooke's law)"
+        },
+        {
+          "type": "paragraph",
+          "text": "英國科學家 虎克 (Robert Hooke) 在西元 1678 年發表「 物體在比例限度內,應 力與應變成正比 」。此 應力 σ 與應變 ` 的比值為一常數,稱為彈性係數 (modulus of elasticity)、彈性模數或楊氏係數 (Young's modulus),以英文字母“ E ”表示。"
+        },
+        {
+          "type": "heading",
+          "text": "σ"
+        },
+        {
+          "type": "heading",
+          "text": "彈性係數 E = ( 公式 9-3)"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "heading",
+          "text": "P δ σ A PL"
+        },
+        {
+          "type": "paragraph",
+          "text": "由應力 σ = 和應變 P = 可得知,彈性係數 E = = ="
+        },
+        {
+          "type": "heading",
+          "text": "A L P δ A δ"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "PL"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴受到拉力或壓力的長度變化量 δ = ( 公式 9-4)"
+        },
+        {
+          "type": "heading",
+          "text": "AE"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "或 δ = σ"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "PL"
+        },
+        {
+          "type": "heading",
+          "text": "δ AE P"
+        },
+        {
+          "type": "heading",
+          "text": "或 應變 P = = = ( 公式 9-5)"
+        },
+        {
+          "type": "heading",
+          "text": "L L AE"
+        },
+        {
+          "type": "heading",
+          "text": "伸長量或 原來長度:"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位 彈性係數: E 應力: σ 力量: P 面積: A 應變: `"
+        },
+        {
+          "type": "heading",
+          "text": "收縮量: d L"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "SI 制 MPa MPa N mm 沒有單位 mm mm (1) 彈性係數 E 的單位與應力的單位相同。"
+        },
+        {
+          "type": "heading",
+          "text": "σ"
+        },
+        {
+          "type": "paragraph",
+          "text": "∵ E = ∴ σ = E ` ( 應變 ` 沒單位 )"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 同材料對拉伸或壓縮的彈性係數相等。 (3) 彈性係數隨著材料種類而異,同一種材料的彈性係數均相等,不因材料的形 狀、斷面積大小及應力的大小而改變。 (4) 材料的 變形量 d 與彈性係數 E 成反比,與其軸向剛度 EA 成反比。變形量 d 與"
+        },
+        {
+          "type": "heading",
+          "text": "PL"
+        },
+        {
+          "type": "paragraph",
+          "text": "外力 P、原來長度 L 成正比,即 δ =。"
+        },
+        {
+          "type": "heading",
+          "text": "AE"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "2. 當我們建造房子時,我們所使用的鋼筋必須抽樣取數根送去檢驗機構,進行拉力"
+        },
+        {
+          "type": "paragraph",
+          "text": "試驗,以查驗其強度是否符合設計時所需的強度,若不符合則拆掉重建或採用補 強的方式來達到設計的要求,而建築所使用的混凝土則取樣等待數日硬化後,進 行壓力試驗來檢驗設計是否符合要求。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 應力 - 應變圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-7 所示為拉伸試驗機。以應力 σ 為縱座標,應變 ` 為橫座標,經由拉 伸試驗可得到各種材料的應力與應變的關係曲線,稱為應力 - 應變圖 (stress-strain diagram)。如圖 9-8 為不同材質、規格的拉伸試片。如圖 9-9 為經由拉伸試驗後的 鋯合金拉伸試片。如圖 9-10 所示為低碳鋼 ( 延性材料 ) 拉伸試驗所得到的曲線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-7 微電腦萬能材料拉伸試驗機 ▲ 圖 9-8 不同材質拉伸試片"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 13"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-9 材料拉伸試驗後之拉伸試片"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-10 應力 - 應變圖 ( 軟鋼延性材料 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) A 點為比例限度 (proportional limit), 比例限度為應力與應變成正比的應力最大 值,比例限度小於彈性限度。在 OA 區域內 ( 即比例限度內 ) 應力與應變成正 比。 (2) B 點為彈性限度 (elastic limit),物體受力時超出彈性限度則物體便無法恢復原 狀,會產生永久變形, 一般而言彈性限度大於比例限度,在比例限度與彈性限 度間,並非成線性關係。 (3) C 點為 降伏點 (yielding point),當 材料應力超過降伏強度則開始產生降伏現 象。即在 CD 區域內, 應力沒有顯著增加,但應變卻迅速增加,此現象即為降 伏。此 C 點又稱為降伏強度或降伏應力。而 CD 區域稱為降伏 (yielding) 或完 全塑性 (perfect plasticity)。 (4) D 點為應變硬化 (strain hardening) 開始點,在 DE 區域內,當負荷 ( 應力 ) 增 加時,變形量 ( 應變 ) 也會增加 ( 非線性增加 )。 (5) E 點為極限應力 (ultimate stress) 或 極限強度,材料所能承受的最大應力值。 (6) EF 區為頸縮 (necking),材料在此區域會發生頸縮現象, 頸縮為材料即將破壞 時,其斷面積會有迅速縮小的現象。 ( 只適用於延性材料,脆性材料頸縮不明"
+        },
+        {
+          "type": "heading",
+          "text": "顯 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(7) F 點為斷裂點,材料在此處斷裂,其斷裂點的應力值會小於極限應力,最主要 的原因為頸縮斷面積變小,若用原始面積計算,應力會降低,若以實際變形的 面積計算應力,則為圖 9-10 中的紅色虛線部份。"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 脆性材料如:混凝土、鋁合金、鑄鐵等,因 降伏點不明顯,如圖所示, 取斷裂點伸長量之 0.2% 應變"
+        },
+        {
+          "type": "paragraph",
+          "text": "量劃一平行線,其交點為降伏點。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 虎克定律在彈性限度內,應力與應變成正比,但事實上, 材料是在比例限度內應力與應變成正比。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 應力和應變成正比的應力最大值稱為比例限度,應力與應變的比值為彈性係數。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 脆性材料之應力 - 應變圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 15"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-5 題型:應力、應變、變形量"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "一不銹鋼桿件長 2.5 m,橫截面積 200 mm,此不銹鋼的彈性係數為 250 GPa, 若受到軸向拉力 20 kN 作用後,桿件最終長度為多少 mm?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "PL ( 20 × 1000 ) × (. 2 5 × 1000 )"
+        },
+        {
+          "type": "heading",
+          "text": "由變形量 δ = = = 1 mm"
+        },
+        {
+          "type": "heading",
+          "text": "AE 200 × ( 250 × 1000 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "變形後總長 = 2500 + 1 = 2501 mm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "若銅棒的斷面為圓形,長度為 2 m,直徑為 20 mm,受 50 π kN 的張力作用, 銅棒的彈性係數為 E = 100 GPa,試求此負荷下材料所產生的應變?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-6 題型:桿件的總變形量"
+        },
+        {
+          "type": "paragraph",
+          "text": "一 根 4 m 長 的 鋼 製 桿 件, 彈 性 係 數 E = 200 GPa, 材 料 斷 面 積 均 相 同"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "A = 100 mm,如圖所示。桿件承受三個軸向作用力,除左端 A 點固定外, (1) 桿件上有某一位置並無位移產生,求該位置與固定端 A 點的距離? (2) 求 B 點 的移動量與移動方向? (3) 求 D 點的移動量與移動方向?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 無位移即此點的變形量為零"
+        },
+        {
+          "type": "heading",
+          "text": "由自由體圖得知,假設距離 C 點右邊 x 無位移"
+        },
+        {
+          "type": "heading",
+          "text": "16 × 1 10 ⋅ x"
+        },
+        {
+          "type": "heading",
+          "text": "d 1 = d 3, =,∴ x = 1.6 m"
+        },
+        {
+          "type": "heading",
+          "text": "AE AE"
+        },
+        {
+          "type": "paragraph",
+          "text": "距離固定端 A 點的長度 = 1 + 1 + 1.6 = 3.6 m 無位移產生"
+        },
+        {
+          "type": "heading",
+          "text": "(2) B 點的移動量 = d 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "PL ( 16 × 1000 ) × ( 1 × 1000 )"
+        },
+        {
+          "type": "heading",
+          "text": "δ 1 = = = 0 8. mm"
+        },
+        {
+          "type": "heading",
+          "text": "AE 100 × ( 200 × 1000 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "B 點伸長 0.8 mm,∴ B 點向右移動 0.8 mm (3) D 點的移動量 = d 1 + d 2 + d 3 ( 16 × 1000 ) × ( 1 × 1000 ) + 0 + − ( 10 × 1000 ) × ( 2 × 1000 ) ∴ δ D = δ 1 + δ 2 + δ 3 ="
+        },
+        {
+          "type": "heading",
+          "text": "100 × ( 0 2 00 × 1000 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 0.8 + 0 - 1 = - 0.2 mm ( 負表縮短 )"
+        },
+        {
+          "type": "heading",
+          "text": "∴ D 點向左移動 0.2 mm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-6"
+        },
+        {
+          "type": "heading",
+          "text": "有一鋼桿承受軸向力的情況如圖所示,"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "其 中 AB 段 的 截 面 積 為 500 mm, BC 段"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "的截面積為 600 mm,設鋼的彈性係數為"
+        },
+        {
+          "type": "paragraph",
+          "text": "200 GPa, 則 此 鋼 桿 的 總 變 形 量 為 多 少"
+        },
+        {
+          "type": "heading",
+          "text": "mm?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 17"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-7 題型:變形量的應用 ( 平衡 )"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,一均質的剛體桿件長 5 m,重"
+        },
+        {
+          "type": "heading",
+          "text": "4 kN,桿件兩端各以長 2 m 的銅索與長"
+        },
+        {
+          "type": "heading",
+          "text": "1.4 m 的鋁索繫住,且桿件保持水平,今"
+        },
+        {
+          "type": "paragraph",
+          "text": "在距銅索 1.5 m 處施以 80 kN 的荷重,鋁"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "索的截面積為 52 mm,在不考慮繩索的重量下,今欲使此桿件在受負載下水 平放開仍保持水平,若材料受力在彈性限度內,試求銅索的截面積? (E 銅 = 100 GPa, E 鋁 = 70 GPa)"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "∑ MA = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "80 × 1.5 + 4 × 2.5 - P 鋁 × 5 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "P 鋁 = 26 kN"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, P 銅 + P 鋁 = 80 + 4, P 銅 = 58 kN 受負載下仍保持水平,即銅索與鋁索的伸長量相同。 P 銅 L 銅 P 鋁 L 鋁 ( 58 × 1000 ) × ( 2 × 1000 ) ( 26 × 1000 ) × (. 1 4 × 1000 )"
+        },
+        {
+          "type": "heading",
+          "text": "d 銅 = d 鋁, =, ="
+        },
+        {
+          "type": "paragraph",
+          "text": "A 銅 E 銅 A 鋁 E 鋁 A 銅 × ( 100 × 1000 ) 52 × ( 70 × 1 1000)"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "∴ A 銅 = 116 mm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-7"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如 圖 所 示, 均 勻 的 剛 體 桿 件 AB, 左 右 兩 端 各 以 斷 面 積 分 別 為 36 mm 及"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "40 mm 的銅索和鋁索繫緊,且桿件 AB 保持水平,銅與鋁的降伏應力分別為 40 MPa 及 30 MPa,若且不計桿件與繩索的重量,為了不使銅索和鋁索超過降 伏破壞,試求 AB 桿所能承受的最大容許負荷 P 為多少牛頓?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "18"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 如圖所示為低碳鋼拉伸試驗所得到的應力 - 應變圖,下列有關該圖的 敘述,何者正確? (A) A 點為應力與應變成比例的最大值, A 點稱 為彈性限度, OA 區域稱為彈性區 (B) C 點應力為降伏應力, CD 區 域為完全塑性區 (C) E 點為應力最大值,稱為破壞應力或破壞強度, EF 區域為應變硬化區 (D) 夾角 q 符合虎克定律,其值稱為彈性係數。"
+        },
+        {
+          "type": "heading",
+          "text": "- 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 同上題,若各點的應力、應變分別為 A 點 (300 MPa, 1.5 × 10 ),"
+        },
+        {
+          "type": "heading",
+          "text": "- 3 - 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "B 點 (360 MPa, 1.6 × 10 ), C 點 (420 MPa, 1.8 × 10 ), D 點"
+        },
+        {
+          "type": "heading",
+          "text": "- 3 - 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(420 MPa, 2.3 × 10 ), E 點 (500 MPa, 5 × 10 ), F 點 (440 MPa,"
+        },
+        {
+          "type": "heading",
+          "text": "- 3"
+        },
+        {
+          "type": "heading",
+          "text": "7.1 × 10 ),試求此材料的彈性係數為多少?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 210 GPa (B) 200 GPa (C) 500 MPa (D) 420 MPa。 ( ) 3. 在 鋼 料 的 拉 伸 試 驗 中, 其 彈 性 係 數 可 在 下 列 何 種 範 圍 內 求 出? (A) 比例限度 (B) 彈性限度 (C) 降伏應力 (D) 極限應力。 ( ) 4. 材料進行拉力試驗時,比例限度內應力與應變的線性變化區域,在該 區域內應力與應變的比值稱為? (A) 比例限度 (B) 剪力彈性係數 (C) 體積彈性係數 (D) 彈性係數。 ( ) 5. 兩重量相等且同材質的 A、 B 圓形截面鋼棒, A 鋼棒長度為 B 鋼棒 長度的 2 倍,若受同樣的拉力作用,則下列有關鋼棒伸長量的敘述何 者正確? (A) A 鋼棒伸長量與 B 鋼棒伸長量相等 (B) A 鋼棒伸長 量與 B 鋼棒伸長量的 2 倍 (C) A 鋼棒伸長量與 B 鋼棒伸長量的 4 倍 (D) A 鋼棒伸長量與 B 鋼棒伸長量的 8 倍。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 19"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 有 一 長 度 為 100 cm, 橫 斷 面 為 直 徑 5 cm 的 圓 形 金 屬 桿, 承 受 6000 kgf 的拉力後,伸長 0.003 cm,則該金屬桿的彈性係數 E 為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "6 2 5 2 6 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 2.1 × 10 kgf/cm (B) 1.05 × 10 kgf/cm (C) 0.7 × 10 kgf/cm"
+        },
+        {
+          "type": "heading",
+          "text": "7 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 1.02 × 10 kgf/cm。 ( ) 7. 一等向性且均質的彈性拉桿,彈性係數為 E = 240 GPa,斷面積為"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "4 cm,軸向長度為 1.2 m。若要使該拉桿軸向伸長 2 mm,則應施加 的軸向力為多少 kN? (A) 1600 (B) 800 (C) 320 (D) 160。 ( ) 8. 一 截 面 積 為 A, 長 度 為 L 的 均 質 桿 件, 彈 性 係 數 為 E, 若 將 桿 件 直 立 且 上 端 固 定, 則 此 桿 件 因 自 身 重 量 W 所 生 的 伸 長 量 為?"
+        },
+        {
+          "type": "heading",
+          "text": "WL WL WA WE"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 AE AE LE AL"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 9. 一等截面的圓桿,其截面積為 100 mm,彈性係數 E 為 200 GPa,其 受力情形如圖所示,則 C 點會向左偏移多少 mm? (A) 0.25 (B) 0.375 (C) 0.525 (D) 0.6。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 10. 如圖所示,階級桿件受力後 A 點向下移動 0.8 mm, B 點向下移動"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "0.2 mm,若 A1 = 100 mm, A2 = 200 mm,試求 AB 段與 BC 段的應"
+        },
+        {
+          "type": "heading",
+          "text": "15 4 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "變比值為多少? (A) (B) (C) 5 (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "4 15 5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "為什麼飛機的舷窗是圓的?還有艙門為什麼只能往內開?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 飛機舷窗 ( 圖片來源:旅行百科 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "飛機已經成為人們遠行的重要交通工具,經常乘坐飛機出行的人是否留意過飛機的機窗並不像家裡 的窗戶那樣是方形的,而是圓的。飛機上的小窗戶叫 舷窗。它之所以設計成圓形的,並不是出於美學的 考量,而是從飛機的安全性方面考慮設計而成。其實,歷史上也曾有過方形的機窗,但是這種設計卻曾 導致墜機慘劇的發生。 其實,飛機的窗戶並不總是圓的,在航空業的初期,也有矩形的窗戶。然而,隨著飛機變得越來越 先進,人們讓它飛得越來越高。 為 了避免低層大氣的氣流顛簸、降低阻力、減少燃油消耗,飛機必須飛 行 1000 公尺高空,客艙必須密封加壓,這種的情況下,方形的窗戶就出問題了。 1954 年,一架飛機從 羅馬起飛二十分鐘後解體並墜入地中海,機上 35 人全部喪生,事故原因是集中在窗戶角的壓力過高而 形成裂痕,飛行過程中裂痕成長而使飛機解體。事故的原因就在於機窗是方形的! 英國皇家飛機研究院在一次測試中發現,高達 70% 的艙內壓力都集中在這些機窗的尖角上。飛機達 到一定高度以後,內部與外部的壓力不同,客機機身會稍微地膨脹。但是方形窗戶的角落不僅不能幫助 飛機適應這種暫時性的膨脹,反而增加了飛機所承受的壓力,於是飛機就在爆炸般的壓力下引爆了。我 們知道壓力會從材料上連續而流暢地通過,如果受到障礙物的阻擋,比如窗戶它就得改變方向,這就使 得壓力在某一個具體的點上聚集起來,這就是所謂的應力集中。相比之下,圓形機窗的四個角可以很好 的分解壓力,減少裂縫或斷裂的可能性,迅速的取代了方形機窗,成 為 了機窗的新標準。圓形的形狀也 更堅固,抵抗變形更強, 為 了保證飛行方面的性能不受影響,經過加壓之後的機艙必須是圓筒形的,以 便氣壓可以順利的穿過材料,平衡壓力。 提到壓力,不得不提到飛機艙門的內開設計,我們都知道艙門被打開的危險,大氣在地表密度大, 高度越高,密度越小,氣壓越低。因此現在客機的客艙位在高空時都是增壓的,乘客在高空不至於因為 氣壓減小、氧含量低而呼吸困難。如果飛機大門突然被打開,因為飛機艙內大氣壓較高,而艙外大氣壓 較低,艙內與艙外直接接觸時則會發生爆炸式減壓。飛機艙門可不是普通的門,它其實比我們想像的要 強大得多。現在飛機艙門一般採用的是內嵌式門。內嵌式門利用了不同的壓強差保持鎖定狀態,這就意 味著如果存在著明顯的氣壓差,門就不會被打開。機艙內的壓強會比機艙外高,飛機內壓強會將機門牢 牢地“壓”在門框內,因此要打開門也沒有那麼容易了。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 21"
+        },
+        {
+          "type": "heading",
+          "text": "9-2 蒲松氏比介紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "當一桿件受軸向張力時,其軸向會伸長而產生軸向變形 (longitudinal deformation),但 橫向卻隨軸向的伸長而收縮;若桿件受軸向壓力時,其軸向會縮短,而橫向會膨脹變大。 如圖 9-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 縱向應變 ( ` L ):外力作用方向所生的應變,稱為縱向應變或軸向應變 (longitudinal"
+        },
+        {
+          "type": "paragraph",
+          "text": "strain)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 橫 向 應 變 ( ` t ): 與 外 力 成 直 角 的 橫 方 向 所 生 的 應 變, 稱 為 橫 向 應 變 (transverse"
+        },
+        {
+          "type": "paragraph",
+          "text": "strain)。"
+        },
+        {
+          "type": "heading",
+          "text": "δ"
+        },
+        {
+          "type": "heading",
+          "text": "縱向應變 P L = ( 若材料受拉力時 )"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "b"
+        },
+        {
+          "type": "heading",
+          "text": "橫向應變 P t = − ( 若材料受拉力時 )"
+        },
+        {
+          "type": "heading",
+          "text": "D"
+        },
+        {
+          "type": "paragraph",
+          "text": "d:縱向伸長 ( 或收縮 ) 量, L:原來長度。 b:橫向收縮 ( 或伸長 ) 量或直徑的變化量, D:原來直徑 ( 或寬度 )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-11 軸向應變與橫向應變"
+        },
+        {
+          "type": "heading",
+          "text": "δ b"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: (1) 當受拉力時, P L = 為正值, P t = − 為負值。"
+        },
+        {
+          "type": "heading",
+          "text": "L D"
+        },
+        {
+          "type": "heading",
+          "text": "δ b"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 當受壓力時, P L = − 為負值, P t = 為正值。"
+        },
+        {
+          "type": "heading",
+          "text": "L D"
+        },
+        {
+          "type": "paragraph",
+          "text": "法國數學家 (Simeon Denis Poisson) 命名蒲松氏比 (Poisson's ratio) 定義為材料在比例限 度內, 橫向應變與縱向應變之比值的絕對值,稱為蒲松氏比,以希臘字母“ μ ” (mu) 表示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "22"
+        },
+        {
+          "type": "heading",
+          "text": "b"
+        },
+        {
+          "type": "heading",
+          "text": "P t D bL"
+        },
+        {
+          "type": "heading",
+          "text": "蒲松氏比 μ = = = ( 公式 9-6)"
+        },
+        {
+          "type": "heading",
+          "text": "P L δ D δ"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般應用上,上列公式常改寫成 P t = −μ P L"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般金屬的 μ 值在 0.25 ∼ 0.35 間,最大值為 0.5, 如:橡膠類的材料。蒲松氏比恆小於或等於 0.5,因此蒲 蒲松氏比一般為正值,但 松氏比介於 0 ≤ μ ≤ 0.5。蒲松氏比的倒數稱為蒲松氏數 在泡沫材料、蜂巢狀結構材料、"
+        },
+        {
+          "type": "heading",
+          "text": "1 複合材料⋯等,有負值的蒲松"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Poisson's number),以英文字母“ m ”表示, m =,一 μ 氏比存在。 般蒲松氏數 m ≥ 2。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-8 題型:蒲松氏比"
+        },
+        {
+          "type": "heading",
+          "text": "中空鋁圓管的外徑 D = 100 mm,厚度"
+        },
+        {
+          "type": "paragraph",
+          "text": "t = 10 mm,楊氏係數 E = 100 GPa,蒲松氏比 μ = 0.3。此圓管材料均質,受到壓力 P 作用後, 呈 現 均 勻 變 形, 如 圖 所 示, 圓 管 產 生 軸 向 應 變 ` L = - 0.002,則此中空圓管的內徑變為多少"
+        },
+        {
+          "type": "heading",
+          "text": "mm?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "P t"
+        },
+        {
+          "type": "heading",
+          "text": "蒲松氏比 μ ="
+        },
+        {
+          "type": "heading",
+          "text": "P L"
+        },
+        {
+          "type": "heading",
+          "text": "b ( 內徑變化量 ) b"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ P t = −μ P L, = − 0 3. × − ( 0 002. ) =, b = 0.048 mm ( 增加 )"
+        },
+        {
+          "type": "heading",
+          "text": "圓管變形前內徑 80"
+        },
+        {
+          "type": "paragraph",
+          "text": "變形後的內徑 = 80 + 0.048 = 80.048 mm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "若一個長 20 cm,直徑 10 cm 的銅柱,軸向承受 60 kN 的載重後,軸長變為"
+        },
+        {
+          "type": "heading",
+          "text": "19.92 cm,直徑變為 10.012 cm,試求此銅柱的蒲松氏比為多少?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 23"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 下列敘述何者正確? (A) 蒲松氏比為蒲松氏數 (B) 蒲松氏比一般介 於 0.5 至 1 之間 (C) 蒲松氏數一般介於 0 至 0.5 之間 (D) 蒲松氏數 有可能是 3。 ( ) 2. 半 徑 20 mm, 長 度 200 mm 的 圓 桿, 受 一 軸 向 拉 力 作 用 而 伸 長"
+        },
+        {
+          "type": "heading",
+          "text": "0.1 mm,直徑收縮 0.004 mm,則此材料的蒲松氏比為何?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 0.1 (B) 0.2 (C) 0.3 (D) 0.4。 ( ) 3. 正 方 形 桿 斷 面 為 邊 長 20 mm × 20 mm, 長 1.6 m, 受 到 軸 向 拉 力 P = 48 kN 作用後,其橫向變化量為若干? ( 彈性係數 E = 40 GPa, 蒲松氏比 μ = 0.25) (A) 0.015 (B) 0.03 (C) - 0.015 (D) - 0.03。 ( ) 4. 如圖所示之兩塊板材以貫穿螺栓連接,直徑 d = 20 mm,螺栓鎖緊時 螺栓 mn 段伸長 d = 0.08 mm,已知螺栓彈性係數為 200 GPa,蒲松氏 比為 0.25,試求變形後的螺栓直徑為多少 mm? (A) 19.99 (B) 20.01 (C) 19.98 (D) 20.02。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "24"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "反應裝甲"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 俄製 T-72 的反應裝甲 ( 圖片來源:維基百科 ) 反應裝甲的設想最早由蘇聯人提出,但是反應裝甲首次運用於實戰則是 1982 年中東戰爭中的以色 列,反應裝甲是一種主要透過爆炸來破壞射中坦克車的砲彈以降低其攻擊力的裝備,裝備中產生的爆炸 物高速切割金屬射流,有效地降低這些反坦克武器的破壞效果,從而達到保全坦克的目的。 二戰後的反坦克砲彈和 RPG 之類反坦克武器大量用了成形裝藥技術,當射流擊中反應裝甲時,反 應裝甲會即時爆炸,藉由爆炸的反作用能量來反彈來襲之砲彈,進而保護坦克。此類反應裝甲被稱為爆 炸式反應裝甲 (ERA),但也有一種反應裝甲是非爆炸式的 (NERA),此種裝甲的設計是兩層金屬內有一 個夾層由橡膠之類製作成一個盒形,當射流遇到內夾層時它會膨起從而使射流失效。 反應裝甲因為可以不用大幅度增加全車的重量和尺寸下,大大增強裝甲車輛的防衛能力。而且可以 不用像其他提高車輛防衛力的新型裝甲,需要全新設計的車體或對舊車作全面的改裝,可以直接附加在 車體外,因為爆炸反應裝甲的質量輕,對坦克機動性影響不大。所以裝甲武力的先進國對於反應裝甲相 當歡迎,但並未向全世界各國普及,是因為有些獨有的缺陷。爆炸反應裝甲因其原理,會產生裝甲碎片 向坦克周圍飛散,對伴隨坦克作戰的步兵威脅較大,而非爆炸式的反應裝甲則防禦力不如爆炸反應裝甲。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 25"
+        },
+        {
+          "type": "heading",
+          "text": "9-3 應變的相互影響"
+        },
+        {
+          "type": "heading",
+          "text": "1. 單軸向應力產生之應變:物體受單軸向力作用產生的應變。"
+        },
+        {
+          "type": "heading",
+          "text": "σ σ"
+        },
+        {
+          "type": "heading",
+          "text": "由彈性係數 E = ∴應變 P ="
+        },
+        {
+          "type": "heading",
+          "text": "P E"
+        },
+        {
+          "type": "heading",
+          "text": "P t"
+        },
+        {
+          "type": "paragraph",
+          "text": "又蒲松氏比 μ = ∴橫向應變 P t = −μ P L"
+        },
+        {
+          "type": "heading",
+          "text": "P L"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當材料受 σ x 單軸向拉應力,則 σ x 使 x 軸伸長"
+        },
+        {
+          "type": "heading",
+          "text": "σ x μσ x"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ P x =,但使 y、 z 縮短 ∴ P y = P z = −"
+        },
+        {
+          "type": "heading",
+          "text": "E E"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 當材料受 σ y 單軸向拉應力,則 σ y 使 y 軸伸長"
+        },
+        {
+          "type": "heading",
+          "text": "σ y μσ y"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ P y =,但使 x、 z 縮短 ∴ P x = P z = −"
+        },
+        {
+          "type": "heading",
+          "text": "E E"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 當材料受 σ z 單軸向拉應力,則 σ z 使 z 軸伸長"
+        },
+        {
+          "type": "heading",
+          "text": "σ z μσ z"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ P z =,但使 x、 y 縮短 ∴ P x = P y = −"
+        },
+        {
+          "type": "heading",
+          "text": "E E"
+        },
+        {
+          "type": "heading",
+          "text": "2. 多軸向應力產生之應變:物體受三軸向應力 σ x、 σ y 及 σ z 作用,如圖 9-12 所示,"
+        },
+        {
+          "type": "paragraph",
+          "text": "當材料具等向性 (isotropic) 與均質 (homogeneous) 時,其在任一軸向的應變等於單 獨應力作用所產生的應變之代數和,此法稱為疊加法 (superposition method)。可得 三軸向的應變,如表 9-2 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-12 物體受三軸向應力 σ x、 σ y 及 σ z 作用"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "26"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-2 軸向應變的相互影響"
+        },
+        {
+          "type": "heading",
+          "text": "單軸向應力 多軸向應力"
+        },
+        {
+          "type": "heading",
+          "text": "應力"
+        },
+        {
+          "type": "heading",
+          "text": "應變"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ x σ y σ z σ x、 σ y、 σ z"
+        },
+        {
+          "type": "heading",
+          "text": "σ x μσ y μσ z σ x μ δ x"
+        },
+        {
+          "type": "paragraph",
+          "text": "x 軸應變 ` x − − P x = − ( σ y + σ z ) = ( 公式 9-7)"
+        },
+        {
+          "type": "heading",
+          "text": "E E E E E L x"
+        },
+        {
+          "type": "heading",
+          "text": "μσ x σ y μσ z σ y μ δ y"
+        },
+        {
+          "type": "paragraph",
+          "text": "y 軸應變 ` y − − P y = − ( σ x + σ z ) = ( 公式 9-8)"
+        },
+        {
+          "type": "heading",
+          "text": "E E E E E L y"
+        },
+        {
+          "type": "heading",
+          "text": "μσ x μσ y σ z σ z μ δ z"
+        },
+        {
+          "type": "paragraph",
+          "text": "z 軸應變 ` z − − P z = − ( σ x + σ y ) = ( 公式 9-9)"
+        },
+        {
+          "type": "heading",
+          "text": "E E E E E L z"
+        },
+        {
+          "type": "heading",
+          "text": "3. 若只受 σ x 作用,則 σ y、 σ z 用 0 代入 ( 公式 9-7 ∼ 9-9);同理,若只受 σ y、 σ z 作用"
+        },
+        {
+          "type": "paragraph",
+          "text": "時,則 σ x 用 0 代入 ( 公式 9-7 ∼ 9-9) 即可得到所需要的公式。應變算出有負號表 示縮短,壓應力用負值代入;拉應力用正值代入。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 當 各軸向所受應力均相同時, σ x = σ y = σ z = σ,其各軸向應變均相同。"
+        },
+        {
+          "type": "heading",
+          "text": "σ"
+        },
+        {
+          "type": "paragraph",
+          "text": "P x = P y = P z = ( 1 − 2 μ ) ( 公式 9-10)"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "paragraph",
+          "text": "名稱 應力: σ 彈性係數: E 應變: ` 蒲松氏比: μ 伸長量或收縮量: d 原來長度: L 單位 MPa MPa 沒有單位 沒有單位 mm mm"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 27"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-9 題型:三軸向應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之立方體,承受三軸向應力作用,立方體的彈性係數 E = 200 GPa, 蒲松氏比 μ = 0.2,試求: (1) 三軸向應變的大小? (2) x 與 z 軸的變形量為多少"
+        },
+        {
+          "type": "heading",
+          "text": "公分?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ x μ 200 − 0 2. × [ 200 + − ( 100 )] (1) x 軸應變 P x = − ( σ y + σ z ) = = 0 0009."
+        },
+        {
+          "type": "heading",
+          "text": "E E 200 × 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ y μ 200 − 0 2. × [ 200 + − ( 100 )] y 軸應變 P y = − ( σ x + σ z ) = = 0 0009."
+        },
+        {
+          "type": "heading",
+          "text": "E E 200 × 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ z μ − 100 − 0 2. × ( 200 + 200 ) z 軸應變 P z = − ( σ x + σ y ) = = − 0 0009."
+        },
+        {
+          "type": "heading",
+          "text": "E E 200 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "δ x δ x"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) P x =, 0 0009. =, d x = 0.018 cm ( 伸長 )"
+        },
+        {
+          "type": "heading",
+          "text": "L x 20"
+        },
+        {
+          "type": "heading",
+          "text": "δ z δ z"
+        },
+        {
+          "type": "paragraph",
+          "text": "P z =, − 0 0009. =, d z = - 0.009 cm ( 縮短 )"
+        },
+        {
+          "type": "heading",
+          "text": "L z 10"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "當一邊長為 10 cm 的正立方體置於水中,若水壓為 200 MPa,蒲松氏比為 0.25, 彈性係數為 200 GPa,試求三軸向應變各為若干?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "28"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-10 題型:軸向應變與變形量"
+        },
+        {
+          "type": "paragraph",
+          "text": "若材料受力情形如圖所示,材料為均質,彈性係數 E = 100 GPa,蒲松氏比 μ = 0.25,試求各軸向的變形量各為多少 mm?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "P x 400 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "σ x = = = 200 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "A x 50 × 40"
+        },
+        {
+          "type": "heading",
+          "text": "P y 800 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "σ y = = = 200 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "A y 100 × 40"
+        },
+        {
+          "type": "heading",
+          "text": "P z − 500 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "σ z = = = − 100 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "A z 100 × 50"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ x μ δ x 200 − 0 25. × [ 200 + − ( 100 )] 175 δ x P x = − ( σ y + σ z ) =, = =, E E L x 100 × 1000 100000 100"
+        },
+        {
+          "type": "heading",
+          "text": "∴ d x = 0.175 mm ( 伸長 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ y μ δ y 200 − 0 25. × [ 200 + − ( 100 )] 175 δ P y = − ( σ x + σ z ) =, = = y, E E L y 100 × 1000 100000 50"
+        },
+        {
+          "type": "heading",
+          "text": "∴ d y = 0.0875 mm ( 伸長 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ z μ δ z − 100 − 0 25. × [ 200 + ( 200 )] − 1 δ z P z = − ( σ x + σ y ) =, = =, E E L z 100 × 1000 500 40 ∴ d z = - 0.08 mm ( 負表縮短 )"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-10"
+        },
+        {
+          "type": "paragraph",
+          "text": "某機械零件在互相垂直的三軸向均承受相等的軸向應力,若應力不變而材質改 變,使其彈性係數 E 變成 1.2E,蒲松氏比由 0.3 變成 0.2,則各軸向所產生的"
+        },
+        {
+          "type": "heading",
+          "text": "應變會變成原來的多少倍?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 29"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 如圖所示,元素受應力後,若 μ 為蒲松氏比,則其在 x 方向上的應變"
+        },
+        {
+          "type": "heading",
+          "text": "為?"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ x μσ y σ y μσ x σ x μσ y σ y μσ x (A) + (B) + (C) − (D) −。"
+        },
+        {
+          "type": "heading",
+          "text": "E E E E E E E E"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 一塊薄鋼板,其彈性係數為 200 GPa,蒲松氏比為 0.3,在 x、 y 及 z 軸三個方向的尺寸分別為 125 mm、 250 mm 及 1 mm,當 x 和 y 方向 同時分別承受張力 50 kN,則此薄鋼板在 y 軸方向的變形量為多少 mm? (A) 0.425 (B) 0.2125 (C) 0.0017 (D) 0.0009。 ( ) 3. 如 圖 所 示 之 等 截 面 桿, 長 2 m, 截 面 尺 寸 為 40 mm × 40 mm 的 正 方形,受到 x 軸向通過重心軸的拉力 320 kN,若此桿的彈性係數 E = 100 GPa,蒲松氏比 μ = 0.2,試求此桿 z 軸方向的變形量 d z 為多 少 mm? (A) - 0.016 (B) - 0.0004 (C) 0.4 (D) 0.001。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "9-4 容許應力及安全因數"
+        },
+        {
+          "type": "heading",
+          "text": "1. 破壞應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料可承受失效、故障或損壞的最大應力,稱為破壞應力 (failure stress)。在 材料受外力作用下,可以作為材料失效的判斷預測:延性材料超過降伏強度時, 變形量會很大,斷面積會變小,可能造成材料失效或故障,所以把降伏應力 ( σ y ) 當作為破壞應力,而不是取極限強度;脆性材料的降伏點不明顯,無法以降伏來 當破壞應力,而是以極限應力 ( σ u ) 作為破壞應力。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 容許應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "在工程應用上,為了避免結構破壞或產生永久變形,抑或造成材料失效或故 障, 材料的應力不能超過某一個值, 以確保安全性, 而此值稱為容許應力 (allowable stress) 或工作應力 (working stress),以“ σ w ”表示。 當我們搭乘電梯時,告示牌上常出現限重 800 公斤重的字樣,即該電梯鋼繩"
+        },
+        {
+          "type": "heading",
+          "text": "800"
+        },
+        {
+          "type": "paragraph",
+          "text": "的單位面積容許可承受 800 公斤重的負荷 ( 即為容許應力 σ w = )。若該電梯鋼"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "4000"
+        },
+        {
+          "type": "paragraph",
+          "text": "繩的斷面積實際上在 4000 公斤重會斷裂 ( 即為破壞應力 σ u = ),則我們稱其"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "paragraph",
+          "text": "安全因數為 5 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 安全因數"
+        },
+        {
+          "type": "paragraph",
+          "text": "安全因數 (factor of safety) 簡稱 SF 或 FS 是指一個結構或機械所能負荷的負 載,可以超過預期負載的程度。 安全因數為大於等於 1 的數值,安全因數愈高表 示結構安全度愈 高。"
+        },
+        {
+          "type": "heading",
+          "text": "降伏應力"
+        },
+        {
+          "type": "heading",
+          "text": "安全因數 n = ( 延性材料 );"
+        },
+        {
+          "type": "heading",
+          "text": "容許應力"
+        },
+        {
+          "type": "heading",
+          "text": "極限應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "安全因數 n = ( 脆性材料 ) ( 公式 9-11)"
+        },
+        {
+          "type": "heading",
+          "text": "容許應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般設計上,延性材料安全因數為 3 ∼ 5 之間;脆性材料其安全因數為極限 應力與容許應力的比值,所以脆性材料的安全因數會比較大約 5 ∼ 7,石材、混凝 土的安全因數則可取到 20。"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 安全因數不是越大就越好,例如電梯實際上可以載 15 人,安全因數取 5 倍時,只能載 3 人,雖然安"
+        },
+        {
+          "type": "paragraph",
+          "text": "全但是也相對浪費。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 若結構的安全因數大於 1,不表示一定安全,許多品質保證、工程設計、製造、安裝及使用上的因素"
+        },
+        {
+          "type": "paragraph",
+          "text": "都會影響此結構在特定應用下的安全性。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 31"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-11 題型:容許應力與安全因數"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "吊車以鋼索吊掛重物,若該吊車欲將質量 4000 kg 的物體,以 2.5 m/s 的等加 速度上升,假設鋼索的降伏強度為 500 MPa,極限強度為 750 MPa,安全因數"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "取 2.5,試求欲符合此設計鋼索的最小面積至少為多少 mm? (g = 10 m/s )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "σ 降伏 500"
+        },
+        {
+          "type": "heading",
+          "text": "σ 容許 = = = 200 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "n 2 5."
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F = ma, T - 40000 = 4000 × 2.5,∴ T = 50000 N"
+        },
+        {
+          "type": "heading",
+          "text": "P 50000 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ 容許 =, 200 =,∴ A = 250 mm"
+        },
+        {
+          "type": "heading",
+          "text": "A A"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-11"
+        },
+        {
+          "type": "paragraph",
+          "text": "一圓形軟鋼承受 40 π kN 的軸向負荷,若降伏應力為 400 MPa,極限應力為 700 MPa,設計安全因數為 4,則此圓形軟鋼的直徑應為多少 mm?容許應力"
+        },
+        {
+          "type": "heading",
+          "text": "為多少 MPa?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-12 題型:安全因數與伸長量"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "欲以一長 2 m,等橫截面積為 300 mm,彈性係數為 100 GPa 的金 屬圓桿,懸吊一重物 W,如圖所示;若金屬圓桿材料的降伏強度為 300 MPa,容許伸長量為 1 mm,試求金屬圓桿的安全因數?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "PL L δ E 1 × ( 100 × 1000 ) δ = = σ 容許 ×, σ 容許 = = = 50 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "AE E L 2 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "σ 降伏 300"
+        },
+        {
+          "type": "heading",
+          "text": "n = = = 6"
+        },
+        {
+          "type": "heading",
+          "text": "σ 容許 50"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-12"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋼桿的長度為 L,斷面積為 A,彈性係數為 E,降伏強度為 S,受到拉伸負荷"
+        },
+        {
+          "type": "heading",
+          "text": "作用,若安全因數為 n,則容許的伸長量為多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 某延性材料的極限應力為 600 MPa,降伏應力為 400 MPa,若採用的 容許應力為 100 MPa,則該設計的安全因數為多少? (A) 1.5 (B) 2 (C) 4 (D) 6。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 已知鋼索的極限強度為 700 N/mm,斷面積為 100 mm,若該鋼索可 承的最大荷重為 7000 N,則該鋼索以極限強度為依據的設計安全因數 為多少? (A) 10 (B) 12 (C) 15 (D) 16。 ( ) 3. 一實心圓形斷面的鑄鐵材料,承受 125 kN 的壓力負載,其極限應力 為 900 MPa,安全因數為 9,則其直徑約為多少 mm? (A) 16 (B) 25 (C) 32 (D) 40。 ( ) 4. 結構設計時,為了顧及結構的安全性,通常不使用其實際的強度作 為設計強度。當使用延展性材料設計一直徑為 2 cm 的圓形鋼桿,"
+        },
+        {
+          "type": "heading",
+          "text": "750"
+        },
+        {
+          "type": "paragraph",
+          "text": "容 許 承 受 拉 力 為 50 kN, 已 知 降 伏 應 力 為 α MPa, 極 限 應 力 為"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "1000 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "α MPa,則安全因數為多少? (A) 1.5 (B) (C) 2 (D) 2.5。"
+        },
+        {
+          "type": "heading",
+          "text": "π 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 如圖所示,一物體重量 W = 2000 N,以 AB 吊索及 BC 鋼桿的結構支 撐其重量,若鋼桿的降伏應力為 500 MPa,安全因數為 5,則 BC 鋼"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "桿的截面積至少應為多少 mm? (A) 2 (B) 6 (C) 10 (D) 25。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 33"
+        },
+        {
+          "type": "heading",
+          "text": "9-5 體積應變與體積彈性係數"
+        },
+        {
+          "type": "heading",
+          "text": "9-5-1 體積應變"
+        },
+        {
+          "type": "paragraph",
+          "text": "當一物體受外力作用,各軸向長度有所伸縮而產生應變,所以體積也會產生變化,即 單位體積之體積變化量,稱為體積應變 (volume strain),以“ ` V ”表示。"
+        },
+        {
+          "type": "heading",
+          "text": "∆ V"
+        },
+        {
+          "type": "heading",
+          "text": "體積應變 P V = ( 公式 9-12)"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 為材料的原來體積; D V 為受力後的體積變化量,其值為受力後的總體積 V ′ 減去原 來體積 V,即體積變化量 ∆ V = V ′ − V。 分析三軸向應力所產生的應變關係,我們以每邊長均為 1 單位長度的正立方體,如 圖 9-13(a) 所示。當此正立方體承受三軸向應力 σ x、 σ y 及 σ z 作用時,各軸向變化量由"
+        },
+        {
+          "type": "heading",
+          "text": "δ x δ x"
+        },
+        {
+          "type": "paragraph",
+          "text": "P x = =,所以 d x = ` x,同理 d y = ` y 和 d z = ` z,則此正立方體變形後每邊長分別為"
+        },
+        {
+          "type": "heading",
+          "text": "L x 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 + ` x、 1 + ` y 及 1 + ` z,如圖 9-13(b) 所示。 V ′ − V ( 1 + P x )( 1 + P y )( 1 + P z ) − 1"
+        },
+        {
+          "type": "heading",
+          "text": "體積應變 P V = ="
+        },
+        {
+          "type": "heading",
+          "text": "V 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 1 + P x + P y + P z + P P x y + P P y z + P P z x + P P P x y z − 1"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-13 體積應變"
+        },
+        {
+          "type": "paragraph",
+          "text": "但由於各軸向應變 ` x、 ` y 及 ` z 均為極小的值,所以其乘積 ` x ` y、 ` y ` z、 ` z ` x、 ` x ` y ` z 會 更小到可以忽略不計。 體積應變 P V = P x + P y + P z ( 公式 9-13)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "34"
+        },
+        {
+          "type": "paragraph",
+          "text": "若材料的體積受拉力後膨脹,則體積應變為正值;若材料的體積受壓力後收縮,則體 積應變為負值。"
+        },
+        {
+          "type": "heading",
+          "text": "體積應變: ` V"
+        },
+        {
+          "type": "heading",
+          "text": "x 軸應力: σ x"
+        },
+        {
+          "type": "heading",
+          "text": "x 軸應變: ` x"
+        },
+        {
+          "type": "paragraph",
+          "text": "名稱 原來體積: V 體積變化量: D V y 軸應力: σ y 彈性係數: E 蒲松氏比: μ"
+        },
+        {
+          "type": "heading",
+          "text": "y 軸應變: ` y"
+        },
+        {
+          "type": "heading",
+          "text": "z 軸應力: σ z"
+        },
+        {
+          "type": "heading",
+          "text": "z 軸應變: ` z"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位 沒有單位 mm mm MPa MPa 沒有單位 討論:受 σ x、 σ y、 σ z 三軸向應力作用時"
+        },
+        {
+          "type": "heading",
+          "text": " σ x μ"
+        },
+        {
+          "type": "heading",
+          "text": "P x = − ( σ y + σ z )"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "E E"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": " σ y μ"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸向應變  P y = − ( σ x + σ z )"
+        },
+        {
+          "type": "heading",
+          "text": " E E"
+        },
+        {
+          "type": "heading",
+          "text": " σ z μ"
+        },
+        {
+          "type": "heading",
+          "text": " P z = − ( σ x + σ y )"
+        },
+        {
+          "type": "heading",
+          "text": " E E"
+        },
+        {
+          "type": "heading",
+          "text": "∆ V ( 1 − 2 μ )"
+        },
+        {
+          "type": "paragraph",
+          "text": "體積應變 P V = = P x + P y + P z = ( σ x + σ y + σ z ) ( 公式 9-14)"
+        },
+        {
+          "type": "heading",
+          "text": "V E"
+        },
+        {
+          "type": "heading",
+          "text": "1. 當三軸向應力均相同,即 σ x = σ y = σ z = σ"
+        },
+        {
+          "type": "heading",
+          "text": "σ ( 1 − 2 μ )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 軸向應變 P x = P y = P z =,此時體積應變為長度應變的 3 倍,即"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "paragraph",
+          "text": "` = ` + ` + ` = 3 ` = 3 ` = 3 `。"
+        },
+        {
+          "type": "heading",
+          "text": "V x y z x y z"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 1 − 2 μ ) 3 σ ( 1 − 2 μ ) (2) 此時體積應變 P V = ( σ x + σ y + σ z ) ="
+        },
+        {
+          "type": "heading",
+          "text": "E E"
+        },
+        {
+          "type": "heading",
+          "text": "2. 若材料僅受單軸向應力,即若只受 σ x 作用, σ y = σ z = 0"
+        },
+        {
+          "type": "heading",
+          "text": "σ x ( 1 − 2 μ )"
+        },
+        {
+          "type": "paragraph",
+          "text": "體積應變 P V = = P x ( 1 − 2 μ ) ( 公式 9-15)"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "9-5-2 體積彈性係數"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料各方向承受相同應力時,在比例限度內其應力與體積應變的比值,稱為體積彈性 係數 (elasticity modulus of volume),以英文字母“ K ” ( 或“ E V ” ) 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "σ σ E"
+        },
+        {
+          "type": "paragraph",
+          "text": "體積彈性係數 K = = = ( 公式 9-16) P V 3 σ ( 1 − 2 μ ) 3 1 ( − 2 μ )"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 35"
+        },
+        {
+          "type": "heading",
+          "text": "1. 體積彈性係數、彈性係數、剪力彈性係數 ( 在第 10 章說明 ) 均因材料種類而異,"
+        },
+        {
+          "type": "paragraph",
+          "text": "不因材料的形狀、面積、應力大小而改變。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 體積彈性係數愈大,表示材料愈不易變形。"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "3. 由 K =, 1 - 2 μ > 0,∴ μ < 0.5。若 μ = 0.5, K 為 ∞,則材料為剛體,事"
+        },
+        {
+          "type": "heading",
+          "text": "3 1 ( − 2 μ )"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "實上宇宙沒有剛體; 所以蒲松氏比的範圍為 0 < μ < 0.5,若 μ = 時 K = E。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 9-13 題型:體積應變 ( 三軸向應力 ) 如圖所示,一均質材料長 400 mm,寬 200 mm, 高 100 mm,沿 x 軸方向受軸向拉力 Px = 500 kN, 沿 y 軸方向受軸向拉力 Py = 800 kN,沿 z 軸方向 受軸向壓力 Pz = 200 kN 的作用。若材料的彈性係 數為 100 GPa,蒲松氏比為 0.25,試求體積應變"
+        },
+        {
+          "type": "heading",
+          "text": "和體積變化量為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "P x 500 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "σ x = = = 25 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "A x 200 × 100"
+        },
+        {
+          "type": "heading",
+          "text": "P y 800 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "σ y = = = 10 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "A y 400 × 200"
+        },
+        {
+          "type": "heading",
+          "text": "P z − 200 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "σ z = = = − 5 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "A z 400 × 100"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 1 − 2 μ ) ( 1 − 2 × 0 25. ) − 4 P V = ( σ x + σ y + σ z ) = ( 25 + 10 − 5 ) = 1 5. × 10"
+        },
+        {
+          "type": "heading",
+          "text": "E 100 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "∆ V − 4 ∆ V 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "P V =, 1 5. × 10 =,∴ D V = 1200 mm ( 體積膨脹 )"
+        },
+        {
+          "type": "heading",
+          "text": "V 400 × 200 × 100"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-13"
+        },
+        {
+          "type": "paragraph",
+          "text": "一立方鋁塊,邊長為 20 mm 置於深水中,若只考慮水壓力且水壓為 100 MPa, 鋁材料的蒲松氏比為 μ = 0.3,彈性係數為 E = 100 GPa,試求體積應變為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "變形後的體積為多少 mm?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "36"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 9-14 題型:體積應變 ( 單軸向應力 ) 一均質正方形斷面 (10 mm × 10 mm) 鋼桿長 200 mm,受軸向壓力 20 kN 作用, 若鋼桿的蒲松氏比為 0.3,彈性係數為 200 GPa,試求體積應變和體積變化量?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "設軸向為 x 軸,則 σ y = σ z = 0"
+        },
+        {
+          "type": "heading",
+          "text": "P − 20 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "σ x = = = − 200 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "A 10 × 10"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 1 − 2 μ ) ( 1 − 2 × 0 3. ) − 4 P V = ( σ x + σ y + σ z ) = ( − 200 + 0 + 0 ) = − 4 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "E 200 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "∆ V − 4 ∆ V 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "P V =, − 4 × 10 =,∴ D V = - 8 mm ( 體積收縮 )"
+        },
+        {
+          "type": "heading",
+          "text": "V 10 × 10 × 200"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-14"
+        },
+        {
+          "type": "paragraph",
+          "text": "一正立方體且均質材料的銅塊,邊長為 20 mm,承受單軸向張力 20 kN,在此 軸向產生的應變為 0.002,若蒲松氏比為 0.25,試求體積應變和體積的變化量"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "為多少 mm?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-15 題型:E、K、μ 的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "若材料的體積彈性係數與彈性係數兩值比為 5: 6,試求此材料的蒲松氏比為多"
+        },
+        {
+          "type": "heading",
+          "text": "少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "由 K ="
+        },
+        {
+          "type": "heading",
+          "text": "3 1 ( − 2 μ )"
+        },
+        {
+          "type": "heading",
+          "text": "K 5 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "= =, 5 - 10 μ = 2,∴蒲松氏比 μ = 0.3"
+        },
+        {
+          "type": "heading",
+          "text": "E 6 3 1 ( − 2 μ )"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 9-15"
+        },
+        {
+          "type": "paragraph",
+          "text": "一中空不銹鋼圓柱,蒲松氏比為 0.25,外徑為 40 mm,內徑為 20 mm,長 1.5 m, 受 40 π kN 的壓力作用,若不銹鋼縮短 1 mm,求此不銹鋼的彈性係數與體積彈"
+        },
+        {
+          "type": "heading",
+          "text": "性係數的值為何?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 張力與壓力 37"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 有一直徑為 0.1 m,長度為 0.5 m 的實心鋼棒,其蒲松氏比為 0.25,彈"
+        },
+        {
+          "type": "heading",
+          "text": "性係數為 210 GPa,求其體積彈性係數為何?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A)130 GPa (B) 135 GPa (C) 140 GPa (D) 145 GPa。 ( ) 2. 一材料在液體中,受到均勻液體壓力 σ,若材料的彈性係數為 E,蒲"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "松氏比為,則其體積應變為何?"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "2 σ 3 σ 4 σ 3 σ"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "3 E 2 E 3 E 4 E"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 某桿件承受軸向拉力 P 作用後,若軸向應變為 ` a,蒲松氏比為 μ, 則 其 體 積 應 變 為 何? (A) (1 - 2 μ ) ` a (B) (1 + 2 μ ) ` a (C) (1 - μ ) ` a (D) (1 + μ ) ` a。 ( ) 4. 材料的蒲松氏比為 0.25,則有關於體積彈性係數 K 與彈性係數 E 的關"
+        },
+        {
+          "type": "heading",
+          "text": "係,下列何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 3 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) K = E (B) K = E (C) K = E (D) K = E。"
+        },
+        {
+          "type": "heading",
+          "text": "2 3 4 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 若均質的彈性體置於深水中承受水壓應力 σ,若 D V 為彈性體的體積 改變量, K 為體積彈性係數, E 為楊氏係數, ` V 為體積應變, μ 為蒲 松氏比,則下列何者最不正確? (A) 當 μ = 0,則 ` V 最大 (B) 當"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "μ =,則 E = K (C) 當 μ =,則 K → ∞ (D) 當 μ =,則 D V → ∞。"
+        },
+        {
+          "type": "heading",
+          "text": "3 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 若體積為 500 mm 的球體,置入液體壓力為 100 MPa 的液壓容器中, 球體的彈性係數為 100 GPa,蒲松氏比為 0.3,則該球體的體積受液壓"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "後變為多少 mm? (A) 0.6 (B) - 0.6 (C) 499.4 (D) 498.2。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "38"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "鐵達尼號沉沒之謎"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 鐵達尼號"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一部電影很多人都為男女主角的淒美愛情故事所打動,這部電影名叫《鐵達尼號》, 1912 年 4 月 鐵達尼號從英國動身前往美國紐約,卻在橫渡大西洋途中不幸撞上冰山而沉入海中,由於缺少足夠的救 生艇, 1500 人葬生海底,造成了當時在和平時期最嚴重的一次航海事故,也是迄今為止最為人所知的一 次海難。 鐵達尼號是當時世界上最大的豪華客輪,被稱為是「永不沉沒的客輪」,首航行程時,在 4 月 14 日 23 點 40 分,瞭望員范德瑞克 · 弗萊特在鐵達尼號正前方發現了一座冰山,並警告了艦橋。當時值班指 揮的一副威廉 · 默多克下達右滿舵及發動機全速反轉的指令,嘗試「擺動繞行」;但為時已晚,鐵達尼號 右舷撞到了冰山,在水線以下形成一系列的縫隙,船體沒有遭冰山切出裂口,而是挫曲凹陷,鋼板接合 處彎曲成一段段的開口,讓海水進入。前面 5 個水密艙室受到破壞並淹水,船長及總設計師等人很快就 意識到鐵達尼號註定會沉,因為船隻的漂浮力無法抵抗 5 個水密艙室進水。碰撞幾分鐘後,船首開始緩 緩下沉,隨著傾斜角度逐漸增加,船內的海水就像製冰盒那樣,不斷向後淹沒艙室。 撞上冰山經過 2 個小時 35 分鐘後,鐵達尼號在水中的傾斜角度開始迅速增加,因為大量海水從甲 板艙口入侵船首內還沒淹沒的部分。由於船尾從水中升起,露出螺旋槳和後半部船底;船首下沉而船尾 上升,導致龍骨要承受兩股相反方向的力量對抗,達到峰值應力後,船體開始從 2 號和 3 號煙囪之間斷 裂。當船首下墜時,龍骨沒有馬上斷開,因此將船尾拉向幾乎垂直的角度,最後仍然有數百人在艉艛甲 板上抓著欄杆。 2 時 20 分, 鐵達尼號完全沉沒。 雖然有 14 名生還者作證表示船體在海面上斷成兩個部分, 世人多年來卻普遍認為它沒有斷裂,而是完整的沉入海底。然而 1985 年發現沉船殘骸時,證實了鐵達 尼號斷成兩個部分。除了救生艇上的人之外,所有乘客和船員都浸入負 2 ° C 的海水中,幾乎所有落海的 人都會死亡,只有 2 分鐘到 30 分鐘的存活時間。 鐵達尼號沉沒後,人們在災難中吸取教訓制訂了新的海上安全法規,對救生艇的要求很簡單:必須 能容納下船上的所有人員。各大海運公司都迅速按照新要求來進行改造工作。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-1 1. 應力 ( σ ):單位面積 (A) 上所受的力量 (P),稱為應力 ( σ )。"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "heading",
+          "text": "應力 σ ="
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "P:作用之外力 ( 拉力與壓力和接觸面垂直 )"
+        },
+        {
+          "type": "heading",
+          "text": "A:力所作用的面積"
+        },
+        {
+          "type": "heading",
+          "text": "單位 應力 σ 力量 P 面積 A"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "SI 制 MPa N mm"
+        },
+        {
+          "type": "heading",
+          "text": "2. 應變 ( ` ):單位長度 (L) 的變化量 ( d ) 稱為應變 ( ` ), 應變沒有單位。"
+        },
+        {
+          "type": "heading",
+          "text": "δ"
+        },
+        {
+          "type": "heading",
+          "text": "應變 P ="
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "L:原長"
+        },
+        {
+          "type": "heading",
+          "text": "d:長度變化量 = 變形後總長 - 原長"
+        },
+        {
+          "type": "heading",
+          "text": "3. 彈性係數 (E):在比例限度內,應力與應變之比值為一常數,此比值稱為彈性"
+        },
+        {
+          "type": "paragraph",
+          "text": "係數,或楊氏係數,以 E 表示之。"
+        },
+        {
+          "type": "heading",
+          "text": "σ ( 應力 ) PL"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈性係數 E =,長度變化量 ( 伸長量或收縮量 ) δ ="
+        },
+        {
+          "type": "heading",
+          "text": "P ( 應變 ) EA"
+        },
+        {
+          "type": "heading",
+          "text": "伸長量或 原來長"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位 彈性係數: E 應力: σ 力量: P 面積: A 應變: `"
+        },
+        {
+          "type": "heading",
+          "text": "收縮量: d 度: L"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "SI 制 MPa MPa N mm 沒有單位 mm mm (1) 彈性係數 (E) 單位與應力單位相同,為 MPa 或 GPa。"
+        },
+        {
+          "type": "heading",
+          "text": "PL"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 彈性係數 (E) 與變形量 ( d ) 成反比,即 δ =。"
+        },
+        {
+          "type": "heading",
+          "text": "EA"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 彈性係數隨材料種類而異,相同材料彈性係數相等,彈性係數不因材料形 狀、斷面之大小或應力之大小而改變。"
+        },
+        {
+          "type": "heading",
+          "text": "PL"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 材料之變形量 ( δ ) 與其軸向剛度 (EA) 成反比,即 δ =。"
+        },
+        {
+          "type": "heading",
+          "text": "EA"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "4. 應力應變圖"
+        },
+        {
+          "type": "heading",
+          "text": "5. 比例限度:應力與應變成正比之最大應力,稱為比例限度。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 降伏點:當材料受力超過降伏點時,應力雖不增加,但應變很大,稱為 降伏,"
+        },
+        {
+          "type": "paragraph",
+          "text": "降伏點之強度稱為 降伏強度 或 降伏應力。"
+        },
+        {
+          "type": "heading",
+          "text": "9-2 7. 蒲松氏比 ( μ ):"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 材料在比例限度內, 橫向應變 ( ` t ) 與縱向應變 ( ` L ) 之比的絕對值,謂之蒲 松氏比 ( μ )。"
+        },
+        {
+          "type": "heading",
+          "text": "b"
+        },
+        {
+          "type": "heading",
+          "text": "P t D bL"
+        },
+        {
+          "type": "heading",
+          "text": "蒲松氏比 μ = = ="
+        },
+        {
+          "type": "heading",
+          "text": "P L δ D δ"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 一般金屬 μ 值在 0.25 ∼ 0.35 間,"
+        },
+        {
+          "type": "heading",
+          "text": "蒲松氏比之最大值為 0.5;"
+        },
+        {
+          "type": "paragraph",
+          "text": "0 < μ < 0.5。 (3) 蒲松氏比之倒數稱之為蒲松氏數。"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-3 8. 受 σ x、 σ y、 σ z 三力作用則可利用 重疊法 原理得:"
+        },
+        {
+          "type": "heading",
+          "text": "σ x μ δ x"
+        },
+        {
+          "type": "paragraph",
+          "text": "x 軸方向之應變 P x = − ( σ y + σ z ) ="
+        },
+        {
+          "type": "heading",
+          "text": "E E L x"
+        },
+        {
+          "type": "heading",
+          "text": "σ y μ δ y"
+        },
+        {
+          "type": "paragraph",
+          "text": "y 軸方向之應變 P y = − ( σ x + σ z ) ="
+        },
+        {
+          "type": "heading",
+          "text": "E E L y"
+        },
+        {
+          "type": "heading",
+          "text": "σ z μ δ z"
+        },
+        {
+          "type": "paragraph",
+          "text": "z 軸方向之應變 P z = − ( σ x + σ y ) ="
+        },
+        {
+          "type": "heading",
+          "text": "E E L z"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-4 9. 安全因數 ( 安全係數 )(n):安全因數大於 1。"
+        },
+        {
+          "type": "heading",
+          "text": "降伏應力 極限應力"
+        },
+        {
+          "type": "heading",
+          "text": "10. 安全因數 n = ( 延性材料 );安全因數 n = ( 脆性材料 )。"
+        },
+        {
+          "type": "heading",
+          "text": "容許應力 容許應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-5 11. 體積應變 ( ` V ):單位體積之體積變化量。"
+        },
+        {
+          "type": "heading",
+          "text": "V ′ − V ∆ V ( 體積變化量 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "體積應變 P V = = ( 受拉力體積增加,受壓力體積變小 )"
+        },
+        {
+          "type": "heading",
+          "text": "V V ( 原來體積 )"
+        },
+        {
+          "type": "heading",
+          "text": "12. 體積應變為三軸向所生之長度應變的總和。即體積應變 ` V = ` x + ` y + ` z。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 三軸向應力負荷時:"
+        },
+        {
+          "type": "heading",
+          "text": "∆ V ( 1 − 2 μ )"
+        },
+        {
+          "type": "paragraph",
+          "text": "體積應變 P V = = P x + P y + P z = ( σ x + σ y + σ z )"
+        },
+        {
+          "type": "heading",
+          "text": "V E"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 三軸向應力均相等時: ( ∵此時 σ x = σ y = σ z = σ )"
+        },
+        {
+          "type": "heading",
+          "text": "3 σ ( 1 − 2 μ )"
+        },
+        {
+          "type": "heading",
+          "text": "體積應變 P V = 3 P ="
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 單軸向負荷時 ( 若只受 x 軸應力 σ x 作用, x 軸應變 ` x ):"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 − 2 μ )"
+        },
+        {
+          "type": "paragraph",
+          "text": "體積應變 P V = ( σ x + σ y + σ z ) = P x ( 1 − 2 μ )"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "13. 體積彈性係數 (K):材料各方向承受相同應力時,在比例限度內其應力 ( σ ) 與"
+        },
+        {
+          "type": "paragraph",
+          "text": "體積應變 ( ` V ) 的比值,稱為體積彈性係數 (K)。"
+        },
+        {
+          "type": "heading",
+          "text": "σ σ E"
+        },
+        {
+          "type": "heading",
+          "text": "體積彈性係數 K = = ="
+        },
+        {
+          "type": "paragraph",
+          "text": "P V 3 σ ( 1 − 2 μ ) 3 1 ( − 2 μ )"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-1 ( ) 1. 將一軟鋼材料測試棒夾持於拉力試驗"
+        },
+        {
+          "type": "heading",
+          "text": "機上,進行拉力試驗,由實驗數據得"
+        },
+        {
+          "type": "heading",
+          "text": "到如圖所示之應力 - 應變圖,則在圖中"
+        },
+        {
+          "type": "heading",
+          "text": "的哪一段為【頸縮現象】?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) OP (B) PH (C) HU (D) UF。 ( ) 2. 有一個邊長皆為 150 mm 的正方體混凝土壓力"
+        },
+        {
+          "type": "heading",
+          "text": "試體,經抗壓試驗至破壞後的應力 - 應變圖如"
+        },
+        {
+          "type": "heading",
+          "text": "圖所示,則此混凝土試體破壞時承受多少 kN"
+        },
+        {
+          "type": "heading",
+          "text": "的作用力?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 1350 (B) 900 (C) 100 (D) 2700。 ( ) 3. 應力與應變成正比的最大應力值,稱為? (A) 降伏強度 (B) 比例限度 (C) 彈性限度 (D) 彈性係數。 ( ) 4. 下列敘述何者 錯誤? (A) 長度為 L、面積為 A,受拉力伸長 d,則此拉"
+        },
+        {
+          "type": "heading",
+          "text": "EA δ"
+        },
+        {
+          "type": "paragraph",
+          "text": "力為 (B) 鋼的楊氏係數比鉛的楊氏係數為大 (C) 低碳鋼棒在受拉"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "paragraph",
+          "text": "伸時,當其應力一旦超過降伏點時,就會立即發生斷裂 (D) 若應變 / 應力 之值愈大表彈性係數愈小。 ( ) 5. 如圖所示之簡單構架,在 B 點承受垂直負荷 F,已知 桿件 AB 與 BC 的材料相同,且斷面積比為 1: 2,欲 使兩桿件內所承受的正向應力值相等,則 cos a 的值"
+        },
+        {
+          "type": "heading",
+          "text": "應為多少?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 0.25 (B) 0.33 (C) 0.5 (D) 0.67。 ( ) 6. 如圖所示,一物體重 10 kN,用 BC 桿及 AB 鋼繩牽住, 若鋼繩的容許應力為 50 MPa,試求鋼繩的截面積至少為"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "若干 mm 才安全?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 100 (B) 100 3 (C) 200 (D) 500。"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch09/p042.jpg"
+    }
+  ]
+}

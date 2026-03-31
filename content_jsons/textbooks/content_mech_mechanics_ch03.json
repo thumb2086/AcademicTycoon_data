@@ -1,0 +1,2501 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH03",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH03",
+    "title": "CH3"
+  },
+  "title": "機械力學 Chapter 3 重心",
+  "source_pdf": "機械力學/CH3PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "重心"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-1 重心、形心與質量中心 1. 能分辨重心、形心與質心的定 3-2 線的形心之求法 義與差別之相互關係。 3-3 面的形心之求法 2. 能熟悉直線、圓弧線的形心。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 會運用力矩原理求出折線和圓"
+        },
+        {
+          "type": "paragraph",
+          "text": "弧線之形心。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 能熟悉簡單形狀面積的形心和"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "半圓、 圓、三角形之形心。"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "5. 會運用力矩原理求出組合形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "的形心。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 能熟練組合重心之求法。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "96"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體重量的集中點稱為重心,即為地心引力作用於所有小質點力之合成,則此合力的 作用點為物體之重心,本章將會依序介紹多質點系統、線段及面積之重心的計算方法,好 好的將本章題目做完,會很有成就感的 ( 圖 3-1、圖 3-2)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-1 101 大樓阻尼器應用 ▲ 圖 3-2 比薩斜塔"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "重心影響傾倒?"
+        },
+        {
+          "type": "paragraph",
+          "text": "在地球上重力是無所不在,因此一個物體是否靜止和平衡,決定在重力與其它力量之間的合力為零與合 力矩為零。例如,將一物體放在桌上,若物體太突出桌邊,就會翻落地面。物體是因為正向力的力矩與 重力所在產生力矩無法平衡。要如何知道重力所產生的力矩有多大呢?要回答這個問題,必須加入「重 心」觀念。 重心在桌面上時, 重心在桌角 O 點時, 重心在桌角外, 物體則不傾倒 物體恰不傾倒之極限值 則產生力矩使物體傾倒"
+        },
+        {
+          "type": "heading",
+          "text": "重心在桌角 O 點時為即將翻倒之臨界點"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 重心 97"
+        },
+        {
+          "type": "heading",
+          "text": "3-1 重心、形心與質量中心"
+        },
+        {
+          "type": "heading",
+          "text": "1. 重心、形心與質量中心的定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 重心:在地球上物體是由許多小質點集合 知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "而成,物體的重量等於這些小質點之平行"
+        },
+        {
+          "type": "heading",
+          "text": "力矩原理:合力對於某一點 ( 或軸 ) 之"
+        },
+        {
+          "type": "paragraph",
+          "text": "力的合成。此合力之作用點,稱為物體的"
+        },
+        {
+          "type": "heading",
+          "text": "力矩,等於各個分力對於該點 ( 或軸 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "重心 (center of gravity)。由力矩原理可求 之力矩代數和。 物體的重心,如圖 3-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-3 重心"
+        },
+        {
+          "type": "paragraph",
+          "text": "設 W 為物體總重量, (, x y ) 為重心座標位置, W 1、 W 2、 W 3 ⋯分別為各微 小重量, (x 1, y 1 )、 (x 2, y 2 )、 (x 3, y 3 ) ⋯分別為其座標位置。"
+        },
+        {
+          "type": "heading",
+          "text": "W = W 1 + W 2 + W 3 ⋯"
+        },
+        {
+          "type": "heading",
+          "text": "對 y 軸由 力矩原理,"
+        },
+        {
+          "type": "paragraph",
+          "text": "W x ⋅ = W x 1 1 + W x 2 2 + W x 3 3 + \u001f W x 1 1 + W x 2 2 + W x 3 3 + \u001f ∑ W x i i"
+        },
+        {
+          "type": "heading",
+          "text": "∴ x = ="
+        },
+        {
+          "type": "heading",
+          "text": "W ∑ W i"
+        },
+        {
+          "type": "heading",
+          "text": "對 x 軸由 力矩原理,"
+        },
+        {
+          "type": "paragraph",
+          "text": "W y ⋅ = W y 1 1 + W y 2 2 + W y 3 3 + \u001f W y 1 1 + W y 2 2 + W y 3 3 + \u001f ∑ W y i i"
+        },
+        {
+          "type": "heading",
+          "text": "∴ y = ="
+        },
+        {
+          "type": "heading",
+          "text": "W ∑ W i"
+        },
+        {
+          "type": "paragraph",
+          "text": "【合力 ( 總重量 ) 對任一軸之力矩大小 = 各分力 ( 質點 ) 對該軸之力矩和】 求解重心相關問題可採用列表方式,以確認各項數值是否正確。重量之欄 位可因求解項目更換為質量、線段或面積。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "98"
+        },
+        {
+          "type": "heading",
+          "text": "編號 重量 x 座標 y 座標"
+        },
+        {
+          "type": "heading",
+          "text": "1 W1 x1 y1"
+        },
+        {
+          "type": "heading",
+          "text": "2 W2 x 2 y 2"
+        },
+        {
+          "type": "heading",
+          "text": "3 W3 x 3 y3"
+        },
+        {
+          "type": "paragraph",
+          "text": "合計 W = W 1 + W 2 + W 3 = ∑ Wi x y"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 形 心 (centroid):形心為物體表面形狀之幾何中心。長方形的形心在中點;圓 形的形心就是其圓心。 (3) 質量中心 (center of mass):物體各部分的質量,可集中於一點以代替全部質 量,此點即為質量中心,簡稱質心。計算質量中心之方法與計算重心之方法相 同。重心與重力有關,在沒有重力的地方重心是無法定義的;在 地表附近重心 與質心位於同 一點 (W = m × g,重量 = 質量 × 重力加速度 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 重心、形心與質量中心的特性"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當重力對某直線之 力矩代數和為零 時,則此直線必通過物體之重心。 (2) 在地球表面物體之重心位置是固定的,不會因物體位置的變更而改變,且 重心 不一定在物體之內部,如手環的重心在圓心不在手環上。 (3) 在地球表面通過重心之直線,稱為重心軸,物體之重心,必為兩重心軸的交 點,如圖 3-4 所示。 (4) 在地球表面的均質物體若為對稱物體的重心,在物體的對稱軸上。 (5) 當物體為 均質 ( 材料相同、密度相同 ) 時,其 重心、質心、形心三者會合為一 體。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 重心 99"
+        },
+        {
+          "type": "paragraph",
+          "text": "(6) 尋找不規則物體的重心,最簡單的方法將物體懸掛起來 ( 懸掛法 )。懸掛的物 體只受兩力作用1來自地球的重力2來自繩子的張力。當物體呈現靜止時,重 力與張力必在同一線上 ( 通過重心的直線稱為重心軸 ),只要利用這個性質, 就能找出物體的重心 ( 圖 3-4)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-4 物體的重心必為兩重心軸之交點"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "固體的重心是固定的,流體的重心則"
+        },
+        {
+          "type": "paragraph",
+          "text": "會隨容器的形狀而改變。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(7) 如圖 3-5 所示,物體底座若為一平面,則其重心之鉛垂線若超過接觸底面積 外,則物體必傾倒。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-5 物體會傾倒 ( 重心超過底面積外 ) (8) 如圖 3-6 所示,均質物體,重心與形心同一點,若一圓由兩密度不同半圓組成 (W 1 > W 2 ),形心仍在圓心,但重心與形心不同點。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-6 密度不同的半圓組成一圓"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "例題 3-1 題型:重心與形心的探討"
+        },
+        {
+          "type": "heading",
+          "text": "重量均勻的一個箱子,其長、寬如圖所示,放在一水平"
+        },
+        {
+          "type": "heading",
+          "text": "木板上,若將木板右端緩慢抬起,若箱子不會滑動,則"
+        },
+        {
+          "type": "heading",
+          "text": "木箱不翻倒木板傾斜角正切函數值最大為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "若不翻倒,則通過重心 G 的鉛垂線,必須落在箱子底面 積的範圍內,當 a = q 時,重心 G 所在的鉛垂線恰通過 箱子邊緣 O 處,此時箱子處於翻倒與不翻倒的臨界狀況。"
+        },
+        {
+          "type": "heading",
+          "text": "0 2. 1"
+        },
+        {
+          "type": "heading",
+          "text": "tan α = tan θ = ="
+        },
+        {
+          "type": "heading",
+          "text": "0 8. 4"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 3-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示, ABCD 與 EFCD 為兩塊厚度相等的均質矩形板,已知 ABCD 矩形 板的重量是 EFCD 板的兩倍,且重力方向是在座標 y 軸方向,則此複合板的重"
+        },
+        {
+          "type": "heading",
+          "text": "心與形心是否會落在同一點?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 重心 101"
+        },
+        {
+          "type": "paragraph",
+          "text": "當密度不同時重心與形心不會在同一點,唯有 均質的物體,其重心、質心、形心三者 才會合為一體。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 3-2 題型:質點的質量中心"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示三質點,在座標 (2, 2)、 (1, 2)、 (1, 1) 三處分 別放置 2 kg、 4 kg、 6 kg 的物體,則組合質心座標位"
+        },
+        {
+          "type": "heading",
+          "text": "置為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "編號 質量 (kg) x 座標 y 座標"
+        },
+        {
+          "type": "heading",
+          "text": "1 m1 = 2 x1 = 2 y1 = 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 m 2 = 4 x 2 = 1 y 2 = 2"
+        },
+        {
+          "type": "heading",
+          "text": "3 m3 = 6 x 3 = 1 y3 = 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "合計 Σ m i = m 1 + m 2 + m 3 = 12 x y ∑ m x i i 2 × 2 + 4 × 1 + 6 × 1 7"
+        },
+        {
+          "type": "heading",
+          "text": "x = = ="
+        },
+        {
+          "type": "heading",
+          "text": "∑ m i 2 + 4 + 6 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ m y i i 2 × 2 + 4 × 2 + 6 × 1 3"
+        },
+        {
+          "type": "heading",
+          "text": "y = = ="
+        },
+        {
+          "type": "heading",
+          "text": "∑ m i 2 + 4 + 6 2"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 3-2"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,三顆球位於同一平面的座標圖, A 球"
+        },
+        {
+          "type": "paragraph",
+          "text": "重量為 W, B 球重量為 2W, C 球重量為 3W,三 顆球的集合重心位在 G 點,則 C 球的座標 (X, Y)"
+        },
+        {
+          "type": "heading",
+          "text": "為何?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "102"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 1. 物體重心位置之求法是應用何種原理?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 力矩原理 (B) 正弦定理 (C) 拉密定理 (D) 虎克定理。 ( ) 2. 下列有關重心、形心與質心的描述,何者不正確? (A) 物體重心之 合力的作用線一定會通過該物體的重心 (B) 物體的質心位置可以在 該物體外部 (C) 物體的形心座標會因參考座標不同而改變 (D) 對所 有物體而言,重心、形心與質心位置會在同一點。 ( ) 3. 對於不規則的物體,求重心最方便的方法是 (A) 力矩法 (B) 稱重法 (C) 懸掛法 (D) 平衡法。 ( ) 4. 下列敘述何者為錯誤? (A) 一段直線之形心為該直線之中點 (B) 物 體的重力合力之作用線必通過形心 (C) 細圓環的形心為該圓之圓心 (D) 均質圓球之重心即為球心。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "你知道特技表演走鋼索的人為何要拿一根平衡桿嗎?"
+        },
+        {
+          "type": "heading",
+          "text": "走鋼索的特技表演,是利用手上所拿很長"
+        },
+        {
+          "type": "heading",
+          "text": "且有一定重量的平衡桿來控制整體的重心,因"
+        },
+        {
+          "type": "heading",
+          "text": "為平衡桿很長且重,所以平衡桿只要做小幅度"
+        },
+        {
+          "type": "heading",
+          "text": "的移動,就能將整體的重心控制在鋼索上,較"
+        },
+        {
+          "type": "heading",
+          "text": "不容易傾斜,表演者可以利用長桿讓身體保持"
+        },
+        {
+          "type": "paragraph",
+          "text": "平衡,一直走完鋼索為止。但遇到強風時是非"
+        },
+        {
+          "type": "heading",
+          "text": "常危險的狀況,重心因強風使桿子、人和鋼索"
+        },
+        {
+          "type": "paragraph",
+          "text": "移動造成重心改變和危險。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 特技表演高空走鋼索"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 重心 103"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "你知道平衡鳥的秘密嗎?"
+        },
+        {
+          "type": "paragraph",
+          "text": "兒時童玩平衡鳥搖晃不倒,卻能夠保持平衡,其主要關鍵原 因是整隻平衡鳥的重心位置設計在鳥嘴的下方 ( 支承點的正 下方 ),因為重心位置愈低愈能維持平衡,且讓平衡鳥的大 部分體積,看起來都在支承點的上方。因此,稍微推一下平 衡鳥,它的重心在軸線位置不會改變,所以處於穩定平衡的 狀態。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 平衡鳥"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "3-2 線的形心之求法"
+        },
+        {
+          "type": "paragraph",
+          "text": "一均勻直線的形心在中點,一圓形的形心在圓心中點,表 3-1 為各種線段之形心。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-1 各種線段之形心"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 圖形 形心位置 線段長度"
+        },
+        {
+          "type": "heading",
+          "text": "直線 直線之形心中點 L"
+        },
+        {
+          "type": "heading",
+          "text": "r sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "x = ( 公式 3-1)"
+        },
+        {
+          "type": "heading",
+          "text": "θ"
+        },
+        {
+          "type": "heading",
+          "text": "圓弧線 L = 2( r θ )"
+        },
+        {
+          "type": "heading",
+          "text": "q:圓心角之半 ( 以弧度表示 )"
+        },
+        {
+          "type": "heading",
+          "text": "x: 形心到圓心之距離"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "104"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-1 各種線段之形心 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 圖形 形心位置 線段長度"
+        },
+        {
+          "type": "heading",
+          "text": "半圓圓心角 180 °"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "q 用 90 ° = α"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 π r"
+        },
+        {
+          "type": "heading",
+          "text": "圓弧線 π L = = π r α"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 r sin θ r sin( 2 ) 2 r 2"
+        },
+        {
+          "type": "heading",
+          "text": "x = = ="
+        },
+        {
+          "type": "heading",
+          "text": "θ π π"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "( 公式 3-2)"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "圓圓心角 90 °"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "1 π"
+        },
+        {
+          "type": "heading",
+          "text": "圓 弧 線 對 稱 q 用 45 ° = α"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 2 π r 1"
+        },
+        {
+          "type": "heading",
+          "text": "L = = π r α"
+        },
+        {
+          "type": "heading",
+          "text": "x 軸,重心距圓 π 4 2"
+        },
+        {
+          "type": "heading",
+          "text": "r sin( )"
+        },
+        {
+          "type": "heading",
+          "text": "心 x r sin θ 4 2 2 r"
+        },
+        {
+          "type": "heading",
+          "text": "x = = ="
+        },
+        {
+          "type": "heading",
+          "text": "θ π π"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 2 r"
+        },
+        {
+          "type": "heading",
+          "text": "圓 弧 線 與 x r = α"
+        },
+        {
+          "type": "heading",
+          "text": "4 π 1"
+        },
+        {
+          "type": "heading",
+          "text": "L = π r α"
+        },
+        {
+          "type": "heading",
+          "text": "軸、 y 軸相接, 2 r 2"
+        },
+        {
+          "type": "heading",
+          "text": "x = y = α ( 公式 3-3)"
+        },
+        {
+          "type": "heading",
+          "text": "重心座標 x、 y π"
+        },
+        {
+          "type": "paragraph",
+          "text": "不規則之線段其重心求法為:先分成直線或圓弧線,再以力矩原理求出其重心。 ( 全部的長度 ) × ( x 座標 ) = ( 各線段長度 ) × ( x 座標 ) 之和 ( 全部的長度 ) × ( y 座標 ) = ( 各線段長度 ) × ( y 座標 ) 之和"
+        },
+        {
+          "type": "heading",
+          "text": "註:求重心與 x 軸之距離為求 y"
+        },
+        {
+          "type": "heading",
+          "text": "求重心與 y 軸之距離為求 x"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 重心 105"
+        },
+        {
+          "type": "heading",
+          "text": "例題 3-3 題型:組合線段的重心"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示為一均勻等直徑之鐵線彎成 ABCD 三段,"
+        },
+        {
+          "type": "heading",
+          "text": "則此鐵線之重心為何?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "先將鐵線分成三段直線 AB、 BC、 CD"
+        },
+        {
+          "type": "heading",
+          "text": "編號 線段 (cm) x 座標 y 座標"
+        },
+        {
+          "type": "paragraph",
+          "text": "AB L AB = 3 x1 = 1 5. y1 = 5 BC L BC = 5 x 2 = 5 y 2 = 3 5. CD LCD = 2 x 3 = 7 y3 = 1 合計 ∑ L i = L AB + L BC + L CD = 10 x y"
+        },
+        {
+          "type": "heading",
+          "text": "3 × 1 5. + 5 × 5 + 2 × 7"
+        },
+        {
+          "type": "heading",
+          "text": "x = = 4 35. cm"
+        },
+        {
+          "type": "heading",
+          "text": "3 + 5 + 2"
+        },
+        {
+          "type": "heading",
+          "text": "3 × 5 + 5 × 3 5. + 2 × 1"
+        },
+        {
+          "type": "heading",
+          "text": "y = = 3 45. cm"
+        },
+        {
+          "type": "heading",
+          "text": "3 + 5 + 2"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 3-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,試求折線 AOBC 之形心與 y 軸之距離為多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "106"
+        },
+        {
+          "type": "heading",
+          "text": "例題 3-4 題型:圓弧線段的重心與原點的距離"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示, 圓弧線半徑為 r 之重心與座標原點之距離為多"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "少?重心座標 (, x y ) 各為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "此題可利用一全圓減去 圓弧之作法來解"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "2 π r 2 π r 2 r 2 r"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 π r − ) ⋅ x = ( 2 π r ) × 0 − ( ) × − ( ) α ∴ x = α"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 π 3 π"
+        },
+        {
+          "type": "heading",
+          "text": "2 π r 2 π r 2 r − 2 r"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 π r − ) ⋅ y = ( 2 π r ) × 0 − ( ) × ( ) α ∴ y = α"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 π 3 π"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 r"
+        },
+        {
+          "type": "paragraph",
+          "text": "重心與圓心距離 = ( ) x + ( ) y = α"
+        },
+        {
+          "type": "heading",
+          "text": "3 π"
+        },
+        {
+          "type": "heading",
+          "text": "另解"
+        },
+        {
+          "type": "heading",
+          "text": "r sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "用公式解法:圓心角 2 q,重心距圓心 來解"
+        },
+        {
+          "type": "heading",
+          "text": "θ"
+        },
+        {
+          "type": "heading",
+          "text": "r sin θ 3 3 π 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "公式:重心距圓心 = r =, 圓為, α q 用一半即 π α 代入"
+        },
+        {
+          "type": "heading",
+          "text": "θ 4 2 4"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "r ×"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 r"
+        },
+        {
+          "type": "heading",
+          "text": "∴重心距圓心 = = α"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 π"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 3-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之半圓弧線,半徑為 1 cm,則其形心與原點"
+        },
+        {
+          "type": "heading",
+          "text": "O 之距離為多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 重心 107"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 3-5 題型:組合線段的重心 ( 座標正負 ) 如圖所示一線段,試求此線段之重心座標。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "\u001e"
+        },
+        {
+          "type": "paragraph",
+          "text": "此題可分解成一半圓弧 AB 和直線 BC、 CD 去解"
+        },
+        {
+          "type": "heading",
+          "text": "4 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ ( 3 π + 8 + 4 ) × x = 3 π × 3 + 8 6 ( + ) + 4 6 ( + 4 3 ) α"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "∴ x = 7 27. m"
+        },
+        {
+          "type": "heading",
+          "text": "2 × 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 3 π + 8 + 4 ) ⋅ y = 3 π × ( ) + 8 ( − 2 ) + 4 ( − 2 ) α"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "∴ y = − 0 28. m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 3-5"
+        },
+        {
+          "type": "heading",
+          "text": "試求組合線段如圖所示,求形心座標 x 之位置?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "108"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 r"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 圓弧線半徑為 r 與 x 軸 y 軸相接之重心為 (A) x = y = α"
+        },
+        {
+          "type": "heading",
+          "text": "4 π"
+        },
+        {
+          "type": "heading",
+          "text": "4 r 2 r 4 r"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) x = y = α (C) x = 0, y = α (D) x = 0, y = α。"
+        },
+        {
+          "type": "heading",
+          "text": "3 π π 3 π"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 一圓弧線半徑為 r,其所對之圓心角為 q (rad),則該弧線之形心到圓"
+        },
+        {
+          "type": "heading",
+          "text": "θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 r sin( )"
+        },
+        {
+          "type": "paragraph",
+          "text": "心之距離為 (A) r sin θ (B) r sin θ (C) 2r sin θ (D) 2。"
+        },
+        {
+          "type": "heading",
+          "text": "θ 2 θ θ θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 半圓弧直徑為 d 則其形心,距離圓心為"
+        },
+        {
+          "type": "heading",
+          "text": "2 d 4 d 2d d"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D) α。"
+        },
+        {
+          "type": "heading",
+          "text": "3 π 3 π π π"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 試求圓弧線之重心與圓心的距離為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "9 3"
+        },
+        {
+          "type": "heading",
+          "text": "(A) cm α"
+        },
+        {
+          "type": "heading",
+          "text": "2 π"
+        },
+        {
+          "type": "heading",
+          "text": "9 3"
+        },
+        {
+          "type": "heading",
+          "text": "(B) cm α"
+        },
+        {
+          "type": "heading",
+          "text": "3 π"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        },
+        {
+          "type": "heading",
+          "text": "(C) cm α"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) cm。 α"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 如圖所示,試求線段之重心與 x 軸距離為"
+        },
+        {
+          "type": "heading",
+          "text": "多少公分?"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "(A) cm α"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "(B) cm α"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "(C) cm"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) cm。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 重心 109"
+        },
+        {
+          "type": "heading",
+          "text": "3-3 面的形心之求法"
+        },
+        {
+          "type": "paragraph",
+          "text": "均質物體其重心與形心必在同一點,所以求面積形心時,直接以形心的位置計算即 可,一般幾何圖形之形心,如表 3-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 各種幾何面之形心與面積"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-2 各幾何圖形之形心與面積"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 圖形 形心位置 面積"
+        },
+        {
+          "type": "heading",
+          "text": "長方形 中線之交點:"
+        },
+        {
+          "type": "heading",
+          "text": "A = bh"
+        },
+        {
+          "type": "paragraph",
+          "text": "(b:寬度、 h:高度 ) x = 0, y = 0"
+        },
+        {
+          "type": "heading",
+          "text": "圓形 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓心: x = 0, y = 0 A = π r α"
+        },
+        {
+          "type": "heading",
+          "text": "( 直徑 d、半徑 r)"
+        },
+        {
+          "type": "heading",
+          "text": "三中線之交點:"
+        },
+        {
+          "type": "heading",
+          "text": "b h"
+        },
+        {
+          "type": "heading",
+          "text": "x =, y ="
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "三角形 1"
+        },
+        {
+          "type": "heading",
+          "text": "1 A = bh"
+        },
+        {
+          "type": "paragraph",
+          "text": "(b:寬度、 h:高度 ) ( 重心距底部 高,距頂點 2"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "高 )"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "q 為 圓 心 半 角 ( 以 弧 度 表"
+        },
+        {
+          "type": "heading",
+          "text": "示 )"
+        },
+        {
+          "type": "heading",
+          "text": "扇形面積 扇形形心公式: 2"
+        },
+        {
+          "type": "heading",
+          "text": "A = θ r"
+        },
+        {
+          "type": "heading",
+          "text": "(r:半徑、 q:半角 )"
+        },
+        {
+          "type": "heading",
+          "text": "2 r sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "x = ( 公式 3-4)"
+        },
+        {
+          "type": "heading",
+          "text": "3 θ"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "paragraph",
+          "text": "▼ 表 3-2 各幾何圖形之形心與面積 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 圖形 形心位置 面積"
+        },
+        {
+          "type": "heading",
+          "text": "半圓圓心角 180 °, q 用 90 °"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "即 θ = α"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "半圓形 r sin π A = π r α"
+        },
+        {
+          "type": "heading",
+          "text": "2 4 r 2"
+        },
+        {
+          "type": "heading",
+          "text": "x = ( 2 ) = α"
+        },
+        {
+          "type": "heading",
+          "text": "3 π 3 π"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "( 公式 3-5)"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "圓圓心角 90 °, q 用 45 °"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "即 θ ="
+        },
+        {
+          "type": "heading",
+          "text": "1 4 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "圓重心距圓心 x A = π r α"
+        },
+        {
+          "type": "heading",
+          "text": "4 π 4"
+        },
+        {
+          "type": "heading",
+          "text": "r sin"
+        },
+        {
+          "type": "heading",
+          "text": "2 4 2"
+        },
+        {
+          "type": "heading",
+          "text": "x = ( 4 ) = r α"
+        },
+        {
+          "type": "heading",
+          "text": "3 π 3 π"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "圓重心對稱 45 ° 線"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "圓與 x 軸、 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 2 r 4 r A = π r α"
+        },
+        {
+          "type": "heading",
+          "text": ",∴ 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "y 軸相接 r = 3 π α x = y = 3 π α"
+        },
+        {
+          "type": "heading",
+          "text": "( 公式 3-6)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 複合面之形心求法"
+        },
+        {
+          "type": "paragraph",
+          "text": "複合面形心之求法,先將面積分為數個簡單形狀之面積,求出各面積之形心, 再依力矩原理求出複合面之形心。 ( 全部的面積 ) × ( x 座標 ) = ( 各塊面積 ) × (x 座標 ) 之和 ( 全部的面積 ) × ( y 座標 ) = ( 各塊面積 ) × (y 座標 ) 之和"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 重心 111"
+        },
+        {
+          "type": "heading",
+          "text": "例題 3-6 題型:組合面積的重心 ( 加法 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 a + b h )"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,試證明梯形重心距底部 y ="
+        },
+        {
+          "type": "heading",
+          "text": "3 ( a + b )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "先把梯形分解成長方形與三角形"
+        },
+        {
+          "type": "paragraph",
+          "text": " ( b − a h )  h ( b − a h ) h"
+        },
+        {
+          "type": "heading",
+          "text": "ah + × y = ah × + ×"
+        },
+        {
+          "type": "heading",
+          "text": " "
+        },
+        {
+          "type": "heading",
+          "text": " 2  2 2 3"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 ah + ( b − a h ) ah ( b − a h )"
+        },
+        {
+          "type": "heading",
+          "text": "× y = +"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 6"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( a + b h ) ( 2 a + b h )"
+        },
+        {
+          "type": "heading",
+          "text": "× y ="
+        },
+        {
+          "type": "heading",
+          "text": "2 6"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 a + b h )"
+        },
+        {
+          "type": "heading",
+          "text": "6 ( 2 a + b h )"
+        },
+        {
+          "type": "heading",
+          "text": "y = ="
+        },
+        {
+          "type": "heading",
+          "text": "( a + b h ) 3 ( a + b )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 3-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "正三角形邊長為 a,重心距頂點和底邊各為多少 a?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "112"
+        },
+        {
+          "type": "heading",
+          "text": "例題 3-7 題型:組合面積的重心 ( 減法 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,邊長 12 cm,則此斜線部分重心座標 (, x y ),則 x =?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "此圖形先分解成一正方形減去三角形"
+        },
+        {
+          "type": "heading",
+          "text": "對稱於 x 軸, y = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 144 − 36 ) × x = 144 × 0 − 36 × 4"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "∴ x = − cm"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 3-7"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,此圖形面積部分之重心座標為多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 重心 113"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 每塊均為正方形且相同之羅馬磁磚鋪成如圖,"
+        },
+        {
+          "type": "heading",
+          "text": "每塊邊長 d,則其形心座標應為"
+        },
+        {
+          "type": "heading",
+          "text": "5 7 5 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) ( d, d ) (B) ( d, d )"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "3 5 7 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) ( d, d ) (D) ( d, d )。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 半徑 r 的圓盤,由材料 1 和材料 2 兩個半圓所組成。若材料 1 之密度 恰為材料 2 之兩倍,則此圓盤之質心至圓心之距離應為"
+        },
+        {
+          "type": "heading",
+          "text": "2 r 8 r r 4 r"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D) α。"
+        },
+        {
+          "type": "heading",
+          "text": "3 π 3 π π 9 π"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 如圖所示,將邊長為 36 公分的均勻正方形"
+        },
+        {
+          "type": "heading",
+          "text": "紙張兩個角向內對折壓平,使兩角頂恰與"
+        },
+        {
+          "type": "heading",
+          "text": "方形紙張中心重合,則此動作會使重心移"
+        },
+        {
+          "type": "heading",
+          "text": "動多少距離?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 1 (B) 1.5 (C) 2 (D) 3 公分。 ( ) 4. 如圖所示,其梯形面積之形心 (xc, yc) 座標"
+        },
+        {
+          "type": "heading",
+          "text": "位置,下列選項何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) xc = 3.2 cm, yc = 2.2 cm (B) xc = 3.4 cm, yc = 2.4 cm (C) xc = 3.6 cm, yc = 2.6 cm (D) xc = 3.8 cm, yc = 2.8 cm。 ( ) 5. 如圖所示,面積形心的 y 座標值應為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "4 r 2 r r r"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D)。 α"
+        },
+        {
+          "type": "heading",
+          "text": "21 π 11 π 7 π 5 π"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-1 1. 重心:物體由多數小質點集合而成,物體的重量等於這些小質點之平行力的合 成, 重力的合力之作用線必定通過該點,則此點即稱為重心。在有重力場處, 重心位置是固定的。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 不規則物體的重心,可以利用 懸掛法 求得。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 形心:物體 幾何形狀的中心,稱為形心。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 質量中心:一物體各部分的 質量集中於一點來代替全部質量,此點即為質量中"
+        },
+        {
+          "type": "paragraph",
+          "text": "心,簡稱質心。在地球上重心與質心同一點。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 當物體為 均質,又有相同密度時,重心、形心、質心三點在地表上會落在同一"
+        },
+        {
+          "type": "paragraph",
+          "text": "位置。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 重心的代數法求法,可依據 力矩原理 求得。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 物體 對於某直線之力矩代數和為零 時,此直線必通過物體之重心。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 物體之重心位置是 固定的,不會因物體位置的變更而改變,且 重心不一定在物"
+        },
+        {
+          "type": "paragraph",
+          "text": "體之內部。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 對稱物體的重心,在物體的對稱軸 上。"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-2 10. 一直線之重心在直線的 中點 上。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 一圓周或一橢圓的重心在 圓心 上。"
+        },
+        {
+          "type": "heading",
+          "text": "r sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "12. 圓弧線 的重心在圓心角的角平分線上,其重心位置距圓心距離 x =。"
+        },
+        {
+          "type": "heading",
+          "text": "θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 r"
+        },
+        {
+          "type": "heading",
+          "text": "13. 半圓弧線:形心到圓心之距離 x =。 α"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 r"
+        },
+        {
+          "type": "heading",
+          "text": "14. 圓弧線:形心到直徑之距離 x = y =。 α"
+        },
+        {
+          "type": "heading",
+          "text": "4 π"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-3 15. 長方形、圓形、正方形 等,其重心位置在 兩對角線之交點 即為中心之位置。"
+        },
+        {
+          "type": "heading",
+          "text": "16. 三角形的重心,在 三中線的交點 上,此重心之位置 距離底邊,為高 h 的三分之"
+        },
+        {
+          "type": "paragraph",
+          "text": "一,距頂點之距離為高之三分之二,如圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "114"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "17. 扇 形 面 積 之 重 心: 扇 形 面 積 之 重 心, 在 其 角 平 分 線 上, 距 圓 心 之 距 離"
+        },
+        {
+          "type": "heading",
+          "text": "2 r sin θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "x = ⋅。"
+        },
+        {
+          "type": "heading",
+          "text": "3 θ"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 a + b h )"
+        },
+        {
+          "type": "heading",
+          "text": "18. 梯形 面積之重心: y =,如圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3 ( a + b )"
+        },
+        {
+          "type": "heading",
+          "text": "19. 各種 線型、 幾何面積 的重心位置"
+        },
+        {
+          "type": "heading",
+          "text": "線 面"
+        },
+        {
+          "type": "heading",
+          "text": "圓"
+        },
+        {
+          "type": "heading",
+          "text": "圓弧"
+        },
+        {
+          "type": "heading",
+          "text": "半圓"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "圓重心"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "與 圓 心 距"
+        },
+        {
+          "type": "heading",
+          "text": "離 x"
+        },
+        {
+          "type": "heading",
+          "text": "115"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "線 面"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "圓與 x"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "軸、y 軸"
+        },
+        {
+          "type": "heading",
+          "text": "相接"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "你知道跳高的記錄在不斷提高的秘密嗎?"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 向俊賢世錦賽跳高資格賽 ( 圖由 Getty Images for IAAF 提供 ) 我們都知道世界的跳高記錄在不斷地刷新,是不是現代人的彈跳力比古代人更好了呢? 科學家通過大量的實驗發現,人的彈跳力都相差不多,大約在 1 公尺左右,即使優秀的跳高運動 員也高不了多少。人體的整個重量可以認為集中在重心上,所以彈跳力只決定重心升高的高度,如果 站立時重心距地面 1 公尺高,彈跳高度是 1 公尺,在你跳起來時重心升起的高度就是 2 公尺。 但是跳高的規則是要求人體通過橫桿,而不一定是重心,如果我說許多跳高選手都是從橫桿底下 “鑽”過去的,你一定認為這個說法十分稀奇。當然,我這句話只說了一半,應該更準確的說, 跳高 運動員的重心是從橫桿的下面鑽過去的,而不是人從下面鑽過去的。 這就是跳高的記錄在不斷提高的秘密。 跳高有許多姿勢:跨躍式、滾式、背躍式等,目前優秀的運動員都採用背躍式,沒有人再用跨躍式, 這是為什麼?原來。在過桿時,重心越低,跳高的成績就會越好,當你正確地使用背躍式過桿的時候, 重心會低於身體 300 毫米左右。一個身高為 2 公尺的人,彈起 1 公尺,他的重心高度可以達到 2 公尺, 這時他就能躍過 2.30 公尺的橫桿,而他要是使用跨躍式,連 2 公尺的橫桿都過不去。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "116"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-1 ( ) 1. 凡物體乃由多數小分子集合而成,故物體之重量為地心引力作用於此等"
+        },
+        {
+          "type": "heading",
+          "text": "小分子之平行力之合成,此合力之作用點即為物體之"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 質心 (B) 形心 (C) 重心 (D) 中心。 ( ) 2. 當物體之重量對於某直線之力矩代數和為零時,則該直線必通過物體的 何處 (A) 重心 (B) 內部 (C) 座標原點 (D) 外部。 ( ) 3. 下列敘述何者 不正確? (A) 物體之重心必在物體內部 (B) 物體對稱於 x 軸時, y = 0 (C) 經過重心之直線,稱為重心軸 (D) 一物體之重心, 必為兩重心軸的交點。 ( ) 4. 設 三 質 點 之 質 量 m 1、 m 2、 m 3 分 別 為 3 kg、 1 kg、 2 kg,試求此三質點組合質"
+        },
+        {
+          "type": "heading",
+          "text": "心座標為多少"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (0.5, 3.5) (B) (3.5, 0.5) (C) (1, 2.5) (D) (2.5, 1)。 3-2 ( ) 5. 如圖所示之圓弧線,半徑為 r,則此圓弧線之重心 x 為"
+        },
+        {
+          "type": "heading",
+          "text": "2r 2 2r 2r r"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D) α。"
+        },
+        {
+          "type": "heading",
+          "text": "π π π π"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 有一均質圓形截面的細鐵線,彎曲成半徑 2 cm 的半圓"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 3 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "弧形,其形心距圓心多少公分? (A) α (B) α (C) α (D)。 α"
+        },
+        {
+          "type": "heading",
+          "text": "π π π π"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 一鋼絲圍成半徑 r 之封閉半圓形,求重心與 x 軸距離為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "2r 4 r 2 r"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 0 (B) α (C) α (D)。 α"
+        },
+        {
+          "type": "heading",
+          "text": "π 3 π π + 2"
+        },
+        {
+          "type": "heading",
+          "text": "117"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 8. 如圖所示,一均勻直角線段被懸掛在 B 點, AB = 2 cm , BC = 4 cm,當平衡時, AB 與鉛直方向成 q 角,則"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "tan q = (A) 4 (B) (C) 2 (D) 3。"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 9. 如圖所示, 圓弧之重心與座標原點之距離為"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "2 r 2 2 r 3 2 r 2 r"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D)。 α"
+        },
+        {
+          "type": "heading",
+          "text": "3 π 3 π 2 π 2 π"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-3 ( ) 10. r 為半徑,則 圓面積的重心距圓中心為"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "4 2 r 3 2 r 8 r 3 r"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) × α (B) × α (C) × α (D) ×。 α"
+        },
+        {
+          "type": "heading",
+          "text": "3 π 2 π 3 π 8 π"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 11. 如圖扇形面積重心 x"
+        },
+        {
+          "type": "heading",
+          "text": "θ θ"
+        },
+        {
+          "type": "heading",
+          "text": "4 r sin( ) r sin( )"
+        },
+        {
+          "type": "heading",
+          "text": "r sin θ 2 r sin θ 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "θ 3 θ 3 θ θ"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 12. 如圖所示之面積,已知 r = 0.25R,若要使面積形心的 y 座"
+        },
+        {
+          "type": "heading",
+          "text": "標值為 0.75h,則 h 應為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "125 R 128 R"
+        },
+        {
+          "type": "heading",
+          "text": "(A) α (B) α"
+        },
+        {
+          "type": "heading",
+          "text": "64 π 75 π"
+        },
+        {
+          "type": "heading",
+          "text": "85 R 78 R"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) α (D) α。"
+        },
+        {
+          "type": "heading",
+          "text": "64 π 75 π"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 13. 如圖所示,一半徑為 2R 之半圓,挖去右"
+        },
+        {
+          "type": "heading",
+          "text": "邊半徑為 R 之半圓補至左下方,形成如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "示之部分。其形心距離 O 點之座標 (, x y )"
+        },
+        {
+          "type": "heading",
+          "text": ",則 (, x y ) 為何?"
+        },
+        {
+          "type": "heading",
+          "text": "2 R 4 R"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (. 1 5 R, ) α (B) (. 1 5 R, ) α"
+        },
+        {
+          "type": "heading",
+          "text": "π 3 π"
+        },
+        {
+          "type": "heading",
+          "text": "2 R 4 R"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) (. 1 75 R, ) (D) ( R, )。 α"
+        },
+        {
+          "type": "heading",
+          "text": "3 π"
+        },
+        {
+          "type": "heading",
+          "text": "118"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 14. 如圖所示, ABCD 與 EFCD 為兩塊厚度相等的均質板塊,已知 ABCD 矩 形板的重量是 EFCD 的兩倍,其重力方向是在座標 y 軸方向,則下列關"
+        },
+        {
+          "type": "heading",
+          "text": "於此複合板的重心、形心與質心之敘述,何者 錯誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 重心、形心與質心的 x 座標相同 (B) 重心與質心在同一點 (C) 重心與形心在同一點 (D) 形心到 x 座標軸的距 離為 2a。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 15. 試求圖中面積之形心至 x 座標軸的距離約為多少 cm? ( 圖中尺寸以 cm 為單位 ) (A) 3.14 (B) 3.41 (C) 4.13 (D) 4.31。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 16. 正三角形邊長為 h,重心距頂點為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) h (B) h (C) h (D) h。"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 17. 如圖所示之圖形,其重心座標與 x 軸距離為"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 1.8"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 2.8"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 3.8"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 4.8 cm。"
+        },
+        {
+          "type": "heading",
+          "text": "119"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "二、計算題"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-1 1. 有三質點,其質量及座標如圖所示,試求其組合質心座標為何?"
+        },
+        {
+          "type": "heading",
+          "text": "2. 如圖所示的二個均質且密度相同的球體,已知大球的半徑為 2r,小球的半徑為"
+        },
+        {
+          "type": "paragraph",
+          "text": "r。大球與小球相切,則由此二球所組成的組合球體重心與大球球心之間的距"
+        },
+        {
+          "type": "heading",
+          "text": "離為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "3. 如圖,將底面 30 cm 均勻方塊體置於傾斜角為 37 ° 之斜面上不滑動,欲使方塊"
+        },
+        {
+          "type": "paragraph",
+          "text": "不致傾倒,則此方塊之高度 h 的最大值為多少公分?"
+        },
+        {
+          "type": "heading",
+          "text": "120"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-2 4. 如圖所示圓形線圈半徑為 r,是由二段均質但材質不同之半圓弧線所組成,若 左半圓弧線 A 之重量為右半圓弧線 B 之三倍,求此組合圓形線圈之重心座標"
+        },
+        {
+          "type": "heading",
+          "text": "為何?"
+        },
+        {
+          "type": "heading",
+          "text": "5. 一 均 質 細 鐵 線 彎 折 成 直 角 三 角 形 如 圖 所 示, 若 此 鐵 線 之 形 心 座 標 位 置 為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(X c, Y c ),則 X c 為多少 cm?"
+        },
+        {
+          "type": "heading",
+          "text": "6. 由均質細鐵線製作而成的中文 “ 甲 ” 字如圖所示,該組合線段的形心至 x 軸"
+        },
+        {
+          "type": "heading",
+          "text": "的距離為多少 cm?"
+        },
+        {
+          "type": "heading",
+          "text": "121"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-3 7. 如圖所示,兩塊邊長分別為 4 cm、 2 cm 之正方形均質且厚度相同之物體,當"
+        },
+        {
+          "type": "heading",
+          "text": "達平衡時 tan q 值為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "8. 如圖所示,若此面積之重心在 y 軸上,則 b 應為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "三、素養題"
+        },
+        {
+          "type": "paragraph",
+          "text": "小杉 是班上的資優生,老師希望他可以帶領班上同學一起提升立體觀念,因此 出了如圖 (a) 所示之等角立體圖 ( 單位: mm),請他教同學們繪出其三視圖 ( 採第三 角法 )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 (a)"
+        },
+        {
+          "type": "heading",
+          "text": "122"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "1. 試求其前視圖如圖 (b) 所示的輪廓面積之重心距離左下角的座標位置。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 (b)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 試求其上視圖如圖 (c) 所示的輪廓面積之重心距離左下角的座標位置。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 (c)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 試求其右視圖如圖 (d) 所示的輪廓面積之重心距離左下角的座標位置。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 (d)"
+        },
+        {
+          "type": "heading",
+          "text": "123"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch03/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "筆記頁 NOTE"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

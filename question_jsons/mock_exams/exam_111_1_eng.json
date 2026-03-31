@@ -1,0 +1,517 @@
+{
+  "bundle_id": "MOCK_111_1_ENG",
+  "questions": [
+    {
+      "id": "MOCK_111_1_ENG_001",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "To beautify the city, the mayor made a decision to outdoor recycling bins on the streets.",
+      "image_url": "",
+      "options": [
+        "export",
+        "attend",
+        "discover",
+        "remove"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "plant; planet 詞有多處失當之處。 評閱指標 1 無法表達原文題意,文法、標點、用字遣詞僅 級分 說明 有少數正確之處。 4 2 個空格皆正確。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 2 僅 1 個空格正確。 0 (3) 只抄題目或其他試題。 0 2 個空格皆錯誤。 (4) 內容完全離題或錯誤。 II. 句子重組"
+    },
+    {
+      "id": "MOCK_111_1_ENG_002",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "The natural spray can be used to clean and disinfect the keyboard without any harm.",
+      "image_url": "",
+      "options": [
+        "loudly",
+        "gently",
+        "suddenly",
+        "sourly"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "as if it / and cherish every day / were your last / to the fullest / Live your life 解答: Live your life to the fullest and cherish every day"
+    },
+    {
+      "id": "MOCK_111_1_ENG_003",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "With love, May approached her aging mother and away the hair from her eyes.",
+      "image_url": "",
+      "options": [
+        "brushes",
+        "counts",
+        "pulls",
+        "notices"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "懷著愛,梅走近她年邁的母親, 她眼睛上的 (D) 你會去哪裡? 頭髮。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_004",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "The discussions were considered and constructive, but much work remains to be done.",
+      "image_url": "",
+      "options": [
+        "doubtful",
+        "painful",
+        "shameful",
+        "fruitful"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "所有申請者必須在 5 月 31 日前,即課程開始前一個 經常洗手。 月, 將 填 妥 的 申 請 表 ( 見 附 件 ), 提 交 至 為了避免焦慮,每天觀看或閱讀約 30 分鐘 innonative@nyu.edu 。 他 們 還 需 要 通 過 Visa 或 流行病新聞進而了解當前情況。 Mastercard 支付 150 美元的申請手續費。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_005",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "For many college students, it is hard to imagine life without social services.",
+      "image_url": "",
+      "options": [
+        "ceremony",
+        "progress",
+        "ambition",
+        "network"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "錄取通知書將於 6 月 5 日確認錄取後發送至您學校 為了提高免疫力,吃得健康,睡得好,多 的系上。 運動,努力減壓。 如果您有任何進一步的問題,請隨時打電話給我或透過 為了獲得醫療保健,與您的社區、朋友和 此電子郵件地址與我聯繫。 家人保持聯繫。 為了保有積極的心態,彼此努力奮鬥,同 真摯地, 心協力戰勝疾病。 李羅莎博士 電話: 212-998-4433"
+    },
+    {
+      "id": "MOCK_111_1_ENG_006",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "The paid internship jobs are open to students, recent graduates, and those early in their.",
+      "image_url": "",
+      "options": [
+        "tubes",
+        "vacations",
+        "careers",
+        "freezers"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "帶薪實習工作開放給學生、應屆畢業生及剛進入 (D) 舉辦拍賣會不容易啊! 的人。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_007",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "We have to be careful for any signs of a global pandemic and control its spread.",
+      "image_url": "",
+      "options": [
+        "visible",
+        "fancy",
+        "urban",
+        "ancient"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "我們必須小心面對全球流行病任何之 跡象 員工: 並控制其傳播。 顧客:我們要訂本周日晚上。 (A) 可見的 (B) 花俏的 (C) 都市的 (D) 古老的 (A) 我還不確定。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_008",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "A product can help customers learn more about the product like the color, size, etc.",
+      "image_url": "",
+      "options": [
+        "screen",
+        "gum",
+        "tag",
+        "bowl"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "產品 可以幫助顧客更了解產品,包括顏色、 (B) 請給我您的名字。 尺寸等。 (C) 您哪晚來呢? (A) 屏,幕 (B) 口香糖 (C) 標籤 (D) 碗 (D) 到時我們什麼都沒有。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_009",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "To be honest, we were somewhat surprised by the change of the euro against the dollar in the decades.",
+      "image_url": "",
+      "options": [
+        "out of the blue",
+        "on the increase",
+        "from time to time",
+        "to some degree"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "老實說,幾十年來歐元兌美元的變化讓我們有些吃"
+    },
+    {
+      "id": "MOCK_111_1_ENG_010",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "The Bilingual 2030 policy has pushed schools to develop English education faster than ever before.",
+      "image_url": "",
+      "options": [
+        "grow",
+        "require",
+        "practice",
+        "concern II. 對話題 說明:第 11 至 20 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "2030 年雙語政策已經推動學校以前所未有的速度發 接待員:那邊請坐,他應該很快就會見你。 展英語教育。 (A) 不要拖延。 (A) 增長 (B) 要求 (C) 練習 (D) 使擔憂 (B) 你介意等會嗎? (C) 他必須加班。 II. 對話題 (D) 我們去瞧瞧。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_011",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Sue: My kid keeps asking me the same question. Is it normal? Lee: Asking questions is not bad. Sue: But the question she asks is, “Mirror, mirror on the wall, who’s the fairest in the world?” Lee: Ha, interesting! Perhaps she reads too much Snow White.",
+      "image_url": "",
+      "options": [
+        "May I start now?",
+        "Just be patient.",
+        "What a pity!",
+        "She deserves it."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "蘇:我的孩子不斷地問我同樣的問題。這正常嗎?"
+    },
+    {
+      "id": "MOCK_111_1_ENG_012",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Lily: What is the first thing you would do after the pandemic? Eric: The first thing I would do? Hmm, I think I would travel everywhere. Lily: Eric: Quebec in eastern Canada, I guess. I want to see the ice hotel there.",
+      "image_url": "",
+      "options": [
+        "Why do you go there?",
+        "I’ve never been there.",
+        "Maybe we can go there together.",
+        "Where would you go?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "莉莉:疫情過後,你想做的第一件事是什麼? I. 字彙題 埃里克: 我要做的第一件事?嗯, 我想我會到處旅行。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_013",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Sandra: I’m going to have a garage sale this weekend. Alice: Yeah, you need to get rid of a lot of old stuff. Sandra: I know, but Alice: I’ve got an idea. How about posting the message online to attract more people?",
+      "image_url": "",
+      "options": [
+        "why hold it?",
+        "expect to see it?",
+        "no bargain in stores.",
+        "holding one is not easy!"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "桑德拉:這個週末我要辦個車庫拍賣會。 (A) 拂去,刷 (B) 計算 (C) 拉 (D) 通知 愛麗絲:是啊,你需要除去很多舊東西。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_014",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Staff: Hello, this is Excel Restaurant. Customer: Hi, I’d like to make a dinner reservation for four people. Staff: Customer: We’ll need the reservation for this Sunday night.",
+      "image_url": "",
+      "options": [
+        "I’m not sure yet.",
+        "Please give me your name.",
+        "What night will you be coming?",
+        "We don’t have anything available then."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "員工:您好,這裡是優質餐廳。 (A) 管,筒 (B) 假期 (C) 職場,職業 (D) 冰櫃 顧客:您好,我想預訂四人的晚餐。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_015",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Client: Good morning. Is Mr. Wible Kolb in? Receptionist: Yes, but he is busy on the phone. It shouldn’t be long. Client: Oh, good. I’ll wait. Receptionist: Just take a seat over there, please. He should see you shortly.",
+      "image_url": "",
+      "options": [
+        "Don’t drag it out.",
+        "Do you mind waiting?",
+        "He has to work overtime.",
+        "Let’s go and see."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "客戶:您早。維布爾科爾布先生在嗎? 驚。 接待員:在,但他正在講電話。 應 (A) 出乎意料 (B) 增加 該不會太久。 (C) 不時地 (D) 在某種程度上 客戶:哦,好。我等一下。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_016",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Vincent: Is something wrong? Are you hurt? Linda: Yeah, actually, I hurt my shoulder two days ago. Vincent: An injured shoulder? Hey, you shouldn’t be playing ball. Linda: I’ll be as good as new in no time.",
+      "image_url": "",
+      "options": [
+        "How can I recover?",
+        "Please accept my apology.",
+        "It doesn’t matter.",
+        "My head is killing me."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "文森:怎麼了?你受傷了嗎? 李:提問不錯呀。 琳達:是啊,實際上,兩天前我的肩膀受傷了。 蘇:但她問的問題是, 「魔鏡,牆上的魔鏡,誰是世 文森:肩膀受傷了?嘿,你不應該打球。 界上最美麗的人?」 琳達: 我很快就會復原了。 李:哈,有趣!也許她讀太多《白雪公主》 。 (A) 我該如何恢復? (A) 我現在可以開始了嗎? (B) 請接受我的道歉。 (B) 只是要有耐心。 (C) 沒關係。 (C) 可惜了! 111-1 共同科目 英文 詳解 (D) 我的頭快要痛死了。 (C) 既不......也不"
+    },
+    {
+      "id": "MOCK_111_1_ENG_017",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Jane: Wow, Chris, you got me a puppy. Chris: You said you’ve wanted one, but couldn’t make up your mind. Jane: Then, Chris: Anytime, happy birthday, honey.",
+      "image_url": "",
+      "options": [
+        "what do you think?",
+        "we have to give it a name.",
+        "thank you!",
+        "who is going to walk it?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "珍:哇,克里斯,你送我一隻小狗耶。 (D) 如此......以致於 克里斯:你說你想要一隻,但都不能下定決心。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_018",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Betty: John, you are a pretty good ping-pong player, aren’t you? John: Betty: There’s a match in our community and I need a partner. John: Ha, I think you’ve come to the right place.",
+      "image_url": "",
+      "options": [
+        "Why ask?",
+        "I love the great challenge.",
+        "So sorry to hear it.",
+        "Are you kidding me?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "貝蒂:約翰,你是相當厲害的乒乓球選手,對吧? Question 26-30 約翰: 旅遊業是世界上發展最快的產業之一,它也是大多 貝蒂:我們社區有場比賽,我需要一位搭檔。 數國家的主要收入來源, (26) 儘管在當前情況下可能並非 約翰:哈,我想你找對地方了。 如此。即便如此,根據世界觀光旅遊委員會,它仍然遠 (A) 為什麼這麼問? 遠領先於像醫療設備和技術等 (27) 其他重要行業。在 21 (B) 我愛這巨大的挑戰。 世紀,大眾旅遊是主要的旅行方式,但它給許多人去的 (C) 很遺憾聽到這消息。 遊覽 (28) 景點帶來了風險。環境過度破壞與當地居民的經 (D) 你在開玩笑嗎? 濟痛苦的這些不利影響,使得這些旅遊景點不再獨特和"
+    },
+    {
+      "id": "MOCK_111_1_ENG_019",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Eileen: Nick, there is a party at Morrie’s apartment tomorrow. Nick: Sounds good, but Eileen: That’s fine. Since you’re my friend, we can go together. So, come by my place tomorrow night at 7. Nick: Seven? Okay, I’ll see you then.",
+      "image_url": "",
+      "options": [
+        "it’s better late than never.",
+        "it’s really getting late.",
+        "I don’t even really know him.",
+        "I’m just going to invite Morrie."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "艾琳:尼克,明天莫里的公寓裡有個派對。 值得 (29) 遊覽。因此,旅遊目的地監督中心的創始主任喬 尼克:聽起來不錯,但是 納森‧圖爾泰洛 (Jonathan Tourtellot) 引領了一項保護和維 艾琳:沒關係。因為你是我的朋友,我們可以一起去, 護這些地方的任務─他介紹了「地理旅遊」方法,這是 所以明晚七點到我家來。 他為解決此問題 (30) 提出來的一個專門名詞。但願,地理 尼克:七點?好的,到時見。 旅遊可以用來幫助當地人及其地方的環境、文化和福祉。 (A) 晚做總比沒做好。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_020",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Dave: I can’t believe my teacher gave the class a surprise test today! Ann: It sounds like your teacher did something really wrong. Dave: Exactly! A surprise is bad. Ann:",
+      "image_url": "",
+      "options": [
+        "What kind of friend are you to say that?",
+        "I’m just trying to be fair to you.",
+        "I should study every night myself.",
+        "Is it bad because you weren’t prepared? III. 綜合測驗 說明:以下兩篇短文,共有 10 個空格,為第 21 至 30 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 21-25 題,請依短文文意,選出一個最適合該空格的答案。 As we continue to fight against COVID-19, healthcare providers (also defined as doctors of medicine) play an important role in our lives. They 21 offer a cure for patients 21 prevent unnecessary injuries. They take care of almost everything in one’s health. Most importantly, they help reduce the impact of the disease outbreaks at every opportunity. But how much do we know about the history of medicine? Probably not much. The only thing we know is that it is the outcome of many people’s knowledge and efforts. Indeed, 22 the pioneers of medicine, societies have changed the way healthcare providers deal with disease from ancient times to the present. Al-Zahrawi, a medical pioneer in Arab, 23, brought all his knowledge together in 30 books. The topics of the books moved on from basic ideas to complex ones, 24 food and health, skin diseases, and poisons. Dr. Atala, another medical pioneer at North Carolina’s Wake Forest Institute, 25 replacement tissues and organs, from kidneys to ears, since 1999. There are many other examples. Therefore, while we are battling for our health, do not forget to pay respects to healthcare providers as well as these pioneers."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "戴夫:我不敢相信我老師今天給全班一個突襲考試! 要連接詞,文中又少名詞 sites,因此需用關係代名詞 安:聽起來你的老師做錯了什麼。 which 或 that,故答案為 (A) 戴夫:沒錯!令人驚訝的事是不好的。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_021",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "What was the least used way to stop Greenhill Elementary School students from visiting inappropriate websites in 2020?",
+      "image_url": "",
+      "options": [
+        "The parent-children agreement.",
+        "The computer software.",
+        "The students’ honor code.",
+        "The students’ limited time online."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：111-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_1_ENG_022",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Which of the following ways of blocking students from inappropriate websites did not change much between 2010 and 2020?",
+      "image_url": "",
+      "options": [
+        "The teachers’ supervision.",
+        "The parents-children agreement.",
+        "Network monitoring tools.",
+        "Limited time of using the Internet. ▲ 閱讀下文,回答第 33-34 題 Self-prevention from COVID-19 In addition to COVID-19 vaccines, the government offers its people other effective ways to prevent epidemics. The following are some tips about self-protection for ordinary people. To stay safe, wear a mask at all times in public and wash hands often. To avoid anxiety, watch or read pandemic news to understand the current situation for around 30 minutes a day. To improve your immunity, eat healthy, sleep well, exercise more, and work on stress reduction. To get health care, keep in touch with your community, friends, and family. To keep a positive attitude, make efforts and work together with one another to beat the disease."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "2010 和 2020 年間,以下阻止學生進入不當網站方式 興趣。目前,我們正在更新我們的網站,因此暫時無法 沒有太大變化的方法為何? 提供網上資訊。這就是為什麼您在 5 月 28 日無法瀏覽 (A) 教師的監督。 我們網頁的原因。 (B) 父母孩子的協議。 (C) 網路監控工具。 除了最近成績單和英語能力證書,以下是您申請該課程 (D) 有限的上線時間。 需要滿足的必要條件。 Question 33-34"
+    },
+    {
+      "id": "MOCK_111_1_ENG_023",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "According to the infographic above, which of the following is NOT the way to stay healthy?",
+      "image_url": "",
+      "options": [
+        "Having a balanced diet.",
+        "Having enough sleep.",
+        "Taking exercise more.",
+        "Meeting friends in person."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據上面信息圖,以下哪一項不是保持健康的方法? 電子郵件: rosalee@nyu.edu (A) 飲食均衡。 紐約大學教育系 (B) 充足的睡眠。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_024",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "According to the infographic above, which of the following statements is suggested?",
+      "image_url": "",
+      "options": [
+        "Getting COVID-19 vaccines often.",
+        "Reading pandemic news every day.",
+        "Making more friends online.",
+        "Following whatever the news website says. ▲ 閱讀下文,回答第 35-37 題 Read the following emails and answer the questions. Dear Ms. Rosa Lee, Two days ago, my friend at college sent me a message about an innovative program. He said that in this program, your school is going to offer a series of courses taught by a group of distinguished professors who have achieved international fame in their fields. After receiving the message that day, I tried to search for more information on your department’s website, but in vain. Then, I got into contact with your department by phone. The secretary gave me your email address. Since I’m really into this program, it would be a great benefit to me if you could forward information regarding the requirements. I am looking forward to receiving the detailed information. Thank you. Alan Wang Dear Mr. Wang, th st Thank you so much for your interest in the innovative program from June 30 to September 1. Currently, we are renewing our website, so information online will be temporarily unavailable. That is th why you were not able to browse our web page on May 28. In addition to the latest report card and a certificate of English proficiency, the following are requirements you need to meet to apply for this program."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據上面信息圖,下列哪一項陳述是被建議的? 說明:第一封郵件說他收到訊息,當日即搜尋網頁, (A) 經常接種新冠肺炎疫苗。 而第 2 封郵件說 5 月 28 日無法瀏覽主頁 。 故答案為 (B) (B) 每天閱讀流行疾病新聞。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_025",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "When did Alan’s friend send him the message about the innovative program? th th",
+      "image_url": "",
+      "options": [
+        "May 26",
+        "May 28 st th",
+        "May 31",
+        "June 5"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "艾倫的朋友什麼時候寄給他關於創新計畫的消息? (C) 多運動。 (A) 5 月 26 日 (B) 5 月 28 日 (D) 親自會見朋友。 (C) 5 月 31 日 (D) 6 月 5 日"
+    },
+    {
+      "id": "MOCK_111_1_ENG_026",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Which of the following documents is NOT necessary for students to apply for the program?",
+      "image_url": "",
+      "options": [
+        "A record of the applicant’s academic achievement.",
+        "Evidence of the English language level.",
+        "An application form with an application fee.",
+        "The applicant’s latest financial statement."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "以下哪些文件不是學生申請該課程所必需的? (C) 在網上結交更多朋友。 (A) 申請人的學業成績記錄。 (D) 遵循新聞網站所說的一切。 Question 35-37 (B) 英語語言程度證明。 閱讀以下電子郵件並回答問題。 (C) 附有申請費的申請表。 親愛的李羅莎女士, (D) 申請人最新的財務報表。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_027",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Which of the following statements is TRUE?",
+      "image_url": "",
+      "options": [
+        "Alan searched online, telephoned, and wrote an email to know the program better.",
+        "Students who are recommended by their professors can be all admitted to the program.",
+        "The innovative program offered by New York University will start next semester.",
+        "15 students from each partner university can apply for the program free of charge. ▲ 閱讀下文,回答第 38-42 題 Do animals have a sixth sense? Can it be used to detect a natural disaster about to strike? For scientists, the answer is positive. In 2011, a research team used motion-triggered cameras to observe the wildlife in Yanachaga National Park, the Amazon rainforest in Peru. Just in a few days prior to a 7.0 magnitude earthquake in the Peruvian Andes, the team noted the number of wild animals had decreased and eventually disappeared. Likewise, a team of US scientists attached geolocators, lightweight tracking devices, to golden-winged warblers. They found that these warblers flew away from the Cumberland Mountains of eastern Tennessee, their habitats, to Florida or even Cuba, but several days later they flew back. According to the scientists, it was deadly storms that made these warblers fly more than 900 miles. In fact, there are numerous cases of how animals, such as dogs, sharks, and elephants, behave abnormally right before a natural disaster. Scientists are hence puzzled over animals’ unusual behavior. Dr. Rachel Grant, an animal biologist at Anglia Ruskin University, said that natural disasters like earthquakes produce a force that hits the Earth’s surface, creating an atmospheric change that causes a sense of unease. Other scientists explained that it is low-frequency sounds and vibrations that allow animals to sense upcoming danger. Basically, animals can flee away from the danger they sense to favor their survival success, and humans can interpret why animals move away from the unpleasant “stimuli.” However, humans are still unable to use animals as monitoring systems effectively to protect our lives and property in time from natural disasters."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "以下哪項敘述是正確的? 兩天前,我大學朋友發給我一條關於創新計畫的訊息。 (A) 艾倫上網搜索、打電話、寫電子郵件來更了解此 他說,在此計畫中,貴校將開一系列的課程,是由一群 計畫。 在各自領域享譽國際的傑出教授所教導。當天收到消息 (B) 經教授推薦的學生都可以被錄取參與此計畫。 後,我試著到你們系上的網站上搜索更多訊息時,但沒 (C) 紐約大學提供的創新教學計畫將於下學期開始。 有成功。然後,我透過電話和貴系聯繫,秘書給我您的 (D) 每個合作大學有 15 名學生可以免費申請此計畫。 電子郵件地址。因為我很喜歡這計畫課程,所以如果您 Question 38-42 能將相關要求的訊息轉發給我,這對我是受益良多。 動物有第六感嗎?它可以用來偵測即將發生的自然 災難嗎?對於科學家來說,答案是肯定的。 2011 年,一 我期待收到詳細訊息。謝謝。 個研究小組使用運動觸發相機觀察了秘魯亞馬遜熱帶雨 林亞納查加國家公園的野生動物。就在秘魯安第斯山脈 王艾倫 發生 7.0 級地震的前幾天,團隊小組注意到野生動物的數 量已經逐漸減少,最終消失。同樣地,一美國科學家團 隊將輕型跟蹤設備的地理定位器安裝在金翅鶯身上。他 111-1 共同科目 英文 詳解 們發現這些鶯從田納西州東部坎伯蘭山脈的棲息地,飛 as if it were your last. 到佛羅里達甚至古巴,但幾天後牠們又飛回來了。據科 ( 充實過你的生活,珍惜每一天,就好像它是你的最 學家宣稱,正是致命的風暴使這些金翅鶯飛了 900 多英 後一天。 ) 里。事實上,有關如狗、鯊魚、大象等動物,就在自然 評閱指標 災害發生前表現異常的案例不勝枚舉。因此,科學家們 級分 說明 對動物不尋常行為感到困惑。安格利亞魯斯金大學的動 所有字詞組合正確,且拼字、大小寫及標點均 4 物生物學家瑞秋格蘭特博士說,像地震的自然災害會產 無誤。 生一種衝擊地球表面的力量,產生大氣變化,從而引起 (1) 所有字詞組合正確,但有拼字、字詞增減或 不安感。其他科學家則解釋說,是低頻的聲音和振動讓 標點錯誤。 3 動物感知到即將到來的危險。基本上來說,動物可以逃 (2) 多數字詞組合正確,且無拼字、字詞增減或 離牠們感覺到的危險,以利於牠們成功生存,而人類可 標點錯誤。 以解釋動物為什麼會遠離這些令人不快的「刺激」,然 (1) 多數字詞組合正確,但有拼字、字詞增減或 而,人類仍然無法有效地利用動物作為監控系統來及時 標點錯誤。 2 保護我們的生命財產免受自然災害的影響。 (2) 半數字詞組合正確,且無拼字、字詞增減或"
+    },
+    {
+      "id": "MOCK_111_1_ENG_028",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "What is the main idea of this passage?",
+      "image_url": "",
+      "options": [
+        "Why animals use their sixth sense as humans do.",
+        "How wild animals protect people from disasters.",
+        "Why scientists use monitoring devices on wildlife.",
+        "How animals detect a natural disaster and respond to it."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "這篇文章主旨是什麼? 標點錯誤。 (A) 動物為何像人類一樣使用牠們的第六感。 (1) 半數字詞組合正確,但有拼字、字詞增減或 (B) 野生動物如何保護人類免受災難所傷。 標點錯誤。 1 (C) 為什麼科學家在野生動物身上使用監測設備。 (2) 少數字詞組合正確,且無拼字、字詞增減或 (D) 動物如何偵測自然災害並做出反應。 標點錯誤。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_029",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Which of the following is TRUE about a motion-triggered camera?",
+      "image_url": "",
+      "options": [
+        "It can be used to monitor and track the wildlife.",
+        "It is usually attached to golden-winged warblers.",
+        "It helps wild animals to get back to their habitats.",
+        "It is widely used to guard animals by biologists."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "關於運動觸發相機,下列哪項是正確的? (1) 少數字詞組合正確,但有拼字、字詞增減或 (A) 它可用於監測和追蹤野生動物。 標點錯誤。 (B) 它通常附著在金翅鶯身上。 0 (2) 所有字詞組合錯誤。 (C) 它能幫助野生動物重返棲息地。 (3) 只抄引導文字、題目或其他試題。 (D) 它被生物學家廣泛用於保護動物。 (4) 空白 ( 未書寫文字 ) 。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_030",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "According to the passage, what makes golden-winged warblers fly far away from home to safe places?",
+      "image_url": "",
+      "options": [
+        "Migration for the winter.",
+        "Severe storms.",
+        "Earthquakes.",
+        "Atmospheric gas."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據此文章,是什麼讓金翅鶯遠離家鄉飛到安全地 方? III. 中譯英 (A) 冬季遷徙。 (B) 強風暴。"
+    },
+    {
+      "id": "MOCK_111_1_ENG_031",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "According to the passage, which of the following statements is NOT true?",
+      "image_url": "",
+      "options": [
+        "Atmospheric change will influence animals’ feelings.",
+        "Dogs may have unusual behavior right before an earthquake.",
+        "A 7.0 magnitude earthquake forces animals to die out.",
+        "Vibrations at low frequency may frighten away wild animals."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據此文章,下列哪項陳述是不正確的? 解答: According to a report from / in the United States (A) 大氣變化會影響動物的感受。 (of America) / According to a report from / in the US (B) 狗在地震發生前可能有不尋常的行為。 (U.S.) / According to a report from America / According (C) 7.0 級地震會使動物滅絕。 to a US (U.S.) report, the number of women (females) (D) 低頻振動可能會嚇跑野生動物。 going to (attending) college (who go to college / university)"
+    },
+    {
+      "id": "MOCK_111_1_ENG_032",
+      "subject": "英文",
+      "unit": "111-1-四技二專-00共同科目 英文",
+      "q": "Based on the passage, what can we say about animals’ sixth sense?",
+      "image_url": "",
+      "options": [
+        "Scientists studied it and used it to warn people of natural disasters.",
+        "People used it to protect their lives and properties from disasters.",
+        "Researchers used it to detect the vibration of the environment.",
+        "Forest workers used it to observe animals in the Amazon rainforest. 二、非選擇題 ( 第 I 題,每格 2 分,共 4 分;第 II 到 III 題,每題 6 分。共 16 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據這篇文章,關於動物的第六感,我們可以怎麼 (now / nowadays) is more (better / bigger) than / that of 說? men (males). (A) 科學家們研究它並用它來警告人們自然災害。 評閱指標 (B) 人們用它來保護他們的生命財產免受災害。 級分 說明 (C) 研究人員用它來檢測環境的振動。 能充分表達原文題意,文法、標點正確,用字 4 (D) 森林工人用它來觀察亞馬遜雨林中的動物。 遣詞沒有不當之處。 能適切表達原文題意,文法、標點、用字遣詞 二、非選擇題 3 僅有少數不當之處。 I. 填充 僅能部分表達原文題意,文法、標點、用字遣 2"
+    }
+  ]
+}

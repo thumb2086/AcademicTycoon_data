@@ -1,0 +1,4963 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_LOWER_CH13",
+  "subject": "技術型高中機械群機件原理下冊",
+  "chapter": {
+    "code": "CH13",
+    "title": "13_凸輪"
+  },
+  "title": "技術型高中機械群機件原理下冊 凸輪",
+  "source_pdf": "技術型高中機械群機件原理下冊_PPT/13_凸輪.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "本簡報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 內容來源; 108 華興機件原理 - 下冊 / 連結影片及部分圖片取自網路"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "13-1 凸 輪 的 用 途 與 種 類"
+        },
+        {
+          "type": "heading",
+          "text": "13-1 凸輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "13-2 凸 輪 及 從 動 件 接 觸 方 法"
+        },
+        {
+          "type": "heading",
+          "text": "13-2 凸輪及從動件接觸方法"
+        },
+        {
+          "type": "heading",
+          "text": "13-3 凸 輪 及 從 動 件 的 運 動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "13-3 凸輪及從動件的運動 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "13-4 凸 輪 周 緣 設 計 數"
+        },
+        {
+          "type": "heading",
+          "text": "13-4 凸輪周緣設計"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "13-1 凸輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "一、凸輪的用途 途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "凡具有曲線周緣或溝槽之主動輪,以等速運動,並以直接接觸"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "之傳動方式將動力傳給從動件,使從動件產生預期的連續或不 連續之運動者,稱為「凸輪」 ( cam )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "106"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 實物照"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 應用例 ( 汽缸引擎 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-1 凸輪"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "二、凸輪的種類 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸輪與從動件之間是以直接接觸 ( direct contact ) 方式傳動,而 途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸輪的種類很多,依凸輪與從動件之維持接觸的方式來分,可 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "分為一般凸輪與確動凸輪兩類。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 一般凸輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "凡需要藉由重力、彈簧張力或其他外力等,方能使從動件在凸 輪迴轉過程中,一直與凸輪維持接觸而回到原來位置者,其依"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "形狀及構造不同,又可分為平面凸輪與立體凸輪。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "106"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "1. 平面凸輪 ( plane cam ):凸輪從動件之動路為一平面的徑向 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "曲線,且從動件運動方向與凸輪軸或運動方向垂直者。 用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 平 板凸輪 ( plate cam ):又稱板形凸輪,此種凸輪設計簡單"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "且製造容易,應用極為普遍,如汽車引擎控制閥門的凸輪。 (2) 偏心凸輪 ( eccentric cam ):為最容易製造的凸輪,當凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "等速迴轉時,從動件作簡諧運動,而從動件的總升距是"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸輪偏心量的 2 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 平移凸輪 ( translation cam ):又稱滑動凸輪,凸輪的動作 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "係以左右往復直線運動方式,帶動從動件作上下往復直 107 線運動。 Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回 •"
+        },
+        {
+          "type": "heading",
+          "text": "回"
+        },
+        {
+          "type": "heading",
+          "text": "回, 回"
+        },
+        {
+          "type": "heading",
+          "text": "回"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "從動件"
+        },
+        {
+          "type": "heading",
+          "text": "從動件"
+        },
+        {
+          "type": "heading",
+          "text": "從動件"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 平板凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 偏心凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 平移凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-2 平面凸輪"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 反凸輪 ( inverse cam ):又稱倒置凸輪,係將凸輪作為從 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "動件,滾子擺動桿為主動件,此種凸輪僅適用於輕負載 用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "之機構上。 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "107"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-3 反凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "2. 立體凸輪 ( solid cam ):凸輪從動件之動路為一空間曲線者, 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "常見者有下列幾種: 用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 圓柱形凸輪 ( cylindrical cam ):從動件之運動方向與凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸心平行。若凸輪旋轉一圈,從動件即完成一個往復循 環者,稱為「單周圓柱形凸輪」 ( single-turn cylindrical cam );若凸輪旋轉兩圈,方能使從動件完成一個往復循 環者,稱為「雙周圓柱形凸輪」 ( double-turn cylindrical cam ),依此類推,亦稱「多周圓柱形凸輪」 ( multiple- 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "turn cylindrical cam )。 數"
+        },
+        {
+          "type": "heading",
+          "text": "108"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "從動件"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 單周圓柱形凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 雙周圓柱形凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "從動件"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 四周圓柱形凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-4 圓柱形凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 圓錐形凸輪 ( conical cam ):從動件之運動方向與凸輪軸 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "心成一夾角,其角度即為凸輪之半錐角。 用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "108"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-5 圓錐形凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 端面凸輪 ( end cam ):從動件即作上下往復直線運動者。 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "109"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-6 端面凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 斜盤凸輪 ( swash plate cam ):當凸輪旋轉時,從動件作 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "上下往復直線運動,其運動方向與凸輪軸心平行,且為 用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "簡諧運動,而從動件接觸點之動路為橢圓形。 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "109"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-7 斜盤凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 球形凸輪 ( spherical cam ):當凸輪旋轉時,從動件作可 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "預期角度的左右旋轉之搖擺運動。 用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "109"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-8 球形凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 確動凸輪 ( positive motion cam ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "凡不藉由從動件本身的重力、彈簧張力或其他外力,就能使從"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "動件在凸輪迴轉過程中,一直與凸輪維持接觸而回到原來位置"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "者。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "109"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "1. 面凸輪 ( face cam ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱板形槽凸輪 ( groove plate cam ),是最簡單形式的確動凸輪。"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-9 面凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "2. 隆起凸輪 ( ridge cam ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "其從動件有兩個滾子,分別夾於凸輪隆起周緣的內、外兩側,"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "當凸輪轉動時,從動件即作上下往復直線運動。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-10 隆起凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "3. 等徑凸輪 ( constant diameter cam ): 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "又稱心形凸輪 ( heart cam ),"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "其從動件有兩個滾子,同時與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪上、下周緣維持接觸,且"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪旋轉於任意角度時,從動"
+        },
+        {
+          "type": "heading",
+          "text": "件之兩滾子中心距需恆為定值,"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪的曲線僅需設計半周,即"
+        },
+        {
+          "type": "paragraph",
+          "text": "180 ° 之周緣曲線即可。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-11 等徑凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "4. 等寬凸輪 ( constant breadth cam ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪周緣曲線上任意兩平行切線間的"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "距離永遠相等,即等寬之意,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "周緣曲線亦只能設計半周 ( 180 ° )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "111"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-12 等寬凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "5. 三角凸輪 ( trigonal cam ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "取一正三角形上之三個頂點 O、 B、"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "C 為圓心,並以 R 與 R 為半徑,共"
+        },
+        {
+          "type": "heading",
+          "text": "1 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "畫六段圓弧,形成三角凸輪之周緣"
+        },
+        {
+          "type": "heading",
+          "text": "曲線,從動件為一矩形框與凸輪的"
+        },
+        {
+          "type": "heading",
+          "text": "上、下周緣曲線互相接觸,凸輪繞"
+        },
+        {
+          "type": "heading",
+          "text": "固定軸 O 旋轉時,從動件藉此作往"
+        },
+        {
+          "type": "paragraph",
+          "text": "復運動。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "111"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-13 三角凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "6. 主凸輪與回凸輪 ( main-and-return cam ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱雙凸輪機構,其類似等徑凸輪與複式輪系之組合體,即為"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "同一軸上裝有兩個凸輪,而從動件也有兩個滾子,分別與之接"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "觸。凸輪 A 稱為主凸輪,是用於主導從動件之確動位移;凸輪 B 稱為回凸輪,用於隨時保持與從動件之接觸功用,而從動件滾 子 C 與 D 間之距離為一定值,從動件運動狀態主要由凸輪 A 之輪 廓曲線決定,故兩凸輪之形狀不一定要對稱的。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "112"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "112"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-14 主凸輪與回凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "13-2 凸輪及從動件接觸方法"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸輪與從動件的接觸方式大致可分為滑動接觸及滾動接觸兩種,"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑動接觸又可分為點接觸與線接觸;而滾動接觸均為線接觸, 接"
+        },
+        {
+          "type": "heading",
+          "text": "觸"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般以滾動接觸較多見,而滑動接觸僅適用於從動件的移動距 方"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "paragraph",
+          "text": "離較小或負荷較輕之處。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "113"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "一、滑動接觸 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 尖劈形從動件 ( pointed follower ) 動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱尖端從動件或尖形從動件,從動件與凸輪呈點接觸者,此"
+        },
+        {
+          "type": "heading",
+          "text": "觸"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "paragraph",
+          "text": "類從動件能敏銳的反應凸輪周緣曲線的變化,但摩擦損耗較大。"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 平板從動件 ( flat follower ) 從動件與凸輪呈線接觸者,此類從動件不適合於凸輪周緣曲線 有激烈變化的場合,較適合從動件的升距小、負載輕的場合。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "113"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "觸"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "113"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-15 從動件的接觸方法"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "二、滾動接觸 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾子從動件 ( roller follower ),從動件與凸輪呈線接觸者,此類 動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動件將滑動接觸變為滾動接觸,可減低磨損,提高效率。 接"
+        },
+        {
+          "type": "heading",
+          "text": "觸"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪與從動件的配置方式,常見的有下列三種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 徑向 ( radial ) 配置"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動件之中心線與凸輪之轉軸中心呈一直線者,是最常使用的 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "配置方式。 數"
+        },
+        {
+          "type": "heading",
+          "text": "113"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "2. 偏置 ( offset ) 配置 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動件之中心線不通過凸輪之轉軸中心者,即產生一偏置距離"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "稱為「偏置量 」 ( amount of the offset ),其目的有時是為了配合"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "觸"
+        },
+        {
+          "type": "paragraph",
+          "text": "空間之設計,但最主要是為了減少凸輪旋轉時對從動件產生的"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "paragraph",
+          "text": "側壓力,且減少震動發生,以達到平衡傳動之功用,一般而言, 從動件右側偏置時,凸輪須以逆時針旋轉;從動件左側偏置時, 凸輪則須以順時針旋轉,如此才可確實減少產生側壓力。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "3. 擺動 ( swinging ) 配置 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動件一端為固定軸,另一端與凸輪接觸作往復角度之擺動。 114"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "觸"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "114"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-16 從動件的配置方式"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "13-3 凸輪及從動件的運動"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "一、凸輪各部名稱 動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "1. 軌跡點 ( trace point ):又稱跡點或節點,為凸輪與從動件產"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "生相對運動且在從動件上的點,其位置視從動件之型式而異。 (1) 尖劈從動件:位於從動件之尖端點。 (2) 平板從動件:位於平板底端面與與從動件運動方向線之 交點。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 滾子從動件:位於滾輪之中心點。 數"
+        },
+        {
+          "type": "heading",
+          "text": "114"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "115"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-17 凸輪之各部名稱"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "2. 理論曲線 ( theoretical curve ):又稱節曲線 ( pitch curve ), 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "為凸輪旋轉一周從動件的軌跡點,連續移動所成之路徑曲線, 從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "係凸輪所應具有的假想曲線,如圖中之兩點細鏈線所示。 件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "3. 工作曲線 ( working curve ):又稱輪廓曲線 ( profile curve ) 或"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸輪輪廓 ( cam profile ),即為凸輪之周緣曲線,亦為凸輪實 際用來產生作用之曲線。若凸輪之從動件為尖劈從動件,其 工作曲線與理論曲線必為重合;而凸輪之從動件為滾子從動 件,其工作曲線與理論曲線間之距離為一滾子半徑。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "115"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "4. 基圓:係指以凸輪軸心距工作曲線最短距離為半徑所繪之圓, 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "亦是設計凸輪周緣曲線的基礎圓。 從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "5. 節圓:又稱主圓,係指以凸輪軸心距軌跡點最短距離為半徑"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "所繪之圓。"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "6. 最大半徑:係指凸輪軸心至工作曲線之最長距離。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 總升距 ( total lift ):或稱總升程,係指凸輪旋轉一周從動件"
+        },
+        {
+          "type": "paragraph",
+          "text": "由最低位置至最高位置之垂直距離,即凸輪最大半徑與最小"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "半徑之差。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "116"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "8. 壓力角:係指凸輪與從動件之接觸點的公法線(如圖中所示 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "之 NN )與從動件運動方向所夾之角,常以 θ 表示。 從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "9. 作用角:凸輪旋轉時,可使從動件上升的角度,稱為「升角」 的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "(如圖中所示之 ∠ AOB );可使從動件下降的角度,稱為 動 「降角」(如圖中所示之 ∠ BOC ),而從動件運動的角度,"
+        },
+        {
+          "type": "heading",
+          "text": "即升角與降角之和,則為「作用角」(如圖中所示之"
+        },
+        {
+          "type": "paragraph",
+          "text": "∠ AOC )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "10. 傾斜角 ( angle of inclination ):又稱周緣傾斜角,係指凸輪 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "與從動件之接觸點的公切線(如圖中所示之 TT )與凸輪最 116 大直徑線(如圖中所示之 DE )所夾之角。 Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "二、凸輪周緣形狀對側壓力與傳動速度之影響 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "BD 為從動件的總升距,若 BD 之長度固定,不論凸輪周緣形狀 動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "如何變化,都不會影響從動件的總升距,但凸輪周緣形狀改變, 的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "對從動件的側壓力及傳動速度都會造成很大的影響。 當凸輪與從動件接觸時,假設凸輪對從動件之作用力 R,沿著 接觸點之公法線 NN 的方向作用, R 可分解為互相垂直的兩分力:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "116"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "117"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-18 凸輪與從動件接觸之受力情形"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "1. 沿從動件運動方向與之垂直向的分力 R X = Rsin θ,即稱為側 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓力,此為凸輪作用於從動件時,從動件對導路產生之正壓 從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "力,即為從動件在導路內摩擦阻力的來源,亦可視為軸承所 件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "承受之作用力。"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "2. 沿從動件運動方向與之向上的分力 R = Rcos θ,即稱為上升"
+        },
+        {
+          "type": "heading",
+          "text": "y"
+        },
+        {
+          "type": "paragraph",
+          "text": "力,此為凸輪推動從動件上升之力,亦可視為從動件的傳動 效率。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "116"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 壓力角與側壓力及傳動效率的關係 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸輪與從動件間之壓力角 θ 愈小,則側壓力愈小,上升力愈大,"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "在設計凸輪壓力角時,宜採用較小之壓力角為佳。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 基圓與壓力角的關係 動"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓力角之大小是由凸輪的基圓決定,基圓愈大時,其壓力角愈 小,即基圓與壓力角成反比關係,故為了獲得較小的壓力角, 則基圓應較大,但若基圓太大,則會太佔空間,亦應注意凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "大小之問題。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "117"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "118"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-19 基圓與壓力角及傾斜角的關係"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 傾斜角與壓力角、側壓力及傳動速度的關係 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "傾斜角的大小,因壓力角而異,即壓力角變小時,則傾斜角會"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "變大。傾斜角愈小的凸輪,其外形曲線愈陡直,則在相同時間"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "內從動件之位移量較大,故傳動速度愈快,就傳動速率而言,"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸輪之傾斜角宜小;就側壓力而言,凸輪之傾斜角宜大。"
+        },
+        {
+          "type": "paragraph",
+          "text": "總結:側壓力與從動件的傳動速度兩者間之關係是相互消長,"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "故當設計凸輪周緣形狀時,應考慮其側壓力與傳動速度兩者間 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "的重要性取其重者。 117"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸輪及從動件的運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "表 13-1 凸輪周緣形狀對側壓力與傳動速度之影響 ( 升角及總升距不變 )"
+        },
+        {
+          "type": "heading",
+          "text": "基圓傾斜角壓力角上升力傳動效率側壓力磨損傳動速度"
+        },
+        {
+          "type": "heading",
+          "text": "高低"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "三、凸輪與從動件的運動 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸輪通常為「等速圓周」運動,藉由轉動迫使從動件產生預期 動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "且有規律的往復運動,而從動件的運動方式則因凸輪周緣形狀 的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "之設計不同,以產生各種形態的運動方式,一般常見的方式有 動 「等速運動」、「修正等速運動」、「等加(減)速運動」、 「簡諧運動」等四種,分述如下。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "119"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 等速運動 ( uniform motion ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "係指物體運動之速度大小及方向均為定值者,等速運動的位移"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖呈斜直線。速度圖呈水平線,加速圖呈零水平軸線,但從動"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "件在始、終兩端處由於運動方向產生遽變,即從動件在 θ = 0 °、"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "180 °、 360 ° 時,會產生無限大的加速度,而太大的加速度會使 從動件產生較大的「急跳度」,所謂「急跳度」 ( jerk ) 係指單 位時間內加速度的變化量。從動件之加速度曲線若出現不連續 點,在不連續點之急跳度為 ∞。急跳度無法消除,僅可降低其"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "峰值。急跳度大的凸輪易使從動件產生陡震、衝擊、噪音及造 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "119"
+        },
+        {
+          "type": "paragraph",
+          "text": "成機件損壞減少使用年限,應儘量避免,故此等速運動僅適用"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "於低速傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸輪及從動件的運動"
+        },
+        {
+          "type": "heading",
+          "text": "移冖 0-4 00 90 1 0"
+        },
+        {
+          "type": "heading",
+          "text": "量"
+        },
+        {
+          "type": "heading",
+          "text": "總升距"
+        },
+        {
+          "type": "heading",
+          "text": "c 旋轉角"
+        },
+        {
+          "type": "paragraph",
+          "text": "330。 360 ( 時間 t)"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "120"
+        },
+        {
+          "type": "heading",
+          "text": "150 180 210"
+        },
+        {
+          "type": "heading",
+          "text": "240"
+        },
+        {
+          "type": "heading",
+          "text": "270"
+        },
+        {
+          "type": "heading",
+          "text": "300"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "基圓周長"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 位移圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-20 等速運動"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸輪及從動件的運動"
+        },
+        {
+          "type": "heading",
+          "text": "速度 (V)"
+        },
+        {
+          "type": "heading",
+          "text": "旋轉角"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "( 時間 t)"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 速度圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-20 等速運動"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸輪及從動件的運動"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 (A)"
+        },
+        {
+          "type": "heading",
+          "text": "旋轉角"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "c ( 時間 t)"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 加速度圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-20 等速運動"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 修正等速運動 ( modified uniform motion ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱變形等速運動,係將上述之等速運動兩端易產生急跳之行"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "程改成較為均勻緩和的變加(減)速度運動,即可避免急跳現"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "象的產生,修正等速運動一般僅適用於低速傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "120"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "121"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-21 修正等速運動"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "121"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-21 修正等速運動"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "121"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-21 修正等速運動"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 等加(減)速運動 ( uniform accelerated and retarded motion ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "係指物體運動之速度大小以等差級數方式增加或減少,而方向"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "保持不變者,其方程式為 S = at ( a 為加速度, t 為時間),而 的"
+        },
+        {
+          "type": "heading",
+          "text": "2 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "以此方程式繪製出之圖為拋物線,亦稱為「拋物線運動」 ( parabolic motion )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "121"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "122"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-22 等加(減)速運動"
+        },
+        {
+          "type": "heading",
+          "text": "51"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "122"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-22 等加(減)速運動"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "122"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-22 等加(減)速運動"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "在繪製位移圖時,因加速度 (a) 為常數,故位移 (S) 與時間平方 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(t ) 成正比,則從動件每單位時間之位移為 S、 S、 S、 S、 從"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 3 4"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "......、 S,即表列如下所示: 件"
+        },
+        {
+          "type": "heading",
+          "text": "n"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "123"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸輪及從動件的運動"
+        },
+        {
+          "type": "heading",
+          "text": "n+l"
+        },
+        {
+          "type": "heading",
+          "text": "一 a ( 0 ) 2"
+        },
+        {
+          "type": "heading",
+          "text": "= 0"
+        },
+        {
+          "type": "heading",
+          "text": "1 90 1 1 1 一 90 1 一 ~"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 90 1 一 90"
+        },
+        {
+          "type": "heading",
+          "text": "1 一"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 90"
+        },
+        {
+          "type": "heading",
+          "text": "一 a ( 1 ) 2"
+        },
+        {
+          "type": "heading",
+          "text": "4 一 2 9 一 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 2 4 一 2"
+        },
+        {
+          "type": "heading",
+          "text": "一 a ( 2 ) 2"
+        },
+        {
+          "type": "heading",
+          "text": "一 a ( 3 ) 2"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "“ 一 90"
+        },
+        {
+          "type": "heading",
+          "text": "0 / 一 90"
+        },
+        {
+          "type": "heading",
+          "text": "a ( 4 ) 2"
+        },
+        {
+          "type": "heading",
+          "text": "9 一 2"
+        },
+        {
+          "type": "heading",
+          "text": "a ( 5 ) 2"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "5 5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "即將表示從動件位移量之縱座標依 1: 3: 5: 5: 3: 1 之等比 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "級數方式分成 6 份,橫坐標則分成 12 等分,連接各對應交點成 從"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "一圓滑曲線,即得等加(減)速運動之位移圖,其速度圖則呈 件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "斜直線,可減少慣性力,避免產生急跳現象,適合高速傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "123"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "56"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 簡諧運動 ( simple harmonic motion ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "係指物體運動之速度大小是以一質點作等速圓周運動時,其投"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "影在直徑上的距離來增加或減少,而方向保持不變者,此曲線"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "為一近似正弦函數曲線,即為簡諧運動之位移圖。簡諧運動在"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩端時,其速度最小,加速度最大;在中點時,其速度最大, 加速度最小。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "123"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 擺線運動 ( Cycloidal motion ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "paragraph",
+          "text": "由從動件之加速度曲線來觀察,在開始與終了之時都有加速度"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "paragraph",
+          "text": "不連續點存在,在不連續點之急跳度為 ∞,急跳度不可能消除,"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "僅可降低其峰值。此種狀況皆不適合高速運轉。擺線運動在開"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "始及終了點加速度均會回歸到零,其產生之急跳度不致於到達 ∞,故無上述問題,因此運動較為順暢,最適合高速運轉。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "124"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p058.jpg"
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸輪及從動件的運動"
+        },
+        {
+          "type": "heading",
+          "text": "位移量 (s)"
+        },
+        {
+          "type": "heading",
+          "text": "升"
+        },
+        {
+          "type": "heading",
+          "text": "距"
+        },
+        {
+          "type": "heading",
+          "text": "滾圓直徑"
+        },
+        {
+          "type": "heading",
+          "text": "旋轉角"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( 時間 t )"
+        },
+        {
+          "type": "paragraph",
+          "text": "90。 150。 180。 210 240。 270。 330。 360 120。"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "300"
+        },
+        {
+          "type": "heading",
+          "text": "基圓周長"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 位移圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-24 擺線運動"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸輪及從動件的運動"
+        },
+        {
+          "type": "heading",
+          "text": "速度 (V)"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "旋轉角"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "( 時間 t)"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 速度圖"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-24 擺線運動"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸輪及從動件的運動"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 (A)"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "旋轉角"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "( 時"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 加速度圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-24 擺線運動"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "13-4 凸輪周緣設計"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "緣"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸輪之周緣設計決定於凸輪尺寸(基圓大小)及從動件的種類、"
+        },
+        {
+          "type": "heading",
+          "text": "設"
+        },
+        {
+          "type": "heading",
+          "text": "計"
+        },
+        {
+          "type": "paragraph",
+          "text": "位置總升距及位移圖,本小節以下列數種板凸輪的周緣設計來 說明之。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "126"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "一、板凸輪與往復式尖劈形從動件 輪"
+        },
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "緣"
+        },
+        {
+          "type": "heading",
+          "text": "設"
+        },
+        {
+          "type": "heading",
+          "text": "計"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "126"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-25 板凸輪與往復式尖劈形從動件"
+        },
+        {
+          "type": "heading",
+          "text": "63"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p063.jpg"
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "二、板凸輪與往復式滾子從動件 輪"
+        },
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "緣"
+        },
+        {
+          "type": "heading",
+          "text": "設"
+        },
+        {
+          "type": "heading",
+          "text": "計"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "127"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-26 板凸輪與往復式滾子從動件"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p064.jpg"
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "三、板凸輪與偏置滾子從動件 輪"
+        },
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "緣"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動件中心未通過凸輪軸的中心,即為偏置。由凸輪中心至從 設"
+        },
+        {
+          "type": "heading",
+          "text": "計"
+        },
+        {
+          "type": "paragraph",
+          "text": "動件中心軸的垂直距離,稱為偏置量。從動件偏置的理論,有 時是為了配合空間的設計,最主要是為了減少從動件側壓力, 當凸輪逆時針旋轉時,偏置在右方;當凸輪順時針旋轉時,偏 置在左方,如此才可確實減少側壓力。此類機構之凸輪輪廓繪 製與上例相同,先將節曲線求出再求凸輪輪廓,亦即工作曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "但求取節曲線時,是以偏心圓為基準。以偏心量為半徑所畫之"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓稱為偏心圓。"
+        },
+        {
+          "type": "heading",
+          "text": "127"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "65"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "緣"
+        },
+        {
+          "type": "heading",
+          "text": "設"
+        },
+        {
+          "type": "heading",
+          "text": "計"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "128"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-27"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "板凸輪與偏置滾子從動件"
+        },
+        {
+          "type": "heading",
+          "text": "66"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p066.jpg"
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "四、板凸輪與擺動式滾子從動件 輪"
+        },
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "緣"
+        },
+        {
+          "type": "heading",
+          "text": "設"
+        },
+        {
+          "type": "heading",
+          "text": "計"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "128"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-28 板凸輪與擺動式滾子從動件"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p067.jpg"
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "五、板凸輪與 輪"
+        },
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "緣"
+        },
+        {
+          "type": "heading",
+          "text": "往復式平板從動件"
+        },
+        {
+          "type": "heading",
+          "text": "設"
+        },
+        {
+          "type": "heading",
+          "text": "計"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "129"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 13-29 板凸輪與往復式平板從動件"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p068.jpg"
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "69"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch13/p069.jpg"
+    }
+  ]
+}

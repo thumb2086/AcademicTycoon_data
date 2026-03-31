@@ -1,0 +1,37 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH02",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-18",
+      "q": "1 2 ( 2 ) (B) 角尺內部測定面測量垂直度 2 一 22 (B) 被測面 2 2 2-22 (C) 平板 (C) 角尺在平板上測量垂直度 2 v 形枕被側面 3 1 2 2 一 22 (D) (D) 利用 v 形枕測量垂直度及平面度 A 圖 2-22 第 3 面垂直度銼削與量測 36 2-7-3 平行面銼削與測量兩平面的平行程度稱為平行度 (parallelism), 以 「 / / 」 符號表示, 2-23",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch02/p015_0_50_0_r.png",
+      "options": [
+        "",
+        "角尺內部測定面測量垂直度 2 一 22 (B) 被測面 2 2 2-22",
+        "平板 (C) 角尺在平板上測量垂直度 2 v 形枕被側面 3 1 2 2 一 22",
+        "(D) 利用 v 形枕測量垂直度及平面度 A 圖 2-22 第 3 面垂直度銼削與量測 36 2-7-3 平行面銼削與測量兩平面的平行程度稱為平行度 (parallelism), 以 「 / / 」 符號表示, 2-23 (A) 2-23 (B) 第 4 面 / / 第 2 面 (A) 第 4 面的選定 (C) 游標卡尺測量尺寸 (e) 指示量錶檢查平行度 (f) 槓桿量錶檢查平行度平行面銼削與測量 A 圖 2 一 23 學後 (D) (A) 2-2 (B) 25 2-4 (B) (C) 40 (D) (D) (D) (D) 100 (D) 50 (D) (D) (A) (A) (A) (D) 400 (B) (B) (B) (A) 55 。 (B) (B) (D) (A) 10 (A) (B) (B) cm (D) (A) (A) (A) mm (A) (A) (A) (B) (B) (B) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-18",
+      "q": "2-6 (D) (B)",
+      "image_url": "",
+      "options": [
+        "",
+        "(A) Ra (B) Rz (D) (A)",
+        "",
+        "(B) (A) Ra (B) Rz (D) (A) (C) Rt (B) 37 XX (A) (B) (C) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

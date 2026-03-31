@@ -1,0 +1,1377 @@
+{
+  "content_id": "CONTENT_MECH_DRAFTING_CH03",
+  "subject": "機械製圖",
+  "chapter": {
+    "code": "CH03",
+    "title": "CH3"
+  },
+  "title": "機械製圖 Chapter 3 線條與字法",
+  "source_pdf": "機械製圖/CH3PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_DRAFTING_CH03",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "線條與字法"
+        },
+        {
+          "type": "heading",
+          "text": "本章學習內容"
+        },
+        {
+          "type": "heading",
+          "text": "3-1 線條之種類"
+        },
+        {
+          "type": "heading",
+          "text": "3-2 線條之儀器畫法"
+        },
+        {
+          "type": "heading",
+          "text": "3-3 中文工程字"
+        },
+        {
+          "type": "heading",
+          "text": "3-4 阿拉伯數字與拉丁字母"
+        },
+        {
+          "type": "heading",
+          "text": "3-5 尺度基本組成與符號"
+        },
+        {
+          "type": "heading",
+          "text": "( 建議授課: 6 節 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 71 2022/4/13 下午 04:28:10"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "72"
+        },
+        {
+          "type": "heading",
+          "text": "學習表現"
+        },
+        {
+          "type": "paragraph",
+          "text": "一張工程圖是以線條表達物體的形狀與結構,並以尺度標註表達物體的大小與位置, 並且常配以符號或文字來加以註解。"
+        },
+        {
+          "type": "heading",
+          "text": "故本章之學習目標如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 了解線條之種類及其繪法,並了解鉛筆及上墨線條的要領"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解中文字體的種類與書寫要領"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解阿拉伯數字與拉丁字母的種類與書寫要領"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 能熟練鉛筆與上墨的繪製順序與字體的正確書寫方法"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 認識尺度符號及其應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 能引發學習者對製圖的學習興趣與動機,並能體會美感素養、創意概念與應用"
+        },
+        {
+          "type": "heading",
+          "text": "於日常產品或感知科技產品之設計"
+        },
+        {
+          "type": "heading",
+          "text": "3-1 線條之種類"
+        },
+        {
+          "type": "heading",
+          "text": "一、線條類型"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-1 地圖形線條 (thesun-resort)"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: thesun-resort)"
+        },
+        {
+          "type": "paragraph",
+          "text": "線條是繪製圖形的基本元素,一般常以實線粗細、虛線等表達簡單之概念或意義,如圖 3-1 所示。然而一張工程圖常須以各種不同線條方能表示物體的外形與結構,如圖 3-2 與表 3-1 所示,"
+        },
+        {
+          "type": "heading",
+          "text": "茲分述如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 72 2022/4/13 下午 04:28:11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 線條與字法 73"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-2 視圖上的各種線條"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-3 隱藏線 ▲ 圖 3-4 中心線"
+        },
+        {
+          "type": "heading",
+          "text": "1. 輪廓線:用以表達物體外形輪廓可見的線條,以 粗實線 表示,為一連續粗線,如圖示 (A)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 隱藏線:用以表達目視不到的物體外形輪廓,以 虛線 表示。為一短劃中線,每段約 3 mm,"
+        },
+        {
+          "type": "paragraph",
+          "text": "間隔約 1 mm,如圖示 (B),其畫法如圖 3-3。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 中心線:用以表達圓或孔的中心、機件的對稱中心或運動機件的機構中心或用於表示齒輪、"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈輪輪齒部位節圓等,為 一點細鏈線,長劃約為 20 mm,短劃約為 0.5 mm 一小線段,間隔 約 1 mm;畫中心線時必須超出輪廓線外約 2 ∼ 3 mm 長,如圖示 (C),其畫法如圖 3-4。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 折斷線:表示機件的一部分經折斷或截除部分的線條,為一 不規則細實線 或含鋸齒形彎折的"
+        },
+        {
+          "type": "paragraph",
+          "text": "細實線,如圖示 (D)、 (E)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 尺度線、 尺度界線:用以表達物體的大小與位置尺度,以 細實線 表示,如圖示 (F)、 (G)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 指線:專用於註解加工法、註記等,為一 細實線,指示端帶有 箭頭,尾端為一 水平線,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "示 (H)。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 割面線:割面線用以表達剖切位置與方向,以 兩端及轉角處為粗實線 而 其它為一點細鏈線 表"
+        },
+        {
+          "type": "paragraph",
+          "text": "示,如圖示 (I)。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 剖面線:剖面線用以表達物體經剖切後之實心部位,以 細實線 繪製等距平行直線,如圖示 (J)。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 假想線:假想線用以 表示運動零件的移動位置、 剖切後不存在的線條、 物體成形前的形狀、"
+        },
+        {
+          "type": "paragraph",
+          "text": "表明零件相關位置等。以 兩點細鏈線 表示,如圖示 (K)。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 粗鍵線:用以表達表面特殊處理的範圍或加工法而加以區別的線條,以 一點粗鏈線 表示,如"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖示 (L)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 73 2022/4/13 下午 04:28:12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "74"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-1 線條種類及用途"
+        },
+        {
+          "type": "heading",
+          "text": "畫法"
+        },
+        {
+          "type": "heading",
+          "text": "種類 式樣 粗細 應用"
+        },
+        {
+          "type": "heading",
+          "text": "( 以字高 h = 3 mm 為例 )"
+        },
+        {
+          "type": "heading",
+          "text": "A 可見輪廓線、圖框"
+        },
+        {
+          "type": "heading",
+          "text": "粗 連續線"
+        },
+        {
+          "type": "heading",
+          "text": "線等"
+        },
+        {
+          "type": "heading",
+          "text": "尺度線、尺度界線、"
+        },
+        {
+          "type": "heading",
+          "text": "指線、剖面線、圓"
+        },
+        {
+          "type": "heading",
+          "text": "B"
+        },
+        {
+          "type": "heading",
+          "text": "連續線 角消失之稜線、作"
+        },
+        {
+          "type": "heading",
+          "text": "圖線、旋轉剖面的"
+        },
+        {
+          "type": "heading",
+          "text": "輪廓線等"
+        },
+        {
+          "type": "heading",
+          "text": "實線"
+        },
+        {
+          "type": "heading",
+          "text": "C 細"
+        },
+        {
+          "type": "heading",
+          "text": "不規則連續線 ( 徒手畫 )"
+        },
+        {
+          "type": "heading",
+          "text": "折斷線"
+        },
+        {
+          "type": "heading",
+          "text": "鋸齒形彎折的連續線,兩相對"
+        },
+        {
+          "type": "heading",
+          "text": "D 銳角角度約為 15 °,其尖角高度"
+        },
+        {
+          "type": "heading",
+          "text": "約為 3 mm,間隔約為字高 6 倍"
+        },
+        {
+          "type": "paragraph",
+          "text": "(18 mm)。"
+        },
+        {
+          "type": "heading",
+          "text": "E 隱藏線"
+        },
+        {
+          "type": "heading",
+          "text": "虛線 中 線段長約為 3 mm,間隔約 1 mm"
+        },
+        {
+          "type": "heading",
+          "text": "( 不可見輪廓線 )"
+        },
+        {
+          "type": "heading",
+          "text": "F 中心線、節線、基"
+        },
+        {
+          "type": "heading",
+          "text": "細"
+        },
+        {
+          "type": "heading",
+          "text": "準線等"
+        },
+        {
+          "type": "heading",
+          "text": "空白之間隔約為 1 mm,兩間隔"
+        },
+        {
+          "type": "paragraph",
+          "text": "中之小線段長約為 0.5 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "一點 G"
+        },
+        {
+          "type": "heading",
+          "text": "粗 表面處理範圍"
+        },
+        {
+          "type": "heading",
+          "text": "鏈線"
+        },
+        {
+          "type": "heading",
+          "text": "鏈線"
+        },
+        {
+          "type": "heading",
+          "text": "兩端及轉角為粗線,其餘為細"
+        },
+        {
+          "type": "heading",
+          "text": "H"
+        },
+        {
+          "type": "paragraph",
+          "text": "粗細 鏈線,兩端粗線最長為 7.5 mm, 割面線 轉角粗線最長為 4.5 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "兩點 J 空白之間隔約為 1 mm,兩間隔"
+        },
+        {
+          "type": "heading",
+          "text": "細 假想線"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈線 中之小線段長約為 0.5 mm。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 74 2022/4/13 下午 04:28:14"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 線條與字法 75"
+        },
+        {
+          "type": "heading",
+          "text": "二、線條分類"
+        },
+        {
+          "type": "heading",
+          "text": "依據中華民國國家標準 (CNS) 分類為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 線條之種類:分為實線、虛線、鏈線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 線條依粗細:分為粗線、中線、細線三種,線條粗細常用的組合如 CNS3 所建議見表 3-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-2 線條粗細 ( 單位: mm)"
+        },
+        {
+          "type": "heading",
+          "text": "規格"
+        },
+        {
+          "type": "heading",
+          "text": "第一組 第二組 第三組 第四組 第五組 第六組"
+        },
+        {
+          "type": "heading",
+          "text": "種類"
+        },
+        {
+          "type": "heading",
+          "text": "1.0 0.8 0.7 0.6 0.5 0.35"
+        },
+        {
+          "type": "heading",
+          "text": "粗"
+        },
+        {
+          "type": "heading",
+          "text": "0.7 0.6 0.5 0.4 0.35 0.25"
+        },
+        {
+          "type": "heading",
+          "text": "中"
+        },
+        {
+          "type": "heading",
+          "text": "0.35 0.3 0.25 0.2 0.18 0.13"
+        },
+        {
+          "type": "heading",
+          "text": "細"
+        },
+        {
+          "type": "heading",
+          "text": "三、虛線之交接畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "線條交接良否,會影響圖面美觀與圖的正確性,對於一位製圖員而言,能注意這些小細節, 則必可繪出完美的圖形。其中,虛線之交接有一定通則,如圖 3-5 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 75 2022/4/13 下午 04:28:18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "76"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-5 虛線之交接畫法圖例"
+        },
+        {
+          "type": "heading",
+          "text": "1. 虛線的起迄交會: 依 CNS 規定, 虛線為實線的延伸線時, 須留空隙。 當虛線與其餘線條交會時,"
+        },
+        {
+          "type": "paragraph",
+          "text": "均維持相交。如圖示 (A) ∼ (E)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 數條虛線相交時,應維持相交,如圖示 (F)、 (G)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 各 虛線圓弧之接法均自切點開始,如圖示 (H),但 虛線圓弧若為實線圓弧之延伸, 則留間隔,"
+        },
+        {
+          "type": "paragraph",
+          "text": "不可相交,如圖示 (I)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 兩虛線相互平行 且相距間隔很小時,應 交錯畫出,如圖示 (J)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 兩虛線相互平行且 相距間隔很小時,若中央有中心線,應 對齊畫出,如圖示 (K)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 畫圓時,中心線交會應以 長劃相交,如圖示 (L)。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 實線與虛線相交時,交會應與虛線之短劃相交,如圖示 (M);虛線與虛線相交時,交會應與"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩虛線之短劃相交,如圖示 (N)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 76 2022/4/13 下午 04:28:22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 線條與字法 77"
+        },
+        {
+          "type": "heading",
+          "text": "3-2 線條之儀器畫法"
+        },
+        {
+          "type": "heading",
+          "text": "一、鉛筆線條"
+        },
+        {
+          "type": "paragraph",
+          "text": "一張圖若是採用鉛筆繪製,則線條品質的優劣及繪製要領影響圖面的美觀與圖的正確甚鉅。 因此,注意一些細節才能達到正確 ( 真 )、迅速 ( 善 ) 及美觀 ( 美 ) 的要求。茲就繪製鉛筆線條的"
+        },
+        {
+          "type": "heading",
+          "text": "要領分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 繪水平線與垂直線之要領"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 由左至右 畫 水平線,運筆時,鉛筆筆桿往移動方向傾斜,與紙面之夾角約 60 °,並隨時 略為 旋轉筆心 ( 楔形筆心除外 ),使線條粗細均勻、濃淡一致。如圖 2-34(a)、 (c) 所示。 (2) 鉛筆置於直尺或三角板之左側, 由下往上 移動畫 垂直線,並慢慢旋轉鉛筆,使線條粗細 均勻、濃淡一致。如圖 2-34(b)、 (c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪鉛筆曲線之要領"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 使用圓規時,兩針腳調整要領為針腳比"
+        },
+        {
+          "type": "heading",
+          "text": "鉛筆腳長 0.5 mm,否則畫圓時容易滑"
+        },
+        {
+          "type": "heading",
+          "text": "動,如圖 3-6(a),同時旋轉速度不可太快,"
+        },
+        {
+          "type": "paragraph",
+          "text": "以免線條濃度不均。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 使用圓規前,須先檢查兩腳之鬆緊度是"
+        },
+        {
+          "type": "heading",
+          "text": "否適中,若太鬆會使圓弧之起點與終點"
+        },
+        {
+          "type": "paragraph",
+          "text": "無法相接。如圖 3-6(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 畫曲線時,圓弧與圓弧或圓弧與直線之"
+        },
+        {
+          "type": "paragraph",
+          "text": "交接處或相切處必須對齊,不可有凸點。 如圖 3-6(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 畫大圓時,圓規兩腳肘宜彎曲,使垂直"
+        },
+        {
+          "type": "heading",
+          "text": "於紙面,可防止圓弧無法相接與針孔擴"
+        },
+        {
+          "type": "paragraph",
+          "text": "大。"
+        },
+        {
+          "type": "heading",
+          "text": "(5) 若使用曲線板連接曲線時,曲線板之外"
+        },
+        {
+          "type": "heading",
+          "text": "形線與所繪曲線上之點,至少需三點以"
+        },
+        {
+          "type": "heading",
+          "text": "上連接中間一段之曲線,方能下筆一段"
+        },
+        {
+          "type": "paragraph",
+          "text": "接一段的繪製,如此可得較圓滑之曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-6 曲線之交接要領"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 77 2022/4/13 下午 04:28:23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "78"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鉛筆線條的品質"
+        },
+        {
+          "type": "paragraph",
+          "text": "鉛筆線條要繪製良好,必須注意多項細節與勤加練習技巧,例如: (1) 線條要烏黑且 濃度結實一致:對鉛筆的筆心等級選擇要適當,持筆用力的輕重要均勻, 以免濃淡不一。 (2) 各接點要完美: 任何線條的 接頭要完全密合,不得有超越或無接攏密合現象。故圖上 有直線與圓弧 ( 曲線 ) 相連接時,應先從 圓弧先繪, 再繪直線,從圓弧之末端連接出直線, 如此可得較佳接點。 (3) 線條 粗細分明 且要均勻一致:圖上線條除粗、中、細分明外,各種線條且要力求均勻一致, 不可同一種線線有粗細不勻現象。故鉛筆繪線時,除保持筆尖銳利之外,移動鉛筆時需 緩慢轉動筆身,可使線條粗細均勻一致。 (4) 圖面保持 清潔美觀:圖面上儘量省去不必要的線條,構圖的底線選擇 H 級筆心,且用力 要輕,除可避免沾污圖面外,在圖面完成後擦去亦省時方便。 (5) 繪線技巧: 為了丁字尺與三角板應用方便,一般先由 上而下繪水平線,再由 左至右繪直 立線,如圖 3-7。若是遇圓或弧,則 先繪中心線再繪圓弧。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-7 繪線條技巧"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 78 2022/4/13 下午 04:28:23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 線條與字法 79"
+        },
+        {
+          "type": "heading",
+          "text": "4. 繪鉛筆工程圖之順序"
+        },
+        {
+          "type": "paragraph",
+          "text": "一張工程圖常見圓、圓弧、直線、斜線、曲線,又分為粗實線、細實線、虛線,如圖 3-8"
+        },
+        {
+          "type": "heading",
+          "text": "所示:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-8 工程圖之鉛筆繪製順序"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先繪各圓或弧的中心線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪圓及圓弧或曲線,且 先繪小圓再繪大圓。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 繪各種實線,先繪水平線,再繪直立線、斜線。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 完成虛線部位,擦拭圖面上作圖線。"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "鉛筆畫"
+        },
+        {
+          "type": "paragraph",
+          "text": "是指用鉛筆畫畫,是一切圖形藝術的基礎,包括鉛筆素描、 鉛筆速寫等。基本內容包括描畫線條、繪畫基礎、肌理明暗、 人物素描、動物素描、彩色鉛筆繪畫等。"
+        },
+        {
+          "type": "heading",
+          "text": "鉛筆動漫"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:緋櫻 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 79 2022/4/13 下午 04:28:24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "80"
+        },
+        {
+          "type": "heading",
+          "text": "5. 繪製圖框要領"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製工程圖前須先繪製圖框,如圖 3-9 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-9 繪製圖框步驟"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 固定圖紙:將圖紙固定在適當位置,安放方法請參考前述 2-4 節,圖 2-30 和 2-31 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪裝訂線:置三角板於丁字尺工作邊上,利用丁字尺及三角板的刻畫度,繪製垂直線 ( 裝訂"
+        },
+        {
+          "type": "paragraph",
+          "text": "線 ),並作標題欄的記號。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 繪水平線:移動丁字尺繪圖框及標題欄水平線。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 繪直立線:完成圖框及標題欄的直立線。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 80 2022/4/13 下午 04:28:24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 線條與字法 81"
+        },
+        {
+          "type": "heading",
+          "text": "二、繪上墨 ( 加深 ) 線條"
+        },
+        {
+          "type": "paragraph",
+          "text": "一張工程圖往往為了展示、晒成藍圖或照相製版,常需更清晰且美觀的圖面,則可在底稿 ( 鉛 筆 ) 線上加畫墨線,現今常採用針筆加以上墨。但是上墨時要注意針筆的正確使用法及上墨順序, 方能獲得高品質的線條。茲分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 上墨要領"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 上墨線時,宜注意針筆的出水狀況,運筆速度要均勻,不可太快或太慢。 (2) 上墨線時,注意未乾之線不可相交,否則易弄髒圖面,且濕線相交之處易生滲透現象。 (3) 墨線須正確位於鉛筆底線正上方,不可偏位,如圖 3-10(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-10 上墨要領"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 上墨時,弧於直線之切點處,其線段粗細應相同,圓弧相切時, 切點處應等寬,如圖 3-10(b)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-10 上墨要領(續)"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 81 2022/4/13 下午 04:28:25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "82"
+        },
+        {
+          "type": "heading",
+          "text": "2. 上墨之次序"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製上墨線條有一定的順序才能事半功倍,一般原則依序是: 圓或弧→直線→寫字,如 圖 3-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-11 上墨次序"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 繪鉛筆草圖。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 先畫實線圓,且自最小者開始上墨,再畫圓弧及虛線圓、弧及不規則曲線繪製。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 畫實線依序為:水平、直立、傾斜。畫虛線依序為:水平、直立、傾斜。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 畫中心線,最後註解標題文字及校對此上墨圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 82 2022/4/13 下午 04:28:25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 線條與字法 83"
+        },
+        {
+          "type": "heading",
+          "text": "3-3 中文工程字"
+        },
+        {
+          "type": "paragraph",
+          "text": "一張工程圖上的文字大致上有中文字體、拉丁字母及阿拉伯數字。中文字法以徒手書寫,而 拉丁字母、阿拉伯數字可用徒手寫或輔以字規來寫。這些文字與日常生活息息相關,如圖 3-12 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-12 中文字體與日常生活"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:出版傳媒包裝網、民報編輯部、 playpcesor-ESOR HUANG)"
+        },
+        {
+          "type": "paragraph",
+          "text": "然而,工程圖上之字法,講究工整美觀,所以文字力求端正劃一,大小間隔需適當。而字 法一般皆用鉛筆或針筆以單筆寫之,即以一筆完成每一筆劃為原則,故筆劃之粗細皆相等,此 種字稱為“ 單筆字 ”或“ 等線體 ”。除非文字本身是圖形的一部分,如圖 3-13 所示是被要求的 加工字體。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-13 被要求的加工字體"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: Autodesk HSM、日弘模具、原木精品設計館 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 83 2022/4/13 下午 04:28:26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "84"
+        },
+        {
+          "type": "heading",
+          "text": "故工程圖上中文字體之寫法,必須注意下列要領:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 橫平豎直,為等線體的基本條件。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 填滿方格,書寫時可先打好方格作練習,如圖 3-14(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 單筆書寫,筆劃須粗細一致,線條均勻,如圖 3-14(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-14 中文字"
+        },
+        {
+          "type": "heading",
+          "text": "4. 注意佈局,筆劃應力求適中,講求字體之結構,筆劃之間應密接,不可有間隙。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 字體與字法:字體一律從左至右橫寫,字法之大小乃以其最小字高來分,視圖面大小而定,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如表 3-3 所示為各種圖紙上最小字高的參考依據。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-3 最小字高 ( 單位: mm)"
+        },
+        {
+          "type": "heading",
+          "text": "最小建議字高"
+        },
+        {
+          "type": "heading",
+          "text": "應用 圖紙大小"
+        },
+        {
+          "type": "heading",
+          "text": "中文字 拉丁字母 阿拉伯數字"
+        },
+        {
+          "type": "heading",
+          "text": "A0、 A1 7 7 7"
+        },
+        {
+          "type": "heading",
+          "text": "標題、圖號、件號"
+        },
+        {
+          "type": "heading",
+          "text": "A2、 A3、 A4 5 5 5"
+        },
+        {
+          "type": "heading",
+          "text": "A0、 A1 5 3.5 3.5"
+        },
+        {
+          "type": "heading",
+          "text": "尺度註解"
+        },
+        {
+          "type": "heading",
+          "text": "A2、 A3、 A4 3.5 2.5 2.5"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 84 2022/4/13 下午 04:28:28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 線條與字法 85"
+        },
+        {
+          "type": "paragraph",
+          "text": "近幾年來,中文字以印刷鉛字中的 等線體 為原則。其式樣分 方形、 長形、 寬形 三種書寫方法, 如圖 3-15 所示。 方形的字寬等於字高, 長形的字寬為字高的 3/4, 寬形的字寬為字高的 4/3。筆 劃的粗細約為字高的 1/15,字與字的間隔約為字高的 1/8,行與行間隔約為字高的 1/3。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-15 中文字體式樣"
+        },
+        {
+          "type": "heading",
+          "text": "3-4 阿拉伯數字與拉丁字母"
+        },
+        {
+          "type": "paragraph",
+          "text": "創意商品中不乏以字母或數字作為發想根源,如圖 3-16 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 創意數字時鐘"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 創意字母商品"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-16 創意商品"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: hsiun@ 大人物 - 動腦新聞、 Yahoo 拍賣 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 85 2022/4/13 下午 04:28:29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "86"
+        },
+        {
+          "type": "paragraph",
+          "text": "而字母或數字在一般設計中可以充分顯現文字之美,但是在一般工程圖或機械圖主要用途 是在表達所繪製物件的形狀與大小,務求正確、迅速、清晰及美觀,所以圖形之外的文字仍以等 線體字型為主,如圖 3-17 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-17 文字之美"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: typography-Chois Publishing Inc)"
+        },
+        {
+          "type": "paragraph",
+          "text": "故在工程圖上,阿拉伯數字可用以表示尺度大小、件號、公差、圖號等。拉丁字母用以表 示割面位置或剖視圖記號、幾何公差基準面、材料半徑、厚度等符號。一般拉丁字母都用大楷書 寫,而小楷只用於一些特定的符號或縮寫上。書寫時仍依要領以等線體字正確書寫,不可別出心 裁自創格式及花樣。 阿拉伯數字與拉丁字母分 直式 及 斜式 兩種,斜式角度約在 75 ° 左右,筆劃的粗細約為字高 的 1/10,行與行的間隔約為字高的 2/3,如圖 3-18 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-18 阿拉伯數字與拉丁字母"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 86 2022/4/13 下午 04:28:32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 線條與字法 87"
+        },
+        {
+          "type": "heading",
+          "text": "阿位伯數字與拉丁字母之書寫要領,分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 練習書寫前,可先畫好格子然後再寫,如圖 3-19 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-19 直式與斜式字體"
+        },
+        {
+          "type": "heading",
+          "text": "2. 書寫時須注意字與字間之距離,大楷字與字間之距離等於 大楷字母 O 之字寬,若有逗點則於"
+        },
+        {
+          "type": "paragraph",
+          "text": "逗點後保留 O 字寬的距離。另外,書寫時特須留意字母與字母間背影面積要相同。如圖 3-20 所示,圖 (a) 雖然字母與字母之間隔不一樣,但背影面積相當,視覺效果較好;圖 (b) 雖然字 母間隔相同,但反而視覺上字母與字母之間疏密不均。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-20 字母與字母間隔"
+        },
+        {
+          "type": "heading",
+          "text": "3. 拉丁字母與阿拉伯數字的徒手書寫時,鉛筆的筆尖應先削成圓錐形,再利用手腕之力及正確"
+        },
+        {
+          "type": "paragraph",
+          "text": "的筆法書寫,如圖 3-21 為筆劃順序,可供參考。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-21 阿拉伯數字與拉丁字母筆法"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 87 2022/4/13 下午 04:28:34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "88"
+        },
+        {
+          "type": "heading",
+          "text": "3-5 尺度基本組成與符號"
+        },
+        {
+          "type": "heading",
+          "text": "一、尺度基本組成"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺度大小以長度作為衡量基準,然而長度單位常見有奈米 (nm)、微米 (μm)、公厘 ( 即毫米, mm)、公分 (cm) 和公里 (km) 等。一般工程或機械繪製圖形時,須以公厘 (mm) 作為測量與繪圖 單位,如圖 3-22 所示尺度大小比較。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-22 尺度單位"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: RPG 網、 Esotericon Line 網、伊秀美體、 I Love 部落格、健康頻道 ) 一個物體的描述,包括形狀及大小兩部分,而視圖在表達機件的形狀,尺度乃在表示機件的 大小及位置。 一個完整的尺度標註要素包括 尺度界線、 尺度線、 箭頭、 數字註解 與 指線 等, 尺度符號 如直 徑符號、半徑符號、錐度符號、方形符號、厚度符號等。如圖 3-23 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-23 尺度要素"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 88 2022/4/13 下午 04:28:35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 線條與字法 89"
+        },
+        {
+          "type": "paragraph",
+          "text": "其中, 尺度界線 用以表示物體 尺度之範圍, 尺度線 為表示 尺度之大小與方向,數字用以表 示物體實際大小;標註尺度時,必須繪 箭頭 於尺度線兩端,尖端應接觸尺度界線或輪廓線、中心 線之延長線。凡不能用視圖或尺度表達的資料,用文字來表達者稱為 註解; 指線 用以指引註解 說明至圖上的部位,僅專用於註解,不可用於尺度標註,如圖 3-24 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-24 指線之使用法"
+        },
+        {
+          "type": "heading",
+          "text": "二、常用之尺度符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "標註尺度時,通常會利用符號與數字搭配標註尺度,運用得當,不僅可以節省標註時間, 也可讓尺度說明更加清楚明瞭,以下為常用各種尺度符號,如表 3-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-4 常用之尺度符號"
+        },
+        {
+          "type": "heading",
+          "text": "標註意義 符號 圖例 標註意義 符號 圖例"
+        },
+        {
+          "type": "heading",
+          "text": "直徑 角度"
+        },
+        {
+          "type": "heading",
+          "text": "半徑 去角 ( 倒角 )45 °"
+        },
+        {
+          "type": "heading",
+          "text": "球面 或 板厚"
+        },
+        {
+          "type": "heading",
+          "text": "弧長 參考尺度"
+        },
+        {
+          "type": "heading",
+          "text": "方形 更改符號"
+        },
+        {
+          "type": "heading",
+          "text": "錐度 未依比例尺度"
+        },
+        {
+          "type": "heading",
+          "text": "斜度 絕對真確尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 89 2022/4/13 下午 04:28:42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch03/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-1 ( )1. 下列何種線條不是細線? (A) 尺度線 (B) 虛線 (C) 中心線 (D) 剖面線。 ( )2. 下列哪種線條屬細線? (A) 圖框線 (B) 輪廓線 (C) 隱藏線 (D) 折斷線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )3. 下列四種虛線的畫法,哪一種是錯誤的?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "( )4. 指出下列虛線的畫法中何者錯誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "( )5. 虛線係為實線之連續部分時,始端應該"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 留空隙 (B) 不留空隙 (C) 不限定 (D) 加粗。"
+        },
+        {
+          "type": "heading",
+          "text": "( )6. 下列敘述線型何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 表達物體外形輪廓可見的線條用粗實線表示"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 虛線為一短畫中線"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 表達圓或孔中心用中心線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 折斷線為細鏈線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )7. 下列敘述線型何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 尺度線、尺度界線皆細線"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 節線、假想線、中心線皆為細鏈線"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 指線為一細線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 割面線、剖面線皆為細線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )8. 有關工程圖線條的敘述,下列何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 隱藏線與中心線重疊時,優先繪製中心線"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 虛線為中線,可用於繪製隱藏線和假想線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 線條依其種類可分為:實線、虛線、鏈線和折線等四大類 (D) 一點鏈線種類中的細鏈線可用於繪製中心線與節線。 ( )9. 有關線條的種類及用途,下列敘述何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 折斷線為不規則而連續的粗實線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 重疊於原視圖中的旋轉剖面之輪廓線係以細實線繪製"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 因圓角而消失的稜線與隱藏線的畫法相同"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 須特殊處理物面的範圍係以細鏈線表示。"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH03.indd 90 2022/4/13 下午 04:28:44"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

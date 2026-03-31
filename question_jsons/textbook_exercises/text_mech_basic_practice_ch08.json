@@ -1,0 +1,53 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH08",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "8-11",
+      "q": "8-11 (D) (D) 完成的階級車削 A 圖 8-11 階級桿車削學後",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch08/p012_0_50_0_r.png",
+      "options": [
+        "",
+        "(D) (A) (B) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) -6 7, • 8 (A) m/min (B) mm/min",
+        "",
+        "(D) 完成的階級車削 A 圖 8-11 階級桿車削學後 (A) (B) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) -6 7, • 8 (A) m/min (B) mm/min (C) m/sec (D) mm/sec 18m 50mm 45mm (A) 105rpm (B) 115 卬 m (C) 125 卬 m (D) 1351 ㄗ m 550 45mm (A) 78m (B) 88m (C) 98m (D) 108m (A) (B) (D) (A) (B) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "8-11",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "40 100mm 120m",
+        "140",
+        "380",
+        "900 rpm (A) mm (B) m (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_003",
+      "subject": "機械基礎實習全冊",
+      "unit": "8-11",
+      "q": "02mm 5mm",
+      "image_url": "",
+      "options": [
+        "95",
+        "115",
+        "125",
+        "135 (A) (B) (D) (A) (B) (D) 167 (B) (B) (A) (B)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

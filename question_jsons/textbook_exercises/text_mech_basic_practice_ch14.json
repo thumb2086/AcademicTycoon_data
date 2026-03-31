@@ -1,0 +1,37 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH14",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH14_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH14",
+      "q": "5 秒 ) (B) 半月型運行法",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch14/p019_0_50_0_r.png",
+      "options": [
+        "",
+        "半月型運行法 (A) 斜線法 A 圖 14-26 A 圖 14-27 織動式銲道運行 14 一 27 平銲完成圖 XX (A) (B) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) 90 。 70 。 80 。 (A) 70 。 80 。 90 。",
+        "",
+        "(A) (B) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) 90 。 70 。 80 。 (A) 70 。 80 。 90 。 (C) 90 。 30 。 60 。 (B) 70 。 80 。 (D) (A) (D) (B) (A) 5 (B) 10 10 15 (C) 20 (D) 30 30 40 (A) (B) (D) (A) (B) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH14_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH14",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "(D) (A) (B) (D) (A) (B)",
+        "",
+        "(A) (B) (D) (A) (B) (C) 5mm (D) 278 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

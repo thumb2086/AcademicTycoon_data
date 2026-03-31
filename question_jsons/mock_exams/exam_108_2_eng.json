@@ -1,0 +1,501 @@
+{
+  "bundle_id": "MOCK_108_2_ENG",
+  "questions": [
+    {
+      "id": "MOCK_108_2_ENG_001",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Getting good quality is the easiest way to improve the way bread looks and tastes.",
+      "image_url": "",
+      "options": [
+        "flour",
+        "mineral",
+        "silk",
+        "iron"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "使用優質 是改善麵包外觀和口感最簡單的 (C) 我睡得像個嬰兒一樣 方法。 (D) 與我們盡情享樂 (A) 麵粉 (B) 礦物 (C) 蠶絲 (D) 鐵"
+    },
+    {
+      "id": "MOCK_108_2_ENG_002",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "To our surprise, Frank was to Oxford University and even got a partial scholarship.",
+      "image_url": "",
+      "options": [
+        "rejected",
+        "naked",
+        "admitted",
+        "objected"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "令我們驚訝,弗蘭克被牛津大學,甚至得到 盧克:保重。你感冒了,不是嗎? 部分獎學金。 泰德:是啊,那就是為什麼我打噴嚏的原因。你知道, (A) 拒絕 (B) 裸體 (C) 錄取 (D) 反對 我每年冬天都會得重感冒。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_003",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Recently, passengers felt by the trains’ frequent delays or even cancellation.",
+      "image_url": "",
+      "options": [
+        "relaxed",
+        "honored",
+        "amused",
+        "annoyed"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "最近,乘客因火車經常延誤甚至取消而感到 盧克:希望不嚴重。 。 (A) 祝我早日康復。 (A) 放鬆的 (B) 榮譽的 (C) 愉快的 (D) 惱怒的 (B) 我會沒事的。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_004",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "House prices have been rising, so more and more citizens do not have money to buy one.",
+      "image_url": "",
+      "options": [
+        "merrily",
+        "scarcely",
+        "barely",
+        "rapidly"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "房價一直 上漲,因此有越來越多的市民沒錢 (C) 只是開玩笑。 買一間。 (D) 早日康復。 (A) 愉快地 (B) 幾乎不 (C) 勉強地 (D) 快速地"
+    },
+    {
+      "id": "MOCK_108_2_ENG_005",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Andrea Bocelli, the Italian singer, is, but he uses other senses to “see” the world.",
+      "image_url": "",
+      "options": [
+        "dumb",
+        "deaf",
+        "blind",
+        "lame"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "義大利歌手安德烈‧波切利是,但他用其他 凱爾:為什麼? 感官來「看」這個世界。 萊斯利:我不應該在學校取笑你。 (A) 啞的 (B) 聾的 (C) 盲的 (D) 跛腳的 凱爾:沒什麼。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_006",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "on TV is said to have a bad influence on the mental development of children.",
+      "image_url": "",
+      "options": [
+        "Violence",
+        "Challenge",
+        "Inspiration",
+        "Diligence"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "電視上的 據說對兒童的心理發展有不良影響。 (A) 你太過份了。 (B) 我無法相信。 (A) 暴力 (B) 挑戰 (C) 靈感 (D) 勤勉 (C) 不客氣。 (D) 別提了。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_007",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "At least 91 people were killed in this area after the of a broken gas pipeline on Friday evening.",
+      "image_url": "",
+      "options": [
+        "explanation",
+        "graduation",
+        "explosion",
+        "impression"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "星期五晚上,天然氣管道破裂 後,這地區至"
+    },
+    {
+      "id": "MOCK_108_2_ENG_008",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "It can be very hard and for high school students to converse with a foreigner or join an English discussion.",
+      "image_url": "",
+      "options": [
+        "modest",
+        "scary",
+        "direct",
+        "innocent"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "對高中生來說,和外國人對話或加入英文討論可能非 人事部門:好吧,也許,看看她做得 常困難且 。 如何。 (A) 謙虛的 (B) 可怕的 (C) 直接的 (D) 無辜的 (A) 她喜歡工作得很晚"
+    },
+    {
+      "id": "MOCK_108_2_ENG_009",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "There are a ton of books that have been successfully adapted into films and television shows.",
+      "image_url": "",
+      "options": [
+        "chosen",
+        "modified",
+        "followed",
+        "arranged"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "有大量的書籍已成功地改編為電影和電視劇。 (B) 我們需要讓她試試 (A) 選擇 (B) 修改 (C) 遵循 (D) 安排 (C) 她失業了"
+    },
+    {
+      "id": "MOCK_108_2_ENG_010",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "The computer is one of the most significant wonders of science that change the history of mankind.",
+      "image_url": "",
+      "options": [
+        "mysterious",
+        "convenient",
+        "necessary",
+        "important"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "電腦是改變人類歷史最重大的科學奇蹟之一。 (D) 我不會那樣做的 (A) 神祕的 (B) 方便的 (C) 必要的 (D) 重要的"
+    },
+    {
+      "id": "MOCK_108_2_ENG_011",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Some great inventions happened by accident such as penicillin, Velcro, and Post-it notes.",
+      "image_url": "",
+      "options": [
+        "by chance",
+        "on purpose",
+        "at times",
+        "for good II. 對話題 ( 第 12-21 題,每題 2 分,共 20 分 ) 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "有些偉大發明是意外發生的,例如青黴素、魔鬼沾和 丹:在這。 便利貼。 機場員工: (A) 意外地 (B) 故意地 (C) 有時 (D) 永遠 丹:就這個。 機場員工:好的,請把你的旅行袋放在秤上。 II. 對話題 (A) 你要托運任何行李嗎?"
+    },
+    {
+      "id": "MOCK_108_2_ENG_012",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Riley: Do you know how long it takes to get a U.S. tourist visa? Susan: It varies. Three to five weeks. Riley: Then, what do I need to do? Susan: It’s easy. online and wait.",
+      "image_url": "",
+      "options": [
+        "Give your signature",
+        "Fill out an application form",
+        "Check out the schedule",
+        "Book flights to the U.S."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "萊利:你知道拿到美國旅遊簽證需要多長時間嗎? (B) 我需要在這裡領取行李嗎? 蘇珊:不一定。三到五週。 (C) 你在芝加哥有停留嗎? 萊利:那麼,我需要做什麼? (D) 我可以攜帶多少旅行袋? 蘇珊:很簡單。在線上,然後等待。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_013",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Toby: You look tired. Didn’t you sleep well last night? Lisa: No, I didn’t. I went to an all-night dance party. Toby: Oh, yeah? Then did you have a good time? Lisa: We had too much fun all night, but.",
+      "image_url": "",
+      "options": [
+        "I am beat today",
+        "everything goes well",
+        "I slept like a baby",
+        "have a ball with us"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "托比:你看起來很累。昨晚睡得不好嗎? 曼迪:嗯...... 麗莎:對,沒睡好。我去了通宵舞會。 (A) 我會擊倒它。 (B) 優惠券有效。 托比:哦,是喔?玩得開心嗎? 108-2 共同科目 英文 詳解 (C) 我等不及了。 (D) 它還不錯。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_014",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Ted: Ah-choo. Luke: Bless you. You have a cold, don’t you? Ted: Yes, that’s why I’m sneezing so much. You know, I get a bad cold every winter. Luke: I hope it’s nothing serious.",
+      "image_url": "",
+      "options": [
+        "Wish me recover soon.",
+        "I’ll be fine.",
+        "Just kidding.",
+        "Get well soon."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "泰德:哈啾。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_015",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Leslie: I was terrible to you yesterday. I owe you an apology. Kyle: Why’s that? Leslie: I shouldn’t have teased you at school. Kyle: It’s nothing.",
+      "image_url": "",
+      "options": [
+        "You are going too far.",
+        "I can’t believe it.",
+        "You are welcome.",
+        "Forget it."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "萊斯利:我昨天對你好差勁喔。我欠你一個道歉。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_016",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Mr. Smith: Ms. Orwell seems to have lots of ambition. Personnel: But we need a flexible sort of person. Do you think she is? Mr. Smith: She is determined, though a little tough. Personnel: Well, maybe, and see how she works out.",
+      "image_url": "",
+      "options": [
+        "she likes to work late",
+        "we need to give her a try",
+        "she’s out of work",
+        "I won’t do that"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "史密斯先生:奧威爾女士似乎非常進取。 少有 91 人罹難。 人事部門:但我們需要一個靈活的人 。你覺得她是嗎? (A) 解釋 (B) 畢業 (C) 爆炸 (D) 印象 史密斯先生:她很果斷的,雖然有點強硬。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_017",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Agent: May I have your passport, please? Dan: Here you go. Agent: Dan: Just this one. Agent: OK, please place your bag on the scale.",
+      "image_url": "",
+      "options": [
+        "Are you checking in any bags?",
+        "Do I need to pick up my luggage here?",
+        "Do you have a stopover in Chicago?",
+        "How many bags may I carry on?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "機場員工:請給我你的護照?"
+    },
+    {
+      "id": "MOCK_108_2_ENG_018",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Adam: Why do you like the ad of the laundry detergent made by Unilever? Mandy: Its sweet story and beautiful music did attract me. Adam: So you really believe in that ad? Mandy: Hmmm...",
+      "image_url": "",
+      "options": [
+        "I’ll knock it down.",
+        "Its coupon works.",
+        "I can’t wait.",
+        "It’s not bad."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "亞當:你為什麼喜歡聯合利華製造的洗衣粉廣告呢? (A) 給你的簽名 (B) 填寫申請表 曼迪:它甜美的故事和優美的音樂真的吸引我。 (C) 查看時刻表 (D) 預訂飛往美國的航班 亞當:所以,你真的相信那個廣告嗎?"
+    },
+    {
+      "id": "MOCK_108_2_ENG_019",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Station manager: Good afternoon. How can I help you? Maya: Hello... Er... yes. The 16:20 train should have arrived 10 minutes ago, but I didn’t see any. Station manager: Where are you going? Maya: To Seattle. Station manager: Ah, this is platform 1. The next train to Seattle will leave at 18:20 from platform 4.",
+      "image_url": "",
+      "options": [
+        "It doesn’t make sense.",
+        "You are on the wrong platform.",
+        "I’m ready.",
+        "All buckled up?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "車站站長:午安。需要幫忙嗎? Question 27-31 瑪雅:嗨......呃......是的。 16: 20 的火車應該在 10 你吃過 Shake Shack 漢堡嗎?是丹尼‧梅爾 (27) 他把 分鐘前就到達,但我沒看到任何火車。 這款受歡迎的漢堡帶到了世界各地。紐約市餐飲大亨兼 車站站長:你要去哪兒? 聯合廣場酒店集團 (USHG) 首席執行長丹尼‧梅爾是精緻 瑪雅:去西雅圖。 (28) 餐飲機構的傳奇人物。年輕的時候,他不知道 (29) 做 車站站長:啊,這是第一月台。 。下 什麼。像其他人一樣,他追求當時大多數年輕人的夢想 一班 18: 20 到西雅圖的火車是在第四月台出發。 事業—當律師。就在他參加法學院入學考試前 12 小時, (A) 沒道理。 他叔叔對他說: 「這是什麼?所有你一直在談論和思考的 (B) 你走錯月台了。 (30) 是食物。」換句話說, (31) 直到他叔叔在晚餐時提起 (C) 我準備好了。 這件事,才讓丹尼了解到自己對食物的熱情。因此,在 (D) 全部扣上了嗎? 很多的演講裡,丹尼總是提醒年輕人去思考, 「你為什麼"
+    },
+    {
+      "id": "MOCK_108_2_ENG_020",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Will: You know what? My grandpa wants me to visit him in California next month. Mandy: Sounds great! Will: I know, but without a companion, it would be a very very... lonely journey. Mandy: Oh, sure.... I can go with you only if you help me to get the project done.",
+      "image_url": "",
+      "options": [
+        "I couldn’t agree with you more.",
+        "Don’t jump to conclusions so fast.",
+        "You get me.",
+        "Isn’t that the best?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "威爾:你知道嗎?我爺爺要我下個月去加州看他。 不做你一生都在想的事情呢?」 曼迪:聽起來不錯耶!"
+    },
+    {
+      "id": "MOCK_108_2_ENG_021",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Chris: Betty! It’s so nice to run into you. Betty: Yeah. Chris: Wow! Look at these chubby cheeks. What an adorable baby! Betty: Yes, this is my nephew. He’s so cute.",
+      "image_url": "",
+      "options": [
+        "I’m in a rush.",
+        "It’s great seeing you, too.",
+        "What do you do?",
+        "Things are going fine. III. 綜合測驗 ( 第 22-31 題,每題 2 分,共 20 分 ) 說明:以下兩篇短文,共有 10 個空格,為第 22 至 31 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 22 至 26 題,請依短文文意,選出一個最適合該空格的答案。 Mercy Ships is an international charity. It uses its growing fleet of hospital ships to deliver free health care to developing nations. In the global medical mission, Mercy Ships needs a variety of supports. Volunteering, 22, is one of them. There are volunteer positions in different areas, 23 housekeeping, deck crew, doctors and nurses and everything in between. The system of the main onboard computer and the satellite communications is 24 support that Mercy Ships needs. The images of samples 25 from patients are loaded onto the Internet. Experts from thousands of miles away log in to a secure web page, gain 26 to the samples, analyze them, and provide immediate diagnoses or consultation by email or by telephone. Of course, there are many other supports it needs. In short, considering the level of success and positivity that Mercy Ships garners, it can be hoped that many more such charitable organizations will come into operation."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "克里斯:貝蒂!遇到你真是太好了。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_022",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "The effect of claw machines.",
+        "An easy way to start a business.",
+        "Mental diseases for modern people.",
+        "The solution of financial problems."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這篇文章主要與什麼有關? (D) 和粗魯的陌生人打架。 (A) 抓娃娃機的影響。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_023",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "According to the passage, which of the following statements is NOT true?",
+      "image_url": "",
+      "options": [
+        "The claw machine is a kind of vending machines.",
+        "Claw machines cost investors a great fortune.",
+        "To move the claw, players need to put in coins or tokens.",
+        "Claw machines symbolize the economic depression."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據這篇文章,以下哪項陳述不正確? (D) 在家裡做一頓完美的午餐很重要。 (A) 抓娃娃機是一種自動販賣機。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_024",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Which of the following is NOT the reason why claw machine business becomes popular?",
+      "image_url": "",
+      "options": [
+        "Customers enjoy toys, candies, and even coins.",
+        "Owners do not need to make much preparation.",
+        "People believe this business can get profits.",
+        "The risks in this business are low."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "以下哪一項不是抓娃娃機生意流行的原因? (A) 看護。 (B) 顧問。 (C) 銷售人員。 (D) 主廚。 (A) 顧客喜歡玩具、糖果,甚至是硬幣。 (B) 老闆不需要做很多準備。 第二部分:非選擇題 (C) 人們相信這生意可以獲得利潤。 I. 填充 (D) 這門生意的風險很低。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_025",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "According to the passage, if a claw machine is put at a good location, how much does the owner probably get around per year?",
+      "image_url": "",
+      "options": [
+        "NT$5,000.",
+        "NT$10,000.",
+        "NT$35,000.",
+        "NT$120,000."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據這篇文章,如果將抓娃娃機器放在一個好位置, 評閱指標 那麼業主每年可能可以賺多少錢? 級分 說明 (A) 新臺幣 5 千元。 (B) 新臺幣 1 萬元。 4 2 個空格皆正確。 (C) 新臺幣 3 萬 5 千元。 (D) 新臺幣 12 萬元。 2 僅 1 個空格正確。 說明:每台機器平均月利潤是 1 萬元, 12 個月就是 0 2 個空格皆錯誤。 12 萬"
+    },
+    {
+      "id": "MOCK_108_2_ENG_026",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "According to psychiatrists, what kind of danger does the claw machine bring about?",
+      "image_url": "",
+      "options": [
+        "Owners are more likely to get into debt.",
+        "There are too many competitors in business.",
+        "People addicted to it would have a miserable life.",
+        "It would cause the world’s economic recession. ▲ 閱讀下文,回答第 37-41 題。 Dear Abby: We have a large break room at work where we gather to have lunch. Usually there are six to eight nurses gathering at one time. Sometimes we bring lunch from home; other times we order out individually. One co-worker constantly helps herself to others’ food without it being offered. For example, if you order fries with your lunch, she will reach over and grab some off your plate without asking. Gosh! Did she clean her hands? We feel it is rude and unsanitary. How do we politely ask her to stop doing this? Hungry Nurses Dear Hungry Nurses: Rudeness is hurtful, but removing yourself from the situation is the surest way to avoid more rude behavior from the same person. Walk away, even if they’re still talking to you! If they’re a stranger, you’ll never have to deal with them again. If they’re a friend or a colleague, they’ll soon learn that being rude to you gets them exactly nowhere. Abby"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據精神科醫生的說法,抓娃娃機會帶來什麼樣的危 II. 句子重組 險? (A) 業主更有可能開始舉債。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_027",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Why did these hungry nurses write this email?",
+      "image_url": "",
+      "options": [
+        "They felt angry with a rude person.",
+        "They couldn’t decide what to eat for lunch.",
+        "They wanted to get rid of their occupation.",
+        "They grabbed the chance of joining a group."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "為什麼這些飢餓的護士會寫這封電子郵件? 標點錯誤。 (A) 他們對一位粗魯的人感到生氣。 0 (2) 所有字詞組合錯誤。 (B) 他們無法決定午餐吃什麼。 (3) 只抄引導文字、題目或其他試題。 (C) 他們想要擺脫他們的職業。 (4) 空白 ( 未書寫文字 ) 。 (D) 他們抓住了加入團隊的機會。"
+    },
+    {
+      "id": "MOCK_108_2_ENG_028",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "According to Abby, what is the best way to remove the situation for hungry nurses?",
+      "image_url": "",
+      "options": [
+        "Do the same thing to the rude person.",
+        "Dodge the rude person.",
+        "Focus on your co-worker.",
+        "Fight with the rude stranger."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據艾比所說,消除飢餓護士情況的最佳方法是什 III. 中譯英 麼?"
+    },
+    {
+      "id": "MOCK_108_2_ENG_029",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "According to the two emails, which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "Abby is giving advice to the hungry nurses.",
+        "Hungry nurses feel sorry for Abby.",
+        "Rudeness brings down points to hospitals.",
+        "It’s important to make a perfect lunch at home."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：108-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_2_ENG_030",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "Which of the following has the closest meaning to the word “ unsanitary ” in the first email?",
+      "image_url": "",
+      "options": [
+        "unsure",
+        "sharp",
+        "dirty",
+        "saint"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：108-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_2_ENG_031",
+      "subject": "英文",
+      "unit": "108-2-四技二專-00共同科目 英文",
+      "q": "What does Abby probably do?",
+      "image_url": "",
+      "options": [
+        "A companion.",
+        "A consultant.",
+        "A salesperson.",
+        "A chef. 第二部分:非選擇題 ( 第 I 至 III 題,每題 6 分,共 18 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：108-2-四技二專-00共同科目 英文解析.pdf"
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "bundle_id": "MOCK_111_5_ENG",
+  "questions": [
+    {
+      "id": "MOCK_111_5_ENG_001",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "The successful CEO the invitation to deliver a speech on global technology trends.",
+      "image_url": "",
+      "options": [
+        "defended",
+        "accepted",
+        "decorated",
+        "invaded"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "fulfill; pride (2) 文字瑣碎、形同未答。 0 評閱指標 (3) 只抄題目或其他試題。 級分 說明 (4) 內容完全離題或錯誤。 4 2 個空格皆正確。 2 僅 1 個空格正確。 0 2 個空格皆錯誤。 II. 句子重組"
+    },
+    {
+      "id": "MOCK_111_5_ENG_002",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "The flight attendants made an announcement to the passengers to upright their seat backs before the plane took off.",
+      "image_url": "",
+      "options": [
+        "revise",
+        "reflect",
+        "restrict",
+        "remind"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "cross the road / of Andy / an elderly lady / It is very kind / to help 解答: It is very kind of Andy to help an elderly lady cross the road. 評閱指標 級分 說明 所有字詞組合正確,且拼字、大小寫及標點均 4 無誤。 (1) 所有字詞組合正確,但有拼字、字詞增減或 標點錯誤。 3 (2) 多數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 多數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 2 (2) 半數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 半數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 1 (2) 少數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 少數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 0 (2) 所有字詞組合錯誤。 (3) 只抄引導文字、題目或其他試題。 (4) 空白 ( 未書寫文字 ) 。 III. 中譯英"
+    },
+    {
+      "id": "MOCK_111_5_ENG_003",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Walking under a ladder is believed to bring bad luck in the Western culture, but it is just a(n).",
+      "image_url": "",
+      "options": [
+        "superstition",
+        "amusement",
+        "definition",
+        "literature"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "傑克 (Jack) 一直到媽媽下班回家才做功課。 解答: Jack didn’t do his homework until his mother came (back) / returned / went (back) / got (back) home from work."
+    },
+    {
+      "id": "MOCK_111_5_ENG_004",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "The new children’s hospital will be opened by the mayor next Tuesday.",
+      "image_url": "",
+      "options": [
+        "officially",
+        "apparently",
+        "mildly",
+        "absolutely"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "新的兒童醫院將在下週二 由市長揭幕。 肯:希望這次我能成功。 (A) 正式地 (B) 明顯地 (C) 溫和地 (D) 絕對地 (A) 這是你自己的事。"
+    },
+    {
+      "id": "MOCK_111_5_ENG_005",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Voters would eventually look down on those politicians who always give empty.",
+      "image_url": "",
+      "options": [
+        "containers",
+        "promises",
+        "complaints",
+        "functions"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "選民們最終會看不起那些總是給空頭 的政 (B) 我可以幫你開一些藥。 客。 (C) 我誠摯地道歉。 (A) 容器 (B) 承諾 (C) 抱怨 (D) 功能 (D) 那很好。"
+    },
+    {
+      "id": "MOCK_111_5_ENG_006",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "The poor little girl was suffering from a disease, but her parents never gave up seeking a cure.",
+      "image_url": "",
+      "options": [
+        "rare",
+        "historical",
+        "regular",
+        "negative"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "可憐的小女孩受 疾病所苦,但她的父母從未"
+    },
+    {
+      "id": "MOCK_111_5_ENG_007",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "During Covid-19, frontline health workers their time with families and even faced the risks of losing lives.",
+      "image_url": "",
+      "options": [
+        "graded",
+        "instructed",
+        "conquered",
+        "sacrificed"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "在新冠肺炎期間,前線的所有醫護人員都 與 安迪:說實話,有時候我會被他們搞得很煩。 家人在一起的時間,甚至面臨失去生命的風險。 亞倫:我也一樣。 (A) 打分數 (B) 指示 (C) 征服 (D) 犧牲 (A) 我太感謝爸媽了。"
+    },
+    {
+      "id": "MOCK_111_5_ENG_008",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Josh’s arguments over the fight against poverty in the community aroused enthusiastic of the audience.",
+      "image_url": "",
+      "options": [
+        "response",
+        "growth",
+        "intelligence",
+        "reputation"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "喬 許 在 社 區 中 對 抗 貧 窮 的 論 點 引 起 了 聽 眾 熱 烈 (B) 你的父母比我的父母更開明。 的 。 (C) 他們有不同的特質。 (A) 回應 (B) 成長 (C) 智力 (D) 聲譽 (D) 我想知道為什麼父母總是提出這樣的條件。"
+    },
+    {
+      "id": "MOCK_111_5_ENG_009",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "This charity school depends on companies to realize its mission of providing students with free education.",
+      "image_url": "",
+      "options": [
+        "took in",
+        "looked after",
+        "carried out",
+        "turned down"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "這間慈善學校仰賴企業團體們來實現提供學生免費"
+    },
+    {
+      "id": "MOCK_111_5_ENG_010",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Most people feel very bothered when friends talk about their private matters in public.",
+      "image_url": "",
+      "options": [
+        "humble",
+        "personal",
+        "occasional",
+        "complex II. 對話題 說明:第 11 至 20 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "大多數人對於朋友在公開場合談論自己個人的事時 丹尼:你必須和幼稚園聯絡然後預約面試時間。 覺得很困擾。 安妮:好的,謝謝你,我現在就來做。 (A) 謙虛的 (B) 個人的 (C) 偶爾的 (D) 複雜的 (A) 如何申請這份工作? (B) 是否有服裝要求? II. 對話題 (C) 具備的條件是什麼呢?"
+    },
+    {
+      "id": "MOCK_111_5_ENG_011",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Mother: What’s inside the box, my dear? Son: Happy Mother’s Day! Go on, open it! (Mother opens the box) Mother: You are so sweet! Who wouldn’t like a full-day wellness package at the Riverside Spring Hotel? Son: I am glad you like it. Mother: No matter what you buy, I would love it.",
+      "image_url": "",
+      "options": [
+        "I almost got you a rice cooker instead.",
+        "We can ask someone for directions.",
+        "It’s great that you overcome the stage fright.",
+        "You are the best mom in the world."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "媽媽:親愛的,盒子裡有什麼? (D) 薪水多少? 兒子:母親節快樂!繼續,打開它!"
+    },
+    {
+      "id": "MOCK_111_5_ENG_012",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Judy: I have bad news for you. Your car was just towed. Tina: Oh, no! That’s terrible! Judy: Tina: I deserve the punishment since I am too careless.",
+      "image_url": "",
+      "options": [
+        "Of course. Let’s go somewhere else.",
+        "Exactly. It’s better late than never.",
+        "I think we could rent a car to explore the city.",
+        "You can’t be too careful the next time."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：111-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_5_ENG_013",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Doctor: Do you really stop smoking? Ken: I have been trying so hard, but it’s really difficult for me. Doctor: Ken: Hopefully, I can make it this time.",
+      "image_url": "",
+      "options": [
+        "It’s your own business.",
+        "I can prescribe some medicine.",
+        "I sincerely apologized.",
+        "That would be fine."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "醫生:你真的戒菸了嗎? 但這只是一個 。 肯:我一直很努力,但對我來說真的很難。 (A) 迷信 (B) 娛樂 (C) 定義 (D) 文學 醫生:"
+    },
+    {
+      "id": "MOCK_111_5_ENG_014",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Aaron: Why don’t you join us this weekend? We are going to play baseball. Andy: My parents said that I could go only if I finish my homework. Aaron: What a pity! Andy: To tell you the truth, sometimes I get really annoyed with them. Aaron: Same here.",
+      "image_url": "",
+      "options": [
+        "I can’t thank my parents enough.",
+        "Your parents are more open than mine.",
+        "They have different characteristics.",
+        "I wonder why parents always make conditions like that."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "亞倫:你何不週末加入我們?我們要去打棒球。 放棄尋求治療。 安迪:我父母說我只有完成作業才能去。 (A) 罕見的 (B) 歷史的 (C) 規律的 (D) 否定的 亞倫:好可惜啊!"
+    },
+    {
+      "id": "MOCK_111_5_ENG_015",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Annie: Are there any vacancies on the job search websites? Danny: Well, here is one for a kindergarten teacher. Annie: Danny: You have to contact the kindergarten and make an appointment for an interview. Annie: Really appreciate it. I will do it now.",
+      "image_url": "",
+      "options": [
+        "How can I apply for the job?",
+        "Is there a dress code?",
+        "What are the qualifications?",
+        "What’s the salary?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "安妮:求職網站上有什麼職缺嗎? 教育的任務。 丹尼:嗯,這有一個是徵幼兒園老師的。 (A) 吸收 (B) 照顧 (C) 實現 (D) 拒絕 安妮:"
+    },
+    {
+      "id": "MOCK_111_5_ENG_016",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Timmy: What are you going to do this weekend? Susan: Timmy: Good idea! It’s been 35 years since the first one was released. Susan: I am really looking forward to watching it.",
+      "image_url": "",
+      "options": [
+        "I am in the mood of watching Top Gun Maverick in the theater.",
+        "Top Gun Maverick won 2022 movie box crown.",
+        "I watched Top Gun Maverick on Netflix yesterday.",
+        "Top Gun Maverick is an action drama film."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "提米:這個週末你打算做什麼? ( 媽媽打開盒子 ) 蘇珊: 媽媽:你真是太好了!誰不喜歡河岸溫泉旅館一日健 提米:好主意!距離第一集發行已經 35 年了。 康套組? 蘇珊:我真的很期待。 兒子:好開心你喜歡。 (A) 我很想到電影院看《捍衛戰士─獨行俠》 。 媽媽:不論你買什麼,我都愛。 (B) 《捍衛戰士─獨行俠》是 2022 年票房冠軍。 (A) 我差點給你買了一個電鍋而不是這個。 (C) 我昨天在 Netflix 看了《捍衛戰士─獨行俠》 。 (B) 我們可以找人問路。 (D) 《捍衛戰士─獨行俠》是一部動作劇情片。 (C) 真是太好了,你克服了上台恐懼。"
+    },
+    {
+      "id": "MOCK_111_5_ENG_017",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Teacher: Tommy, why were you late again today? Tommy: The traffic was awful this morning and I got stuck in traffic. Teacher: Tommy: I’m really sorry for being half an hour late. I swear I won’t do that again.",
+      "image_url": "",
+      "options": [
+        "I am tired of imagining the traffic jams.",
+        "Don’t be too hard on yourself.",
+        "Can’t you leave the house 20 minutes earlier?",
+        "I will report the case to the police officer."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "老師:湯米,你今天怎麼又遲到了? (D) 你是世界上最好的媽媽。 111-5 共同科目 英文 詳解 湯米:今天早上的交通非常糟糕,我被堵在了路上。 是度假的藉口 (25) 也是探索文化差異的絕佳機會。 老師:"
+    },
+    {
+      "id": "MOCK_111_5_ENG_018",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "1922 Hot Line Service: 1922, what’s your emergency? Caller: My son has had high fever for 2 days. He has tested positive. I need an ambulance. 1922 Hot Line Service: Help should arrive shortly. Caller: It is No. 23 South Rd and my phone number is 09XX-123456.",
+      "image_url": "",
+      "options": [
+        "Is the patient awake?",
+        "Did he have difficulty breathing?",
+        "What’s your address and phone number, please?",
+        "How old is the patient?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "1922 熱線服務: 1922,你有何急事?"
+    },
+    {
+      "id": "MOCK_111_5_ENG_019",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Tenant: Do you have any apartment for rent? Landlord: Yes. What kind of apartment do you prefer? Tenant: I’d like to rent a studio or a two-bedroom apartment. Landlord: I have a two-bedroom apartment. I can show you around later. Tenant: Landlord: The cost per month is NT$1,000 for electricity and NT$500 for natural gas and NT$ 400 for water.",
+      "image_url": "",
+      "options": [
+        "Do I have to sign for a one-year term?",
+        "How much is the deposit?",
+        "Am I allowed to keep a pet?",
+        "What utility bills am I responsible for?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "房客:你們有公寓出租嗎? 至是巧克力曲奇餅也有一段非常有趣的歷史。一家旅館 房東:有的。你較喜歡什麼樣的物件? 的老闆只想做一些巧克力餅乾。在 (29) 混合配料時,店主 房客:我想租一間套房或兩房的公寓。 發現她的巧克力粉用完了。她掰開了甜巧克力作為替 房東:我有一間兩房公寓,我等一下可以帶你去看。 代, (30) 撕成小塊並將它們添加到餅乾麵團中。她預計巧 房客: 克力會融化,但小塊巧克力仍然完好然後成為了我們今 房東:每月電費 1000 元,天然氣 500 元,水費 400 天所吃的巧克力餅乾。這些例子解釋了偶然在一些偉大 元。 發明中扮演了一定的角色。 (A) 我必須簽一年的約嗎?"
+    },
+    {
+      "id": "MOCK_111_5_ENG_020",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Daddy: Jerry, you are supposed to go to bed early tonight. Jerry: I know. What if I lose the English speech contest tomorrow? Daddy: Have confidence in yourself. I will keep my fingers crossed for you. Jerry: Thanks, Daddy. You are the best.",
+      "image_url": "",
+      "options": [
+        "God helps those who help themselves.",
+        "I am too nervous to sleep.",
+        "You must be joking.",
+        "It doesn’t make any sense at all. III. 綜合測驗 說明:以下兩篇短文,共有 10 個空格,為第 21 至 30 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 21-25 題,請依短文文意,選出一個最適合該空格的答案。 Mother Earth gives mankind a period of time to enjoy the pleasure of rebirth of all creatures. It is also the time 21 people kick out a long dark winter. People around the world hold joyous festivals that mark the arrival of the thriving spring. In the States, a tradition takes place on Easter Monday: The White House Easter Egg Roll. Children would take part in the competition using wooden spoons to roll colorfully 22 eggs across the lawn. Additionally, there is Holi in India, a festival that is celebrated by putting herbal colors on each other’s face and 23 water on your friends. At the night before Holi, a bonfire is lit to praise the victory of good over evil. The scientific significance of lighting bonfires is that it kills all the germs in the air and 24 the atmosphere so that we step into a disease-free summer. These spring festivals around the world are not only the excuses to take a vacation 25 great chances to explore cultural differences."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "爸爸:傑瑞,你今晚應該早點睡覺。"
+    },
+    {
+      "id": "MOCK_111_5_ENG_021",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "If Miss Brown’s English class began from 10:00",
+      "image_url": "",
+      "options": [
+        "m. to 12:00 p.m. every Tuesday, when did students have to log in to the system? (A) 8:00 (A)m.",
+        "12:10 p.m.",
+        "9:50 (A)m.",
+        "10:10 (A)m."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：111-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_5_ENG_022",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "According to Miss Brown’s rules, which of the following statements is correct?",
+      "image_url": "",
+      "options": [
+        "Students could wear pajamas to keep themselves comfortable in online classes.",
+        "Students had to turn off the microphone while not talking.",
+        "Students could enjoy their breakfast or snacks in the online class.",
+        "Students were allowed to turn off the camera if they felt shy."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "依據布朗老師的課堂規則,以下哪項描述是正確的?"
+    },
+    {
+      "id": "MOCK_111_5_ENG_023",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "What is the main purpose of this competition other than to encourage students to learn English?",
+      "image_url": "",
+      "options": [
+        "To choose the best speaker to introduce Greenhill Junior High.",
+        "To choose the best poster to introduce a rare species of bee.",
+        "To choose the best one-minute podcast to introduce oneself.",
+        "To choose the best player to take part in a contest on behalf of the school."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "除了鼓勵學生學習英文外,本比賽主要目的是什麼? 要引起人們對他的行為的關注。直到 1988 年,他的善舉 (A) 選出最佳演說者介紹格林希爾中學。 才被世人注意到,當時他受邀參加 BBC 電視節目「那就 (B) 選出最佳海報介紹一種罕見蜜蜂物種。 (C) 選出最佳一分鐘自我介紹播客。 是生活!」,在那裡他與數十名他幫助來到英國的孩子團 (D) 選出最佳選手代表學校參加比賽。 聚。那是 1980 年代最受歡迎的電視節目之一。很少有哪 一集能像 1988 年 2 月 27 日尼古拉斯‧溫頓上節目那樣"
+    },
+    {
+      "id": "MOCK_111_5_ENG_024",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "According to the flyer, which of the following is correct?",
+      "image_url": "",
+      "options": [
+        "Contestants don’t have to pay any money to join in the event.",
+        "Students of all grades are welcome to participate in the competition.",
+        "The written test is held a few days before the oral test.",
+        "Top three winners are awarded with NT$ 2,000 for each. ▲閱讀下文,回答第 35-37 題 Smartphones are surely a must for modern people. Finding the right smartphones with limited budgets takes some time. Tom’s Guide is a website that can help save your time. Tom’s Guide has many subscribes. Viewers do not have to pay for the service, but they can donate in return. Here are 4 models of best entry level smartphones recommended in 2022 based on their testing and reviews: Product Gogo 1 Pineapple SE Grade A Motor G Display 6.5 inches 4.7 inches 6.43 inches 6.6 inches Battery Life 12.5 hrs 14 hrs 10 hrs 11 hrs Storage / Expandable 128 GB / Yes 64 GB / No 128 GB / No 32 B / Yes Weight 6.7 ounces 5.09 ounces 6.5 ounces 7 ounces Operating System Android iOS Android Android Price (USD) 429 499 349 335"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據宣傳單,以下敘述何者為真? 迴響之大。在節目快結束時,主持人展示了一本筆記本, (A) 參賽者無需支付任何費用即可參加活動。 上面列出了 1939 年從布拉格帶到英國的數百名猶太兒童 (B) 歡迎所有年級的學生參加比賽。 的名字。其中一個名字叫維拉‧迪亞曼特 (Vera Diamant), (C) 筆試在口試前幾天舉行。 (D) 前三名獲勝者每人將獲得獎金新台幣 2,000 元。 當年她 10 歲,她的父母安排她在英國開始新的生活。維 Question 35-37 拉和溫頓都在觀眾席上;當鏡頭把她拍出來時,觀眾看 智慧型手機無疑是現代人的必備品。在預算有限又 到了她旁邊坐著一位老人。老人和維拉都不知道他們是 要找到合適的智慧型手機需要花點時間。 《湯姆指南》是 被節目「設計」的。突然,主持人宣布這位老人名叫尼 一個幫你節省時間的網站。 《湯姆指南》有很多人訂閱。 古拉斯‧溫頓, 50 年前他曾救過維拉和其他數百名兒童 觀看者不需要對該網站服務付費但他們可以贊助網站。 的生命。兩人擁抱在一起,溫頓擦去眼角的淚水。 以下是根據他們實機測試與評論所推薦的 2022 年四款最 英國媒體對溫頓表示敬意,並稱他為「英國辛德 好用的入門機種: 勒」 。 2003 年,溫頓因「為人類服務,從納粹德國拯救猶 品名 Gogo 1 Pineapple SE Grade A Motor G 太兒童」而被英國女王伊麗莎白二世封為爵士。 螢幕 6.5 吋 4.7 吋 6.43 吋 6.6 吋"
+    },
+    {
+      "id": "MOCK_111_5_ENG_025",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Which of the following descriptions about the four recommended smartphones is correct?",
+      "image_url": "",
+      "options": [
+        "The cheapest one among the four is also the lightest.",
+        "All of the models above cost no more than USD 500.",
+        "They all use iOS operating system.",
+        "The smallest one has the shortest battery life."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "下列哪一個關於上述四款推薦手機的描述是正確 (A) 他從捷克解救了數千名猶太兒童。 的? (B) 他從捷克救出孩子的營救計劃失敗了。 (A) 四款中最便宜的一種也是最輕巧的。 (C) 他獲得了伊麗莎白二世女王給予的極大榮譽。 (B) 以上四款價格均不超過 500 美元。 (D) 他在二戰期間向公眾講述了他的故事。 (C) 全部均為 iOS 作業系統。"
+    },
+    {
+      "id": "MOCK_111_5_ENG_026",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "If the battery life is the only thing Mary cares about, which phone will she most likely buy?",
+      "image_url": "",
+      "options": [
+        "Gogo 1",
+        "Pineapple SE",
+        "Grade A",
+        "Motor G"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：111-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_5_ENG_027",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, how does Tom’s Guide run the website?",
+      "image_url": "",
+      "options": [
+        "It charges for their service.",
+        "It sells used smartphones through links.",
+        "It receives money from supporters.",
+        "It gets money from advertising. ▲閱讀下文,回答第 38-42 題 Many people must have heard the story about Oskar Schindler, a German businessman who saved the lives of 1,200 Jews during the Holocaust in WWII. He is the subject of the 1993 film Schindler’s List and came to show extraordinary courage and dedication in saving the lives of his Jewish employees. Less well-known is the story of Sir Nicholas Winton, helping to rescue 669 Jewish children from Nazi-occupied Czechoslovakia before the war broke out in 1939. Nicholas Winton was born in London in 1909. He bribed the government officials to get all the requirements and documents of bringing the Jewish children from Czechoslovakia to Britain and finding homes and sponsors for them. At that time, the British government made very strict laws for the entry of refugees. For instance, refugees must be younger than 17 years old and they had to pay £50 (that was a lot of money at the time) for their eventual return to go back home. The most touching part of the story is that Sir Winton stayed quiet for half a century about what he had done for those children. He didn’t feel the need to bring attention to his act. His kind deeds went unnoticed by the world until 1988, when he was invited to the BBC television program “ That’s Life!,” where he was reunited with dozens of the children he had helped come to Britain. “ That’s life! ” was one of the most popular television programs of the 1980s. Few episodes were as powerful as the one broadcast of Nicholas Winton on 27 February 1988. Near the end of the show, the host showed a notebook that listed the names of hundreds of Jewish children brought to Britain from Prague in 1939. One of the names was Vera Diamant, a ten-year-old girl, whose parents had arranged for her to start a new life in Britain. Both Vera and Winton were in the audience. As the camera picked her out, viewers saw an old man sitting next to her. Neither the old man nor Vera knew they had been ‘set up’ by the TV show. All of a sudden, the host announced that the old man was called Nicholas Winton, and that 50 years earlier he had saved the lives of Vera and hundreds of other children. The two embraced as Winton wiped tears from his eyes. The British press honored Winton and dubbed him the “British Schindler.” In 2003, Winton was knighted by Queen Elizabeth II for “service to humanity, in saving Jewish children from Nazi Germany.”"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：111-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_5_ENG_028",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "To introduce a popular TV program.",
+        "To review the history in 1930s.",
+        "To scold the crime of Nazis.",
+        "To show respect to a great man."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：111-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_5_ENG_029",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Which of the following statements about Nicholas Winton is true?",
+      "image_url": "",
+      "options": [
+        "He rescued thousands of Jewish children from Czechoslovakia.",
+        "He failed his rescue plan of saving children from Czechoslovakia.",
+        "He received a great honor from Queen Elizabeth II.",
+        "He made his story to the public during WWII."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：111-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_5_ENG_030",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, what do Oskar Schindler and Nicholas Winton have in common?",
+      "image_url": "",
+      "options": [
+        "They were both Germans.",
+        "Their stories were both made into films.",
+        "They both showed us the bright side of human nature.",
+        "They were both interviewed in That’s Life."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：111-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_5_ENG_031",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "Which of the following words is closest in meaning to the underlined word “ dubbed ”?",
+      "image_url": "",
+      "options": [
+        "nicknamed",
+        "accused",
+        "permitted",
+        "disturbed"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "以 下 哪 個 詞 的 含 義 與 劃 底 線 的 “dubbed” 字 義最 相 能充分表達原文題意,文法、標點正確,用字 近? 4 遣詞沒有不當之處。 (A) 命名為 (B) 控訴 (C) 允許 (D) 打擾 能適切表達原文題意,文法、標點、用字遣詞"
+    },
+    {
+      "id": "MOCK_111_5_ENG_032",
+      "subject": "英文",
+      "unit": "111-5-四技二專-00共同科目 英文",
+      "q": "What is the attitude of the British government toward refugees from Nazi-occupied European countries during WWII?",
+      "image_url": "",
+      "options": [
+        "welcoming",
+        "severe",
+        "thoughtful",
+        "casual 二、非選擇題 ( 第 I 題,每格 2 分,共 4 分;第 II 到 III 題,每題 6 分。共 16 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "二戰期間英國政府對來自納粹佔領的歐洲國家的難 3 僅有少數不當之處。 民抱持什麼態度? 僅能部分表達原文題意,文法、標點、用字遣 (A) 歡迎的 (B) 嚴厲的 (C) 體貼的 (D) 隨意的 2 詞有多處失當之處。 無法表達原文題意,文法、標點、用字遣詞僅 二、非選擇題 1 有少數正確之處。 I. 填充 (1) 空白 ( 未書寫文字 ) 。"
+    }
+  ]
+}

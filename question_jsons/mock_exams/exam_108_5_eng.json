@@ -1,0 +1,501 @@
+{
+  "bundle_id": "MOCK_108_5_ENG",
+  "questions": [
+    {
+      "id": "MOCK_108_5_ENG_001",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Cacti can grow very well in the desert or areas where the is extremely dry and hot.",
+      "image_url": "",
+      "options": [
+        "climate",
+        "client",
+        "corporation",
+        "convention"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "仙人掌在沙漠或天氣極度乾燥和炎熱的地方能長得"
+    },
+    {
+      "id": "MOCK_108_5_ENG_002",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "In order to reduce water, many high-tech electronic factories built processing plants to deal with its wastewater.",
+      "image_url": "",
+      "options": [
+        "progress",
+        "protein",
+        "possession",
+        "pollution"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "為了減少水污染,很多高科技電子廠蓋處理廠來處置 地勤: 廢水。 艾利絲:在這裡! (A) 進展 (B) 蛋白質 (C) 財產 (D) 污染 (A) 您此趟旅行的目的為何?"
+    },
+    {
+      "id": "MOCK_108_5_ENG_003",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "The president introduced Mark, who is a new member of the, to everyone in the meeting.",
+      "image_url": "",
+      "options": [
+        "symbol",
+        "staff",
+        "suspect",
+        "survivor"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "安德魯不知道如何和父母溝通,這也就是他們為何常 吵架的原因。 解答: Andrew doesn’t know how to communicate with (his) parents, and this is the reason why they often have an argument. 或 Andrew doesn’t know how to communicate with (his) parents, and this is the reason they often have an argument. 或 Andrew doesn’t know how to communicate with (his) parents, and this is why they often have an argument. 評閱指標 級分 說明 能充分表達原文題意,文法、標點正確,用字 4 遣詞沒有不當之處。 能適切表達原文題意,文法、標點、用字遣詞 3 僅有少數不當之處。 僅能部分表達原文題意,文法、標點、用字遣 2 詞有多處失當之處。 無法表達原文題意,文法、標點、用字遣詞僅 1 有少數正確之處。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_004",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Philips bought a(n) camera the other day, but it broke after he accidentally dropped it on the floor.",
+      "image_url": "",
+      "options": [
+        "electric",
+        "digital",
+        "visual",
+        "mobile"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "菲利普前幾天買了台數位相機,但在不小心摔到地下"
+    },
+    {
+      "id": "MOCK_108_5_ENG_005",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Dragons and Phoenixes are creatures that appear in Chinese stories. They are said to bring good luck to people who witness them.",
+      "image_url": "",
+      "options": [
+        "temporary",
+        "realistic",
+        "risky",
+        "ancient"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "龍和鳳凰是出現在古代中國故事的生物。據說目睹的 崔西: 5 件。 人們會有好運。 櫃員:請跟我來,你可以使用這間試衣室。 (A) 短暫的 (B) 真實的 (C) 危險的 (D) 古代的 (A) 你可以打折給我嗎?"
+    },
+    {
+      "id": "MOCK_108_5_ENG_006",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "My mother had been suffering from a headache for a month, and she finally went to a doctor yesterday to have a thorough checkup.",
+      "image_url": "",
+      "options": [
+        "previous",
+        "suitable",
+        "determined",
+        "constant"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "我的媽媽這一個月來一直為持續的頭痛所苦,而她昨 (B) 這件短褲多少錢? 天終於去看醫生做一個全面的檢查。 (C) 是試穿幾件呢? (A) 先前的 (B) 合適的 (C) 果決的 (D) 持續的 (D) 它們有折扣嗎?"
+    },
+    {
+      "id": "MOCK_108_5_ENG_007",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Even though it has been fifty years since my grandparents first met each other, they can still the day clearly.",
+      "image_url": "",
+      "options": [
+        "define",
+        "obtain",
+        "recall",
+        "participate"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "雖然我的祖父母離他們第一次見面的時間已經 50 年"
+    },
+    {
+      "id": "MOCK_108_5_ENG_008",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Before you use the new household appliances, you must read the carefully in order not to cause danger.",
+      "image_url": "",
+      "options": [
+        "flaws",
+        "benefits",
+        "recipes",
+        "instructions"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "在使用新買的家電前,你一定要詳細閱讀說明書以免 瑪利亞:你真好!感謝。 造成危險。 (A) 祝您假期愉快。 (A) 缺陷 (B) 利益 (C) 食譜 (D) 說明書 (B) 到機場的接駁車每 15 分鐘一班。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_009",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Although people living in big cities enjoy more convenience than those in the countryside in many ways, they need to stand more serious noise problems.",
+      "image_url": "",
+      "options": [
+        "catch up with",
+        "keep up with",
+        "break up with",
+        "put up with"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "雖然住在大城市的人們要比住在鄉下的人在許多方 (C) 我立刻派人到您的房間。 面享有更多的便利性,但他們需要忍受更多嚴重的噪 (D) 早上 8 點開始運作。 音問題。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_010",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "The manager of the human resource department of Eva Airline is trying hard to find out a solution to the strike problem.",
+      "image_url": "",
+      "options": [
+        "desperately",
+        "ultimately",
+        "obviously",
+        "absolutely"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "長榮航空人力資源部的經理正努力地找出解決罷工 約翰:了解,或許下次吧! 的方法。 (A) 太棒了。什麼時候? (A) 竭力地 (B) 最終地 (C) 明顯地 (D) 絕對地 (B) 有趣呀。謝謝你邀請我。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_011",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "The general public look up to those who are willing to spend time doing voluntary works in the communities.",
+      "image_url": "",
+      "options": [
+        "require",
+        "demand",
+        "respect",
+        "entertain"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "大眾尊敬那些願意花時間在社區做義工工作的人們。 (C) 太可惜了。我真的好想去。 (A) 要求 (B) 規定 (C) 尊敬 (D) 娛樂 (D) 恐怕不行。我要準備下星期的考試。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_012",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "(At the restaurant) Waiter: Excuse me, here’s your order of steak. Customer: I am sorry, but I didn’t order the steak. I ordered pork chop. Waiter: Oh, I’m terribly sorry. Customer: Thanks a lot.",
+      "image_url": "",
+      "options": [
+        "I will change it for you right away.",
+        "It’s nothing actually.",
+        "Thank you for being so understanding.",
+        "It happens sometimes."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "( 在餐廳 ) 溫妮:炸雞嗎? 服務生:打擾一下,這是您點的牛排。 派翠克:沒錯。 走吧! 顧客:抱歉,我沒有點牛排。我點豬排。 溫妮:好的。 服務生:喔,我萬分抱歉。 (A) 我請客。 (B) 沒事的。 顧客:非常感謝。 (C) 我還吃得下點心。 (D) 當自己的家。 (A) 我立刻幫您換。 108-5 共同科目 英文 詳解"
+    },
+    {
+      "id": "MOCK_108_5_ENG_013",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "(At the Airline check-in counter) Ground staff: Where are you flying? Alice: I am flying to London. Ground staff: Alice: Here you are.",
+      "image_url": "",
+      "options": [
+        "What’s the purpose of your visit?",
+        "May I have your passport, please?",
+        "How long will you be staying?",
+        "Where are you going to be staying?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "( 機場服務櫃台 ) 很好。 地勤:你飛往哪裡? (A) 天氣 (B) 客戶 (C) 公司 (D) 傳統 艾利絲:我將前往倫敦。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_014",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Clerk: Welcome to Cutie clothing store. May I help you? Tracy: May I try these on? Clerk: Certainly. Tracy: Five. Clerk: Please follow me. You can use this fitting room.",
+      "image_url": "",
+      "options": [
+        "Can you give me a discount?",
+        "How much are the shorts?",
+        "How many pieces?",
+        "Are they on sale?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "櫃員:歡迎光臨 Cutie 服飾店,需要幫忙嗎? 後壞了。 崔西:我能試穿這些嗎? (A) 電的 (B) 數位的 (C) 視線的 (D) 可攜式 櫃員:當然了。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_015",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Receptionist: Hello. Reception. May I help you? Maria: Yes. The air conditioning isn’t working. Receptionist: Sorry for the trouble. Maria: That’s kind of you. Thank you.",
+      "image_url": "",
+      "options": [
+        "Hope you enjoy your vacation.",
+        "The shuttle bus to the airport runs every 15 minutes.",
+        "I’ll send someone to your room immediately.",
+        "It begins its run at 8 (A)m."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "接待員:您好,櫃台,需要幫忙嗎? 了,但他們仍可清楚地回想起這一天。 瑪利亞:是的。冷氣壞掉了。 (A) 定義 (B) 取得 (C) 回想 (D) 參加 接待員:抱歉造成困擾。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_016",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "John: Would you like to go to Mayday’s concert tonight? Gina: John: I see. Maybe next time.",
+      "image_url": "",
+      "options": [
+        "I am glad to. What time is it?",
+        "That’s interesting. Thank you for inviting me.",
+        "That’s a pity. I really want to go.",
+        "I am afraid not. I have to study for the test next week."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "約翰:今天晚上要不要去看五月天的演唱會? (A) 追趕上 ( 進度 ) (B) 追上 (C) 分手 (D) 忍受 吉娜:"
+    },
+    {
+      "id": "MOCK_108_5_ENG_017",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Patrick: I’m starving. I could eat a horse. Let’s have some fried chicken. Winnie: Did you say fried chicken? Patrick: You bet. Let’s go. Winnie: Ok.",
+      "image_url": "",
+      "options": [
+        "It’s on me tonight.",
+        "Everything would be fine.",
+        "I have room for a dessert.",
+        "Make yourself at home."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "派翠克:我快餓死了。我可以吃下一頭牛。我們吃些 II. 對話題 炸雞。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_018",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Matt: Which workout equipment should we start with? James: Before we use any equipment, we need to warm ourselves up carefully. Matt: James: Ten minutes should be enough.",
+      "image_url": "",
+      "options": [
+        "How long should we warm up?",
+        "How often do you go to the gym?",
+        "How do we get started?",
+        "How would it be to exercise with others?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "麥特:我們應該從哪一個健身設備開始運動?"
+    },
+    {
+      "id": "MOCK_108_5_ENG_019",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Real Estate Agent: What kind of apartment are you looking for? Julian: I would like to live somewhere for less than $15,000 a month. Real Estate Agent: We can certainly find the price for you. Julian: Real Estate Agent: I’ll try my best to meet your need.",
+      "image_url": "",
+      "options": [
+        "We have to draw up a contract.",
+        "It will be better if it is furnished.",
+        "It is a good bargain.",
+        "I will pay the utility bills."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "房仲:你想要找什麼樣的公寓? 天,他是 (27) 如此的緊張以致於吃不下早餐。當他走進學 朱利亞:我想要找每月租金一萬五以下的。 校,他不知道他應該 (28) 去哪,很幸運地,他碰巧遇到一 房仲:我們一定會找到那個價錢。 位人很好的校長,校長 (29) 幫助了他,引導他到教室,也 朱利亞: 提醒彼得一些他不應該忘記 (30) 做的事。 房仲:我會盡力找到符合你所需求的。 在課堂,彼得很驚訝發現臺灣和美國的學校存在著 (A) 我們必須要簽合約。 大大的不同。臺灣的老師給予很多的選擇題,也就是說 (B) 最好有附家俱和裝潢。 問題是有標準答案的。但在美國,教師總是鼓勵學生說 (C) 很划算。 出點子和想法。 (31) 還有,美國學生必須換到不同教室上 (D) 我會付水電費。 課,而臺灣學生大多時間都待在同一個教室。彼得堅定"
+    },
+    {
+      "id": "MOCK_108_5_ENG_020",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Marvin: I haven’t been to Taipei Zoo for a long time. Emma: It is going to be a lot of fun. Marvin: What do you want to see first? The big cats? Emma: Good idea!",
+      "image_url": "",
+      "options": [
+        "I couldn’t agree more.",
+        "Don’t mention it!",
+        "Me neither.",
+        "It’s a deal."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "馬文:我好久沒有去臺北市立動物園了。 地相信有著老師和同學的協助他能夠很快適應。 艾瑪: 一定會很好玩。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_021",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Husband: Hey, honey. The milk is on sale. Buy one, get one free. Wife: That’s a lot of milk. Are you sure we’ll be able to drink it all? Husband: Wife: That’s on you. What else do we need?",
+      "image_url": "",
+      "options": [
+        "Are there any discounts on cheese?",
+        "I brought the coupons from the newspaper.",
+        "It expires on the 15th. We got at least a week.",
+        "Hopefully, we can save some money."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "老公:親愛的,鮮奶在特價,買一送一。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_022",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "What is this article mainly about?",
+      "image_url": "",
+      "options": [
+        "The major problems that birth defects bring to newborn babies.",
+        "The suggestions parents should take to lower the risk of birth defects.",
+        "The major causes that lead to birth defects of newborn babies.",
+        "The types of tests that should be taken to diagnose birth defects."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "這篇文章的主旨為何? (D) 慷慨在人類的快樂中扮演重要角色。 (A) 天生缺陷帶給新生兒主要的問題。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_023",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "According to the article, which of the following is TRUE?",
+      "image_url": "",
+      "options": [
+        "Doctors are clear about the causes of birth defects.",
+        "Most birth defects are deadly to newborn babies.",
+        "Most birth defects take large sums of money to be treated.",
+        "Many cases of birth defects could be found out at an early stage."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據這篇文章,下列何者「為真」? 下來」? (A) 醫生對於天生缺陷的成因很清楚。 (A) 存下一分錢才是賺一分錢。 (B) 大多的天生缺陷對新生兒是致命的。 (B) 呆子總是賺不到錢。 (C) 大多的天生缺陷要花大筆錢治療。 (C) 錢不一定總能帶來快樂。 (D) 很多天生缺陷早期就可以發現。 (D) 有錢能使鬼推磨。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_024",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "What does the word “ precautions ” mean in the fourth paragraph?",
+      "image_url": "",
+      "options": [
+        "The medicine that doctors prescribe to patients.",
+        "An efficient way to cure a serious illness.",
+        "An action to prevent something dangerous from happening.",
+        "Something that will bring a problem to an end."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "哪一個選項最接近第 4 段的 “precaution” 字義?"
+    },
+    {
+      "id": "MOCK_108_5_ENG_025",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Which of the following is NOT suggested for every pregnant woman?",
+      "image_url": "",
+      "options": [
+        "She should eat well.",
+        "She should take exercise regularly.",
+        "She should take prenatal ultrasound tests.",
+        "She should go to at least two doctors."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "下列哪件事不建議每一位懷孕的婦女做? I. 填充 (A) 她應該均衡飲食。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_026",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "In what section of a newspaper can we probably read the article?",
+      "image_url": "",
+      "options": [
+        "Entertainment",
+        "Classified Ads",
+        "Sports",
+        "Health ▲ 閱讀下文,回答第 37-41 題。 Some people might find out that they act or think like their mothers in some ways when they become grownups. What their mothers taught them in childhood would be passed on without their knowledge. This is never strange at all and it is common around the globe. Mothers would pass on words of wisdom to children generation after generation. Therefore, being like your mother doesn’t sound bad. Mothers’ words of wisdom have been a source of strength and hope to most people whenever life is down. A mother’s comforting words always make a person feel better and have courage to go forward. For lots of moms, words of wisdom include teaching their children about the importance of being positive. Being positive can conquer any problem and many people find themselves saying the same thing to their own kids. Regarding teaching children to be responsible, the concept involves the parts kids don’t like to do, such as homework and house chores. In addition, mothers’ words of wisdom guide their children to be generous to people around them, family and friends included. Most of all, mother’s words of wisdom instruct their children to tell right from wrong. For example, one phrase we often hear is “it is more blessed to give than to receive,” which teaches that there is joy in the act of giving. “Money doesn’t grow on trees” tends to teach children the idea that money must be earned by hard work and sweating. Money is never easy to acquire and everyone should be careful how much you spend. Most common words of wisdom have been taught through years, and will still be true even hundreds of years after. The values of being positive, responsible, and generous are universal. Those words of wisdom are believed as the most beautiful words on the lips of mankind. They show you the light when you just see the dark."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "我們可能在報紙哪個版面讀到這篇文章? 2 僅 1 個空格正確。 (A) 娛樂版 (B) 分類廣告版 0 2 個空格皆錯誤。 (C) 運動版 (D) 健康版 Question 37-41 II. 句子重組 有些人發現當他們長大之後行為和想法在某些方面 都跟他們的母親很相似。在孩提時候他們母親所教他們"
+    },
+    {
+      "id": "MOCK_108_5_ENG_027",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "The passage is mainly about.",
+      "image_url": "",
+      "options": [
+        "controversial issues",
+        "historical events",
+        "human values",
+        "scientific facts"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "你認為這篇文章主旨為 。 0 (2) 所有字詞組合錯誤。 (A) 有爭議的事件 (B) 歷史事件 (3) 只抄引導文字、題目或其他試題。 (C) 人類的價值 (D) 科學的事實 (4) 空白 ( 未書寫文字 ) 。"
+    },
+    {
+      "id": "MOCK_108_5_ENG_028",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "Which of the following is NOT the idea of words of wisdom mentioned in the article?",
+      "image_url": "",
+      "options": [
+        "The importance of responsibility.",
+        "Money can solve any problem.",
+        "The difference lies between right and wrong.",
+        "Generosity plays a key role in one’s happiness."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "下列何者不是文章中所提到關於智慧之語的想法? 108-5 共同科目 英文 詳解 III. 中譯英"
+    },
+    {
+      "id": "MOCK_108_5_ENG_029",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "What does the word “ They ” in the last paragraph refer to?",
+      "image_url": "",
+      "options": [
+        "Mothers",
+        "Words of wisdom",
+        "Responsibility",
+        "Hard work"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：108-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_5_ENG_030",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, which of the following phrases is closest in meaning to “Money doesn’t grow on trees”?",
+      "image_url": "",
+      "options": [
+        "A penny saved is a penny earned.",
+        "A fool and his money are soon parted.",
+        "Money doesn’t always bring happiness.",
+        "A golden key can open any door."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：108-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_5_ENG_031",
+      "subject": "英文",
+      "unit": "108-5-四技二專-00共同科目 英文",
+      "q": "The author has a(n) tone toward the way the adults act like their mothers.",
+      "image_url": "",
+      "options": [
+        "unsure",
+        "negative",
+        "positive",
+        "changing 第二部分:非選擇題 ( 第 I 至 III 題,每題 6 分,共 18 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：108-5-四技二專-00共同科目 英文解析.pdf"
+    }
+  ]
+}

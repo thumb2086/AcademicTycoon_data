@@ -1,0 +1,5771 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_UPPER_CH02",
+  "subject": "技術型高中機械群機件原理上冊",
+  "chapter": {
+    "code": "CH02",
+    "title": "02_螺旋"
+  },
+  "title": "技術型高中機械群機件原理上冊 CHAPTER 螺旋",
+  "source_pdf": "技術型高中機械群機件原理上冊_PPT/02_螺旋.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "螺旋"
+        },
+        {
+          "type": "paragraph",
+          "text": "本籣報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 丙容來源; 108 華興機件原理上冊 / 連結影片及部分圖片取目網路。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2-1 螺 旋 的 原 理 與 種 類"
+        },
+        {
+          "type": "heading",
+          "text": "2-1 螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "2-2 螺 旋 各 部 分 名 稱"
+        },
+        {
+          "type": "heading",
+          "text": "2-2 螺旋各部分名稱"
+        },
+        {
+          "type": "heading",
+          "text": "2-3 公 制 螺 紋 與 英 制 螺 紋"
+        },
+        {
+          "type": "heading",
+          "text": "2-3 公制螺紋與英制螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "2-4 機 械 利 益 與 機 械 效 率"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "2-4 機械利益與機械效率 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "2-5 螺 紋 運 用 數"
+        },
+        {
+          "type": "heading",
+          "text": "2-5 螺紋運用"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "2-1 螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "一、螺旋的原理 理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺旋 ( screw ) 是斜面原理的應用,用以傳達力量或運動,"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "而螺旋應用的範圍很廣,如螺栓、螺帽、螺釘。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-1 斜面 A 之底面在水平面上左右移動,迫使從動件 B 在固 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "定動路上做上下運動,從動件 B 運動的距離 S 如公式 2-1 所示。 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-1 斜面的應用"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-2 所示,以一張直角三角形紙片繞於圓柱體上為例,三角 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "形斜邊所繞成之軌跡,即成一螺旋線 ( helix ),而圓柱上 A、 B 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩點的距離 ( L ),則稱為導程 ( lead ) 或螺距 ( pitch ),單螺紋 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "時導程等於螺距。斜面 CB 與底邊長 AC 之夾角 θ,稱為導程角 ( lead angle ),此導程角的餘角 β,則稱為螺旋角 ( helix angle )。 該斜面即為一連續的螺旋線。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "B(C)"
+        },
+        {
+          "type": "heading",
+          "text": "B(C)"
+        },
+        {
+          "type": "heading",
+          "text": "B(C)"
+        },
+        {
+          "type": "heading",
+          "text": "導導螺圓直"
+        },
+        {
+          "type": "heading",
+          "text": "程程旋周徑"
+        },
+        {
+          "type": "heading",
+          "text": "角角長"
+        },
+        {
+          "type": "heading",
+          "text": "CB: 螺旋線長度"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "~ ~ 螺旋線"
+        },
+        {
+          "type": "heading",
+          "text": "CI 2 3 4 5 6 7 8 9 10 11"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 2 螺旋原理"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "設導程角為 θ,螺旋角為 β,導程為 L,圓柱直徑為 d, 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "則其關係式為: 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "二、螺紋的種類 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "螺旋線是種理論曲線,螺 理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "旋線的軌跡,用刀具在材 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "料上切削製成各種螺紋,"
+        },
+        {
+          "type": "paragraph",
+          "text": "即可用來作為機件使用。"
+        },
+        {
+          "type": "heading",
+          "text": "而這些螺紋有許多不同種"
+        },
+        {
+          "type": "heading",
+          "text": "類,其各螺紋種類名稱及"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "符號,如表 2-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 依螺紋繞軸的方向分 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "1. 右螺紋 ( right-handed thread ):如圖 2-3 所示,由軸線的"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "一端看,依順時針方向旋轉向前進的螺紋,以 R 或 RH 表示,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "可省略不標註。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回, 回"
+        },
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "右手判斷右螺紋: 右手拇指之指向表示螺紋旋轉時前進方向, 其他四指之指向表示螺紋順時針旋轉方向。"
+        },
+        {
+          "type": "heading",
+          "text": "右手"
+        },
+        {
+          "type": "heading",
+          "text": "右手"
+        },
+        {
+          "type": "heading",
+          "text": "永龍頭"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "向左上傾斜"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "前進方向順時針旋轉"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "∕ 冖丶丶"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 右螺紋應用實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 右螺紋示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 3 右螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "2. 左螺紋 ( left-handed thread ):如圖 2-4 所示,由軸線的一端 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "看,依逆時針方向旋轉向前進的螺紋,以 L 或 LH 表示。常用 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "於具危險或特殊用途的地方。 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回 • 回"
+        },
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "左手判斷左螺紋: 左手拇指之指向表示螺紋旋轉時前進方向, 其他四指之指向表示螺紋逆時針旋轉方向。"
+        },
+        {
+          "type": "heading",
+          "text": "左手"
+        },
+        {
+          "type": "heading",
+          "text": "斯調節器"
+        },
+        {
+          "type": "heading",
+          "text": "左手"
+        },
+        {
+          "type": "heading",
+          "text": "向右上傾斜"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "逆時針旋轉"
+        },
+        {
+          "type": "heading",
+          "text": "前進方向"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 左螺紋示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 左螺紋應用實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 4 左螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 依繞在直徑上的螺旋數分 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "1. 單螺紋 ( single thread ):如圖 2-5 所示,在材料的直徑面上"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "僅以一條螺旋線軌跡切削製成螺紋者,其導程等於螺距"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "( L = P )。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 複螺紋 ( multiple thread ):由兩條或兩條以上螺旋線軌跡切"
+        },
+        {
+          "type": "heading",
+          "text": "360°"
+        },
+        {
+          "type": "heading",
+          "text": "削製成螺紋者,每條螺旋線在軸端的相隔角度為,而導"
+        },
+        {
+          "type": "heading",
+          "text": "n"
+        },
+        {
+          "type": "paragraph",
+          "text": "程為螺旋數 ( n ) 與螺距之乘積 ( L = n × P ),故複螺紋可得較"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "大的導程,常應用於須快速移位的地方。如圖 2-5,導程為 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩倍螺距 ( L = 2P ),稱其為雙螺紋,導程為三倍螺距 ( L = 28 3P ),稱其為三螺紋。四線以上的螺紋以此類推。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "導程 L = 2 螺距 p L"
+        },
+        {
+          "type": "heading",
+          "text": "導程 L = 3 螺距 p L"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "導程 L = 螺距 P"
+        },
+        {
+          "type": "heading",
+          "text": "C A"
+        },
+        {
+          "type": "heading",
+          "text": "C"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "C A"
+        },
+        {
+          "type": "heading",
+          "text": "081"
+        },
+        {
+          "type": "heading",
+          "text": "081"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "120"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 雙螺紋 ( 螺旋線相隔 180。 ) (C) 三螺紋 ( 螺旋線相隔 120。 )"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 單螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 5 單螺紋與複螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 依螺紋用途性質分 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "1. 連接用螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 國際公制螺紋 ( international metric thread system ):如圖 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "2-6 所示,通行於各公制國家,如英、法、瑞士、俄、日 本等國,我國國家標準 ( CNS ) 亦訂此制為國家標準螺紋, 螺紋符號為 \"M\",以公厘 ( mm ) 為單位,螺紋角為 60 °,"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺峰為平面,螺峰寬為 螺距,螺根呈弧形。"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "內螺紋"
+        },
+        {
+          "type": "paragraph",
+          "text": "60。 0。"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "一 0 一 p"
+        },
+        {
+          "type": "heading",
+          "text": "0 P"
+        },
+        {
+          "type": "heading",
+          "text": "辦公椅輪"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 應用實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 螺紋形狀圖"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "P 表螺距; H=O. 866P; H2 ( 外螺紋深度 ) = 0 · 6495P HI ( 螺紋接觸高度 ) = 0.5412P; r=0.1083P"
+        },
+        {
+          "type": "heading",
+          "text": "d ( 外徑 ) =D ( 內螺紋之底徑 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "d2 ( 節徑 ) =D2 ( 內螺紋之節徑 ) =d-0.6495P dl ( 底徑 ) = DI ( 內螺紋之內徑 ) = d 一 1 · 0825P"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 6 國際公制螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "國際公制螺紋又分粗螺紋和細螺紋兩種,差異在於螺距 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "不同,例如 M10 為粗螺紋,外徑 10mm,螺距 1.5mm; 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "M10 × 1.25 為細螺紋,外徑 10mm,螺距 1.25mm,如 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "表 2-2 所示。在一般實用上,粗螺紋應用較廣泛;細螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "則因小徑較粗螺紋大,故強度較高,且導程角較小,旋"
+        },
+        {
+          "type": "paragraph",
+          "text": "緊後較不易鬆脫,常用於汽車及飛機上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "表 2-2 公制標準螺紋螺距 P 一覽表"
+        },
+        {
+          "type": "heading",
+          "text": "細螺紋 P"
+        },
+        {
+          "type": "heading",
+          "text": "公稱尺寸"
+        },
+        {
+          "type": "heading",
+          "text": "籶螺紋 P"
+        },
+        {
+          "type": "heading",
+          "text": "細螺紋 P"
+        },
+        {
+          "type": "heading",
+          "text": "公稱尺寸"
+        },
+        {
+          "type": "heading",
+          "text": "籸螺紋 P"
+        },
+        {
+          "type": "heading",
+          "text": "M3"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 35"
+        },
+        {
+          "type": "heading",
+          "text": "M18"
+        },
+        {
+          "type": "heading",
+          "text": "M4"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 7"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "M20"
+        },
+        {
+          "type": "heading",
+          "text": "M5"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "M22"
+        },
+        {
+          "type": "heading",
+          "text": "M6"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 75"
+        },
+        {
+          "type": "heading",
+          "text": "M2"
+        },
+        {
+          "type": "heading",
+          "text": "M8"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 25"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 75"
+        },
+        {
+          "type": "heading",
+          "text": "M27"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數四"
+        },
+        {
+          "type": "heading",
+          "text": "M10"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 25 0 · 75"
+        },
+        {
+          "type": "heading",
+          "text": "M30"
+        },
+        {
+          "type": "heading",
+          "text": "3 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "M 12"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 75"
+        },
+        {
+          "type": "heading",
+          "text": "1-1 1"
+        },
+        {
+          "type": "heading",
+          "text": "M36"
+        },
+        {
+          "type": "heading",
+          "text": "M14"
+        },
+        {
+          "type": "heading",
+          "text": "M42"
+        },
+        {
+          "type": "heading",
+          "text": "4 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "M16"
+        },
+        {
+          "type": "heading",
+          "text": "M48"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 銳 V 形螺紋 ( sharp V thread ):如圖 2-7 所示,形狀為正三 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "角形,又稱三角螺紋,以吋 ( in ) 為單位,其螺紋角為 60 °, 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺峰與螺根皆呈尖形,故強度較低,在製造上大部分都採 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "車製,一般用於機件之永久結合場合。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-7 銳 V 形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 美國標準螺紋 ( American standard thread ):如圖 2-8 所示 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": ",單位為吋 ( in ),其螺紋角為 60 °,除了螺峰與螺根均為 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "1 3"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "平面,其寬度為 螺距,高度只有銳 V 形螺紋的,美國"
+        },
+        {
+          "type": "heading",
+          "text": "8 4 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "標準螺紋較銳 V 形螺紋為佳,理由為:1螺紋之螺峰較不 易斷裂;2能承受較大的工作負載;3較容易製造;4可 得較大的根徑,以增加其強度。一般分為粗螺紋 ( NC )、 細螺紋 ( NF ) 及特細螺紋 ( NEF ) 三種,其粗螺紋與細螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "每吋螺紋數的對照表,如表 2-3。"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "/ 8"
+        },
+        {
+          "type": "heading",
+          "text": "P 表螺距; H=O. 866P"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋深度 HI = H -2 × 一"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "—H=O · 6495P"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "paragraph",
+          "text": "30。 300"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "P/8"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 8 美國標準螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "美國標準螺紋之大徑與每吋螺紋數表"
+        },
+        {
+          "type": "heading",
+          "text": "表 2 一 3"
+        },
+        {
+          "type": "heading",
+          "text": "單位: 吋"
+        },
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "細螺紋 (NF)"
+        },
+        {
+          "type": "heading",
+          "text": "籶螺紋 (NC)"
+        },
+        {
+          "type": "heading",
+          "text": "每吋螺紋數大徑"
+        },
+        {
+          "type": "heading",
+          "text": "每吋螺紋數大徑每吋螺紋數大徑"
+        },
+        {
+          "type": "heading",
+          "text": "每吋螺紋數"
+        },
+        {
+          "type": "heading",
+          "text": "大徑"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 8"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 8"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "5 一 8"
+        },
+        {
+          "type": "heading",
+          "text": "5 一 8 3 一 4 7 一 8 1"
+        },
+        {
+          "type": "heading",
+          "text": "-4"
+        },
+        {
+          "type": "heading",
+          "text": "1 亠冖 5"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "1 - -4 一 5"
+        },
+        {
+          "type": "heading",
+          "text": "一 4"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "00 一 8 0 /"
+        },
+        {
+          "type": "heading",
+          "text": "00"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "heading",
+          "text": "00 一 8 0 /"
+        },
+        {
+          "type": "heading",
+          "text": "0 / 一 8 1"
+        },
+        {
+          "type": "heading",
+          "text": "-4"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 ~"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 ~"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 統一螺紋 ( unified thread ):如圖 2-9 所 示, 是由美 國、 英 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "國、 加拿大三國協商而定之通用標準螺紋,螺紋角為 60 °, 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "其螺峰可製平面或圓弧,螺根呈圓弧,可分為粗螺紋 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "( UNC )、細螺紋 ( UNF ) 及特細螺紋 ( UNEF ) 三種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-9 統一螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 惠氏螺紋 ( Whitworth thread ):如圖 2-10 所示,為英國國 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "家標準螺紋,螺紋符號為 \"W\",其螺紋角為 55 °,螺峰與 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺根均呈圓弧形,無齒尖易磨耗損毀之弊,螺紋強度較大, 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "比美國標準螺紋為優。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-10 惠氏螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "(6) 圓螺紋 ( knuckle thread ):如圖 2-11 所示,螺紋符號為 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Rd\",螺峰與螺根均呈半圓形,一般螺距(節距)較大, 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "其鎖緊與鬆開較快速,可增進效率。常見於燈泡頭、瓶蓋、 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "橡皮管等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "螺距 P"
+        },
+        {
+          "type": "heading",
+          "text": "P/2"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 深圓螺紋示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "螺距 P"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "塑膠瓶罐"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 圓螺紋應用實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 淺圓螺紋示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圓螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 1 1"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "2. 動力用螺紋 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 方螺紋 ( square thread ):如圖 2-12 所示,螺紋斷面呈正"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "P P 7"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "方形,螺峰寬及螺根寬皆為,螺紋深度有 及 P 兩種,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 16"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "其傳動效率高,僅次於滾珠螺紋,可傳遞較大的動力,如 虎鉗螺桿即採用此螺紋。缺點為製造成本較高,且螺紋磨 損後不能用螺帽來調整間隙。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "( 虎鉗螺桿"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "距"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 螺紋形狀圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 應用實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 12 方螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 梯形螺紋 ( trapezoidal thread ):如圖 2-13 所示,螺紋符 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "號為 \"Tr\",螺紋斷面呈梯形,螺紋根部強度較大,製造費 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "用較低,螺紋磨損後可用對合螺帽 ( split nut ) 來調整貼合, 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺點為傳動效率較方螺紋低,依螺紋角可分為公制梯形螺 紋,螺紋角為 30 °;及英制梯形螺紋,螺紋角為 29 °,又稱 愛克姆螺紋 ( Acme thread )。梯形螺紋廣用於輕、中級動 力的傳達工作,如車床導螺桿即採用此螺紋。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "螺距 P"
+        },
+        {
+          "type": "heading",
+          "text": "一一 ' • · ' 車床導螺桿"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "峰寬 T = 0 · 3660P"
+        },
+        {
+          "type": "heading",
+          "text": "峰寬 T = 0.3707P"
+        },
+        {
+          "type": "paragraph",
+          "text": "根寬 W = 0 · 3660P 一 0 · 13mm 根寬 W = 0 · 3707P 一 0 · 0052 吋"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋深度 H = 0 · 5P + 0 · 01 吋"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋深度 H = 0 · 5P + 0.25mm"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 公制梯形螺紋形狀圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 英制梯形螺紋形狀圖"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 應用實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 13 梯形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 鋸齒形螺紋 ( buttress thread ):如圖 2-14 所示,又稱斜方 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋,螺紋符號為 \"Bu\",螺紋角為 45 °,具有方螺紋的效 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "率及 V 形螺紋的強度,主要用於傳遞單方向的動力,如砲 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "的後膛塞、螺紋千斤頂、活動扳手等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-14 鋸齒形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 滾珠螺紋 ( ball thread ):如圖 2-15 所示,具有較高的傳動 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "精度、速度及效率,常用於磨床、數值控制工具機、切削 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "中心加工機、機械手臂、汽車、精密量測儀,及精密研磨 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "機等,需要較高精度者。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-15 滾珠螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "3. 管用螺紋 ( pipe thread ):除了連接作用外,主要功用在於 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "防止洩漏,螺距較一般同直徑的螺紋小,可分為下列兩類: 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 直管螺紋 ( straight pipe thread ):如圖 2-16 所示,又稱平"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "行管螺紋,螺紋符號為 \"RS\" (英制)或 \"NPS\" (美制), 螺紋角為 55 °,多用於低壓管接頭,例如空氣壓縮機之油 杯接頭螺紋。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "heading",
+          "text": "H = 0 · 960491P"
+        },
+        {
+          "type": "heading",
+          "text": "HI = 0 · 640327P"
+        },
+        {
+          "type": "paragraph",
+          "text": "55。"
+        },
+        {
+          "type": "heading",
+          "text": "r = 0 · 137329P"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 直管螺紋形狀圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 應用實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 16 直管螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 錐形管螺紋 ( taper pipe thread ):如圖 2-17 所示,又稱 旋"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "斜管螺紋,螺紋符號為 \"PT\" (英制)或 \"NPT\" (美制), 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "可分為軸直角錐形管螺紋及面直角錐形管螺紋,螺紋錐"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "度為 1: 16 (即每呎 吋),螺紋角為 55 °,也有 60 °者,"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "多用於高壓管接頭,例如空氣噴槍之接頭螺紋。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋的原理與種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "21 · 27 · 5。 55。"
+        },
+        {
+          "type": "heading",
+          "text": "H = 0 · 960491P"
+        },
+        {
+          "type": "heading",
+          "text": "HI = 0 · 640327P"
+        },
+        {
+          "type": "heading",
+          "text": "r = 0 · 137329P"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 軸直角錐形管螺紋形狀圖"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "21 $ 27 · 5。"
+        },
+        {
+          "type": "heading",
+          "text": "HI = 0 · 64001P"
+        },
+        {
+          "type": "paragraph",
+          "text": "55。"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 錐形管螺紋應用實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "r = 0 · 13766P"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 面直角錐形管螺紋形狀圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 17 錐形管螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "2-2 螺旋各部分名稱"
+        },
+        {
+          "type": "heading",
+          "text": "旋"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "一、螺旋各部分名稱 分"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-18 為螺旋各部分名稱,其介紹如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 軸線 ( shaft line ):螺紋的中心線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 外螺紋 ( external thread ):又稱陽螺紋,在圓柱或圓錐外表"
+        },
+        {
+          "type": "paragraph",
+          "text": "面上加工螺紋者。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 內螺紋 ( internal thread ):又稱陰螺紋,在圓孔或錐孔內裡 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "面上加工螺紋者。 數"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺旋各部分名稱"
+        },
+        {
+          "type": "heading",
+          "text": "螺峰"
+        },
+        {
+          "type": "heading",
+          "text": "側面 ( 邊 )"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋角"
+        },
+        {
+          "type": "heading",
+          "text": "螺根"
+        },
+        {
+          "type": "heading",
+          "text": "冖一 ÄL"
+        },
+        {
+          "type": "heading",
+          "text": "軸線"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "螺距"
+        },
+        {
+          "type": "heading",
+          "text": "導程角"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 內螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 外螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 18 螺旋各部分名稱"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "4. 螺峰 ( crest ):螺紋之頂部。 旋"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "5. 螺根 ( root ):螺紋之底部。"
+        },
+        {
+          "type": "heading",
+          "text": "分"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "6. 側面(邊) ( side ):連接螺峰與螺根之螺紋面。 稱"
+        },
+        {
+          "type": "heading",
+          "text": "7. 大徑 ( major diameter ):又稱公稱直徑或外徑,在外螺紋時"
+        },
+        {
+          "type": "paragraph",
+          "text": "稱之為外徑,內螺紋時稱之為全徑。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 小徑 ( minor diameter ):又稱根徑或內徑,在外螺紋時稱之"
+        },
+        {
+          "type": "paragraph",
+          "text": "為底徑,內螺紋時稱之為內徑。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "9. 節圓直徑 ( pitch diameter ):簡稱節徑,可視為外螺紋與內 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋配合在一起時,所代表的接觸點形成之直徑。實用上,"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋節圓直徑之大小可用螺紋分厘卡測量。"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "10. 螺距 ( pitch ):或稱節距,相鄰兩螺紋對應點的軸向距離, 旋"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "常用 P 表示。 部"
+        },
+        {
+          "type": "heading",
+          "text": "分"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "11. 導程 ( lead ):螺旋在軸線方向旋轉一周所前進或後退的距"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "離,常用 L 表示。導程可等於或大於螺距。"
+        },
+        {
+          "type": "heading",
+          "text": "12. 導程角 ( lead angle ):螺旋線上任一點之切線與軸線之垂"
+        },
+        {
+          "type": "paragraph",
+          "text": "線所夾的角,常以 θ 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "13. 螺旋角 ( helix angle ):螺旋線上任一點之切線與軸線所夾"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "的角。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "14. 螺紋角 ( thread angle ):任相鄰螺紋兩側面(邊)所成的 旋"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "夾角。 部"
+        },
+        {
+          "type": "heading",
+          "text": "分"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "15. 螺紋深度 ( thread depth ):沿垂直軸線方向,峰與根間的"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "垂直距離。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "二、螺旋的功用 旋"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "1. 結合機件:用於將兩個或兩個以上機件連接起來,使其緊密 分"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "paragraph",
+          "text": "結合。如圖 2-19,此類機件一般都採用 V 形螺紋,而其螺紋 稱 須具有高強度及低效率的特性,不因外加之衝擊、振動或其 他因素的影響而造成鬆脫。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-19 螺栓與螺帽鎖緊虎鉗"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "2. 傳動或輸送動力:用以傳動或輸送動力的螺紋,其機械效率 旋"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "愈高愈好。動力用螺紋以傳動效率由高至低,依序為滾珠螺 部"
+        },
+        {
+          "type": "heading",
+          "text": "分"
+        },
+        {
+          "type": "paragraph",
+          "text": "紋>方螺紋>梯形螺紋>鋸齒型螺紋。 名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "3. 調整距離:須改變兩機件間之相對位置時,可利用螺紋來調"
+        },
+        {
+          "type": "paragraph",
+          "text": "整距離,大都採用低效率之螺紋,如圖 2-21(a) 之 C 形夾螺紋, 用於調整夾口距離,或如圖 2-21(b) 之高度規螺紋,用於微 調量測距離。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "旋"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "分"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-21 調整距離用之螺紋應用例"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "4. 微測:依測量機件的精密程度選擇螺紋之導程大小,導程愈 旋"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "小可得愈高的測量精密度。如圖 2-22 外徑分厘卡即是螺紋 部"
+        },
+        {
+          "type": "heading",
+          "text": "分"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "paragraph",
+          "text": "微測之應用,使用細導程之 V 形螺紋。一般常用的分厘卡主"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸之導程=螺距= 0.5mm,配合此螺紋之套筒圓周刻以 50"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "分刻度,每轉動 圈的套筒(即 1 分刻度),則主軸即移動"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "heading",
+          "text": "0.5"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 0.01mm,即量測精度為 0.01mm。"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-22 微測工具(外徑分厘卡)"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "公"
+        },
+        {
+          "type": "heading",
+          "text": "2-3 公制螺紋與英制螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "紋"
+        },
+        {
+          "type": "heading",
+          "text": "一、公制螺紋 與"
+        },
+        {
+          "type": "heading",
+          "text": "英"
+        },
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "公制螺紋之大小以公稱直徑及螺距表示,單位為公厘 ( mm ),"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "紋"
+        },
+        {
+          "type": "paragraph",
+          "text": "依據 CNS 螺紋標註規定,公制螺紋標註是由螺紋方向、螺紋 線數、螺紋符號、公稱直徑、螺距、公差等級之順序排列標註, 以例題 2-1 說明。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "公制螺紋與英制螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-1"
+        },
+        {
+          "type": "heading",
+          "text": "公差等級: 外螺紋節徑公差 6g"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "2N"
+        },
+        {
+          "type": "heading",
+          "text": "M"
+        },
+        {
+          "type": "heading",
+          "text": "10 × 1 · 25"
+        },
+        {
+          "type": "heading",
+          "text": "6g5g"
+        },
+        {
+          "type": "heading",
+          "text": "外徑公差 5g"
+        },
+        {
+          "type": "heading",
+          "text": "螺距: 細螺紋 P = 1 · 25mm"
+        },
+        {
+          "type": "heading",
+          "text": "公稱直徑: ¢ 10"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋符號: 國際公制螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數姍"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋線數: 雙螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋方向: 左螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "公"
+        },
+        {
+          "type": "heading",
+          "text": "1. 螺紋方向:分為右螺紋及左螺紋。右螺紋為 \"R\",可省略不 制"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "標註,左螺紋則須標註 \"L\"。 紋"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "英"
+        },
+        {
+          "type": "heading",
+          "text": "2. 螺紋線數:分為單螺紋及複螺紋。單螺紋不必標註,複螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "則須標註旋線數,例如雙螺紋以 \"2N\" 表示,三螺紋以 \"3N\""
+        },
+        {
+          "type": "heading",
+          "text": "紋"
+        },
+        {
+          "type": "paragraph",
+          "text": "表示,餘此類推。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 螺紋符號:表示螺紋的種類。表 2-4 所示為 CNS 標準螺紋符"
+        },
+        {
+          "type": "paragraph",
+          "text": "號。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "4. 公稱直徑:表示螺紋大徑,單位為公厘 ( mm )。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        },
+        {
+          "type": "heading",
+          "text": "5. 螺距:單位為公厘 ( mm ),公制螺紋中凡粗螺紋者,其螺距"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "可標註亦可省略不標註,但細螺紋者必須標註。"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "公制螺紋與英制螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "表 2-4 CNS 標準螺紋符號"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋形狀"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋名稱"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋符號"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋標註例"
+        },
+        {
+          "type": "heading",
+          "text": "公制粗螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "M10 × 1 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "公制細螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "M10 × 1"
+        },
+        {
+          "type": "heading",
+          "text": "三角形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "木螺釘螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "WS4"
+        },
+        {
+          "type": "heading",
+          "text": "韋氏管子螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "RI / 2 \""
+        },
+        {
+          "type": "heading",
+          "text": "自攻螺釘螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "TS3.5"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "公制梯形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "22 × 5"
+        },
+        {
+          "type": "heading",
+          "text": "梯形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "公制短梯形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "S36 × 6"
+        },
+        {
+          "type": "heading",
+          "text": "三角形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "公制鋸齒形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "B 40 × 7"
+        },
+        {
+          "type": "heading",
+          "text": "圓頂螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "圓螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "Rd40 × 5"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "公"
+        },
+        {
+          "type": "heading",
+          "text": "6. 公差等級:包括節徑及大徑(或小徑)公差等級。外螺紋公 制"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "差位置以小寫字母表示,有 e、 g、 h 三種,其公差等級節徑 紋"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "有 3 ~ 9 級共七級,大徑有 4、 6、 8 級共三級。內螺紋公差位 英"
+        },
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "置以大寫字母表示,有 G、 H 兩種,其公差等級節徑及小徑"
+        },
+        {
+          "type": "heading",
+          "text": "紋"
+        },
+        {
+          "type": "paragraph",
+          "text": "有 4 ~ 8 級共五級。標註時節徑公差在前,大徑(或小徑) 公差於後,如 \"6g5g\"。若公差等級相同時僅標註一個即可。 另外,公制螺紋若依 JIS 規定,配合等級可分為 1、 2、 3 三級, 其級數愈小代表精密度愈高。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "公"
+        },
+        {
+          "type": "heading",
+          "text": "二、英制螺紋 制"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "紋"
+        },
+        {
+          "type": "paragraph",
+          "text": "英制螺紋之大小以螺桿上每英吋 ( inch ) 有若干螺紋(牙)數 與"
+        },
+        {
+          "type": "heading",
+          "text": "英"
+        },
+        {
+          "type": "paragraph",
+          "text": "表示。統一螺紋的標註內容依公稱直徑、每吋螺紋(牙)數、 制"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋符號、公差等級、螺紋線數及螺紋方向之順序排列標註, 紋 以例題 2-2 說明。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "51"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "公制螺紋與英制螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-2"
+        },
+        {
+          "type": "heading",
+          "text": "3 一 8"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋方向: 左螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "UNC"
+        },
+        {
+          "type": "heading",
+          "text": "2A"
+        },
+        {
+          "type": "heading",
+          "text": "double"
+        },
+        {
+          "type": "heading",
+          "text": "LH"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋線數: 雙螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "公差等級: 2 級外螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋符號: 統一粗螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "每吋螺紋 ( 牙 ) 數: 每吋 16 螺紋 ( 牙 ) 數"
+        },
+        {
+          "type": "heading",
+          "text": "公稱直徑: 吋"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "公"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "1. 公稱直徑:表示螺紋大徑,以英吋 ( inch ) 為單位。直徑在"
+        },
+        {
+          "type": "heading",
+          "text": "4 螺"
+        },
+        {
+          "type": "heading",
+          "text": "紋"
+        },
+        {
+          "type": "paragraph",
+          "text": "吋以下者,以號碼 No.0 ~ No.12 表示直徑。 與"
+        },
+        {
+          "type": "heading",
+          "text": "英"
+        },
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "2. 每吋螺紋(牙)數:即為每吋長度內的螺紋(牙)數,用以"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "紋"
+        },
+        {
+          "type": "paragraph",
+          "text": "表示螺距的大小,其螺距值為每吋螺紋(牙)數的倒數。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 螺紋符號:統一螺紋符號分為粗螺紋 ( UNC )、細螺紋 ( UNF )"
+        },
+        {
+          "type": "paragraph",
+          "text": "及特細螺紋 ( UNEF ) 三種。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 公差等級:統一螺紋之精密度分為 3A、 2A、 1A,及 3B、 2B、"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "1B 等級。 A 代表外螺紋, B 代表內螺紋,其級數愈大代表愈"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        },
+        {
+          "type": "paragraph",
+          "text": "精密。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "公"
+        },
+        {
+          "type": "heading",
+          "text": "5. 螺紋線數:分為單螺紋及複螺紋。單螺紋不必標註,複螺 制"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "紋則須標註線數,例如雙螺紋以 \"double\" 表示,三螺紋以 紋"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"triple\" 表示,以此類推。 英"
+        },
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "6. 螺紋方向:分為右螺紋及左螺紋。右螺紋為 \"RH\" 可省略不"
+        },
+        {
+          "type": "heading",
+          "text": "紋"
+        },
+        {
+          "type": "paragraph",
+          "text": "標註,左螺紋則須標註 \"LH\"。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "2-4 機械利益與機械效率"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "利"
+        },
+        {
+          "type": "heading",
+          "text": "益"
+        },
+        {
+          "type": "heading",
+          "text": "一、機械利益 與"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "paragraph",
+          "text": "一機械自從動件輸出之力 ( W ) 與主動件輸入之力 ( F ) 的比值"
+        },
+        {
+          "type": "heading",
+          "text": "效"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "paragraph",
+          "text": "稱為機械利益 ( mechanical advantage ),以 \"Ma\" 表示。若不計 其摩擦損失,則機械利益愈大,亦愈省力;反之則愈費力。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "55"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "當 Ma > 1 時,則該機械為省力費時;當 Ma < 1 時,則該機械為 械"
+        },
+        {
+          "type": "heading",
+          "text": "利"
+        },
+        {
+          "type": "paragraph",
+          "text": "費力省時;當 Ma = 1 時,則該機械不省力也不費時,但可改變 益"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "施力方式。 機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "效"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "56"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用斜面與功的原理,可將螺紋製成效率良好的起重機,此類 械"
+        },
+        {
+          "type": "heading",
+          "text": "利"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械僅施以較小力量,即能舉起較重之物體。如圖 2-23 的螺旋 益"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "起重機,設施於起重機旋臂上之垂直作用力為 F,旋臂長為 R, 機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "效"
+        },
+        {
+          "type": "paragraph",
+          "text": "欲舉之重物為 W,螺桿之導程為 L,若不計各機件間之摩擦力,"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "paragraph",
+          "text": "當旋臂轉動一周時,其重物 ( W ) 向上頂進的移動距離為導程長"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "度 ( L ),臂上之垂直作用力 ( F ) 所移動的距離等於 (2πR) +L,"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "因 L 之值較 (2 π R) 小甚多,故常略而不計,則作用力的移動距 離為 2 π R。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機械利益與機械效率"
+        },
+        {
+          "type": "heading",
+          "text": "物重 w"
+        },
+        {
+          "type": "heading",
+          "text": "旋臂長 R"
+        },
+        {
+          "type": "heading",
+          "text": "作用力 F"
+        },
+        {
+          "type": "heading",
+          "text": "螺桿導程 L"
+        },
+        {
+          "type": "heading",
+          "text": "作用力 F"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "物重 W"
+        },
+        {
+          "type": "heading",
+          "text": "圓周長 2 R"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 螺旋起重機"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 受力示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 23 螺旋起重機"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p058.jpg"
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "依據「功」之原理 ( principle of work ),若不計機械之重量及 械"
+        },
+        {
+          "type": "heading",
+          "text": "利"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦損秏,主動件輸入的功恆等於從動件輸出的功,即「功」 益"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "= F × 2 π R = W × L,則 機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "效"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "若一機械由數個機械組合使用時,則其「總機械利益」為各 械"
+        },
+        {
+          "type": "heading",
+          "text": "利"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械之機械利益的乘積,即為 M = M × M × M ×......× M。 益"
+        },
+        {
+          "type": "heading",
+          "text": "a 1 2 3 n"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "效"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "二、機械效率 械"
+        },
+        {
+          "type": "heading",
+          "text": "利"
+        },
+        {
+          "type": "heading",
+          "text": "益"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械輸出功 ( Wo ) 與輸入功 ( Wi ) 的比值,稱為機械效率 與"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "( mechanical efficiency ),常以 \" η \" ( eta ) 符號表示。 械"
+        },
+        {
+          "type": "heading",
+          "text": "效"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械效率的大小代表一部機械能源使用率的高低狀態,其值常 以百分率表示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "實際上,任何機械都會有因摩擦而造成能量的損失,此摩擦損 械"
+        },
+        {
+          "type": "heading",
+          "text": "利"
+        },
+        {
+          "type": "paragraph",
+          "text": "失 ( X ) 的多寡,即決定機械效率值( η = 1 - X ),故任何一部 益"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械的機械效率都無法達到百分之一百,即機械效率恆小於 1。 機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "效"
+        },
+        {
+          "type": "paragraph",
+          "text": "若機械考慮摩擦損失時,從動件輸出功必小於主動件輸入功,"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "paragraph",
+          "text": "則( F × 2 π R ) × η = W × L,故得"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "若一機械由數個機械組合使用時,則其「總機械效率」為 械"
+        },
+        {
+          "type": "heading",
+          "text": "利"
+        },
+        {
+          "type": "paragraph",
+          "text": "各機械之機械效率的乘積,即為 η = η × η × η ×......× η。 益"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 3 n"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "效"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "63"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p063.jpg"
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機械利益與機械效率"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-24 所示, 螺旋之導程為 12mm, 旋臂長 R 為 60cm, 各摩擦部分的損失為 40 %, 以作用力 F 為 30 牛 頓之力, 能旋起懸於 A 螺帽上之重物 W 為若干牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 24"
+        },
+        {
+          "type": "heading",
+          "text": "螺旋應用"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p064.jpg"
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機械利益與機械效率"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知 L = 12mm = 1 · 2cm, R = 60cm, X = 40 % = 0 · 4, F = 30N"
+        },
+        {
+          "type": "heading",
+          "text": "W 2 R"
+        },
+        {
+          "type": "heading",
+          "text": "依公式 ( 2 一 7 ) 知 Ma="
+        },
+        {
+          "type": "heading",
+          "text": "= 1 一 X )"
+        },
+        {
+          "type": "heading",
+          "text": "F"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "W 2 × 60"
+        },
+        {
+          "type": "heading",
+          "text": "× ( 1 一 0 · 4 )"
+        },
+        {
+          "type": "heading",
+          "text": "30 一"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "則 W = 1800 = 1800 × 3 · 14 = 5652 牛頓 (N)"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "65"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機械利益與機械效率"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "發電機的機械效率為 80 %, 馬達之機械效率為 85 %, 則兩者一起使用時 ( 例如柴油"
+        },
+        {
+          "type": "heading",
+          "text": "電氣機車 ), 其機械效率為何?"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 / = 0 · 8 × 0 · 85 = 0 · 68 = 68 %"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "66"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p066.jpg"
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "2-5 螺紋運用"
+        },
+        {
+          "type": "heading",
+          "text": "紋"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "一、組合式螺紋傳動"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋用於傳動時,可採單一或組合式螺紋方式使用,組合式螺 紋即是在圓桿上同時具有兩種不同導程或不同旋向之螺紋,其 目的在於獲得較大的機械利益或快速移動之效果。常見的組合 式螺紋有「差動螺旋」與「複式螺旋」兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p067.jpg"
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "1. 差動螺旋 ( differential screw ):以有兩種不同的導程 ( L、 紋"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "L ),但旋向相同的螺旋組成,當螺旋在軸線方向旋轉一圈, 用"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動件前進或後退之距離為兩螺旋導程之差 ( L = L - L, L >"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "L ),故從動件運行緩慢且較費時,但可獲得較大的機械利"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "益,能以較小作用力舉起較重之物件,其機械利益為:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p068.jpg"
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 不考慮摩擦損失 紋"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 考慮摩擦損失"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "69"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p069.jpg"
+    },
+    {
+      "page": 70,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺紋運用"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-25 所示, 在一螺桿上, 兩導程分別為 LI = 5mm, L2 = 3mm, 兩者均為右螺旋, 施力桿之半徑 R = 100mm, 若不考慮摩擦損失時, 試求其螺桿旋轉一圈時, 則從動 件 N 前進或後退之距離為多少? 其機械利益為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "螺桿 SI"
+        },
+        {
+          "type": "heading",
+          "text": "螺桿 S2"
+        },
+        {
+          "type": "heading",
+          "text": "導程 L2"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "導程 LI"
+        },
+        {
+          "type": "heading",
+          "text": "螺旋傳動"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2-25"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "70"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p070.jpg"
+    },
+    {
+      "page": 71,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺紋運用"
+        },
+        {
+          "type": "paragraph",
+          "text": "解 ( 1 ) 因其螺桿由兩旋向相同且導程不同之螺旋組成, 故為差動螺旋。 當 K 桿旋轉 一圈, 從動件 N 前進或後退之距離為: L=LI—L2=5—3=2mm"
+        },
+        {
+          "type": "heading",
+          "text": "W 2 R"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 不考慮摩擦損失, 則依公式 ( 2 一 8 ) 知 Ma="
+        },
+        {
+          "type": "heading",
+          "text": "(LI>L2)"
+        },
+        {
+          "type": "heading",
+          "text": "F L1 ̄L2"
+        },
+        {
+          "type": "heading",
+          "text": "W 一 2 R"
+        },
+        {
+          "type": "heading",
+          "text": "2 × 3 · 14 × 100"
+        },
+        {
+          "type": "heading",
+          "text": "故 Ma—"
+        },
+        {
+          "type": "heading",
+          "text": "= 314 (LI>L2)"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "F L1—L2"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "71"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p071.jpg"
+    },
+    {
+      "page": 72,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "2. 複式螺旋 ( compound screw ):以有兩種不同旋向的螺旋組 紋"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "成,而其導程 ( L、 L ) 可相同也可以不同,當此螺旋在軸線 用"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "方向旋轉一圈,從動件前進或後退之距離為兩螺旋導程之和 ( L = L + L )。因同時具有不同旋向之螺旋,故從動件能快"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "速移動,可獲得省時之效能,其機械利益為:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "72"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p072.jpg"
+    },
+    {
+      "page": 73,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 不考慮摩擦損失 紋"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 考慮摩擦損失"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "73"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p073.jpg"
+    },
+    {
+      "page": 74,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺紋運用"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-25 所示, 在一螺桿上, 兩導程 LI、 L2 皆為 2mm, 且其旋向不同, 施力桿之半 徑 R= 100mm, 若不考慮摩擦損失時, 試求其螺桿旋轉一圈時, 則從動件 N 前進或"
+        },
+        {
+          "type": "heading",
+          "text": "後退之距離為多少? 其機械利益為若干?"
+        },
+        {
+          "type": "paragraph",
+          "text": "I 解 ( 1 ) 因其螺桿由兩旋向不同之螺旋組成, 故為複式螺旋。 當 K 桿旋轉一圈, 從動 件 N 前進或後退之距離為: L=Ll+L=2+2=4mm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "W 2 R"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 不考慮摩擦損失, 則依公式 ( 2 一 10 ) 知 Ma ="
+        },
+        {
+          "type": "heading",
+          "text": "F L1+L2"
+        },
+        {
+          "type": "heading",
+          "text": "W 2 R 2 × 3 · 14 × 100"
+        },
+        {
+          "type": "heading",
+          "text": "故 Ma="
+        },
+        {
+          "type": "heading",
+          "text": "= 157"
+        },
+        {
+          "type": "heading",
+          "text": "F 一 L1+L2"
+        },
+        {
+          "type": "heading",
+          "text": "2 十 2"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "74"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p074.jpg"
+    },
+    {
+      "page": 75,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "二、導螺桿 紋"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋傳達動力常以導螺桿形式運用之,而導螺桿的螺紋種類以 梯形螺紋或方螺紋為主,其中以方螺紋之傳動效率最高。梯形 螺紋則多應用於車床之導螺桿,其常搭配對合螺帽來調整傳動, 當導螺桿之螺紋略有磨損時,則可藉由對合螺帽來補正,使磨 損消弭於無形。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "75"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p075.jpg"
+    },
+    {
+      "page": 76,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "三、砂輪機左右磨輪之緊固 紋"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂輪機以一定的方向旋轉,一般馬達轉動方向即為砂輪機旋轉 方向。面對砂輪機從右手邊觀看,砂輪機主軸(砂輪)的轉向 為逆時針方向,右砂輪片用右螺紋緊固則有助鎖緊。從左手邊 觀看砂輪機主軸(砂輪)的轉向為順時針方向,左砂輪片用左 螺紋緊固則有助鎖緊。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "76"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p076.jpg"
+    },
+    {
+      "page": 77,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "四、反向運動 紋"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-26 所示,利用左旋與右旋螺紋在同一手柄的旋動(與 複式螺旋有相同功用),可使兩邊的從動件 M、 N 作不同方向 的軸向移動,旋轉一周時, M、 N 間互相靠近或遠離 3 + 4.5 ="
+        },
+        {
+          "type": "heading",
+          "text": "7.5mm,即兩機件 M、 N 間距離之變化為兩螺桿導程的和。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "77"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p077.jpg"
+    },
+    {
+      "page": 78,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺紋運用"
+        },
+        {
+          "type": "heading",
+          "text": "LLILL109"
+        },
+        {
+          "type": "heading",
+          "text": "Io=3mm"
+        },
+        {
+          "type": "heading",
+          "text": "L1=4.5mm"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 鬆緊螺栓扣示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "III 川 1 丨小 III"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 鬆緊螺栓扣實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 鬆緊螺栓扣應用"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 2 一 26 螺紋的反向運動"
+        },
+        {
+          "type": "heading",
+          "text": "78"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p078.jpg"
+    },
+    {
+      "page": 79,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "79"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch02/p079.jpg"
+    }
+  ]
+}

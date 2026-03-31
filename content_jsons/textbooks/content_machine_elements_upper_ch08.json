@@ -1,0 +1,3157 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_UPPER_CH08",
+  "subject": "技術型高中機械群機件原理上冊",
+  "chapter": {
+    "code": "CH08",
+    "title": "08_鏈輪"
+  },
+  "title": "技術型高中機械群機件原理上冊 CHAPTER 鏈輪",
+  "source_pdf": "技術型高中機械群機件原理上冊_PPT/08_鏈輪.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "鏈輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "本籣報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 丙容來源; 108 華興機件原理上冊 / 連結影片及部分圖片取目網路。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "8-1 鏈 條 傳 動 與 速 比 介 紹"
+        },
+        {
+          "type": "heading",
+          "text": "8-1 鏈條傳動與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "8-2 鏈 條 種 類 及 構 造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "8-2 鏈條種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "8-3 鏈 條 傳 動 之 功 率 數"
+        },
+        {
+          "type": "heading",
+          "text": "※ 8-3 鏈條傳動之功率"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "8-1 鏈條傳動與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈條傳動是兩輪軸間動力傳達的主要方法之一,當兩輪軸間距"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "離太遠,不適合齒輪傳動,且速比需要精確時,則以鏈條傳動 比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "paragraph",
+          "text": "最為適宜。鏈條是使用金屬製成環節,用軸銷一節一節聯結而 紹 成之撓曲條狀物,與輪面有鏈齒之鏈輪 ( sprocket ) 嚙合傳達動 力,非靠摩擦傳動,故無滑動發生,所以不需要初張力,張力 只發生在緊邊,鬆邊張力幾乎等於零。有效拉力以緊邊張力代"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "之,故有效拉力較皮帶大,廣用於起重、搬運及動力傳達等工"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "程上及日常生活中。"
+        },
+        {
+          "type": "heading",
+          "text": "226"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈條傳動與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 鏈條與鏈輪"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 鏈條傳動示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 腳踏車之鏈條機構"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8 一 1 鏈條傳動"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "一、鏈條傳動之優缺點 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 優點 與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "1. 無滑動現象,速比正確。"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "2. 兩軸間距遠近皆可適用。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 傳動時僅在緊邊有張力,鬆邊張力幾乎於零,故有效拉力較"
+        },
+        {
+          "type": "paragraph",
+          "text": "皮帶大,傳動效率高。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 不受濕度、溫度之影響。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "226"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 缺點 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "1. 不適合高速傳動,因速度快時,噪音大且鏈條鬆邊易生擺動"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "及振動。"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "2. 製造成本高,維護及裝置較困難。 紹"
+        },
+        {
+          "type": "heading",
+          "text": "3. 齒數少時(鏈輪周節與鏈條節距大),傳動速率不穩定,從"
+        },
+        {
+          "type": "paragraph",
+          "text": "動輪轉速不均勻。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 容易磨損。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "226"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "二、鏈條使用應注意事項 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "1. 速比一般以 7: 1 以內為佳。 與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "2. 一般取鏈條節距(簡稱鏈節)之 20 至 50 倍左右。"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鏈條與鏈輪之接觸角應在 120 ° 以上。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鏈輪之齒數一般在 25 齒至 125 齒之間為佳。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 鏈條傳動時,應上方為緊邊側,下方為鬆邊側,且其鬆弛量"
+        },
+        {
+          "type": "paragraph",
+          "text": "應適當,通常是兩軸中心距離的 4% 以內,但若有下列情形 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "存在時,則不得超過 2%。 數"
+        },
+        {
+          "type": "heading",
+          "text": "227"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 垂直傳動時。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 兩軸間距離在 1 公尺以上時。 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 重負載且經常起動或停止時。"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 會有緊急逆轉時。 比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "6. 鏈輪齒數須為奇數,鏈條之節數須為偶數。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 鏈條使用後因磨損而增長,其伸長量若超過 4% (或每呎超"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "過 吋)時,需更換不能再繼續使用。"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "8. 應予適當之潤滑,以減少磨損。"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "9. 加設防護蓋,避免發生危險及灰塵侵入。 227"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "10. 產生擺動及噪音現象,其改善方法有: 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 使用張力輪拉緊鏈條,安裝張力輪時必須置於鏈條鬆"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "邊,且須靠近直徑較小之鏈輪側。"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 縮短兩軸間距。 紹 (3) 降低鏈輪轉速。 (4) 增加鏈輪齒數、縮小鏈輪節距。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "227"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "228"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-2 使用張力輪防止鏈條擺動"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "三、速比 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈條在轉動時並非保持等速之圓形傳動,而是形成非等速之多 與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "邊形傳動,即造成鏈條在某一範圍內產生週期性的速度變化。 比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "其速度變化為 V - V = 2 π R(1 - cos θ )N,其鏈條中心與鏈"
+        },
+        {
+          "type": "heading",
+          "text": "max min"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪中心之垂直距離的變動情形 ΔR = R - r = R(1 - cos θ ),則稱 為「弦線作用」 ( chordal action ),此弦線作用將導致從動鏈 輪轉速不均,且易產生鏈條振動、噪音及動力的損失,尤其在"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "高速傳動下情況會更槽。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "228"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "228"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-3 六齒鏈輪帶動鏈條的情形"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "ΔR 值小,則會降低弦線作用,故鏈條擺動現象亦較少。鏈條 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "節距小( ΔR 值小),相對轉動的角度亦小,則可減少磨耗量。 動"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "欲降低弦線作用產生的現象,可適當的縮短鏈條節距、增加鏈 速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪齒數、縮小鏈輪節圓直徑、降低傳動速度。"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "229"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-4 降低弦線作用方式"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "弦線作用雖然會造成鏈輪轉速不均,但其鏈輪齒數夠多時,其 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "ΔR 值甚少,弦線作用近乎可忽略,故一般計算鏈輪傳動速比, 動"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "會視鏈條以等速之圓形傳動,忽略弦線作用計算之。 速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "229"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 鏈輪直徑與鏈條節距 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "設 θ =鏈輪周節之半中心角。"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "D =鏈輪之節圓直徑。 比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "T =鏈輪之齒數。 P =鏈條之節距。 n =鏈條之節數。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "229"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-5 鏈輪節徑與鏈條節距"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈條傳動與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "8-1"
+        },
+        {
+          "type": "heading",
+          "text": "8-2"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "180。"
+        },
+        {
+          "type": "heading",
+          "text": "Sin("
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈輪齒數( T )甚多時,鏈輪周節 ( P ) 與鏈條節距 ( P ) 幾近 條"
+        },
+        {
+          "type": "heading",
+          "text": "c"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "相等,即 P ≒P,故 PT≒ π D。 動"
+        },
+        {
+          "type": "heading",
+          "text": "c"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "230"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 鏈條長度 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈條的繞法與開口帶的皮帶傳動方式類似,所以鏈條長度之計"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "算可參考開口帶長度的公式求得。"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "D、 d 分別為兩鏈輪之節圓直徑, C 為兩軸的中心距 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "230"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈條長度計算之結果,亦必須考慮鏈條節數是否為整數節,則 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈條節數計算之結果,必須以無條件進位取得整數節,而一般 動力鏈通常為偶數節數,若為奇數,必須使用偏位鏈片調整, 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "或將奇數再加 1 以成為偶數。"
+        },
+        {
+          "type": "heading",
+          "text": "230"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈條傳動與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一節距 15 · 6mm 的滾子鏈, 其嚙合之兩鏈輪齒數各為 20 齒與 60 齒, 二軸間距離為 40cm, 試求: ( 1 ) 兩鏈輪之節圓直徑分別為多少 mm? ( 2 ) 鏈條之節數為若干? ( sin180 = 0 · 309, sin90 = 0 · 156, sin60 = 0 · 104, sin30 = 0 · 052 ) 已知 P = 15 · 6mm, TA=20, TB=60, C=40cm=400mm"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 8 一 2 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "15 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "15 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "= 100mm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Sin90"
+        },
+        {
+          "type": "paragraph",
+          "text": "180。 180。"
+        },
+        {
+          "type": "heading",
+          "text": "Sin("
+        },
+        {
+          "type": "heading",
+          "text": "Sin("
+        },
+        {
+          "type": "heading",
+          "text": "TA"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "15 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "15 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "= 300mm"
+        },
+        {
+          "type": "heading",
+          "text": "Sin30"
+        },
+        {
+          "type": "paragraph",
+          "text": "180。 180。"
+        },
+        {
+          "type": "heading",
+          "text": "Sin("
+        },
+        {
+          "type": "heading",
+          "text": "Sin("
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈條傳動與速比介紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 由公式 ( 8 一 4 ) 及 ( 8 一 5 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "( 300 一 100 ) 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "一 ( 300 十 100 ) 十 2 × 400 十"
+        },
+        {
+          "type": "heading",
+          "text": "= 268 十 800 十 25 = 1453"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4 × 400"
+        },
+        {
+          "type": "heading",
+          "text": "L 1453"
+        },
+        {
+          "type": "heading",
+          "text": "= 93 · 14"
+        },
+        {
+          "type": "heading",
+          "text": "P 一 15 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "則無條件進位取得整數節且須為偶數, 故鏈條之節數應為 94 節"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 鏈輪速比 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "因鏈輪與鏈條是確切傳動,無滑動發生,具鏈條上的每一點線"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "速度均相等,即 V = V,則"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈輪的轉速與節圓直徑及齒數成反比,即直徑愈大、齒數愈多 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "者轉速愈慢。"
+        },
+        {
+          "type": "heading",
+          "text": "231"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈條傳動與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一部腳踏車, 輪胎直徑為 50 公分, 前鏈輪之齒數為 60 齒, 後鏈輪之齒數為 15 齒, 當騎士以每分鐘踏 50 圈之速度前進, 試求: ( 1 ) 後鏈輪之轉速為多少 rpm? ( 2 ) 腳踏"
+        },
+        {
+          "type": "heading",
+          "text": "車每分鐘行走多少公尺?"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 D = 50cm = 0 · 5m, TI = 60, T2 = 15, NI = 50 卭 m"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 8-6 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "NI T2 15"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "heading",
+          "text": "· N2 = 200rpm"
+        },
+        {
+          "type": "heading",
+          "text": "N2 一 TI 一 60 一 N2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 因後鏈輪與輪胎同轉, 故腳踏車每分鐘行走之距離為 S = 7tDN2 = × 0 · 5 × 200 = 314m/min"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "8-2 鏈條種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈條有許多種類,依其用途分為起重鏈、輸送鏈及動力傳達鏈"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "等三種,其敘述如下: 造"
+        },
+        {
+          "type": "heading",
+          "text": "一、起重鏈 ( hoisting chain )"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱吊重鏈,用以曳引或吊掛重物,具有拉力大、強度高的特 性,傳動速率可達每分鐘 180 公尺,依形式不同可分為平環鏈 及柱環鏈兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "232"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "233"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-6 起重鏈與捲筒、鏈輪配合"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 平環鏈 ( plain link chain ) 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱套環鏈,常應用於吊車、起重機。"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "233"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-7 平環鏈"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 柱環鏈 ( stud link chain ) 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱日字鏈,為平環鏈改良而成,中央加一橫支柱,以增加鏈"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "條的曳引力,且可防止鏈條拉長變形,常用於船舶之錨鏈。"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "234"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-8 柱環鏈"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "二、輸送鏈 ( conveyor chain ) 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "用於搬運或輸送物料,鏈條表面近乎為平面,傳動速率在每分 及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "鐘 150 公尺以下,依型式不同可分為鉤連式及合連式兩種。 造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "234"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 鉤連式鏈 ( hook joint chain ) 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱鉤節鏈,鏈條的兩端分別為鉤狀與桿狀,再環環相鉤連接"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "而成,此種鏈條輕便且價廉,但運轉較不平穩,且容易有鏈條"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "脫落之現象,僅適用於低速之物品輸送。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "234"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-9 鉤連式鏈"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 合連式鏈 ( close joint chain ) 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱栓接鏈,或稱閉栓銷鏈,可分為平口式與斜口式兩種,平"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "口式鏈條以兩節為一單位,則必須是偶數節方可連接成圈;斜"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "口式鏈條之鏈節數則偶數或奇數均可,主要適用於連續性作業 之輸送帶。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "235"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-10 合連式鏈"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "三、動力傳達鏈 ( power transmission chain ) 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱功率傳達鏈,大多以碳鋼、合金鋼材料精製而成,形狀較 及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "為規律、精細,且須與較精密並具有特殊齒形之鏈輪配合使用, 造 主要用於轉速高且兩軸速比精確之處,依型式不同可分為塊狀 鏈、滾子鏈、無聲鏈三種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "235"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 塊狀鏈 ( block chain ) 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "以鋼料經衝製成塊狀,再以圓銷連接組合而成,其特色為製造"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "容易、價格便宜,僅適用於傳達動力小、低速傳動之處。"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "235"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-11 塊狀鏈"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 滾子鏈 ( roller chain ) 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "是由聯片(或稱連接板)、圓銷、襯套及滾子所組成,一條鏈"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "圈最小單位為兩節,其鏈節數必為偶數,若鏈節為奇數時,則"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "必須使用特殊製作的偏位聯片 ( offset link ) 方能傳動,傳動時 須與精密且具有特殊齒形(齒形曲線在節圓以上為漸開線,節 圓以下為圓弧線)之鏈輪配合。用途甚廣,常見於腳踏車、機 車及一般工廠用之動力傳達機構。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "236"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈條種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "外側聯片"
+        },
+        {
+          "type": "heading",
+          "text": "內側聯片"
+        },
+        {
+          "type": "heading",
+          "text": "外側"
+        },
+        {
+          "type": "heading",
+          "text": "鏈條"
+        },
+        {
+          "type": "heading",
+          "text": "圓銷"
+        },
+        {
+          "type": "heading",
+          "text": "內側"
+        },
+        {
+          "type": "heading",
+          "text": "節"
+        },
+        {
+          "type": "heading",
+          "text": "襯产"
+        },
+        {
+          "type": "heading",
+          "text": "鏈條"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 滾子鏈的組成"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "機車之鏈條機構"
+        },
+        {
+          "type": "heading",
+          "text": "雙股滾子鏈傳動"
+        },
+        {
+          "type": "heading",
+          "text": "單股鏈輪"
+        },
+        {
+          "type": "heading",
+          "text": "雙股鏈輪"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 應用例"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 鏈輪"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8 一 12 滾子鏈"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 無聲鏈 ( silent chain ) 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱靜音鏈,或稱倒齒鏈,是將鏈條聯片及鏈輪齒形兩端製成"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "斜直邊狀。在使用一段時間後,常因鏈條接連處磨損而使鏈條"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "伸長,造成傳動速率不均勻,產生震動與噪音,當磨損嚴重時, 甚至造成鏈條不堪使用而自鏈輪上脫落之現象。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "237"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8-13 無聲鏈"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "無聲鏈的特殊構造可以改善上述之缺點,當各鏈節因磨損而逐 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "漸伸長時,鏈條與鏈輪接觸的部分,會逐漸遠離鏈輪中心而自 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "動調整節長度,無滑動及噪音產生,且傳動時非常規律,故適 構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "用於高速率的傳動,常應用於機器中主動機的動力輸出,或是 用於汽車引擎上的定時鏈。 無聲鏈中應用較廣者有「雷諾無聲鏈」及「莫斯無聲鏈」兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "237"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "口. 一口"
+        },
+        {
+          "type": "heading",
+          "text": "鏈條種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "回 •"
+        },
+        {
+          "type": "heading",
+          "text": "回"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 實物照片"
+        },
+        {
+          "type": "heading",
+          "text": "保持接觸"
+        },
+        {
+          "type": "heading",
+          "text": "保持接觸"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 鏈條磨損前後傳動情形"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8 一 14 諾無聲鏈"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "238"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 8-15 莫斯無聲鏈( US 209661 A 專利)"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "四、各種類鏈條之選用需求 條"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈條選用需求與其承受之負載、速度及鏈條之結構有密切關係, 及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "略述如下: 造"
+        },
+        {
+          "type": "heading",
+          "text": "1. 使用於重負載及低速傳動時,由於鏈條運轉產生的離心力不"
+        },
+        {
+          "type": "paragraph",
+          "text": "大,所以可選用重型結構的起重型鏈條。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 用於輕負載及高速傳動時,由於鏈條運轉時會產生極大的離"
+        },
+        {
+          "type": "paragraph",
+          "text": "心力,所以應採用輕型的輸送型鏈條。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "3. 用於重負載及高速傳動時,則必須考慮使用動力傳達型的滾 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "239"
+        },
+        {
+          "type": "paragraph",
+          "text": "子鏈或無聲鏈。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "※"
+        },
+        {
+          "type": "heading",
+          "text": "8-3 鏈條傳動之功率"
+        },
+        {
+          "type": "heading",
+          "text": "條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "鏈條傳動時,因有鏈齒固定作用的關係,故無需初張力,其鬆"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "邊張力幾乎等於零,有效拉力近乎等於緊邊張力,設 率 T:鏈條之緊邊張力。 V:鏈條之平均速度。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "D:鏈條之節徑。 N:鏈輪之轉速。"
+        },
+        {
+          "type": "heading",
+          "text": "則鏈條傳動功率如下:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "239"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "一、瓦特 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 瓦特 ( W ) = 1 牛頓 - 公尺 / 秒 ( N-m/sec ), 之"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "1000W (瓦特) = 1kW (仟瓦特)。 率"
+        },
+        {
+          "type": "heading",
+          "text": "單位: T:牛頓 ( N );"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:公尺 / 秒 ( m/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "239"
+        },
+        {
+          "type": "heading",
+          "text": "D:公尺 ( m );"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:每分鐘轉數 ( rpm )。"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "二、公制馬力 條"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 公制馬力 ( PS ) = 75 公斤力 - 公尺 / 秒 ( kgf-m/sec )。 之"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "heading",
+          "text": "單位: T:公斤力 ( kgf );"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:公尺 / 秒 ( m/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "240"
+        },
+        {
+          "type": "heading",
+          "text": "D:公尺 ( m );"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:每分鐘轉數 ( rpm )。"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鏈條傳動之功率"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一動力鏈條之緊邊張力為 14 · 7 仟牛頓, 平均速度每分鐘 600 公尺, 試求: ( 1 ) 鏈條所傳遞之功率為若干仟瓦特? ( 2 ) 相當於若干馬力? 解已知 TI = 14 · 7kN = 14700N = 1500kg, V = 600 / min = 10m/s"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 8 一 7 )"
+        },
+        {
+          "type": "heading",
+          "text": ", 得"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wat = TI><V = 14700 × 10 = 147000w = 147kw"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 由公式 ( 8 一 8 )"
+        },
+        {
+          "type": "heading",
+          "text": ", 得"
+        },
+        {
+          "type": "heading",
+          "text": "TI><V"
+        },
+        {
+          "type": "heading",
+          "text": "1500 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "= 200 馬力"
+        },
+        {
+          "type": "heading",
+          "text": "75"
+        },
+        {
+          "type": "heading",
+          "text": "75 × 60"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch08/p044.jpg"
+    }
+  ]
+}

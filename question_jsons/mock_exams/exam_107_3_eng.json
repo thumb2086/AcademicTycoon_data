@@ -1,0 +1,501 @@
+{
+  "bundle_id": "MOCK_107_3_ENG",
+  "questions": [
+    {
+      "id": "MOCK_107_3_ENG_001",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "The little boy attended his grandpa’s service, not knowing why he was lying still in a wooden box.",
+      "image_url": "",
+      "options": [
+        "charity",
+        "customer",
+        "funeral",
+        "wedding"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "小男孩參加爺爺的喪禮,不知道為什麼他躺在木頭箱 Lisa:我很高興妳已經學到教訓了。 子裡一動也不動。 (A) 發生什麼事了嗎? (B) 妳說了什麼呢? (A) 慈善 (B) 消費者 (C) 喪禮 (D) 婚禮 (C) 還有嗎? (D) 這是做什麼的?"
+    },
+    {
+      "id": "MOCK_107_3_ENG_002",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Regular exercise and a balanced diet would be for those who are overweight.",
+      "image_url": "",
+      "options": [
+        "artificial",
+        "beneficial",
+        "commercial",
+        "financial"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "規律運動及均衡飲食對那些體重過重的人是有益的。"
+    },
+    {
+      "id": "MOCK_107_3_ENG_003",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "In the newspaper office, having to meet the puts everyone under much pressure.",
+      "image_url": "",
+      "options": [
+        "blueprint",
+        "deadline",
+        "highlight",
+        "shortcut"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "自私的人不願意幫助別人。 (C) 人類對於小草一無所知 解答: The selfish (people) are unwilling (not willing) to (D) 人類用草餵食牲畜 help others (other people)."
+    },
+    {
+      "id": "MOCK_107_3_ENG_004",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "When the battery of your smart phone is running low, you need to it.",
+      "image_url": "",
+      "options": [
+        "receive",
+        "recreate",
+        "recycle",
+        "recharge"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "當你的智慧型手機電池快沒電時,你需要將它充電。 (B) 我偏好大型犬,像德國牧羊犬這類的守衛狗。 (A) 接受 (B) 再創造 (C) 回收 (D) 充電 (C) 在附近的寵物店裡有各式各樣的寵物。"
+    },
+    {
+      "id": "MOCK_107_3_ENG_005",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "English is an endless guessing game. You can infer the meaning of words by reading the.",
+      "image_url": "",
+      "options": [
+        "context",
+        "contest",
+        "contact",
+        "contract"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "英文是個永無止境的猜謎遊戲,你可藉由閱讀上下文 (D) 這是我家小貓的畫像,看起來很可愛吧。 而把字的意思推論出來。"
+    },
+    {
+      "id": "MOCK_107_3_ENG_006",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "My nose itches and I can’t help.",
+      "image_url": "",
+      "options": [
+        "blinking",
+        "coughing",
+        "sneezing",
+        "yawning"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "我鼻子好癢忍不住就打噴嚏。 Lynn:明天早上八點。 (A) 眨眼 (B) 咳嗽 (C) 打噴嚏 (D) 打哈欠 Ruth:看來你將需要一大壺咖啡了。"
+    },
+    {
+      "id": "MOCK_107_3_ENG_007",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "If the fruit is grown, that means the farmers do not use chemicals on it.",
+      "image_url": "",
+      "options": [
+        "organically",
+        "originally",
+        "occasionally",
+        "offensively"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "如果水果是有機地種植,那意味著農夫沒在水果上使 (A) 看來你將需要一大壺咖啡了。 用農藥。 (B) 我很高興你至少不需要匆匆忙忙。 (A) 有機地 (B) 最初地 (C) 偶爾地 (D) 冒犯地 (C) 我強烈建議你跟我去看場電影。"
+    },
+    {
+      "id": "MOCK_107_3_ENG_008",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "The hospital was founded in the 1940s. It has served patients for more than seventy years.",
+      "image_url": "",
+      "options": [
+        "accomplished",
+        "established",
+        "nourished",
+        "published"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "這醫院於 1940 年代成立,它已服務病患超過七十年。 (D) 難怪你總是在嘗試找藉口。 (A) 完成 (B) 建立 (C) 滋養 (D) 刊登"
+    },
+    {
+      "id": "MOCK_107_3_ENG_009",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "When one is determined to pursue one’s dream, despite all the failure and hardship, the whole universe will silently give him or her a hand.",
+      "image_url": "",
+      "options": [
+        "construction",
+        "description",
+        "frustration",
+        "instruction"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "當一個人下定決心追求夢想,儘管一路上許多失敗和 Jennifer:他們對工作非常盡心盡力,不是嗎? 困難,整個宇宙會默默地助他 ( 她 ) 一臂之力。 Yamada:是的,我會說他們大部分都是工作狂。 (A) 建設 (B) 描述 (C) 挫折 (D) 指示 Jennifer:我不能同意更多了。"
+    },
+    {
+      "id": "MOCK_107_3_ENG_010",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Lady Godiva asked her husband to reduce the taxes so that the people could have spare time for art.",
+      "image_url": "",
+      "options": [
+        "come down with",
+        "cut down on",
+        "get down to",
+        "look down upon"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "戈黛娃夫人要求她丈夫減少賦稅,如此一來人們才能 (A) 是的,我會說他們大部分都是工作狂。 有多餘時間接觸藝術。 (B) 是的,他們整體而言儘可能地謙恭有禮。 (A) 染上 (B) 減少 (C) 開始認真做 (D) 鄙視 (C) 不,依我看來大部分的日本男人都很無趣。"
+    },
+    {
+      "id": "MOCK_107_3_ENG_011",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "On the way home from Kenting, I got carsick, and a wave of sickness made me vomit.",
+      "image_url": "",
+      "options": [
+        "break up",
+        "dress up",
+        "stay up",
+        "throw up II. 對話題 ( 第 12-21 題,每題 2 分,共 20 分 ) 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "從墾丁回家的路上我暈車,突來一陣噁心使我嘔吐。 (D) 不,普遍都認為他們跟狐狸一樣狡猾。 (A) 中斷 (B) 打扮 (C) 熬夜 (D) 嘔吐"
+    },
+    {
+      "id": "MOCK_107_3_ENG_012",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Jim: Are you doing anything this coming weekend? Jay: No, Jim: Weather permitting, let’s go rock climbing. Jay: Sounds appealing to me.",
+      "image_url": "",
+      "options": [
+        "I won’t go for that.",
+        "that sounds great.",
+        "let me call it a day.",
+        "nothing in particular."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Jim:即將來到的周末你有要做什麼嗎? 十分鐘,應該能讓我撐過今天 ( 延遲睡覺 ) 。 Jay:沒有,沒什麼特別的。 (A) 讓我嘗試一下這個。 Jim:若天氣許可,我們去攀岩吧! (B) 我完全同意你的想法。 Jay:聽起來很棒喔。 (C) 我跟你有相同的看法。 (A) 我不想做那事。 (B) 那聽起來不錯。 (D) 我有太多事情要做了。 (C) 今天到此結束。 (D) 沒什麼特別的。"
+    },
+    {
+      "id": "MOCK_107_3_ENG_013",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Jack: I got fired this morning. Judy: That’s too bad. But don’t be depressed. and find a new job soon. Jack: I hope so.",
+      "image_url": "",
+      "options": [
+        "You are telling me",
+        "You beat me",
+        "You’ll get over it",
+        "You deserve it"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Jack:今早我被開除了。 坐了。 Judy:真糟糕,但你毋須沮喪,你會撐過來的並很快 Steve:我不認為這是個問題。我這裡有很多額外空 找到新工作。 間,讓我移動我的一些東西吧。 Jack:但願如此。 Clark:太感謝你了,你知道當期末考來臨時,圖書館 (A) 那還用說 (B) 你考倒 ( 打敗 ) 我了 真的是擠滿了人。 (C) 你會撐過來的 ( 克服 ) (D) 你應得的 107-3 共同科目 英文 詳解 (A) 在宿舍裡讀書如何呢? 者被要求仔細看著蟲子精力旺盛地在水面上游著。接下 (B) 我受夠這種問題了。 來醫生抓出這隻蟲丟進裝滿酒精的那一瓶,蟲子直接下 (C) 我不認為這是個問題。 沉到瓶底,為了生存而奮力向上游,課堂上每個人當場 (D) 我無法承受任何風險。 立即 (29) 目睹蟲子縮小且斷成好幾截,最後 (30) 死掉。醫"
+    },
+    {
+      "id": "MOCK_107_3_ENG_014",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Lisa: Why do you have such a long face? Lily: I got a ticket of running a red light. I should have followed the traffic rule. Lisa: I’m glad that you’ve learned a lesson.",
+      "image_url": "",
+      "options": [
+        "What happened?",
+        "What did you say?",
+        "What else?",
+        "What is it for?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：107-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_3_ENG_015",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Joan: What kind of pet are you going to have? Jane: Joan: Well, then you might consider an Akita, a very special breed in Japan.",
+      "image_url": "",
+      "options": [
+        "I used to have a cat at home when I was a child.",
+        "I prefer a large one like a German shepherd—a guard dog.",
+        "There are a variety of pets in the pet store nearby.",
+        "Here’s a drawing of my kitten and it looks lovely."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Joan:妳將要養什麼種類的寵物呢? (A) 人造的 (B) 有益的 (C) 商業的 (D) 財務的 Jane:我偏好大型犬,像德國牧羊犬這類的守衛狗。"
+    },
+    {
+      "id": "MOCK_107_3_ENG_016",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Lynn: I wish I had started on my term paper earlier. Ruth: When do you have to hand it in? Lynn: Eight o’clock tomorrow morning. Ruth:",
+      "image_url": "",
+      "options": [
+        "Looks like you’ll be needing a big pot of coffee.",
+        "I’m glad that at least you don’t have to rush.",
+        "I highly suggest that you see a movie with me.",
+        "No wonder you’re always trying to make excuses."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Lynn:真希望我有早一點開始做我的期末報告。 (A) 上下文 (B) 比賽 (C) 接觸 (D) 合約 Ruth:你何時必須繳交呢?"
+    },
+    {
+      "id": "MOCK_107_3_ENG_017",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Yamada: What do you think about Japanese men? Jennifer: They are really dedicated to their work, aren’t they? Yamada: Jennifer: I can’t agree more.",
+      "image_url": "",
+      "options": [
+        "Yes, I would say most of them are “workaholics.”",
+        "Yes, they as a whole are as courteous as possible.",
+        "No, I’m of the opinion that most of them are boring.",
+        "No, it is generally thought that they are as sly as foxes."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Yamada:妳對日本男人的看法為何?"
+    },
+    {
+      "id": "MOCK_107_3_ENG_018",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Alex: I’m really beat. I only got about three hours of sleep last night. Felix: Why don’t you go back to your room and get some sleep? Alex: If I can just put my head down here for ten minutes, that should help me get through the day!",
+      "image_url": "",
+      "options": [
+        "Let me give it a try.",
+        "You can say that again.",
+        "I see things the same way.",
+        "I have got so much to do."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Alex:我真是累垮了,昨晚我只睡大約三小時。 Felix:為什麼不回到你房間睡一下呢? II. 對話題 Alex:我有太多事情要做了。如果我能在這裡小睡個"
+    },
+    {
+      "id": "MOCK_107_3_ENG_019",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Clark: Would you mind if I sit beside you? There aren’t many seats available. Steve: I have plenty of extra room here. Just let me move some of my things. Clark: I appreciate it. You know with the finals coming up, the library’s been really packed.",
+      "image_url": "",
+      "options": [
+        "How about studying in the dorm?",
+        "I’m getting fed up with this.",
+        "I don’t think it’ll be a problem.",
+        "I can’t afford to take any chances."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Clark: 你介意我坐在你旁邊嗎?這裡沒其他位子可以"
+    },
+    {
+      "id": "MOCK_107_3_ENG_020",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Customs: Good morning madam. What’s the nature of your visit? Traveler: Customs: Okay, here is your passport. Have a nice day.",
+      "image_url": "",
+      "options": [
+        "I have a hundred US dollars.",
+        "I packed my packages.",
+        "I want to declare my watch.",
+        "I’m visiting relatives."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "海關:早安女士,請問這趟旅程的目的為何? 生回頭問道: 「對於以上這事你們怎麼說呢?」一段長時 旅客:我來拜訪親戚。 間的 (31) 靜默之後,後排的某個學員起立說道: 「我很高 海關:沒問題了,這是您的護照,祝您有愉快的一天。 興如果我喝酒的話,我身體裡就再也沒有蟲子了。」 (A) 我有 100 美元的現金。"
+    },
+    {
+      "id": "MOCK_107_3_ENG_021",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Clerk: This is Urban Bank. May I help you? Alice: Is Mr. Maisky there? Clerk: I’m afraid he isn’t at his desk. Alice: No, thank you. I’ll call back later.",
+      "image_url": "",
+      "options": [
+        "Is he an old hand on this?",
+        "Could I take your message?",
+        "May I leave a message?",
+        "Does it make any difference? III. 綜合測驗 ( 第 22-31 題,每題 2 分,共 20 分 ) 說明:以下兩篇短文,共有 10 個空格,為第 22 至 31 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 22 至 26 題,請依短文文意,選出一個最適合該空格的答案。 Pizza had its humble past in an Italian waterfront city named Naples. Over 200 years ago, there were many poor workers 22 near the water. They spent most of their time working outdoors, so they 23 cheap and quick food that could be eaten while they were walking. Pizza, a thin and crispy flatbread with inexpensive toppings, was sold by the street vendors to meet this need. Pizza did not become popular outside Naples 24 the late 1800s. At that time, some Italian immigrants came to America and brought their tastes and 25 with them. The first pizzeria in the United States opened in New York City in 1905. After World War II, the pizza industry began to boom, and pizza-making was almost a national dish for Americans. 26 hamburgers remain American people’s top choice when they eat out, pizza is a close second. Today such a crusty food has become extremely popular and spread far and wide across the globe."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "行員: 這裡是都會銀行,請問有什麼可以幫上忙的嗎? 所 以 瓶 子 在 前 一 定 是 主 動 用 法, 故 用 現 在 分 詞 Alice:請問馬斯基先生在嗎? containing;若用關係子句需改成 that contained 行員:他現在不在位置上,我可以幫您留言嗎?"
+    },
+    {
+      "id": "MOCK_107_3_ENG_022",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "The main idea of the passage is that killer bees.",
+      "image_url": "",
+      "options": [
+        "have moved rapidly through USA",
+        "have been in the news a lot recently",
+        "are a hybrid rather than a pure breed",
+        "are not as aggressive as their reputation"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：107-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_3_ENG_023",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Why were African bees considered beneficial?",
+      "image_url": "",
+      "options": [
+        "They were aggressive and productive.",
+        "They produced a unique type of honey.",
+        "They spent much time attacking victims.",
+        "They tended to hide from terrible weather."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：107-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_3_ENG_024",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "In the first paragraph, the word “ overstated ” can be replaced by.",
+      "image_url": "",
+      "options": [
+        "explored",
+        "experienced",
+        "exaggerated",
+        "examined"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：107-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_3_ENG_025",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "According to the passage, is NOT a contributing factor in a killer bee’s attack.",
+      "image_url": "",
+      "options": [
+        "panic from the victims",
+        "the aggression in nature",
+        "an odorous chemical",
+        "disturbance of the bees"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據這篇文章, 不是促成殺人蜂攻擊的原 (C) 草的結構由三個不同部分組成。 因。 (D) 我們在山頂上找不到草的蹤跡。 (A) 受害者的恐慌 (B) 與生俱來的攻擊性 第二部分:非選擇題 (C) 有獨特氣味的化學物質 I. 填充 (D) 對於殺人蜂的侵擾"
+    },
+    {
+      "id": "MOCK_107_3_ENG_026",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "It can be inferred from the passage that killer bees.",
+      "image_url": "",
+      "options": [
+        "were carried from Africa to Brazil in 1955",
+        "are less aggressive than African bees",
+        "traveled from Africa to North America",
+        "attack whatever they come across ▲ 閱讀下文,回答第 37-41 題。 Though tiny and humble, we grass plants occupy one-fifth of the continents on earth. We have more than six thousand species, much more than any other plants in the world. Our structure is very simple: we have only one stem, a few leaves and shallow roots. Our ability to survive enables us to best adapt to any harsh environments. Therefore, we are here, there and everywhere: in the deserts, at the North and South Poles, up on the highest mountains and down in the deepest waters. Knowing nothing about us, people believe that we do not flower. They do not know that our flowers are unique: they have no color or smell, yet a single grass plant sometimes has fifty million pollen grains. When coming, the wind, our match-maker, brings us on a wedding dance. Carried by the air current, our pollen rises four thousand feet high and flies thousands of miles away to meet the lovers. Humans always call themselves the sons of the earth, but it is we that take nutrients out of soil to be the main food source on earth. In spring, we begin to absorb minerals from the soil to produce nutrients and then store most of them in our seeds. Having found out this secret in ancient times, human ancestors started to live on our seeds and feed our stems and roots to their livestock. Later on, they chose some of us, such as rice and wheat, and began to grow them on a large scale. With a sufficient food supply, they began to develop a wide variety of cultures all over the world. Therefore, it’s fair to say that we did help humans create their civilization."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "從這篇文章可以推論出殺人蜂 。 評閱指標 (A) 是在 1955 年從非洲被攜帶過來巴西的 級分 說明 (B) 比起非洲蜂較不具備攻擊性 4 2 個空格皆正確。 (C) 從非洲一路移動到北美洲 2 僅 1 個空格正確。 (D) 會攻擊牠們遇到的任何東西 Question 37-41 0 2 個空格皆錯誤。 儘管既微小又不起眼,我們草類植物佔領地球五分 II. 句子重組 之一的陸地。我們有超過六千個品種,比世界上任何植 物都還多。我們的構造很簡單:我們只有一根莖、幾片"
+    },
+    {
+      "id": "MOCK_107_3_ENG_027",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "The passage is mainly about the reason why.",
+      "image_url": "",
+      "options": [
+        "grasses can survive in the extreme weather",
+        "grasses are essential for human civilization",
+        "humans know very little about grasses",
+        "humans feed their livestock with grasses"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "這篇文章主要是關於為什麼 的理由。 (A) 草可在極端氣候生存 III. 中譯英 (B) 草對人類文明極度重要"
+    },
+    {
+      "id": "MOCK_107_3_ENG_028",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Based on the passage, which statement about the pollen is NOT true?",
+      "image_url": "",
+      "options": [
+        "It carries the air current.",
+        "It is ready to meet its love.",
+        "It flies thousands of miles away.",
+        "It rises four thousand feet high."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據這篇文章,以下關於花粉的敘述何者不正確? 幫助別人也可寫成 give others a hand 或 come to the (A) 它挾帶氣流。 aid of others’ (B) 它即將跟它的真愛相遇。 自私的人也可寫成 Those (people) who are selfish... (C) 它飛到數千英哩外。 但基於精簡 (concise) 的原則,優先使用形容詞放在名 (D) 它上升到四千英呎高。 詞前的修飾方式"
+    },
+    {
+      "id": "MOCK_107_3_ENG_029",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "The word “ adapt ” in the first paragraph is the closest in meaning to “.”",
+      "image_url": "",
+      "options": [
+        "adjust",
+        "adopt",
+        "advise",
+        "addict"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "第一段「適應」這字在意義上最接近 。 評閱指標 (A) 調適 (B) 採取或領養 (C) 建議 (D) 上癮 級分 說明"
+    },
+    {
+      "id": "MOCK_107_3_ENG_030",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Which of the following statements can NOT be inferred from the last paragraph?",
+      "image_url": "",
+      "options": [
+        "Rice and wheat originate from grasses.",
+        "Humans benefit a great deal from grasses.",
+        "Grasses are actually the sons of the earth.",
+        "Humans learn how to intake minerals first."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "以下的敘述何者不能從最後一段中推論出來? 能充分表達原文題意,對題材有絕佳的掌握, (A) 稻米和小麥起源於草。 4 句子結構及連貫性甚佳。文法及標點正確,用 (B) 人類從草中獲益良多。 字遣詞沒有不當之處。 (C) 事實上草才是大地之子。 能適切表達原文題意,對題材有良好的掌握, (D) 人類先學會如何去攝取礦物質。 3 句子結構及連貫性大致得當。文法及標點、用"
+    },
+    {
+      "id": "MOCK_107_3_ENG_031",
+      "subject": "英文",
+      "unit": "107-3-四技二專-00共同科目 英文",
+      "q": "Which of the following statements is TRUE?",
+      "image_url": "",
+      "options": [
+        "People generally believe that grasses flower.",
+        "The sun brings grasses for a wedding dance.",
+        "The grass is composed of three different parts.",
+        "We cannot find grasses on mountain peaks. 第二部分:非選擇題 ( 第 I 至 III 題,每題 6 分,共 18 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "以下的敘述何者是正確的? 字遣詞有少數不當之處,但不妨礙題意之表達。 (A) 人類普遍相信草會開花。 107-3 共同科目 英文 詳解 僅能部分表達原文題意,句子結構不良或有 2 誤,且大多難以理解並缺乏連貫性。文法及標 點、用字遣詞有失當之處。 無法表達原文題意,句子沒有結構概念及連貫 1 性,無法理解。文法及標點、用字遣詞之錯誤 甚多。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    }
+  ]
+}

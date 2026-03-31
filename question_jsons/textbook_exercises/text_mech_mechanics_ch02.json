@@ -1,0 +1,85 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH02",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_001",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "20kN/m 6m kN",
+      "image_url": "",
+      "options": [
+        "90 0",
+        "150 4m",
+        "120",
+        "200 88 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_002",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "2650",
+        "3500",
+        "5300",
+        "7000 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_003",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "20 N",
+        "48 N",
+        "52 N",
+        "26 N ACD 48 N (B) AB 100 N(D) AB BC 4m"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_004",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "90",
+        "120",
+        "150",
+        "150N 2m 4m"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_005",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "l. N",
+      "image_url": "",
+      "options": [
+        "10000",
+        "15000",
+        "22500",
+        "32500 100 N W = 15000 N AB CD 2-2 90 100N 2m 6m 3m 4m"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

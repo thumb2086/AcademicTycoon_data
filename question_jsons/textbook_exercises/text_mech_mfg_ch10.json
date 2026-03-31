@@ -1,0 +1,69 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH10",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH10_001",
+      "subject": "機械製造",
+      "unit": "CH10",
+      "q": "40",
+      "image_url": "",
+      "options": [
+        "8",
+        "6",
+        "4",
+        "2 (A) (B) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH10_002",
+      "subject": "機械製造",
+      "unit": "CH10",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        ")"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH10_003",
+      "subject": "機械製造",
+      "unit": "CH10",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        ")"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH10_004",
+      "subject": "機械製造",
+      "unit": "CH10",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        ")"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

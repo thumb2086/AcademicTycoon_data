@@ -1,0 +1,69 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH03",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH3",
+      "q": "5 1 mm 3-29",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch03/p017_0_50_0_r.png",
+      "options": [
+        "(A) 鋸條靠於姆指之指甲邊四丶鋸切 3-29",
+        "3-29",
+        "(B) 左手自然舒展輕扶鋸架前端 (C) 眼睛注視鋸切處, 向前施加推力與向下壓力, 充分利用鋸條全長進行鋸切 A 圖 3-29 鋸切方式 0 4 5 6 以每分鐘 50 ~ 60 次的頻率鋸切, 學後量 (B) (A)",
+        "(A) (B) (D) (A) (B)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH3",
+      "q": "02mm (C) (D) 60",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "60 (A) (B) (C) (D) (A)V (B) (D) (A) (B) (C) (D) (A) (B) (D) 3-3 (A) (B) (D) (A) 1 (B)2 (C)3 (D)4 (A) ("
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_003",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "30",
+        "60",
+        "90",
+        "180 (A) (B) (C) (D) (A) (B) (D) 3-5 (A) (B) (D) 58 學後量 (D) 3-6 ( (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_004",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "(B) (D) (B)",
+      "image_url": "",
+      "options": [
+        "",
+        "(D) (B) (A) (A) (A) (D) (B) (D) (B) (A)",
+        "",
+        "(B) (A) (A) (A) (D) (B) (D) (B) (A) (C) (B) (A) 59"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

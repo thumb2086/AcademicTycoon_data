@@ -1,0 +1,3681 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH11",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH11",
+    "title": "CH11"
+  },
+  "title": "機械力學 Chapter 11 平面的性質",
+  "source_pdf": "機械力學/CH11PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        },
+        {
+          "type": "heading",
+          "text": "平面的性質"
+        },
+        {
+          "type": "heading",
+          "text": "本章網要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "11-1 慣性矩和截面係數 1. 能瞭解面積慣性矩和截面係數 11-2 平行軸定理與迴轉半徑 的定義。 11-3 極慣性矩的認識 2. 能理解平行軸定理、迴轉半徑 11-4 簡單面積與組合面積之慣性 與慣性矩之關係。"
+        },
+        {
+          "type": "heading",
+          "text": "矩 3. 能證明與瞭解極慣性矩是 x 軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "與 y 軸慣性矩的和。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 能熟悉簡單形狀如:矩形、三"
+        },
+        {
+          "type": "paragraph",
+          "text": "角形、圓形的慣性矩公式。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 能理解使用平軸定理的基本公"
+        },
+        {
+          "type": "heading",
+          "text": "式,求得各種組合面積的慣性"
+        },
+        {
+          "type": "paragraph",
+          "text": "矩。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "102"
+        },
+        {
+          "type": "paragraph",
+          "text": "當我們看鋼構橋樑時,其斷面呈工字形或不規則形狀,鐵軌成工字形或汽車的籠形結 構為什麼是複雜斷面呢?為了瞭解此情況,我們必須先從慣性矩的定義來瞭解,並從下一 章節之彎曲應力與剪應力來進一步深入瞭解其強度及複雜斷面形狀的由來,採用複雜斷面 可以減輕材料之重量,並且增加構件之強度,本章為後面兩章節之基礎,應詳細明瞭並懂 得計算慣性矩、極慣性矩,以增加後 2 章之計算能力,宜詳加瞭解。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-1 型鋼 ▲ 圖 11-2 鐵軌"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-3 車體籠形結構"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 103"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-4 重慶朝天門長江大橋 ( 世界跨徑最大的橋 )"
+        },
+        {
+          "type": "heading",
+          "text": "11-1 慣性矩與截面係數"
+        },
+        {
+          "type": "heading",
+          "text": "1. 面積慣性矩 (I)"
+        },
+        {
+          "type": "paragraph",
+          "text": "在一平面上各個 微小面積乘以其至某一軸間距離之平方的總和,稱為該面積 對該軸之慣性矩 (area moment of inertia),又稱面積的二次矩 (second moment),以 英文字母“ I ”表示之。 如圖 11-5 所示,將面積 A 分為 A 1、 A 2、 A 3、⋯、 A n 的微小面積,其形心座 標分別為 (x 1, y 1 )、 (x 2, y 2 )、 (x 3, y 3 )、⋯、 (x n, y n )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-5 面積的慣性矩"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "104"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 面積 A 對 x 軸的慣性矩為"
+        },
+        {
+          "type": "heading",
+          "text": "n"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "I x = A y 1 1 + A y 2 2 + A y 3 3 +  + A y n n = ∑ A y i i = y dA"
+        },
+        {
+          "type": "heading",
+          "text": "∫ A"
+        },
+        {
+          "type": "heading",
+          "text": "i = 1"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 面積 A 對 y 軸的慣性矩為"
+        },
+        {
+          "type": "heading",
+          "text": "n"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "I y = A x 1 1 + A x 2 2 + A x 3 3 +  + A x n n = ∑ A x i i = x dA"
+        },
+        {
+          "type": "heading",
+          "text": "∫ A"
+        },
+        {
+          "type": "heading",
+          "text": "i = 1"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "面積的 慣性矩為純量其值恆為正,其單位為長度的 四次方,如: cm、 mm、"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "in。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 截面係數 (Z)"
+        },
+        {
+          "type": "paragraph",
+          "text": "當材料截面上下對稱且為均質材料,沒受彎曲負荷時,通過形心的軸稱為中 立軸 (neutral axis),截面對 形心軸的慣性矩除以中立軸至截面邊緣最遠的距離,所 得到的商,稱為該截面之截面係數 (section modulus) 又稱 剖面模數,以英文字母 “ Z ”表示之。 如圖 11-6 所示, x 軸與 y 軸為中立軸 ( 形心軸 ),則"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-6 截面係數"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 對 x 軸之截面係數 (Z x )"
+        },
+        {
+          "type": "heading",
+          "text": "I x I x"
+        },
+        {
+          "type": "paragraph",
+          "text": "Z x 1 =; Z x 2 = ( 一般取較小值之 Z x ) ( 公式 11-1)"
+        },
+        {
+          "type": "heading",
+          "text": "y 1 y 2"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 105"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 對 y 軸之截面係數 (Z y )"
+        },
+        {
+          "type": "heading",
+          "text": "I y I y"
+        },
+        {
+          "type": "paragraph",
+          "text": "Z y 1 =; Z y 2 = ( 一般取較小值之 Z y ) ( 公式 11-2)"
+        },
+        {
+          "type": "heading",
+          "text": "x 1 x 2"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "截面係數的單位為長度的三次方,如: cm、 mm、 in。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 討論:"
+        },
+        {
+          "type": "paragraph",
+          "text": "由定義知道面積距離中立軸愈遠,慣性矩愈大,截面係數就愈大。當面積相 同時,各種斷面情形的慣性矩和截面係數之大小順序,如圖 11-7 所示。 (1) 慣性矩: I 工字形 > I 長方形 ( 直立 ) > I 正方形 > I 圓形 (2) 截面係數: Z 工字形 > Z 長方形 ( 直立 ) > Z 正方形 > Z 圓形"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲圖 11-7 相同面積下,慣性矩和截面係數之大小順序"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "慣性矩在樑或軸之應力分析時,有其絕對"
+        },
+        {
+          "type": "paragraph",
+          "text": "重要性。在熟悉慣性矩後,同學就可以瞭"
+        },
+        {
+          "type": "heading",
+          "text": "解鐵軌為何是「工」字形的設計,還有工"
+        },
+        {
+          "type": "heading",
+          "text": "程上常見的 H 形、 C 形樑全都是經過慣性"
+        },
+        {
+          "type": "paragraph",
+          "text": "矩計算的結果。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "106"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "為什麼飛機窗戶設計那麼小?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 飛機舷窗 ( 圖片來源:旅行百科 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "有搭乘過飛機經驗的朋友是否曾經有這樣的疑問,和生活中的窗戶相比,飛機的窗戶也實在太小了 吧!那麼為什麼不能把飛機的窗戶做大點呢?做大一點不就可以讓人更加方便觀看美景和外面的突發狀"
+        },
+        {
+          "type": "heading",
+          "text": "況了嗎?"
+        },
+        {
+          "type": "paragraph",
+          "text": "其實航空公司之所以這樣設計飛機窗戶是有三個原因的,其一,一開始飛機的舷窗的設計確實主要 是為了便於乘客觀看地面風景,因為那個時候飛機飛行高度較低基本都在雲層以下,所以觀看效果非常 好。但是後來隨著飛機技術的改革進步,飛機的飛行高度越來越大一般都在雲層以上,所以在飛行時我 們就看不到窗外的風景了。那麼現在航空公司也沒有必要為了滿足乘客的觀看效果而特意將飛機窗口增 大了。當然由於飛機窗口還是有其他的作用,所以它依然保留了下來。 其二,要知道 飛機窗口大小會嚴重影響到飛機整體結構強度,進而影響到乘客生命安全。飛機的機 體主要由蒙皮,桁條,隔框等組成。它們彼此交錯,橫豎組合,相連在一起。舷窗則鑲嵌在其中,故它 的大小受到限制。其實很多設計師是不願意設計選窗口的,因為飛機在高空受力複雜如果全都是合金艙 體的話那麼飛機受力較為均 比較方便選擇材料和設計。但如果一小部分為玻璃窗戶,那麼在這個窗戶 的大小和玻璃材料的選擇都會影響到整體力的分布,而這一點還是飛機安全的核心所在。 其三,飛機上的窗戶相對較小,因為航空公司需要考慮飛機的成本,飛機的窗口面積基本滿足經濟 和欣賞的要求。因為如果飛機的窗戶要更大,飛機需要降低其飛行高度和飛行速度,或使用更昂貴的材 料製造飛機窗戶。不過進入 21 世紀之後,航空領域因為大量複合材料的使用進入了新紀元。波音 787 因為大量使用強度較大的複合材料,減少了結構加強件,故它的窗戶也增大不少,比起一般的客機大出 近 3 成。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 107"
+        },
+        {
+          "type": "heading",
+          "text": "11-2 平行軸定理與迴轉半徑"
+        },
+        {
+          "type": "heading",
+          "text": "1. 平行軸定理 (I s )"
+        },
+        {
+          "type": "paragraph",
+          "text": "平行軸定理 (parallel-axis theorem) 定義為: 一面積對某軸的慣性矩,等於該面 積對與該軸平行的形心軸之慣性矩 (I C ) 與該面積 (A) 乘以二軸間距離 (L) 平方的總 和, 如圖 11-8 所示。即"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "平行軸定理 I S = I C + AL ( 公式 11-3)"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-8 平行軸定理之示意圖 ▲ 圖 11-9 平行軸定理之證明圖 (1) 證明如圖 11-9 所示,將面積 A 分為微小面積 A 1、 A 2、 A 3、⋯、 A n,面積 A 的形心軸為 x 軸,而 S 軸與形心軸 x 軸平行距離為 L S,則此面積對 S 軸的慣"
+        },
+        {
+          "type": "heading",
+          "text": "性矩為:"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "I S = A 1 ( y 1 + L S ) + A 2 ( y 2 + L S ) + A 3 ( y 3 + L S ) +  + A n ( y n + L S )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= A 1 ( y 1 + 2 y L 1 S + L S ) + A 2 ( y 2 + 2 y L 2 S + L S ) + A 3 ( y 3 + 2 y L 3 S + L S )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "+  + A n ( y n + 2 y L n S + L S )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= ( A y 1 1 + A y 2 2 + A y 3 3 +  + A y n n )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "+ 2 L S ( A y 1 1 + A y 2 2 + A y 3 3 +  + A y n n ) + ( A 1 + A 2 + A 3 +  + A n ) L S"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= I x + 2 ⋅ L A y S ⋅ + AL S ( ∵ x 軸經過形心,故 y = 0 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "∴ I S = I x + AL S"
+        },
+        {
+          "type": "paragraph",
+          "text": "同理可證 T 軸平行 y 軸,且距 y 軸為 L T,則此面積對 T 軸之慣性矩 (I T ) 為"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "∴ I T = I y + AL T"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "108"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 平行軸定理必須用在兩軸平行,且 一軸必須通過形心軸才可使用。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 由 I S = I C + AL,可得到: 通過形心軸之慣性矩最小。 ( 當 L = 0, I S 最小 )"
+        },
+        {
+          "type": "heading",
+          "text": "2. 迴轉半徑 (K)"
+        },
+        {
+          "type": "paragraph",
+          "text": "慣性矩單位為長度之四次方, 若將面積對某軸的慣性矩寫成面積與長度平方 的乘積,此長度稱為此面積對該軸的迴轉半徑 (radius of gyration),以英文字母 “ K ”表示之,單位為 cm、 mm、 in。即"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "I x = AK x ( 公式 11-4)"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "I y = AK y ( 公式 11-5)"
+        },
+        {
+          "type": "heading",
+          "text": "I x I y"
+        },
+        {
+          "type": "heading",
+          "text": "∴ K x =; K y ="
+        },
+        {
+          "type": "heading",
+          "text": "A A"
+        },
+        {
+          "type": "paragraph",
+          "text": "其中 K x 與 K y 分別為面積對 x 軸和 y 軸的迴轉半徑。迴轉半徑並不是某軸到面積 內的某一定點的距離,而是把慣性矩以面積和常數來表示的一種數學觀念。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 由平行軸定理可知,對 S 軸的迴轉半徑為 K S:"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "I s = I x + AL"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "AK S = AK x + AL"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "K S = K x + L (K x 為通過形心軸之迴轉半徑 )"
+        },
+        {
+          "type": "heading",
+          "text": "K S > L"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 即一面積對任一軸之迴轉半徑 (K S ) 恆大於其形心至該軸之距離 (L)。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 通過形心軸之慣性矩最小,由 I= AK,所以通過形心軸之迴轉半徑也最小。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 109"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-1 題型:平行軸定理與迴轉半徑"
+        },
+        {
+          "type": "heading",
+          "text": "2 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,面積 10 cm, x 軸為形心軸,面積對 a、 b 軸慣性矩 Ib = 850 cm,"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ia = 1090 cm,則形心軸與 b 軸之距離 L 為多少? a 軸和 b 軸之迴轉半徑各為"
+        },
+        {
+          "type": "heading",
+          "text": "多少公分?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "由 IS = IC + AL"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "1090 = Ix + 10 × (L + 2) ⋯⋯1 ( 對 a 軸慣性矩 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "850 = Ix + 10 × (L) ⋯⋯2 ( 對 b 軸慣性矩 )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 - 2 240 = 10 × (L + 4L + 4 - L ), 24 = 4L + 4,∴ L = 5 cm"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ia = AKa, 1090 = 10 × Ka, K a = 109 cm"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ib = AKb, 850 = 10 × Kb, K b = 85 cm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 11-1"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,某面積之形心軸為 y 軸, G 為形心,面積為 50 cm,其對 y1 軸的慣"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "性矩為 1000 cm,試求此面積對 y2 軸的慣性矩?對 y1 軸和 y2 軸的迴轉半徑各"
+        },
+        {
+          "type": "heading",
+          "text": "為多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 具有相同面積之正方形、長方形 ( 直立時 ) 及圓形,其截面係數大小 順序為何? (A) 圓形 > 正方形 > 長方形 (B) 長方形 > 正方形 > 圓 形 (C) 正方形 > 長方形 > 圓形 (D) 圓形 > 長方形 > 正方形。 ( ) 2. 假設樑的斷面積為長方形,則面積之慣性矩除以中立軸至剖面一端之"
+        },
+        {
+          "type": "heading",
+          "text": "距離所得之商稱為該樑之?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 截面係數 (B) 面積慣性矩 (C) 極慣性矩 (D) 迴轉半徑。 ( ) 3. 下列有關平面性質的敘述,何者不正確? (A) 截面係數的單位是長 度之三次方 (B) 截面係數為純量 (C) 面積慣性矩又稱為面積之一次 矩 (D) 極慣性矩的單位是長度之四次方。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 如圖所示之面積為 1000 cm, x 軸與 y 軸均為形心軸, P 軸、 y 軸與 Q 軸之間相互平行,若此面積對 P 軸之"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "慣性矩為 52000 cm,則此面積對 Q 軸之慣性矩為多少"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "cm?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 36000 (B) 64000 (C) 88000 (D) 100000。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 有一心形造形樑之斷面如圖所示,面積為"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "5 mm,水平 x 軸通過形心 G 點。已知此斷面對"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "水平 a-a 軸的慣性矩為 40 mm,則此斷面對 x 軸"
+        },
+        {
+          "type": "heading",
+          "text": "的慣性矩為"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 20 mm (B) 30 mm"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 30 mm (D) 20 mm。 ( ) 6. 下列有關慣性矩之敘述何者錯誤? (A) 面積 A 對 x 軸的慣性矩為"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ix = A1y1 + A2y2 + A3y3 + ⋯ + Anyn (B) 平行軸定理為一面積對某軸 之慣性矩等於該面積形心軸之慣性矩與此面積乘以兩軸間距離的平方 之加總 (C) 慣性矩為面積與長度平方之乘積,而此長度即為迴轉半"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "徑 (D) 截面係數單位為 cm。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 111"
+        },
+        {
+          "type": "heading",
+          "text": "11-3 極慣性矩的認識"
+        },
+        {
+          "type": "heading",
+          "text": "1. 極慣性矩 (J)"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個對於垂直此面積的軸之慣性矩稱為極慣性矩 (polar moment of inertia),以 英文字母“ J ”表示之。如圖 11-10(a) 所示,若將 A 分成微小面積 A 1、 A 2、⋯、 A n 等,各面積形心座標分別為 (x 1, y 1 )、 (x 2, y 2 )、 (x 3, y 3 )、⋯、 (x n, y n ) 等;而各面 積到 z 軸的距離分別為 r 1、 r 2、⋯、 r n 等,極慣性矩等於面積內各微小面積乘以到"
+        },
+        {
+          "type": "heading",
+          "text": "z 軸距離平方的總和,即"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-10 極慣性矩"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "J = A 1 r 1 + A 2 r 2 + A 3 r 3 + ⋯ + A n r n"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= A 1 (x 1 + y 1 ) + A 2 (x 2 + y 2 ) + ⋯ + A n (x n + y n )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= (A 1 y 1 + A 2 y 2 + ⋯ + A n y n ) + (A 1 x 1 + A 2 x 2 + ⋯ + A n x n )"
+        },
+        {
+          "type": "heading",
+          "text": "= I x + I y"
+        },
+        {
+          "type": "paragraph",
+          "text": "極慣性矩 J = I x + I y ( 公式 11-6) (1) 極慣矩等於此面積內互相垂直的任兩軸之慣性矩的和。即 J = I x + I y = I U + I V (U 軸與 V 軸互相垂直 )。如圖 11-10(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 垂直平面面積的 z 軸所產生的迴轉半徑稱為極迴轉半徑 (K p ),即 J = AK p。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "J = I x + I y, AK p = AK x + AK y"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ K p = K x + K y ( 公式 11-7)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "112"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-2 題型:極慣性矩與極迴轉半徑"
+        },
+        {
+          "type": "heading",
+          "text": "2 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "如 圖 所 示 之 面 積 A 為 6 mm 對 x 軸 及 y 軸 之 慣 性 矩 分 別 為 Ix = 70 mm,"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "Iy = 80 mm,試求 (1) 極慣性矩與極迴轉半徑的值? (2) 若 IU = 30 mm,則 IV"
+        },
+        {
+          "type": "heading",
+          "text": "為多少? (U 軸與 V 軸互相垂直 )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 極慣性矩"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "J = Ix + Iy = 70 + 80 = 150 mm"
+        },
+        {
+          "type": "heading",
+          "text": "極迴轉半徑"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "J = AKp, 150 = 6 × Kp, Kp = 5 mm (2) J = Ix + Iy = IU + IV,"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "150 = 30 + IV, IV = 120 mm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 11-2"
+        },
+        {
+          "type": "heading",
+          "text": "2 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "某材料的面積為 20 mm,水平形心軸的慣性矩為 Ix = 300 mm,垂直形心軸的"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "慣性矩為 Iy = 200 mm,試求該面積對 z 軸的極慣性矩及極迴轉半徑各為何?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 113"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 一面積對其平面上相互垂直之 x 與 y 兩軸交點之極慣性矩的大小等於 對此兩軸之慣性矩 Ix 與 Iy 的? (A) 差 (B) 和 (C) 積 (D) 平方和。"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 某截面對 x 軸及 y 軸的慣性矩分別為 60 mm 及 80 mm,則對 z 軸的"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "極慣性矩為多少 mm? (A) 20 (B) 70 (C) 140 (D) 4800。"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 若面積對於形心軸的極慣性矩為 400 mm,且對於水平形心軸 x 軸"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "的慣性矩為 300 mm,試求其對於垂直形心軸 y 軸的慣性矩為多少"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "mm? (A) 700 (B) 500 (C) 100 (D) 50。 ( ) 4. 一平面對 x 軸及 y 軸的迴轉半徑分別為 6 cm 及 8 cm,則對 z 軸的迴 轉半徑為? (A) 2 cm (B) 7 cm (C) 10 cm (D) 14 cm。"
+        },
+        {
+          "type": "heading",
+          "text": "11-4 簡單面積與組合面積之慣性矩"
+        },
+        {
+          "type": "heading",
+          "text": "1. 簡單面積之慣性矩與平面性質"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於慣性矩為面積乘以距離平方之總合 ( I x = y dA ) 為微積分之概念,對"
+        },
+        {
+          "type": "heading",
+          "text": "∫ A"
+        },
+        {
+          "type": "paragraph",
+          "text": "於技術高中的學生而言,積分的觀念尚不熟悉,所以相關證明過程放在附錄中, 當學習者的積分觀念熟悉後再行瞭解證明,可把證明結果當成公式牢記即可,但 至少應牢記下列三個常見之簡單面積在形心軸之慣性矩,並配合截面係數、迴轉 半徑及平行軸定理來推導所有公式,如表 11-1 ( 需熟記七大基本公式 )。表 11-2、 表 11-3、表 11-4 分別為矩形、圓形及三角形的推導結果,提供參考。 ▼ 表 11-1 簡單面積形心軸之慣性矩與運用公式"
+        },
+        {
+          "type": "heading",
+          "text": "簡單面積 形心軸之慣性矩 運用公式"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 矩形 I 矩形形心 ="
+        },
+        {
+          "type": "heading",
+          "text": "12 I"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 截面係數 Z ="
+        },
+        {
+          "type": "heading",
+          "text": "y"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "π d 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 圓形 I 圓形形心 = (2) 慣性矩與迴轉半徑關係:慣性矩 I = AK"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 平行軸定理 I S = I C + AL"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "bh (4) 極慣性矩 J = I x + I y"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 三角形 I 三角形形心 ="
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "114"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 11-2 矩形面積慣性矩之推導"
+        },
+        {
+          "type": "paragraph",
+          "text": "矩形:寬度為 b,高度為 h, G 為形心。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "I x ="
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "慣性矩 3"
+        },
+        {
+          "type": "heading",
+          "text": "hb"
+        },
+        {
+          "type": "heading",
+          "text": "I y ="
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "I x 12 bh"
+        },
+        {
+          "type": "heading",
+          "text": "Z x = = ="
+        },
+        {
+          "type": "heading",
+          "text": "y h 6"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "形心軸 截面係數 3"
+        },
+        {
+          "type": "heading",
+          "text": "hb"
+        },
+        {
+          "type": "heading",
+          "text": "I y 12 hb 2"
+        },
+        {
+          "type": "heading",
+          "text": "Z y = = ="
+        },
+        {
+          "type": "heading",
+          "text": "x h 6"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "2 bh 2 3 h"
+        },
+        {
+          "type": "paragraph",
+          "text": "I x = AK x, = bh × K x, K x = h ( 或 K x = )"
+        },
+        {
+          "type": "heading",
+          "text": "12 6 12"
+        },
+        {
+          "type": "heading",
+          "text": "迴轉半徑"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "2 hb 2 3 b"
+        },
+        {
+          "type": "paragraph",
+          "text": "I y = AK y, = bh × K y, K y = b ( 或 K y = )"
+        },
+        {
+          "type": "heading",
+          "text": "12 6 12"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "bh hb bh 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "形心 極慣性矩 J 形心 = I x + I y = + = ( h + b )"
+        },
+        {
+          "type": "heading",
+          "text": "12 12 12"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "矩形對底邊 2 bh h 2 bh"
+        },
+        {
+          "type": "paragraph",
+          "text": "I x = I x + AL = + bh × ( ) ="
+        },
+        {
+          "type": "heading",
+          "text": "慣性矩 1 12 2 3"
+        },
+        {
+          "type": "heading",
+          "text": "通過底邊"
+        },
+        {
+          "type": "heading",
+          "text": "( 平行於形心軸 ) 3"
+        },
+        {
+          "type": "heading",
+          "text": "矩形對底邊 2 bh 2 3 h"
+        },
+        {
+          "type": "paragraph",
+          "text": "I x = AK x 1, = bh × K x 1, K x = h ( 或 K x 1 = )"
+        },
+        {
+          "type": "heading",
+          "text": "迴轉半徑 1 3 1 3 3"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 115"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 11-3 圓形面積慣性矩之推導"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓形:直徑為 d ( 或半徑為 r), G 為形心。"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "π d π ( 2 r ) π r"
+        },
+        {
+          "type": "heading",
+          "text": "慣性矩 I x = I y = = ="
+        },
+        {
+          "type": "heading",
+          "text": "64 64 4"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "π d"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "I x 64 π d π r"
+        },
+        {
+          "type": "paragraph",
+          "text": "形心軸 截面係數 Z x = Z y = = = ="
+        },
+        {
+          "type": "heading",
+          "text": "y d 32 4"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 π d π d 2 d r"
+        },
+        {
+          "type": "paragraph",
+          "text": "迴轉半徑 I x = AK x, = × K x, K x = ="
+        },
+        {
+          "type": "heading",
+          "text": "64 4 4 2"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "π d π d π d π r"
+        },
+        {
+          "type": "paragraph",
+          "text": "極慣性矩 J 形心 = I x + I y = + = ="
+        },
+        {
+          "type": "heading",
+          "text": "64 64 32 2"
+        },
+        {
+          "type": "heading",
+          "text": "形心"
+        },
+        {
+          "type": "heading",
+          "text": "4 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 π d π d 2 d r"
+        },
+        {
+          "type": "paragraph",
+          "text": "極迴轉半徑 J 形心 = AK p, = × K p, K p = ="
+        },
+        {
+          "type": "heading",
+          "text": "32 4 2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "4 2 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "與圓相切 2 π d π d d 2 5 π d 5 π r I x 1 = I x + AL = + × ( ) = ="
+        },
+        {
+          "type": "heading",
+          "text": "底部 慣性矩 64 4 2 64 4"
+        },
+        {
+          "type": "heading",
+          "text": "( 平行於形心軸"
+        },
+        {
+          "type": "heading",
+          "text": "4 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "或與圓相切 ) 與圓相切 2 5 π d π d 2 5 5 I x 1 = AL x 1, = × K x, K x = d r ="
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "迴轉半徑 64 4 1 4 2"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "116"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 11-4 三角形面積慣性矩之推導"
+        },
+        {
+          "type": "paragraph",
+          "text": "三角形:寬度為 b,高度為 h, G 為形心。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "慣性矩 I x ="
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "I x 36 bh"
+        },
+        {
+          "type": "heading",
+          "text": "Z x 1 = = = ( 底部 )"
+        },
+        {
+          "type": "heading",
+          "text": "y 1 h 12"
+        },
+        {
+          "type": "heading",
+          "text": "形心軸 3"
+        },
+        {
+          "type": "heading",
+          "text": "截面係數"
+        },
+        {
+          "type": "heading",
+          "text": "( 與底邊平行 ) bh 3"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "I x 36 bh"
+        },
+        {
+          "type": "heading",
+          "text": "Z x 2 = = = ( 頂點 )"
+        },
+        {
+          "type": "heading",
+          "text": "y 2 2 h 24"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "2 bh bh 2 2 h"
+        },
+        {
+          "type": "paragraph",
+          "text": "迴轉半徑 I x = AK x, = × K x, K x = h ( 或 K x = )"
+        },
+        {
+          "type": "heading",
+          "text": "36 2 6 18"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "2 bh bh h 2 bh"
+        },
+        {
+          "type": "paragraph",
+          "text": "慣性矩 I x 1 = I x + AL = + × ( ) ="
+        },
+        {
+          "type": "heading",
+          "text": "36 2 3 12"
+        },
+        {
+          "type": "heading",
+          "text": "底部"
+        },
+        {
+          "type": "heading",
+          "text": "( 通過底邊 ) 3"
+        },
+        {
+          "type": "heading",
+          "text": "2 bh bh 6 h"
+        },
+        {
+          "type": "paragraph",
+          "text": "迴轉半徑 I x 1 = AK x 1, = × K x 2 1, K x 1 = h ( 或 K x 1 = )"
+        },
+        {
+          "type": "heading",
+          "text": "12 2 6 6"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "2 bh bh 2 h 2 bh"
+        },
+        {
+          "type": "paragraph",
+          "text": "慣性矩 I x 2 = I x + AL = + × ( ) ="
+        },
+        {
+          "type": "heading",
+          "text": "36 2 3 4"
+        },
+        {
+          "type": "heading",
+          "text": "頂點"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 通過頂點平行 I = AK 2 bh bh 2 2 x 2 x 2, = × K x 2, K x 2 = h"
+        },
+        {
+          "type": "heading",
+          "text": "於底邊 ) 4 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "迴轉半徑"
+        },
+        {
+          "type": "heading",
+          "text": "h"
+        },
+        {
+          "type": "heading",
+          "text": "( 或 K x 2 = )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 117"
+        },
+        {
+          "type": "heading",
+          "text": "2. 對於其他形狀慣性矩之討論"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 正方形,邊長為 a。利用矩形之公式將寬度和高度均用 a 代入即可。"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 4"
+        },
+        {
+          "type": "heading",
+          "text": "bh a × a a"
+        },
+        {
+          "type": "heading",
+          "text": "慣性矩 I x = I y = = ="
+        },
+        {
+          "type": "heading",
+          "text": "12 12 12"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "a a a"
+        },
+        {
+          "type": "paragraph",
+          "text": "極慣性矩 J 形心 = I x + I y = + ="
+        },
+        {
+          "type": "heading",
+          "text": "12 12 6"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 正三角形,邊長為 a,利用三角形之公式將寬度用 a、高度用 a 代入即可。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "3 a × ( a ) 4"
+        },
+        {
+          "type": "heading",
+          "text": "bh 3 a"
+        },
+        {
+          "type": "heading",
+          "text": "正三角形形心軸慣性矩 I x = = 2 ="
+        },
+        {
+          "type": "heading",
+          "text": "36 36 96"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 三角形通過中點與底邊平行之慣性矩"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "118"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "bh bh"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 2 × I 三角形 ( 中點 ),∴ I 三角形 ( 中點 ) ="
+        },
+        {
+          "type": "heading",
+          "text": "12 24"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: 由推導矩形形心軸的慣性矩公式即可分解求出三角形通過中點的慣性矩,再利用平行 軸定理求出三角形形心軸的慣性矩。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "2 bh bh h 2 h h h"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 I 三角形 ( 中點 ) = I x + AL, = I x + × ( ) ( 由 L = − = )"
+        },
+        {
+          "type": "heading",
+          "text": "24 2 6 2 3 6"
+        },
+        {
+          "type": "heading",
+          "text": "∴三角形與底邊平行之形心軸慣性矩"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3"
+        },
+        {
+          "type": "heading",
+          "text": "bh bh bh"
+        },
+        {
+          "type": "heading",
+          "text": "I x = − ="
+        },
+        {
+          "type": "heading",
+          "text": "24 72 36"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 半圓通過底部的慣性矩或半圓通過中點的慣性矩"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "π d"
+        },
+        {
+          "type": "heading",
+          "text": "="
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "heading",
+          "text": "1 π d π d"
+        },
+        {
+          "type": "heading",
+          "text": "I x = × ="
+        },
+        {
+          "type": "heading",
+          "text": "2 64 128"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "heading",
+          "text": "1 π d π d"
+        },
+        {
+          "type": "heading",
+          "text": "I x = × ="
+        },
+        {
+          "type": "heading",
+          "text": "2 64 128"
+        },
+        {
+          "type": "heading",
+          "text": "3. 組合面積之慣性矩"
+        },
+        {
+          "type": "paragraph",
+          "text": "組合的面積,皆是由簡單圖形面積所組合,利用簡單圖形面積的慣性矩及平"
+        },
+        {
+          "type": "heading",
+          "text": "行軸定理,可求得組合面積的慣性矩,其順序為:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 將組合面積分成幾個簡單形狀面積。 (2) 求組合面積的形心軸。 (3) 應用平行軸定理,求出每一簡單面積對組合面積形心軸的慣性矩之和。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 119"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "慣性矩是純量且恆為正值,如果您計算一個組合面積的慣性矩,得到負值,那一定是算錯了。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-3 題型:簡單面積的平面性質"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示為半徑為 4 cm 的圓形,求水平形心軸 x 軸之 (1) 慣性矩 (2) 截面係數 (3) 迴轉半徑 (4) 與圓相切之 x1"
+        },
+        {
+          "type": "heading",
+          "text": "軸之慣性矩及 (5) 形心軸之極慣性矩為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "heading",
+          "text": "π d π × 8 4"
+        },
+        {
+          "type": "heading",
+          "text": "(1) I x = = = 64 π cm"
+        },
+        {
+          "type": "heading",
+          "text": "64 64"
+        },
+        {
+          "type": "heading",
+          "text": "I x 64 π 3"
+        },
+        {
+          "type": "heading",
+          "text": "(2) Z x = = = 16 π cm"
+        },
+        {
+          "type": "heading",
+          "text": "y 8"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 π × 8 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) I x = AK x, 64 π = × K x, Kx = 2 cm"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 π × 8 2 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) I x = I x + AL = 64 π + × 4 = 320 π cm"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) J = I x + I y = 64 π + 64 π = 128 π cm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 11-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,有一矩形,寬度為 4 mm,高度為 6 mm, G 為形心,試求: (1) 慣性矩 Ix (2) 慣性矩 Iy (3) 形心軸之極慣性矩 J (4) 截面係數 Zx (5) 截面係數 Zy (6) x 軸之迴轉半徑 Kx 及 (7) x1 軸之迴轉半徑 K x1。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "120"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-4 題型:慣性矩與截面係數的比值"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,二正方形的邊長均為 6 cm,試求圖 ( 甲 ) 與圖 ( 乙 ) 之不同擺放方 式對其形心軸慣性矩的比及截面係數的比。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "bh 6 × 6 4 I 甲 108 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "I 甲 = = = 108 cm, Z 甲 = = = 36 cm"
+        },
+        {
+          "type": "heading",
+          "text": "12 12 y 3"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "bh 6 2 × ( 3 2 ) 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "I 乙 = 2 × I 三角形 ( 底部 ) = 2 × = 2 × = 108 cm"
+        },
+        {
+          "type": "heading",
+          "text": "12 12"
+        },
+        {
+          "type": "heading",
+          "text": "I 乙 108 36 3"
+        },
+        {
+          "type": "heading",
+          "text": "Z 乙 = = = cm"
+        },
+        {
+          "type": "heading",
+          "text": "y 3 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "I 甲: I 乙 = 1: 1, Z 甲: Z 乙 = 2: 1"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 11-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "試求如圖所示之等腰三角形,底部為 b,高度為 h,其 y 軸形心軸之慣性矩 Iy =?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 121"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-5 題型:組合面積的平面性質"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之空心截面圓的外徑為 10 cm,內徑為 6 cm,試求 此截面對水平形心軸的慣性矩、迴轉半徑、截面係數及對形 心軸的極慣性矩。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "heading",
+          "text": "π × 10 π × 6 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "I x = I y = I A − I B = − = 136 π cm"
+        },
+        {
+          "type": "heading",
+          "text": "64 64"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 π × ( 10 − 6 ) 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "I x = AK x, 136 π = × K x, K x = 8 5. cm"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "I x 136 π 3"
+        },
+        {
+          "type": "heading",
+          "text": "Z x = = = 27 2. π cm"
+        },
+        {
+          "type": "heading",
+          "text": "y 5"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "J = I x + I y = 136 π + 136 π = 272 π cm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 11-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之斷面形狀,試求: (1) 對 x 軸和 y 軸的慣性矩; (2) x 軸的截面係數; (3) 形心軸的極慣性矩; (4) x 軸的迴轉半徑。 ( 以單位 cm 作答 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "122"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 11-6 題型:組合面積慣性矩 ( 形心軸 ) 如圖所示,試求此組合面積對其形心軸 (x 軸及 y 軸 ) 的慣性矩。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "12 × 7 + 12 × 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "y = = 5 cm ( 組合形心距底邊 5 cm)"
+        },
+        {
+          "type": "heading",
+          "text": "12 + 12"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "由平行軸定理 IS = IC + AL"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "6 × 2 2 2 × 6 2 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "I x = I 1 + I 2 = ( + 12 × 2 ) + ( + 12 × 2 ) = 136 cm"
+        },
+        {
+          "type": "heading",
+          "text": "12 12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 123"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "2 × 6 6 × 2 4"
+        },
+        {
+          "type": "heading",
+          "text": "I y = + = 40 cm"
+        },
+        {
+          "type": "heading",
+          "text": "12 12"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 11-6"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之面積,試求其水平形心軸之慣性矩為多少 cm?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "124"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 11-7 題型:組合面積慣性矩 ( 指定軸 ) 如圖所示之梯形面積,上頂為 3 cm,下底為 6 cm, 高度為 4 cm,試求梯形通過頂點 x2 及底部 x1 的慣性 矩。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "將梯形分解成二個三角形, A 與 B。"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3 3"
+        },
+        {
+          "type": "heading",
+          "text": "bh bh 6 × 4 3 × 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "通過頂點 I x = I A + I B = + = + = 96 + 16 = 112 cm"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4 12 4 12"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3 3"
+        },
+        {
+          "type": "heading",
+          "text": "bh bh 6 × 4 3 × 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "通過底部 I x = I A + I B = + = + = 32 + 48 = 80 cm"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "12 4 12 4"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 11-7"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,截面積對於通過水平形心軸 x 軸之慣性矩為多少 cm?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 125"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 如圖所示之矩形斷面, z 軸通過形心 C 且與"
+        },
+        {
+          "type": "heading",
+          "text": "xy 平面垂直,試求該矩形斷面對 z 軸的極"
+        },
+        {
+          "type": "heading",
+          "text": "1 3 1 3"
+        },
+        {
+          "type": "heading",
+          "text": "慣性矩為多少? (A) bh (B) hb"
+        },
+        {
+          "type": "heading",
+          "text": "12 12"
+        },
+        {
+          "type": "heading",
+          "text": "1 3 bh 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) bh (D) ( b + h )。"
+        },
+        {
+          "type": "heading",
+          "text": "3 12"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 如圖所示之長方形,寬與高分別為 b 與 h,試問該"
+        },
+        {
+          "type": "heading",
+          "text": "面積對長方形底邊 x1 軸之慣性矩為何?"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3 3"
+        },
+        {
+          "type": "heading",
+          "text": "bh bh bh bh"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "4 36 12 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 一圓形截面之直徑為 d,則其截面係數為何?"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 3 3"
+        },
+        {
+          "type": "heading",
+          "text": "π d π d π d π d"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D)。 α"
+        },
+        {
+          "type": "heading",
+          "text": "32 64 32 48"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 直徑為 d 的半圓形,對底邊的慣性矩為何?"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "π d π d π d π d"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D) α。"
+        },
+        {
+          "type": "heading",
+          "text": "16 32 64 128"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 圓的直徑為 d,對其切線的迴轉半徑為何?"
+        },
+        {
+          "type": "heading",
+          "text": "1 5 5 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) d (B) d (C) d (D) d。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 4 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 如圖所示之圓形面積,直徑為 d, x 軸與 y 軸通過其圓心 O,下列敘 述何者錯誤? (A) 對 x 軸之慣性矩等於對 y 軸之慣性矩 (B) 極慣性"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "π d"
+        },
+        {
+          "type": "paragraph",
+          "text": "矩為 α (C) 極慣性矩大於對 y 軸之慣性矩 (D) 極慣性矩大於對 x"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸之慣性矩。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "126"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 高度與底邊的邊長均為 h 的三角形,求其面積對底邊之慣性矩為多"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "h h h h"
+        },
+        {
+          "type": "paragraph",
+          "text": "少? (A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "12 24 3 16"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 8. 正方形的邊長為 b,其極慣性矩為何?"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "b b b b"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "6 12 24 36"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 9. 如圖所示為直徑為 d 的四分之一圓,求其對於 x 軸的"
+        },
+        {
+          "type": "heading",
+          "text": "慣性矩為何?"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "π d π d π d π d"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D)。 α"
+        },
+        {
+          "type": "heading",
+          "text": "32 64 128 256"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 10. 三角形的底邊為 b,高度為 h,其平行底邊通過頂點之慣性矩為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3 3"
+        },
+        {
+          "type": "heading",
+          "text": "bh bh bh bh"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "36 4 12 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 11. 如圖所示, z 軸通過 O 點且垂直於 xy 平面,求半徑為 R 的圓面積對 z"
+        },
+        {
+          "type": "heading",
+          "text": "軸的極慣性矩 J 為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "3 4 5 4 4 3 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) π R α (B) π R α (C) π R (D) π R。 α"
+        },
+        {
+          "type": "heading",
+          "text": "2 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 12. 如圖所示之工字形斷面,其對 x 軸之面積慣性矩為多少? (A) 2a"
+        },
+        {
+          "type": "heading",
+          "text": "46 4 58 4 70 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) a (C) a (D) a。"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 127"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 13. 如圖所示之矩形與參考座標,已知此矩形的寬度為 b,高度為 h,"
+        },
+        {
+          "type": "heading",
+          "text": "b h"
+        },
+        {
+          "type": "paragraph",
+          "text": "則 此 矩 形 的 面 積 對 x 軸 的 迴 轉 半 徑 為 何? (A) (B)"
+        },
+        {
+          "type": "heading",
+          "text": "3 2 3 2"
+        },
+        {
+          "type": "heading",
+          "text": "b h"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 3 2 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 14. 若物體的斷面為圓形,半徑為 r,試求其通過圓心且垂直於該斷面之"
+        },
+        {
+          "type": "heading",
+          "text": "r r r r"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸的極迴轉半徑為多少? (A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 4 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 15. 如圖所示,此矩形面積的尺寸,寬度為 b,高度為 h,對底邊 x 軸的"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "迴轉半徑 Kx 為何? (A) h (B) b (C) h (D) b。"
+        },
+        {
+          "type": "heading",
+          "text": "6 6 3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 16. 邊 長 為 6 cm 的 正 方 形 面 積, 在 其 正 中 央 開 一 個 直 徑 為 4 cm 的 圓"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "形孔,如圖所示。則該斷面對形心軸的極慣性矩為? (A) 108 cm"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 95.44 cm (C) 82.88 cm (D) 190.88 cm。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "128"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 17. 如圖所示,試求該斷面對 x 軸的面積慣性矩 Ix 為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "a 5 a 7 a 10 a"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 18. 如圖所示為樑的橫斷面,試求該斷面通過水平形心軸的面積慣性矩為"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "何? (A) 10a (B) 8.5a (C) 6.5a (D) 4a。"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 19. 如圖所示之斷面,該斷面對 x ′ 軸之慣性矩 Ix ′ x ′ = 32000 cm,試問該斷"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "面對其形心軸 Ixx 值為何? (A) 5000 cm (B) 6000 cm"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 7000 cm (D) 8000 cm。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 20. 若長方形的高為寬的 2 倍,則直立長方形的水平形心軸慣性矩為平放 長方形的水平形心軸的幾倍? (A) 8 (B) 4 (C) 2 (D) 1。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 平面的性質 129"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "籠型車體結構遇到車禍時產生潰縮,為什麼可以保住乘客?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 籠型車體結構"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般民眾對汽車結構的想法不外乎車身結構必須能在碰撞時守護車廂內的乘客,從車頭到車尾都做 成有如鐵箱的堅固車身感覺似乎才安全,其實這樣反而會給予乘員更大的衝力與傷害。市面上一般人 所駕駛的自小客車或休旅車即為 籠型車體結構,也有人稱之為 安全籠型車箱。籠型車體其概念可追溯自 1944 年,是將汽車車體與鳥籠構造聯想運用後所發展出來的汽車結構。 車體結構設計要會潰縮的結構,受力時能夠內縮,才能吸收衝擊力 ( 因為衝量 = 衝力 × 作用時間, 衝量相同,增加作用時間,可以減少衝力 ),不會給予乘員太大的衝擊,採用的作法是在引擎室和車尾 加入軟性材質。當外部受力時可藉由 潰縮 來吸收衝擊力,形成了車廂維持強固、前後軟化的結構,這種 軟性材質也一直在改進,以確保衝力變小。其設計概念是將一整體的車體分為撞擊時吸收衝擊力的 衝擊 潰縮區 及確保乘坐者生存空間的 高強度座艙區 兩個區域,而分別提高其所需之機能的觀念。基於籠型車 體概念的車體構造,在確保前後方撞擊的安全性上,採用了利用車頭與車尾的衝擊潰縮區吸收撞擊時的 能量,並減少座艙變形的衝擊潰縮區,而高強度座艙區的設計則是注重於結構剛性的提高,以及分散由 衝擊潰縮區所傳來的能量,使車身在承受撞擊時仍能保持座艙區的完整性。 現代大多數轎車都是籠型車體設計,並使用高強度合金鋼板材料以提升車體剛性。前後撞擊緩衝區 和車門防撞鋼樑均採用同樣的加強結構設計。撞擊緩衝區可將碰撞時的撞擊力平均分散到全車身,進而 避免乘客區乘員遭受碰撞而造成傷害。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 正面撞擊測試,車頭完全潰縮,但車廂幾乎沒有變形"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "11-1 1. 面積慣性矩 (I):在一平面上各個微小面積乘以其至某一軸間距離之平方的總 和,稱為該面積對該軸之慣性矩,又稱面積的二次矩,以英文字母“ I ”表示之。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 面積 A 對 x 軸的慣性矩為"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "I x = A y 1 1 + A y 2 2 + A y 3 3 +  + A y n n"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 面積 A 對 y 軸的慣性矩為"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "I y = A x 1 1 + A x 2 2 + A x 3 3 +  + A x n n"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "2. 慣性矩為純量,其單位為長度的四次方,即 cm、 mm、 in 等。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 截面係數 (Z):截面對形心軸的慣性矩除以中立軸至截面邊緣最遠的距離,所"
+        },
+        {
+          "type": "paragraph",
+          "text": "得到的商,稱為該截面之截面係數又稱剖面模數,以英文字母“ Z ”表示之。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 對 x 軸之截面係數 (Z x )"
+        },
+        {
+          "type": "heading",
+          "text": "I x I x"
+        },
+        {
+          "type": "paragraph",
+          "text": "Z x 1 =; Z x 2 = ( 一般取較小值之 Z x )"
+        },
+        {
+          "type": "heading",
+          "text": "y 1 y 2"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 對 y 軸之截面係數 (Z y )"
+        },
+        {
+          "type": "heading",
+          "text": "I y I y"
+        },
+        {
+          "type": "paragraph",
+          "text": "Z y 1 =; Z y 2 = ( 一般取較小值之 Z y )"
+        },
+        {
+          "type": "heading",
+          "text": "x 1 x 2"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3"
+        },
+        {
+          "type": "heading",
+          "text": "4. 截面係數為純量,其單位為長度的三次方,如: cm、 mm、 in 等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "11-2 5. 平行軸定理:一面積對某軸的慣性矩,等於該面積對與該軸平行的形心軸之慣 性矩 (I C ) 與該面積 (A) 乘以二軸間距離 (L) 平方的總和,如圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "即平行軸定理 I S = I C + AL"
+        },
+        {
+          "type": "heading",
+          "text": "6. 形心軸之慣性矩最小,而任何軸線之慣性矩必大於平行於此軸之形心軸的慣性"
+        },
+        {
+          "type": "paragraph",
+          "text": "矩。"
+        },
+        {
+          "type": "heading",
+          "text": "130"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "7. 迴轉半徑 (K):慣性矩單位為長度之四次方,若將面積對某軸的慣性矩寫成面"
+        },
+        {
+          "type": "paragraph",
+          "text": "積與長度平方的乘積,此長度稱為此面積對該軸的迴轉半徑,以英文字母“ K ” 表示之,單位為 cm、 mm、 in。即"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "I x = AK x"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "I y = AK y"
+        },
+        {
+          "type": "heading",
+          "text": "I x I y"
+        },
+        {
+          "type": "heading",
+          "text": "K x =; K y ="
+        },
+        {
+          "type": "heading",
+          "text": "A A"
+        },
+        {
+          "type": "heading",
+          "text": "8. 面積對通過形心軸的迴轉半徑最小,且面積對任一軸的迴轉半徑必大於形心軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "至該軸之距離。 11-3 9. 極慣性矩 (J):一面積對垂直於其所在平面之軸之極慣性矩,等於該面積內各微 小面積乘以至該軸距離平方之總和。極慣性矩等於 x 軸和 y 軸之慣性矩和,即 極慣性矩 J = I x + I y。"
+        },
+        {
+          "type": "heading",
+          "text": "11-4 10. 矩形 面積之性質:"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "I x = ( 通過形心軸 x 軸之慣性矩 )"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "b h"
+        },
+        {
+          "type": "heading",
+          "text": "I y = ( 通過形心軸 y 軸之慣性矩 )"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "I x 矩形 ( 形心 ) ="
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "I x 矩形 ( 通過底邊 ) ="
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "bh b h bh 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "矩形形心軸極慣性矩: J = I x + I y = + = ( h + b )"
+        },
+        {
+          "type": "heading",
+          "text": "12 12 12"
+        },
+        {
+          "type": "heading",
+          "text": "11. 三角形 面積之性質:"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "I D ( 通過底邊 ) ="
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "I D ( 通過頂點與底邊平行 ) ="
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "I x = ( 通過形心軸與底邊平行之慣性矩 )"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        },
+        {
+          "type": "heading",
+          "text": "131"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "12. 圓形 面積之性質:"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "π d"
+        },
+        {
+          "type": "heading",
+          "text": "形心軸慣性矩 I x = I y ="
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "π d π d π d"
+        },
+        {
+          "type": "heading",
+          "text": "圓形形心軸之極慣性矩: J = + ="
+        },
+        {
+          "type": "heading",
+          "text": "64 64 32"
+        },
+        {
+          "type": "heading",
+          "text": "13. 組合面積之慣性矩即為各簡單幾何面積對組合面積之形心軸的慣性矩之總和。"
+        },
+        {
+          "type": "heading",
+          "text": "132"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "11-1 ( ) 1. 材料在相同且截面面積也相同的情況下,依其截面係數之大小來排列, 下列關係何者 錯誤? (A) 正方形 > 圓形 (B) 圓形 > 圓環形 (C) 長方 形 ( 直立 ) > 正方形 (D) I 字形 > 長方形。 ( ) 2. 下列有關面積慣性矩的敘述,何者 不正確? (A) 即為面積的二次矩 (B) 即為質量的慣性矩 (C) 其值恆為正 (D) 單位為長度的四次方。 ( ) 3. 一面積對於任一軸之慣性矩中,對哪一軸的值為最小? (A) 形心軸 (B) 與形心軸成 45 ° 之軸 (C) 與形心軸成平行之軸 (D) 與形心軸成 60 ° 之軸。 ( ) 4. 以下四種橫斷面,面積都相等,對水平中立軸而言,哪個橫斷面之慣性"
+        },
+        {
+          "type": "heading",
+          "text": "矩最大?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B) (C) (D)"
+        },
+        {
+          "type": "heading",
+          "text": "2 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "11-2 ( ) 5. 物體的斷面為圓形,面積為 50 cm,形心軸的慣性矩為 200 cm,求距圓"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "心 2 cm 的某軸慣性矩為多少? (A) 200 cm (B) 400 cm (C) 600 cm"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 800 cm。 ( ) 6. 迴轉半徑 K x、慣性矩 I x 或 I y 與截面積 A 的三者關係為?"
+        },
+        {
+          "type": "heading",
+          "text": "I y I x I x I"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) K x = (B) K x = (C) K x = (D) K x = x。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "A A A A"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 如圖所示之截面, G 為其形心,面積為 600 mm。已知其對 u-u 軸的慣性"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "矩為 71250 mm,則對 x 軸的慣性矩為多少 mm? (A) 7500 (B) 8750 (C) 10000 (D) 11250。"
+        },
+        {
+          "type": "heading",
+          "text": "133"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 8. 一面積對任一軸之迴轉半徑 其形心至該軸的距離? (A) 恆大於 (B) 恆小於 (C) 恆等於 (D) 視情況而定。 ( ) 9. 有關迴轉半徑的敘述,下列何者 錯誤? (A) 面積對通過形心軸的迴轉半 徑最小 (B) 恆為正數 (C) 長度單位 (D) 向量。 ( ) 10. 下列有關面積慣性矩之敘述,何者 錯誤? (A) 平行軸定理可適用於任何 兩條平行軸的慣性矩計算 (B) 相同面積的圓形與正方形,對通過其形心 的極慣性矩,正方形大於圓形 (C) 一面積對通過其形心之軸的慣性矩, 恆小於對任一平行該軸之慣性矩 (D) 相同面積下,迴轉半徑愈大,其慣 性矩愈大。 11-3 ( ) 11. 對於極慣性矩的敘述,下列何者最為 不正確? (A) 極慣性矩為一純量 (B) 極慣性矩為二互相垂直軸的慣性矩之和 (C) 極慣性矩的單位為長度 的 4 次方 (D) 極慣性矩恆小於兩相垂直軸之任一軸的慣性矩。 ( ) 12. 某截面對 x 軸及 z 軸的迴轉半徑分別為 30 mm 及 50 mm,則對 y 軸的迴 轉半徑為多少 mm? (A) 20 (B) 3400 (C) 80 (D) 40。 11-4 ( ) 13. 設 x、 y 為正方形之形心軸,若其邊長為 a,則對 x 軸之慣性矩為何?"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "a a a a"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "4 6 12 36"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 14. 某圓的直徑為 40 cm,則圓面積對以直徑為軸的迴轉半徑為何? (A) 40 cm (B) 30 cm (C) 20 cm (D) 10 cm。 ( ) 15. 圓形截面的直徑為 d,則此圓對圓心的極慣性矩為何?"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "π d π d π d π d"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D)。 α"
+        },
+        {
+          "type": "heading",
+          "text": "64 32 16 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 16. 如圖所示, x 軸與 y 軸為矩形面積之形心軸,若矩形面積"
+        },
+        {
+          "type": "heading",
+          "text": "K x"
+        },
+        {
+          "type": "paragraph",
+          "text": "對 x 軸及 y 軸的迴轉半徑分別為 K x 及 K y,則 的比值為"
+        },
+        {
+          "type": "heading",
+          "text": "K y"
+        },
+        {
+          "type": "heading",
+          "text": "b h h"
+        },
+        {
+          "type": "heading",
+          "text": "b"
+        },
+        {
+          "type": "paragraph",
+          "text": "何? (A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 h 2 b h b"
+        },
+        {
+          "type": "heading",
+          "text": "134"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 17. 如圖所示, x 軸與 y 軸為矩形面積之形心軸,若矩形面積"
+        },
+        {
+          "type": "heading",
+          "text": "I x ′"
+        },
+        {
+          "type": "paragraph",
+          "text": "對 x ′ 軸及 x 軸的慣性矩分別為 Ix ′ 及 I x, 則 的比值為何?"
+        },
+        {
+          "type": "heading",
+          "text": "I x"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 2 (B) 4 (C) 6 (D) 8。 ( ) 18. 兩物體之斷面分別為圓形與正方形,其兩者面積均相同, 若圓形與正方形之面積對其本身水平形心軸之慣性矩分別"
+        },
+        {
+          "type": "heading",
+          "text": "I C π 6 π 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "為 I C 及 I S,則 的比值為何? (A) α (B) α (C) α (D) α。"
+        },
+        {
+          "type": "heading",
+          "text": "I S 6 π 3 π"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 19. 下列敘述何者正確? (A) 平行軸定理乃用於計算一截面對某軸的慣性 距,且此軸常不通過該截面之形心 (B) 某正方形邊長為 L,其通過邊"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "heading",
+          "text": "L L"
+        },
+        {
+          "type": "paragraph",
+          "text": "長之慣性矩為 (C) 某三角形邊長為 L,其通過邊長之慣性矩為"
+        },
+        {
+          "type": "heading",
+          "text": "6 3"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 某正五邊形邊長為 L,其通過邊長之慣性矩為。"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 20. 一邊長為 L 的正方形,求其面積對底邊之迴轉半徑為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "L L L L"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "8 6 3 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 21. 如圖所示之組合空心截面,試求該截面對 x-y"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "座標系原點 O 的極慣性矩為多少 cm?"
+        },
+        {
+          "type": "paragraph",
+          "text": "( π = 3.14) (A) 163.72 (B) 327.44 (C) 654.88 (D) 680。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 22. 如圖所示之面積對形心 O 的極慣性矩約為多"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "少 cm? (A) 2.83 × 10 (B) 29.6 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 5.66 × 10 (D) 5.92 × 10。"
+        },
+        {
+          "type": "heading",
+          "text": "135"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 23. 如圖所示之三角形 ABC,單位為 cm,求此面積對 x 軸之慣性矩 I x 為多"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "少 cm? (A) 36 (B) 324 (C) 684 (D) 1332。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 24. 如圖所示之空心圓形截面之外徑為 8 mm,內徑為 4 mm,則此截面對"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "水 平 形 心 軸 的 極 慣 性 矩 為 多 少 mm? (A) 60 π (B) 80 π (C) 120 π (D) 180 π。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 25. 已知矩形面積之寬為 b,高為 h,若面積不變的情況下,寬度增加 2 倍,"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "則慣性矩為原來的多少倍? (A) 4 倍 (B) 8 倍 (C) 倍 (D) 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "8 4"
+        },
+        {
+          "type": "heading",
+          "text": "4 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 26. 如圖所示之箱型斷面對 x 軸的剖面模數 Z x 為何? (A) 6.00 × 10 cm"
+        },
+        {
+          "type": "heading",
+          "text": "4 3 4 3 4 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 5.80 × 10 cm (C) 2.40 × 10 cm (D) 2.32 × 10 cm。"
+        },
+        {
+          "type": "heading",
+          "text": "136"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 27. 如圖所示之組合面積,該面積對水平軸 x 的慣性矩為多少 cm? (A) 50 (B) 53 (C) 54 (D) 60。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 28. 如圖所示之梯形面積,上底為 a,下底為 3a,高為 h,試求其對下底的慣"
+        },
+        {
+          "type": "heading",
+          "text": "1 3 5 3 1 3 1 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "性矩 I x 為多少? (A) ah (B) ah (C) ah (D) ah。"
+        },
+        {
+          "type": "heading",
+          "text": "2 6 4 12"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 29. 截面為三角形的樑,如圖所示,通過頂點且平行底邊 a 軸的慣性矩為 I a, 通過形心軸 b 的慣性矩為 I b,通過底邊 c 軸的慣性矩為 I c,則 I a: I b: I c 的比值何者正確? (A) 1: 3: 9 (B) 3: 1: 9 (C) 9: 3: 1 (D) 9: 1: 3。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 30. 如圖所示之面積,其對水平形心軸的慣性矩為何?"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 57.9 cm (B) 81.7 cm (C) 154.7 cm"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 136 cm。"
+        },
+        {
+          "type": "heading",
+          "text": "137"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "二、計算題"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "11-2 1. 如圖所示之面積為 25 cm,其對形心 x 軸之迴轉半徑為 2 cm,試求與該軸平行 相距 4 cm 的 x 1 軸線的慣性矩和迴轉半徑各為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "11-3 2. 如圖所示之面積為 40 mm,其形心在 G 點,若將座標軸逆時針旋轉 37 ° 成為 a"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "與 b 軸,若 I x = 60 mm, I y = 100 mm, I a = 40 mm,試求: (1) 通過形心之極 慣性矩 (2) 形心軸之極迴轉半徑 (3) I b 為何?"
+        },
+        {
+          "type": "paragraph",
+          "text": "11-4 3. 如圖所示之矩形斷面, x 軸及 y 軸經過此斷面之形心 O,試求 I x、 I y、 Ix1、 Z x、 Z y、 K x、 K x1 和形心軸之極慣性矩 J 各為何?"
+        },
+        {
+          "type": "heading",
+          "text": "4. 如圖所示,試求此組合面積對其水平形心軸 x 軸之慣性矩、截面係數及通過底"
+        },
+        {
+          "type": "heading",
+          "text": "邊 x 1 軸之慣性矩?"
+        },
+        {
+          "type": "heading",
+          "text": "138"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "5. 中空圓柱,外徑為 4 cm,內徑為 2 cm,求其: (1) 極慣性矩 (2) 極截面係數"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 極迴轉半徑。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 如圖所示之 C 形斷面,試求此斷面對 (1) x 軸之慣性矩 (2) y 軸之慣性矩。"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "heading",
+          "text": "7. 若 I V = 12 cm,試求如圖所示之極慣性矩和 U 軸慣性矩 I U 為多少 cm?"
+        },
+        {
+          "type": "heading",
+          "text": "8. 試求如圖所示之等腰三角形, x、 y 軸均為通過形心,試求 I x、 I y 和形心軸之極"
+        },
+        {
+          "type": "paragraph",
+          "text": "慣性矩 J。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 試求如圖所示之 T 形斷面的水平形心軸之慣性矩?"
+        },
+        {
+          "type": "heading",
+          "text": "139"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "10. 試求如圖所示之 x 軸與 y 軸的慣性矩及極慣性矩各為多少 cm?"
+        },
+        {
+          "type": "heading",
+          "text": "140"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch11/p040.jpg"
+    }
+  ]
+}

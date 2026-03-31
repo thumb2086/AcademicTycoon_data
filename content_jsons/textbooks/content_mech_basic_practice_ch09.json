@@ -1,0 +1,505 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH09",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH09",
+    "title": "CH9"
+  },
+  "title": "機械基礎實習全冊 Chapter 9 ᛟிண௪ʘԴ͜",
+  "source_pdf": "機械基礎實習全冊/CH9PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH09",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        },
+        {
+          "type": "heading",
+          "text": "ᛟிண௪ʘԴ͜"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 瞭解鑄造定義與流程 9-1 鑄造定義與流程"
+        },
+        {
+          "type": "heading",
+          "text": "2. 熟悉鑄造工具與鑄造安全 9-2 鑄造工具與鑄造安全"
+        },
+        {
+          "type": "heading",
+          "text": "3. 學會造模工具之使用 9-3 造模用工具之使用"
+        },
+        {
+          "type": "heading",
+          "text": "4. 熟悉鑄造安全規則 9-4 鑄造安全規則"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "170"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "heading",
+          "text": "9-1 ᛟி່֛ၾݴ೻"
+        },
+        {
+          "type": "paragraph",
+          "text": "風ⳍ (Casting) ଔᆯ૽᥂➄᱿᚝๗⸉଼ΪҘңሷ᧚હഐᨊ᱿風ᑁ (Mold) ҙŊഩ⸉଼᚝Ӑߗ രחӛŊӡぜᙟ⭰7⃥Ŋ֯᪀വ໽ト᱿風˴ (Castings) ʠԽడᅞᘍȯ 鑄造早期大都製造生活所需器具,如鐘、鼎或是生活工藝品等,現今鑄造已是工業重要的 一環,幾乎只要可以熔化的金屬均能鑄造,製品如醫學用的人工關節、船舶用的螺旋槳、日常 生活用的水龍頭、汽機車用的引擎,以及工作母機的基座等等,圖 9-1(a) ∼ (c) 之鑄件為磨床、 車床和銑床基座。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 9-1 ȭ׳Ớ風˴"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄模的材料可以是砂、金屬、鑄造用石膏或陶瓷等,若以砂做為鑄模材料稱為砂模,它的 優點是成本低、砂可重複使用,缺點是必須破壞砂模才能取出鑄件;若以金屬材料做成鑄模稱 為金屬模,金屬模的優點是可重複使用、鑄件精密度高,但僅限於低熔點金屬的製品:以鑄造 用石膏材料製成的鑄模稱為石膏模,它可生產複雜零件,但僅限於非鐵金屬的鑄造。在傳統的 鑄造法中仍以砂模鑄造 (Sand casting) 為主,也是本書的學習重點,砂模在造模過程需翻轉砂箱 數次,業界常以「翻砂」稱之,砂模主要作業流程圖如圖 9-2 所示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch09/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 ᛟிண௪ʘԴ͜ 171"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 9-2 ȭ風ⳍ̳ᏈᙟỄߧ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 模型設計與製作: ࠣᑁ (Patterns) ᱿ᮢⳂᆯ߱ᵺᑁҙⵒᮟᮝᑁἂŊ˫͵៮風⸉଼᥂᚝ഐໞ"
+        },
+        {
+          "type": "paragraph",
+          "text": "風˴ȯ 模型材料有木材、金屬、塑膠或蠟,設計與製作模型需考慮各種裕度,如收縮裕度、 加工裕度、變形裕度、搖動裕度與拔模斜度等等。 ߱ कഐʀŊ風˴␵ᣅʑἇŊԅト߱ᑁἂ ʑᄍҘᵺൔ (Core) Ŋᑁࠣト࣑Խᄍ⇦ᵺൔʠᵺൔᆑŊ˫͵߱ⳍᑁᆹഐໞᵺൔಚŊͧᵺൔમ ⇦⎞હ̤Ŋ 圖 9-3(a)、 (b) 為鑄件尺寸與模型外觀。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭ ȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 9-3 ȭ風˴ଙ૸⎞ᑁࠣक⤐"
+        },
+        {
+          "type": "heading",
+          "text": "2. 砂心製作:如前述, ᵺൔᆯ͐風˴ഐ"
+        },
+        {
+          "type": "heading",
+          "text": "ໞʑἇ᱿ⵒ̤ŊञⵒӠ᱿ᵺൔ˫ᵺൔ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Წ (Core box) ⢌̳,如圖 9-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 9-4 ȭᵺൔᲬ⎞ᵺൔ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch09/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "172"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鑄模製作:砂模分為上砂模 (cope) 與下砂模 (drag),模型置於兩砂模中間。起模後,取出模"
+        },
+        {
+          "type": "paragraph",
+          "text": "型、澆口棒,開設流路系統、安置砂心,之後合模形成一個完整的鑄模,鑄模製作過程如 9-5(a) ∼ (d) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 9-5 ȭ風ᑁ⢌̳"
+        },
+        {
+          "type": "heading",
+          "text": "4. 金屬熔化與澆鑄:針對金屬不同有熔鐵爐、感應電爐或電弧爐等熔化設備。澆鑄是將金屬"
+        },
+        {
+          "type": "paragraph",
+          "text": "熔液注入鑄模內, ៮風᱿ࡣ቏׆ԅᆯ͐⸉଼᚝ⳖҘᑁἂ᱿ɦᙟᛧӷሱ̥Ŋʏ߱᚝๗⸉଼Ӑ ߗԊ҂ដᄮΤᑁἂŊ 澆鑄情形如圖 9-6(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 鑄件後處理:待金屬凝固,破壞砂模取出鑄件,如圖 9-6(b) 所示。清除黏附在鑄件表面的"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄砂、去除流路系統、冒口及毛邊,檢視是否有縮孔、氣孔、夾渣等缺失,最後檢查鑄件 尺寸精度、表面粗糙度是否合乎要求。必要時,再作適當熱處理改善機械性質。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 9-6 ȭ⸉଼៮風⎞風˴"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch09/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 ᛟிண௪ʘԴ͜ 173"
+        },
+        {
+          "type": "heading",
+          "text": "9-2 ᛟிʈՈၾᛟிτΌ"
+        },
+        {
+          "type": "heading",
+          "text": "ɓeᛟிʈՈၾண௪"
+        },
+        {
+          "type": "heading",
+          "text": "鑄造廠隨工廠大小規模而異,主要造模工具與設備有"
+        },
+        {
+          "type": "heading",
+          "text": "1. 混砂機、拋砂機,如圖 9-7(a) ∼ (b),用於調合鑄砂與拋砂。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 砂箱、砂心盒:砂箱用來造模、砂心盒用來製作砂心,砂箱及使用情形如圖 9-7(c)、 (d)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. ᑁࠣŘ߱ᵺᑁҙⵒᮟᮝᑁἂŊ˫͵ૌl⸉଼᥂᚝ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "4. 度量工具:縮尺、高溫計、平板、水平儀、角尺、量尺等"
+        },
+        {
+          "type": "heading",
+          "text": "5. 安全護具:頭盔、護目鏡、耐火衣、手套、綁腿等,防止灼傷意外。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 熔化爐:熔煉金屬之用,如 ᥂隶ᦘ૾ᮢᅠ᥂ᤓ風隶řヅೲᦘȮ౹ᦘȮⱧᦘᮢᅠ᥂ᤓ風⻘ř"
+        },
+        {
+          "type": "heading",
+          "text": "ࠐ冫ᦘᮢᅠ᥂ᤓ㄄隶⸉଼ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 9-7 ȭ׳ೣⳍᑁడң"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch09/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "174"
+        },
+        {
+          "type": "heading",
+          "text": "7. 圓鋸機、帶鋸機、鋼錘:去除澆道、冒口、流道等。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 各種檢驗儀器或設備:鑄砂試驗儀器、硬度計、金相檢查設備、光譜分析設備等。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 澆桶、澆缽:盛裝金屬液,以利澆鑄,如圖 9-8(a)、 (b)。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 其它:砂心烘乾機、拋光機、口罩、壓重塊、砂箱、 C 形夾、砂心撐、照明工具等。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 9-8 ȭ៮ጝ⎞៮⇄"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeᛟிτΌ"
+        },
+        {
+          "type": "paragraph",
+          "text": "如前述,鑄造流程包括鑄模製作、金屬熔解與澆鑄、鑄件後處理,每一項工作都有若干的 危險性,工作者需具備鑄造安全知識,養成良好安全習慣,才能確保自身安全與機具設備的正 常運轉。"
+        },
+        {
+          "type": "heading",
+          "text": "( ɓ ) ிᅼЪุʘτΌԫධ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 保持造模場所之整潔與通道順暢,以免意外發生。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 消防器材及消防砂應定期檢查、更新及補充。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 風ᵺ߱͐ᮢԊൕᄝԽ˫⦲׶Ŋؐᖛ˷⳧घŊ៮風ᆹᆞ͐風˴ᮟᮝᖎઋŊᮚ⎏ᱹᮝᦓᣄ֭るȯ"
+        },
+        {
+          "type": "heading",
+          "text": "4. 砂鏟不使用時,應依規定放置,勿任意拋置於地面,以免發生危險。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 使用通氣針時,應特別小心,切勿用手或手指觸及尖端,以免刺傷。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 鑄造原料、工具、廢棄物應置放於固定場所。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 切勿試圖提取超過本身能力之重物。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 提取或翻轉大型砂模,應請他人協助;大型砂箱須使用起重機,操作時應注意其安全。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 工具、器具等放置整齊,以免倒塌傷人。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 使用噴燈或瓦斯烘烤砂模時,不可正對他人或易燃物品,以免發生意外。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch09/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 ᛟிண௪ʘԴ͜ 175"
+        },
+        {
+          "type": "heading",
+          "text": "( ɚ ) အ๪ЪุʿᆏᛟτΌ஝ۆ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 操作熔解爐或澆鑄,應穿戴安全防護用具,如圖 9-9 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 熔解爐地面四周保持乾燥,切勿積水。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 勿將受潮之金屬材料投擲於爐中、坩鍋內或澆桶之金屬熔液內,否則可能造成金屬液噴濺。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 澆桶使用前,要先檢查手柄是否完善與牢固。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 澆桶在裝入金屬熔液前,應完全乾燥與預熱後才可使用。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 用手提式澆桶裝有金屬熔液時,切勿後退走,以免發生意外。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 澆桶盛裝金屬熔液約八分滿,不可盛滿。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 澆鑄時,切勿將臉部正對著澆口或冒口上方。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 如有金屬液倒在之地面上,應立即覆蓋一層乾的砂料,防止流散。"
+        },
+        {
+          "type": "heading",
+          "text": "( ɧ ) ᛟ΁૶ଣτΌ஝ۆ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 澆鑄完後,拆模清箱應注意鑄件溫度,以免灼傷。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 從事冒口切除、研磨、噴砂,應戴上安全護目鏡及口罩。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 隨時注意鑄件上的毛邊,避免割傷。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 機械上的安全護罩是在保護工作人員安全,切勿擅自移除。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 使用迴轉機器時,切勿戴手套,以防被捲入。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 砂輪磨削時,不能有碰撞或衝擊的情形發生,以免砂輪破裂。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 鑄件堆放應整齊,且不可堆得太高,防止倒塌傷人。"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 9-9 ȭ〾⩂ːڂમҚ᱿ⶪЈ [3][4][5]"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch09/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "176 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 1 17 17 17 1 1 17 17 17 17 1 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6"
+        },
+        {
+          "type": "heading",
+          "text": "9-3 ிᅼ͜ʈՈʘԴ͜"
+        },
+        {
+          "type": "heading",
+          "text": "砂模鑄造工作除了模型外,在手工造模中"
+        },
+        {
+          "type": "heading",
+          "text": "需運用一些工具來製作砂模,常用的造模工具"
+        },
+        {
+          "type": "heading",
+          "text": "如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 砂鏟 (Shovel):用於調拌模砂和鏟砂,有尖"
+        },
+        {
+          "type": "paragraph",
+          "text": "頭與平頭之分,平頭較適合於鑄造使用。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 砂箱 (Box):砂模一般均在砂箱內造模,由"
+        },
+        {
+          "type": "heading",
+          "text": "上砂箱及下砂箱組成,砂箱材質有木材及"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬,尺寸視鑄件大小而異。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) ᵺ米ȮᵺᾼȮᵺῠ⎞ⳍᑁኈ"
+        },
+        {
+          "type": "heading",
+          "text": "3. 砂篩 (Riddle sieve screen): ᵺῠᮢᅠῠぜᵺ"
+        },
+        {
+          "type": "heading",
+          "text": "ʑグ⫨໣ῠӛӠᑁᵺȯῠᲿञଅ) 8 Ɯ 12"
+        },
+        {
+          "type": "paragraph",
+          "text": "ᲿŊ ⳍ ᑁ ᆹ ῠ ⴆ ⰱ ₳ ᱿ ㄇ ᵺ (Facing sand)"
+        },
+        {
+          "type": "heading",
+          "text": "⣰╾ᅠᑁߣشࠣŊ͐風˴⠧ㄇⰱ₳Dȯ"
+        },
+        {
+          "type": "heading",
+          "text": "4. 造模板 (Mold board):用於放置模型及砂箱,"
+        },
+        {
+          "type": "heading",
+          "text": "做為砂模之基準面,或砂箱翻轉後做為底"
+        },
+        {
+          "type": "paragraph",
+          "text": "板之用。砂鏟、砂箱、砂篩與造模板使用 情形如圖 9-10(a) ∼ (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 9-10 ȭᵺ米ȮᵺᾼȮᵺῠ⎞ⳍᑁኈ͐ᮢ෼ഐ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch09/p008.jpg"
+    }
+  ]
+}

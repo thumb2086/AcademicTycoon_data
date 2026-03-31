@@ -1,0 +1,1165 @@
+{
+  "content_id": "CONTENT_MECH_DRAFTING_CH01",
+  "subject": "機械製圖",
+  "chapter": {
+    "code": "CH01",
+    "title": "CH1"
+  },
+  "title": "機械製圖 Chapter 1 工程圖認識",
+  "source_pdf": "機械製圖/CH1PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_DRAFTING_CH01",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "工程圖認識"
+        },
+        {
+          "type": "heading",
+          "text": "本章學習內容"
+        },
+        {
+          "type": "heading",
+          "text": "1-1 工程圖之重要性"
+        },
+        {
+          "type": "heading",
+          "text": "1-2 工程圖之種類"
+        },
+        {
+          "type": "heading",
+          "text": "1-3 工程圖之規範"
+        },
+        {
+          "type": "heading",
+          "text": "1-4 圖紙之規格"
+        },
+        {
+          "type": "heading",
+          "text": "( 建議授課: 3 節 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 1 2022/4/13 下午 04:21:59"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "學習表現"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程圖乃將有形物體及其相關位置作完整、確實之描述與表達,視圖表示其形狀, 數字表示其大小與位置,而文字符號可作為各種說明。而且繪製工程圖時,必須依據一 定的繪圖準則,以作為各級工程人員如設計者、製造加工者之間的溝通橋樑。簡言之, 工程圖為產品設計、製造、檢驗之基本要求,為一切工業建設的基石。"
+        },
+        {
+          "type": "heading",
+          "text": "因此,本章之學習目標如下:"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能了解工程圖在工業界的重要性"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能了解製圖的種類、製圖的規範及製圖用紙的規格"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 能引發學習者對製圖的學習興趣與動機,並能體會美感素養、創意概念與應用"
+        },
+        {
+          "type": "heading",
+          "text": "於日常產品或感知科技產品之設計"
+        },
+        {
+          "type": "heading",
+          "text": "1-1 工程圖之重要性"
+        },
+        {
+          "type": "paragraph",
+          "text": "人與人之間的溝通除語言或文字外,常藉圖形 (Graphic) 協助表達。 20 世紀以來的現代藝術 不管是立體派、抽象派、寫實派、印象派⋯⋯等等風格,常藉繪畫、雕刻、五金工藝或建築等 展現其藝術之美感與氣質,如圖 1-1 所示以畫風為例,從線條筆觸、構圖、透視、形體、空間、 速度與動感、色彩明暗等,表達其不同的意識、情感、特徵與美學。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-1 藝術風格"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:東亞日報 2006 & 許世芳 & 蔡秋蘭 ) 但是在一些專業領域方面,須有讓每個人都能了解的 圖形語言 (Graphic language),以使人 們對事物的描述更容易地表達、溝通與進一步生產製造,這種圖形必須能作為 設計者 與 製造者 之間的 溝通橋樑,如圖 1-2 所示。故即使是日常用產品、工程或機械等圖形,除了形狀可以考慮 加入創意與美學理念外,必須具有尺度大小方能製造加工。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 2 2022/4/13 下午 04:22:01"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 工程圖認識 3"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-2 設計與製造橋梁"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: Wang Yi-Sheng)"
+        },
+        {
+          "type": "paragraph",
+          "text": "所以,一張工程圖 (Engineering drawing) 須透過標準製圖規範,包括兩項基本要素,即 線條 與 字法 ( 包括數字、文字、符號 ) 所構成,藉以描述其形狀、大小與製造方式。換言之,工程圖 學是一種以圖畫、符號和文字組成的圖形語言學科,如圖 1-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-3 工程圖的基本要素"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:行政院勞發署 - 電腦輔助設計製圖丙級 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 3 2022/4/13 下午 04:22:02"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此,每一位機械群的學生均必須了解如何繪圖 ( 繪製 ) 與識圖 ( 讀圖 ),並熟悉各種線條 代表意義、符號及註解文字等。如此方能對物體的設計或機件加工要求表達給製造者,而這一 門學問即稱為製圖。所以, 學習製圖的目的 在於工程圖的 繪圖 與 識圖。故製圖必須依一定的繪 製準則,方能成為共通的語言,達到各級工程人員如設計者、製造加工者之間的溝通橋樑。是 以 製圖基本原則首要是正確 ( 真 ),其次是 迅速 ( 善 ) 及清晰、 美觀 ( 美 ),絕不是草率或任意塗鴉, 以致在相互傳達意圖與觀念有所誤解。"
+        },
+        {
+          "type": "heading",
+          "text": "1-2 工程圖之種類"
+        },
+        {
+          "type": "heading",
+          "text": "工程圖之種類大致分類,簡述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "一、依視圖的種類分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "在第一冊將會學習正投影視圖,第二冊學習內容有剖面視圖、習用畫法 ( 包括輔助視圖、局 部視圖、半視圖、中斷視圖、轉正視圖、局部放大視圖、虛擬視圖⋯⋯等 ),據此進而了解物體 的立體形狀,甚至機構或機器的立體形狀,如表 1-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 1-1 依視圖的種類分類"
+        },
+        {
+          "type": "heading",
+          "text": "第一冊 正投影視圖 如前視圖、俯視圖、右側視圖等"
+        },
+        {
+          "type": "heading",
+          "text": "剖面視圖 如全剖面、半剖面、旋轉剖面、移轉剖面等"
+        },
+        {
+          "type": "heading",
+          "text": "第二冊"
+        },
+        {
+          "type": "paragraph",
+          "text": "如輔助視圖、局部視圖、半視圖、中斷視圖、轉正視圖、局部放大"
+        },
+        {
+          "type": "heading",
+          "text": "習用畫法"
+        },
+        {
+          "type": "heading",
+          "text": "視圖、虛擬視圖等"
+        },
+        {
+          "type": "heading",
+          "text": "1. 正投影視圖:最常用 三視圖 加以標註尺度,主要目的是用以表示機件形狀及大小。如圖 1-4(b)"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示,詳見於第五章。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 剖視圖:主要目的在表達物體 內部複雜的形狀。如圖 1-4(c) 所示,詳見於第七章。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-4 正投影視圖與剖視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 4 2022/4/13 下午 04:22:03"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 工程圖認識 5"
+        },
+        {
+          "type": "heading",
+          "text": "3. 習用畫法:繪製正投影視圖時常不完全符合正投影原理規範,以約定成俗的方法使視圖更加"
+        },
+        {
+          "type": "paragraph",
+          "text": "清晰、明確與簡易繪製,這種方法稱為 習用畫法,詳見於第八章。如 輔助視圖主要目的在表 達物體斜面之實形及大小,用於特殊形狀或部位的機件表達方法,如圖 1-5 所示。若為了簡 化視圖,將物體與投影面不平行的部位,得違反投影原理,以某一適當的點為中心軸,將不 平行部位旋轉與投影面平行而繪出之視圖稱為 轉正視圖,如圖 1-6 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 1-5 輔助視圖 ▲ 圖 1-6 轉正視圖"
+        },
+        {
+          "type": "heading",
+          "text": "二、依使用目的分類"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工作圖:係製造機件所用的圖,乃是設計者將形狀、尺度、加工法及精度等觀念所畫出正確"
+        },
+        {
+          "type": "paragraph",
+          "text": "的圖形,主要目的是作為製造加工之依據,分為 零件圖 與 組合圖,如圖 1-7、 1-8 所示,詳見 於第九章。 (1) 零件圖:為表達 每一機件 形狀、尺度與結構之圖,以作為現場生產用的工作圖,此種圖 須考慮加工方法與配合模具要領繪製,常見者如圖 1-7 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-7 零件圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:行政院勞發署 - 機械加工丙級 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 5 2022/4/13 下午 04:22:05"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 組合圖:又稱為裝配圖或總圖,係將各機件組合,用來表示機件 裝配位置 及描述其間關 係之圖;圖上尚包含標題欄、零件表、主要尺度等內容,如圖 1-8 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-8 組合圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:行政院勞發署 - 機械加工丙級 )"
+        },
+        {
+          "type": "heading",
+          "text": "2. 說明圖:主要目的用於說明物體的構造,相關位置進而易於了解其機能、操作方法、動作原"
+        },
+        {
+          "type": "paragraph",
+          "text": "理等目的,常用於產品目錄、操作說明手冊或組裝工廠,讓人一目了然。最常見此圖的表達 方法有立體組合圖與立體系統圖。如圖 1-9 所示,圖 (a) 為機械立體組合圖,圖 (b) 為一機械 立體系統圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-9 立體組合圖與系統圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 6 2022/4/13 下午 04:22:07"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 工程圖認識 7"
+        },
+        {
+          "type": "heading",
+          "text": "3. 其他:如表示電氣的配線圖或系統圖、管路圖 ( 配管圖 )、鋼結構圖、設備圖⋯⋯等。常見"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程圖如圖 1-10、 1-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-10 液壓系統圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:愛我窩網、自助貿易網、牽液機器、升加實業、盈沛泵浦、惠侑企業 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-11 管路圖 ( 配管圖 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:要分享圖庫 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 7 2022/4/13 下午 04:22:08"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "三、依繪圖方式分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般繪圖方式分為三種: 1. 徒手畫、 2. 用儀器畫、 3. 電腦畫。說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 徒手畫:常用於實物測繪或設計者的構想圖。通常以鉛筆並用徒手方式在白報紙或方格紙上"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製的 草圖 或設計草圖,為工程圖的最初原圖,如圖 1-12 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-12 實物測繪與徒手畫草圖"
+        },
+        {
+          "type": "heading",
+          "text": "2. 儀器畫:指藉各種製圖儀器或用具依一"
+        },
+        {
+          "type": "heading",
+          "text": "定比例及 CNS 繪製標準所繪的工程圖,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 1-13 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-13 製圖儀器繪圖"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電腦畫:利用電腦設備與繪圖軟體繪製"
+        },
+        {
+          "type": "heading",
+          "text": "圖形,並使用繪圖機或印表機將工程圖"
+        },
+        {
+          "type": "heading",
+          "text": "印製出圖面的方式,此種電腦畫法稱為"
+        },
+        {
+          "type": "paragraph",
+          "text": "電腦繪圖,如圖 1-14 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-14 電腦繪圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:英國阿多尼斯國際公司 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 8 2022/4/13 下午 04:22:12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 工程圖認識 9"
+        },
+        {
+          "type": "heading",
+          "text": "四、依內容分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 1-15 所示以連桿為例,在考慮不同加工方法下所繪製的工程圖有:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑄造圖:此種圖用於鑄造,繪製此圖時須考慮 機件交角處設計成圓角,如圖 (a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 熔接圖:此種圖用於熔接,繪製此圖時須以熔接符號表示,如圖 (b)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 機械加工圖:繪製此圖時除尺度外,尚須考慮加工的公差及表面織構情況,必要時標示其加"
+        },
+        {
+          "type": "paragraph",
+          "text": "工方法,如圖 (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鍛造圖:此種圖用於鍛造,繪製此圖時除考慮交角處為圓角外,並須配合模具,機件本身要"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一定程度的拔模斜度,如圖 (d)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 1-15 四種不同加工方法所繪製的連桿工程圖"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄造: 常指翻砂,是指將金屬在熔融狀態時將其倒入鑄模內,待其冷卻凝固後取出的方法,所得產品稱為 鑄件,鑄件精密度較差、光度欠佳。 熔接: 是一種以加熱或加壓方式接合金屬的方法及技術,熔接方法多種,零件圖須用熔接符號表示。 機械加工: 是一種用加工機械(如車床、銑床、磨床等)對工件的外形、尺寸進行切削的過程,加工後精 密度高、光度佳。 鍛造: 把胚料加熱後,利用壓力使它發生塑性變形,成為一定形狀和尺寸的一種加工法,所得的工件稱為 鍛件,其零件圖須考慮拔模斜度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 9 2022/4/13 下午 04:22:12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "五、依圖樣性質分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "依圖樣性質常分為: 1. 草圖、 2. 原圖、 3. 藍圖。說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 草圖:乃是設計者在現場以 徒手畫 方式迅速繪製之圖,如圖 1-16 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-16 保護 ipad 皮套草圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:英國阿多尼斯國際公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "2. 原圖:使用儀器或電腦,將草圖繪製"
+        },
+        {
+          "type": "heading",
+          "text": "在圖紙上且註解完整之工程圖,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "1-17 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-17 原圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:藍圖網 )"
+        },
+        {
+          "type": "heading",
+          "text": "3. 藍圖:將原圖製成藍底白線,藍圖具"
+        },
+        {
+          "type": "heading",
+          "text": "透光性,便於複印圖,供現場操作者"
+        },
+        {
+          "type": "paragraph",
+          "text": "所使用的圖面,如圖 1-18 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-18 藍圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:素材公社網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 10 2022/4/13 下午 04:22:13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 工程圖認識 11"
+        },
+        {
+          "type": "heading",
+          "text": "1-3 工程圖之規範"
+        },
+        {
+          "type": "paragraph",
+          "text": "製圖若僅憑個人之觀念給予繪製,如此會讓人容易曲解原 意。因此,對於描述物體之形狀、大小以及文字註解、符號等須 有一定之規範,方能使圖形成為一種共通性之語言。 我國為使各界有一依據準繩,標準檢驗局對各工業產品訂 有各種標準規範,稱為 中華民國國家標準,符號如圖 1-19 所示, 以公制為工程製圖標準, 單位以 mm 標註。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-19 CNS 標準符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程製圖的標準規範, 其編號及內容常使用者如表 1-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 1-2 常見的工程製圖標準規範編號及內容"
+        },
+        {
+          "type": "heading",
+          "text": "編號 內容 編號 內容"
+        },
+        {
+          "type": "paragraph",
+          "text": "CNS3B1001 一般準則 CNS3-9B1001-9 液壓系氣壓系製圖符號 CNS3-1B1001-1 尺度標註 CNS3-10B1001-10 電機電子製圖符號 CNS3-2B1001-2 機械元件習用表示法 CNS3-11B1001-11 圖表畫法 CNS3-3B1001-3 表面織構符號 CNS3-12B1001-12 幾何公差最大實體原理 CNS3-4B1001-4 幾何公差 CNS3-13B1001-13 幾何公差位置度公差之標註 CNS3-5B1001-5 鉚接符號 CNS3-14B1001-14 幾何公差基準及基準系統之標註 CNS3-6B1001-6 銲接符號 CNS3-15B1001-15 幾何公差符號之比例及尺度 CNS3-7B1001-7 鋼架結構圖 CNS3-16B1001-16 幾何公差檢測原理與方法"
+        },
+        {
+          "type": "heading",
+          "text": "CNS3-8B1001-8 管路製圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "除了中華民國國家標準 (CNS) 以外,世界各主要工業國家為統一各國之工業產品之規格, 亦均制定有各國之國家標準,常見者如表 1-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 1-3 各國之工業標準"
+        },
+        {
+          "type": "paragraph",
+          "text": "各國之工業標準名稱 英文代號 各國之工業標準名稱 英文代號"
+        },
+        {
+          "type": "heading",
+          "text": "中華民國國家標準 CNS 美國國家標準 ANSI"
+        },
+        {
+          "type": "heading",
+          "text": "日本工業標準 JIS 美國標準協會標準 ASA"
+        },
+        {
+          "type": "paragraph",
+          "text": "英國國家標準 BSI 美國機械工程師學會標準 ASME"
+        },
+        {
+          "type": "heading",
+          "text": "德國國家標準 DIN 美國汽車協會標準 SAE"
+        },
+        {
+          "type": "heading",
+          "text": "法國國家標準 NF 美國鋼鐵學會標準 AISI"
+        },
+        {
+          "type": "heading",
+          "text": "國際標準化組織 ISO"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 11 2022/4/13 下午 04:22:14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "1-4 圖紙之規格"
+        },
+        {
+          "type": "heading",
+          "text": "一、製圖用紙 (Drawing paper)"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪圖紙種類繁多,選用原則是紙質堅韌、具適當紙紋而不耀眼不反光、能耐拭及不滲透墨 水。常用者有普通製圖紙、描圖紙和方格紙三種,敘述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 普通製圖紙:常用道林紙 (Woodfree paper) 或模造紙,適於初學者或繪製底圖。紙張之重量"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "以面積為一平方公尺多少克重表示,即 g/m,又稱基重 (gsm),愈重表示紙張愈厚,適用於"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "製圖用的道林紙或模造紙在 125 g/m 至 200 g/m 之間。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 描圖紙 (Tracing paper):是一種半透明薄紙,"
+        },
+        {
+          "type": "paragraph",
+          "text": "適於鉛筆或針筆上墨繪圖,可曬成藍圖。市面"
+        },
+        {
+          "type": "heading",
+          "text": "上的描圖紙卷狀出售者大都寬約 1 公尺,長約"
+        },
+        {
+          "type": "paragraph",
+          "text": "20 公尺,亦有照規格大小裁好者。常用者有"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "90 ∼ 95 g/m, 70 ∼ 75 g/m 等規格,如圖 1-20 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-20 描圖紙"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:痞客幫網 -Lcubestudio)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 方格紙:乃在模造紙印上藍色 ( 或綠色或黃色 )"
+        },
+        {
+          "type": "heading",
+          "text": "的正方格或菱形格,方便用於實物測繪時繪製"
+        },
+        {
+          "type": "heading",
+          "text": "草圖,或設計者草繪設計圖的場合,如圖 1-21"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示。 ( 註:紙張數量計算單位,一般稱一令 為 500 張。 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-21 方格紙"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:愛逛街網 )"
+        },
+        {
+          "type": "heading",
+          "text": "二、標準圖紙大小"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般圖紙分為 A( 甲 ) 系列與 B( 乙 ) 系列規格, CNS 工程製圖採用 A 系列規格紙,橫式、 直式均適用,裁妥之尺度如表 1-4 所示。其中, A1 規格俗稱「菊版紙」,常用於書刊、雜誌、"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "事務用品之印製。 CNS 工程製圖 A 系列規格紙,乃令 A0 的面積為 1m,長邊為短邊的 2 倍。 則得 A0 的短邊 = 841mm, A0 的長邊 = 1189mm,如圖 1-22 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 12 2022/4/13 下午 04:22:15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 工程圖認識 13"
+        },
+        {
+          "type": "paragraph",
+          "text": "▼ 表 1-4 A 系列及 B 系列規格紙 ( 單位: mm)"
+        },
+        {
+          "type": "heading",
+          "text": "編號"
+        },
+        {
+          "type": "heading",
+          "text": "0 1 2 3 4"
+        },
+        {
+          "type": "heading",
+          "text": "系列別"
+        },
+        {
+          "type": "paragraph",
+          "text": "A 1189 × 841 841 × 594 594 × 420 420 × 297 297 × 210 B 1414 × 1000 1000 × 707 707 × 500 500 × 353 353 × 250"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "B 系列規格較 A 系列規格圖紙大, B 系列的制定是長度為 1 公尺且面積為 2 平方公尺 (m ) 的紙張,即長 × 寬為 1414mm × 1000mm ( 長寬比為 2: 1),並將其編號為 B0。其中, B1 規 格俗稱「四六版紙」,又稱全紙,適合各種印刷品之印製。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-22 標準圖紙長短邊比例"
+        },
+        {
+          "type": "paragraph",
+          "text": "取 A0 面積的一半稱為 A1,又取 A1 面積的一半稱為 A2,餘此類推。如圖 1-23 所示,可發 現 A0 面積是 A1 的兩倍, A0 面積是 A2 面積的 4 倍, A0 面積是 A3 面積的 8 倍,餘此類推。換"
+        },
+        {
+          "type": "heading",
+          "text": "n (3-0) 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "言之, A0 圖紙可裁剪成 8 張 A3 圖紙,即 2 = 2 = 2 = 8。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-23 圖紙大小"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 13 2022/4/13 下午 04:22:15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "三、圖框的大小規範"
+        },
+        {
+          "type": "paragraph",
+          "text": "為方便圖形在複製、印刷時能定位準確或需裝訂成冊,應在圖紙上以粗實線繪製或印妥圖 框 (Border line),其距紙邊之尺度如表 1-5 與圖 1-24 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 不裝訂:圖紙不裝訂成冊時,圖框距離紙邊的尺度四周均為等距, A0-A2 的尺度為 15 mm,"
+        },
+        {
+          "type": "paragraph",
+          "text": "A3、 A4 的尺度為 10 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 裝訂:圖紙需裝訂成冊時, 一律在圖紙左側留 25 mm 作為裝訂邊。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 1-5 圖框距紙邊尺度"
+        },
+        {
+          "type": "heading",
+          "text": "尺度"
+        },
+        {
+          "type": "heading",
+          "text": "A0, A1, A2 A3, A4"
+        },
+        {
+          "type": "heading",
+          "text": "規格"
+        },
+        {
+          "type": "heading",
+          "text": "a 15 10"
+        },
+        {
+          "type": "heading",
+          "text": "b 25 25"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-24 圖框大小"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "紙張種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "除工程圖採用模造紙(道林紙)、描圖紙、方格紙外,隨著造紙技術的進步,坊間尚有牛皮紙、壁報 紙、色卡紙、皺紋紙、瓦楞紙、粉彩紙、雲彩紙、丹迪紙、厚紙板、西卡紙、白玉紙、色棉紙......等供各 種用途使用。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 14 2022/4/13 下午 04:22:16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 工程圖認識 15"
+        },
+        {
+          "type": "heading",
+          "text": "四、標題欄的大小規範"
+        },
+        {
+          "type": "heading",
+          "text": "1. 標題欄位置: 標題欄應置於圖面右下角為原則, 其右邊及下邊即為圖框線, 如圖 1-25(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2. 標題欄大小:如圖 1-25(b) 所示,一般大小為 55 × 175mm。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 標題欄內容:標題欄的閱讀方向應與工作圖的閱讀方向一致,內容包括事項不外有下列幾項:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 圖名, (2) 圖號, (3) 機構名稱, (4) 投影法, (5) 比例, (6) 材料, (7) 一般公差, (8) 設計、 繪圖、描圖、校核、審定等人員姓名及日期。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-25 標題欄"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 15 2022/4/13 下午 04:22:16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "4. 零件表:零件表可加在 標題欄上方,零件號數填寫次序 由下向上,如圖 1-26 所示;或另用"
+        },
+        {
+          "type": "paragraph",
+          "text": "單頁書寫,但填寫次序 由上向下,如圖 1-27 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-26 零件表在標題欄上方"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-27 零件表單頁書寫"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 16 2022/4/13 下午 04:22:16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 工程圖認識 17"
+        },
+        {
+          "type": "paragraph",
+          "text": "依照以上各項規範,於是我們設計了幾個標題欄供各企業、機關或學校參考使用,如圖 1-28、圖 1-29 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-28 標題欄之一"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-29 標題欄之二"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 17 2022/4/13 下午 04:22:17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "18"
+        },
+        {
+          "type": "heading",
+          "text": "五、圖紙的摺疊與裝訂"
+        },
+        {
+          "type": "paragraph",
+          "text": "較 A4 大的圖紙或藍圖通常可 摺疊成 A4 大小 ( 即 210 × 297),以方便置於文書夾中或裝訂成 冊保存。但描圖紙儘量不摺疊,以免晒圖時產生摺痕線。但是描圖紙為了避免摺疊受損,常用 藏圖櫃收納,以確保圖面的美觀清晰。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 標題欄摺疊時位置:摺疊時圖的 標題欄必須摺在上面 且 朝上擺置,以便查閱圖面基本資料,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 1-30、圖 1-31 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 不裝訂式摺疊方法:無裝訂邊的不裝訂式摺疊方法,如圖 1-30(a) ∼ (c) 所示為 A0 至 A2 紙"
+        },
+        {
+          "type": "paragraph",
+          "text": "摺疊方法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-30 圖紙的摺疊 ( 不裝訂 )"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 18 2022/4/13 下午 04:22:18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 工程圖認識 19"
+        },
+        {
+          "type": "heading",
+          "text": "3. 裝訂式摺疊方法:有裝訂邊的裝訂式摺疊方法,如圖 1-31(a) ∼ (g) 所示為 A0 至 A4 紙摺疊"
+        },
+        {
+          "type": "paragraph",
+          "text": "方法,各摺線旁的數字為摺疊次序。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-31 圖紙摺疊 ( 有裝訂邊 )"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 19 2022/4/13 下午 04:22:18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "六、圖紙的延伸"
+        },
+        {
+          "type": "heading",
+          "text": "1. 若需要比 A0 大之圖紙,可以採用 A0 圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "紙面積之兩倍大小 1682 mm × 1189 mm, 圖 1-32 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-32 A0 圖紙之兩倍"
+        },
+        {
+          "type": "heading",
+          "text": "2. 如果需要比標準圖紙還狹長之圖紙,可以將標準圖紙之長邊延伸,使長邊成狹長格式 ( 除"
+        },
+        {
+          "type": "paragraph",
+          "text": "A4 規格外 ),其長邊尺度依摺疊法區分為「裝訂式」和「不裝訂」,圖紙長邊尺度如表 1-6, A3 圖紙延伸範例,圖 1-33 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 1-6 圖紙長邊尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "裝訂式 1320 1690 2060 2430 = (210 mm) + (370 mm 之倍數 )"
+        },
+        {
+          "type": "heading",
+          "text": "A0 圖紙長邊"
+        },
+        {
+          "type": "heading",
+          "text": "(1189 mm)"
+        },
+        {
+          "type": "paragraph",
+          "text": "不裝訂式 1486 1783 2080 2377 = (1189 mm) + (297 mm 之倍數 ) 裝訂式 950 1320 1690 2060 = (210 mm) + (370 mm 之倍數 )"
+        },
+        {
+          "type": "heading",
+          "text": "A1 圖紙長邊"
+        },
+        {
+          "type": "heading",
+          "text": "(841 mm)"
+        },
+        {
+          "type": "paragraph",
+          "text": "不裝訂式 1051 1261 1471 1681 = (841 mm) + (297 mm 之倍數 ) 裝訂式 950 1320 1690 2060 = (210 mm) + (370 mm 之倍數 )"
+        },
+        {
+          "type": "heading",
+          "text": "A2 圖紙長邊"
+        },
+        {
+          "type": "heading",
+          "text": "(594 mm)"
+        },
+        {
+          "type": "paragraph",
+          "text": "不裝訂式 891 1188 1485 1782 = (594 mm) + (297 mm 之倍數 ) 裝訂式 580 950 1320 1690 = (210 mm) + (370 mm 之倍數 )"
+        },
+        {
+          "type": "heading",
+          "text": "A3 圖紙長邊"
+        },
+        {
+          "type": "heading",
+          "text": "(420 mm)"
+        },
+        {
+          "type": "paragraph",
+          "text": "不裝訂式 630 840 1050 1260 = (420 mm) + (297 mm 之倍數 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 1-33 狹長之圖紙範例 (A3 規格 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH01.indd 20 2022/4/13 下午 04:22:19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch01/p020.jpg"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH06",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "0 mm ( R = 1 mm ) (D) 修整刀鼻半徑 (C) 以砂輪稜角處研磨斷屑槽 A 圖 6-10 銲接式碳化鎢外徑粗車刀研磨 ( 續 ) 〕 捨棄式外徑車刀組裝 (Clamp er) (Eccentricshaft) 6-11",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch06/p014_0_50_0_r.png",
+      "options": [
+        "刀柄側向螺絲壓板與固定螺絲捨棄式刀片刀座與偏心軸壓板固定螺絲扳手側向螺絲扳手 (A) 捨棄式外徑車刀分解零件 A 圖 6-11 捨棄式外徑車刀分解與組裝 6-11",
+        "",
+        "",
+        "修整刀鼻半徑 (C) 以砂輪稜角處研磨斷屑槽 A 圖 6-10 銲接式碳化鎢外徑粗車刀研磨 ( 續 ) 〕 捨棄式外徑車刀組裝 (Clamp er) (Eccentricshaft) 6-11(A) 刀柄側向螺絲壓板與固定螺絲捨棄式刀片刀座與偏心軸壓板固定螺絲扳手側向螺絲扳手 (A) 捨棄式外徑車刀分解零件 A 圖 6-11 捨棄式外徑車刀分解與組裝 6-11(B) Chapter 6 壓板刀座偏心軸 (B) 捨棄式外徑車刀刀座組裝刀片可承受壓板下壓力 (F) 及偏心軸後推力 (S) 的雙重鎖固力作用, 外徑車刀的使用 6 一 11 (C) 121 捨棄式刀片刀座止付螺絲 ( 側向鎖固 ) 壓板螺絲鎖固刀柄 V 型溝槽偏心軸 (C) 捨棄式外徑車刀刀片鎖固原理 6 一 11(D) 壓板螺絲鎖固側向螺絲鎖固 (D) 捨棄式外徑車刀組裝完成 A 圖 6-11 捨棄式外徑車刀分解與組裝 ( 續 ) 學後量 (A) mm/ (B) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) (Build up edge) (A) (B) (D) (A) (B) (D) (A) (B) (D) (A) (B) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Metallurgy for the Non-Metallurgist, ASM lnternational, 1998, P4—P6 2 · M.C. Shaw, Metal cutting principals, 2nd edition, Oxford University Press, 2005, P316 1992, P114 ~ P140 4 · S.T. Chen, ㄥ H. Jiang, A force controlled grinding-milling technique for quartz-glass nmcromachining, Journal 0f Materials Processing Technology, V01.216, 2015, P206 ~ P215 5 · M.I. Petrescu, Boron nitride theoretical hardness compared to carbon polymorphs, Diamond and Related Materials, vol. 13, 2004, P 1848 ~ P 1853 3 · 6 · 8 · 493 2014 P54 ~ P64 7 · T.H.C. Childs, C.J. Evans, E.C. Browy, J.R. Troutman, E. Paul, Tool Temperatures and Wear in Micro-machining Cu-Ni Alloys with Diamond T001s: Models, Simulations and Experiments, Procedia CIRP, vol. 3 1, 2015, P270 ~ P275 P334 1989 9 · ISO 1832: 2012(E), lndexable inserts for cutting tools - Designation, lnternational standard, 5th edition, 2012, P 1 ~ P2 123"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "(D) (A) H.s.s. (B) P10",
+        "",
+        "(A) H.s.s. (B) P10 (C) (D) M40 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_003",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "H.s.s.",
+        "P10",
+        "",
+        "M40 (A) (B) (D) (A) (B) 6-2 (D) (A) (B) (D) (A) (B) (D) (A) (B) 6 一 3 (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

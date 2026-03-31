@@ -1,0 +1,181 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH10",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_001",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "25 GP a",
+      "image_url": "",
+      "options": [
+        "125",
+        "100",
+        "50",
+        "25 (A) 0 < <"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_002",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "50 mm 80 mm 240 kN MPa 50mm",
+      "image_url": "",
+      "options": [
+        "30",
+        "60",
+        "75",
+        "120 B | 一 4 一 4 一 2 一 2 40mm 80mm (A) 從動 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_003",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "8 × 8 × 25 mm 800N 800 N 300 N 400 mm 50 mm 300N",
+      "image_url": "",
+      "options": [
+        "10 MPa",
+        "20 MPa",
+        "40 MPa",
+        "50 MPa 1 0-2 2P 3P 2A A 2A 45 。 (A) (B) (D) 學後評量 8000 N 4 mm 25 mm MPa (A) 40 (B) 50 (C) 60 (D) 80 8000N 8000N 25mm )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_004",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "m-n",
+      "image_url": "",
+      "options": [
+        "0 = 0 。 t",
+        "0 = 45 。 max (D) 0 = 30 。 60 mm × 40 mm 120 MPa 55 MPa (A) 132 kN(B) 144 kN",
+        "",
+        "0 = 30 。 60 mm × 40 mm 120 MPa 55 MPa (A) 132 kN(B) 144 kN(C) 264 kN(D) 288 kN 40mm 60mm 截面 a-a )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_005",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "F",
+        "F",
+        "",
+        "0 45 。 、 94 50 cm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_006",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "4 mm",
+      "image_url": "",
+      "options": [
+        "40",
+        "80",
+        "400",
+        "800 P = 60 kN 300 MPa 100 GPa 160 MPa )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_007",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "mm2",
+      "image_url": "",
+      "options": [
+        "375",
+        "200",
+        "750",
+        "400 P = 200 kN 2 cm MPa (A) 125 (B) 250 (C) 375 (D) 1 n"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_008",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "mn",
+      "image_url": "",
+      "options": [
+        "125",
+        "一 125",
+        "125",
+        "200 MPa -125 學後評量 MPa 2 30 。 100 MPa )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_009",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "150",
+        "100",
+        "50",
+        "0 MP a (principal plane) (A) 160 MPa - 60 MPa 50 MPa (C) (D) 45 1 n 0 ox = 300 MPa (A) 60MPa 160MPa 160MPa )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_010",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "G",
+        "- G",
+        "20",
+        "0 45 。 (A) 400 (B) 200 (C) 100 (D) 50 60MPa 0 = 100 MPa 95 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_011",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "0 = 120MPa",
+      "image_url": "",
+      "options": [
+        "140",
+        "180",
+        "80 kN 100 GPa ox = 200 MPa 20",
+        "10 30 。 MPa 80kN 10cm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

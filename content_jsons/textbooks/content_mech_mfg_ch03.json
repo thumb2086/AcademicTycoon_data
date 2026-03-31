@@ -1,0 +1,4421 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH03",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH03",
+    "title": "CH3"
+  },
+  "title": "機械製造 Chapter 3 鑄造",
+  "source_pdf": "機械製造/CH3PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "鑄造"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "3-1 鑄造介紹"
+        },
+        {
+          "type": "heading",
+          "text": "3-2 模型種類"
+        },
+        {
+          "type": "heading",
+          "text": "3-3 鑄模種類"
+        },
+        {
+          "type": "heading",
+          "text": "3-4 砂模的製造"
+        },
+        {
+          "type": "heading",
+          "text": "3-5 機械造模"
+        },
+        {
+          "type": "heading",
+          "text": "3-6 特殊鑄造法"
+        },
+        {
+          "type": "heading",
+          "text": "3-7 金屬熔化及澆鑄"
+        },
+        {
+          "type": "heading",
+          "text": "3-8 鑄件之清理與檢驗"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "由考古學者所發掘的各種器物,可以證實人類從數千年前就開始應用鑄造技術製造首 飾、錢幣、工具、武器與生活所需的器皿。直到今日,鑄造技術仍然是製造業很重要的一 種成形技術。 所謂 鑄造 (Casting) 是將金屬加熱熔解之後,澆入內具空穴的鑄模內,待凝固後將鑄模 打開或加以破壞,取出鑄件的一種製造方法。 零件以鍛造、滾軋或擠製成形時,對於形狀的限制很大;而鑄件的形狀可以很複雜, 所以應用範圍非常廣泛。在機械製造中,不能用其他方法製造的,大都可用鑄造法製出。 例如工作母機的機體、汽車引擎、自來水肘管及火車輪等,都是以鑄造法製成。 在降低成本、增加競爭力的前提下,鑄件設計有複雜化的傾向,藉以減低機械加工費。 另外更積極從事鑄造工廠的機械化及鑄造程序的自動化,以減低人工費用的支出。"
+        },
+        {
+          "type": "heading",
+          "text": "3-1 鑄造介紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄造法具有下列優勢,所以應用甚廣: (1) 能生產複雜形狀和具有內部凹穴或中空截面 的鑄件; (2) 產量大小不拘,單件的大型鑄件也可以生產 ( 如圖 3-1 所示之大型佛像 ); (3) 有些特殊形狀的產品,能夠輕易而經濟地以鑄造法製造。 鑄造工作包括模型之製作、鑄模之製造、熔融金屬之澆鑄及自鑄模中移除鑄件等。欲 得到完美的鑄件,必須嚴格控制製程中的各項變因。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "肘管 P105"
+        },
+        {
+          "type": "heading",
+          "text": "肘管以脫蠟法製成,脫蠟法"
+        },
+        {
+          "type": "paragraph",
+          "text": "可用於製造形狀複雜之鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-1 日本鐮倉大佛 ( 青銅鑄像 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 61"
+        },
+        {
+          "type": "heading",
+          "text": "影響鑄造工作的重要因素有:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 熔融金屬進入模穴中的流動性。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 凝固期間的熱交換及金屬在鑄模內之冷卻。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鑄模材質的影響。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 金屬的凝固情況。"
+        },
+        {
+          "type": "heading",
+          "text": "3-1-1 金屬鑄造之原理"
+        },
+        {
+          "type": "heading",
+          "text": "一、金屬的凝固"
+        },
+        {
+          "type": "heading",
+          "text": "鑄模內之熔融金屬,在凝固並冷卻至室溫"
+        },
+        {
+          "type": "paragraph",
+          "text": "期間,發生了一連串的變化。這些變化會改變"
+        },
+        {
+          "type": "heading",
+          "text": "鑄件之晶粒尺度、形狀及均勻分佈性,影響"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件之品質。圖 3-2 所示者為方形鑄件之冷凝 過程,因冷卻速度的不同所造成的組織變化。"
+        },
+        {
+          "type": "heading",
+          "text": "靠近模壁的液態金屬散熱較快,形成細緻而硬"
+        },
+        {
+          "type": "paragraph",
+          "text": "度較高之表層,是為冷硬區。晶粒生長的方向"
+        },
+        {
+          "type": "heading",
+          "text": "與熱量向模外散失的方向相反,由冷硬區的內"
+        },
+        {
+          "type": "heading",
+          "text": "側,逐漸向中心結晶成長條形的柱狀晶粒,是"
+        },
+        {
+          "type": "paragraph",
+          "text": "為柱狀區。 隨著模壁溫度的升高,熱交換的速"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-2 鑄件的斷面圖"
+        },
+        {
+          "type": "heading",
+          "text": "度減慢, 在鑄件中央部位的晶粒以任意方向結"
+        },
+        {
+          "type": "paragraph",
+          "text": "晶,形成等軸的粗晶粒,是為等軸區。"
+        },
+        {
+          "type": "heading",
+          "text": "二、組織與性質的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "為符合設計與應用的要求,鑄件的性質必須能被預期。鑄件的組織與成分的均勻分佈 性是我們所期望的,但 實際鑄造時,往往會產生 偏析 (Segregation),造成不均勻。 偏析"
+        },
+        {
+          "type": "heading",
+          "text": "可分為下列兩種:"
+        },
+        {
+          "type": "paragraph",
+          "text": "當鑄件冷卻凝固時,如果原子無法均勻擴散並產生平衡情況時,鑄件內部將"
+        },
+        {
+          "type": "heading",
+          "text": "微觀偏析"
+        },
+        {
+          "type": "paragraph",
+          "text": "會產生異常組織。此異常組織會使低熔點的部位在低於相平衡溫度即熔化,"
+        },
+        {
+          "type": "heading",
+          "text": "( 樹枝間偏析 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "內應力集中導致脆化。 微觀偏析會產生熱脆性,可用均質化退火來改善。"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件冷卻時,表面首先固化的部分,含高熔點元素的量會比平均量高出一 巨觀偏析 些;反之,在鑄件中心含低熔點元素的量較多。巨觀偏析所造成的成分差異 相當小,危害並不大。 巨觀偏析的現象,可利用熱作來減低。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "heading",
+          "text": "三、熔融金屬的流動性"
+        },
+        {
+          "type": "paragraph",
+          "text": "熔融金屬填滿模穴之能力稱為流動性。 下列兩項參數影響流動性:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 熔融金屬之特性"
+        },
+        {
+          "type": "paragraph",
+          "text": "黏性增加時,流動性會降低。各種金屬之黏性並不相同,就相同金屬而言,"
+        },
+        {
+          "type": "heading",
+          "text": "黏性"
+        },
+        {
+          "type": "paragraph",
+          "text": "溫度降低時黏性會增加。 熔融金屬之表面張力與流動性成反比。 金屬表面產生氧化薄膜時,表面張"
+        },
+        {
+          "type": "heading",
+          "text": "表面張力"
+        },
+        {
+          "type": "paragraph",
+          "text": "力會大幅增加,可能提高數倍。 夾雜物 金屬液內若含有不熔解的顆粒狀夾雜物,會對流動性產生負面的影響。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 鑄造的參數"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄模之流路設計,諸如澆道、澆口、鑄口及冒口之形狀、位置、尺度,都"
+        },
+        {
+          "type": "heading",
+          "text": "鑄模設計"
+        },
+        {
+          "type": "paragraph",
+          "text": "會對流動性造成影響。"
+        },
+        {
+          "type": "heading",
+          "text": "鑄模材質與"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬液之流動性與鑄模之導熱度及表面粗糙度成反比。"
+        },
+        {
+          "type": "heading",
+          "text": "其表面性質"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂過熱度是指熔融金屬之溫度與其熔點之差異度。過熱度愈大,流動性"
+        },
+        {
+          "type": "heading",
+          "text": "過熱度"
+        },
+        {
+          "type": "paragraph",
+          "text": "愈高。"
+        },
+        {
+          "type": "heading",
+          "text": "四、熱交換"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂熱交換是指金屬液從澆鑄、凝固並冷卻至室溫的整個熱循環過程。 熱交換速度快 時,金屬液必須有較高的流動性,並且以較高的速度來澆鑄,以免金屬液提早凝固而灌不 滿模穴。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "流路設計 P78"
+        },
+        {
+          "type": "paragraph",
+          "text": "流路設計包括澆口系統與冒口系統兩部分。一般而言,模穴之前的流路稱為澆口系統,包括澆池、 豎澆道、橫流道及進模口等;而模穴之後的流路稱為冒口系統,包括冒口、溢放口及通氣孔等。"
+        },
+        {
+          "type": "heading",
+          "text": "冒口 P80"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬在凝固過程的收縮現象會造成縮口而損及鑄件的完整。為避免這種缺陷,可在鑄件最大截面處 的正上方設置一個冒口,以冒口中的金屬補充模穴內因收縮所造成的不足。"
+        },
+        {
+          "type": "heading",
+          "text": "收縮裕度 P71"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬大都會熱脹冷縮,為了補償收縮,必須將模型加大,此加大之量,稱為收縮裕度。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 63"
+        },
+        {
+          "type": "heading",
+          "text": "五、收縮"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬通常具有熱脹冷縮的特性,在冷卻過程的收縮現象,可能引起鑄件的尺度變化、 變形、破裂,甚至縮孔。收縮可分為如圖 3-3 所示之三階段:"
+        },
+        {
+          "type": "heading",
+          "text": "高溫金屬液冷卻至凝固點前的收"
+        },
+        {
+          "type": "paragraph",
+          "text": "液態收縮 縮。此階段的收縮 可用多注金屬液 的方式來補償。"
+        },
+        {
+          "type": "paragraph",
+          "text": "由凝固開始至結束期間的收縮。 通"
+        },
+        {
+          "type": "heading",
+          "text": "凝固收縮"
+        },
+        {
+          "type": "paragraph",
+          "text": "常以設置冒口的方式來作為補償。"
+        },
+        {
+          "type": "paragraph",
+          "text": "凝固結束降至室溫期間的收縮。 製"
+        },
+        {
+          "type": "heading",
+          "text": "固態收縮 作模型時,所加之收縮裕度,就是"
+        },
+        {
+          "type": "paragraph",
+          "text": "用來補償此一階段的收縮。 ▲ 圖 3-3 金屬三階段收縮"
+        },
+        {
+          "type": "heading",
+          "text": "3-1-2 鑄造的步驟"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄造作業的流程如圖 3-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-4 鑄造作業流程"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "3-2 模型種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "模型是決定鑄造成敗的第一步。 鑄造係將熔融之金屬注入鑄模中,依模穴的形狀而成 形,而其模穴就是由 模型 (Pattern) 印出,故模型的好壞,直接影響鑄件的精度。不同的鑄 件形狀,應有不同的模型設計,以方便造模完成後能夠輕易地自砂模中取出模型。"
+        },
+        {
+          "type": "heading",
+          "text": "3-2-1 模型的種類"
+        },
+        {
+          "type": "heading",
+          "text": "一、 取出模型 (Removable Pattern)"
+        },
+        {
+          "type": "paragraph",
+          "text": "模型埋在模砂中製成鑄模後,須將模型取出,以形成模穴,故稱為取出模型。取出模"
+        },
+        {
+          "type": "heading",
+          "text": "型有以下數種:"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 單體模型 (One-piece Pattern)"
+        },
+        {
+          "type": "heading",
+          "text": "構造簡單且最大面正好在模型之一側時,模型係以"
+        },
+        {
+          "type": "paragraph",
+          "text": "單塊製出,如圖 3-5 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-5 單體模型"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 分割模型 (Split Pattern):分面模型"
+        },
+        {
+          "type": "heading",
+          "text": "當模型的最大斷面不在外側時,通常從最大斷面處"
+        },
+        {
+          "type": "heading",
+          "text": "將模型分割成兩部分,再以結合釘將上、下模結合,以"
+        },
+        {
+          "type": "paragraph",
+          "text": "利拔模,如圖 3-6 所示。 運動器材啞鈴之模型就是做成分 割模型。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-6 分割模型"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 鬆件模型 (Loose Pattern):組合模型 如圖 3-7 所示之模型,側面的兩塊凸出物在取出模型時會將砂模拉破。故將凸出物做 鬆件並以結合釘結合本體模型, 起模時先將結合釘拉開, 使本體模型與凸出塊 ( 鬆件 ) 分離, 待取出本體模型後,再從側面拔出鬆件。 鑄造鳩尾座時,就是利用鬆件模型以方便取出模型。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-7 鬆件模型 ( 取材自參考書目 (8))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 65"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 附澆口系模型 (Gated Pattern):流路模型 如圖 3-8 所示,將模型及澆口、鑄口、橫澆道等製成一整體。除了可以方便製模外, 且 可一次澆鑄數件,增加產量,提高生產效率,常用於鑄造小鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-8 附澆口系模型"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 嵌模板模型 (Follow Board Pattern):從動模型 若模型太薄無法承受造模時之搗砂力量時,可用如圖 3-9 所示的嵌模板模型,於模板 上製出配合模型之凸起部分來支撐模型。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-9 嵌模板模型"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 六 ) 骨架模型 (Skeleton Pattern) 巨大的鑄件而截面有變化的少量產品,為省工、省料及減輕模型重量,整個模型以架 子做成,如圖 3-10 所示。製作砂模時,應先將骨架模內填砂,然後用刮尺順著骨架外形刮 出砂製的模型,灑上分離砂後,據以製作外模,並用刮板依骨架內形刮製砂心。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-10 骨架模型"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "66"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 七 ) 分部模型 (Section Pattern)"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 3-11 所示的 大型齒輪模型,為節省模"
+        },
+        {
+          "type": "heading",
+          "text": "型費,其模型只有整體模型的六分之一或八分"
+        },
+        {
+          "type": "paragraph",
+          "text": "之一。 但得配合刮板模使用,造模時間較長。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-11 分部模型"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 八 ) 模型板 (Pattern Plate):中板模型"
+        },
+        {
+          "type": "heading",
+          "text": "為了減少手工造模時,流路大小及位置開"
+        },
+        {
+          "type": "heading",
+          "text": "設不當等人為失誤造成損失,近年來,鑄造廠"
+        },
+        {
+          "type": "heading",
+          "text": "大都將模型固定在造模板上,同時附上澆冒口"
+        },
+        {
+          "type": "heading",
+          "text": "等流路系統,做成模型板,以提高生產力及產"
+        },
+        {
+          "type": "paragraph",
+          "text": "品品質。圖 3-12 所示者為啞鈴之模型板。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-12 模型板"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 九 ) 刮板模型 (Sweeping Strickle Pattern)"
+        },
+        {
+          "type": "heading",
+          "text": "橫斷面形狀簡單的迴轉對稱體,採用刮板"
+        },
+        {
+          "type": "heading",
+          "text": "模型來製造,因其模型只有整體的一小部分,"
+        },
+        {
+          "type": "paragraph",
+          "text": "可節省模型製作費。但砂模製作時間較長,不 利於大量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-13 所示的是寺廟吊鐘的砂心模型,製"
+        },
+        {
+          "type": "heading",
+          "text": "模時模型繞垂直的中心軸轉 360 °,刮出所需的"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂心。俗稱車板模型。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-13 寺鐘之旋轉刮板模型 ( 砂心部分 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 67"
+        },
+        {
+          "type": "heading",
+          "text": "二、 消失性模型 (Disposable Pattern):全模法"
+        },
+        {
+          "type": "paragraph",
+          "text": "模型以聚苯乙烯 (Polystyrene, PS,俗稱保麗龍 ) 製成,砂模造好後不需將模型取出。 當熔融之金屬注入的同時,模型瞬間氣化,留下空穴供金屬液成形,如圖 3-14 所示。此種 模型構造簡單,不需要分成上、下砂箱,所以又稱為 全模法 (Full-mold Process)。 澆鑄速度 應較一般砂模快,以免 PS 塑膠氣化時遇氧氣而燃燒,留下積碳,有損鑄件的完整。其優、"
+        },
+        {
+          "type": "heading",
+          "text": "缺點如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-14 可消散模型之砂模"
+        },
+        {
+          "type": "heading",
+          "text": "1. 可大量節省造模時間。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 由於不需自砂模中取出模型,不必考慮拔模裕度與震動裕度。因為模穴"
+        },
+        {
+          "type": "heading",
+          "text": "消"
+        },
+        {
+          "type": "paragraph",
+          "text": "不致因敲擊模型而 擴大,故可節省金屬材料。"
+        },
+        {
+          "type": "heading",
+          "text": "失"
+        },
+        {
+          "type": "heading",
+          "text": "優點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鑄件表面光度佳。"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "4. 砂心部分在造模中可自然成形,不需準備砂心盒。"
+        },
+        {
+          "type": "heading",
+          "text": "模"
+        },
+        {
+          "type": "heading",
+          "text": "5. 模型沒有複雜的構造,但是可以製造形狀複雜的鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "型"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "heading",
+          "text": "1. 模型只用一次就消失無形。"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "heading",
+          "text": "2. 模型的強度不高。"
+        },
+        {
+          "type": "heading",
+          "text": "點 缺點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 不能用機械造模。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 砂模製妥後沒有機會檢查模穴是否良好。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "機械造模 P93"
+        },
+        {
+          "type": "paragraph",
+          "text": "以機械取代人工的造模方式。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "68"
+        },
+        {
+          "type": "heading",
+          "text": "3-2-2 模型的材料"
+        },
+        {
+          "type": "paragraph",
+          "text": "模型材料的選用,依鑄件大小、形狀、尺度精度及使用的造模方法而定 ( 參考表 3-1)。 模型常需反覆地使用,所以,必須依據鑄件的生產數量,選用適當強度及耐久性之材料來 製作。模型容易磨耗之部位,可在該處結合耐磨材料。模型造好之後,通常在表面噴一層 分離劑,以利自鑄模中脫模。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-1 模型材料之性質"
+        },
+        {
+          "type": "heading",
+          "text": "材料"
+        },
+        {
+          "type": "heading",
+          "text": "木料 塑膠 鋁 鋼 鑄鐵 銅"
+        },
+        {
+          "type": "heading",
+          "text": "性質"
+        },
+        {
+          "type": "heading",
+          "text": "機械加工 1 2 2 3 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "強度 3 2 2 1 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "耐磨性 4 3 2 1 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "可修護性 1 3 4 2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "重量 1 2 2 4 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "耐蝕性 1 1 1 4 4 1"
+        },
+        {
+          "type": "heading",
+          "text": "膨脹性 4 1 1 1 1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: 1 ─優; 2 ─好; 3 ─尚可; 4 ─差"
+        },
+        {
+          "type": "heading",
+          "text": "常用的模型材料有下列數種:"
+        },
+        {
+          "type": "heading",
+          "text": "一、木材"
+        },
+        {
+          "type": "paragraph",
+          "text": "木材的價格便宜又好加工,傳統的砂模鑄造且不需大量生產的鑄件,大都用木材來做 模型。 原則上木模型的選擇應考慮收縮性小、紋理平直、加工容易、組織緻密、纖維強韌、 不易變形及價格低廉等要素。常用的木材有:檜木、桃花心木、柏木及松木等,檜木之紋 理平直、軟硬適中、加工容易且變形少,最為常用。 與金屬模型相比,木模最大的缺點是容易變形、強度較差,容易破裂且壽命較短。"
+        },
+        {
+          "type": "heading",
+          "text": "二、金屬"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬製的模型不易變形、尺度精確、不易磨損、使用壽命長、耐高溫、強度大且不易 破損,為 適用於大量生產作業的模型材料。 常用的金屬模型材料有鋁合金、銅合金、鑄鐵與鋼等。 其中以鋁合金質輕且容易加工, 便於造模,是金屬模型中最廣用的。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 69"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋁合金 適用於砂模鑄造。"
+        },
+        {
+          "type": "paragraph",
+          "text": "銅合金 除用於砂模鑄造外,也可用於殼模鑄造,及當金屬模附屬零件用。"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄鐵 大都用於殼模鑄造法,也可用於砂模鑄造。"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋼 主要用途是當作金屬模之附屬零件,如銷或保護板。"
+        },
+        {
+          "type": "heading",
+          "text": "三、塑膠"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑膠製的模型不易收縮變形,性質穩定、製作容易、比重輕且耐蝕性好,壽命比木模 長,具有很高的利用價值。常見的材料有 ABS、壓克力及環氧樹脂等,可製成取出模型; 另有聚苯乙烯 (PS) 可製成可消散模型。"
+        },
+        {
+          "type": "heading",
+          "text": "四、蠟"
+        },
+        {
+          "type": "paragraph",
+          "text": "以蠟製成的模型,可在造模完成後加熱熔出,使複雜模型的造模工作變得非常簡單。 常用於脫蠟精密包模鑄造作業。不必考慮拔模裕度與震動裕度。"
+        },
+        {
+          "type": "heading",
+          "text": "五、冷凍水銀"
+        },
+        {
+          "type": "paragraph",
+          "text": "以冷凍水銀製成的模型,在造模完成後會自行熔解,不需再加熱。其精度比蠟模型更 高。因為水銀有毒性,目前已經不使用。"
+        },
+        {
+          "type": "heading",
+          "text": "六、石膏"
+        },
+        {
+          "type": "paragraph",
+          "text": "石膏的原料是含結晶水的硫酸鈣 (CaSO 4. 2H 2 O),在 120 °C燒成,熱分解而變成粉末 的燒石膏。使用時以水調合燒石膏,然後做成模型,放置一段時間使其凝固硬化。石膏凝 固時會略微膨脹,影響模型的尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "殼模鑄造 P109"
+        },
+        {
+          "type": "paragraph",
+          "text": "殼模法是以乾矽砂及酚甲醛 ( 或尿素甲醛 ) 樹脂的混合物為製模材料,製成兩個各半的殼狀模,然 後用夾子夾持兩半模,組合成鑄模,再行澆鑄。"
+        },
+        {
+          "type": "heading",
+          "text": "脫蠟精密包模鑄造 P104"
+        },
+        {
+          "type": "paragraph",
+          "text": "脫蠟法是以蠟做成模型,再包覆砂或石膏做成鑄模,然後加熱將蠟熔化掉,而留下與蠟模型完全相 同的模穴以供澆鑄的鑄造法。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "70"
+        },
+        {
+          "type": "heading",
+          "text": "3-2-3 木模型製作的基本程序"
+        },
+        {
+          "type": "paragraph",
+          "text": "以圖 3-15 的凸形鑄鐵塊為例,說明製作模型的基本程序如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 01 按成品的詳細尺度,用模型尺 ( 鑄鐵選用 ) 在木材上繪出其三視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 02 將欲加工部位在三視圖上繪出適當的加工裕度。 STEP 03 加放拔模裕度,兩邊各 1 °,完成木模工作圖,如圖 3-15 所示。 STEP 04 按圖製作木模型,並將內、外角均修成圓弧形,通常外圓角為 R3mm,內圓 角為 R5mm,大鑄件的半徑應更大。 STEP 05 木模表面塗上三層洋乾漆,有劃線痕及不平處用補土修正,並加以打磨。 塗 漆可避免模型吸水,並使脫模容易。 STEP 06 在模型表面不同部位塗上不同顏色的油漆,以顯示各部位的性質,如表 3-2 所示。國內通常用美國 AFS 修正的規格。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-15 拔模裕度"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-2 各國木模塗色標準"
+        },
+        {
+          "type": "heading",
+          "text": "國別 英國 NBS 美國 AFS 規格"
+        },
+        {
+          "type": "heading",
+          "text": "西德 DIN 規格"
+        },
+        {
+          "type": "heading",
+          "text": "模型 規格 舊 1959 年修正"
+        },
+        {
+          "type": "heading",
+          "text": "灰鑄鐵~紅色,球墨鑄鐵~紫色"
+        },
+        {
+          "type": "heading",
+          "text": "鑄件不加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "黑色 黑色 透明快乾漆 展性鑄鐵~灰色,鑄鋼~藍色"
+        },
+        {
+          "type": "heading",
+          "text": "部位"
+        },
+        {
+          "type": "heading",
+          "text": "輕金屬~綠色,重金屬~黃色"
+        },
+        {
+          "type": "heading",
+          "text": "加工部位 紅色 紅色 紅色 加黃點或紅點"
+        },
+        {
+          "type": "heading",
+          "text": "砂心頭、砂心座 黃色 黃色 黑色 黑色"
+        },
+        {
+          "type": "heading",
+          "text": "橙 色 底 加 橙 色 底 加"
+        },
+        {
+          "type": "heading",
+          "text": "鬆件及其座 銀色 邊框加黑線"
+        },
+        {
+          "type": "heading",
+          "text": "紅條紋 紅條紋"
+        },
+        {
+          "type": "heading",
+          "text": "加強筋或擋塊 橙 色 底 加 橙 色 底 加"
+        },
+        {
+          "type": "heading",
+          "text": "綠色 加黑條紋並加註"
+        },
+        {
+          "type": "heading",
+          "text": "(stop.offs) 黑條紋 黑條紋"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 71"
+        },
+        {
+          "type": "heading",
+          "text": "3-2-4 模型裕度"
+        },
+        {
+          "type": "paragraph",
+          "text": "模型製作時,由於金屬收縮、變形及拔模等相關因素的影響,其製作的尺度與工作圖 上的尺度並不相同,必須將各種裕度一併計算在內。主要的模型裕度有下列五種:"
+        },
+        {
+          "type": "heading",
+          "text": "一、 收縮裕度 (Shringkage Allowance)"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬大都會熱脹冷縮,為了補償收縮,必須將模型加大。不同材質的金屬收縮率並不 相同,例如 鑄鐵約為 1 %、鑄鋼約為 2 %、黃銅約為 1. 5 %、鋁與鎂約為 1. 3 %。 為了方便模 型工作圖之繪製, 通常將收縮率加入標準尺中,做成收縮尺 ( 模型尺 ),可直接在模型面上 量取尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 拔模裕度 (Draft Allowance)"
+        },
+        {
+          "type": "paragraph",
+          "text": "將模型表面與拔模方向間做成適當的傾斜,以免取出模型時拉破砂模,此種傾斜稱為 拔模裕度。 其大小有下列數項考量:"
+        },
+        {
+          "type": "paragraph",
+          "text": "模型材料 金屬模型比木模型小。消散模型與蠟模型不需拔模,所以不必考慮拔模裕度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "造模方法 機械造模比手工造模小。"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件尺度 小鑄件比大鑄件大。"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件形狀 內孔比外形大。通常外形用 1 °, 內孔用 3 °。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 加工裕度 (Finish Allowance)"
+        },
+        {
+          "type": "paragraph",
+          "text": "大部分的鑄件為了獲取較精確的尺度及光滑表面,通常鑄造後需再進一步機械加工, 此加工裕留量稱為加工裕度。 一般鑄件約裕留 3 ~ 5 mm。裕留量的多少可依下列各項因"
+        },
+        {
+          "type": "heading",
+          "text": "素來決定:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑄件材質。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鑄件形狀和尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鑄造的方法。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 加工的方法。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "72"
+        },
+        {
+          "type": "heading",
+          "text": "四、 變形裕度 (Distortion Allowance)"
+        },
+        {
+          "type": "paragraph",
+          "text": "不規則形狀的鑄件在冷卻過程容易因應力不均而變形,若模型先行製成反變形的形狀 ( 例如將 U 型鑄件的底部加寬 ),在扭曲變形的相反方向作適當的變形補正,即可巧妙的將 這種變形修正。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 振動裕度 (Shake Allowance)"
+        },
+        {
+          "type": "paragraph",
+          "text": "從砂模中取出模型之前,需作前後左右的輕敲振動,使模穴微微擴大而脫離模型,以利 起模。為了不影響鑄件的正確尺度,此時應將模型尺度稍微縮小加以矯正。 在各種裕度中, 只有振動裕度是負值。消散模型與蠟模型不需拔模,所以不必考慮振動裕度與拔模裕度。"
+        },
+        {
+          "type": "heading",
+          "text": "3-2-5 鑄件的設計原則"
+        },
+        {
+          "type": "paragraph",
+          "text": "模型是造模時形成模穴的工具,對鑄件精度的影響最大。設計模型時應兼顧鑄件在澆 鑄過程中可能遭遇到的種種問題──如應力、變形及冷縮等,一一加以克服,才能鑄造出 完美的鑄件。 以下幾點是模型設計的基本原則,若能充分利用,將可獲得強度較佳且無鑄疵的鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "一、避免鑄件變形"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件往往會因不同斷面冷卻速率的不同,引起變形現象,造成製品的裂痕與畸變。如 圖 3-16 所示的 手輪模型,將輻條設計成弧形且數目為奇數,在冷縮過程中輻條有伸縮變形 的空間,不致因冷縮所產生的應力而裂開。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-16 手輪模型之設計"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 73"
+        },
+        {
+          "type": "heading",
+          "text": "二、將所有內、外尖角改為圓角"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件凝固係從表面開始,逐漸向心部進行,其前進的方向垂直於鑄件表面。如圖 3-17 右上方所示的鑄件,其外部轉角為尖角,兩垂直面的結晶在此相遇會形成裂痕,若 將所有 尖角改為圓角,此種裂痕自然消失。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-17 內、外尖角改為圓角"
+        },
+        {
+          "type": "heading",
+          "text": "三、減少斷面數的聚集"
+        },
+        {
+          "type": "paragraph",
+          "text": "斷面數集中的部位排熱不易,容易形成收縮孔及應力,所以應該設法減少聚集數。 如 圖 3-18 所示的框架,上圖的十字交叉點有四個斷面聚集,經改良成下圖的設計,只剩三個 斷面聚集。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-18 減少聚集的斷面數"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "74"
+        },
+        {
+          "type": "heading",
+          "text": "四、避免突然的斷面變化"
+        },
+        {
+          "type": "paragraph",
+          "text": "斷面變化太大,易因冷速的不同而造成應力及變形,如圖 3-19 右圖所示的楔形設計, 讓斷面緩慢變化就不會產生這種缺點。"
+        },
+        {
+          "type": "heading",
+          "text": "劣 可"
+        },
+        {
+          "type": "heading",
+          "text": "良好 最佳"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-19 避免突然的斷面變化"
+        },
+        {
+          "type": "heading",
+          "text": "五、儘可能將所有的斷面設計為均勻厚度"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件厚度大的部位易因熱點而形成縮孔,最好使厚度保持一致,如圖 3-20 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "不正確的設計"
+        },
+        {
+          "type": "heading",
+          "text": "正確設計"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-20 各部位斷面力求均勻"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 75"
+        },
+        {
+          "type": "heading",
+          "text": "3-3 鑄模種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "在各種鑄模中,應用最普遍的就是砂模,此外還有金屬模、石膏模及陶瓷模等。鑄模"
+        },
+        {
+          "type": "heading",
+          "text": "可依操作方法、造模材料及黏結劑的不同來加以分類:"
+        },
+        {
+          "type": "heading",
+          "text": "3-3-1 依操作方法分類"
+        },
+        {
+          "type": "heading",
+          "text": "一、檯上造模"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄模的製作在檯面上進行,操作人員站著工作,可比地面造模的蹲姿舒服,可節省體 力的消耗。此法用在小型鑄件之造模。"
+        },
+        {
+          "type": "heading",
+          "text": "二、地面造模"
+        },
+        {
+          "type": "paragraph",
+          "text": "中大型鑄件的鑄模製作,將造模工作移至地面進行,操作人員以蹲姿工作,方便出力。"
+        },
+        {
+          "type": "heading",
+          "text": "三、地坑造模"
+        },
+        {
+          "type": "paragraph",
+          "text": "極大型鑄件的鑄造,下砂箱恐怕無法支撐金屬液的重量,所以用砂坑來作下砂箱,再 在上面安置上砂箱即可。如圖 3-21 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-21 地坑造模"
+        },
+        {
+          "type": "heading",
+          "text": "四、機械造模"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄造工廠的高溫及污染的工作環境,令人望之卻步,即使用高薪水也無法獲得充足的 人力。所以機械化及自動化的需求在鑄造工廠就顯得特別殷切。機械造模詳細內容請參考 3-5 節機械造模。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "76"
+        },
+        {
+          "type": "heading",
+          "text": "3-3-2 依造模材料分類"
+        },
+        {
+          "type": "heading",
+          "text": "一、濕砂模"
+        },
+        {
+          "type": "paragraph",
+          "text": "濕砂模可用天然砂或合成砂製作,造模完成後不必烘乾,直接在潮濕狀態下進行合模 與澆鑄。 濕砂模是所有砂模中成本最低的,但因澆鑄過程中水分會被蒸發,阻礙模穴中氣 體的逸出,鑄件容易形成氣孔,通常只用在形狀簡單、小型及強度要求不高的鑄鐵件。"
+        },
+        {
+          "type": "heading",
+          "text": "二、乾砂模"
+        },
+        {
+          "type": "paragraph",
+          "text": "將濕砂模放入烘乾爐或就地烘乾,待水分完全蒸發,砂模確實乾燥硬化後再行澆鑄。 此種砂模澆鑄時所產生的水氣極少,結合強度較大,不易產生沖砂破壞,也比較不會產生 氣孔與砂眼等鑄疵。 乾砂模多一道烘乾的操作,成本較高。通常用於形狀複雜,精度較高的小型鑄鋼件。"
+        },
+        {
+          "type": "heading",
+          "text": "三、乾面模"
+        },
+        {
+          "type": "paragraph",
+          "text": "乾面模的面砂含有某種結合劑,造模完成後用噴燈或瓦斯燈將模穴部分烘乾約 30mm 厚,再行澆鑄。乾面模的操作成本及鑄件品質均介於濕砂模與乾砂模之間, 通常用於精度 要求較高的大型鑄鋼件。 乾面模烘乾之後必須迅速進行合模與澆鑄,以免烘乾的表砂再從砂模內或空氣中吸收 水分,而還原為濕砂模。"
+        },
+        {
+          "type": "heading",
+          "text": "四、金屬模"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3 - 22 所示之金屬模以能耐高溫的合金鋼製成,可重覆使用,不像砂模只能用一 次。由於鑄模耐熱度的限制,只限於低熔點金屬 (Pb、 Zn、 Sn、 Al、 Cu 及 Mg) 的鑄造。 其製品尺度精確、表面光滑,且不須加工即可裝配,生產速度很快, 通常用於大量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-22 金屬鑄模"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 77"
+        },
+        {
+          "type": "heading",
+          "text": "五、泥砂模"
+        },
+        {
+          "type": "paragraph",
+          "text": "泥砂模係在砂模主體內外周圍用磚塊及鐵板砌成骨架,以增加砂模的支撐強度。然後 再塗以厚泥漿,最後在模穴四周搗錘濕砂,烘乾之後合模澆鑄。適用於特別大的鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "六、呋喃模"
+        },
+        {
+          "type": "paragraph",
+          "text": "將洗淨不含黏土的矽砂,加上 呋 喃樹脂及加速硬化劑 ( 磷酸 ),混合均勻後造成鑄模。 放置在空氣中半小時左右, 呋 喃樹脂即硬化完成黏結作用,而不需加以烘烤。適用於中、 大型而形狀複雜的鑄件,亦可用來做砂心。"
+        },
+        {
+          "type": "heading",
+          "text": "七、 CO 2 模"
+        },
+        {
+          "type": "paragraph",
+          "text": "將洗淨不含黏土的矽砂,混合 3. 5 ~ 6 % 的矽酸鈉 ( 俗稱水玻璃 ),攪拌均勻後製成砂 模。然後以 20 psi 的壓力將 CO 2 氣吹入砂模中, 約 15 ∼ 30 秒左右, CO 2 即與矽酸鈉反應 而形成矽膠 (SiO 2 ) 硬化物,產生黏結作用。其化學反應如下: Na 2 SiO 3 + CO 2 → SiO 2 + Na 2 CO 3 此法可鑄造出表面光滑且形狀複雜的鑄件,亦可用於砂心的製作。圖 3-23 所示為 CO 2 模法的造模情形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-23 CO 2 模法 ( 取材自參考書目 (3))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "78"
+        },
+        {
+          "type": "heading",
+          "text": "3-4 砂模的製造"
+        },
+        {
+          "type": "paragraph",
+          "text": "製造砂模除了要造出理想的模穴,還需具有完整的流路系統,才可將金屬液順利地注 入模穴,造出完美的鑄件。鑄件若有中空部位,則需要安置砂心。"
+        },
+        {
+          "type": "heading",
+          "text": "3-4-1 流路系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "流路系統 (Gating System) 又稱為澆冒口系統,因其包括澆口系統與冒口系統兩部分。 一般而言,模穴之前的流路稱為澆口系統,包括澆池、豎澆道、橫流道及進模口等;而模 穴之後的流路稱為冒口系統,包括冒口、溢放口及通氣孔等,如圖 3-24 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "一、澆口系統"
+        },
+        {
+          "type": "heading",
+          "text": "澆池 (Pouring Basin)"
+        },
+        {
+          "type": "paragraph",
+          "text": "澆池又稱為澆口箱, 位於豎澆道的上方,是最先承受金屬 液的地方。其主要作用為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 容易澆鑄金屬液。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 隔離雜質。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 防止金屬液亂流,達到整流的效果。"
+        },
+        {
+          "type": "heading",
+          "text": "豎澆道 (Sprue)"
+        },
+        {
+          "type": "paragraph",
+          "text": "豎澆道又稱為下澆道,俗稱澆口,是位於澆池下方的垂直 通道, 位於模穴邊約 25 mm 處。 其主要功用為輸送金屬液。 豎澆道通常呈上大下小,錐角約 3 ° 的圓錐狀,此種形狀設"
+        },
+        {
+          "type": "heading",
+          "text": "計的好處是:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 可隨時充滿金屬液,避免捲入空氣。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 可調節澆鑄壓力及控制澆鑄速度。"
+        },
+        {
+          "type": "heading",
+          "text": "豎澆道底 (Sprue Base)"
+        },
+        {
+          "type": "paragraph",
+          "text": "位於豎澆道的底部,為一直徑等於豎澆道的半球形凹穴。 金屬液進入豎澆道後,至此處達到最高速,且由垂直下降 變成水平流動,沖刷力極大。 豎澆道底的設計,可減少渦 流擾動的發生,且對後繼金屬液形成緩衝。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 79"
+        },
+        {
+          "type": "heading",
+          "text": "▲"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-24 流路系統"
+        },
+        {
+          "type": "heading",
+          "text": "橫流道 (Runner)"
+        },
+        {
+          "type": "paragraph",
+          "text": "橫流道位於模穴四周, 為連接豎澆道與進模口的橫向流道,"
+        },
+        {
+          "type": "heading",
+          "text": "其主要的功用為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 輸送及分配金屬液。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 隔離金屬液中的雜質。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 排除金屬液在豎澆道內捲入的氣體。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 減少亂流。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 緩衝流速。"
+        },
+        {
+          "type": "heading",
+          "text": "進模口 (Gate)"
+        },
+        {
+          "type": "paragraph",
+          "text": "進模口又稱為鑄口,是金屬液進入模穴的小通道,其設計 的重點在使金屬液穩定、迅速且均勻地充入模穴。 進模口 通常在接近模穴的部位縮小,以便取出後能因缺口效應在 該縮小處敲斷澆口系統。"
+        },
+        {
+          "type": "heading",
+          "text": "橫流道尾 (Runner Extension)"
+        },
+        {
+          "type": "paragraph",
+          "text": "橫流道尾是橫流道的延伸部分,可排除低溫的金屬液及浮 渣,以便讓高溫及質純的金屬液進入模穴。 橫流道尾與最 後一個進模口之間必須保持一段適當的距離,以防止回衝 的金屬液進入模穴中。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "80"
+        },
+        {
+          "type": "heading",
+          "text": "二、冒口系統"
+        },
+        {
+          "type": "heading",
+          "text": "冒口 (Riser)"
+        },
+        {
+          "type": "heading",
+          "text": "金屬在凝固過程的收縮現象會造成縮口而損及鑄件的完"
+        },
+        {
+          "type": "paragraph",
+          "text": "整。為避免這種缺陷,可在鑄件最大截面處的正上方設置 一個冒口,以冒口中的金屬液補充模穴內因收縮所造成的 不足。冒口除了補充收縮之外,還有排氣、除渣、排泄低 溫金屬、檢視澆鑄情形及增加密度等功能。 冒口通常設計成上大下小的圓錐狀,以便從該縮小部位截 除冒口系統。"
+        },
+        {
+          "type": "heading",
+          "text": "溢放口 (Flow Off)"
+        },
+        {
+          "type": "paragraph",
+          "text": "溢放口又稱為升鐵口或排泄口,通常設在離澆口最遠的地 方,或在鑄件最突出的部位。其功用是排泄氣體、以免排 氣不良而阻礙金屬液的往前流動,另外也可以排泄劣質的 低溫金屬及熔渣。 一般而言,鑄件較薄且表面積較大,又沒有設計冒口的鑄 模,特別需要溢放口。"
+        },
+        {
+          "type": "heading",
+          "text": "通氣孔 (Vent)"
+        },
+        {
+          "type": "paragraph",
+          "text": "以通氣針刺成之通氣孔的主要功用是排除模穴或金屬液內 的氣體,以免鑄件產生氣孔。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 81"
+        },
+        {
+          "type": "heading",
+          "text": "3-4-2 砂 心"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂心 (Cores) 如圖 3 - 25 所示,就是模穴內的突出物,可形成鑄件的中空部位。 砂心可分為濕砂心與乾砂心。 濕砂心可以由實體模型與砂模同時製作完成,與本體砂 模結合為一體, 如 3-26(a) 所示。 乾砂心可用砂心盒製成後再放置在模穴中, 如圖 3-26(b) 所示。 大量生產大都用後者。 砂心應具有適當的耐熱度、強度與透氣性。欲提高砂心的耐熱性與鑄件表面的光滑度, 可在砂心表面塗刷石墨液。砂心砂不宜太粗,以免影響孔壁品質。 為了增加砂心在模穴中的穩定性,同時能夠抵抗澆鑄時金屬液的沖刷,可用砂心骨由 內部強化砂心,用砂心撐由外部支撐砂心。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-25 砂心之製作"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-26 砂心的形式"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "82"
+        },
+        {
+          "type": "heading",
+          "text": "3-4-3 手工造模法"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般砂模都是先製作下砂模,然後才製作上砂模,合模後澆鑄成形。僅以最簡單的方 塊形鑄件之砂模製作為例,說明手工造模的基本程序如下:"
+        },
+        {
+          "type": "heading",
+          "text": "一、製作下砂模"
+        },
+        {
+          "type": "heading",
+          "text": "1. 將模型尺度最大的一面朝下平放在造模板上,次將下砂箱套在造模板四周,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-27(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 用砂篩篩上一層細的表砂,覆蓋在模型四周。然後添加透氣度較好的粗粒裡砂約與"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂箱平齊。 由砂模外圍依序往內搗實模砂,如圖 3-27(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-27 製作下砂模 ( 一 )"
+        },
+        {
+          "type": "heading",
+          "text": "3. 加滿裡砂使其高出砂箱約 10cm,然後以平底搗砂鎚搗實,如圖 3-28(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 用刮尺刮平模砂,然後用通氣針在模型上方穿製適量的通氣孔。在砂模上加一塊與"
+        },
+        {
+          "type": "paragraph",
+          "text": "造模板相同之底板,以備翻轉下砂模,如圖 3-28(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-28 製作下砂模 ( 二 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 83"
+        },
+        {
+          "type": "heading",
+          "text": "二、製作上砂模"
+        },
+        {
+          "type": "heading",
+          "text": "1. 夾緊模板與底板後,將下砂模翻轉 180 °。取下模板之後,用大鏝刀抹平下模之砂面,"
+        },
+        {
+          "type": "paragraph",
+          "text": "然後灑上一層沒有黏結作用之分模粉或分箱砂 ( 常用不含黏土的純矽砂 ),以免上、 下模黏在一起。安置豎澆道棒,距離木模型與砂箱邊緣各 2 ∼ 3cm,如圖 3-29(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 用手扶正豎澆道棒。篩上表砂後填加裡砂,如製作下砂模之步驟 2 及 3,如圖 3-29(b)"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-29 製作上砂模 ( 一 )"
+        },
+        {
+          "type": "heading",
+          "text": "3. 刮平上模之砂面,並穿製通氣孔,如圖 3-30(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 搖動並取出豎澆道棒,留下之空穴可作為金屬液之流路,如圖 3-30(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-30 製作上砂模 ( 二 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "84"
+        },
+        {
+          "type": "heading",
+          "text": "三、起出模型及開設流路系統"
+        },
+        {
+          "type": "heading",
+          "text": "1. 將上砂模垂直提起,與下砂模分開。以起模針或螺旋結合模型,並用木棒或鏝刀在"
+        },
+        {
+          "type": "paragraph",
+          "text": "起模針四周輕敲,使模型與模砂分離後輕輕取出木模型,如圖 3-31(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 於下模豎澆道底與模穴間開設橫流道與進模口,如圖 3-31(b) 所示,豎澆道上方做"
+        },
+        {
+          "type": "paragraph",
+          "text": "成澆池,如圖 3-31(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 為增加砂模的耐熱度與鑄件表面的光滑度,可在模穴表面塗刷石墨液。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-31 起出模型與開設流路系統"
+        },
+        {
+          "type": "heading",
+          "text": "四、合模與澆鑄"
+        },
+        {
+          "type": "heading",
+          "text": "1. 上砂箱以合模銷套在下砂箱上方。在上砂箱對角處放置適當的壓箱鐵 ( 或稱為壓"
+        },
+        {
+          "type": "paragraph",
+          "text": "重 ),以免澆鑄時上模因金屬液之浮力而脹開,如圖 3-32(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 將金屬液澆入模穴,待其凝固後清箱取出鑄件。敲除豎澆道,稍加打磨即成所需成"
+        },
+        {
+          "type": "paragraph",
+          "text": "品,如圖 3-32(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-32 合模與澆鑄"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 85"
+        },
+        {
+          "type": "heading",
+          "text": "3-4-4 模砂與砂模試驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "模砂 (Mold Sand) 是指造模用的砂。在一般的鑄造工廠裡,模砂的用量是相當大的; 一般而言, 鑄造一噸的鑄件, 約需使用 4 ~ 5 噸的砂。 模砂可分為濕模砂、 乾模砂、 砂心砂、 水泥砂及殼模砂等,本節以討論濕模砂為主。"
+        },
+        {
+          "type": "heading",
+          "text": "一、砂的成分"
+        },
+        {
+          "type": "paragraph",
+          "text": "模砂係由基砂加黏結劑再調和不同的添加劑混煉而成。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 基砂"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄造業常用的砂料有:矽砂 ( 石英砂 )、鋯砂、鉻砂及橄欖石砂等四種。其中 最常用、 最經濟的基砂就是矽砂,其主要成分為二氧化矽 (SiO 2 )。 矽砂的主要優點有下列五項:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 在自然界中分佈最廣,產量最多。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 有良好的耐熱性及熱穩定性。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 有各種不同的顆粒形態、粒度及分佈。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 容易採掘,價格低廉。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 硬度高,不易粉碎。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 黏結劑"
+        },
+        {
+          "type": "paragraph",
+          "text": "模砂的黏結劑有黏土、水玻璃及熱硬性樹脂等。一般模砂中使用最多的是黏土,其 主要成分是氧化鋁 (Al 2 O 3 )。模砂中的黏土含量通常在 3 ~ 12 % 之間, 一般而言,黏土 含量愈高,砂模強度愈大,但透氣性及耐熱性愈差。最常用的黏土是火山黏土,其次為 耐火黏土。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 水分"
+        },
+        {
+          "type": "paragraph",
+          "text": "黏土必須加水混煉才能發揮黏結作用。 模砂中的含水量約 2 ~ 8 %,含水量 5 % 時透 氣度最佳。在此範圍內黏結性與含水量成正比關係。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 特殊添加劑"
+        },
+        {
+          "type": "paragraph",
+          "text": "模砂中可視需要加入添加劑,使具有某種特質。例如加 煤粉可改善鑄件的表面光度及 使清砂容易;加石墨可改善鑄件表面光度及造模性,並使鑄件清理容易;加木粉可改善砂 模的熱膨脹性,減少澆鑄時鑄件被氧化,增進模砂的通氣性及崩散性;加亞麻仁油或矽酸 鈉可增加砂模強度。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "86"
+        },
+        {
+          "type": "heading",
+          "text": "二、砂的分類"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 依獲得來源的不同來區分"
+        },
+        {
+          "type": "paragraph",
+          "text": "天然砂 未經人工處理的砂,其雜質較多,品質不佳,只適用於非鐵金屬。 合成砂 係將洗選過的矽砂,混合黏土、水分及其他添加劑而成,品質優良。 半合成砂 係將天然砂與合成砂混合而成,其品質與價格均介於前兩者之間。 特殊砂 係將洗選過的矽砂,混合樹脂及水玻璃等人造黏結劑而成,其品質特優。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 依砂的形狀來區分 ( 如圖 3-33 所示 )"
+        },
+        {
+          "type": "heading",
+          "text": "結合型 多角型"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 數 粒 小 砂 粒 結 合 而 角度較尖銳,結合強度 成,生成年代較近。 大,但透氣性低。"
+        },
+        {
+          "type": "heading",
+          "text": "圓型 近多角型"
+        },
+        {
+          "type": "heading",
+          "text": "經長時間風化、摩擦的 形狀及性質均介於前兩"
+        },
+        {
+          "type": "heading",
+          "text": "砂,其砂粒與砂粒間的 者之間,能協調兩者的"
+        },
+        {
+          "type": "heading",
+          "text": "空隙大,透氣性高,但 優劣,在翻砂廠中使用"
+        },
+        {
+          "type": "paragraph",
+          "text": "結合強度小。 最廣。 ▲ 圖 3-33 砂粒之形狀 ( 取材料自參考書目 (8))"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 依模砂所在的位置來區分"
+        },
+        {
+          "type": "paragraph",
+          "text": "表砂 位於模穴表層, 為了增加鑄件表面光平度,通常使用篩子篩選較細的砂。 裡砂 表砂以內的填充砂叫裡砂, 為了增加鑄模的透氣性,通常用粗的砂 ( 不篩選 )。 位於上、下砂箱分界面的砂,可避免上、下砂箱黏結在一起。 分箱砂常用不"
+        },
+        {
+          "type": "heading",
+          "text": "分箱砂"
+        },
+        {
+          "type": "paragraph",
+          "text": "含黏土的純矽砂, 亦可使用以人工調製的分模粉。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 87"
+        },
+        {
+          "type": "heading",
+          "text": "三、砂的特性"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 強度"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂模造成之後應具備適當的強度,以免在翻轉、搬運或澆鑄時破損。砂模的強度應包"
+        },
+        {
+          "type": "heading",
+          "text": "括下列三種:"
+        },
+        {
+          "type": "paragraph",
+          "text": "造模作業均於濕砂狀態下進行,因此,模砂須具備適當的強度,以防造模時"
+        },
+        {
+          "type": "heading",
+          "text": "濕砂強度"
+        },
+        {
+          "type": "paragraph",
+          "text": "的翻轉、起模及搬運等操作造成砂模破損。 澆鑄時鑄模表砂的水分蒸發,形成表面乾燥砂模。因此,模砂應具備適當的"
+        },
+        {
+          "type": "heading",
+          "text": "乾砂強度"
+        },
+        {
+          "type": "paragraph",
+          "text": "乾砂強度,來阻抗金屬液的沖刷及壓力。 高溫強度 為防止熔融金屬液的靜壓力,導致砂模脹裂,模砂須具備適當的高溫強度。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 透氣性"
+        },
+        {
+          "type": "paragraph",
+          "text": "澆鑄時模砂受熱會產生大量的氣體。因此砂模應具備適當的透氣性,以利氣體逸出, 以免鑄件產生氣孔。使用過的舊砂應加入適量的黏結劑以增加強度,但是會影響透氣性, 故再加入新砂以增加透氣性。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 耐熱性"
+        },
+        {
+          "type": "paragraph",
+          "text": "鐵系金屬的澆鑄溫度約在 1,300 °C∼ 1,650 °C之間,故 模砂應具備 1, 700 °C左右的耐熱 度,以免被高溫燒毀。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 顆粒的大小及形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "模砂的粒度通常在 10 號到 250 號 ( 粒度 10 表示篩子上每吋長有 10 個網目 ) 之間,形 狀以近多角形的最佳。顆粒較細的砂,透氣性較差;粗細均勻者透氣度佳。"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 流動性"
+        },
+        {
+          "type": "paragraph",
+          "text": "模砂應具備良好的流動性,才能順利填滿模箱。"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 崩散性"
+        },
+        {
+          "type": "paragraph",
+          "text": "模砂中的水分在受熱消失後,會變成堅硬的砂塊,故模砂應具備適當的崩散性,以利 澆鑄完成後破壞砂模,易於清砂。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "澆鑄溫度 P117"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬液進入鑄模前瞬間的溫度稱為澆鑄溫度。由於澆鑄過程中會有大量的熱量消失。所以澆鑄溫度 應高於金屬熔點 10~20% 左右,以保證金屬液在充滿模穴之前不凝固。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "88"
+        },
+        {
+          "type": "heading",
+          "text": "( 七 ) 熱穩定性"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄模澆鑄後,內壁會立刻膨脹,模砂若無適當的熱穩定性,則模穴容易破裂、變形。"
+        },
+        {
+          "type": "heading",
+          "text": "( 八 ) 可回收性"
+        },
+        {
+          "type": "paragraph",
+          "text": "方便舊砂回收再使用。"
+        },
+        {
+          "type": "heading",
+          "text": "四、模砂試驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂模的優劣直接影響鑄件的好壞。同時,定時利用各種試驗儀器來控制模砂的性能, 才能獲得理想的造模材料。常用的模砂試驗有下列六種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 水分試驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 01 秤取 50g 的模砂放置在試驗砂盤上,並使其散佈均勻。 STEP 02 將砂盤放入如圖 3-34 所示之水分測定器下方的砂盤彈簧夾內,打開開關, 並將溫度調整鈕轉至適當位置加熱。 STEP 03 觀察溫度計,當溫度達 105 °C時,維持定溫烤 15 分鐘 ( 若採用送風快速乾燥 器時,只需 3 ~ 5 分鐘 ),然後將溫度調整鈕轉至送風位置。 STEP 04 取出砂盤,重新秤取砂重。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-34 模砂水分測定器"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 05 減輕之重量乘以 2,就是含水量的百分率。例如剩下的砂重為 46g,則含水"
+        },
+        {
+          "type": "heading",
+          "text": "50 − 46"
+        },
+        {
+          "type": "paragraph",
+          "text": "量為 × 100% = 8% 或 (50 - 46) × 2% = 8%"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 06 同一種模砂應試驗三次,求取平均值。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 89"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 強度試驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "以如圖 3-35 所示的模砂萬能強度試驗機分析模砂的抗壓、抗拉及抗剪等強度,其中 以 抗壓強度最為重要。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-35 模砂萬能強度試驗機"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 透氣性試驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "透氣性試驗的原理如圖 3-36 所示,以空氣在一定壓力下,在一定時間內量取通過模砂 標準試片的體積表示。體積大的透氣性高,反之則低。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-36 透氣性試驗機示意圖 ( 取材自參考書目 (8))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 黏土含量試驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "本試驗的目的是分析模砂中所含黏土 ( 一般指直徑 0.02mm 以下的細粉 ) 的百分比。其"
+        },
+        {
+          "type": "heading",
+          "text": "試驗步驟如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 01 秤取 50g 乾砂,放在如圖 3-37 所示之洗砂瓶內。 STEP 02 加入 25c.c. 的氫氧化鈉 ( 濃度 1.5%) 溶液和 475c.c. 的蒸餾水。 STEP 03 將洗砂瓶放在洗砂機的旋轉架上,起動馬達旋轉 5 ~ 10 分鐘後,加水到 3 ~ 40 之刻度,攪拌均勻使其沉澱 10 分鐘。 STEP 04 以虹吸管將水吸出,再加水到 150mm,"
+        },
+        {
+          "type": "heading",
+          "text": "沉澱後再吸水,如此重複數次,直到水清"
+        },
+        {
+          "type": "paragraph",
+          "text": "為止。 STEP 05 將洗淨的模砂烘乾後秤取重量。 STEP 06 與水分試驗的計算方式相同,失去的重量 乘 以 2 即 為 AFS(American Foundrymen's Society,美國鑄造協會 ) 黏土含量百分比。 ▲ 圖 3-37 電動洗砂機"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 粒度試驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "以篩號 No.6、 12、 20、 30、 40、 50、 70、 100、 140、 200、 270 等 11 組篩分析模砂的粒度,"
+        },
+        {
+          "type": "heading",
+          "text": "其試驗步驟如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 01 秤取 50g( 亦可取樣 100g) 不含黏土的乾燥矽砂。 STEP 02 將砂倒入篩砂機最上層的篩網,振動 15 分鐘之後,取下篩子,秤取各篩網 上的砂粒重量,記下如表 3-3 中之第 2 行。 STEP 03 計算每一篩網之砂粒重量百分比,記下如表中之第 3 行,然後與第 4 行的乘 數相乘,得第 5 行的乘積。 STEP 04 乘積總和除以百分比的總和,即得 AFS 粒度指數。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 91"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-3 模砂粒度計算範例"
+        },
+        {
+          "type": "heading",
+          "text": "50g 的砂試樣殘留於篩上"
+        },
+        {
+          "type": "heading",
+          "text": "AFS 篩號數 乘數 乘積"
+        },
+        {
+          "type": "heading",
+          "text": "(gm) (%)"
+        },
+        {
+          "type": "heading",
+          "text": "6 ─ ─ 3 ─"
+        },
+        {
+          "type": "heading",
+          "text": "12 ─ ─ 5 ─"
+        },
+        {
+          "type": "heading",
+          "text": "20 ─ ─ 10 ─"
+        },
+        {
+          "type": "heading",
+          "text": "30 ─ ─ 20 ─"
+        },
+        {
+          "type": "heading",
+          "text": "40 0.7 1.4 30 42.0"
+        },
+        {
+          "type": "heading",
+          "text": "50 7.7 15.4 40 616.0"
+        },
+        {
+          "type": "heading",
+          "text": "70 17.85 35.7 50 1785.0"
+        },
+        {
+          "type": "heading",
+          "text": "100 14.2 28.4 70 1988.0"
+        },
+        {
+          "type": "heading",
+          "text": "140 7.4 14.8 100 1480.0"
+        },
+        {
+          "type": "heading",
+          "text": "200 1.65 3.3 140 462.0"
+        },
+        {
+          "type": "heading",
+          "text": "270 ─ ─ 200 ─"
+        },
+        {
+          "type": "heading",
+          "text": "底盤 0.5 1.0 300 300.0"
+        },
+        {
+          "type": "heading",
+          "text": "合計 50.0 100.0 ─"
+        },
+        {
+          "type": "heading",
+          "text": "乘積總和 6673"
+        },
+        {
+          "type": "heading",
+          "text": "AFS 粒度指數 = = = 66.73"
+        },
+        {
+          "type": "heading",
+          "text": "百分比的總和 100"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 砂模硬度試驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "以圖 3-38 所示的硬度計直接將測頭壓入砂模,並由盤面刻度讀出硬度值。硬度計盤面 共分為 100 格,測頭之球半徑為 0.100 吋,即測頭每壓入砂中 0.001 吋,硬度值為 1,故其 硬度值 0 為極軟, 100 為極硬。一般砂模硬度的區分, 70 以下為軟; 70 ∼ 80 為中; 80 以 上為硬。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-38 砂模硬度計"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "92"
+        },
+        {
+          "type": "paragraph",
+          "text": "試驗砂模硬度時應儘量避免在模穴內或太靠近模穴及砂箱邊緣處測試,以免測試處崩 陷,損及砂模,並影響數據的客觀性。"
+        },
+        {
+          "type": "heading",
+          "text": "3-5 機械造模"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄造工廠的高溫及污染的工作環境,令人望之卻步,即使用高薪水也無法獲得充足的 人力。所以機械化及自動化的需求在鑄造工廠就顯得特別殷切。 機械造模的原理,如圖 3-39 所示,有震動、擠壓及拋砂等三種。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 震動造模示意圖 (b) 震動造模機之機台"
+        },
+        {
+          "type": "heading",
+          "text": "(c) 擠壓造模示意圖 (d) 擠壓造模機之機台"
+        },
+        {
+          "type": "heading",
+          "text": "(e) 拋砂造模示意圖 (f) 拋砂機之機台"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-39 機械造模原理"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 93"
+        },
+        {
+          "type": "heading",
+          "text": "機械造模的方法,常用的有下列四種:"
+        },
+        {
+          "type": "heading",
+          "text": "一、震動造模"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-40 所示,利用壓縮空氣將震動台及附於其上的砂模舉至適當的高度後,由排氣 口將高壓空氣排出,震動台及砂模因重力關係迅速下降至震動氣缸體而產生震動。上述動 作連續震動數次,砂箱內鬆散的模砂即漸趨緊密。 震動造模所得的鑄模上鬆下緊。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-40 震動造模原理"
+        },
+        {
+          "type": "heading",
+          "text": "二、擠壓造模"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-41 所示,利用壓縮空氣將擠壓板由上往下擠壓工作台上的砂模,使模砂緊密結 合。 此種造模方式所得的鑄模上緊下鬆。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-41 擠壓造模原理"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "94"
+        },
+        {
+          "type": "heading",
+          "text": "三、拋砂造模"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-42 所示,模砂經輸送帶送至拋砂造模機的機頭,機頭的旋轉輪葉將砂挑起並高 速拋入砂箱裡,模砂衝擊模型而獲得必要的結合強度。拋砂造模特別適用於無適當機械可 資利用的大型砂模。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-42 拋砂機"
+        },
+        {
+          "type": "heading",
+          "text": "四、軟膜造模"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-43 所示的模型,斷面有大有小,若使用擠壓造摸,砂模的密度將有很大的變化。 較理想的造模方式是使用純橡膠的軟膜覆在模砂之上 ( 模砂依模型高低而變化,儘量維持 一致的砂厚 ),再利用空氣加壓,就能使模砂在各方向都得到相同的壓力,而獲得均勻的 砂模密度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-43 軟膜造模機 ( 取材自參考書目 (3))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 95"
+        },
+        {
+          "type": "heading",
+          "text": "3-6 特殊鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂模鑄造是最基本的鑄造方法,不論鑄件尺度的大小、形狀的繁簡,以及金屬材料的 種類,均可適用。但其最大的缺點是鑄模只能用一次,不適合大量生產。且受到砂模本身 的限制,鑄件精度差,表面粗糙度亦不良。 為了補救砂模鑄造的各項缺點,故有各種特殊 鑄造法的發展與應用。 特殊鑄造法種類很多,可依鑄件的尺度、形狀、金屬及數量的不同,選擇最適宜的方 法來鑄造。機械製造者對於各種特殊鑄造法的特色,必須有深入的認識,才能做最有利的 選擇。以下就特殊鑄造法分類之:"
+        },
+        {
+          "type": "heading",
+          "text": "一、金屬模鑄造法 (Metallic Mold Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 壓鑄法 (Die Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 低壓鑄造法 (Low Pressure Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 重力壓鑄法 (Gravity Die Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "4. 瀝鑄法 (Slush Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "二、 離心鑄造法 (Centrifugal Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 真離心鑄造法 (True Centrifugal Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 半離心鑄造法 (Semi-centrifugal Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 離心力加壓鑄造法 (Centrifugal Pressure Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "三、 包模鑄造法 (Investment Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 脫蠟法 (Lost Wax Process)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 瓷殼模法 (Ceramic Shell Process)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 石膏模法 (Plaster Mold Process)"
+        },
+        {
+          "type": "heading",
+          "text": "四、 連續鑄造法 (Continuous Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "五、其他材料鑄造法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 殼模鑄造法 (Shell Molding Process)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 真空鑄造法 (Vacuum Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 真空消失模鑄造法 (Vacuum Molding)"
+        },
+        {
+          "type": "heading",
+          "text": "4. 電熔渣鑄造法 (Electro-slag Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "5. 壓擠鑄造法 (Squeeze Casting)"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "96"
+        },
+        {
+          "type": "heading",
+          "text": "3-6-1 金屬模鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "以金屬製成鑄模最大的優點是鑄模可以重複使用,不須像普通砂模的重複造模,故在 大量生產工作時可以大量減少人工。由於金屬模耐熱性的限制,此法不適合鑄造高熔點金 屬,通常用在熔點較低的中、小型鑄件的大量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "一、壓鑄法"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓鑄法是利用高壓力將熔融金屬液注入金屬鑄模內,以便形成所需鑄件的鑄造法。 此 法由於模穴表面光滑,尺度精確,而且在高壓力下鑄造,鑄件較不易變形,所鑄的成品精 密度很高,為金屬模鑄造法中應用最廣的。此法所加之壓力通常高於其他法,所以又稱為 高壓壓鑄法。 壓鑄法的成形速度很快,模穴內之氣體很難完全排出,厚壁處的收縮也難以獲得補充, 所以鑄件內部容易形成氣孔與縮孔。此種在高壓下形成的氣孔,若施以熱處理,氣孔會膨 脹使鑄件表面起泡,因此壓鑄件不適合熱處理。 壓鑄機大都為液壓式自動操作,動作迅速,每小時可以產製數百件。廣用於鑄造汽 機車、航空器具、電子產品及電腦磁碟機等之零件,是極具有發展潛力的一種高精密度 鑄造法。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑄件表面平滑美觀。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 尺度精密度可達 ± 0.03mm。"
+        },
+        {
+          "type": "heading",
+          "text": "壓"
+        },
+        {
+          "type": "heading",
+          "text": "3. 組織緻密,鑄件強度大。"
+        },
+        {
+          "type": "heading",
+          "text": "鑄"
+        },
+        {
+          "type": "paragraph",
+          "text": "優點 4. 適合大量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "heading",
+          "text": "5. 操作迅速,每小時產量可達 800 件。"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "heading",
+          "text": "6. 較易鑄造出薄壁及細小部分。"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "7. 流動性差的金屬亦可鑄造。"
+        },
+        {
+          "type": "heading",
+          "text": "色"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "限"
+        },
+        {
+          "type": "heading",
+          "text": "1. 僅適用於熔點較低的金屬,如 Al、 Cu、 Mg、 Pb、 Zn、 Sn 等。"
+        },
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺點 2. 模具及設備費用高,不適用於小量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 由於壓力機容量的限制,不適用於大型鑄件。"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓鑄法依其熔解爐所在位置的不同,可分為 熱室壓鑄法 (Hot Chamber Die Casting) 及 冷室壓鑄法 (Cold Chamber Die Casting) 兩種:"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 97"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 熱室壓鑄法"
+        },
+        {
+          "type": "paragraph",
+          "text": "熱室壓鑄法的金屬熔解爐裝置在壓鑄機的本體內,其澆道及柱塞經常浸入在金屬液 中,如圖 3-44 所示,故稱為熱室壓鑄法。操作時直接用壓縮空氣或液壓驅動的柱塞,將熔 解爐中的金屬液經鵝頸管壓入模穴內,待金屬凝固後移開活動模即可取出鑄件。此法最主 要的優點是操作簡便且金屬液不易被氧化污染;而缺點則是壓鑄機經常處於高溫容易故障, 使用壽命較短。故此法 主要用於熔點特別低的金屬材料,如 Pb、 Zn、 Sn 等。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-44 熱室壓鑄法"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 冷室壓鑄法"
+        },
+        {
+          "type": "paragraph",
+          "text": "冷室壓鑄法的壓鑄原理與熱室法大同小異,但 為了便於壓鑄 Al、 Cu、 Mg 等熔點較 Pb、 Zn、 Sn 高的金屬,而將熔解爐與壓鑄機分開,以免壓鑄機經常處於高溫而故障。 操作時以澆桶或其他進料裝置將熔解爐中的金屬液澆入壓鑄機的加料口,再以柱塞壓入模 內,待金屬液凝固後取出鑄件,如圖 3-45 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-45 冷室壓鑄法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "98"
+        },
+        {
+          "type": "paragraph",
+          "text": "大量製作高精度之鋁合金機車零件、鋁鎂合金筆記型電腦金屬外殼等製品,最適合以 此法製造。 圖 3-46 所示者為鋁合金壓鑄件之實例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-46 鋁合金壓鑄件"
+        },
+        {
+          "type": "paragraph",
+          "text": "表 3-4 為兩種壓鑄法的比較。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 3-4 熱室法與冷室法的比較"
+        },
+        {
+          "type": "heading",
+          "text": "壓鑄機"
+        },
+        {
+          "type": "heading",
+          "text": "熱室壓鑄機 冷室壓鑄機"
+        },
+        {
+          "type": "heading",
+          "text": "項目"
+        },
+        {
+          "type": "heading",
+          "text": "熔解爐位置 在壓鑄機內 與壓鑄機分開"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓鑄溫度 低 ( 適用於 Pb、 Zn、 Sn) 高 ( 適用於 Al、 Cu、 Mg) 壓鑄壓力 小 (2,000psi) 大 (30,000psi)"
+        },
+        {
+          "type": "heading",
+          "text": "壓鑄速率 快 慢"
+        },
+        {
+          "type": "heading",
+          "text": "鑄件重量 小 大"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 99"
+        },
+        {
+          "type": "heading",
+          "text": "二、低壓鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "低壓鑄造法如圖 3-47 所示,金屬模的下方有一個石墨製的導管,垂直插入下方的坩堝 爐內的金屬液中。 壓縮空氣由爐頂吹入,直接施壓於金屬液面,金屬液受壓經由導管注入 金屬模內。 金屬模的散熱能力較石墨導管高,故模內的金屬液先行凝固,而導管內的金屬 液仍處於熔融狀態;當壓縮空氣解除壓力時,導管內的金屬液會落回坩堝爐中,打開模具 取出鑄件即完成一個工作循環。 為避免金屬液氧化,壓縮空氣宜用惰氣。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-47 低壓鑄造法"
+        },
+        {
+          "type": "heading",
+          "text": "此法具有下列數點特色:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 材料有效利用率高達 90 ∼ 98%,可節省熔化量,降低生產成本。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 金屬液氧化少,鑄件品質優良。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 易自動化控制,不受人為因素影響,且可降低人工成本。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 具有優良的方向性凝固,收縮孔少,密度高。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 鑄件尺度限制少,大、小件均可。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 鑄模限制少,除金屬模外,亦可採用石墨模、 呋 喃模及 CO 2 砂模。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 金屬液由底部往上壓,不產生擾流,減少氣孔的發生。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 熔渣不會進入模穴,製品之純度高。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "三、重力壓鑄法"
+        },
+        {
+          "type": "paragraph",
+          "text": "重力壓鑄法之鑄模以金屬製成,金屬液澆鑄時僅靠本身的重力,不另加壓力。為減 少模具的冷激作用 (Chilling Effect),以免金屬液冷卻過快而產生滯流,無法充滿模穴, 並利於鑄件的脫模,通常在模面上敷一層耐火材料之漿,然後再塗一層 煤煙 (Soot)。金 屬凝固後開啟模具取出鑄件即完成一個工作循環。 形狀複雜或斷面太薄的鑄件不適合用 此法製造。"
+        },
+        {
+          "type": "heading",
+          "text": "四、瀝鑄法"
+        },
+        {
+          "type": "paragraph",
+          "text": "瀝鑄法如圖 3-48 所示, 可以不用心型而鑄造出空心的鑄件。當低熔點的金屬液澆入金 屬模穴內時,接觸模穴部分之金屬液先行凝固成一薄殼如圖 3-48(a) 所示,然後翻轉模具將 中間未凝固的金屬液傾倒出來如圖 3-48(b) 所示。最後將模具打開,用鉗子夾出鑄件如圖 3-48(c) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-48 瀝鑄法 ( 取材自參考書目 (1)) 此法只適用於鑄造不要求強度,且內部無特殊構造的鑄件,如玩具、雕像及裝飾品等 需具有美觀的表面花紋的鑄品。 瀝鑄法所用的材料大都為 Pb、 Zn、 Sn 等低熔點金屬。 對於鑄件材料的金相組織是否 均勻、厚薄是否一致、機械性質是否良好,通常並不要求。 瀝鑄法的鑄件厚度與金屬熔液在模中停留的時間成正比。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 101"
+        },
+        {
+          "type": "heading",
+          "text": "3-6-2 離心鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "離心鑄造法係利用鑄模轉動時所產生的離心力,將熔融金屬液注入鑄模的周圍,貼緊 模壁而凝固成形,故此法可不用砂心而作出中空鑄件。特別適用於圓形鑄件,如水管、車 輪及油管之鑄造。 金屬液中的氧化物與雜質通常較成分金屬輕, 由於離心力的作用,比重大的成分金屬 會先射出,形成金屬結構非常細緻的外層;而雜質及氧化物則集中在心部,容易加工除去。 此種由於比重的不同所形成的雜質分離現象,稱為重力偏析。"
+        },
+        {
+          "type": "heading",
+          "text": "離心鑄造法因鑄模構造的不同,可分為三種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 真離心鑄造法 (True Centrifugal Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 半離心鑄造法 (Semi-centrifugal Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 離心力加壓鑄造法 (Centrifugal Pressure Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "一、真離心鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "真離心鑄造法係將金屬液注入迴轉的管狀鑄模內,利用離心力將熔液拋向管壁而成中 空的鑄件。 此法最適用於鑄造中空而對稱的鑄件,例如自來水管、引擎汽缸及軸承等。圖 3-49 所示者為大口徑自來水管之實品例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-49 自來水管"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄模的旋轉軸如圖 3-50 所示,有水平式及垂直式兩種:圖 3-50(a) 所示者為 水平式, 特別適用於長管的鑄造。圖 3-50(b) 所示者為 垂直式,此式由於重力的作用,製品的下部 較厚,形成拋物面,所以只適用於製造短形管狀物。為了減少上、下厚度的差異,其轉速 應較水平式快。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "102"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 水平式"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 垂直式"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-50 真離心鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "真離心力鑄造法之優點為金屬填充能力佳、不須砂心就可獲得中空鑄件、尺度精確適 用於大量生產。缺點是設備成本高,且較不能廣泛應用於不對稱鑄件之鑄造。"
+        },
+        {
+          "type": "heading",
+          "text": "真離心鑄造法具有下列數點特色:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 製品內部不會有氣孔或收縮孔。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 材質緻密,機械性質良好。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 不需澆、冒口系統,材料有效利用率高。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 103"
+        },
+        {
+          "type": "heading",
+          "text": "二、半離心鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "半離心鑄造法如圖 3-51 所示,操作時先將金屬液注滿模穴,然後旋轉模子即可,必要 時亦可使用砂心、冒口等。 由於離心力與半徑成正比,故鑄件的外部組織密實而心部組織 鬆散並有夾雜物或氣孔,因此鑄成後最好將中心部分切除。如圖 3 - 52 所示之火車輪鑄件, 輪緣要耐磨而心部要搪孔裝軸,就是半離心鑄造法最典型的例子。 半離心鑄造法的模子旋轉速度遠低於真離心鑄造法。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-51 半離心鑄造法 ▲ 圖 3-52 火車輪"
+        },
+        {
+          "type": "heading",
+          "text": "三、離心力加壓鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "離心力加壓鑄造法類似壓鑄法,不過所用的壓力並非由壓縮空氣或液壓柱塞來提供, 而是利用離心力來加壓。 此法與前兩種離心鑄造法最大的不同點是鑄件不一定對稱,且不 一定為空心,其中心軸亦不在離心機的旋轉軸上。 脫蠟鑄造或低熔點金屬的鑄造,常以此法澆注, 齒模製造技工亦常用此法製造假牙的 金鑲套。 圖 3-53 所示者為離心力加壓鑄造法的實例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-53 離心力加壓鑄造法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "104"
+        },
+        {
+          "type": "heading",
+          "text": "3-6-3 包模鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "包模鑄造法的模型以可加熱熔化脫模的材料製作,然後在模型四周包覆一層耐火材料 作成鑄模,乾燥硬化後,加熱將模型熔出而形成模穴,完成鑄模的製作。 包模法可採用的 模型材料有蠟、 水銀、 聚苯乙烯 (PS) 及聚乙烯 (PE) 等, 其中以蠟最為廣用。 而鑄模則以砂、 黏土或石膏製成。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 可鑄造複雜而有內凹陷的鑄件。"
+        },
+        {
+          "type": "paragraph",
+          "text": "包 2. 鑄件表面光平且無分模線。 模 優點 3. 尺度精確。 鑄 4. 可將不能加工或不易加工的金屬直接鑄成所需的尺度及形狀。 造 5. 比壓鑄法更適用於少量製造。"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "paragraph",
+          "text": "優 1. 生產費用高。 缺 2. 只適用於小鑄件之鑄造。"
+        },
+        {
+          "type": "heading",
+          "text": "缺點"
+        },
+        {
+          "type": "paragraph",
+          "text": "點 3. 不適合使用砂心。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 深且窄的孔不易鑄造。"
+        },
+        {
+          "type": "paragraph",
+          "text": "常見的包模鑄造法有脫蠟法、瓷殼模法及石膏模法。"
+        },
+        {
+          "type": "heading",
+          "text": "一、脫蠟法"
+        },
+        {
+          "type": "paragraph",
+          "text": "脫蠟法是以蠟做成模型,再包覆砂或石膏做成鑄模,然後加熱將蠟熔化掉,而留下與 蠟模型完全相同的模穴以供澆鑄,故又稱為去蠟法或失蠟法。 其造模程序如下: STEP 01 以鋼或黃銅依鑄件的形狀及尺度製成原型。 STEP 02 以低熔點金屬 ( 如鉍或鉛合金 ) 包覆原型,待凝固後將其切開,取出原型, 作成分型模。 STEP 03 將蠟射入分型模,待凝固後打開模具,取出蠟模型。 STEP 04 蠟模型結合澆口組成蠟樹。 STEP 05 蠟樹沾砂漿 ( 砂與樹脂混成糊漿狀 ) 製成包模。 STEP 06 加熱熔出蠟模型,並烘乾鑄模。 STEP 07 澆鑄金屬液。 STEP 08 脫殼、清理鑄件。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 105"
+        },
+        {
+          "type": "heading",
+          "text": "脫蠟法之蠟模型是以熱量熔出,所以設計蠟模型時不需"
+        },
+        {
+          "type": "paragraph",
+          "text": "考慮拔模裕度與震動裕度。 此法可製造形狀複雜之鑄件, 如 圖 3 - 54 所示之高爾夫球桿頭、圖 3 - 55 所示之肘管與渦輪機 葉片等。 圖 3-56 所示者為大型脫蠟鑄件之生產過程。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-54 高爾夫球桿"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-55 肘管"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-56 大型脫蠟鑄件之生產過程"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "106"
+        },
+        {
+          "type": "heading",
+          "text": "二、瓷殼模法"
+        },
+        {
+          "type": "paragraph",
+          "text": "瓷殼模法類似脫蠟法,也是用蠟做模型,再加包覆材料做成包模。兩者的差異在於製 模方法的不同。其製作模型的過程和脫蠟法一樣,首先將蠟射進分型模,製成蠟模型後再 結合澆口組成蠟樹。然後浸入瓷質漿液中沾上一層瓷漿,表面佈敷一層粉狀的耐火材料。 待乾燥至適當程度後,再沾漿、敷耐火材料粉。如此重覆幾次,直到 5mm 至 10mm 厚為止。 乾燥後加熱將蠟熔化,然後烘乾鑄模,除去水分及揮發物。此時鑄模殼已具有相當的強度, 可以實施澆鑄而不虞破裂。冷卻後打破模殼,即得精密度很高的鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "此法具有如下的特色:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 無模型脫模的困擾,可鑄出形狀複雜的鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鑄模可耐 2000 °C的高溫,可鑄造高溫金屬,如噴射發動機的渦輪葉片。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 尺度精確,表面光平,不需額外的加工。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鑄件大小及重量不受限制。"
+        },
+        {
+          "type": "paragraph",
+          "text": "形狀複雜且精度要求高的鑄件,例如高爾夫球桿頭與渦輪機葉片常以瓷殼模法或脫蠟 法鑄造。"
+        },
+        {
+          "type": "heading",
+          "text": "三、石膏模法"
+        },
+        {
+          "type": "paragraph",
+          "text": "石膏模法是以石膏基的灰泥做包覆材料,而模型則是用易切的黃銅做成。如圖 3-57(a) 所示,將銅製模型置於框有模箱的製模板上,然後在模型上噴一層分模劑,以利脫模。接 著如圖 3-57(b) 所示,將石膏基的製模材料在半流動狀態下倒入模箱內,並微加振動,使其 能深入模型各細微部分。 待石膏凝結後自模箱中取出鑄模, 置於爐中加熱烘乾, 如圖 3-57(c) 所示。此模於組合澆鑄後,即可將鑄模打碎,取出鑄件。鑄件表面若有黏結的石膏,可以 用水洗去。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-57 鬆件模型 ( 取材自參考書目 (8))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 107"
+        },
+        {
+          "type": "paragraph",
+          "text": "石膏的原料是含結晶水的硫酸鈣,其中的硫分在高溫時易與鐵金屬起不良的反應,有 損鑄件的品質,故此法僅適用於低熔點的非鐵合金。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 石膏具有多孔性,有利排氣,製品不易產生氣孔。"
+        },
+        {
+          "type": "heading",
+          "text": "石"
+        },
+        {
+          "type": "heading",
+          "text": "2. 石膏的絕熱性高 ( 散熱慢 ),可鑄極薄的鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "膏 優點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 大量與少量生產均適宜。"
+        },
+        {
+          "type": "heading",
+          "text": "模"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鑄件尺度精確,表面光平。"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "heading",
+          "text": "1. 石膏價格較高。"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺點 2. 鑄模只能用一次。"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 石膏不耐高溫,不適用於高溫合金之鑄造。"
+        },
+        {
+          "type": "heading",
+          "text": "3-6-4 連續鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂連續鑄造法是將熔融的金屬液,連續注入具有水冷式的鑄模內,使其迅速凝固, 再從鑄模的另一方向連續抽出鑄件的一種特殊鑄造法。其鑄件通常均為斷面均一的長條 狀。 連續鑄造法如圖 3-58 所示,依生產設備的不同,可分成水平式、垂直式、垂直彎曲式 及全彎曲式四種。鑄造過程均大同小異,首先利用澆桶將金屬液注入餵槽內,金屬液從此 處以固定的速率及流量注入水冷式的模具,因激冷而凝固的鑄件不斷地從鑄模內抽出,經 前方的滾輪協助抽拉而前進,並以火焰切割機做適當長度的切斷。圖 3-59 所示者為垂直彎 曲式連續鑄造機。"
+        },
+        {
+          "type": "heading",
+          "text": "此法具有下列幾點特色:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑄件長度不受限制,斷面形狀均一。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 可連續不斷地生產鑄件,與其他方法相比,此法之效率最高。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "108"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-58 連續鑄造設備的型式"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-59 垂直彎曲式連續鑄造機"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 109"
+        },
+        {
+          "type": "heading",
+          "text": "3-6-5 其他材料鑄造法"
+        },
+        {
+          "type": "heading",
+          "text": "一、殼模鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "殼模法是以乾矽砂及酚甲醛 ( 或尿素甲醛 ) 樹脂的混合物為製模材料,製成兩個各半 的殼狀模,然後用夾子夾持兩半模,組合成鑄模,再行澆鑄。其過程如下所示: STEP 01 乾矽砂與粒狀的樹脂 ( 酚甲醛或尿素 ) 混合後,放入傾卸箱中。"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 02 吹附分離劑"
+        },
+        {
+          "type": "paragraph",
+          "text": "將 金 屬 製 的 模 型 板 加 熱 到 200 ~ 300 °C,然後噴一層矽質分離劑。"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 03 模型放在傾卸箱上"
+        },
+        {
+          "type": "paragraph",
+          "text": "模型板覆蓋在傾卸箱上, 令模型朝下。"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 04 翻轉傾卸箱"
+        },
+        {
+          "type": "heading",
+          "text": "傾卸箱翻轉 180 °,令製模材料覆蓋在"
+        },
+        {
+          "type": "heading",
+          "text": "模型上,則樹脂受熱而軟化,與砂一"
+        },
+        {
+          "type": "paragraph",
+          "text": "起黏附在模型上約 3 ~ 5mm 厚。"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 05 傾卸箱轉回原位置"
+        },
+        {
+          "type": "heading",
+          "text": "傾卸箱翻轉 180 °,未黏附在模型上的"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂與樹脂落回箱底。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 06 烘烤模殼"
+        },
+        {
+          "type": "heading",
+          "text": "將模型板放入烘爐中烘烤約 1 分"
+        },
+        {
+          "type": "paragraph",
+          "text": "鐘,以便得到結實的模殼。"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 07 剝離模殼"
+        },
+        {
+          "type": "paragraph",
+          "text": "從模型上剝離模殼。"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 08 澆鑄金屬"
+        },
+        {
+          "type": "heading",
+          "text": "用夾子將兩個半模殼夾緊,或用黏"
+        },
+        {
+          "type": "paragraph",
+          "text": "結劑黏著,組成鑄模。最後將數個 鑄模置放在砂箱中,相互支持著。"
+        },
+        {
+          "type": "heading",
+          "text": "兩鑄模中間的空隙處填滿砂子,增"
+        },
+        {
+          "type": "paragraph",
+          "text": "加支持力,即可澆鑄。"
+        },
+        {
+          "type": "paragraph",
+          "text": "此法的優點為尺度精密,表面光平乾淨,不需高度技術,用砂量亦少。其缺點則是必 須使用金屬模型板,且在製造或加熱方面的設備費用頗高。"
+        },
+        {
+          "type": "heading",
+          "text": "二、真空鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂 真空鑄造法 (Vacuum Casting),是指在大氣壓下熔化金屬液,然後在真空狀態 下將金屬液注入模穴中,以鑄造成品的鑄造法。 如圖 3-60 所示,一個典型的真空模鑄造系 統,包括一個液壓操作模具,置於一具內盛金屬液的坩堝爐上方,模具的下方有一根填充 管伸入熔液中。當模穴被抽成真空時,金屬液即由填充管進入模內,待金屬液凝固後,升 起上半部模具,就可取出鑄件。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 111"
+        },
+        {
+          "type": "heading",
+          "text": "此法具有下列幾項優點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑄液浪費少,鑄件的有效利用率高。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 避免金屬液被氧化污染。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 可熔化活性金屬。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鑄件幾無氣孔。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 不需冒口及澆口,減少金屬的浪費。"
+        },
+        {
+          "type": "heading",
+          "text": "此法亦有下列缺點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 需要真空泵,成本高。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 模具要求氣密性,精度要求高。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 受限於真空吸力,不適用於比重大或體積 ▲ 圖 3-60 真空鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "大之鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "三、真空消失模鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "真空消失模鑄造法 (Vacuum Molding) 之模砂不含結合劑。模型上方覆蓋塑膠膜後,填 入乾砂,然後第二張塑膠膜覆蓋在模砂上,將砂模抽成真空狀態使其硬化,接著澆入金屬 液。 待模穴內之金屬液凝固後解除真空,模砂即自行鬆散,不需混煉即可繼續使用。"
+        },
+        {
+          "type": "heading",
+          "text": "四、電熔渣鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "電熔渣鑄造法 (Electro-slag Casting, ESC) 最獨特的地方是不使用爐子來熔化金屬,而 直接以電阻熱熔化電極當作鑄液。 如圖 3-61 所示者為 ESC 之簡圖。圖中“ 4 ”為內含循環冷卻水的金屬模具 ( 通常用熱 傳導性高之銅 ),其下方為導電之下模板“ 6 ”。操作時,先將具有清潔鑄液作用之熔渣覆 蓋在下模板上。欲鑄之金屬製成長條狀當作電極,如圖中所示之“ 1 ”。電極與熔渣維持 一定間距,然後通電產生電弧,由於電弧溫度很高 ( 約 5000 °C ),使熔渣在數秒之內完全 熔化。接著,將電極插入液態之熔渣內,繼續通電,則熔渣與電極會產生很高的電阻熱, 此熱量可使電極不斷熔化。熔化的金屬液比重比熔渣大,會往下流動,沉積在下模板上, 而熔渣則浮在上面。當沉積在下模板上之金屬液達一定的量後,開始啟動模具內之冷卻水。 由於金屬液之熱傳導率比熔渣高很多,所以金屬部分快速凝固 ( 圖中之“ 5 ” ),熔渣則保 持液體狀態 ( 圖中之“ 2 ” )。繼續插入電極,直到鋼液充滿模具為止。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "112"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-61 電熔渣鑄造法之模具斷面圖及凝固過程示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "此法具有下列幾個優點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 熔渣層浮在上面,隔離大氣與金屬液,鑄件不會被氧化。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 無須進模道或冒口,材料損失少。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電極變成熔滴通過熔渣時,浮在表面之雜質被熔渣清洗乾淨。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 由於冷卻水的快速冷卻作用,金屬液因快速凝固而來不及成長,可得極細之晶粒,"
+        },
+        {
+          "type": "paragraph",
+          "text": "強度很高。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 凝固方向由下而上,且上面不斷供應高溫且流動性很高之金屬液,無限制地補充金"
+        },
+        {
+          "type": "paragraph",
+          "text": "屬之冷縮,所得鑄件不產生縮口及氣孔。由實驗顯示,此法之鑄品機械性質比鍛造 件好。"
+        },
+        {
+          "type": "heading",
+          "text": "此法亦有下列數項缺點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 金屬鑄模之價格高,小量製造時成本偏高。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 不適用於形狀複雜或截面太薄之鑄件。"
+        },
+        {
+          "type": "paragraph",
+          "text": "大型機件以普通鑄造法製造,由於冷卻速度慢,形成粗晶粒組織,強度不高。若以鍛 造法製造,則內、外品質因壓力不均,會有很大的差異。像輪船的大型機軸,要求強度高 者,採用上述兩種方法皆不適宜,通常採用電熔渣鑄造法。"
+        },
+        {
+          "type": "heading",
+          "text": "五、壓擠鑄造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓擠鑄造法又稱為 液體金屬鍛造法 (Liquid Metal Forging),簡稱鍛鑄法。其熔融金屬 是在高壓狀態下凝固,作用於金屬液之高壓力會使滯留在鑄件內之氣體溶解,因此,其鑄 品不會有氣孔。另外, 金屬在高壓下與鋼模接觸,會增加熱交換的速度,而得到顯微結構 很細緻、機械性質良好的鑄件。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 113"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-62 所示,將金屬液注入鋼模如圖 3-62(a) 所示,沖頭接著以高壓力壓入鋼模如 圖 3-62(b) 所示,待凝固完成後,沖頭退出,並以頂出銷頂出鑄件如圖 3-62(c) 所示。 外形複雜且要求表面精細,又有較細結構之非鐵合金鑄件,均可用此法製成接近其最 終之完工外形。汽車之鋁合金鋼圈與汽車零件,均為此法之加工例。 壓擠鑄造法所須之壓力比鍛造低。 以上數種特殊鑄造法相比較, 壓鑄法之尺度精度與表面光度最好,模具單價最高,但 是每一工件所分擔之模具成本最低;脫蠟法之製品複雜度最高;連續鑄造法之效率最高。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-62 壓擠鑄造法"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "壓鑄法 P96"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用高壓力將熔融金屬液注入金屬鑄模內,以便形成所需鑄件的鑄造法。"
+        },
+        {
+          "type": "heading",
+          "text": "脫蠟法 P104"
+        },
+        {
+          "type": "paragraph",
+          "text": "以蠟做成模型,再包覆砂或石膏做成鑄模,然後加熱將蠟熔化掉,而留下與蠟模型完全相同的模穴 以供澆鑄。"
+        },
+        {
+          "type": "heading",
+          "text": "連續鑄造法 P107"
+        },
+        {
+          "type": "paragraph",
+          "text": "將熔融的金屬液,連續注入具有水冷式的鑄模內,使其迅速凝固,再從鑄模的另一方向連續抽出鑄 件的一種特殊鑄造法。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "114"
+        },
+        {
+          "type": "heading",
+          "text": "3-7 金屬熔化及澆鑄"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬之熔煉操作直接關係到鑄件之品質,為鑄造作業中重要的一環。熔爐中除了加入 主要金屬之合金元素之外,還要加入助熔劑,以便凝聚雜質,方便除渣。 將金屬液注入模穴之操作稱為澆鑄。依鑄件材質、尺度、形狀及鑄造方式的不同,必 須有不同的澆鑄方法、澆鑄溫度及澆鑄速度。"
+        },
+        {
+          "type": "heading",
+          "text": "3-7-1 熔鐵爐"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬的熔解爐有 坩堝爐 (Crucible Furnace)、 電弧爐 (Electric-arc Furnace)、 感應 電爐 (Induction Furnace) 及 熔鐵爐 (Cupola) 四種。 坩堝爐以石墨製成,為簡易古老的熔解爐,其熱源可為煤氣、重油、煤碳、焦碳或電 熱,主要用於鋁、鋅及銅等非鐵金屬的熔煉。 電弧爐的優點是熔解速率高、汙染比其他型態的熔爐少,並且有能力維持熔融金屬液 在高溫一段時間以便達成合金化的目的,所以廣泛地被使用在鑄造工廠。 感應爐具有容易操作、鑄件品質高及減少空氣污染等優點。對於小型的鑄造工廠及生 產控制成分的小型熔爐特別有用。 熔鐵爐的構造簡單、維護容易,且具有較高的熔解速率可連續生產大量的熔融金屬, 廣用於灰鑄鐵及展性鑄鐵的熔煉,是一種最經濟的熔煉爐。但是汙染較大,已逐漸被電弧 爐與感應爐取代。 本節僅深入探討冶煉鑄鐵用之熔鐵爐。"
+        },
+        {
+          "type": "heading",
+          "text": "一、熔鐵爐的構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "熔鐵爐是由爐體及鼓風機組成,圖 3-63 所示的是爐體的部分。 爐體由鐵板製之圓筒形爐殼構成,內部砌上耐火磚作為襯料,能承受高溫。爐底上方 有風口及風箱,可將鼓風機送來的空氣吹入爐內助燃。爐底門由兩個半圓形鐵板組成,可 在停爐時卸出爐內的材料。爐底下方的砂底具有斜度,以便金屬液流出。 出鐵口對面之爐 側應開設出渣口,以便出渣,其位置較出鐵口略高。 爐腹上方設有加料口及加料平台,以 便加料。爐頂的火花罩可以阻擋火花和煙塵,且可防止雨水落入爐中。 熔鐵爐的規格以其熔化速率 ( 每小時熔鐵的噸數 ) 來表示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造"
+        },
+        {
+          "type": "heading",
+          "text": "115"
+        },
+        {
+          "type": "heading",
+          "text": "火花罩"
+        },
+        {
+          "type": "heading",
+          "text": "加料門"
+        },
+        {
+          "type": "heading",
+          "text": "加料台"
+        },
+        {
+          "type": "heading",
+          "text": "焦炭料層"
+        },
+        {
+          "type": "heading",
+          "text": "金屬料層"
+        },
+        {
+          "type": "heading",
+          "text": "底焦"
+        },
+        {
+          "type": "heading",
+          "text": "風箱"
+        },
+        {
+          "type": "heading",
+          "text": "鼓風機送風囗"
+        },
+        {
+          "type": "heading",
+          "text": "出鐵囗"
+        },
+        {
+          "type": "heading",
+          "text": "出渣槽"
+        },
+        {
+          "type": "heading",
+          "text": "風囗"
+        },
+        {
+          "type": "heading",
+          "text": "出鐵槽"
+        },
+        {
+          "type": "heading",
+          "text": "砂底"
+        },
+        {
+          "type": "heading",
+          "text": "爐底門"
+        },
+        {
+          "type": "heading",
+          "text": "支柱"
+        },
+        {
+          "type": "heading",
+          "text": "熔鐵爐之構造"
+        },
+        {
+          "type": "heading",
+          "text": "A 3-63"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "116"
+        },
+        {
+          "type": "heading",
+          "text": "二、熔鐵爐的操作"
+        },
+        {
+          "type": "paragraph",
+          "text": "先在爐中加入焦炭,至適當的高度,稱之為底炭高度。此部分焦炭點燃後,上面 交替 分層加入鐵塊 ( 或廢鑄件 ) 及焦炭,其比例為 8 ~ 10: 1,即 1 份焦炭對 8 ∼ 10 份的鐵。 另外再加入適當數量的熔劑 ( 石灰石、螢石或蘇打 ),以方便除渣及防止鐵的氧化。鐵與熔"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "劑的比大約是 25 ∼ 50: 1。至於所需的鼓風量,大約是每燃燒 1kg 的炭,需要 7m 的空氣。"
+        },
+        {
+          "type": "heading",
+          "text": "三、鑄鐵中各元素的影響"
+        },
+        {
+          "type": "heading",
+          "text": "1. 碳 (C)"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄鐵中的碳以兩種狀態存在,一是化合碳,一是石墨。 化合碳含量多則質硬而 脆,例如白鑄鐵。石墨含量多則質軟易加工,且具有較好的吸震能力,例如灰鑄鐵。 鑄件冷卻速度快時,碳呈化合狀態;冷速慢則呈游離的石墨狀。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 矽 (Si)"
+        },
+        {
+          "type": "paragraph",
+          "text": "矽可促進化合碳分解成石墨,使鑄鐵質地變軟而有韌性,同時可使金屬液之流 動性增加,有利成形, 是鑄鐵中相當重要的元素。矽的含量低於 3.25% 時,具有上 述之作用,是軟化劑;含矽量高於 3.25% 時,反而會使鑄鐵變硬,要特別注意。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 磷 (P)"
+        },
+        {
+          "type": "paragraph",
+          "text": "磷之含量在 0. 1 ~ 0. 6 % 之間,有助於鑄鐵的流動性。 鑄鐵中的磷,常以史帝 田鐵存在,它是一種熔點約 950 ∼ 980 °C的低熔點磷化鐵 - 碳化鐵 - 鐵的共晶組織。 磷化鐵如同碳化鐵般堅硬, 過多的磷含量由於史帝田鐵的形成,使鑄鐵之硬度及脆 性增加。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 硫 (S)"
+        },
+        {
+          "type": "paragraph",
+          "text": "硫是石墨化的抑制劑,亦即碳化鐵的穩定劑。一份硫可抵消十份矽的作用,因 此,其含量不宜超過 0.12%,以免鑄鐵變硬而影響加工性。 硫與鐵會結合成低熔點 的共晶硫化鐵,使鑄鐵變脆。硫的存在,也會降低鐵水的流動性。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 錳 (Mn)"
+        },
+        {
+          "type": "paragraph",
+          "text": "鐵水中之錳會與硫作用生成硫化錳,先行析出形成熔渣,因此, 錳可除硫,抵 消硫對矽的反作用。但是,如果錳為單獨的合金元素,將會抑制石墨的成長,同時 生成碳化錳,使鑄件變硬。因此,錳之含量不宜超過與硫作用之量。 通常鑄鐵含錳 量在 1% 以下,錳含量約等於硫含量的 3 倍再加 0.35%。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 117"
+        },
+        {
+          "type": "heading",
+          "text": "3-7-2 澆鑄"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件的澆鑄作業應注意澆鑄的溫度要適當、澆鑄的速度要適中,且依鑄件的特色選用 合適的澆鑄方法。"
+        },
+        {
+          "type": "heading",
+          "text": "一、澆鑄溫度"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬液進入鑄模前瞬間的溫度稱為澆鑄溫度。由於澆鑄過程中會有大量的熱量消失。 所以 澆鑄溫度應高於金屬熔點 10 ~ 20 % 左右,以保證金屬液在充滿模穴之前不凝固。而 熔解溫度 ( 金屬液在熔解爐內的溫度 ) 應高於澆鑄溫度 50 °C~ 100 °C左右,以便熔化完成 後作各種爐前的處理工作, 諸如測溫、除氣、除渣及接種等。"
+        },
+        {
+          "type": "heading",
+          "text": "澆鑄溫度太高或太低,將對鑄造結果產生不利的影響:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 澆鑄溫度太高時,金屬液內溶入的氣體量多,容易在鑄件內形成氣孔。且高溫拉長"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件的凝固時間,會形成縮孔。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 澆鑄溫度太低時,會形成滯流,金屬液無法注滿模穴。薄鑄件為避免滯流,應採用"
+        },
+        {
+          "type": "paragraph",
+          "text": "高溫澆鑄。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 與厚的工件比較,薄的工件應使用較高溫度來澆鑄,以免注不滿模穴就提早凝固。"
+        },
+        {
+          "type": "paragraph",
+          "text": "表 3-5 為不同金屬的澆鑄溫度與熔解溫度參考值。 ▼ 表 3-5 鑄造金屬的熔解溫度及澆鑄溫度參考值 材質種類 熔解溫度 ( °C ) 澆鑄溫度 ( °C )"
+        },
+        {
+          "type": "heading",
+          "text": "鋁合金 720 ~ 780 670 ~ 740"
+        },
+        {
+          "type": "paragraph",
+          "text": "青銅 1200 ~ 1250 1100 ~ 1150 黃銅 1050 ~ 1100 980 ~ 1030 鑄鐵 1350 ~ 1400 1300 ~ 1350 鑄鋼 1550 ~ 1600 1450 ~ 1500 金屬熔解溫度可用直接量測的浸入式熱電偶高溫計,或以金屬液顏色判定之光學高溫 計及量測輻射熱之紅外線測溫計來間接量測。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "118"
+        },
+        {
+          "type": "heading",
+          "text": "二、澆鑄速率"
+        },
+        {
+          "type": "paragraph",
+          "text": "澆鑄速率太快,砂模容易被沖潰,且捲進去的氣體不易排出會造成氣孔;若速率太慢, 會造成鐵水滯流而無法注滿模穴。 適宜的澆鑄速率由下列諸多因素來考量:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 鑄件重量"
+        },
+        {
+          "type": "paragraph",
+          "text": "若厚度及溫度等因素不變,則重量大者速率慢,以免沖潰砂模。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 鑄件厚度"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件斷面小者冷卻速率快。為免過早凝固造成鐵水滯流,速率宜快。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 澆鑄溫度"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬液之澆鑄溫度低時,為免滯流,速率應快。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 鑄件材質"
+        },
+        {
+          "type": "paragraph",
+          "text": "不同的金屬材料對於澆鑄速率具有重大的影響。例如鑄鐵對澆鑄速率較不敏感;鑄鋼 的凝固範圍較廣,宜快速澆鑄以免過早凝固;鋁合金與鎂合金宜慢速澆鑄,以免亂流、夾 渣及吸收氣體。"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 品質要求"
+        },
+        {
+          "type": "paragraph",
+          "text": "澆鑄速率快時,鑄件的溫度分佈均勻,品質亦均勻。"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 流路系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "排氣不易的鑄模,速率應慢,以防產生氣泡。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 119"
+        },
+        {
+          "type": "heading",
+          "text": "三、澆鑄方法"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 依澆桶構造及金屬液流出位置的不同區分"
+        },
+        {
+          "type": "heading",
+          "text": "1. 頂澆式"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3 - 64 (a) 所示,澆桶的上方邊緣具有傾斜的澆出槽,金屬液由此處傾出。 此法的優點是操作簡單,故一般澆鑄大都採用頂澆法。其缺點則是浮渣容易混入模 穴中。為避免鐵水氧化,可在液面加碳粉。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-64 澆鑄方法"
+        },
+        {
+          "type": "heading",
+          "text": "2. 底澆式"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3 - 64 (c) 所示,金屬液由澆桶底部的出鐵口流出,可避免熔渣混入模穴中。 此法大都用於中大型鋼鐵鑄件的澆鑄。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "120"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 以澆鑄動力來區分"
+        },
+        {
+          "type": "paragraph",
+          "text": "人力澆鑄法 小型鑄件用單人手提式,中型鑄件用雙人或多人合抬式作業。"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用吊車懸吊澆桶,再以人力輔助從事澆鑄工作,可大量節省人力,"
+        },
+        {
+          "type": "heading",
+          "text": "懸吊式澆鑄法"
+        },
+        {
+          "type": "paragraph",
+          "text": "適合大型鑄件或小型鑄件的大量生產。"
+        },
+        {
+          "type": "paragraph",
+          "text": "小型鑄件的大量生產,用機械人來從事澆鑄作業,可完全取代人工操"
+        },
+        {
+          "type": "heading",
+          "text": "機械人澆鑄法"
+        },
+        {
+          "type": "paragraph",
+          "text": "作,達到無人化的要求。"
+        },
+        {
+          "type": "heading",
+          "text": "四、澆鑄品的擺置"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑄件上品質要求高的加工部位或主要工件面,應位於澆鑄位置的下部或在垂直的側"
+        },
+        {
+          "type": "paragraph",
+          "text": "面位置,以避免出現氣孔、砂眼或縮孔等缺陷。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 為避免夾砂和夾渣等缺陷,鑄件的大平面應儘可能朝下,或採用傾斜澆鑄。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 容易造成縮孔的鑄件,應將厚的部分置於鑄模側面或分模面的上部,以便在鑄件的"
+        },
+        {
+          "type": "paragraph",
+          "text": "厚部位直接放置冒口,使其由下而上凝固,獲得最好的補縮作用。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 中空之鑄件應注意澆鑄時不要將砂心沖歪。"
+        },
+        {
+          "type": "heading",
+          "text": "五、澆鑄位置的選擇"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬液自模穴的頂部注入。澆鑄時容易產生沖砂和飛濺,但補縮效果"
+        },
+        {
+          "type": "heading",
+          "text": "頂澆式"
+        },
+        {
+          "type": "paragraph",
+          "text": "好,常用於簡單短小的鑄件。"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬液從模穴之底部注入。鑄液流動平穩,沖力小,但補縮作用差。"
+        },
+        {
+          "type": "heading",
+          "text": "底澆式"
+        },
+        {
+          "type": "paragraph",
+          "text": "不適用於澆鑄薄壁鑄件,通常用於易氧化的鑄件。"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄口位於模穴的腰部。兼具頂澆式和底澆式的優點,造模簡單,應用"
+        },
+        {
+          "type": "heading",
+          "text": "中間澆入式"
+        },
+        {
+          "type": "paragraph",
+          "text": "較廣。 模穴之上、下或上、中、下位置設有鑄口。形狀複雜的高大鑄件採用 階梯澆入式 這種分段澆鑄的方式,可使鑄液由下而上平穩地注滿模穴。由於高溫 鑄液集中在上部,補縮作用良好。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 121"
+        },
+        {
+          "type": "heading",
+          "text": "3-8 鑄件之清理與檢驗"
+        },
+        {
+          "type": "heading",
+          "text": "3-8-1 鑄件之清理"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件澆鑄完成,待凝固後將砂模打破,所取出的鑄件本體仍附有澆冒口系統,必須將 之切除。另外由於金屬液的溫度太高,往往會將模砂燒結黏著在鑄件表面。凡此種種,必 須選用適當的方法處理之,以便獲得理想的鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "一、流路系統的切除"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件的尺度如果不是很大,且材料性質較脆時,往往在振動篩上脫砂時即可使澆口系"
+        },
+        {
+          "type": "heading",
+          "text": "統振動脫離,否則可用下列方法切除:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 以手錘直接敲斷 ( 鑄口與冒口在接近模穴部分斷面較小,造成缺口效應,易從該處"
+        },
+        {
+          "type": "paragraph",
+          "text": "斷裂 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以平鏨鏨除。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 用手弓鋸鋸斷。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 用鋸床鋸除。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 用手提砂輪切除。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 用火炬切割燒斷。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "122"
+        },
+        {
+          "type": "heading",
+          "text": "二、鑄件表面的清理"
+        },
+        {
+          "type": "paragraph",
+          "text": "清除燒結黏著在鑄件表面的砂,有化學式及機械式兩種方法。化學法是用酸類溶液 ( 如 氫氟酸 ) 將矽砂溶解除去,此法成本太高較不實用。機械法較經濟實用,視鑄件特性,有"
+        },
+        {
+          "type": "heading",
+          "text": "下列數種方法可供選用:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 用鋼絲刷或鋼絲輪刷除。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 利用磨光劑磨光,如圖 3-65 所示,其作動方式有迴轉式及振動式兩種,而其磨光劑"
+        },
+        {
+          "type": "paragraph",
+          "text": "可用砂或鋼珠。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 迴轉式 (b) 迴轉式滾光機"
+        },
+        {
+          "type": "heading",
+          "text": "(c) 振動式 (d) 振動式滾光機"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 3-65 兩種滾光法 ( 取材自參考書目 (3))"
+        },
+        {
+          "type": "heading",
+          "text": "3. 噴光處理: 鑄鐵或鑄鋼可用鋼珠噴光,而非鐵金屬由於材質軟,宜用矽砂噴洗。 噴"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "光之砂粒係以壓力約 2 ∼ 5kg/cm 的壓縮空氣送出。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p064.jpg"
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 鑄造 123"
+        },
+        {
+          "type": "heading",
+          "text": "3-8-2 鑄件之檢驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄件在出廠前必須確實做好檢驗工作,以確保產品的品質。檢驗工作可分為冶金性能 檢驗、缺陷檢驗及機械性質檢驗等三類:冶金性能檢驗在於分析成分及組織;缺陷檢驗可 檢驗氣孔、縮孔、砂眼、裂縫、夾雜物⋯⋯等鑄疵;機械性質檢驗則用於檢驗鑄件的強度、 硬度、韌性⋯⋯等。圖 3-66 為其分類之簡表。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 3-66 鑄件檢驗法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch03/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "1. 熔融金屬的流動性"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 熔融金屬之特性"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 黏性:黏性增加時,流動性會降低。 2 表面張力:熔融金屬之表面張力與流動性成反比。 3 夾雜物:對流動性產生負面的影響。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 鑄造的參數"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 鑄模設計:鑄模之流路設計,諸如澆槽、澆口、鑄口及冒口之形狀、位置、 尺度,都會對流動性造成影響。 2 鑄模材質與其表面性質:金屬液之流動性與鑄模之導熱度及表面粗糙度 成反比。 3 過熱度:過熱度愈大,流動性愈高。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 可消散模型"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 定義:模型以聚苯乙烯 (PS) 製成,砂模造好後不需將模型取出。當熔融之金 屬注入的同時,模型瞬間氣化,留下空穴供金屬液成形。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 優點"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 可大量節省造模時間。 2 由於不需自砂模中取出模型,不必考慮拔模裕度與震動裕度。因為模穴 不致因敲擊模型而擴大,故可節省金屬材料。 3 鑄件表面的粗糙度不錯。 4 砂心部分在造模中可自然成形,不需準備砂心盒。 5 模型沒有複雜的構造,但是可以製造形狀複雜的鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 缺點"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 模型只用一次就消失無形。 2 模型的強度不高。 3 不能用機械造模。 4 砂模製妥後沒有機會檢查模穴是否良好。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 模型裕度"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 收縮裕度:鑄鐵 (1%)、鑄鋼 (2%)、黃銅 (1.5%)、鋁與鎂約為 (1.3%)。 (2) 拔模裕度:外型 (1 ° )、內型 (3 ° )。 (3) 加工裕度:一般鑄件約裕留 3 ∼ 5mm。"
+        },
+        {
+          "type": "heading",
+          "text": "124"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 變形裕度。 (5) 振動裕度:負值。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鑄模分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 呋 喃模:將洗淨不含黏土的矽砂,加上 呋 喃樹脂及加速硬化劑 ( 磷酸 ),混 合均勻後造成鑄模。 (2) CO 2 模:將洗淨不含黏土的矽砂,混合 3.5 ∼ 6% 的矽酸鈉 ( 俗稱水玻璃 ), 攪拌均勻後製成砂模。然後以 20psi 的壓力將 CO 2 氣吹入砂模中。 (3) 金屬模: 可重覆使用, 只限於低熔點金屬 (Pb、 Zn、 Sn、 Al、 Cu 及 Mg) 的鑄造。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 流路系統"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 澆口系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 澆池:位於豎澆道的上方,是最先承受金屬液的地方。其主要作用為: ❶ 容易澆鑄金屬液。 ❷ 隔離雜質。 ❸ 防止金屬液亂流,達到整流的效果。 2 豎澆道:位於澆池下方的垂直通道,位於模穴邊約 25mm 處。其主要功 用為輸送金屬液。豎澆道通常呈上大下小,錐角約 3 ° 的圓錐狀。 3 豎澆道底:位於豎澆道的底部。 4 橫流道:橫流道位於模穴四周,為連接豎澆道與進模口的橫向流道。 5 橫流道尾:橫流道尾是橫流道的延伸部分,可排除低溫的金屬液及浮渣, 以便讓高溫及質純的金屬液進入模穴。 6 進模口:在接近模穴的部位縮小,以便取出後能因缺口效應在該縮小處 敲斷澆口系統。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 冒口系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 冒口:位於鑄件最大截面處的正上方,主要作用為補縮,另外還有排氣、 除渣、排泄低溫金屬、檢視澆鑄情形及增加密度等功能。 2 溢放口:其功用是排泄氣體、以免排氣不良而阻礙金屬液的往前流動, 另外也可以排泄劣質的低溫金屬及熔渣。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 壓鑄法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 熱室法:熱室壓鑄法的金屬熔解爐裝置在壓鑄機的本體內,主要用於熔點特 別低的金屬材料,如 Pb、 Zn、 Sn 等。"
+        },
+        {
+          "type": "heading",
+          "text": "125"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 冷室法:熔解爐與壓鑄機分開,主要用於 Al、 Cu、 Mg 等熔點較 Pb、 Zn、 Sn 高的金屬。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 瀝鑄法:可以不用心型而鑄造出空心的鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 脫蠟法:以蠟做成模型,再包覆砂或石膏做成鑄模,然後加熱將蠟熔化掉,而留"
+        },
+        {
+          "type": "paragraph",
+          "text": "下與蠟模型完全相同的模穴以供澆鑄。設計蠟模型時不需考慮拔模裕度與震動裕 度。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 瓷殼模法:可鑄造高溫金屬,如噴射發動機的渦輪葉片。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 連續鑄造法:將熔融的金屬液,連續注入具有水冷式的鑄模內,使其迅速凝固,"
+        },
+        {
+          "type": "paragraph",
+          "text": "再從鑄模的另一方向連續抽出鑄件的一種特殊鑄造法。其鑄件通常均為斷面均一 的長條狀。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 壓鑄法之尺度精度與表面光度最好,脫蠟法之製品複雜度最高,連續鑄造法之效"
+        },
+        {
+          "type": "paragraph",
+          "text": "率最高。"
+        },
+        {
+          "type": "heading",
+          "text": "126"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-1 ( )1. 下列有關金屬流動性之敘述何項 不正確? (A) 黏性增加,流動性降低 (B) 表面張力大,流動性降低 (C) 過熱度大,流動性增加 (D) 金屬模 之導熱度高,流動性增加。 3-2 ( )2. 下列有關鑄造之敘述何者 不正確? (A) 一般鑄造成形是應用流體材 料能隨容器形狀成形的特性 (B) 鳩尾座之模型,通常製成鬆件模型 (C) 鑄造作業所使用之模型中,消散模型於澆鑄前不必自鑄模中取出, 其最常使用之材料為聚苯乙稀 (D) 消散模型不必考慮收縮裕度。 ( )3. 下列何項 不是 全模法之缺點? (A) 模型只能用一次 (B) 模型之強度低 (C) 不能用機械造模 (D) 不能製造形狀複雜之鑄件。 ( )4. 下列敘述何者與刮板模型 無關? (A) 對稱件 (B) 迴轉體 (C) 啞鈴 (D) 手工造模。 ( )5. 下列有關模型之敘述何者 不正確? (A) 鑄件之內、外轉角處宜製成圓 角 (B) 表示鑄件之加工部位,應於木模型上塗紅色 (C) 製造小型鑄件 之模型,為提高效率通常製成附澆口系模型 (D) 鑄鋼之收縮率為 1%。 ( )6. 下列敘述何者 不正確? (A) 內型之拔模裕度通常為 1 度 (B) 大鑄件之 加工裕度為 5mm (C) 搖動裕度為負值 (D)U 形鑄件容易變形,必須考 慮變形裕度。 ( )7. 與金屬模型相比,下列何者 不是 木模型之特色? (A) 容易變形 (B) 強 度低 (C) 容易破裂 (D) 價格高。 ( )8. 下列有關模型材料之敘述,何者 不正確? (A) 最常見之模型材料為金 屬 (B) 最常見之金屬模型為鋁 (C) 木模型之價格比金屬模型低 (D) 包模法常用蠟當作模型。 ( )9. 下列有關模型設計之敘述,何者 不正確? (A) 將所有內、外尖角改為 圓角 (B) 聚集的斷面數越多越好 (C) 避免突然的斷面變化 (D) 斷面 厚度宜均勻。 3-3 ( )10. 下列有關鑄模之敘述,何者 不正確? (A) 地坑造模法適用於超大型 鑄件 (B) 最常見之砂模為濕砂模 (C) 呋 喃模可加醋酸使其快速硬化 (D) 大型鑄鋼宜選用乾面模。"
+        },
+        {
+          "type": "heading",
+          "text": "127"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 70,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( )11. 下列有關 CO 2 模之敘述,何者 不正確? (A) 先通氣再造模 (B) 以矽酸 鈉為結合劑 (C) 加水玻璃約 3.5 ∼ 6% (D) 可鑄造表面光滑且形狀複 雜之機件。 3-4 ( )12. 下列有關鑄砂之敘述何者 不正確? (A) 表砂用細砂 (B) 分箱砂採用含 黏結劑之矽砂 (C) 砂心砂之耐熱度須高 (D) 裡砂用粗砂。 ( )13. 下列何者不是模砂必須具備之特性? (A) 崩散性 (B) 保溫性 (C) 複 用性 (D) 延展性。 ( )14. 下列有關鑄造之敘述何者 不正確? (A) 鑄造用之鑄砂,其主要原料為 碳化矽 (B) 鑄件在溫度最高處產生縮口之可能性最高 (C) 以傳統鑄造 法鑄造大型鑄件時可使用較粗顆粒之砂,以利排氣 (D) 中等硬度之砂 模硬度硬度值為 70 ∼ 80。 ( )15. 下 列 何 者 與 鑄 模 之 透 氣 性 無 關? (A) 澆 池 (B) 冒 口 (C) 溢 放 口 (D) 通氣孔。 ( )16. 有關鑄造使用之冒口 (Riser),下列何者 不是 其最主要的功用? (A) 有 助於排渣與排氣 (B) 加速鑄件之冷卻速度 (C) 可觀察鑄造模穴內之金 屬熔液是否灌滿 (D) 保持部分熔融金屬維持液態,以補充鑄件凝固收 縮所需金屬熔液。 ( )17. 砂心又稱為心型,下列有關其用途之敘述,何者正確? (A) 加重鑄 件壓力,使金屬組織緻密 (B) 補給收縮所需金屬液 (C) 使熔渣排除 (D) 形成鑄件的中空部分。 3-5 ( )18. 會使鑄模上緊下鬆之機械造模法是哪一種? (A) 振動造模法 (B) 擠壓 造模法 (C) 拋砂造模法 (D) 軟膜造模法。 3-6 ( )19. 下列敘述何者 不正確? (A) 磷可增加鐵水之流動性,但會增加鑄件脆 性 (B) 最常用之包模鑄造法是脫蠟法 (C) 精度最高之鑄造法是壓鑄法 (D) 鉛適用於冷室壓鑄法。 ( )20. 下列何者屬於金屬模鑄造法? (A) 壓鑄法 (B) 石膏模法 (C) 脫蠟法 (D) 抽拉鑄法。 ( )21. 下列敘述何者與重力壓鑄法 無關? (A) 重力澆鑄 (B) 模具可重複使用 (C) 適合鑄造薄件或形狀複雜之鑄件 (D) 鑄模為金屬或石墨。"
+        },
+        {
+          "type": "heading",
+          "text": "128"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 71,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( )22. 下列敘述何者與真離心鑄造法 無關? (A) 空心對稱之製品 (B) 容易產 生重力偏析 (C) 雜質集中在管壁內部 (D) 模具迴轉速度比半離心鑄造 法慢。 ( )23. 下 列 有 關 石 膏 模 包 模 鑄 造 法 之 敘 述, 何 項 不 正 確? (A) 絕 熱 性 高 (B) 透氣性好 (C) 主要用於鑄造低熔點的非鐵金屬 (D) 屬於連續鑄造 法。 ( )24. 有 關 低 壓 鑄 造 法 之 敘 述, 何 項 不 正 確? (A) 鑄 件 密 度 比 壓 鑄 件 高 (B) 雜質少 (C) 空氣加壓 (D) 廢料少。 ( )25. 下列敘述何者 不正確? (A) 瀝鑄法可不用砂心而鑄出空心鑄件 (B) 殼 模法之模型材料為砂+樹脂 (C) 熱室壓鑄法與冷室壓鑄法之主要區別 為熔化鍋所在之位置 (D) 電熔渣鑄造法可製造尺度與強度均大之鑄件。 ( )26. 下列有關鑄造作業之敘述,何者 不正確? (A) 空心薄壁之雕像應以瀝 鑄法鑄造 (B) 瀝鑄法適用於低熔點金屬 (C) 連續鑄造法之製品為斷面 均一的長條狀 (D) 連續鑄造法以空氣冷卻。 ( )27. 下列有關銅合金冷室壓鑄之敘述何者正確? (A) 壓鑄模之材質為青銅 (B) 所需壓力比熱室法低 (C) 鑄件可比熱室法大 (D) 澆鑄速度比熱室 法高。 3-7 ( )28. 下列敘述何者 不正確? (A) 矽可幫助析出石墨,並可增加鐵水流動 性 (B) 欲除去鐵水中之硫分,可加入矽 (C) 鐵水之澆鑄溫度比熔點高 10 ∼ 20% (D) 為避免鐵水氧化,可在液面加碳粉。 ( )29. 下列何種工作條件應降低澆鑄速度? (A) 鑄件厚度大 (B) 品質要求高 (C) 砂心形狀簡單,排氣容易 (D) 鐵水之流動性差。 3-8 ( )30. 下列何者 不是 鑄件常見之非破壞性檢驗法? (A) 疲勞試驗 (B) 放射線 檢驗法 (C) 超音波檢驗法 (D) 液體滲透檢驗法。"
+        },
+        {
+          "type": "heading",
+          "text": "129"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 72,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "二、填充題"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-1 1. 鑄件的微觀偏析可用 來改善,巨觀偏析可利用 來降低。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 熔融金屬之溫度與其熔點之差異度稱為。"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-2 3. 是決定鑄造成敗的第一步。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 消失性模型以 製成。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 蠟模型不必考慮 裕度與 裕度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-3 6. 呋 喃模是將洗淨不含黏土的矽砂, 加上 呋 喃樹脂, 再加入 當作速硬化劑。 3-4 7. 不同位置的模砂具有不同的特質,通常表砂比較,裡砂比較, 而分箱砂是不含 的純矽砂。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 鑄口接近模穴部分較,以便造成缺口效應。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 冒口通常設於最 截面處的正上方。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 澆口通常位於模穴邊 mm 處。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 的功用是形成鑄件中空部分。"
+        },
+        {
+          "type": "heading",
+          "text": "12. 砂模含水量 % 時透氣度最佳。"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-6 13. 壓鑄法通常只用於鑄造熔點較 的中小型鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "14. 金屬熔解爐裝置在壓鑄機的本體內的壓鑄法稱為 壓鑄法。"
+        },
+        {
+          "type": "heading",
+          "text": "15. 垂直式真離心鑄造法所鑄的鑄件下部較,形成 面。"
+        },
+        {
+          "type": "heading",
+          "text": "16. 包模鑄造法的模型材料有、、 PS 及 PE 等。"
+        },
+        {
+          "type": "heading",
+          "text": "17. 石膏模法由於模子具有多孔性,其鑄品不易產生。"
+        },
+        {
+          "type": "heading",
+          "text": "18. 連續鑄造是將金屬熔液 注入模中,模子需加以冷卻,靠近模子出口處"
+        },
+        {
+          "type": "paragraph",
+          "text": "之熔融金屬,然後於控制下徐徐拉出之鑄造方法。"
+        },
+        {
+          "type": "heading",
+          "text": "19. 殼模法的模型是以 材料製成。為利脫模,其上噴一層。"
+        },
+        {
+          "type": "heading",
+          "text": "20. 熱室壓鑄法的金屬液可用 或 壓入鑄模內。"
+        },
+        {
+          "type": "heading",
+          "text": "21. 低壓鑄造法為免金屬液氧化,壓縮空氣宜用。"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-7 22. 鑄造金屬的熔解溫度應高於澆鑄溫度約 ∼ °C,而澆鑄溫度應 高於金屬熔點約 ∼ %。"
+        },
+        {
+          "type": "heading",
+          "text": "23. 熔鐵爐的出渣口位置應較出鐵口。"
+        },
+        {
+          "type": "heading",
+          "text": "24. 鑄造作業之金屬熔解爐有、、 及 四種。"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-8 25. 鑄件的噴光處理,一般鑄鋼及鑄鐵用 噴光,而軟質的非鐵金屬件則用 噴光。"
+        },
+        {
+          "type": "heading",
+          "text": "130"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 73,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "三、問答題"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-1 1. 哪些參數會影響金屬液之流動性?請說明之。 3-2 2. 製作模型應考慮那五種模型裕度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 請說明鑄件的設計原則。"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-3 4. 寫出種常見鑄模,並簡述之。 3-4 5. 請畫出鑄模的流路系統,並標示各部位名稱。 3-6 6. 列表比較熱室壓鑄法與冷室壓鑄法的相異點。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 寫出脫蠟法的造模程序。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 何謂真空鑄造法?何謂真空消失模鑄造法?"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-7 9. 寫出六項影響澆鑄速率的參數。 3-8 10. 取出鑄件後,附著在本體的澆冒口系統如何清理?"
+        },
+        {
+          "type": "heading",
+          "text": "131"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 74,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "筆記頁"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

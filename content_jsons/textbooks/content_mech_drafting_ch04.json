@@ -1,0 +1,4729 @@
+{
+  "content_id": "CONTENT_MECH_DRAFTING_CH04",
+  "subject": "機械製圖",
+  "chapter": {
+    "code": "CH04",
+    "title": "CH4"
+  },
+  "title": "機械製圖 Chapter 4 應用幾何畫法",
+  "source_pdf": "機械製圖/CH4PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "應用幾何畫法"
+        },
+        {
+          "type": "heading",
+          "text": "本章學習內容"
+        },
+        {
+          "type": "heading",
+          "text": "4-1 等分線段、角與圓弧"
+        },
+        {
+          "type": "heading",
+          "text": "4-2 垂直線與平行線畫法"
+        },
+        {
+          "type": "heading",
+          "text": "4-3 多邊形與畫法"
+        },
+        {
+          "type": "heading",
+          "text": "4-4 相切與切線"
+        },
+        {
+          "type": "heading",
+          "text": "4-5 圖形放大、縮小與比例"
+        },
+        {
+          "type": "heading",
+          "text": "4-6 圓錐曲線與畫法"
+        },
+        {
+          "type": "heading",
+          "text": "4-7 幾何圖形之徒手畫法"
+        },
+        {
+          "type": "heading",
+          "text": "* 4-8 漸開線、擺線與螺旋曲線"
+        },
+        {
+          "type": "heading",
+          "text": "( 建議授課: 9 節 )"
+        },
+        {
+          "type": "heading",
+          "text": "( *表示增廣教學 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 99 2022/4/13 下午 04:30:13"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "學習表現"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體乃藉由幾何體與大小表達,故在繪圖時須藉熟練的幾何圖形畫法來構圖。在生 硬冰冷的機械領域中,將創意和美學融入幾何形體製品中,以提高產品附加價值,是今 設計者必修課題。只徒手使用鉛筆、紙和橡皮擦來繪製圖形謂之徒手畫,徒手畫草圖是 以目測物件尺度為主,所繪的圖不要失真太大即可。繪圖亦可使用任何製圖儀器作為繪 圖方式。本節在說明幾何圖形畫法與幾何圖形之徒手畫法,所以本章學習目標如下。"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能正確等分線段、角與圓弧"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 能正確繪製垂直線、平行線、各種多邊形與各種切線 ◎ 能正確放大、縮小及遷移圖形,並能正確使用圖形比例"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能正確繪製各種圓錐曲線"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 能熟練地徒手繪製幾何圖形,並能正確徒手畫立體圖 ◎ 能正確繪製漸開線、擺線與螺旋曲線 ( 增廣教學 ) ◎ 能引發學習者對製圖的學習興趣與動機,並能體會美感素養、創意概念與應用"
+        },
+        {
+          "type": "heading",
+          "text": "於日常產品或感知科技產品之設計"
+        },
+        {
+          "type": "heading",
+          "text": "4-1 等分線段、角與圓弧"
+        },
+        {
+          "type": "paragraph",
+          "text": "一些機件常須將線段、角或圓弧作等分,如圖 4-1(a)、 (c) 所示商標須作角度等分繪製圖形, 以進一步製成製品,而等分角可製以輔具尺為之,如圖 4-1(b) 所示。以下說明如何應用直尺 ( 或 三角板 ) 與圓規達成精確等分的操作方法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-1 等分角輔具尺與應用"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:紙模世界 - 徐啟文 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 100 2022/4/13 下午 04:30:14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 101"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-1 等分角輔具尺與應用(續)"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:亮新聞網、 Mobi 網 - 何渝婷 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、等分一線段或圓弧"
+        },
+        {
+          "type": "paragraph",
+          "text": "一線段或弧作垂直平分線時,是以端點為圓心, 取大於線段或弧之半為半徑作弧,連結此 兩點而得。繪製方法乃配合圓規使用,如圖 4-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-2 等分一線段"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 在已知一線段或弧之端點 A,且取大於 AB/2 長為半徑 R 畫一圓弧。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在另一端點 B,以同一半徑 R 畫一弧,兩圓弧可交於 C、 D 兩點。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連接 C、 D 兩點即可得平分中點。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 101 2022/4/13 下午 04:30:16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "102"
+        },
+        {
+          "type": "heading",
+          "text": "二、等分角度"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知一任意銳角作角度等分,如圖 4-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-3 等分角度"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知角度∠ ABC。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以頂角 B 為圓心,適當長為半徑作一弧與 BA、 BC 分別交於點 O、 P。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以大於 OP 弦長的一半為半徑 R,分別以 O 與 P 為圓心, R 為半徑各作一弧交於點 Q。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 連接 B 與 Q 兩點,即得∠ ABC 之平分線 BQ。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 102 2022/4/13 下午 04:30:17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 103"
+        },
+        {
+          "type": "heading",
+          "text": "三、等分一線段為多等分"
+        },
+        {
+          "type": "paragraph",
+          "text": "等分一線段為三等分,如圖 4-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-4 等分一線段為多等分"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知一段 AB,取任一端點 ( 如 A 點 ) 作任意角度之斜線 AC。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 用圓規在 AC 取出欲等分的等分數,例如三等分。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 將最後的等分點 3 與 B 端點連接 ( 可採用三角板與直尺配合 ),之後按住直尺,移動三角板"
+        },
+        {
+          "type": "paragraph",
+          "text": "畫 AB 上各等分點 1、 2 之平行線,即得 AB 上所需等分。 註 此法 常應用於等分螺紋、等分籬笆、等分樓梯等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 103 2022/4/13 下午 04:30:17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "104"
+        },
+        {
+          "type": "heading",
+          "text": "4-2 垂直線與平行線畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常生活中物品之設計或機件造型不乏常應用垂直或平行線條作為設計基礎,如圖 4-5 所示 為管路設置與 LG 商標設計,以下說明如何使用丁字尺與三角板配合、萬能製圖儀繪製。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-5 垂直線與平行線設計應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: ifuun 網 & depositphotos 網 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、畫已知線段的垂直線 (Perpendicular)"
+        },
+        {
+          "type": "heading",
+          "text": "方法一"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用丁字尺與三角板配合:如圖 4-6(a)、 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 移動三角板一直角邊與該已知線段 AB 重合,然後輕輕移動丁字尺 ( 直尺或三角板 ) 緊靠三"
+        },
+        {
+          "type": "paragraph",
+          "text": "角板斜邊後按住丁字尺。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 再移動三角板至所需位置,沿另一直角邊畫線,即求得垂直線 CD。"
+        },
+        {
+          "type": "paragraph",
+          "text": "註 使用另一塊三角板 30 ° × 60 ° 亦可作相同步驟 的操作得垂直線,如圖 4-6(c) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-6 丁字尺配合三角板畫已知線段的垂直線"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 104 2022/4/13 下午 04:30:18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 105"
+        },
+        {
+          "type": "heading",
+          "text": "方法二"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用萬能製圖儀:如圖 4-7 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-7 萬能製圖儀畫已知線段的垂直線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 轉動萬能製圖儀使水平尺與該已知線段 AB 重合,將萬能製圖儀角度固定。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 再移動萬能製圖儀使垂直尺至 P 點位置,沿垂直尺畫線,即求得垂直線。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 105 2022/4/13 下午 04:30:20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "106"
+        },
+        {
+          "type": "heading",
+          "text": "二、畫已知線段的平行線 (Parallel lines)"
+        },
+        {
+          "type": "paragraph",
+          "text": "畫一直線通過 P 點並與已知線段平行。"
+        },
+        {
+          "type": "heading",
+          "text": "方法一"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用丁字尺與三角板配合:如圖 4-8(a)、 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 移動三角板一邊與該已知線段 AB 重合,然後輕輕移動丁字尺 ( 直尺或三角板 ) 緊靠三角板"
+        },
+        {
+          "type": "paragraph",
+          "text": "一邊後按住丁字尺。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 滑動三角板至 P 點位置,即可作平行線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "註 使用另一塊三角板 30 ° × 60 ° 亦可作相同步驟 的操作得平行線,如圖 4-8(c) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-8 丁字尺配合三角板畫已知線段的平行線"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 106 2022/4/13 下午 04:30:21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 107"
+        },
+        {
+          "type": "heading",
+          "text": "方法二"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用萬能製圖儀:如圖 4-9 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-9 萬能製圖儀畫已知線段的平行線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 轉動萬能製圖儀使水平尺與該已知線段 AB 重合,將萬能製圖儀角度固定。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 再移動萬能製圖儀使水平尺至 P 點位置畫線,即可作平行線。"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "線條分類與應用"
+        },
+        {
+          "type": "heading",
+          "text": "從幾何學的觀點來看,「線」是「點」移動之後形成的"
+        },
+        {
+          "type": "paragraph",
+          "text": "軌跡。從造形表現觀點而言,線和點都具有寬度與厚度。從 形狀來說,線可區分為直線與曲線兩大類。從方向來說,線 又分成垂直線、水平線及斜線三種,常應用直線在設計上。"
+        },
+        {
+          "type": "heading",
+          "text": "直線條設計應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: medium 網 Seal Tseng&eminent 網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 107 2022/4/13 下午 04:30:21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "108"
+        },
+        {
+          "type": "heading",
+          "text": "4-3 多邊形與畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常生活中物品或機件常以多邊形作造型設計,如圖 4-10 所示為多邊形建築設計與機件繪 製,常見應用外切或內接方法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-10 多邊形設計應用"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: mydesy 網、巨匠電腦 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "多邊形係由三條以上直線所組成,如等邊且等角,能內接或外切於圓者,稱為 正多邊形。 正多邊形每個 頂點接於圓周上 時,稱為 內接正多邊形,如圖 4-11(a) 所示;正多邊形每個 邊切於 圓周上 一點時,稱為圓之 外切正多邊形,如圖 4-11(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-11 正多邊形"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 108 2022/4/13 下午 04:30:26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 109"
+        },
+        {
+          "type": "heading",
+          "text": "一、正多邊形的計算"
+        },
+        {
+          "type": "heading",
+          "text": "1. 正 n 邊形 內角和= (n - 2) × 180 °。例:正五邊形的內角和= (5 - 2) × 180 ° = 540 °。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 正 n 邊形 每一內角= (n - 2) × 180 ° /n。"
+        },
+        {
+          "type": "paragraph",
+          "text": "例:正五邊形的每一內角= (5 - 2) × 180 ° /5 = 108 °。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 正 n 邊形 外角和= 360 °。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 正 n 邊形 每一外角= 360 ° /n。例:正五邊形的每一外角= 360 ° /5 = 72 °。"
+        },
+        {
+          "type": "heading",
+          "text": "二、正多邊形的畫法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 三角形 (Triangle) 畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "三角形雖然是一種平面圖形,但是運用三角形設計仍可展現其立體之美,如圖 4-12 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-12 三角形設計應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: ucretsizvektor.wordpress、 1688 網、 directindustry、中國製造網、諾貝潤汽車、 mydesy 網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 109 2022/4/13 下午 04:30:27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "paragraph",
+          "text": "每一個三角形之內角和恆為 180 °,而且三角形 任兩邊之和必大於第三邊。在直角三角 形中, 30 ° 角對應邊: 60 ° 角對應邊: 90 ° 角對應邊= 1: 3: 2。作任意三角形繪圖方法如 圖 4-13(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-13(a) 已知三邊長作三角形畫法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知三邊 ( 兩邊和必大於第三邊 )AB、 AC、 BC。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 AB 之 A 為圓心,半徑 R1 = AC 作弧。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以 AB 之 B 為圓心,半徑 R2 = BC 作弧兩弧交於 C 點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 連接 AC、 BC 即得一三角形 ABC。"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "直角三角形"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一個角為直角的三角形稱之,直角相鄰的兩條邊稱為直角邊,直角所對的邊稱為斜邊。直角三角形 的外心是斜邊中點,其垂心是直角頂點。直角三角形須滿足畢氏定理,即兩直角邊邊長的平方和等於斜邊 長的平方。將邊長比例設為 3: 4: 5 的直角三角形稱為埃及三角形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 110 2022/4/13 下午 04:30:27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 111"
+        },
+        {
+          "type": "heading",
+          "text": "2. 正三角形畫法 ( 已知一邊 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製方法乃利用 30 ° × 60 ° 三角板,如圖 4-13(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-13(b) 利用三角板畫正三角形"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知正三角形邊長 AB。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 將丁字尺的尺身工作邊 ( 或直尺 ) 對齊 AB,配合 30 ° × 60 ° 三角板,使斜邊過 A 點畫一 60 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "斜線。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 翻轉三角板,在 B 點作一 60 ° 斜線,可交於點 C。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 連接 AC、 BC 即得正三角形 ABC。"
+        },
+        {
+          "type": "heading",
+          "text": "註 萬能製圖儀繪正三角形:"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-13 所示可利用萬能製圖儀直接調整角度繪製,不須另外搭配三角板。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 111 2022/4/13 下午 04:30:28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "112"
+        },
+        {
+          "type": "heading",
+          "text": "3. 正方形 (Square) 畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "正方形在設計上應用廣泛,妥善運用有神奇之效,如圖 4-14 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-14 正方形設計應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: dreamstime 網、鼎典工業公司、 wd98 網、圖片家網 )"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "正方形"
+        },
+        {
+          "type": "paragraph",
+          "text": "在平面幾何學中,正方形是四邊相等且四個角是直角的四邊形。具有下列性質: (1) 所有對邊平行; (2) 所有內角為直角 (90 ° ); (3) 對角線相等且互相垂直平分; (4) 一組對角線平分一組對角; (5) 正方形是 圓內接四邊形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 112 2022/4/13 下午 04:30:29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 113"
+        },
+        {
+          "type": "paragraph",
+          "text": "正方形畫法可利用已知邊長,藉三角板或圓規繪之,說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "方法一"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知邊長 AB,利用 45 ° × 45 ° 三角板:如圖 4-15 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-15 利用三角板畫正方形"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 將丁字尺的尺身工作邊 ( 或直尺 ) 對齊 AB,配合 45 ° × 45 ° 三角板,使斜邊分別在 A、 B 兩"
+        },
+        {
+          "type": "paragraph",
+          "text": "端點畫 45 ° 斜線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在 AB 上兩端點 A、 B 各作一垂直線,分別交 45 ° 斜線於 C、 D 兩點。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連接 AC、 BD 與 CD,即得正方形 ABCD。"
+        },
+        {
+          "type": "heading",
+          "text": "註 萬能製圖儀更方便繪製正方形:"
+        },
+        {
+          "type": "paragraph",
+          "text": "將製圖儀垂尺 ( 或水平尺 ) 分別置於在 A、 B 兩端點畫 45 ° 斜線。然後在 AB 上兩端點 A、 B 各作 一垂直線,分別交 45 ° 斜線於兩點;最後依序連接各點,即得正方形。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 113 2022/4/13 下午 04:30:29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "114"
+        },
+        {
+          "type": "heading",
+          "text": "方法二"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知邊長利用圓規法:如圖 4-16 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-16 利用圓規畫正方形"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知邊長 AB。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在 A 端點引一垂直線。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以 A 端點為圓心, AB 長為半徑 R 作弧,交垂直線於 C 點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 各以 B 端點與 C 點為圓心, AB 長為半徑 R 作弧,兩弧相交於點 D。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 連接各點,即得正方形 ABCD。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 114 2022/4/13 下午 04:30:30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 115"
+        },
+        {
+          "type": "heading",
+          "text": "4. 正五邊形 (Pentagon) 畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常產品常見以五邊形設計,如圖 4-17 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-17 正五邊形設計應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: bridgesmathart、 i3done、 pinkoi 網、 DIYer 喬治 W 哈特、香港 01 藝文創意網、 foxriversystems 網、 lusile17 部落格 )"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "正五邊形"
+        },
+        {
+          "type": "paragraph",
+          "text": "正五邊形是指五個邊等長且五個角等角的五邊形,其內角為 108 °, 內角和為 540 °,是一種正多邊形。正五邊形的每一外角為 72 °,中心角 亦為 72 °,其具有五個對稱軸,其旋轉對稱性有 5 個階( 72 °、 144 °、 216 °、 288 ° 和 360 ° )。"
+        },
+        {
+          "type": "heading",
+          "text": "正五邊形"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 115 2022/4/13 下午 04:30:31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "116"
+        },
+        {
+          "type": "heading",
+          "text": "正五邊形繪製方法如下:"
+        },
+        {
+          "type": "heading",
+          "text": "方法一"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知外接圓:如圖 4-18 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-18 已知外接圓之正五邊形畫法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知正五邊形外接圓,圓心 O,作圓半徑長 OZ 之中垂線交於點 A。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 A 點為圓心, AB 為半徑 R1 作弧交中心線上 C 點。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以 B 點為圓心, BC 為半徑 R2 作弧交外接圓上 D、 E 兩點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 分別點 D、 E 為圓心, BE = BD 為半徑 R3 分別作弧交於外接圓上 F、 G 兩點。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 連接 B、 D、 F、 G、 E 即得。"
+        },
+        {
+          "type": "paragraph",
+          "text": "註 應用如立體圖示之五角徽章。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 116 2022/4/13 下午 04:30:31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 117"
+        },
+        {
+          "type": "heading",
+          "text": "方法二"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知一邊長:如圖 4-19 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-19 已知一邊長畫正五邊形"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知正五邊形一線段邊長 AB。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 作 AB 之垂直平分線交於 C 點,並過點 B 作一垂線。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以 B 點為圓心, AB 長為半徑 R 作弧交垂線於 D 點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以 C 點為圓心, CD 長為半徑 R 作弧交 AB 延伸線於點 E。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 以 A 點為圓心, AE 長為半徑 R 作弧交弧於點 F,交 AB 垂直平分線上於 G 點。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 各以 A、 G 為圓心, GF 長為半徑 R 作弧,兩弧交於 H 點。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 連接點 F、 G、 H、 A、 B,即得正五邊形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 117 2022/4/13 下午 04:30:32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "118"
+        },
+        {
+          "type": "heading",
+          "text": "5. 正六邊形 (Hexagon) 畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "海龜的龜殼圖形類似六邊形,一些設計據此作設計發想充滿美感,如圖 4-20 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-20 正六邊形設計應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:麥氏罐業、 mss.lt 網、吉飛家居、 tuvie 網、流媒體網 ) 畫正六邊形時若以圓畫 內接正六邊形 時,可直接用 圓的半徑 來作圖,故 半徑等於邊長。"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "正六邊形"
+        },
+        {
+          "type": "paragraph",
+          "text": "是指每條邊等長、每個角相等的六邊形,亦由 6 個等邊三角形組成,每個內角都是 120 度,其內角和 為 720 度。每一邊的長度與其外接圓半徑相等,最長的對角線是兩側頂點的對角線,其長度恰好為邊長的 兩倍。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 118 2022/4/13 下午 04:30:33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 119"
+        },
+        {
+          "type": "heading",
+          "text": "方法一"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知對角距離或外接圓:如圖 4-21 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-21 已知對角距離或外接圓畫正六邊形"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知對角距離 AB 或外接圓,圓心為 O。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 A 點為圓心, OA 長為半徑 R,作弧交圓上點 C 與點 E。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以同一半徑 R 在點 B 為圓心作弧交圓上點 D 與點 F。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 連接各點 A、 C、 D、 B、 F、 E,即得內接正六邊形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 119 2022/4/13 下午 04:30:33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "120"
+        },
+        {
+          "type": "heading",
+          "text": "方法二"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知對邊距離或內切圓:如圖 4-22 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-22 繪製外切正六邊形"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知對邊距離 AB 或內切圓,圓心 O,過圓心作兩條 60 ° 細斜線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 利用丁字尺 ( 或直尺 ) 在 A、 B 點上各作水平線,為 CD、 EF。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 用 30 ° × 60 ° 三角板配合丁字尺 ( 或直尺 ),作圓之 60 ° 切線與兩水平線及圓之中心線交於 C、"
+        },
+        {
+          "type": "paragraph",
+          "text": "D、 E、 F、 G、 H 點,並連接各點即可得外切正六邊形。 註 1. 如立體圖示,常用於畫六角形螺栓頭或螺帽。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 若是使用 30 ° × 60 ° 三角板,作圓之 30 ° 切線與兩垂直線及圓之中心線交於 C、 D、 E、 F、 G、"
+        },
+        {
+          "type": "paragraph",
+          "text": "H 點,連接各點可得對邊距離為 HF 之另一正六邊形,如圖 4-22(b) 所示。。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 若是工作環境有萬能製圖儀繪製外切正六邊形時,旋轉水平尺過圓心作兩條 60 ° 細斜線。然"
+        },
+        {
+          "type": "paragraph",
+          "text": "後在 A、 B 點上各作水平線,為 CD、 EF。旋轉角度盤使直尺作圓之 60 ° 切線與兩水平線及 圓之中心線交於 C、 D、 E、 F、 G、 H 點,並連接各點即可得 外切正六邊形,如圖 4-23 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-23 使用萬能製圖儀繪製外切正六邊形"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 120 2022/4/13 下午 04:30:34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 121"
+        },
+        {
+          "type": "heading",
+          "text": "6. 正七邊形 (Heptagon) 畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "七邊雖為奇數形狀,但在設計上亦受應用,如圖 4-24 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-24 七邊形設計應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: kknews 網、 dreamstime 網、微文庫網 ) 繪製正七邊形常以圓規為之,如圖 4-25 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-25 正七邊形畫法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知一邊長 AB。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 AB 為半徑,圓心為 A 作一半圓,並在半圓弧上等分為七等分,得點 1 ∼ 7。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 作過 A1、 A2、 A3、 A4 之延長線,再各以 B 點,點 5(G 點 ) 為圓心, AB 為半徑作弧,分別"
+        },
+        {
+          "type": "paragraph",
+          "text": "與 A1、 A4 延長線交於點 C 及點 F;再以相同之半徑 R,分別以 C 及 F 為圓心作弧交 A2、 A3 延長線於 D、 E 兩點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 連接 A ∼ G 各點即得。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 121 2022/4/13 下午 04:30:35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "122"
+        },
+        {
+          "type": "heading",
+          "text": "4-4 相切與切線"
+        },
+        {
+          "type": "paragraph",
+          "text": "在圓周上一點僅能作一條切線,此點稱為 切點, 切點與圓心之連線必垂直於該切線。圓外 一點可作兩條切線,並分別切於該圓兩側。一直線與圓周相切於一點時,此點與圓心之連線與 該直線之夾角為 90 °。其中,一圓 ( 圓心角 = 360 ° ) 之圓周角為 180 °,半圓 ( 圓心角 = 180 ° ) 之圓 周角為 90 °,如表 4-1 所示, 圓周角等於所對弧圓心角的一半。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-1 圓心角與圓周角"
+        },
+        {
+          "type": "heading",
+          "text": "弧的大小 圓心角 圓周角"
+        },
+        {
+          "type": "heading",
+          "text": "半圓"
+        },
+        {
+          "type": "heading",
+          "text": "圓周角 = 圓心角 /2"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件或產品造型常運用圓弧,如圖 4-26 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-26 圓弧造型產品"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: xiawu 網虎立公司、 ekupi 網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 122 2022/4/13 下午 04:30:37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 123"
+        },
+        {
+          "type": "heading",
+          "text": "一、作圓的切線 (Tangent line)"
+        },
+        {
+          "type": "paragraph",
+          "text": "過圓上一點作圓的切線。"
+        },
+        {
+          "type": "heading",
+          "text": "方法一"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用丁字尺與三角板配合:如圖 4-27 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-27 使用丁字尺與三角板配合繪製過圓上一點作圓的切線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知圓上一點 A,移動三角板與丁字尺 ( 或直尺 ),使三角板一側位於點 A 與圓心 O 處。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在點 A 上劃一短細實線,表示切點位置。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 平行移動三角板,使三角板另一側位於點 A,畫切線 AE 即可得。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 123 2022/4/13 下午 04:30:37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "124"
+        },
+        {
+          "type": "heading",
+          "text": "方法二"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用萬能製圖儀:繪製過圓一點的切線,如圖 4-28 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-28 使用萬能製圖儀繪製過圓上一點的切線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 移動水平尺將圓心至圓上一點 A 連線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 對準圓心至圓上一點 A 畫細切線。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 旋轉製圖儀之垂直尺位於 A 點,然後作圓的切線。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 完成過圓上一點作圓的切線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 124 2022/4/13 下午 04:30:38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 125"
+        },
+        {
+          "type": "heading",
+          "text": "二、繪兩圓之公切線"
+        },
+        {
+          "type": "paragraph",
+          "text": "當兩圓相離時,其內、外公切線各有兩條,如圖 4-29 與 4-30 所示;當兩圓相切時,內公切 線僅有一條且必通過在兩圓連心線上的公切點。分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 繪兩圓之外公切線:如圖 4-29 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-29 繪兩圓之外公切線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 置三角板一側外切於兩已知圓 O、 P。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 配合直尺或三角板,使三角板的直角邊通過圓心 O、 P 分別在 A、 B 兩點上作短細線,表示"
+        },
+        {
+          "type": "paragraph",
+          "text": "切點位置。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 滑動三角板以粗實線連接 AB。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 同理步驟 1 ∼ 3,可以連接 CD,即為兩條外公切線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 125 2022/4/13 下午 04:30:38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "126"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪兩圓之內公切線: 如圖 4-30 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-30 繪兩圓之內公切線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 置三角板一腰,並內切於已知圓 O、 P 於 A、 B 兩點。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 配合丁字尺 ( 直尺 ) 或三角板,使三角板的直角邊通過圓心 O 與 P,分別在 A、 B 兩點上作"
+        },
+        {
+          "type": "paragraph",
+          "text": "短細線,表示切點位置。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 滑動三角板,以粗實線連接 AB。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 同理步驟 1 ∼ 3,可得 C、 D 兩點,並連接 CD,即為兩條內公切線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 126 2022/4/13 下午 04:30:38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 127"
+        },
+        {
+          "type": "heading",
+          "text": "三、繪圓弧與直線或圓弧相切"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常生活中圓弧與直線,或圓弧相切之造型設計非常廣泛,如圖 4-31 所示。繪圓弧與直線 或圓弧相切時的要領,若遇 兩圓外切, 則其連心線等於兩半徑之和;若遇 兩圓內切時, 則其連 心線長等於兩半徑之差。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-31 圓弧相切造型設計"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: 8891 新車網、明日誌網、 aNueNue 網、今周刊網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 127 2022/4/13 下午 04:30:39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "128"
+        },
+        {
+          "type": "heading",
+          "text": "1. 作一弧切於兩相交線:作一弧切於成鈍角之兩直線,如圖 4-32(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-32 作一弧切於兩交線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知成鈍角之兩直線及半徑 R = DE。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 R = DE 為半徑,分別在兩直線之任一點為圓心,各作一弧。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 分別各在弧上作切線 L1、 L2 平行 AC、 AB 兩條直線,可相交於 O 點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 過 O 點作 AC、 AB 之垂線,分別交於 F、 G 切點。以 O 為圓心,相同之半徑 R = DE 作弧切"
+        },
+        {
+          "type": "paragraph",
+          "text": "於 F、 G 兩點即得。 註 作一弧切於成銳角之兩直線方法亦同,如圖 4-32(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-32 作一弧切於兩交線(續)"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 128 2022/4/13 下午 04:30:39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 129"
+        },
+        {
+          "type": "heading",
+          "text": "2. 作弧切於一直線 ( 過點作弧切於直線 ):如圖 4-33 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-33 過點作弧切於直線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知直線 AB,半徑長 R = CD 與點 O。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 AB 上任一點為圓心作一弧,且半徑為 R = CD,在弧上作一切線 L 平行於 AB。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以 O 為圓心,半徑 R = CD 作弧與 L 相交於 P 點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 過 P 點作垂線,在 AB 上得切點 E。以 P 為圓心,半徑 R = CD 作弧接於 O 與 E 即可。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 129 2022/4/13 下午 04:30:40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "130"
+        },
+        {
+          "type": "heading",
+          "text": "3. 作一圓弧外切於一圓弧與切於一直線:如圖 4-34 所示,兩圓外切之 連心線長等於兩半徑和。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-34 作一圓弧外切於一圓弧與切於一直線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知一直線 AB,半徑為 R2 之圓弧及欲作弧之半徑長 R1。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 作 R1 距離與 AB 平行之線 L,並以 O 為圓心,半徑 R = R1 + R2 作弧與 L 線交於 P 點。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連接 O、 P 得切點 C,作 P 點垂線與 AB 交於切點 D。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以 P 為圓心, R1 為半徑作弧連接 C、 D 兩切點即得。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 130 2022/4/13 下午 04:30:40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 131"
+        },
+        {
+          "type": "heading",
+          "text": "4. 作一圓弧內切於一圓弧和一直線:如圖 4-35 所示,兩圓內切之 連心線長等於兩半徑之差。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-35 作一圓弧內切於一圓弧與一直線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知一直線 AB,半徑為 R2 之圓弧及欲作弧之半徑長 R1。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 作 R1 距離與 AB 平行之線 L,並以 O 為圓心,半徑 R = R2 - R1 作弧與 L 線交於 P 點。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連接 O、 P 之延長線得切點 C,作 P 點垂線與 AB 交於切點 D。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以 P 為圓心, R1 為半徑作弧連接 C、 D 兩點即得。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 131 2022/4/13 下午 04:30:40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "132"
+        },
+        {
+          "type": "heading",
+          "text": "5. 作一圓弧外切於兩圓弧:如圖 4-36 所示,兩圓外切之 連心線長等於兩半徑之和。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-36 作一圓弧外切於兩圓弧"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知兩圓弧,圓心分別為 O、 P,半徑分別為 R1、 R2,欲作外切圓弧半徑為 R3。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 O、 P 為圓心,半徑 R 分別為 R1 + R3、 R2 + R3,作弧交於點 Q。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連接 O、 Q 得切點 A,連接 P、 Q 得切點 B。以 Q 為圓心,半徑 R3 作弧連接 A、 B 兩點即得。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 132 2022/4/13 下午 04:30:40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 133"
+        },
+        {
+          "type": "heading",
+          "text": "6. 作一圓弧內切於兩圓弧:如圖 4-37 所示,包圍或兩圓內切之 連心線長等於兩半徑之差。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-37 作一弧包圍且切於兩圓弧"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知兩圓弧之圓心及半徑分別為 O、 R1 及 P、 R2,與欲作弧之半徑長 R3。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 O、 P 為圓心,半徑分別為 R3 - R1, R3 - R2 各作弧相交於點 Q。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連接 O、 Q 與 P、 Q 之延伸線得切點 A、 B。以 Q 為圓心, R3 為半徑作弧連接 A、 B 兩點即得。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 133 2022/4/13 下午 04:30:41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "134"
+        },
+        {
+          "type": "heading",
+          "text": "7. 作一圓弧可內、外切於兩圓弧:如圖 4-38 所示,要點是兩圓外切是兩半徑之和,兩圓內切"
+        },
+        {
+          "type": "paragraph",
+          "text": "是兩半徑之差。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-38 作一圓弧可內外切於兩圓弧"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知兩圓弧之圓心及半徑分別為 O、 R1 及 P、 R2,與欲作弧之半徑長 R3。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 O、 P 為圓心,半徑分別為 R1 + R3、 R2 - R3 各作弧相交於點 Q。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連接 O、 Q 得切點 A,連接 P、 Q 之延伸線得切點 B。以 Q 為圓心, R3 為半徑作弧連接 A、"
+        },
+        {
+          "type": "paragraph",
+          "text": "B 兩點即得。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 134 2022/4/13 下午 04:30:42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 135"
+        },
+        {
+          "type": "heading",
+          "text": "8. 作一圓弧外切於一圓弧,並內切於另一弧:如圖 4-39 所示,要點是兩圓外切是兩半徑之和,"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩圓內切是兩半徑之差。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-39 作一圓弧切於兩圓弧並包圍其中一圓弧"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知兩圓弧之圓心及半徑分別為 O、 R1 及 P、 R2,與欲作弧之半徑長 R3。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 O、 P 為圓心,半徑分別為 R1 + R3( 外切 )、 R3 - R2( 內切 ) 各作弧相交於點 Q。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連接 O、 Q 得切點 A,連接 P、 Q 之延伸線得切點 B。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以 Q 為圓心, R3 為半徑作弧連接 A、 B 兩點即得。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 135 2022/4/13 下午 04:30:43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "136"
+        },
+        {
+          "type": "heading",
+          "text": "四、總結"
+        },
+        {
+          "type": "paragraph",
+          "text": "綜合本節所述,將切線與切弧整理如下。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 公切線:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當兩圓外切時,可得兩條外公切線與一條內公切線,如表 4-2(a)。 (2) 當兩圓內切時,可得一條外公切線,如表 4-2(b)。 (3) 當兩圓相離時,可得兩條外公切線與兩條內公切線,如表 4-2(c)。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-2 公切線"
+        },
+        {
+          "type": "heading",
+          "text": "兩圓狀態 圖例 公切線數"
+        },
+        {
+          "type": "heading",
+          "text": "兩條外公切線 ( 藍線 )"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 兩圓外切"
+        },
+        {
+          "type": "heading",
+          "text": "一條內公切線 ( 綠線 )"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 兩圓內切 一條外公切線 ( 綠線 )"
+        },
+        {
+          "type": "heading",
+          "text": "兩條外公切線 ( 藍線 )"
+        },
+        {
+          "type": "heading",
+          "text": "(c) 兩圓相離"
+        },
+        {
+          "type": "heading",
+          "text": "兩條內公切線 ( 綠線 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 136 2022/4/13 下午 04:30:44"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 137"
+        },
+        {
+          "type": "heading",
+          "text": "2. 公切弧:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當兩圓外切時,可得兩條外公切弧與兩條內公切弧,如表 4-3(a)。 (2) 當兩圓內切時,可得一條外公切弧與一條內公切弧,如表 4-3(b)。 (3) 當兩圓相離時,可得兩條外公切弧、兩條內公切弧與四條內外切弧,如表 4-3(c)、 4-3(d)。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-3 公切弧"
+        },
+        {
+          "type": "heading",
+          "text": "兩圓狀態 圖例 公切弧數"
+        },
+        {
+          "type": "heading",
+          "text": "兩條外公切弧 ( 藍線 )"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 兩圓外切"
+        },
+        {
+          "type": "heading",
+          "text": "兩條內公切弧 ( 綠線 )"
+        },
+        {
+          "type": "heading",
+          "text": "一條外公切弧 ( 藍線 )"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 兩圓內切"
+        },
+        {
+          "type": "heading",
+          "text": "一條內公切弧 ( 綠線 )"
+        },
+        {
+          "type": "heading",
+          "text": "兩條外公切弧 ( 藍線 )"
+        },
+        {
+          "type": "heading",
+          "text": "(c) 兩圓相離"
+        },
+        {
+          "type": "heading",
+          "text": "兩條內公切弧 ( 綠線 )"
+        },
+        {
+          "type": "heading",
+          "text": "四條內外切弧"
+        },
+        {
+          "type": "paragraph",
+          "text": "(d) 兩圓相離 圓 O 外切、圓 P 內切 ( 藍線 )"
+        },
+        {
+          "type": "heading",
+          "text": "圓 O 內切、圓 P 外切 ( 綠線 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 137 2022/4/13 下午 04:30:45"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "138"
+        },
+        {
+          "type": "heading",
+          "text": "4-5 圖形放大、縮小與比例"
+        },
+        {
+          "type": "heading",
+          "text": "一、比例的重要性"
+        },
+        {
+          "type": "paragraph",
+          "text": "比例是製圖時必備之一項基本知識,往往一張圖並不能以 1: 1 來繪製物體大小,如一架飛 機之外形圖,必須縮小至千分之一倍,即使是飛機的機翼亦需縮小百倍方能畫在一張 A3 大小的 圖紙上。又如手錶之零件,則需放大倍數方能清楚表達該機件之大小及形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "二、常用的比例"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此,在製圖時比例成了一項很重要的課題,如表 4-4 所示為常用之縮放比例,製圖時須依 照此表作適當之選擇,通常 以 2、 5、 10 倍數的比例最為常用。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-4 常用縮放比例"
+        },
+        {
+          "type": "heading",
+          "text": "實大比例 1: 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "1: 2 1: 2.5 1: 4 1: 5 1: 10"
+        },
+        {
+          "type": "heading",
+          "text": "縮小比例 1: 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "1: 20 1: 50 1: 100 1: 200 1: 500 放大比例 2: 1 5: 1 10: 1 20: 1 50: 1 100: 1"
+        },
+        {
+          "type": "heading",
+          "text": "三、比例的標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "一極小機件須使用倍尺而使用放大比例,以使圖面閱讀容易。而如圖 4-40 所示一架飛機若 欲繪製圖形,則須使用縮尺 ( 縮小比例 )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-40 縮尺 ( 縮小比例 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:談灣 wiki 圖、 jetstream 部落格 -Gordy Lin)"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 138 2022/4/13 下午 04:30:46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 139"
+        },
+        {
+          "type": "paragraph",
+          "text": "比例通常註明在標題欄內,並且同一張圖以同一種比例為原則。若有必要使用他種比例時, 則應在所屬視圖上方加註比例,並將其比例括弧填記於標題欄內,如圖 4-41 所示。但是無論以 何種比例繪製圖形,皆以實物的原尺寸作為標註尺度的基準。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-41 比例之標註"
+        },
+        {
+          "type": "heading",
+          "text": "四、比例的計算"
+        },
+        {
+          "type": "paragraph",
+          "text": "比例的計算主要有 縮尺 ( 縮小比例 ) 與 倍尺 ( 放大比例 ),分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 縮尺:如 1: 5,即實際長度為 5 mm 長時,以 1 mm 畫在圖上,但尺寸仍標註為 5 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 倍尺:如 5: 1,表示實際長度為 1 mm,以 5 mm 畫在圖面上,但尺寸仍標註 1 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "比例"
+        },
+        {
+          "type": "paragraph",
+          "text": "比例是指一個總體(或樣本)中各個部分的數據與全部數據之比。在數學中,比例是兩個非零數量 y 與 x 之間的比較關係,記為 y: x,在計算時則更常寫為 y / x。若存在一非零常數 k,則 y = k × x,稱變 量 y 與變量 x 成比例,也稱為成正比。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 139 2022/4/13 下午 04:30:46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "140"
+        },
+        {
+          "type": "heading",
+          "text": "五、放大與縮小"
+        },
+        {
+          "type": "paragraph",
+          "text": "常用之圖形放大與縮小方法有方格法與放射線法,說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 方格法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-42 方格法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 在原圖形上繪一大小適當的方格包含整個圖形。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 依照此方格作放大或縮小之格放。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 將原圖上各點描繪在新格放圖形方格上。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 最後連接各點即可完成放大或縮小圖形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 140 2022/4/13 下午 04:30:47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 141"
+        },
+        {
+          "type": "heading",
+          "text": "2. 放射線法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-43 放射線法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 對線型的幾何圖形作一矩形,連接對角線 KI 及延長之,並以 K 點為放射點將外框作適當的"
+        },
+        {
+          "type": "paragraph",
+          "text": "放大 ( 或縮小 ),如圖所示 KH ′ I ′ J ′。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 K 點為放射點,在線型幾何圖形上各點,分別求出相關位置點,將之投影至矩形 KH ′ I ′ J ′"
+        },
+        {
+          "type": "paragraph",
+          "text": "上。如連接 K1 之延伸線交 H ′ I ′ 於點 1 ′,連接 K2 之延伸線交 I ′ J ′ 於點 2 ′。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 在點 3 畫垂線交 HI 於點 a,連接 Ka 之延伸線交 H ′ I ′ 於點 a ′,然後作 a ′ 垂線可和 K3 之延"
+        },
+        {
+          "type": "paragraph",
+          "text": "伸線交於點 3 ′,此點 3 ′ 即為點 3 之放大位置點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 在點 4 畫垂線交 HI 於點 b,連接 Kb 之延伸線交 H ′ I ′ 於點 b ′,然後作 b ′ 垂線可交 KJ ′ 線"
+        },
+        {
+          "type": "paragraph",
+          "text": "於點 4 ′,此點 4 ′ 即為點 4 之放大位置點。點 6 位置方法如同上述。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 在點 5 畫水平線交 IJ 於點 c,連接 Kc 之延伸線交 I ′ J ′ 於點 c ′,然後作 c ′ 水平線可交 KH ′"
+        },
+        {
+          "type": "paragraph",
+          "text": "線於點 5 ′,此點 5 ′ 即為點 5 之放大位置點。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 最後連接所得相關位置點 1 ′、 3 ′、 2 ′、 4 ′、 6' 及 5 ′ 即得。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 141 2022/4/13 下午 04:30:47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "heading",
+          "text": "4-6 圓錐曲線與畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "幾何圖形包含了點、線、面、體之組合而成,線有直線、曲線;面有多邊形、圓形;體有 平面體、單曲面體、複曲面體、翹曲面體⋯⋯等,如圖 4-44 所示充滿了立體之美,本節之圓錐 是屬於單曲面體。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-44 物體形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:維基百科、 damanwoo 大人物、凱德科技 )"
+        },
+        {
+          "type": "heading",
+          "text": "以下介紹機械圖中常見的幾何形體:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 平面體:由平面所構成之多邊形體,包含角柱、角錐與正多面體。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 角柱:直立角柱之素線皆相互平行,且其素線垂直於底面;斜角柱之素線相互平行且傾 斜於底面,如表 4-5 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-5 角柱"
+        },
+        {
+          "type": "heading",
+          "text": "直立角柱 斜角柱"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 142 2022/4/13 下午 04:30:49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 143"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 角錐:直立角錐、斜角錐,錐之素線皆交於一點,直立錐之頂點位於底面中心之正上方, 斜錐之頂點非位於底面中心之正上方,如表 4-6 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-6 角錐"
+        },
+        {
+          "type": "heading",
+          "text": "直立角錐 斜角錐"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 正多面體:由正多邊形所組成之幾何形體,有正四面體、正六面體、正八面體、正十二 面體、正二十面體,如表 4-7 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-7 正多面體"
+        },
+        {
+          "type": "paragraph",
+          "text": "正 4 面體 正 6 面體 正 8 面體 正 12 面體 正 20 面體"
+        },
+        {
+          "type": "heading",
+          "text": "面結構 三邊形 四邊形 三邊形 五邊形 三邊形"
+        },
+        {
+          "type": "heading",
+          "text": "圖形"
+        },
+        {
+          "type": "paragraph",
+          "text": "邊數 4 × 3 ÷ 2 = 6 6 × 4 ÷ 2 = 12 8 × 3 ÷ 2 = 12 12 × 5 ÷ 2 = 30 20 × 3 ÷ 2 = 30"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 4-45 所示為正十二面體展開與組合立體實例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-45 正十二面體展開與組合立體實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 143 2022/4/13 下午 04:30:52"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "144"
+        },
+        {
+          "type": "heading",
+          "text": "2. 單曲面體:由直線或平面所構成之形體,如圓柱與圓錐⋯⋯等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 圓柱:有直立圓柱、斜圓柱,柱之素線皆相互平行;直立圓柱之軸線垂直於底面,斜圓 柱之軸線傾斜於底面,如表 4-8 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-8 圓柱"
+        },
+        {
+          "type": "heading",
+          "text": "直立圓柱 斜圓柱"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 圓錐:有直立圓錐、斜圓錐,錐之素線皆交於一點,直立圓錐之軸線垂直於底面,斜圓 錐之軸線傾斜於底面,如表 4-9 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-9 圓錐"
+        },
+        {
+          "type": "heading",
+          "text": "直立圓錐 斜圓錐"
+        },
+        {
+          "type": "heading",
+          "text": "3. 複曲面體:由曲線或曲面所構成之形體,如球、環⋯⋯等,如表 4-10 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-10 複曲面體"
+        },
+        {
+          "type": "heading",
+          "text": "球 環 橢圓球 雙曲面體 拋物體"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 144 2022/4/13 下午 04:30:54"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 145"
+        },
+        {
+          "type": "heading",
+          "text": "4. 翹曲面體:由直線沿著曲線軌跡移動所產生之曲面,如表 4-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-11 翹曲面體"
+        },
+        {
+          "type": "heading",
+          "text": "雙曲拋面體 螺旋體 圓柱面 雙曲面"
+        },
+        {
+          "type": "heading",
+          "text": "5. 圓錐曲線"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓錐若由一假想切面依各種角度切割,可得五種交線 ( 四種曲線與一種平面 ),四種平 面曲線:圓、橢圓、拋物線、雙曲線。如圖 4-46 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-46 圓錐曲線切割位置"
+        },
+        {
+          "type": "heading",
+          "text": "其定義名稱介紹,如下所述:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 正圓:若 切面垂直於軸者,所切得之平面曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 橢圓:若 切面與軸之夾角大於軸與素線之夾角,所切得之平面曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 拋物線:若 切面與軸所交之角等於素線與軸之夾角,所切得之平面曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 雙曲線:若 切面與軸所交之角小於素線與軸之夾角,所切得之平面曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 等腰三角形: 若切面經過圓錐頂點及底邊時,所切得並非曲線,而是等腰三角形。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-12 圓錐曲線"
+        },
+        {
+          "type": "heading",
+          "text": "交線名稱 夾角關係 立體圖例 正投影視圖"
+        },
+        {
+          "type": "heading",
+          "text": "正圓"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 145 2022/4/13 下午 04:30:56"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-12 圓錐曲線 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "交線名稱 夾角關係 立體圖例 正投影視圖"
+        },
+        {
+          "type": "heading",
+          "text": "橢圓"
+        },
+        {
+          "type": "heading",
+          "text": "拋物線"
+        },
+        {
+          "type": "heading",
+          "text": "雙曲線"
+        },
+        {
+          "type": "heading",
+          "text": "等腰"
+        },
+        {
+          "type": "heading",
+          "text": "三角形"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 146 2022/4/13 下午 04:30:58"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 147"
+        },
+        {
+          "type": "heading",
+          "text": "一、圓 (Circle)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "根據歐幾里得的《幾何原本》定義,圓是在同一平面內到定點的距離等於定長的點的集 合,圓的定義是平面內一動點到一定點的距離,等於一常數,則此動點的軌跡是圓,以圓規 儀器可輕易畫得圓。日常生活常以圓作為發想基礎設計物品,如圖 4-47 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-47 圓形設計"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:華代購網、和輪工業、 Kknews 網風帆訊息、 ebay 網、 NASA 視頻、站酷網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 147 2022/4/13 下午 04:30:58"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "heading",
+          "text": "2. 圓之畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 過不在同一直線上之三點畫一圓:如圖 4-48 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲圖 4-48 過不在同一直線上之三點畫一圓"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知三點 A、 B 及 C,首先連接 A-B 及 B-C 得二直線;"
+        },
+        {
+          "type": "heading",
+          "text": "2. 分別求作其垂直平分線 L1、 L2,且可相交於 O 點(即為所求圓之中心);"
+        },
+        {
+          "type": "heading",
+          "text": "3. 再以 O 點為中心, O-A 為半徑畫圓即得。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 已知圓弧求其圓心:如圖 4-49 所示有二種方法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲圖 4-49 已知圓弧求其圓心"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 如圖 4-49(a) 所示,首先在已知圓弧上任意定二點 A、 B,分別通過此兩點作切線,然後通過"
+        },
+        {
+          "type": "paragraph",
+          "text": "A 點切線上作垂線、 B 點切線上作垂線,兩垂線交點即得該圓弧之圓心 O。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 如圖 4-49(b) 所示,首先在已知圓弧上任意定三點 A、 B 及 C 並連接 A-B 及 B-C 兩線段,然"
+        },
+        {
+          "type": "paragraph",
+          "text": "後求兩線段之垂直平分線,並延長之得交點 O 即得該圓弧之圓心 O。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 148 2022/4/13 下午 04:30:59"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 149"
+        },
+        {
+          "type": "heading",
+          "text": "二、橢圓 (Ellipse)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "一動點與兩定點 ( 焦點 ) 間之距離和為一常數, 且恆等於長軸 AB, 則此動點 P 所運動 的軌跡稱為橢圓。如圖 4-50(a) 所示為利用長軸、短軸原理繪製橢圓之橢圓規;在設計上亦 常藉橢圓作為發想基礎,如圖 4-50(b)、 (c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-50 橢圓規與造型"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:楊仲準截圖、阿多尼斯國際公司、中機建重工公司、 ptr.chaoxing、酷酷藤網、昌匯封頭公司 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 149 2022/4/13 下午 04:31:02"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 4-51 所示,橢圓長軸 AB 的中垂線 CD 稱為短軸,短軸端點 D 至焦點 F 或 E 的距 離等於長軸 AB 長之半;以一繩繞於兩焦點,以筆 ( 動點 P) 旋繞可得一橢圓,故因而得之 PE + PF = AB。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-51 橢圓"
+        },
+        {
+          "type": "heading",
+          "text": "2. 切割平面曲線"
+        },
+        {
+          "type": "paragraph",
+          "text": "橢圓常見於直立圓錐與圓柱之切割,而得的平面曲線,如圖 4-52(a) 所示一切平面斜切 圓錐,若一切平面與軸之夾角大於軸與素線之夾角時,其剖切面可得橢圓。如圖 4-52(b) 所 示一切平面斜切一圓柱,其剖切面亦可得橢圓。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-52 切割平面曲線"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 150 2022/4/13 下午 04:31:03"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 151"
+        },
+        {
+          "type": "heading",
+          "text": "3. 畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "橢圓的畫法常用者有: (1) 四圓心近似法、 (2) 同心圓法、 (3) 矩形法、 (4) 平行四邊形法、 (5) 等角橢圓法。分述如下: (1) 四圓心近似法:為最常用之橢圓近似畫法,如圖 4-53 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-53 四圓心法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知長軸 AB、短軸 CD。取 AO = HO,連接 AC,以 C 為圓心, HC 為半徑作弧與 AC 相交"
+        },
+        {
+          "type": "paragraph",
+          "text": "得點 G。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 作 AG 垂直平分線 L,與 AB 交於 I,與 CD 之延伸線交於 K。取 OI = OJ、 OK = OM,則可得 I、"
+        },
+        {
+          "type": "paragraph",
+          "text": "J、 K、 M 四點。連接 KJ、 MI、 MJ 之延伸線。"
+        },
+        {
+          "type": "heading",
+          "text": "\u001f"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以 I、 J 為圓心, AI = JB 為半徑分別作弧 mn、 yz \u001e。以 K、 M 為圓心, KC = MD 為半徑分別"
+        },
+        {
+          "type": "paragraph",
+          "text": "作弧 my \u001f、 nz \u001e 即得。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 151 2022/4/13 下午 04:31:03"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 同心圓法:如圖 4-54 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-54 同心圓法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知長軸 AB、短軸 CD,交於點 O。以 O 為圓心作兩圓分別過點 A、 B、 C、 D,並將圓任"
+        },
+        {
+          "type": "paragraph",
+          "text": "意等分,如圖作 12 等分。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 過外圓交點作垂線,過內圓交點作水平線分別相交於點 1 ∼ 8。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以曲線板連接 A、 1、 2、 C、 3、 4、 B、 5、 6、 D、 7、 8、 A 各點,並注意曲線板使用要領。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 152 2022/4/13 下午 04:31:04"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 153"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 矩形法:如圖 4-55 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-55 矩形法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知長軸 AB、短軸 CD。作一矩形分別過 A、 B、 C、 D 四點,並在 AO 與 AE 上各分相同"
+        },
+        {
+          "type": "paragraph",
+          "text": "等分點 ( 等分數自定 ),如得 1、 2、 3 點及 a、 b、 c 點。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在矩形 AOCE 中,連接 C3、 C2、 C1 及連接 Da、 Db、 Dc 並作延伸可分別交於 P、 Q、 R 點,"
+        },
+        {
+          "type": "paragraph",
+          "text": "則連接 C、 R、 Q、 P、 A 點可得四分之一橢圓。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 同步驟 1、 2,作另外三部分矩形之橢圓點,並連接之即得全部橢圓。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 平行四邊形法:如圖 4-56 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-56 平行四邊形法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知共軛軸 AB、 CD,分別過 A、 B、 C、 D 四點作共軛軸的平行線,得一平行四邊形,並"
+        },
+        {
+          "type": "paragraph",
+          "text": "在 AE 與 AO 各分相同等分點 ( 等分數自定 ),如得點 1、 2、 3 及點 a、 b、 c。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在平行四邊形 AOCE 中,連接 C3、 C2、 C1,及連接 Da、 Db、 Dc 並作延伸可分別交於點 P、"
+        },
+        {
+          "type": "paragraph",
+          "text": "Q、 R,則連接 C、 R、 Q、 P、 A 點可得四分之一橢圓。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 同步驟 1、 2,作另外四分之三之橢圓點,並連接之即得橢圓。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 153 2022/4/13 下午 04:31:04"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "154"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 等角橢圓法:如圖 4-57 所示 ( 為近似法 )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-57 等角橢圓法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知一內角 60 ° 之菱形 ABCD。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 分別作 AB、 BC、 CD、 AD 之垂直平分線,交於點 e、 f。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以 e、 f 為圓心,半徑 ea = ed = fc = fb 作弧至切點 a、 b 與 c、 d;以 B 為圓心,至 d 點為半徑 ( 即"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bd 線長 ) 作弧至切點 c;以 D 為圓心,至 a 點為半徑 ( 即 Da 線長 ) 作弧至切點 b,即得完 整近似橢圓。"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "橢圓"
+        },
+        {
+          "type": "paragraph",
+          "text": "橢圓(用紅色繪製)可以表達為內旋輪線在 R = 2r 時的特殊情況,如圖所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 154 2022/4/13 下午 04:31:05"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 155"
+        },
+        {
+          "type": "heading",
+          "text": "二、拋物線"
+        },
+        {
+          "type": "heading",
+          "text": "1. 定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "設一動點 (P) 至一定點 ( 焦點 F) 之距離, 等於此動點至定直線 ( 準線 ) 之垂直距離,此 動點之軌跡謂之拋物線,拋物線為圓錐曲線或二次錐線的一種。拋物線應用實例如圖 4-58 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-58 拋物線原理與應用實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:生活百科、 jianzhubang 網、 directindustry 網、 ecvv 網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 155 2022/4/13 下午 04:31:07"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "heading",
+          "text": "2. 原理作法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-59 拋物線原理"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知準線 AB、焦點 F。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 取 CF 中動點 P,使 CP = PF。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 將繩子固定繫於 F 點,並配合丁字尺取一點 G 固定之。令筆尖端拉緊繩子於 P 點,使 P、 F、"
+        },
+        {
+          "type": "paragraph",
+          "text": "G 同一直線。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 將筆端頂緊繩子後,隨丁字尺上下移動時,筆所運行的軌跡即為拋物線。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 156 2022/4/13 下午 04:31:07"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p058.jpg"
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 157"
+        },
+        {
+          "type": "heading",
+          "text": "3. 畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 定義法: 已知拋物線之焦點 F 及準線 AB,如圖 4-60 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-60 定義法畫拋物線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 過焦點 F 畫準線 AB 之垂線 CE,交 AB 於 C 點;取 FC 之中點 P, P 點即為所求拋物線之頂點;"
+        },
+        {
+          "type": "paragraph",
+          "text": "在 CE 上取任一點 X,過 X 作 AB 之平行線 A ′B′。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以焦點 F 為圓心, CX 為半徑畫圓弧,交 A ′B′ 於 G、 H 點,此兩點即為拋物線上之點。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 依步驟 2,重複取得拋物線上其他各點,最後連接各點得圓滑曲線,即為拋物線。"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "拋物線圖形相關名稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 對稱軸:通過焦點 F 且與準線 AB 垂直之直線 L,又簡稱為軸。 (2) 頂點:拋物線與對稱軸的交點 V。 (3) 焦距:焦點 F 與頂點 V 的距離 VF。 (4) 弦:連接拋物線上任意兩點的線段,如 X、 P 線段。 (5) 焦弦:經過拋物線焦點的弦,如過焦點 F 的弦 PY 線段。 (6) 正焦弦:垂直於對稱軸的焦弦,如過焦點 F 的弦 HK 線段。 註: (1)V 為 CF 線段之中點,即 CV = VF。 (2) 正焦弦長 HK = 4 VF。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 157 2022/4/13 下午 04:31:07"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "158"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 包絡線法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-61 包絡線法求拋物線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知 AB ⊥ AC。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在 AB 作等分,如點 1、 2、 3、 4、 5;在 AC 作相同等分數得點 1 ′、 2 ′、 3 ′、 4 ′、 5 ′。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連接 11 ′、 22 ′、 33 ′、 44 ′、 55 ′ 得連接斜線。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 作與連接斜線相切之曲線,即得拋物線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 158 2022/4/13 下午 04:31:08"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 159"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 平行四邊形法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-62 平形四邊形法求拋物線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知平行四邊形 A、 B、 C、 D,其中 AC 為拋物線之寬、為 AB 拋物線之深。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 取 AC 中點 E,分別作 AB 與 CD 三等分;取 BD 中點 F,分別作 BF 與 DF 三等分,分別得點 1、"
+        },
+        {
+          "type": "paragraph",
+          "text": "2、 1 ′、 2 ′。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 過 1、 2 作與 AB 平行線,作 E 點連接 1 ′、 2 ′ 之線,可與前述之平行線分別得交點 h、 i、 j、"
+        },
+        {
+          "type": "paragraph",
+          "text": "k 四點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 連接 B、 h、 i、 E、 j、 k、 D 各點即得拋物線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 159 2022/4/13 下午 04:31:08"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 支距法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-63 支距法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知拋物線外圍的長方形 A、 B、 C、 D、升距 AD、跨距 AB。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 作 AB 線之垂直平分線,交 AB 線於 O 點。將 AO 分成 n 等分,再將 AD 分成 AO 等分數的"
+        },
+        {
+          "type": "paragraph",
+          "text": "平方倍。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 過 1、 4、 9、 16 等分點作 AD 垂直線,與過 AO 線上等分點所作水平線,分別與對應點交於 O、"
+        },
+        {
+          "type": "paragraph",
+          "text": "P、 Q、 R、 D 各點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 用曲線板連接諸點即得一拋物線。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 160 2022/4/13 下午 04:31:08"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 161"
+        },
+        {
+          "type": "heading",
+          "text": "三、雙曲線"
+        },
+        {
+          "type": "heading",
+          "text": "1. 定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "一動點與兩定點 ( 焦點 ) 距離之差,恆為一常數時,其軌跡謂之雙曲線。雙曲設計應用 圖例如圖 4-64 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-64 雙曲線原理與造型設計"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:買東西網、環球設計 1330 期、優力公司、普帝諾建材 )"
+        },
+        {
+          "type": "heading",
+          "text": "2. 原理作法"
+        },
+        {
+          "type": "paragraph",
+          "text": "雙曲線定點稱為焦點,連接兩定點之直線即為其軸線,切曲線於無窮遠之直線稱為漸近 線。繪製雙曲線有兩條漸近線,且皆在兩對漸近線頂角之內。雙曲線原理如圖 4-65 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-65 雙曲線原理"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知雙曲線頂點 A、 B 及焦點 C、 D。作一雙曲線規,使一端定於 C 點。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 取繩子一端繫於 D 點,另一端固定於雙曲線規上任一點 E。令筆心拉緊繩子定頂於 B 點,"
+        },
+        {
+          "type": "paragraph",
+          "text": "使 B、 D、 E 固定於成一直線上。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 將筆心拉緊繩子,隨雙曲線規擺動時,筆心處之動點 P 所繪出之軌跡線即為雙曲線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 161 2022/4/13 下午 04:31:10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p063.jpg"
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "3. 畫法"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 定義法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-66 定義法畫雙曲線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知頂點 A、 B 及焦點 C、 D。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 C、 D 為圓心,取 R 大於 CB 為半徑作弧,再以 R1 = R - AB 長為半徑作弧,則可得交"
+        },
+        {
+          "type": "paragraph",
+          "text": "點 X、 Y。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 依上述步驟 2 作弧即得點 X ′、 Y ′,依此步驟類推得各點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 連接各點即得雙曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 焦點法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-67 焦點法畫雙曲線"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 以 O 為圓心、 CO 為半徑長作圓,交過 A、 B 點的垂直線上四點 H、 J、 L、 K。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 連接 HK、 LJ 之延伸線,即為此雙曲線之漸近線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 162 2022/4/13 下午 04:31:10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p064.jpg"
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 163"
+        },
+        {
+          "type": "heading",
+          "text": "4-7 幾何圖形之徒手畫法"
+        },
+        {
+          "type": "heading",
+          "text": "一、線條之徒手畫法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 徒手繪直線的方法"
+        },
+        {
+          "type": "heading",
+          "text": "以手輕執鉛筆,勿離筆尖太近,以保持運"
+        },
+        {
+          "type": "heading",
+          "text": "筆自如為原則,而且目光需注視所繪線條之終"
+        },
+        {
+          "type": "paragraph",
+          "text": "點,如圖 4-68 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-68 徒手繪直線"
+        },
+        {
+          "type": "paragraph",
+          "text": "畫垂直線時, 由上往下畫; 畫水平線時, 由左往右畫,短線用腕之動作畫出,長線用前 臂動作,若線條太長則分成數小段來畫,再連接之。若是在兩點間畫直線, 目光應注視於該 線條的終點 而非注視於筆尖。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 徒手繪斜線的方法"
+        },
+        {
+          "type": "paragraph",
+          "text": "若角度較大,可由斜線上方向下方畫線;若角度較小,可由斜線左方向右方畫線;亦可 將紙旋轉,使斜線變成水平線或垂直線來畫,如圖 4-69 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-69 徒手繪斜線"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 163 2022/4/13 下午 04:31:11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "heading",
+          "text": "3. 徒手繪小圓的方法"
+        },
+        {
+          "type": "heading",
+          "text": "作法一"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-70 徒手繪小圓 ( 一 )"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先以圓之直徑為邊長畫一正方形,並定出各邊中點。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 再畫正方形對角線,並於對角線上定出圓半徑,共得八點。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 畫短圓弧。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 再連接短圓弧成為一圓。"
+        },
+        {
+          "type": "heading",
+          "text": "作法二"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-71 徒手繪小圓 ( 二 )"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先畫中心線及兩條 45 ° 斜線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 再定出半徑位置,畫短圓弧。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 再連接完成一圓。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 164 2022/4/13 下午 04:31:12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p066.jpg"
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 165"
+        },
+        {
+          "type": "heading",
+          "text": "4. 徒手繪大圓的方法"
+        },
+        {
+          "type": "heading",
+          "text": "作法一"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 4-72 所示,先畫中心線,用紙條取"
+        },
+        {
+          "type": "heading",
+          "text": "適當的長度為半徑,再以此紙條作為量規,"
+        },
+        {
+          "type": "heading",
+          "text": "一端置於圓心,另一端置以鉛筆,旋轉紙條,"
+        },
+        {
+          "type": "paragraph",
+          "text": "畫出許多短圓弧,再連接完成一圓。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-72 徒手繪大圓 ( 一 )"
+        },
+        {
+          "type": "heading",
+          "text": "作法二"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 4-73 所示,同時拿兩支鉛筆,一支"
+        },
+        {
+          "type": "heading",
+          "text": "為圓心,另一支取適當距離為半徑,旋轉圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "紙,而得一圓。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-73 徒手繪大圓 ( 二 )"
+        },
+        {
+          "type": "heading",
+          "text": "作法三"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 4-74 所示,以小指尖或無名指為圓心,手執鉛筆取適當距離為半徑,旋轉圖紙,而得 一圓。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-74 徒手繪大圓 ( 三 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 165 2022/4/13 下午 04:31:12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p067.jpg"
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "166"
+        },
+        {
+          "type": "heading",
+          "text": "5. 徒手繪橢圓的方法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-75 徒手繪橢圓"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先畫中心線,定出長短軸,而後描繪成矩形。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 過兩軸端點畫短圓弧。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 再連接完成一橢圓。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 徒手繪內切於菱形之橢圓的方法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-76 徒手繪等角圓"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先畫中心線,定出半徑,而後描繪成一菱形。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 過半徑端點畫短圓弧。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 再連接完成一內切於菱形之橢圓。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 166 2022/4/13 下午 04:31:13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p068.jpg"
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 167"
+        },
+        {
+          "type": "heading",
+          "text": "* 4-8 漸開線、擺線與螺旋曲線"
+        },
+        {
+          "type": "heading",
+          "text": "一、擺線"
+        },
+        {
+          "type": "heading",
+          "text": "1. 擺線:圓周上一定點,在一平面或圓弧上 滾動所形成之軌跡,如圖 4-77 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-77 擺線滾動軌跡與正擺線"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:參考自屏東高工張富清 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "擺線有三種類型,常用於擺線齒輪之齒型設計,分述如下: (1) 當滾圓在一 直線上 滾動時,該定點所滾動之軌跡,稱為 正擺線。 (2) 當滾圓於一 圓外 作滾動時,該定點所滾動之軌跡,稱為 外擺線。 (3) 當滾圓於一 圓內 作滾動時,該定點所滾動之軌跡,稱為 內擺線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 167 2022/4/13 下午 04:31:13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p069.jpg"
+    },
+    {
+      "page": 70,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "168"
+        },
+        {
+          "type": "heading",
+          "text": "2. 正擺線畫法:如圖 4-78 所示,為已知滾圓 O,畫其正擺線。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-78 正擺線畫法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 已知滾圓分成 12 等分。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 過 A 點作滾圓切線,並使 AB 長度等於滾圓之圓周長 ( = π D),將 AB 也分成相同等分,並"
+        },
+        {
+          "type": "paragraph",
+          "text": "過各點作 AB 之垂直線,交 OO ′ 線於 1 ′、 2 ′、 3 ′ ⋯⋯。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以 OO ′ 上之各等分點為圓心,滾圓半徑 OA 為半徑畫圓弧,與從滾圓上之各等分點所作 AB"
+        },
+        {
+          "type": "paragraph",
+          "text": "之平行線相交之點 1 ′、 2 ′、 3 ′ ⋯⋯即為正擺線之點。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 例如以 OO ′ 上 6 ′ 為圓心, OA 為半徑作圓弧,與過滾圓上 6 點作 AB 之平行線交於 6 ′′ 點,"
+        },
+        {
+          "type": "paragraph",
+          "text": "依此法可求得其他諸點。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 最後以曲線板連接各交點,可得一圓滑曲線,即為正擺線。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 168 2022/4/13 下午 04:31:13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p070.jpg"
+    },
+    {
+      "page": 71,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 169"
+        },
+        {
+          "type": "heading",
+          "text": "3. 內、外擺線畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 4-79 所示內外擺線滾動軌跡原理。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-79 內外擺線滾動軌跡原理圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:參考自屏東高工張富清 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知兩滾圓在另一圓上滾動, 畫法如圖 4-80 所示, 可依正擺線步驟進行, 先將滾圓等分, 再求各點。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-80 內、外擺線畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 169 2022/4/13 下午 04:31:14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p071.jpg"
+    },
+    {
+      "page": 72,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "170"
+        },
+        {
+          "type": "heading",
+          "text": "二、漸開線"
+        },
+        {
+          "type": "heading",
+          "text": "1. 原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "漸開線為繞於一多邊形或圓形之緊索上一點,該點向外伸開時所形成之軌跡,常用於漸 開線齒輪之齒型設計,如圖 4-81 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-81 漸開線原理與實例產品"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: carmon 公司、諾廣機械公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 170 2022/4/13 下午 04:31:15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p072.jpg"
+    },
+    {
+      "page": 73,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 171"
+        },
+        {
+          "type": "heading",
+          "text": "2. 畫法:一已知圓 O,如圖 4-82 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-82 漸開線畫法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 將圓 O 等分,設為 12 等分。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在各等分點上作圓之切線。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以點 2 為圓心,圓周等分線段長 12 而為半徑,從點 1 畫圓弧與過點 2 之切線交於點 A。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 再以點 3 為圓心, 3A 為半徑,從點 A 畫圓弧與點 3 之切線交於點 B。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 依此要領,依序可得 C、 D、 E、 F ⋯⋯各交點。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 連接光滑曲線即得。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 171 2022/4/13 下午 04:31:15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p073.jpg"
+    },
+    {
+      "page": 74,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "172"
+        },
+        {
+          "type": "heading",
+          "text": "三、螺旋曲線"
+        },
+        {
+          "type": "heading",
+          "text": "1. 原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "一動點繞著一圓柱或圓錐之軸線,作等角速圓周運動,並沿著軸線作等速直線運動,其 動點軌跡所形成之空間曲線,謂之 螺旋曲線,應用例如圖 4-83 所示,於下冊 9-6 節螺紋與螺 紋節件會詳細介紹。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-83 螺旋線與螺旋應用例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:鍾和企業、蘋果日報 2014、狄成橡膠、協榮毛刷 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 172 2022/4/13 下午 04:31:16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p074.jpg"
+    },
+    {
+      "page": 75,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 173"
+        },
+        {
+          "type": "heading",
+          "text": "2. 圓柱螺旋線畫法: 已知圓直徑 D、 導程 L, 如圖 4-84 所示, 由圖可知, 螺旋為斜面原理之應用。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-84 圓柱螺旋線畫法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 將圓作 12 等分,畫寬是圓周長、高是導程 L 之右側視圖成直角三角形,並在底寬線上分成"
+        },
+        {
+          "type": "paragraph",
+          "text": "相同之等分且註以數字 1、 2、⋯⋯、 12。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 右側視圖各等分點畫細垂線交斜邊線後投影至前視圖,將圓之各等分點投影到前視圖,則可"
+        },
+        {
+          "type": "paragraph",
+          "text": "在相對應投影線上得對應之點,如右側視圖點 1 與前視圖點 1 之投影線可得相交點 1 ′,依此 類推得各點 2 ′、⋯⋯、 12 ′。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連接 1 ′、 2 ′、⋯⋯、 12 ′ 可得一圓滑之曲線,謂之螺旋線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "註 若將此柱面展開,則螺旋線為一直線,此直線與底線相交之角,稱為 導程角。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 173 2022/4/13 下午 04:31:16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p075.jpg"
+    },
+    {
+      "page": 76,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "174"
+        },
+        {
+          "type": "heading",
+          "text": "3. 圓錐形螺旋線畫法:應用實例如圖 4-85 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-85 圓錐形螺旋線應用實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:嘉勇彈簧、伯堅公司、高鼎 & 財佑公司 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知一正圓錐、導程 L,畫法如圖 4-86 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 將俯視圖之圓作適當之等分,前視圖之導"
+        },
+        {
+          "type": "heading",
+          "text": "程 L 亦作相同之等分,且註以拉丁字母 a、"
+        },
+        {
+          "type": "paragraph",
+          "text": "b ⋯⋯等相同等分標註。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 畫俯視圖螺旋線時,先從錐底各等分點"
+        },
+        {
+          "type": "heading",
+          "text": "投影至導程上相對應之點,然後連接各"
+        },
+        {
+          "type": "paragraph",
+          "text": "點即得。"
+        },
+        {
+          "type": "heading",
+          "text": "註 畫前視圖螺旋線時,投影相對應點需作旋"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉,如俯視圖 od 上點 4 ′,需以 o 為圓心, o4 ′ 為半徑畫弧交 og 線上一點 4 ′,再投"
+        },
+        {
+          "type": "heading",
+          "text": "影至前視圖上,並作水平線與相對線交出"
+        },
+        {
+          "type": "paragraph",
+          "text": "一點,即為螺旋線上一點。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-86 圓錐形螺旋線"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 174 2022/4/13 下午 04:31:18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p076.jpg"
+    },
+    {
+      "page": 77,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 應用幾何畫法 175"
+        },
+        {
+          "type": "heading",
+          "text": "4. 阿基米德螺旋線 (spiral of Archimedes)"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "一動點沿著直線作等速運動,同時該直線繞一定點作等角速運動,其動點軌跡所形成之 平面曲線,稱為 阿基米德螺旋線。如圖 4-87 所示圖 (a) 為海螺外型線類似阿基米德螺旋 與圖 (b) 為跑車設計發想基礎。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-87 海螺與阿基米德螺旋線應用"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:愛華網、聚元好車網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 畫法: 如圖 4-88(a) 所示,以圓為底基。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-88 阿基米德螺旋線畫法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先繪一圓,再將此圓分成若干等分,並註明數字。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 又分半徑成相同等分,自 0 開始註明數字。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以 0 為圓心,作同心圓弧,交於相對應數字之半徑上。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 最後連接各點所成之圓滑曲線即完成。"
+        },
+        {
+          "type": "paragraph",
+          "text": "註 如圖 4-88(b) 所示為以正方形為底基,所建構出阿基米德螺旋線的第二種畫法。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 175 2022/4/13 下午 04:31:19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p077.jpg"
+    },
+    {
+      "page": 78,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "heading",
+          "text": "4-1 ( )1. 任意一個角兩等分,要用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 圓規、三角板 (B) 量角器 (C) 鋼尺 (D) 量角器、三角板。 ( )2. 有關幾何作圖原理之敘述,下列何者不正確? (A) 分別以一段圓弧 AB 的兩端點為圓心,大於 1/2 弧長為半徑畫弧相交產生兩個"
+        },
+        {
+          "type": "heading",
+          "text": "交點,連接此兩交點之直線可平分圓弧 AB"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 利用直尺和三角板,無法三等分一線段"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 在一圓弧上取任意兩弦,分別繪製兩弦的中垂線,兩中垂線相交之交點即此"
+        },
+        {
+          "type": "heading",
+          "text": "圓弧之圓心"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 在一平面上,通過不共線的三點可作一圓。 4-2 ( )3. 畫已知線段的垂直線或平行線,可藉丁字尺結合 (A) 三角板 (B) 圓規 (C) 曲線板 (D) 量角器。"
+        },
+        {
+          "type": "heading",
+          "text": "4-3 ( )4. 下列敘述多邊形合者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 正六邊形每一內角等於 108 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) n 多邊形之內角和為 (n + 2) × 180 °"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 三角形的外角和等於 360 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 正多邊形的每邊兩端接於圓周上,稱此多邊形為內切多邊形。"
+        },
+        {
+          "type": "heading",
+          "text": "( )5. 下列敘述多邊形何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 正多邊形的內角和為 (n − 2) × 180 ° (B) 正多邊形每邊頂點接於圓周上時稱為外切正多邊形"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 正五邊形的每一內角為 108 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 畫圓內接正六邊形時可直接用半徑來作圖。"
+        },
+        {
+          "type": "heading",
+          "text": "( )6. 下列對正多邊形之敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 每一個三角形之內角和恆為 180 °"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 三角形任兩邊之和必大於第三邊"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 已知邊長可利用圓規或 30 ° × 60 ° 三角板畫正七邊形 (D) 已知邊長可利用圓規或 45 ° × 45 ° 三角板畫正方形。"
+        },
+        {
+          "type": "heading",
+          "text": "4-4 ( )7. 下列敘述何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 兩圓相切之連心線與公切線的夾角為 60 ° (B) 一直線與圓周相切於一點,此點與圓心之連線與該直線之夾角為 60 °"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 兩圓互相外切之連心線長等於兩半徑和"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 半圓之圓周角恆等於 180 °。"
+        },
+        {
+          "type": "heading",
+          "text": "176"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 176 2022/4/13 下午 04:31:20"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 79,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( )8. 下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 切點與圓心的連線垂直於該切線"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 一圓之圓周角為 90 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 一直線與圓周相切於一點時,此點與圓心之連線與該直線之夾角必為垂直 (D) 當兩圓相切時,內公切線僅一條且必通過在兩圓連心線上的公切點。"
+        },
+        {
+          "type": "heading",
+          "text": "( )9. 下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 當兩圓相離時,其內外公切線各有兩條"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 當兩圓內切時,其連心線長等於兩直徑之差"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 當兩圓內切時,其連心線長等於兩半徑之和"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 由圓外一點可作兩條切線切於該圓。"
+        },
+        {
+          "type": "heading",
+          "text": "( )10. 有關幾何製圖,下列敘述何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 利用丁字尺和三角板,可以畫出與水平夾角成 40 ° 的線段 (B) 利用丁字尺和一 45 ° 三角板,可以畫出一圓的外切正六邊形 (C) 兩圓無論外切或內切,其切點必在兩圓心之連心線或連心線之延長線上 (D) 若有一圓與一直線外切,其切點與此圓心之連線不會與該直線垂直。"
+        },
+        {
+          "type": "heading",
+          "text": "( )11. 有關幾何應用之敘述,下列何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 當兩圓外切時,其連心線距離為兩半徑之差"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 當兩圓內切時,其連心線距離為兩半徑之和"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 一直線與圓相切時,其切點與圓心之連線會與該直線垂直 (D) 一圓與正多邊形之頂點相接時,則該圓為多邊形之內接圓。 4-5 ( )12. 實際長度為 50mm,若圖面以 100mm 長繪之,則比例為 (A)1: 2 (B)1: 20 (C)20: 1 (D)2: 1。 ( )13. 欲將視圖放大或縮小所應用的製圖用具是 (A) 樑規 (B) 分規 (C) 彈簧規 (D) 比例分規。"
+        },
+        {
+          "type": "heading",
+          "text": "( )14. 下列敘述圖形上的比例何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 製圖通常以 2、 5、 10 倍數的比例最常用 (B) 比例通常不註明在標題欄內,而標註在圖形附近"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 比例尺主要用途是用以轉移尺寸與量度"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 比例分規是用以按一定比例放大或縮小線段或圓周的量度工具。"
+        },
+        {
+          "type": "heading",
+          "text": "4-6 ( )15. 下列敘述何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 正八面體外表組成為 8 個正三角形"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 正十二面體外表組成為 12 個正六角形"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 一平面與一圓柱體中心軸成 45 ° 相交時交線為圓形 (D) 橢圓短軸端點至焦點之距離等於長軸。"
+        },
+        {
+          "type": "heading",
+          "text": "177"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 177 2022/4/13 下午 04:31:20"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 80,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( )16. 最常用之橢圓近似畫法為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 平行四邊形 (B) 同心圓法 (C) 四圓心法 (D) 六圓心法。 ( )17. 一動點對一定點作等距運動,其所形成之軌跡為 (A) 雙曲線 (B) 拋物線 (C) 圓 (D) 橢圓。 ( )18. 橢圓周上任一點至兩焦點的距離之和等於 (A) 長軸 (B) 長軸之半 (C) 短軸加長軸 (D) 短軸。 ( )19. 圓錐若由一假想切面依各種角度切割,則下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 可得五種交線、四種平面曲線"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 若切面垂直於軸者可得橢圓"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 若切面與軸所交之角等於素線與軸之夾角可得拋物線 (D) 若切面與軸所交之角小於素線與軸之夾角可得雙曲線。 ( )20. 以一平面切割一正圓錐所產生之相交線,稱為圓錐曲線 (Conic Sections),"
+        },
+        {
+          "type": "heading",
+          "text": "下列何者為圓錐曲線?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 拋物線 (B) 螺旋線 (C) 擺線 (D) 漸開線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )21. 下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 一動點與兩定點間之距離和為一常數者為橢圓"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 一切平面斜切一圓柱,其剖切面可得正圓"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 一動點至一定點之距離,等於此動點至準線之距離者,"
+        },
+        {
+          "type": "heading",
+          "text": "此動點之軌跡為拋物線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 一動點與兩定點距離之差,且恆為一常數時,其軌跡謂之雙曲線。 ( )22. 平面體乃由平面所構成之多邊形體,下列何者不是? (A) 角柱 (B) 角錐 (C) 正多面體 (D) 圓柱。"
+        },
+        {
+          "type": "heading",
+          "text": "( )23. 下列何者屬於複曲面體?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 圓柱與圓錐 (B) 球、環 (C) 圓、橢圓 (D) 螺旋體。 4-7 ( )24. 下列敘述徒手畫線條,何者有誤? (A) 徒手繪直線時目光需注視所繪線條之終點 (B) 畫垂直線時是由下往上畫 (C) 畫水平線是由左往右畫 (D) 若線太長則分為數小段畫之。"
+        },
+        {
+          "type": "heading",
+          "text": "( )25. 畫水平線時之敘述何者錯誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 短水平線用腕之動作畫出"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 長水平線用前臂動作畫出"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 在兩點間畫水平線時目光應注視筆尖之運行"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 若水平線太長,則可分成數小段來畫。"
+        },
+        {
+          "type": "heading",
+          "text": "178"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 178 2022/4/13 下午 04:31:20"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 81,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "4-8 ( )26. 一點沿著直線作等速運動,同時此直線也繞一定點作等角速運動,"
+        },
+        {
+          "type": "heading",
+          "text": "其動點軌跡所成之平面曲線為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 圓柱螺旋線 (B) 圓柱螺旋線 (C) 阿基米德螺旋線 (D) 拋物線。 ( )27. 繞於一多邊形或圓形之緊索上之一點,轉開時所形成之軌跡為 (A) 拋物線 (B) 漸開線 (C) 擺線 (D) 螺旋線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )28. 下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 圓周上一定點在一平面或圓弧上滾動所形成之軌跡稱為擺線"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 海螺外形線類屬於漸開線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 將展開後的圓柱螺旋線與底線相交行程之角稱為導程角 (D) 將螺旋線繞在圓柱上,若將其柱面展開則形成一直角三角形。"
+        },
+        {
+          "type": "heading",
+          "text": "二、實例應用題組題"
+        },
+        {
+          "type": "heading",
+          "text": "第三章整合題"
+        },
+        {
+          "type": "heading",
+          "text": "( )1. 如圖示繪製圖形時,下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 中心線的空白間隔約為 1mm,兩間隔中之小線段長約為 0.5mm (B) 以鉛筆繪此圖之順序原則是:先繪各圓或弧的中心線、繪圓及圓弧或曲線、"
+        },
+        {
+          "type": "heading",
+          "text": "繪各種實線、完成虛線部位並擦拭圖面上作圖線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 用以表示尺度大小的阿拉伯數字,其筆劃粗細約為字高的 1/10 (D) 尺度線用以表示物體尺度之範圍,尺度界線為表示尺度之大小與方向。"
+        },
+        {
+          "type": "heading",
+          "text": "179"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 179 2022/4/13 下午 04:31:20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p081.jpg"
+    },
+    {
+      "page": 82,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "第四章整合題"
+        },
+        {
+          "type": "heading",
+          "text": "( )2. 如圖示繪製圖形,下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 以 A 弧 (R18)、 B 弧 (R8) 為圓心,分別以 28、 18 為半徑長作弧可交於 C 點以"
+        },
+        {
+          "type": "heading",
+          "text": "繪製 R10 圓弧"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 圖中之正五邊形為內切正五邊形"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 圖中 C 點圓弧之繪製乃運用兩圓相外切之連心線等於兩半徑之和而得 (D) 圖中之正五邊形的內角和為 540 °。"
+        },
+        {
+          "type": "heading",
+          "text": "三、繪圖題"
+        },
+        {
+          "type": "heading",
+          "text": "1. 依圖示說明繪製圖形,不需標註尺度。 ( 參考影片 4-1)"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:第 1 大題可參考課本 4-1、 4-2、 4-3 內容;第 2 大題可參考課本 4-4 內容繪製出來。 (3) 繪製要領:熟悉製圖儀器的使用。 繪圖時適當的旋轉筆,使線條粗細一致。 線條與切點交接處須接好。 佈圖需將位置畫好,勿超出圖框。 保留作圖線以利檢視正確性。"
+        },
+        {
+          "type": "heading",
+          "text": "180"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 180 2022/4/13 下午 04:31:20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p082.jpg"
+    },
+    {
+      "page": 83,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "2. 依圖示說明繪製圖形,不需標註尺度。 ( 參考影片 4-2)"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:可參考課本 4-5、 4-6 內容繪製出來。 (3) 繪製要領:熟悉製圖儀器的使用。 繪圖時適當的旋轉筆,使線條粗細一致。 線條與切點交接處須接好。 佈圖需將位置畫好,勿超出圖框。 保留作圖線以利檢視正確性。"
+        },
+        {
+          "type": "heading",
+          "text": "181"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 181 2022/4/13 下午 04:31:21"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 84,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "182"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 182 2022/4/13 下午 04:31:21"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 85,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "3. 依圖示說明繪製圖形,不需標註尺度。 ( 參考影片 4-3)"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:可參考課本 4-5、 4-6 內容繪製出來。 (3) 繪製要領:熟悉製圖儀器的使用。 繪圖時適當的旋轉筆,使線條粗細一致。 線條與切點交接處須接好。 佈圖需將位置畫好,勿超出圖框。 保留作圖線以利檢視正確性。"
+        },
+        {
+          "type": "heading",
+          "text": "183"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 183 2022/4/13 下午 04:31:21"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 86,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "4. 依圖上尺度繪製圖形,不需標註尺度。圖1有繪製圖步驟供參考。 ( 參考影片 4-4)"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 繪製步驟:"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製中心線。 先畫圓再畫直線。 繪製多邊形。 將線條加深。 使用擦線板,將多餘線條擦拭乾淨。"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 繪製要領:"
+        },
+        {
+          "type": "paragraph",
+          "text": "熟悉製圖儀器的使用。 繪圖時適當的旋轉筆,使線條粗細一致。 線條與切點交接處須接好。 佈圖需將位置畫好,勿超出圖框。 多邊形的繪製方法須正確。 多餘線條需擦拭乾淨,保持圖面整潔。"
+        },
+        {
+          "type": "heading",
+          "text": "[ 步驟參考 ]"
+        },
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 184 2022/4/13 下午 04:31:21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p086.jpg"
+    },
+    {
+      "page": 87,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "四、創意繪圖題"
+        },
+        {
+          "type": "heading",
+          "text": "1. 戴資穎是世界羽毛球后,請參考如圖 ( 一 ) ( 自由時報廖振輝攝 ) 所示繪製羽毛球拍之"
+        },
+        {
+          "type": "paragraph",
+          "text": "拍框外形,尺度自訂或參考圖例繪製在 A3 圖紙上,並不須標註尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "圖 ( 一 )"
+        },
+        {
+          "type": "heading",
+          "text": "2. 如圖 ( 二 ) 所示為台灣遺址考古修復之夾硬頁岩細砂陶罐 ( 拍攝於蘭陽博物館 ),先人"
+        },
+        {
+          "type": "paragraph",
+          "text": "們充分展現陶器曲線之美。今欲以此外形美態製作模型,以方便使用鑄造法仿製成鐵 器製品,故請參考圖形擇一繪製其正前方所示外形圖,尺度自訂繪製在 A3 圖紙上, 並不須標註尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "圖 ( 二 )"
+        },
+        {
+          "type": "heading",
+          "text": "185"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH04.indd 185 2022/4/13 下午 04:31:23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch04/p087.jpg"
+    },
+    {
+      "page": 88,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "筆記百 - 一"
+        },
+        {
+          "type": "heading",
+          "text": "CH04_indd 186"
+        },
+        {
+          "type": "heading",
+          "text": "2022 / 13 下午 04: 31! 23"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

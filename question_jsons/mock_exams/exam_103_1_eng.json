@@ -1,0 +1,421 @@
+{
+  "bundle_id": "MOCK_103_1_ENG",
+  "questions": [
+    {
+      "id": "MOCK_103_1_ENG_001",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "My grandma learned how to paint at her age of 82; amazingly, she was found talented, and started to arrange her at the famous art gallery.",
+      "image_url": "",
+      "options": [
+        "experiment",
+        "exhibition",
+        "excuse",
+        "expectation"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_002",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "The works of William Shakespeare have the English culture, ranging from theatre and literature to present-day movies and English language itself.",
+      "image_url": "",
+      "options": [
+        "created",
+        "imagined",
+        "interrupted",
+        "influenced"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_003",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "My advisor gave me a few to work on during my summer vacation, such as interviewing the experts and completing the final report.",
+      "image_url": "",
+      "options": [
+        "threats",
+        "specialties",
+        "demands",
+        "assignments"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_004",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Although Brazil was dealing with the loss of its famous star player, Neymar, it still managed to make their people remain upbeat about its at the World Cup 2014.",
+      "image_url": "",
+      "options": [
+        "prospects",
+        "diversities",
+        "standards",
+        "responses"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_005",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Amber is a friendly and easy-going person. She always has a positive attitude toward any change.",
+      "image_url": "",
+      "options": [
+        "professional",
+        "hopeful",
+        "doubtful",
+        "unsure"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_006",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Dom’s health situation gets worse and worse, and his doctor says medication might not be the best solution for his current condition.",
+      "image_url": "",
+      "options": [
+        "cure",
+        "vitamin",
+        "device",
+        "portion"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_007",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Since I love to meet different people, I will definitely go to that party.",
+      "image_url": "",
+      "options": [
+        "immediately",
+        "consequently",
+        "absolutely",
+        "officially"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_008",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "The weather tends to be very unusual nowadays. Many scientists believe global warming causes extreme weather.",
+      "image_url": "",
+      "options": [
+        "results in",
+        "raises up",
+        "falls apart",
+        "stands for"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_009",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "George and Mary are unable to have babies; therefore, they desire to adopt one.",
+      "image_url": "",
+      "options": [
+        "for instance",
+        "as a result",
+        "in addition",
+        "so to speak"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_010",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Jessica has to take care of her baby brother when her mom is not home.",
+      "image_url": "",
+      "options": [
+        "look after",
+        "search for",
+        "bring about",
+        "run into"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_011",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Father: Get dressed and we are going out for dinner! Son: Father: The Jason’s. Son: Again? Come on, we’ve been there so many times this month.",
+      "image_url": "",
+      "options": [
+        "What did you say?",
+        "Well...how about staying at home?",
+        "I’m sorry. I am hanging out with Jason.",
+        "Where are we going to dine?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_012",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Tim: I am going to join the piano competition tomorrow. Jimmy: Really? Tim: Thanks. I am so nervous, and I hope I can do as well as I practice at home. Jimmy: I am sure you can. Just try your best, Tim.",
+      "image_url": "",
+      "options": [
+        "Break a leg.",
+        "Have a lot of fun.",
+        "Take a short break.",
+        "Why not drop it?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_013",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Migo: Mom asked me to go swimming in the morning with her the other day. Cherry: That sounds great. Why not go with her? Don’t you want to lose some weights? Migo: Well...I did say so, but I thought all I need is to go on a diet. Cherry: You might want to do more exercise.",
+      "image_url": "",
+      "options": [
+        "Getting a good night’s sleep is also important.",
+        "You can say that again.",
+        "By only dieting is not good enough.",
+        "Swimming is an excellent exercise because it can burn lots of calories."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_014",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Jessica: Excuse me, but I can’t find my boarding gate. Clerk: Jessica: Flight X307 to Beijin, Singapore Airlines. Clerk: Please go this way, and it will be on your right.",
+      "image_url": "",
+      "options": [
+        "Don’t worry, just relax.",
+        "Can I take a look of your passport?",
+        "Run! You’re running late. The flight is taking off in a minute!",
+        "Which flight are you going to board?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_015",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Pam: It’s freezing cold outside. Cindy: Yeah, let’s have hot pot together. Pam: Good idea. I know there is a new one downtown. Cindy: Pam: Don’t worry. My dad can drive us there. Let’s go.",
+      "image_url": "",
+      "options": [
+        "When did it open?",
+        "Sorry, I forget I have to finish the assignments first.",
+        "But how can we get there?",
+        "Can my boyfriend come with us?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_016",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Police: License, please. Jimmy: I am sorry, but I forgot to bring it with me. Police: Jimmy: Here is my ID card.",
+      "image_url": "",
+      "options": [
+        "You just ran through the red light.",
+        "Other identification?",
+        "Forget about it. You can go.",
+        "It was really dangerous to ride this Ubike onto highway."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_017",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Wife: Look at that pearl necklace. It’s really lovely. Husband: Yeah, it would be absolutely perfect to go with your new dress. Wife: Husband: You’re right. We might not be able to afford it right now.",
+      "image_url": "",
+      "options": [
+        "Let me look at the price tag. Oh, my God, it’s too much!",
+        "What’s the color of my dress, honey?",
+        "Don’t worry. There is a thing called “credit card”.",
+        "I think we can sell the very necklace first."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_018",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Bank Teller: How may I help you? Zoe: I want to deposit the money into my cousin’s account in US dollars. Bank Teller: Yes, madam. Zoe: Sure. Adam Hok. H as in Henry, O as in Obama, and K as in Kim.",
+      "image_url": "",
+      "options": [
+        "Here you go.",
+        "Do you have the permission letter?",
+        "Please sign your name here.",
+        "I need to know his last name. 三、綜合測驗 ( 第 19-32 題,每題 2 分,共 28 分 ) 說明:以下兩篇短文,共有 14 個空格,為第 19 至 32 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案 。 ▲ 下篇短文共有 7 個空格,為第 19 至 25 題,請依短文文意,選出一個最適合該空格的答案。 News reveals that marriage could really beat cancer and live longer. According to a Harvard study, married people are found 20% 19 likely to suffer from cancer, compared with people who are single, divorced, or widowed. This study, conducted on more than 730,000 people, 20 in one of the latest medical journals. These married people are more likely to discover their diseases 21 an earlier stage, and also to get proper treatments. “Our data 22 that marriage can have a significant health impact for patients with cancer,” says Ayal Aizer, a doctor of Harvard Radiation Oncology Program. 23, the researchers do not see their study as an affirmation of marriage, but rather it should send a message to anyone who has a friend or a loved one with cancer: being there for that person, and 24 support. The result of the research indicates 25 a spouse or a close partner can push the patients to seek medical help and support them during grueling chemotherapy, radiation and other treatments."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_019",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "This passage focuses on the topic of.",
+      "image_url": "",
+      "options": [
+        "poisonous waterholes",
+        "a photographer’s journey",
+        "food hunting in Africa",
+        "elephants in American National Parks"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_020",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "What did Michael do after he pulled out the head of the poisonous arrow?",
+      "image_url": "",
+      "options": [
+        "He took a picture.",
+        "He pressed on the wound of the elephant.",
+        "He phoned a veterinarian.",
+        "He prayed to the God."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_021",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "What is NOT mentioned as the ways to kill an elephant?",
+      "image_url": "",
+      "options": [
+        "Gums",
+        "Firearms",
+        "Polluted liquid",
+        "Toxic sticks"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_022",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "What does collapsed mean in this passage?",
+      "image_url": "",
+      "options": [
+        "broke off",
+        "fell down",
+        "gave in",
+        "slept away ▲ 閱讀下文,回答第 37-40 題。 The Internet has become the revolutionary source of information. Tens of thousands of messages flood in the cyber world with just a click. Let’s think of the questions: Why are those people so willing to share information on the Internet? Actually, there are all kinds of variations. Some people put up misinformation because they are misinformed, while some might do that on purpose since there is no one responsible for the content, and no institution accounting for its accuracy. Internet misinformation is never a small thing. The World Economic Forum (WEF) in 2013 identified this issue as the top ten world crisis, accompanied by rising societal tensions in the Middle East and North Africa, widening income disparities, persistent structural unemployment, and inaction on climate change. With a value of 3.35 on a scale of 1-5, this issue is seen as “somewhat to very significant.” However, how can people fight such misinformation? To start with, people should stop forwarding email without confirming the authenticity. Do not easily distribute the information from strangers to our friends. In addition, always get the information from the respectable news sites and government sites. Meanwhile, it becomes increasingly important to teach the kids how to think critically about what they are seeing. It is not simply on the Internet; television, newspapers, radio, or even our friends are possibly delivering misinformation. People in the modern era have to learn to think about what they see and what they hear in order to discern what they should pay attention to and what they should not."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_023",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "What is the main idea of the passage?",
+      "image_url": "",
+      "options": [
+        "The World Economic Forum lists Internet misinformation as an important problem around the world.",
+        "Advanced technology nowadays has brought many advantages and also some disadvantages to our life.",
+        "False and inaccurate information on the Internet has become a critical problem and should be carefully taken care of.",
+        "People intentionally distribute the misinformation because they would like to spread vicious virus."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_024",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "Which of the followings is NOT a good idea to fight Internet misinformation, according to the passage?",
+      "image_url": "",
+      "options": [
+        "We should be capable of thinking critically.",
+        "We need to check the source before forwarding the email.",
+        "We are expected to install anti-virus program to ensure our data is secure and safe.",
+        "We might want to retrieve information from respectable sites."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_025",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "What is also listed as the top ten world problem in the World Economic Forum?",
+      "image_url": "",
+      "options": [
+        "Increasingly small poverty gap",
+        "Temporary structural unemployment",
+        "International Trade in Middle East and Northern Africa",
+        "Passivity in dealing with weather problem"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_103_1_ENG_026",
+      "subject": "英文",
+      "unit": "54. 103-1-四技二專-英文",
+      "q": "What is another word for discern in the last paragraph?",
+      "image_url": "",
+      "options": [
+        "decide",
+        "resist",
+        "contribute",
+        "recognize 第貳部分:非選擇題 ( 第 1 至 5 題,每題 4 分,共 20 分 ) 一、填充 說明:請依據中文之提示,在空格內填入適當之詞彙以完成句子。每格限填一字,並將答案寫在 「答案卷」之指定範圍內。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    }
+  ]
+}

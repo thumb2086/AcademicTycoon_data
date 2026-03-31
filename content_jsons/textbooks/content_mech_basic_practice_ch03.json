@@ -1,0 +1,901 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH03",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH03",
+    "title": "CH3"
+  },
+  "title": "機械基礎實習全冊 Chapter 3 ྌᇞၾ፷j዁Ъ",
+  "source_pdf": "機械基礎實習全冊/CH3PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH03",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "ྌᇞၾ፷j዁Ъ"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 熟悉劃線工具的種類、規格 3-1 劃線工具的種類、規格與用法"
+        },
+        {
+          "type": "heading",
+          "text": "與用法 3-2 劃線工具的保養、維護與注意事項"
+        },
+        {
+          "type": "heading",
+          "text": "2. 熟悉劃線工具的保養與維護 3-3 鋸條的種類、用途與規格"
+        },
+        {
+          "type": "heading",
+          "text": "3. 瞭解鋸條種類、用途與規格 3-4 鋸切注意事項"
+        },
+        {
+          "type": "heading",
+          "text": "4. 學會鋸切姿勢與鋸切法 3-5 游標高度規的劃線工作"
+        },
+        {
+          "type": "heading",
+          "text": "3-6 鋸切姿勢與鋸切方法"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "42"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "heading",
+          "text": "3-1 ྌᇞʈՈٙ၇ᗳe஝ࣸၾ͜ج"
+        },
+        {
+          "type": "paragraph",
+          "text": "劃線是依工作圖上的幾何形狀與尺度,利用劃線工具轉移到被加工物上,使加工處有明確 的尺度參考界線,或是做為裝配時的定位參考。 常用的劃線工具有劃線針、劃線台、高度規、分規及其他輔助工具,如平板、 V 型枕、角尺、 量角器等。"
+        },
+        {
+          "type": "heading",
+          "text": "ɓe̻ؐ"
+        },
+        {
+          "type": "paragraph",
+          "text": "平板 (Surface plate) 具有一個光滑平整的精確平面,該平面是劃線與各種檢驗工作的基準。 平 板 精 度 依 CNS 規 定, 分 為 0、 1、 2 三 級, 規 格 以「 長 × 寬 × 高 」 尺 寸 表 示, 如 300 × 300 × 70mm。 ͩ ቨ⫨ʃ׺ʙ⣬Ӡໞȵ風隶౹ኈȶ⎞ȵ␕஠ୡ౹ኈȶŘ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑄鐵平板:以高強度鑄鐵鑄造再經退火與時效處理,"
+        },
+        {
+          "type": "heading",
+          "text": "測量平面經機械加工、研磨與鏟花製程,背面的肋骨"
+        },
+        {
+          "type": "paragraph",
+          "text": "用以增加強度減少變形,如圖 3-1 所示, ౑ᮢᅠ᫠ࢍ"
+        },
+        {
+          "type": "heading",
+          "text": "డ̳ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "2. 花崗岩平板:採用優質黑色花崗岩石材經精密研磨而"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-1 ȭ風隶౹ኈ"
+        },
+        {
+          "type": "paragraph",
+          "text": "成,如圖 3-2 所示, ɺ⎷ᮢᅠ⸇ᛵા໣ٴΎⵒ⿧ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "花崗岩平板與鑄鐵平板比較有下列特性:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 花崗岩硬度高,約為鑄鐵的 2 ∼ 3 倍,使用壽 命長。 (2) 精 度 高、 熱 膨 脹 係 數 低, 測 量 環 境 不 受 恆 溫 (20 °C ) 的限制。"
+        },
+        {
+          "type": "heading",
+          "text": "(3) ␕஠ୡ⠧ㄇʃ⬚ӶᰈדᕜⴗŊಙʃߌ႞Ⴛ≟"
+        },
+        {
+          "type": "heading",
+          "text": "ഛᇈȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-2 ȭ␕஠ୡ౹ኈ"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 不生鏽、不易沾黏灰塵,耐酸鹼侵蝕。 (5) 被測物能平滑移動,無黏滯現象。 (6) 用後擦淨即可,維護保養簡單容易。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch03/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 ྌᇞၾ፷j዁Ъ 43"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeԉؐၾ V Җ؆"
+        },
+        {
+          "type": "paragraph",
+          "text": "角板 (Angle plate) 由鑄鐵或鑄鋼製成,有兩 個平面相互垂直,如圖 3-3 所示。角板功用是做"
+        },
+        {
+          "type": "heading",
+          "text": "為小型或薄板工件劃線之背面支撐、協助不規則"
+        },
+        {
+          "type": "paragraph",
+          "text": "形狀或重心不穩工件的支撐。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-3 ȭ⤑ኈ"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 形枕 (V-block) 又稱 V 槽塊或 V 形塊,以 鑄鐵或合金鋼製成, V 形槽為 90°,主要目的是"
+        },
+        {
+          "type": "heading",
+          "text": "提供圓形工件穩固的安置,或將矩形工件設置成"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u0002\u0003\u0004,以便劃線、量測或加工。 V 形枕常用的種 類如圖 3-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-4 ȭ V ഐኙ᱿Ớㆩ"
+        },
+        {
+          "type": "heading",
+          "text": "ɧeྌᇞ০"
+        },
+        {
+          "type": "paragraph",
+          "text": "劃線針 (Scriber) 以工具鋼棒製成,再經淬火"
+        },
+        {
+          "type": "heading",
+          "text": "硬化處理,或以鎢鋼材質製成,前端成針尖狀用"
+        },
+        {
+          "type": "paragraph",
+          "text": "於劃線工作,常用的劃線針如圖 3-5 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-5 ȭԬB⸒"
+        },
+        {
+          "type": "heading",
+          "text": "為了使線條具有明確的尺度界線,劃線針通"
+        },
+        {
+          "type": "paragraph",
+          "text": "常與平板、鋼尺、角尺或量角器搭配使用。劃線"
+        },
+        {
+          "type": "heading",
+          "text": "針尖端應隨時保持尖銳,確保線條明確清晰,若"
+        },
+        {
+          "type": "heading",
+          "text": "有鈍化現象可在油石上左右移動兼轉動磨利,如"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-6 ȭḇӴԬB⸒"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 3-6 所示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch03/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "44"
+        },
+        {
+          "type": "heading",
+          "text": "̬ eφላձʕːላ"
+        },
+        {
+          "type": "paragraph",
+          "text": "尖衝 (Prick punch) 和中心衝 (Center punch)"
+        },
+        {
+          "type": "heading",
+          "text": "外形相似,如圖 3-7 所示,兩者均以工具鋼製"
+        },
+        {
+          "type": "heading",
+          "text": "成,尖端經淬火硬化處理,可在加工物上打出"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓錐凹痕。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-7 ȭଊ⠢ُʑൔ⠢"
+        },
+        {
+          "type": "paragraph",
+          "text": "ଊ⠢בờӿ⠢Ŋଊ⻧⤑ 30 ° Ɯ 60 ° Ŋ 製出凹"
+        },
+        {
+          "type": "heading",
+          "text": "痕做為分規的圓心支撐點以利劃圓弧線,或在線"
+        },
+        {
+          "type": "paragraph",
+          "text": "條上做記號,避免線條因故擦除而失去依據。使 用情形如圖 3-8 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ʑൔ⠢ଊ⻧⤑ 90 ° Ŋ⢌ӛӚᰈᮢᅠ೧଄⿛ᆑ"
+        },
+        {
+          "type": "heading",
+          "text": "હ̤ŊⳖ⠗⿛ԇԽడȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-8 ȭӿ⠢͐ᮢ෼ഐ"
+        },
+        {
+          "type": "heading",
+          "text": "ʞeɦ஝ၾᆃ஝"
+        },
+        {
+          "type": "paragraph",
+          "text": "分規 (Dividers) 用於尺寸轉移及圓弧劃製工"
+        },
+        {
+          "type": "heading",
+          "text": "作,或把直線分成數等分之工具,由工具鋼或不"
+        },
+        {
+          "type": "heading",
+          "text": "鏽鋼製成,如圖 3-9 所示,腳尖經淬火硬化或直"
+        },
+        {
+          "type": "paragraph",
+          "text": "接銲上鎢鋼材質增加使用壽命。 Ӡ⣳˫қ⌳໽⋱"
+        },
+        {
+          "type": "heading",
+          "text": "೺⿭᱿ሱञ⭡サᣅ⣳ጁŊҢϊ)ᾀᅠ⌳⿢ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-9 ȭӠ⣳"
+        },
+        {
+          "type": "paragraph",
+          "text": "樑規 (Trammel) 又稱為長徑規,由一橫桿與"
+        },
+        {
+          "type": "heading",
+          "text": "兩個劃針組成,如圖 3-10 所示,劃針可在橫桿"
+        },
+        {
+          "type": "heading",
+          "text": "上移動,使用時一腳當圓心、另一腳當劃針,適"
+        },
+        {
+          "type": "paragraph",
+          "text": "宜劃製直徑 300mm 以上的圓弧線。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-10 ȭᐴ⣳"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch03/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 ྌᇞၾ፷j዁Ъ 45"
+        },
+        {
+          "type": "heading",
+          "text": "ʬeଡ଼Υԉˉ"
+        },
+        {
+          "type": "paragraph",
+          "text": "⃅׶⤑ଙ (Combination set) ᮫ ᳅ଙȮ᳅⤑⣳Ȯ ⤑ಙяُʑൔ⣳⃅׶≟ໞŊ 如圖 3-11 所示,直尺可 與其他三件分別組合,做多用途的劃線與量測。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-11 ȭ⃅׶⤑ଙ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 直尺與直角規組合:可劃垂直線、 45° 線或做"
+        },
+        {
+          "type": "paragraph",
+          "text": "90°、 45° 及深度量測,如圖 3-12(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 直角尺上的水平儀可做水平檢測。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 直尺與角度儀組合:可劃出具有角度之直線、"
+        },
+        {
+          "type": "paragraph",
+          "text": "平行線或做角度量測,如圖 3-12(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 直尺與中心規組合:可在圓桿端面劃線,兩線"
+        },
+        {
+          "type": "paragraph",
+          "text": "交點即為圓桿中心,如圖 3-12(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-12 ȭ⃅׶⤑ଙ͐ᮢ෼ഐ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch03/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "46"
+        },
+        {
+          "type": "heading",
+          "text": "ɖeྌᇞ̨"
+        },
+        {
+          "type": "paragraph",
+          "text": "劃線台 (Surface gage) 又稱劃針盤或平面規,由基座、支架及劃針等構件組成,如圖 3-13(a) 所示,用於尺寸轉移或以目視檢查平行度等。 目前常用於車床上做為工件校正之基準點,如圖 3-13(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-13 ȭԬBש⎞͐ᮢ෼ഐ"
+        },
+        {
+          "type": "heading",
+          "text": "ɞe৷ܓ஝"
+        },
+        {
+          "type": "paragraph",
+          "text": "高度規 (Height gage) 主要構造有基座、本尺、"
+        },
+        {
+          "type": "heading",
+          "text": "游尺、劃刀與微調裝置等,各部位名稱如圖 3-14"
+        },
+        {
+          "type": "heading",
+          "text": "所示, Ԭӝᣅ欠⻘ቨ⫨Ŋ⫨ʉʈ⋷Ŋൗᷤ႞ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "高度規配合平板或劃線工具可做精密劃線、高"
+        },
+        {
+          "type": "heading",
+          "text": "度量測等工作, ⣳ጁ˫ᜀଙ໽⋱ẼՒ᱿ሱञネಙ⠧"
+        },
+        {
+          "type": "paragraph",
+          "text": "ḻŊ 有 150、 300、 600mm ⋯⋯等。 尺寸判讀形式有刻劃式、針盤式與液晶式三種。"
+        },
+        {
+          "type": "heading",
+          "text": "1. Ԁ Ԭೣ ᱿ ᜀ ᐻ ネ ಙ ⣳ (Vernier height gage)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ң Ԁ Ԭ ׆ ᫧ ⎞ ᜀ ᐻ֦ ଙ ᳈ ׺Ŋ ಙ ר Ⳮ"
+        },
+        {
+          "type": "heading",
+          "text": "0.02mm ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-14 ȭᜀᐻネಙ⣳׳ⵒ׻ờ"
+        },
+        {
+          "type": "heading",
+          "text": "2. 針盤式高度規 (Dial height gage) 又稱附錶高度"
+        },
+        {
+          "type": "paragraph",
+          "text": "規,精度 0.01mm 或 0.02mm,如圖 3-15 左圖 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 數位式高度規 (Digimatuc height gage) 精度可"
+        },
+        {
+          "type": "paragraph",
+          "text": "達 0.01mm 或 0.005mm,如圖 3-15 右圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ɘeྌᇞ෩ኒ"
+        },
+        {
+          "type": "heading",
+          "text": "經加工後的金屬表面具有光澤,線條不易清楚"
+        },
+        {
+          "type": "paragraph",
+          "text": "顯現,若塗上劃線液就可以改善此情況。 ଃᅠ఩Խ"
+        },
+        {
+          "type": "heading",
+          "text": "డㄇ໣҆᝱⠧ㄇࢣרʀमᯌࣘᖛŊቍ⃻Խడ᱿㓺Თ"
+        },
+        {
+          "type": "heading",
+          "text": "ㄇ໣⁏⁳ㄇԅࢣʀᱺ⏨⁆ώŊ 此舉會使線條相當明"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-15 ȭ⸒Ჷೣ⎞ᄲ̤ೣネಙ⣳"
+        },
+        {
+          "type": "paragraph",
+          "text": "顯易見。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch03/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 ྌᇞၾ፷j዁Ъ 47"
+        },
+        {
+          "type": "heading",
+          "text": "3-2 ྌᇞʈՈٙڭቮ Ȯ ၪᚐၾءจԫධ"
+        },
+        {
+          "type": "paragraph",
+          "text": "劃線工作要能使線條清晰準確,平時對於劃線工具的保養與維護,應加以注意:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 平板上是劃線工作的基準平面,勿在平面上做任何敲擊工作, 風隶౹ኈט႞Ⴛᆹߣشሳᮟ"
+        },
+        {
+          "type": "paragraph",
+          "text": "ᮝә⬚෼ᗼŊް⸅ഛᇈ౹ㄇಙŊ͐ᮢᆹະ᧚ӲᘜาŊ 平板上也 不 可堆放手工具、銼刀或 刀具等雜物。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 平板用畢擦拭乾淨,鑄鐵平板需塗上機油防止生鏽,必要時可罩上木板防止撞擊或灰塵沾黏。"
+        },
+        {
+          "type": "heading",
+          "text": "3. V 形枕、角板、劃線針等工具用畢擦拭乾淨,以機油保養並且歸回原位。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 劃線工具之劃線針、劃刀、中心衝及刺衝等工具,應保持銳利。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 選定基準面是劃線工作的首要步驟,一般取「較大且平整」的平面為基準面,或是工作圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "上尺度標註的基準面。"
+        },
+        {
+          "type": "heading",
+          "text": "6. ⩊חネಙ⣳ԀಙᆹŊ⣶Bະُ⩊חʠԀಙᾀネȯ"
+        },
+        {
+          "type": "heading",
+          "text": "7. 劃線時, ԬBԻⳬະ⳺ʑŊBጻ˫ɺᓝԬӛᣅ׆ԅȯ 劃畢,線條應細而清晰。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 以高度規劃線時,劃刀須輕輕接觸工作物,切勿撞擊。崩裂的劃刀會使線條不清晰或尺寸"
+        },
+        {
+          "type": "paragraph",
+          "text": "產生誤差,誤差示意圖如圖 3-16(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 劃線應略估線條所需長度,劃畢要能呈現幾何外形,以利後續工作,如圖 3-16(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 線條若要做為手弓鋸鋸切或銼削之依據,正、反兩面均應劃線。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 劃畢線條,應加以核對,確定無誤再做其他後續工作。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-16 ԬBᘜาʁᄜ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch03/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "3-3 ፷ૢٙ၇ᗳe͜௄ၾ஝ࣸ"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋸切是利用鋸條 (Saw blade) 將所需材料鋸成適當 的長度或外形輪廓。手弓鋸鋸切就是把鋸條裝在的鋸 架上做往復運動切削材料,鋸切情形如圖 3-17 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-17 ȭ༆೥⻔⻔ӡ"
+        },
+        {
+          "type": "heading",
+          "text": "鋸條依材質、鋸齒排列形式及鋸條齒數分類:"
+        },
+        {
+          "type": "heading",
+          "text": "ɓe፷ૢҿሯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋸條以高碳鋼 (High corbone steel )、高速鋼 (High speed steel, H.S.S ) 或工具鋼為材料,經 淬火硬化和回火處理,依硬化方式分為全硬式鋸條、撓性鋸條與雙金屬鋸條。 手弓鋸鋸條則可由顏色略知材質,如高碳鋼鋸條因熱處理之故,表面為黑色; ネⳌ⻘⻔ጻ ౑ࢣʀ☾⏨໣Ң˟地⏨᱿Ύ⩂ថŊʏ֬ʀ⣳ጁȮቨ⫨ᾀᄽ઎ȯ 雙金屬鋸條的鋸齒為高速鋼,鋸背為彈簧鋼,兩者以電子束熔接 (EBW) 在一起,具優良的 切削性及韌性。高速鋼鋸條與雙金屬鋸條如圖 3-18(a)、 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-18 ȭネⳌ⻘⻔ጻ⎞キ⸉଼⻔ጻ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch03/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 ྌᇞၾ፷j዁Ъ 49"
+        },
+        {
+          "type": "heading",
+          "text": "ɚe፷኉રΐҖό"
+        },
+        {
+          "type": "heading",
+          "text": "鋸條在鋸切過程中希望鋸出來的鋸縫略寬於鋸"
+        },
+        {
+          "type": "heading",
+          "text": "條厚度,目的是使鋸條活動與排屑順暢、防止鋸條卡"
+        },
+        {
+          "type": "heading",
+          "text": "住、減少摩擦以及降低鋸切溫度等,鋸縫示意圖如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-19 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "因此,鋸齒排列成左右交替狀,其形式有交錯"
+        },
+        {
+          "type": "heading",
+          "text": "形、波浪形與掃射形:"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-19 ȭ⻔VIᯆ૰ᅠ⻔ጻׂಙḻาߧ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 交錯形:鋸齒一齒 ( 或兩齒 ) 向左、一齒 ( 或兩齒 ) 向右,彼此相互交錯,用於齒距較小的"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋸條,適於薄金屬板的鋸切。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 波浪形:一群鋸齒漸漸偏左,再逐漸偏右,形成波浪狀,用於中齒距的鋸條,適於非鐵金"
+        },
+        {
+          "type": "paragraph",
+          "text": "屬或不規則材料的鋸切。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 掃射形:鋸齒第一齒向左、第二齒向前、第三齒向右依序排列,用於齒距較大的鋸條,適"
+        },
+        {
+          "type": "paragraph",
+          "text": "於鋼材、鋁料鋸切。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-20 ȭ⻔㕗࿢Ӭഐೣ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch03/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "heading",
+          "text": "ɧe፷ૢ኉ᅰ"
+        },
+        {
+          "type": "paragraph",
+          "text": "⻔ጻ㕗ᄲ (Teeth) ᆯ྆ ᕓ 25.4mm (1 ␿׹ ) ⿢ಙҙ᱿⻔㕗ᄲᲿȯ༆೥⻔⻔ጻሷ 14 Ȯ 18 Ȯ 24 Ȯ 32 㕗߈Ớ⣳ጁŊ 通常會在數字後面加上「 T 」來表示齒數 (teeth),如 14T、 18T ⋯⋯等。 ⻔㕗ᄲᲿ᱿ⴆᮢᆯ⻔ӡడ̳ὮɺΤ⣬≙๱᱿ߌ₪Ŋ઩ᆯዾჇԽడቨᅆ᱿ʉಙȮׂ☃≟ᗉહȯ 㕗ᄲฬघŊ㕗⭡ฬଅŊ⻔㕗ⰱ₳ŊᮢᅠଅᅜㄇỬ໣ᆯʉಙⰱネ᱿ቨᅆ⻔ӡŊ 因細切齒能確保較 多鋸齒在小斷面上鋸切,避免鋸齒被工件卡住,以及硬質材料因鋸切不易,切屑相對減少,不 需太大的容屑空間,反而需更多的鋸齒來承受切削阻力,減少磨耗。 相對於大斷面積或軟質金屬則選用齒數少、齒距大、鋸齒較粗的鋸條,因切削時大斷面行 程較長,而且軟質材料本身就容易鋸切,切屑較多,鋸齒間要有足夠的空間容納切屑增加鋸切 效率。各種齒數選用原則如表 3-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ ⠧ 3-1 ȭ⻔ጻ㕗ᄲⴆᮢ׆ԅ"
+        },
+        {
+          "type": "heading",
+          "text": "㕗ᄲ ⳺׶⻔ӡቨᅆ ഐߧ ߌ׆⳺ᮢ"
+        },
+        {
+          "type": "paragraph",
+          "text": "適宜鋸切實心或斷面積大的軟金屬, 鋸切大斷面及軟材料鋸屑較多,要有"
+        },
+        {
+          "type": "heading",
+          "text": "14 齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "如軟鋼、冷作鋼、銅合金。 充分空間容納切屑,增加鋸切效率。"
+        },
+        {
+          "type": "paragraph",
+          "text": "適宜未經硬化的高硬度金屬,如中 鋸切時推力由各齒均勻承受,鋸齒"
+        },
+        {
+          "type": "heading",
+          "text": "18 齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "碳鋼、高碳鋼、鑄鐵、合金鋼。 不易磨損。"
+        },
+        {
+          "type": "heading",
+          "text": "適當的齒形仍有足夠空間容納切屑,"
+        },
+        {
+          "type": "heading",
+          "text": "適宜硬度高且斷面積較小的工件,"
+        },
+        {
+          "type": "heading",
+          "text": "24 齒 至少有兩齒在工件上鋸切,避免鋸"
+        },
+        {
+          "type": "paragraph",
+          "text": "如鋼管、黃銅管、角鐵、細鐵條。 齒崩裂。"
+        },
+        {
+          "type": "heading",
+          "text": "鋸薄板金屬時,鋸齒易被工件卡住"
+        },
+        {
+          "type": "paragraph",
+          "text": "適宜高硬度及韌性高或者斷面積小 而斷裂,為使鋸齒均勻受力量,使"
+        },
+        {
+          "type": "heading",
+          "text": "32 齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "的工件,如薄鋼板或小鐵管等。 用較細鋸齒以確保有兩齒以上在工 件上鋸切。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 3 ྌᇞၾ፷j዁Ъ 51"
+        },
+        {
+          "type": "heading",
+          "text": "̬ e፷ૢ஝ۆ"
+        },
+        {
+          "type": "paragraph",
+          "text": "⻔ጻ⣳ጁ˫ 「 ⿢ಙ ć ૰ಙ ćׂ ಙŋ㕗ᄲ 」 ⠧ḻ。 如圖 3-21 包裝盒上標示「 300 × 12 × 0.62 18 TEETH 」,表示鋸條長度 300mm、寬度 12mm、 厚度 0.62mm、每 25.4mm 的長度內有 18 個鋸齒。"
+        },
+        {
+          "type": "heading",
+          "text": "ߧ 3-21 ȭ⻔ጻծ⡶Წʀʠᐻḻ"
+        },
+        {
+          "type": "paragraph",
+          "text": "值得注意的是, ⻔ጻ⿢ಙᆯ྆⻔ጻқὉߥઋ᱿ʑൔ⭡サŊʃᆯ⻔ጻҚ⿢Ŋ 如圖 3-22 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-22 ȭ⻔ጻ⿢ಙ⣳ጁ"
+        },
+        {
+          "type": "paragraph",
+          "text": "近年來高速鋼鋸條已廣泛使用,標示內容也因製造廠商而異,其中以長度、齒數與材質最 常標示在鋸條上,如圖 3-23(a) 所示,說明如下: 12\":鋸條長度 12 英吋 (300mm)。 14 TPI:每英吋有 14 個鋸齒。 (TPI 為 Teeth Per Inch 之縮寫 ) 18 TPI:每英吋有 18 個鋸齒。 另外,若有「 HIGH SPEED STEEL 」等文字,表示鋸條材質為高速鋼,如圖 3-23(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-23 ȭ⻔ጻʠᐻḻ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch03/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "52"
+        },
+        {
+          "type": "heading",
+          "text": "3-4 ፷jءจԫධ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 「線條」是手弓鋸鋸切的重要依據,若需精準鋸切,材料正、反面都應劃線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鋸切位置盡量靠近鉗口,距鉗口側邊約 5 ∼ 10mm;距離過大,易出現抖動及發出不悅耳"
+        },
+        {
+          "type": "paragraph",
+          "text": "噪音。"
+        },
+        {
+          "type": "heading",
+          "text": "3. ༆೥⻔⻔ӡᆯദԊ࿴Ⲷᮟᮝӡԇ̳ᮢŊ໽˫મ⡶⻔ጻՖൕ͐ӡ㕗ቄ׿⻔ከԊᅞȯ"
+        },
+        {
+          "type": "heading",
+          "text": "4. 起鋸時,為了使鋸條易於切入及防止打滑,可將鋸條微微傾斜,傾斜角度在 15° 以下,快"
+        },
+        {
+          "type": "paragraph",
+          "text": "速短行程推拉手弓鋸,形成起鋸切口後再施力鋸削。惟傾斜角度不宜過大,否則鋸齒容易 被卡住而有推不動的情形。"
+        },
+        {
+          "type": "heading",
+          "text": "5. ⻔ӡ一᪓ᕓӠ身 50 Ɯ 60 ᓝŊᲵ⸇⩕Қⵒ⻔㕗ⵣᱹဧӡԇ̳ᮢŊɺ⎷⻔ԇ⠗Ễ)⻔ጻҚ⿢"
+        },
+        {
+          "type": "heading",
+          "text": "᱿ 80% ˫ʀȯ"
+        },
+        {
+          "type": "heading",
+          "text": "6. 鋸切過程,眼睛注意鋸切處,隨時留意鋸縫與線條距離,避免歪斜。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 手弓鋸鋸削勿加機油,油易使切屑填塞於鋸齒。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 鋸切後若需銼削加工,鋸縫應盡量靠近線條,過多預留量徒增銼削時間。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 鋸切途中更換新鋸條,應改由其他切入口開始重新鋸切,主要因舊鋸條已磨損,鋸縫較窄,"
+        },
+        {
+          "type": "paragraph",
+          "text": "新鋸條易被卡住。若不得已,需循原鋸縫切入則新鋸條應緩緩進入。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 鋸斷前,減少鋸切力道,避免鋸斷瞬間撞及工件或虎鉗。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 若需鋸除內方孔再銼削,鋸條可用砂輪機磨除部分鋸背使寬度變小,如圖 3-24(a) 所示。鋸"
+        },
+        {
+          "type": "paragraph",
+          "text": "條再穿過鑽妥之孔進行鋸切,如圖 3-24(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 3-24 ȭ⻔ぜҙᅞઋʠᅞᘍ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch03/p012.jpg"
+    }
+  ]
+}

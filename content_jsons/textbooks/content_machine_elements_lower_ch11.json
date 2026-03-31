@@ -1,0 +1,4239 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_LOWER_CH11",
+  "subject": "技術型高中機械群機件原理下冊",
+  "chapter": {
+    "code": "CH11",
+    "title": "11_輪系"
+  },
+  "title": "技術型高中機械群機件原理下冊 CHAPTER 輪系",
+  "source_pdf": "技術型高中機械群機件原理下冊_PPT/11_輪系.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "輪系"
+        },
+        {
+          "type": "paragraph",
+          "text": "本簡報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 內容來源; 108 華興機件原理 - 下冊 / 連結影片及部分圖片取自網路"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "11-1 輪 系 與 輪 系 值"
+        },
+        {
+          "type": "heading",
+          "text": "11-1 輪系與輪系值"
+        },
+        {
+          "type": "heading",
+          "text": "11-2 輪 系 應 用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "11-2 輪系應用 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "11-3 周 轉 輪 系 數"
+        },
+        {
+          "type": "heading",
+          "text": "11-3 周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "11-1 輪系與輪系值"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "一、輪系 系"
+        },
+        {
+          "type": "heading",
+          "text": "值"
+        },
+        {
+          "type": "paragraph",
+          "text": "凡藉著兩個或兩個以上的齒輪、鏈輪、帶輪、摩擦輪之組合, 以傳達運動者稱為輪系 ( train )。 輪系中,藉著輪面直接或間接傳動他輪者,稱為主動輪 ( driving wheel )。反之,藉輪面直接或間接接受他輪所傳動者,稱為從 動輪 ( driven wheel )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "惰輪之功用為可改變從動輪的迴轉方向,減少輪系所占用之空 數"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "paragraph",
+          "text": "間。惰輪之數目為奇數則首末兩輪迴轉方向相同,偶數則相反。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "在一輪系中,每一軸上只有一個齒輪者稱為單式輪系。 系"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "heading",
+          "text": "值"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-1 單式輪系"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "在一輪系中,任一中間軸上有兩個或兩個以上之齒輪傳動者, 系"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "稱為複式輪系。 輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "heading",
+          "text": "值"
+        },
+        {
+          "type": "paragraph",
+          "text": "中間輪的功用為改變從動輪的迴轉方向、改變從動輪的迴轉速、 減少輪系所占用之空間。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-2 複式輪系"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "二、輪系值 系"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "在同輪系中,末輪轉數對於首輪轉數之比值,稱為輪系值 系"
+        },
+        {
+          "type": "heading",
+          "text": "值"
+        },
+        {
+          "type": "paragraph",
+          "text": "( train value ),常用 \"e\" 字母表示。 為區別主動輪及從動輪迴轉方向之異同,可在輪系值前冠以正 或負號,以正號代表迴轉方向相同,而以負號代表迴轉方向相 反。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 單式輪系之輪系值 系"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "heading",
+          "text": "值"
+        },
+        {
+          "type": "paragraph",
+          "text": "單式輪系中,所有惰輪齒數(節徑)與輪系值大小無關,但惰 輪數目可改變末輪之迴轉方向。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪系與輪系值"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-3 所示, 其輪系值為若干? 末輪之輪系值及轉向為何?"
+        },
+        {
+          "type": "heading",
+          "text": "T5 = 80t"
+        },
+        {
+          "type": "heading",
+          "text": "T4 = 50t"
+        },
+        {
+          "type": "heading",
+          "text": "T3 = 40t"
+        },
+        {
+          "type": "heading",
+          "text": "T2 = 20t"
+        },
+        {
+          "type": "heading",
+          "text": "首輪"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "末輪"
+        },
+        {
+          "type": "heading",
+          "text": "單式輪系例"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-3"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪系與輪系值"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 11 一 1 ) 得"
+        },
+        {
+          "type": "heading",
+          "text": "T2><T3><T4"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "一 ) 4"
+        },
+        {
+          "type": "heading",
+          "text": "一 ( 逆時針方向 )"
+        },
+        {
+          "type": "heading",
+          "text": "80 一"
+        },
+        {
+          "type": "heading",
+          "text": "T3><T4><T5"
+        },
+        {
+          "type": "heading",
+          "text": "1-4"
+        },
+        {
+          "type": "heading",
+          "text": "得輪系值 e ="
+        },
+        {
+          "type": "heading",
+          "text": "一轉向以逆時針方向轉動"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 複式輪系之輪系值 系"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "heading",
+          "text": "值"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用複式輪系,不但可以變更方向、縮小機構體積,也可以調 整中間輪齒數之多與少來改變輪系值。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "複式輪系首末兩輪的迴轉方向,可由中間輪軸數來決定。若中"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "間輪軸數為奇數者,則迴轉方向相同,輪系值取正值;而中間"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪軸數為偶數者,則迴轉方向相反,輪系值取負值。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪系與輪系值"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-2"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 1 1-4 所示之輪系, 各齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "60t"
+        },
+        {
+          "type": "heading",
+          "text": "30t"
+        },
+        {
+          "type": "heading",
+          "text": "40t"
+        },
+        {
+          "type": "heading",
+          "text": "之齒數如圖中標註, 其輪系值為"
+        },
+        {
+          "type": "heading",
+          "text": "25t"
+        },
+        {
+          "type": "heading",
+          "text": "30t"
+        },
+        {
+          "type": "heading",
+          "text": "20t"
+        },
+        {
+          "type": "heading",
+          "text": "若干? 當 A 輪以逆時針 240rpm"
+        },
+        {
+          "type": "heading",
+          "text": "運轉時, F 之轉數為何?"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "從動輪"
+        },
+        {
+          "type": "heading",
+          "text": "主動輪"
+        },
+        {
+          "type": "heading",
+          "text": "中間輪"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-4 複式輪系例"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪系與輪系值"
+        },
+        {
+          "type": "heading",
+          "text": "NF TA><Tc><TE"
+        },
+        {
+          "type": "heading",
+          "text": "解由公式 ( 11 一 2 ) 得 e="
+        },
+        {
+          "type": "heading",
+          "text": "30 × 25 × 20"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "NA ̄TB><TD><TF"
+        },
+        {
+          "type": "heading",
+          "text": "60 × 40 × 30"
+        },
+        {
+          "type": "paragraph",
+          "text": "一一一 ) = 十 50 卬 m ( 順時針方向 )"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        },
+        {
+          "type": "heading",
+          "text": ", 課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪系與輪系值"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-5 所示, A 齒輪齒數 100, B"
+        },
+        {
+          "type": "heading",
+          "text": "100t"
+        },
+        {
+          "type": "heading",
+          "text": "50t"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪 50, C 帶輪直徑 60cm, D 帶輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "20cm, 設 A 輪轉數為 100rpm 順時針"
+        },
+        {
+          "type": "heading",
+          "text": "方向, 試求其輪系值及 D 帶輪之轉"
+        },
+        {
+          "type": "heading",
+          "text": "數與方向各為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "D (20cm)"
+        },
+        {
+          "type": "heading",
+          "text": "C(60cm)"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-5 組合輪系例"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "TA=100 齒 'TB=50 齒 'Dc=60cm'DD=20cm'NA=100rpm"
+        },
+        {
+          "type": "heading",
+          "text": "ND TA><Dc"
+        },
+        {
+          "type": "heading",
+          "text": "100 × 60"
+        },
+        {
+          "type": "heading",
+          "text": "NA TB × DD"
+        },
+        {
+          "type": "heading",
+          "text": "50 × 20"
+        },
+        {
+          "type": "heading",
+          "text": "—600rpm ( 逆時針方向 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪系與輪系值"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-4"
+        },
+        {
+          "type": "heading",
+          "text": "21t"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-6 所示為一起重機之機構輪系, D 筒為 300mm, R 等於 300mm, 若 F 為 20N, 試求其輪"
+        },
+        {
+          "type": "heading",
+          "text": "系值及能拉起重物 W 若干牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "25t"
+        },
+        {
+          "type": "heading",
+          "text": "100t"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "84t"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-6 起重機輪系例"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪系與輪系值"
+        },
+        {
+          "type": "heading",
+          "text": "NB"
+        },
+        {
+          "type": "heading",
+          "text": "21 × 25"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "解由公式 ( 11 一 2 ) 得 e ="
+        },
+        {
+          "type": "heading",
+          "text": "NA"
+        },
+        {
+          "type": "heading",
+          "text": "100 × 84"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "× 300 × NB"
+        },
+        {
+          "type": "heading",
+          "text": "D 圓筒之切線速度"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "F 作用點之切線速度一 2 × × 300 × NA 一 2"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "paragraph",
+          "text": "由功的原理, 得 F × F 作用點切線速度 = W × D 圓筒切線速度"
+        },
+        {
+          "type": "heading",
+          "text": "F 作用點之切線速度"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "= 640 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "W = F ×"
+        },
+        {
+          "type": "heading",
+          "text": "= 20 ×"
+        },
+        {
+          "type": "heading",
+          "text": "D 圓筒之切線速度"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "例題 11-5"
+        },
+        {
+          "type": "heading",
+          "text": "輪系與輪系值"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-7 所示之複式齒輪系, A 輪齒數為 20, B 齒輪齒數為 60, C 蝸桿為單線右旋螺 紋, D 蝸輪齒數為 40 並與蝸桿 C 嚙合, E 輪齒數為 30, F 輪齒數為 40, 設 A 輪之轉數 為 320rpm 順時針方向, 試求其輪系值及 G 輪之 rpm 為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "TD=40t ( 蝸輪 )"
+        },
+        {
+          "type": "heading",
+          "text": "TE = 30t"
+        },
+        {
+          "type": "heading",
+          "text": "TF=4 t"
+        },
+        {
+          "type": "heading",
+          "text": "TA=20t"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "C 蝸桿 ( 右旋 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11 一 7 複式齒輪系"
+        },
+        {
+          "type": "heading",
+          "text": "TB = 60t"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪系與輪系值"
+        },
+        {
+          "type": "heading",
+          "text": "NF TA><Tc><TE"
+        },
+        {
+          "type": "heading",
+          "text": "20 × 1 × 30"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "解由公式 ( 11 一 2 ) 得 e ="
+        },
+        {
+          "type": "heading",
+          "text": "NA TB><TD><TF"
+        },
+        {
+          "type": "heading",
+          "text": "60 × 40 × 40"
+        },
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "= 2 ( 順時針方向 )"
+        },
+        {
+          "type": "heading",
+          "text": "NF = 320 ×"
+        },
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "11-2 輪系應用"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "在機械方面,輪系之應用極為廣泛。輪系之應用欲達到預期之"
+        },
+        {
+          "type": "heading",
+          "text": "效率及速度比,必須考慮下列幾項要點:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "1. 避免選用太大的齒輪,以免占據太多空間及增加製造成本。 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "1 用"
+        },
+        {
+          "type": "heading",
+          "text": "2. 一對齒輪之齒數比有一定範圍,不宜大於 6 或小於。"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "3. 若單式齒輪系不足以應用時,宜採用複式齒輪系,但配置齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪個數不宜太多。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 高速率比之場合,可考慮使用蝸桿與蝸輪裝置。其構造較簡"
+        },
+        {
+          "type": "paragraph",
+          "text": "單,惟效率不高。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 如使用複式輪系,則各組之比值愈接近,愈有利於傳動,輪 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒數儘量採用 5 的倍數或 4 的倍數。 數"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "例題 11-6"
+        },
+        {
+          "type": "heading",
+          "text": "輪系應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "試設計一組齒輪, 使其輪系值為 + 16, 而此一組齒輪中, 齒數不得少於 12 齒, 最多 不得多於 60 齒。"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "paragraph",
+          "text": "解 ( 1 ) 由於齒數介於 12 與 60 之間, 如採用單式輪系, 則最大的齒輪系值為 - 一 = 5,"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "paragraph",
+          "text": "顯然不足 16。 必採複式齒輪系。 ( 2 ) 分輪系值 ( 即每一對齒輪齒數比 ) 不得超過 5, 否則齒輪的最大齒數會超過 60 齒, 或齒輪的最小齒數將會小於 12 齒。 16 = 4, 小於 5, 所以可考慮用 兩段之複式齒輪系。"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 3 ) 輪系值 + 16 可分解為 1 × 16; 2 × 8; 4 × 4 等三組, 以 4 × 4 這一組較合乎要點。"
+        },
+        {
+          "type": "heading",
+          "text": "16 4"
+        },
+        {
+          "type": "heading",
+          "text": "4 · 48"
+        },
+        {
+          "type": "heading",
+          "text": "48 · 52"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        },
+        {
+          "type": "heading",
+          "text": "56"
+        },
+        {
+          "type": "heading",
+          "text": "56 · 60"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "' 13"
+        },
+        {
+          "type": "heading",
+          "text": "13 '"
+        },
+        {
+          "type": "heading",
+          "text": "14 ' 15"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "paragraph",
+          "text": "等四組複式齒輪組均可, 惟取一 × - ( 4 的倍數 ) 或 -iS × -- ( 5 的倍數 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪系應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-8 所示, 若取 5 的倍數, 即主動輪為兩個 60 齒, 從動輪為兩個 15 齒。"
+        },
+        {
+          "type": "heading",
+          "text": "A=60t"
+        },
+        {
+          "type": "heading",
+          "text": "C=60t"
+        },
+        {
+          "type": "heading",
+          "text": "從動輪"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "B=15t D=15t"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "主動輪"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11 一 8 複式輪系例"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "列舉數種常見的輪系之應用,並說明於下。 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "一、車床之換向機構"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 11-9(a) 中 1、 4 兩輪轉向相同,可用來車削右螺紋或右向自 動進刀。圖 11-9(b) 中 1、 4 兩輪轉向相逆,可用來車削左螺紋 或左向自動進刀。圖 11-9(c) 中則因惰輪與輪 1 未接觸,所以輪 4 靜止不動,造成輪 1 空轉,為車床沒有切削螺紋及自動進刀的 功能。車床之換向機構,主軸齒輪 1 與柱形齒輪 4,齒數相同,"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "N 4 T 4 本"
+        },
+        {
+          "type": "paragraph",
+          "text": "故輪系值為 = =± 1。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "N 1 T 1"
+        },
+        {
+          "type": "heading",
+          "text": "54"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回回"
+        },
+        {
+          "type": "heading",
+          "text": "回 • 回"
+        },
+        {
+          "type": "heading",
+          "text": "輪系應用"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 同向"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 反向"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 靜止"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-9 齒輪換向機構"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "二、車床之螺紋切削機構 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "車螺紋時只要裝配齒輪 5 與齒輪 7 之速比即可。齒輪 6 之中間齒 輪可以是單式或複式輪系。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "55"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-10 車床輪系"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 公制車床 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "若為單式輪系,則"
+        },
+        {
+          "type": "heading",
+          "text": "若為複式輪系,則"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "56"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 英制車床 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "若為單式輪系,則"
+        },
+        {
+          "type": "heading",
+          "text": "若為複式輪系,則"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "三、回歸輪系 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "首末兩輪裝置在同一中心線上的複式輪系稱為回歸輪系"
+        },
+        {
+          "type": "paragraph",
+          "text": "( reverted gear train )。常用於車床之後列齒輪,又稱車床後列 齒輪輪系 ( back gear train )。應用在車床上是一種減速裝置。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "回歸輪系之特性: 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "(1) S、 S 兩軸平行;"
+        },
+        {
+          "type": "heading",
+          "text": "A B"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 兩對齒輪之齒數和相等, T + T = T + T;"
+        },
+        {
+          "type": "heading",
+          "text": "A B C D"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 首末兩齒輪在同一軸線上;"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 一般應用於減速裝置。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-11 回歸輪系"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "四、時鐘輪系 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "A 軸與 C 軸(分針 M 之軸)間的輪系值為"
+        },
+        {
+          "type": "heading",
+          "text": "N C 8×8 1"
+        },
+        {
+          "type": "heading",
+          "text": "e = = ="
+        },
+        {
+          "type": "heading",
+          "text": "M"
+        },
+        {
+          "type": "heading",
+          "text": "N A 60×64 60"
+        },
+        {
+          "type": "heading",
+          "text": "則 H 與 M 之間的輪系值為"
+        },
+        {
+          "type": "heading",
+          "text": "N H 28×8 1"
+        },
+        {
+          "type": "heading",
+          "text": "e = = ="
+        },
+        {
+          "type": "heading",
+          "text": "H"
+        },
+        {
+          "type": "heading",
+          "text": "N M 42×64 12"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-12 時鐘輪系"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "五、汽車變速器輪系 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪 B 及 C 可沿齒輪軸作軸向"
+        },
+        {
+          "type": "heading",
+          "text": "滑動,移至適當位置與副軸"
+        },
+        {
+          "type": "heading",
+          "text": "上的齒輪嚙合,即達變速的"
+        },
+        {
+          "type": "paragraph",
+          "text": "目的。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-13 汽車變速器"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "在低速檔( 1 檔)時,齒輪 C 向左移與齒輪 F 嚙合。此時動力的 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "傳遞路徑為 用"
+        },
+        {
+          "type": "heading",
+          "text": "引擎軸輸入→A→D→F→C→輸出至車輪軸"
+        },
+        {
+          "type": "heading",
+          "text": "T A T F"
+        },
+        {
+          "type": "heading",
+          "text": "其輪系值為 e = ×"
+        },
+        {
+          "type": "heading",
+          "text": "F"
+        },
+        {
+          "type": "heading",
+          "text": "T D T C"
+        },
+        {
+          "type": "paragraph",
+          "text": "在中速檔( 2 檔)時,齒輪 B 向右移與齒輪 E 嚙合。此時動力的"
+        },
+        {
+          "type": "heading",
+          "text": "傳遞路徑為"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "引擎軸輸入→A→D→E→B→輸出至車輪軸"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        },
+        {
+          "type": "heading",
+          "text": "T A T E"
+        },
+        {
+          "type": "heading",
+          "text": "其輪系值為 e = ×"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "T D T B Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "在高速檔( 3 檔)時,引擎動力經由離合器直接由引擎軸(齒 系"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪 A 軸)傳給車輪軸(齒輪 B 軸)。則提供一個速度比相等的直 用 接驅動。 倒車( R 檔)時,齒輪 C 右移與倒車惰輪 H 嚙合。此時動力的傳"
+        },
+        {
+          "type": "heading",
+          "text": "遞路徑為"
+        },
+        {
+          "type": "heading",
+          "text": "引擎軸輸入→A→D→G→H→C→輸出至車輪軸"
+        },
+        {
+          "type": "heading",
+          "text": "T A T G T H"
+        },
+        {
+          "type": "heading",
+          "text": "其輪系值為 e =– × × 課"
+        },
+        {
+          "type": "heading",
+          "text": "T D T H T C 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "11-3 周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "heading",
+          "text": "一、周轉輪系"
+        },
+        {
+          "type": "paragraph",
+          "text": "各齒輪之中心軸線皆固定之輪系稱為定心輪系或稱普通輪系。 若在一輪系中有一軸固定,其他各軸都圍繞著此固定軸旋轉者, 稱為周轉輪系 ( epicyclic train )。周轉輪系可分為單式周轉輪系 及複式周轉輪系。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回回"
+        },
+        {
+          "type": "heading",
+          "text": "回回"
+        },
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 複式周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 單式周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1 1 一 1 4 周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "paragraph",
+          "text": "絕對轉數乃指該輪對固定軸之轉數,相對轉數乃指該輪對旋臂 轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "之轉數,設:旋臂轉數 N, B 齒輪轉數 N, N 及 N 之轉數為 系"
+        },
+        {
+          "type": "heading",
+          "text": "C B C B"
+        },
+        {
+          "type": "paragraph",
+          "text": "絕對轉數, B 齒輪對 C 旋臂的相對轉數為 N, N 為相對轉數。"
+        },
+        {
+          "type": "heading",
+          "text": "BC BC"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-15 周轉輪系例"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-15 所示, 若已知旋臂 C 作順時針方向迴轉 10rpm, 轉輪 B 對旋臂作順時針方 向迴轉 20rpm, 求轉輪 B 對共轉中心 O 之轉數為若干? 令 Nc = 十 10rpm, NBC = 十 20rpm"
+        },
+        {
+          "type": "heading",
+          "text": "•.•NBc=NB—Nc"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": ".•.NB=Nc+Nw=+10+(+20)=+30rpm ( 順時針方向 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "paragraph",
+          "text": "周轉輪系之輪系值一般以正負號表示首輪與末輪之轉向是否相 同。當首、末輪之轉向相同時為正號,相反時為負號。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "單式周轉輪系: 轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "heading",
+          "text": "末輪之絕對轉數-旋臂轉數 首輪齒數"
+        },
+        {
+          "type": "heading",
+          "text": "e = = ( ± )"
+        },
+        {
+          "type": "heading",
+          "text": "首輪之絕對轉數-旋臂轉數 末輪齒數"
+        },
+        {
+          "type": "heading",
+          "text": "複式周轉輪系:"
+        },
+        {
+          "type": "heading",
+          "text": "末輪之絕對轉數-旋臂轉數 各主動輪齒輪連乘積"
+        },
+        {
+          "type": "heading",
+          "text": "e = = ( ± )"
+        },
+        {
+          "type": "heading",
+          "text": "首輪之絕對轉數-旋臂轉數 各從動輪齒數連乘積"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "解決周轉輪系問題的方法有計算法及列表法兩種,舉例說明 數"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "paragraph",
+          "text": "於下。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-16 所示, 若 A 齒輪為 60 齒, 逆時針迴轉"
+        },
+        {
+          "type": "heading",
+          "text": "3 圈 (NA=—3)"
+        },
+        {
+          "type": "heading",
+          "text": ", B 齒輪為 30 齒, 旋臂 C 順時"
+        },
+        {
+          "type": "paragraph",
+          "text": "針迴轉 2 圈 (Nc=+2), 試求 B 輪之轉數為若"
+        },
+        {
+          "type": "heading",
+          "text": "干?"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "60t"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-16 周轉輪系例"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "I 解 ( 1 ) 計算法:"
+        },
+        {
+          "type": "heading",
+          "text": "TA = 60, TB = 30, NA"
+        },
+        {
+          "type": "heading",
+          "text": "一 3, Nc = 十 2"
+        },
+        {
+          "type": "heading",
+          "text": "NB —Nc"
+        },
+        {
+          "type": "heading",
+          "text": "TA"
+        },
+        {
+          "type": "heading",
+          "text": "依公式 ( 11-8 ),"
+        },
+        {
+          "type": "heading",
+          "text": "一 NA—Nc"
+        },
+        {
+          "type": "heading",
+          "text": "TB"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "一 2 ( 首、 末輪之轉向相反 )"
+        },
+        {
+          "type": "heading",
+          "text": "得 e ="
+        },
+        {
+          "type": "heading",
+          "text": "一 3 一 ( 十 2 ) 一"
+        },
+        {
+          "type": "heading",
+          "text": "30 一"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "NB = ( 一 2 ) ( 一 5 ) 十 2 = 十 12"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 列表法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "0) 第一欄: 機件轉數別 NA、 NB、 Nc 依序寫入第一欄 第二欄: 假設各輪固定於旋臂 C 上與旋臂同時迴轉, 則各輪轉數與旋臂相 同。 @第三欄: 假設旋臂 C 固定不動 (Nc=0), 各輪變成定心輪, 計算各輪轉"
+        },
+        {
+          "type": "heading",
+          "text": "數寫入各欄"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "@第四欄: 各欄直行的代數和即為各機件之實際轉數。"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "機件轉數別"
+        },
+        {
+          "type": "heading",
+          "text": "項目"
+        },
+        {
+          "type": "heading",
+          "text": "各輪固定於旋臂上"
+        },
+        {
+          "type": "heading",
+          "text": "十 2"
+        },
+        {
+          "type": "heading",
+          "text": "十 2"
+        },
+        {
+          "type": "heading",
+          "text": "十 2"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "旋臂固定不動"
+        },
+        {
+          "type": "heading",
+          "text": "= 十 10"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "各機件之轉數"
+        },
+        {
+          "type": "heading",
+          "text": "十 12"
+        },
+        {
+          "type": "heading",
+          "text": "十 2"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "paragraph",
+          "text": "說明: ( 1 ) 各輪固定於旋臂上, 即各軸之轉數與旋臂之轉數相同。 Nc=+2, A、 B 兩輪與旋臂無相對運動, NA=+2, NB = 十 2。 ( 2 ) 旋臂固定不動, Nc= 0, 則各輪均設定為定心輪,"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 3 ) 各機件之最終轉數等於 ( 1 )、 ( 2 ) 步驟中之代數和, 也是各機件實際轉 數, NB = 十 12。"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-17 所示, A 齒輪軸為共轉中心 'A 齒輪為主動輪。 NA = + 3, Nc = 一 2, A、 B、 D 各齒輪的齒數分別為 60、 20、 30 齒,"
+        },
+        {
+          "type": "heading",
+          "text": "求 B 及 D 各齒輪之轉數為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "60t"
+        },
+        {
+          "type": "heading",
+          "text": "20t"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "周轉輪系例"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11 一 17"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "I 解 ( 1 ) 計算法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "TA = 60, TB = 20, TD 30, NA = 十 3, Nc = 一 2"
+        },
+        {
+          "type": "heading",
+          "text": "= ZZ 一 63"
+        },
+        {
+          "type": "heading",
+          "text": "Z Z"
+        },
+        {
+          "type": "heading",
+          "text": "一一 62"
+        },
+        {
+          "type": "heading",
+          "text": "依公式 ( 11 一 8 ),"
+        },
+        {
+          "type": "heading",
+          "text": "0 一 0 ="
+        },
+        {
+          "type": "heading",
+          "text": "得 e ="
+        },
+        {
+          "type": "heading",
+          "text": "一 17"
+        },
+        {
+          "type": "heading",
+          "text": "( 十 3 ) 一 ( 一 2 )"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "0-0"
+        },
+        {
+          "type": "heading",
+          "text": "十 2, ND = 十 8"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 列表法:"
+        },
+        {
+          "type": "heading",
+          "text": "機件轉數別"
+        },
+        {
+          "type": "heading",
+          "text": "項目"
+        },
+        {
+          "type": "heading",
+          "text": "各輪固定於旋臂上"
+        },
+        {
+          "type": "heading",
+          "text": "一 2"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 1 ) ( 十 5 ) ×"
+        },
+        {
+          "type": "heading",
+          "text": "旋臂固定不動"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "十 5"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "= 十 10"
+        },
+        {
+          "type": "heading",
+          "text": "一 15"
+        },
+        {
+          "type": "heading",
+          "text": "各機件之轉數"
+        },
+        {
+          "type": "heading",
+          "text": "十 3"
+        },
+        {
+          "type": "heading",
+          "text": "一 17"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-10"
+        },
+        {
+          "type": "heading",
+          "text": "如"
+        },
+        {
+          "type": "heading",
+          "text": "所示為含有內齒輪之複式周"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1 1-18"
+        },
+        {
+          "type": "heading",
+          "text": "轉輪系, A 齒輪為共轉中心, 當主動 A"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪 NA = 十 200, D 齒輪 ND = 一 20, 則"
+        },
+        {
+          "type": "heading",
+          "text": "旋臂的轉數 Nc, 及 B 齒輪之轉數 NB 各"
+        },
+        {
+          "type": "paragraph",
+          "text": "為若干? ( 齒數 TA = 20t, TB = 30t,"
+        },
+        {
+          "type": "heading",
+          "text": "TD=90t'TE=15t)"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-18 周轉輪系例"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "I 解 ( 1 ) 計算法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "TA = 20t, TB = 30t, TD = 90t, TE = 15t, NA = 十 200, ND"
+        },
+        {
+          "type": "heading",
+          "text": "一 20"
+        },
+        {
+          "type": "heading",
+          "text": "ND —Nc"
+        },
+        {
+          "type": "heading",
+          "text": "依公式 ( 11 一 8 )"
+        },
+        {
+          "type": "heading",
+          "text": "一 NA—Nc"
+        },
+        {
+          "type": "heading",
+          "text": "(—20)—Nc"
+        },
+        {
+          "type": "heading",
+          "text": "20 × 15"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 9 一"
+        },
+        {
+          "type": "heading",
+          "text": ", Nc = 十 2"
+        },
+        {
+          "type": "heading",
+          "text": "十 200 一 Nc"
+        },
+        {
+          "type": "heading",
+          "text": "30 × 90"
+        },
+        {
+          "type": "heading",
+          "text": "NB —Nc"
+        },
+        {
+          "type": "heading",
+          "text": "NB—2"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "一 NA—Nc 一十 200 一 2 一"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 列表法:"
+        },
+        {
+          "type": "heading",
+          "text": "機件轉數別"
+        },
+        {
+          "type": "heading",
+          "text": "NB(NE)"
+        },
+        {
+          "type": "heading",
+          "text": "Z X 0 X"
+        },
+        {
+          "type": "heading",
+          "text": "項目"
+        },
+        {
+          "type": "heading",
+          "text": "各輪固定於旋臂上"
+        },
+        {
+          "type": "heading",
+          "text": "X"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        },
+        {
+          "type": "heading",
+          "text": "旋臂固定不動"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "各機件之轉數"
+        },
+        {
+          "type": "heading",
+          "text": "十 200"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "paragraph",
+          "text": "說明: ( 1 ) 在 NA 下, X + Y = + 200..."
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 在 N ” 下, X 十 ( 一 Y × × ) ="
+        },
+        {
+          "type": "heading",
+          "text": "-0 1"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "LO 一 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "解、 兩式, X 一 ( 200 一 X ) × ×"
+        },
+        {
+          "type": "heading",
+          "text": "一 20"
+        },
+        {
+          "type": "heading",
+          "text": "200 X"
+        },
+        {
+          "type": "heading",
+          "text": "一 20 得 X = 十 2"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "51"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "機件轉數別"
+        },
+        {
+          "type": "heading",
+          "text": "NB(NE)"
+        },
+        {
+          "type": "heading",
+          "text": "項目"
+        },
+        {
+          "type": "heading",
+          "text": "各輪固定於旋臂上"
+        },
+        {
+          "type": "heading",
+          "text": "十 2"
+        },
+        {
+          "type": "heading",
+          "text": "十 2"
+        },
+        {
+          "type": "heading",
+          "text": "十 2"
+        },
+        {
+          "type": "heading",
+          "text": "十 2"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 1 ) × 198 ×"
+        },
+        {
+          "type": "heading",
+          "text": "旋臂固定不動"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "十 198"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "一 132"
+        },
+        {
+          "type": "heading",
+          "text": "一 22"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "各機件之轉數"
+        },
+        {
+          "type": "heading",
+          "text": "十 200"
+        },
+        {
+          "type": "heading",
+          "text": "一 130"
+        },
+        {
+          "type": "heading",
+          "text": "一 20"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "二、周轉輪系的應用 轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 三重滑車組"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "66"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-19 三重滑車組"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "其傳動順序如下: 轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "paragraph",
+          "text": "起重鏈輪 A→ 主軸 S→ 齒輪 H→ 齒輪 E (齒輪 E 與 C 為一體) 齒輪 E→ 齒輪 C→ 內齒輪 D (內齒輪 D 為外殼固定不動)"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪 C→ 旋臂 B→ 鏈輪 G→ 吊起重物 W"
+        },
+        {
+          "type": "paragraph",
+          "text": "N 為主動鏈輪 A 的轉數; N 為內齒輪 D 的轉數; N 為鏈輪 G 的"
+        },
+        {
+          "type": "heading",
+          "text": "A D G"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉數; N 為齒輪 H 的轉數; N 為旋臂 B 的轉數。"
+        },
+        {
+          "type": "heading",
+          "text": "H B"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "66"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "paragraph",
+          "text": "T、 T、 T、 T 分別為齒輪 H、 C、 E、 D 的齒數。因 N = N 轉"
+        },
+        {
+          "type": "heading",
+          "text": "H C E D A H"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "(鏈輪 A 與齒輪 H 固定在 S 軸上), N = 0 (齒輪 D 為固定內齒 系"
+        },
+        {
+          "type": "heading",
+          "text": "D"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪), N = N (旋臂 B 與軸 G 連為一體),以齒輪 H 為首輪,"
+        },
+        {
+          "type": "heading",
+          "text": "B G"
+        },
+        {
+          "type": "heading",
+          "text": "內齒輪 D 為末輪,則輪系值為"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "55"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 斜齒輪周轉輪系 轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "paragraph",
+          "text": "周轉輪系中含有斜齒輪者,稱為斜齒輪周轉輪系。 設齒輪2的迴轉方向箭頭向上為正(+),齒輪3的迴轉方向 箭頭向下為負( – )。通常斜齒輪4與斜齒輪6的齒數必相等, 故其輪系值為 – 1。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 11-20 斜齒輪周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "56"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "例題 11-11"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-20 所示之斜齒輪周轉輪系, 設軸的轉數為 + 5 次, 輪的轉數為一 2 次,"
+        },
+        {
+          "type": "heading",
+          "text": "試求輪 O 的轉數為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "解 ( 1 ) 計算法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nc = N2 = 十 5, N3 = 一 2, e"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "N7 一 Nc"
+        },
+        {
+          "type": "heading",
+          "text": "N7 一 ( 十 5 )"
+        },
+        {
+          "type": "heading",
+          "text": "· · · N7 = 十 12"
+        },
+        {
+          "type": "heading",
+          "text": "一 1"
+        },
+        {
+          "type": "heading",
+          "text": "N3 一 Nc"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 2 ) 一 ( 十 5 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 列表法:"
+        },
+        {
+          "type": "heading",
+          "text": "機件轉數別"
+        },
+        {
+          "type": "heading",
+          "text": "N3 (N4)"
+        },
+        {
+          "type": "heading",
+          "text": "Nc (N2)"
+        },
+        {
+          "type": "heading",
+          "text": "N7 (N6)"
+        },
+        {
+          "type": "heading",
+          "text": "項目"
+        },
+        {
+          "type": "heading",
+          "text": "各輪固定於旋臂上"
+        },
+        {
+          "type": "heading",
+          "text": "十 5"
+        },
+        {
+          "type": "heading",
+          "text": "十 5"
+        },
+        {
+          "type": "heading",
+          "text": "十 5"
+        },
+        {
+          "type": "heading",
+          "text": "旋臂固定不動"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 2 ) 一 ( 十 5 ) = 一 7"
+        },
+        {
+          "type": "heading",
+          "text": "= 十 7"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "各機件之轉數"
+        },
+        {
+          "type": "heading",
+          "text": "十 12"
+        },
+        {
+          "type": "heading",
+          "text": "十 5"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p058.jpg"
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 汽車差速器輪系 轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "paragraph",
+          "text": "汽車差速器 ( automobile differential gear ) 是讓兩側車輪產生轉 速差的機構,當在汽車於轉彎時,外側車輪走的路徑要比內側 車輪走的路徑要大,所以如果汽車想順暢和精確的轉彎,就需 要使用汽車差速器。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回回"
+        },
+        {
+          "type": "heading",
+          "text": "周轉輪系"
+        },
+        {
+          "type": "heading",
+          "text": "驅動軸"
+        },
+        {
+          "type": "heading",
+          "text": "斜齒輪 1"
+        },
+        {
+          "type": "heading",
+          "text": "回..."
+        },
+        {
+          "type": "heading",
+          "text": "斜齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "環齒輪 2"
+        },
+        {
+          "type": "heading",
+          "text": "環齒輪 2"
+        },
+        {
+          "type": "heading",
+          "text": "斜齒輪 3"
+        },
+        {
+          "type": "heading",
+          "text": "斜齒輪 5"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "左軸"
+        },
+        {
+          "type": "heading",
+          "text": "右軸"
+        },
+        {
+          "type": "heading",
+          "text": "斜齒輪 4"
+        },
+        {
+          "type": "heading",
+          "text": "斜齒輪 3"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 差速器示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 汽車差速器實物照"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "差速器"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1 1-21"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "paragraph",
+          "text": "汽車若直線前進,斜齒輪 3、 4 及 5 成為一體沒有相對運動,則 轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "動力均衡的輸入左軸及右軸,兩軸之轉速相同。汽車若向左轉, 系 此時左軸減速,則右軸加速,即可左轉。同理可知,汽車向右 轉,右軸減速,則左軸加速。如果左軸之速度為 0,即固定不轉 時,右軸的轉速會增加至二倍,即輪系值為+ 2,即得快速左彎。"
+        },
+        {
+          "type": "heading",
+          "text": "如下表所示:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "paragraph",
+          "text": "環齒輪 2 轉 1 圈( N = 1 ):當 N = 0 時, N =+ 2,快速左彎。 轉"
+        },
+        {
+          "type": "heading",
+          "text": "2 4 5"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "當 N = 0 時, N =+ 2,快速右彎。 系"
+        },
+        {
+          "type": "heading",
+          "text": "5 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "即左右輪轉速和等於輪系臂環齒輪輪盤轉速之兩倍。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "69"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 太陽行星輪系 轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "系"
+        },
+        {
+          "type": "paragraph",
+          "text": "B 為引擎軸,齒輪 2 固定在引擎軸 B 上一起旋轉。齒輪 3 固定在連 桿 4 的一端,兩者視為一體。齒輪 3 之軸心在固定槽 G 內繞行。 齒輪 2 與齒輪 3 之連心線 BC 可視為旋臂 m。 設齒輪 2 與齒輪 3 之齒數相等,則其輪系值 e = – 1。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "70"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "63"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p063.jpg"
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "paragraph",
+          "text": "連桿 4 的另一端與活塞連接。當活塞往復一次時,連桿 4 帶動齒 轉"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪 3 在固定槽 G 內繞行一周,即 N = 1。齒輪 3 固定在連桿 4 上, 系"
+        },
+        {
+          "type": "heading",
+          "text": "m"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪 3 不轉動,故 N = 0。代入公式( 11-11 ),可求得 N =+"
+        },
+        {
+          "type": "heading",
+          "text": "3 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "2,即齒輪 2 及引擎軸迴轉 2 次。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "70"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p064.jpg"
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch11/p065.jpg"
+    }
+  ]
+}

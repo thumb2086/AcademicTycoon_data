@@ -1,0 +1,629 @@
+{
+  "bundle_id": "MOCK_101_1_ME1",
+  "questions": [
+    {
+      "id": "MOCK_101_1_ME1_001",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "有關各種運動對的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "螺旋對屬於低對",
+        "齒輪傳動屬於高對",
+        "迴轉對屬於低對",
+        "活塞與汽缸間屬於高對"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "滑動對應屬於低對 R = F ⋅ cos θ + F ⋅ sin θ + 2 WF sin θ + W"
+    },
+    {
+      "id": "MOCK_101_1_ME1_002",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "火車車輪在鐵軌上行駛,有關車輪與鐵軌間之對偶關係的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "屬於力鎖對",
+        "屬於迴轉對",
+        "屬於直接接觸傳動",
+        "屬於高對"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "車輪與鐵軌間之對偶關係,應屬於滾動對 R 2 = F 2 (cos 2 θ + sin 2 θ ) + 2 WF sin θ + W 2"
+    },
+    {
+      "id": "MOCK_101_1_ME1_003",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 一 ) 所示之運動鏈,若以 N 表桿件數,以 P 表對偶數,則下列敘述何者正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p001_625_761_869_1110.png",
+      "options": [
+        "N = 9, P = 10,屬於非拘束運動鏈",
+        "N = 10, P = 8,屬於拘束運動鏈",
+        "N = 8, P = 12,屬於呆鏈",
+        "N = 8, P = 10,屬於拘束運動鏈 圖 ( 一 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "如下圖所示,得 P = 10, N = 8 2 2 2 R = F + 2 WF sin θ + W 3 3 N − 2 = × 8 − 2 = 10 R = F 2 + W 2 + 2 ⋅ F ⋅ W ⋅ sin θ 2 2 3 (D) 因 F ⋅ cos θ 不為零,由平衡條件可知,物體要 符合 P = N − 2,故此運動鏈為拘束運動鏈 達到靜止狀態,接觸面間必存在摩擦力 2"
+    },
+    {
+      "id": "MOCK_101_1_ME1_004",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "有關螺旋的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "當螺紋旋轉一圈,在軸向上所移動的距離,稱為導程 (lead)",
+        "相鄰二螺紋間,相對應點之間的距離,稱為螺距 (pitch)",
+        "在螺旋線上任一點的切線與軸線所夾的角度,稱為導程角 (lead angle)",
+        "相鄰二螺紋間之牙面的夾角,稱為螺紋角 (thread angle)"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "在螺旋線上任一點的切線與軸線所夾的角度,應 且不在同一直線上的二力稱之。 稱為螺旋角 (Helix angle) 力偶矩 (couple moment):力偶對平面上任一點所產"
+    },
+    {
+      "id": "MOCK_101_1_ME1_005",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "有關各種螺紋及用途的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "鋸齒形螺紋常用於起重用途",
+        "國際公制標準螺紋常用於連接用途",
+        "圓螺紋常用於高速傳動用途",
+        "統一標準螺紋常用於連接用途"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "圓螺紋常用於輕鎖緊用途 生的力矩稱之。 ( 等於力偶中任一力與二力之間的"
+    },
+    {
+      "id": "MOCK_101_1_ME1_006",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "一螺紋標註為 M 14 × 2,有關此螺紋之敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "此螺紋的導程為 2 mm",
+        "此螺紋的螺紋角為 60°",
+        "此螺紋之公稱直徑為 14 mm",
+        "此螺紋為雙線螺紋"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "M 14 × 2 此螺紋為單線螺紋,節距與導程均為 2 mm 垂直距離的乘積 )"
+    },
+    {
+      "id": "MOCK_101_1_ME1_007",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "若一機械需輸入 1000 焦耳的能量時,可輸出 800 焦耳的能量,下列敘述何者正確?",
+      "image_url": "",
+      "options": [
+        "本機械之機械效率為 20%",
+        "本機械之機械利益為 80%",
+        "如欲輸出 500 焦耳的能量,則需輸入 700 焦耳的能量",
+        "如將二部同樣的機械串聯使用,則機械效率低於一部機械單獨使用"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "本機械之機械效率應為 80%,如欲輸出 500 焦耳的"
+    },
+    {
+      "id": "MOCK_101_1_ME1_008",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 二 ) 所示之螺旋組合,當手柄旋轉一圈,二螺旋件之間的距 離將減少或增加多少?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p002_134_365_753_1105.png",
+      "options": [
+        "1 mm",
+        "1.25 mm",
+        "2.25 mm 圖 ( 二 )",
+        "0.25 mm"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "總導程 L = L 1 + L 2, L ="
+    },
+    {
+      "id": "MOCK_101_1_ME1_009",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "一般街道上的路燈裝置時,路燈底部需固定於路面基座上,請問使用下列何種螺栓較為適 當?",
+      "image_url": "",
+      "options": [
+        "貫穿螺栓 (Through Bolt)",
+        "帶頭螺栓 (Tap Bolt)",
+        "柱頭螺栓 (Stud Bolt)",
+        "基礎螺栓 (Foundation Bolt)"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_010",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "有關各種螺帽用途的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "翼形螺帽:又稱凸緣螺帽,同時具有墊圈功能",
+        "蓋頭螺帽:鎖固後螺栓不露出,使用於防洩場合",
+        "堡形螺帽:配合開口銷使用,具有防鬆功能",
+        "環首螺帽:常用於於機器吊掛作業"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "墊圈底座螺帽又稱凸緣螺帽,同時具有墊圈功能 5"
+    },
+    {
+      "id": "MOCK_101_1_ME1_011",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "有關墊圈的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "一般墊圈外徑較螺帽大,可增加承壓面積",
+        "常見的墊圈材質較工件硬度高,可重複使用多次",
+        "可有效增加接觸面間的摩擦力,防止螺帽鬆脫",
+        "可提供一平整的接觸面,便於鎖緊"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "墊圈材質一般較工件硬度低"
+    },
+    {
+      "id": "MOCK_101_1_ME1_012",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "有關鍵的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "鍵使用時,為了增加耐用性,一般多採用強度比軸高的合金鋼製成",
+        "鍵安裝時,在軸上的槽稱鍵座;在輪轂上的槽稱鍵槽",
+        "鍵使用時,主要承受的應力有剪應力及壓應力",
+        "鍵裝置於軸與輪轂上,在機件的分類中屬於連接用機件"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "鍵多採用強度比軸低的材質,一般使用中碳鋼製 W ⋅ BC ⋅ cos θ = R ⋅ AC ⋅ sin θ 1 A 2 成 BC ⋅ cos θ F R = 1 W, BC 與 AC 均大於零,且 θ 與"
+    },
+    {
+      "id": "MOCK_101_1_ME1_013",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "有關各種鍵的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "半圓鍵之直徑約等於配合軸的直徑",
+        "切線鍵適合用於承受衝擊負荷處",
+        "栓槽鍵可使配合的輪轂作軸向滑動",
+        "鞍鍵用於傳遞極大的動力"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_014",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "一平鍵 12 × 8 × 40 mm,裝置於直徑 20 mm 之軸上,若容許剪應力為 60 MPa,容許壓應力為 100 MPa,則所能傳遞之最大扭力為何?",
+      "image_url": "",
+      "options": [
+        "160 N ⋅ m",
+        "288 N ⋅ m",
+        "320 N ⋅ m",
+        "576 N ⋅ m"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "容許剪應力: 60 =, F = 28800 (N) A 1 12 × 40 AC ⋅ sin θ 2 T = 28800 ×"
+    },
+    {
+      "id": "MOCK_101_1_ME1_015",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "有關各種機件的公制錐度或斜度的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "錐形銷 (Taper Pin) 錐度為 1: 50",
+        "圓鍵 (Round Key) 錐度為 1: 100",
+        "斜鍵 (Taper Key) 斜度為 1: 100",
+        "鞍鍵 (Saddle Key) 斜度為 1: 100"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "圓鍵 (Round Key) 錐度為 1: 50 AB ⋅ cos θ 2"
+    },
+    {
+      "id": "MOCK_101_1_ME1_016",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "裝置於自行車塊狀剎車機構上的彈簧,在剎車後會使剎車把手自動回彈至原位置。上述作用 應屬於彈簧之何種功能?",
+      "image_url": "",
+      "options": [
+        "吸收震動",
+        "儲存能量",
+        "固定",
+        "量測"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_017",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 三 ) 所示,一物體重 100 N,以二條彈簧常數均為 100 N / cm 之彈簧與左側牆壁連接,於圖 示之位置時彈簧不受力,假設所有接觸面為光滑無摩擦,試求將物體往右側移動至 20 mm 時, 所需拉力 F 的大小為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p003_632_749_852_1085.png",
+      "options": [
+        "100 N",
+        "400 N",
+        "1000 N 圖 ( 三 )",
+        "4000 N"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "屬於並聯, K = 100 + 100 = 200 N / cm R C = W,同理可知, R C 必大於零, sin θ ⋅ AC F = K ⋅ X = 200 × 2 = 400 (N) 1"
+    },
+    {
+      "id": "MOCK_101_1_ME1_018",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "剛性聯結器用於連接二軸軸心重合的處所,下列何者 不屬於 剛性連結器?",
+      "image_url": "",
+      "options": [
+        "筒形聯結器 (Rigid Coupling)",
+        "摩擦阻環聯結器 (Friction Coupling)",
+        "歐丹聯結器 (Oldham’s Coupling)",
+        "賽勒氏錐形聯結器 (Seller’s Cone Coupling)"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_019",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "下列離合器中,何者 不是 以摩擦力傳遞動力?",
+      "image_url": "",
+      "options": [
+        "超越式離合器 (Overrunning Clutch)",
+        "乾流體離合器 (Dry-fluid Clutch)",
+        "圓盤離合器 (Disk Clutch)",
+        "棘爪離合器 (Ratchet Jaw Clutch)"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "乾流體離合器 (Dry-fluid Clutch) 以離心力將乾流體 表方向與假設方向相同,故 BC 桿受壓力。繩索僅 向外甩出集中,經由增加乾流體與從動板間之摩 能承受拉力 擦力而傳動 第二部份:機械力學"
+    },
+    {
+      "id": "MOCK_101_1_ME1_020",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "有關滑動軸承相對於滾動軸承比較的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "滑動軸承有較大的潤滑需求",
+        "滑動軸承適合重負荷動力傳遞",
+        "滑動軸承適合長時間高速運轉",
+        "滑動軸承適合承受衝擊負荷"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_021",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "下列敘述中,何者符合力的可傳性之特性?",
+      "image_url": "",
+      "options": [
+        "揮棒擊球,球沿拋物線路徑飛行",
+        "二人同時推車,可改為一人推車另一人拉車且效果相同",
+        "手推牆壁,可感受到牆壁反推的力量",
+        "游泳時以手往後撥水可讓人往前運動,施力愈大則往前的速度愈快"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_022",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "有關物體平衡時的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "所受合力必定為零",
+        "物體可作等速圓周運動",
+        "物體可作等速直線運動",
+        "物體可原地靜止不動"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_023",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "下列物理量,何者 不為 向量?",
+      "image_url": "",
+      "options": [
+        "力矩",
+        "功率",
+        "位移",
+        "加速度"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_024",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "以 N 表示牛頓、 m 表示公尺、 s 表示秒,則下列何項物理量的單位 不正確? 2",
+      "image_url": "",
+      "options": [
+        "N / m 為應力單位",
+        "N ⋅ m 為力矩單位 2",
+        "m / s 為速度單位",
+        "N ⋅ m / s 為功率單位"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_025",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 四 ) 所示,重 W 之物體受一與水平夾 θ 角之 F 力作用而 保持靜止,則下列何者 不正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p004_1145_1339_786_1122.png",
+      "options": [
+        "F 之水平方向分力大小為 F ⋅ cos θ",
+        "F 之鉛直方向分力大小為 F ⋅ sin θ 2 2",
+        "F 與 W 之合力的大小 R = F + W + 2 ⋅ F ⋅ W ⋅ sin θ 圖 ( 四 )",
+        "物體與地面的接觸面可視為光滑無摩擦"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "(A) F 之水平方向分力為 F ⋅ cos θ (B) F 之鉛直方向分力為 F ⋅ sin θ (C) 鉛直方向合力為 F ⋅ sin θ + W 101-1 機械群 專業科目(一) π a ⋅ sin"
+    },
+    {
+      "id": "MOCK_101_1_ME1_026",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "方向相反、大小相等,相互平行,且不在同一直線上的二力稱之為何?",
+      "image_url": "",
+      "options": [
+        "力偶 (couple)",
+        "應力 (stress)",
+        "力偶矩 (couple moment)",
+        "彎矩 (bending moment)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "力偶 (couple):方向相反、大小相等,相互平行,"
+    },
+    {
+      "id": "MOCK_101_1_ME1_027",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 五 ) 所示,一均質桿長 L,重量為 W,一端以絞支承接於地面,另一端靠於光滑無摩擦之 牆面上,則下列之自由體圖,何者可表示桿之受力情形?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p005_213_594_643_1083.png",
+      "options": [
+        "",
+        "",
+        "",
+        "圖 ( 五 )"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_028",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 六 ) 所示,一 L 形桿件在 A 點以絞支承固定於牆面, B 端以繩 索連接並固定於 C 點, D 點承受一重 160 N 負荷,若不計桿重,試 求繩索張力為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p005_590_875_729_1104.png",
+      "options": [
+        "50 N",
+        "100 N",
+        "150 N 圖 ( 六 )",
+        "200 N"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_029",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 七 ) 所示, AB 桿與 BC 桿組成一結構,於 B 點一繩索吊掛一重 物 W,下列各構件的受力情形何者正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p005_895_1090_724_1121.png",
+      "options": [
+        "AB 桿承受壓力, BC 桿承受壓力",
+        "AB 桿承受拉力, BC 桿承受拉力",
+        "AB 桿承受壓力, BC 桿承受拉力 圖 ( 七 )",
+        "AB 桿承受拉力, BC 桿承受壓力"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_030",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 八 ) 所示,若 A 物體重 200 N,則 BC 繩與 CD 繩內之 張力為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p005_1106_1274_844_1093.png",
+      "options": [
+        "T BC = 100 3 N, T CD = 100 N",
+        "T BC = 50 3 N, T CD = 150 N",
+        "T BC = 100 N, T CD = 75 3 N 圖 ( 八 )",
+        "T BC = 200 3 N, T CD = 100 3 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "∑ Fx = 0, T BC ⋅ cos 60 ° − T CD ⋅ cos 30 ° = 0 2 6 2 a"
+    },
+    {
+      "id": "MOCK_101_1_ME1_031",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 九 ) 所示,求 A 與 B 點之支承反力各為多少?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p005_1366_1549_765_1105.png",
+      "options": [
+        "R A = 40 N, R B = 40 N",
+        "R A = 80 N, R B = 70 N",
+        "R A = 50 N, R B = 80 N",
+        "R A = 60 N, R B = 50 N 圖 ( 九 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "∑ M A = 0, 60 × 2 + 50 × 4 − 50 − 30 × 1 − 6 R B = 0 5 5 6 R B = 240, R B = 40 (N) 4 ∑ Fx = 0, f − F = 0 ∑ M B = 0, 6 R A + 30 × 5 − 50 − 60 × 4 − 50 × 2 = 0 5 3 4 6 R A = 240, R A = 40 (N) f = μ ⋅ N = μ × ( W − F ) = F 5 5 4 3 μ W = ( + μ ) F 5 5 μ W"
+    },
+    {
+      "id": "MOCK_101_1_ME1_032",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 十 ) 所示,質點 A 重 6 kg,質點 B 重 2 kg,質點 C 重 2 kg, 試求此三質點系統之重心位置為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p006_134_372_749_1075.png",
+      "options": [
+        "x = 1. 6, y = 1. 8",
+        "x = 1. 8, y = 1. 8",
+        "x = 1. 6, y = 2. 0 圖 ( 十 )",
+        "x = 2. 0, y = 2. 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "38. a =, 81 ="
+    },
+    {
+      "id": "MOCK_101_1_ME1_033",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 十一 ) 所示,試求圖中斜線部份面積之形心位置為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p006_380_647_727_1083.png",
+      "options": [
+        "x = 15, y = 13. 5",
+        "x = 13. 5, y = 14",
+        "x = 12. 5, y = 15",
+        "x = 10, y = 12 圖 ( 十一 )"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "面積 x y A 600 15 10 B 200 5 30 1 2 1 總面積 800 x y"
+    },
+    {
+      "id": "MOCK_101_1_ME1_034",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 十二 ) 所示,一半徑為 a 之扇形,試求圖中扇形面積 之形心位置為何? a 3 a",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p006_708_905_853_1053.png",
+      "options": [
+        "x =, y = π π 2 a 2 a",
+        "x =, y = π π 2 a a",
+        "x =, y = 圖 ( 十二 ) π π 3 a 2 a",
+        "x =, y = π π"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "R = ⋅ = 3 π π 1 3 ⋅ T BC = ⋅ T CD, T BC = 3 ⋅ T CD 6 2 2 2 a 1 a ∑ Fy = 0, T BC ⋅ sin 60 ° + T CD ⋅ sin 30 ° − 200 = 0 x = R ⋅ cos 60 ° = × = π 2 π 3 1 3 1 T BC + T CD = 200, ⋅ 3 T CD + T CD = 200 2 a 3 3 a 2 2 2 2 y = R ⋅ sin 60 ° = × = π 2 π 2 T CD = 200, TCD = 100 (N), TBC = 100 3 (N)"
+    },
+    {
+      "id": "MOCK_101_1_ME1_035",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 十三 ) 所示,重 W 之物體 A 置於傾斜角為 θ 的斜面 上而保持靜止,試求接觸面上之摩擦力大小為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p006_1034_1175_861_1069.png",
+      "options": [
+        "W ⋅ sin θ",
+        "W ⋅ cos θ",
+        "W ⋅ tan θ 圖 ( 十三 )",
+        "0"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_036",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "如圖 ( 十四 ) 所示,物體 A 重 460 N,以 F 經繩索及滑輪欲將之拉 動,若物體 A 與地面間的靜摩擦係數為 0.2,並忽略繩索及滑輪 之摩擦,試求最小作用力 F?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p006_1270_1449_789_1069.png",
+      "options": [
+        "92 N",
+        "100 N",
+        "230 N 圖 ( 十四 )",
+        "276 N"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "∑ Fy = 0, N + F − W = 0, N = W − F"
+    },
+    {
+      "id": "MOCK_101_1_ME1_037",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "一列車作直線等加速度運動,若初速度為時速 9 公里,經過 50 秒後,其速度變為時速 81 公 里,試求列車之加速度為何? 2",
+      "image_url": "",
+      "options": [
+        "22.5 m / sec 2",
+        "1.62 m / sec 2",
+        "1.44 m / sec 2",
+        "0.4 m / sec"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_038",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "一物體作直線運動,其運動過程中速度與時間之關係 如圖 ( 十五 ) 所示,則下列敘述何者正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_1_me1/p007_357_604_814_1121.png",
+      "options": [
+        "此物體在 B - C 段為靜止不動",
+        "此物體從 A 到 E 點間之位移為 300 公尺",
+        "此物體在 A - B 與 F - G 段有相同的加速度 圖 ( 十五 )",
+        "此物體從 A 到 G 之最後位移為 0 2"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：101-1-四技二專-機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ME1_039",
+      "subject": "機械群專一",
+      "unit": "101-1-四技二專-機械群專一",
+      "q": "一物體作直線等加速度運動,出發 10 秒後又回到原地,若已知其加速度 a 為 − 10 m / sec,試求 物體出發時之初速度為何?",
+      "image_url": "",
+      "options": [
+        "25 m / sec",
+        "50 m / sec",
+        "75 m / sec",
+        "100 m / sec"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：101-1-四技二專-機械群專一解析.pdf"
+    }
+  ]
+}

@@ -1,0 +1,4377 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH02",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH02",
+    "title": "CH2"
+  },
+  "title": "機械力學 Chapter 2 平面力系",
+  "source_pdf": "機械力學/CH2PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH02",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "平面力系"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "2-1 力的分解與合成 1. 能瞭解力的分解與合成之方法。 2-2 自由體圖 2. 能正確繪出自由體圖。 2-3 力矩與力矩原理 3. 能瞭解力矩與力矩原理的定義 2-4 力偶 及計算。 2-5 同平面各種力系之合成及平 4. 能瞭解力偶的定義及轉換。"
+        },
+        {
+          "type": "heading",
+          "text": "衡 5. 能瞭解同平面各種力系之合成"
+        },
+        {
+          "type": "paragraph",
+          "text": "及平衡。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "26"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂力系是指兩個或兩個以上的力,同時作用於一物體的一個力系統。本章主要介紹 的是同平面力系,包含共點力系、平行力系及非共點非平行力系三大類。本章內容稍多, 同學們只要熟練每一單元的課程,即可對本章的問題迎刃而解。另外研究機械力學時,自 由體圖具有不可或缺的地位,對物體各種狀況所產生的自由體圖均應熟練其繪製方法,方 可順利解決機械力學的各種問題 ( 圖 2-1、圖 2-2)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-1 鋼構橋樑 ▲ 圖 2-2 101 大樓阻尼器"
+        },
+        {
+          "type": "heading",
+          "text": "2-1 力的分解與合成"
+        },
+        {
+          "type": "paragraph",
+          "text": "力學問題的運算求解為達快速與正確性,經常運用力的分解與合成的技巧方法,以簡 化流程,無論採計何種方式,其外效應均不改變,即物體的運動狀態不改變。"
+        },
+        {
+          "type": "heading",
+          "text": "一、力的分解 (resolution of a force)"
+        },
+        {
+          "type": "paragraph",
+          "text": "力是一種向量,向量就必須考慮到方向。那麼,不同方向的力量要如何相加減呢?可 利用力的分解,把力量分解成同向相加、反向相減。將一單力可分解成兩個或兩個以上分 力的力系,不改變物體的外效應,稱為力的分解。一單力若無條件限制分解,其可分解成 無限個分力,任一分力和原始一單力數值相比較,即分力可大於、小於、等於原始的一單 力,並無絕對性的大小關係。力學的運算過程,經常將一單力 F 依座標系統分解成為水 平與垂直方向的兩個分力或與斜面垂直和平行的分力。力的分解方式可分為兩種,說明如"
+        },
+        {
+          "type": "heading",
+          "text": "下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 代數法"
+        },
+        {
+          "type": "heading",
+          "text": "對邊 鄰邊"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-3 所示,為三角函數 sin q =, cos q = 的應用。"
+        },
+        {
+          "type": "heading",
+          "text": "斜邊 斜邊"
+        },
+        {
+          "type": "heading",
+          "text": "F x = F cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "F y = F sin θ ( 公式 2-1)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 27"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-3 力的分解法"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-1 題型:力的分解 ( 代數法 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,一力 F = 100 N 與水平夾角 30°,將其分解"
+        },
+        {
+          "type": "heading",
+          "text": "為水平與垂直兩分力?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "水平分力 F x = F cos30 ° = 50 3 N ( → ) 垂直分力 F y = F sin 30 ° = 50 N ( ↑ )"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之一力 F 為 100 N,試將其分解為水平分力及垂直分力。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "28"
+        },
+        {
+          "type": "heading",
+          "text": "2. 比例法"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-4 所示,因為力量是 向量,箭頭表方向、長短為大小,所以利用 邊長 比等於力量比,為相似三角形之等比例放大應用。另常用直角三角形邊長之比例 關係,如圖 2-5 所示 ( 註:圓圈內的數字表示比例 )。"
+        },
+        {
+          "type": "heading",
+          "text": "F x F y F"
+        },
+        {
+          "type": "heading",
+          "text": "= = ( 公式 2-2)"
+        },
+        {
+          "type": "heading",
+          "text": "x y r"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-4 力的分解 - 比例法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-5 常用直角三角形邊長之比例關係"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 29"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-2 題型:力的分解 ( 比例法 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,將 80 N 分解為沿 AB 方向之分力為 P 及沿 AC 方向之分力為 Q 之大 小。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "先將分力的方向畫出,如圖所示"
+        },
+        {
+          "type": "heading",
+          "text": "on = 80 N om nm"
+        },
+        {
+          "type": "heading",
+          "text": "∆ onm: = ="
+        },
+        {
+          "type": "heading",
+          "text": "5 4 3"
+        },
+        {
+          "type": "heading",
+          "text": "∴ om = 64 N, nm = 48 N"
+        },
+        {
+          "type": "heading",
+          "text": "nm = 48 N mj nj"
+        },
+        {
+          "type": "heading",
+          "text": "∆ mnj: = ="
+        },
+        {
+          "type": "heading",
+          "text": "12 5 13"
+        },
+        {
+          "type": "heading",
+          "text": "∴ mj = 20 N, nj = 52 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "P = nj 52 N =, Q = om + mj = 84 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,將 260 N 之力分解為二分力,一力 P 垂直斜面 AB 方向,另一 力 Q 沿斜面平行 AB 方向。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "二、力的合成 (composition of force)"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "將數個分力合成為一個等效單力,不改變物體的外"
+        },
+        {
+          "type": "paragraph",
+          "text": "效應,稱為力的合成,此單力稱為合力。先就各別單力 1. 若無限制,一力可分解成無限多個 進行分解成為水平與垂直方向的兩個分力,接著就可以 分力。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 一力系之合力只有一個。"
+        },
+        {
+          "type": "paragraph",
+          "text": "把水平和垂直的分力同向相加 ( 反向相減 ),這樣即可 完成力的合成。力的合成方式可分為兩種,說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-6 所示,已知有兩個力欲將求合力。有兩種圖解法,如表 2-1 中之 a. 與"
+        },
+        {
+          "type": "heading",
+          "text": "b. 所示:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-6 二力的合成"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 2-1 圖解法與公式解法"
+        },
+        {
+          "type": "heading",
+          "text": "a. 平行四邊形法 b. 三角形法"
+        },
+        {
+          "type": "heading",
+          "text": "c. 公式解法"
+        },
+        {
+          "type": "heading",
+          "text": "( 兩向量尾相加 ) ( 一向量尾接一向量頭 )"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 合力"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 將 F 1 之 首 連 接 於 F 2 之 尾, 2 2 (a) 畫 F 1 及 F 2 平 行 線 通 過 向 量 R = F 1 + F 2 + 2 F F 1 2 cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "即首尾相接"
+        },
+        {
+          "type": "heading",
+          "text": "首和尾 (b) 合力與水平夾角 a,"
+        },
+        {
+          "type": "paragraph",
+          "text": "(b) 連 接 F 1 之 尾 至 F 2 之 首, 即"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 平行四邊形對角線即為合力 F sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "為二向量之合力 tan α = 2"
+        },
+        {
+          "type": "heading",
+          "text": "F 1 + F 2 cos θ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 31"
+        },
+        {
+          "type": "heading",
+          "text": "2. 代數解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "餘弦定理是力的分解與合成之應用,如圖 2-7 所示,圖 (a) 已知兩個力分別 為 F 1 和 F 2,夾角為 q。 圖 (b) 為將 F 2 平行偏移至 F 1 箭頭處。圖 (c) F 2 依力的分解 之代數法,分解成兩相互垂直的分力,水平為 F 2 cos q,垂直為 F 2 sin q。圖 (d) 將 x 軸與 y 軸之分力採各軸向加總, ∑ F x = F 1 + F 2 cos q, ∑ F y = F 2 sin q。圖 (e) 合力為 R,合力 R 與水平之夾角為 a。由 ∑ F x 和 ∑ F y 形成垂直,運用畢氏定理求取合力"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "R = ∑ F x + ∑ F y。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "合力的大小 R = F 1 + F 2 + 2 F F 1 2 cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "F 2 sin θ − 1 F 2 sin θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "合力的方向 tan α =, α = tan ( 公式 2-3) F 1 + F 2 cos θ F 1 + F 2 cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-7 餘弦定理"
+        },
+        {
+          "type": "heading",
+          "text": "註:合力的大小與方向之公式推導"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F x = F 1 + F 2 cos θ ∑ F y = F 2 sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "R = ∑ F x + ∑ F y = ( F 1 + F 2 cos θ ) + ( F 2 sin θ )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 2 2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= F 1 + 2 F F 1 2 cos θ + F 2 cos θ + F 2 sin θ = F 1 + 2 F F 1 2 cos θ + F 2 (cos θ + sin θ )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= F 1 + F 2 + 2 F F 1 2 cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y F 2 sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "tan α = ="
+        },
+        {
+          "type": "heading",
+          "text": "∑ F x F 1 + F 2 cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "− 1 F 2 sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "α = tan"
+        },
+        {
+          "type": "heading",
+          "text": "F 1 + F 2 cos θ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "討論:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當 q = 0 °,則 F 1 與 F 2 同向,合力 R = F 1 + F 2,此時 合力最大,合力與 F 1、 F 2 二力同向。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 當 q = 90 °,則 F 1 與 F 2 二力互相垂直,則合力 R = F 1 + F 2 ( 畢氏定理 )。 (3) 當 q = 180 °,則 F 1、 F 2 反向,合力 R = F 1 - F 2,此時 合力最小,方向與較大之 力同向。 (4) 若 q = 120 °,則 F 1 = F 2 時,則合力 R = F 1 = F 2。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-3 題型:二力共點的合成"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,有 P、 Q 分別為 10 N 和 5 N 二力相交於一點,"
+        },
+        {
+          "type": "heading",
+          "text": "其夾角為 60°,求其合力之大小和方向?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "key: 利用公式解 ( 只適用於二力且其夾角已"
+        },
+        {
+          "type": "heading",
+          "text": "知 )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "合力大小 R = F 1 + F 2 + 2 F F 1 2 cos θ = 5 + 10 + 2 × 5 × 10 cos 60 °"
+        },
+        {
+          "type": "heading",
+          "text": "= 175 = 25 × 7 = 5 7 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F y 10 sin 60 ° 3 − 1 3 合力方向 tan α = = =, α = tan ∑ F x 5 + 10 cos 60 ° 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "另解"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F Fx = 5 + 5 = 10 N ( y = 5 3 N ( ↑ ) → ), ∑ F y = 5 3 N ( ↑ )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "合力大小 R = 10 + ( 5 3 ) = 5 7 N"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y 5 3 3 − 1 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "合力方向 tan α = = =, α = tan"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F x 10 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,有 F1、 F2 分別為 40 N 和 30 N 二力相交於一點,"
+        },
+        {
+          "type": "heading",
+          "text": "其夾角為 90°,求其合力之大小和方向?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 33"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-4 題型:分力與合力的應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示 P 及 Q 夾角 120° 相交於一點,已知 P = 200 N,若合力 R 與 Q 垂直,"
+        },
+        {
+          "type": "heading",
+          "text": "求合力 R 與另一力 Q 之大小?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "key:運用三角形比例法"
+        },
+        {
+          "type": "heading",
+          "text": "P Q R"
+        },
+        {
+          "type": "heading",
+          "text": "= ="
+        },
+        {
+          "type": "heading",
+          "text": "2 1 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ Q = 100 N,合力 R = 100 3 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,有兩正交共點力,若其合力作用的方向為 y 方向,試求 P 值為何?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "34"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 1. 對於力的分解,下列敘述何者不正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 一單力若無任何條件之限制,可以分解成無窮多個分力 (B) 一單力若無任何條件之限制,可以分解成分力及力偶矩的組合"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 一單力所分解出的各分力可不必相互垂直"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 一單力所分解出的各分力必小於該單力。 ( ) 2. 二共點力 F1 及 F2 之合力為 250 N,若已知 F1 = 200 N,則下列對於 F2"
+        },
+        {
+          "type": "heading",
+          "text": "的敘述,何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) F2 至少需有 50 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) F2 若為 200 N,則 F2 與 F1 垂直"
+        },
+        {
+          "type": "heading",
+          "text": "(C) F2 至多不可超過 450 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) F2 與 F1 必為共平面。 ( ) 3. 如圖所示,水平力 R = 100 N,分解沿 BC 和沿 AB 的分力為 Q 和 P,"
+        },
+        {
+          "type": "heading",
+          "text": "則 P 與 Q 之大小為多少 N?"
+        },
+        {
+          "type": "heading",
+          "text": "100 200"
+        },
+        {
+          "type": "heading",
+          "text": "(A) P =, Q ="
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "200 100"
+        },
+        {
+          "type": "heading",
+          "text": "(B) P =, Q ="
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "50 100"
+        },
+        {
+          "type": "heading",
+          "text": "(C) P =, Q ="
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "100 50"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) P =, Q =。"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 35"
+        },
+        {
+          "type": "heading",
+          "text": "2-2 自由體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "力學問題的求解過程前,必定繪製自由體圖 (free body diagram),將原始複雜的圖形進 行簡化,使題意更加明確。所謂自由體圖是將受力物體的整體或部分單獨畫出,將其它作 用於此物體上之力 ( 包括作用力、反作用力及重量等 ),無論是已知力或是未知力,全部採 以箭頭標註的形式畫在圖形上。自由體圖的畫法:如表 2-2 所示為常見的各種支承及拘束 作用的反力。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 2-2 常見支承及拘束作用的反力"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 示意圖 自由體圖 特性"
+        },
+        {
+          "type": "heading",
+          "text": "1. 物體 重量向下"
+        },
+        {
+          "type": "heading",
+          "text": "繩索只受張力 T"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繩索"
+        },
+        {
+          "type": "heading",
+          "text": "向外"
+        },
+        {
+          "type": "heading",
+          "text": "正向力 N 與接觸"
+        },
+        {
+          "type": "heading",
+          "text": "3. 光滑表面"
+        },
+        {
+          "type": "heading",
+          "text": "面垂直"
+        },
+        {
+          "type": "heading",
+          "text": "滾輪只有 1 個反"
+        },
+        {
+          "type": "heading",
+          "text": "4. 滾支、滾輪"
+        },
+        {
+          "type": "heading",
+          "text": "力與接觸面垂直"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "36"
+        },
+        {
+          "type": "paragraph",
+          "text": "▼ 表 2-2 常見支承及拘束作用的反力 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 示意圖 自由體圖 特性"
+        },
+        {
+          "type": "heading",
+          "text": "鉸接有 2 個反力"
+        },
+        {
+          "type": "heading",
+          "text": "( 通 常 以 一 水 平"
+        },
+        {
+          "type": "heading",
+          "text": "5. 鉸接、鉸鏈"
+        },
+        {
+          "type": "heading",
+          "text": "力及一垂直力表"
+        },
+        {
+          "type": "heading",
+          "text": "示 )"
+        },
+        {
+          "type": "heading",
+          "text": "M"
+        },
+        {
+          "type": "heading",
+          "text": "R x"
+        },
+        {
+          "type": "heading",
+          "text": "固定端有 2 個反"
+        },
+        {
+          "type": "heading",
+          "text": "力及 1 個反力矩"
+        },
+        {
+          "type": "heading",
+          "text": "6. 固定支承 R y ( 通 常 以 一 水 平"
+        },
+        {
+          "type": "heading",
+          "text": "力、一垂直力及"
+        },
+        {
+          "type": "heading",
+          "text": "一方向未定之力"
+        },
+        {
+          "type": "heading",
+          "text": "一力矩表示 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 常用二垂直之分"
+        },
+        {
+          "type": "heading",
+          "text": "力表示 ) 和一力矩"
+        },
+        {
+          "type": "heading",
+          "text": "一方向未定之力"
+        },
+        {
+          "type": "heading",
+          "text": "7. 平滑軸承 ( 常 分 為 兩 垂 直"
+        },
+        {
+          "type": "heading",
+          "text": "之分力 )"
+        },
+        {
+          "type": "heading",
+          "text": "反力為垂直光滑"
+        },
+        {
+          "type": "heading",
+          "text": "8. 光滑軌道之銷釘"
+        },
+        {
+          "type": "heading",
+          "text": "軌道之正向力"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 繩子張力向外,僅受拉力 ( 張力 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 重力 ( 即重量 ) 永遠向下。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 光滑表面和滾輪僅受正向力,正向力與接觸面垂直。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 光滑銷釘有兩分力 ( 即 x 軸和 y 軸 )。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 自由體圖上的未知力可任意假設其方向,若算出來答案為負值,表示與假設方向相反。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 相同的分開點對兩個自由體圖而言,力量大小相等方向相反。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 自由體圖上之力的總數,與分離物總數相等。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 自由體圖上的力,無論已知或未知,均應全部畫出來。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 37"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-5 題型:圓柱與桿件的自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,所有接觸面均為光滑,試繪出兩"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓柱之自由體圖。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 圓柱均為光滑,所有接觸面只受正向力與接觸面垂直,所以圖 (b) 之 RB 在 W1W2 連心線上。 (2) 沒分開點沒有力量如圖 (a)B 點。 (3) 相同分開點對兩物體而言,兩球自由體圖中之 RB 大小相等,方向相反,且 作用在同一直線上,互為反作用。如圖 (b) 和圖 (c) 之 RB。"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,若 AB 桿重 W,所有接觸面均為光滑,試繪出桿件 AB 之自由體圖。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "38"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 對下列接觸點反作用力的自由體圖畫法何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 在光滑軌道中之釘銷"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 光滑釘銷"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 光滑表面"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 繩索。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 2. 一懸臂樑固定端反作用力有"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 一垂直分力"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 一水平分力"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 一水平分力及一垂直分力"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 一水平分力、一垂直分力及一彎曲力矩。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 39"
+        },
+        {
+          "type": "heading",
+          "text": "2-3 力矩與力矩原理"
+        },
+        {
+          "type": "heading",
+          "text": "一、力矩"
+        },
+        {
+          "type": "paragraph",
+          "text": "力矩 (moment) 為物體受力作用時,對某一點或某一軸產生轉動效應者,以符號“ M ” 表示。如圖 2-8 所示, 力矩大小等於作用力 F 與力至作用點之垂直距離 d 的乘積,即 力矩 = 力 × 力臂。 ( 力臂為力與支點之垂直距離 )"
+        },
+        {
+          "type": "heading",
+          "text": "M = F × d ( 公式 2-4)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-8 力矩"
+        },
+        {
+          "type": "heading",
+          "text": "生活實例:"
+        },
+        {
+          "type": "paragraph",
+          "text": "不同作用點的開關門 不同施力角度使用扳手 風力發電機之風扇迎風轉動,而"
+        },
+        {
+          "type": "heading",
+          "text": "底座承受力矩"
+        },
+        {
+          "type": "heading",
+          "text": "力矩的特性:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 力矩是 向量。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 力矩的單位為牛頓 - 公尺 (N-m)、公斤力 - 公尺 (kgf-m) 等。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 力矩的方向以正負值表示,通常取 逆時針 旋轉時為 正, 順時針 旋轉時為 負。若計"
+        },
+        {
+          "type": "paragraph",
+          "text": "算僅有單一方向,可忽略其正負值,僅註記方向即可。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "heading",
+          "text": "4. 力矩愈大,則物體轉動的趨勢愈大。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 力矩為零 的情況:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當力之作用線與力矩軸 平行 時。 (2) 當力之作用線或作用線之延長線與力矩中心或力矩軸 相交,則力臂等於零,力 矩亦為零。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 力矩值的大小與作用點有絕對的關係。"
+        },
+        {
+          "type": "heading",
+          "text": "二、力矩原理 (principle of moment)"
+        },
+        {
+          "type": "paragraph",
+          "text": "合力對於某一點 ( 或軸 ) 之力矩,等於各個分力對於該點 ( 或軸 ) 之力矩代數和,稱之 為力矩原理 或瓦銳蘭原理 (Varignon's theorem)。如圖 2-9 所示, R 為合力, P、 Q 為分力, A 點到 R、 P、 Q 之垂直距離分為 r、 p、 q,則由力矩原理得公式 2-5 ∑ M A = R × r = P × p + Q × q ( 公式 2-5)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-9 力矩原理示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 力系 平衡時,合力為零,合力矩亦為零。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 力矩原理可以求物體的重心與合力位置。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 計算力矩時,若力臂不易求出時,可先將力分解成水平和垂直兩分力來求"
+        },
+        {
+          "type": "paragraph",
+          "text": "出力矩,再由力矩原理求出力臂之大小。如圖所示,求 F 對 A 點力矩時, 先將 F 分為兩分力 F x、 F y,由力矩原理可求出 F 對 A 點所產生之力矩, 再計算出 F 之力臂 d。計算式如下: ∑ M A = F y × a - F x × b = F × d,可求出"
+        },
+        {
+          "type": "heading",
+          "text": "F y × a − F x × b"
+        },
+        {
+          "type": "paragraph",
+          "text": "力臂 d = ( 註:力臂為力與支點的垂直距離 )"
+        },
+        {
+          "type": "heading",
+          "text": "F"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 41"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "阿基米德說過:「給我一個支點,我可以舉起整個地球。」"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 阿基米德:「給我一個支點,我可以舉起整個地球。」 阿基米德對於機械的研究源自於他在亞歷山大城求學時期。有一天阿基米德在久旱的尼羅河邊散 步,看到農民提水澆地相當費力,經過思考之後他發明了一種利用螺旋作用在水管裡旋轉而把水吸上來 的工具,後世的人叫它做「阿基米德螺旋提水器」,埃及一直到二千年後的現在,還有人使用這種器械。 這個工具成了後來螺旋推進器的先祖。 當時的歐洲,在工程和日常生活中,經常使用一些簡單機械,譬如:螺絲、滑車、槓桿、齒輪等, 阿基米德花了許多時間去研究,發現了 「槓桿原理」 和 「力矩」 的觀念,對於經常使用工具製作機械的 阿基米德而言,將理論運用到實際的生活上是輕而易舉的。他自己曾說: 「給我一個支點,我可以舉起 整個地球。」 剛好海維隆王又遇到了一個棘手的問題:國王替埃及托勒密王造了一艘船,因為太大太重,船無法 放進海裡,國王就對阿基米德說,「你連地球都舉得起來,一艘船放進海裡應該沒問題吧?」於是阿基 米德立刻巧妙地組合各種機械,造出一架機具,在一切準備妥當後,將牽引機具的繩子交給國王,國王 輕輕一拉,大船果然移動下水,國王不得不為阿基米德的天才所折服。從這個歷史記載的故事裡我們可 以明顯的知道,阿基米德極可能是當時全世界對於機械的原理與運用,瞭解最透徹的人。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "42"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-6 題型:圓的切線外力求力矩"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,一單力 50 N 相切於圓上,試求對 A 點產生之力 矩大小。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "key:力臂是力對支點 (A 點 ) 的垂直距離"
+        },
+        {
+          "type": "heading",
+          "text": "由解析圖可知,力臂 d = 8 m"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MA = 50 × 8 = 400 N-m( [ )"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-6"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示之皮帶輪,直徑為 3 m,承受二個切線"
+        },
+        {
+          "type": "heading",
+          "text": "方向的外力,此二力對皮帶輪的中心軸所產生的合"
+        },
+        {
+          "type": "heading",
+          "text": "力矩大小為多少 N-m?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-7 題型:力矩原理的應用"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,求 10 N 對 A 點的力矩與力臂?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 先將 10 N 力分解成水平與垂直分力"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) ∑ MA = 8 × (5 + 15) + 6 × (8 + 12) = 280 N-m ( { ) (3) 由力矩原理可求得 10 N 到 A 之力臂,即"
+        },
+        {
+          "type": "heading",
+          "text": "合力對 A 點的力矩 = 各分力對 A 點的力"
+        },
+        {
+          "type": "paragraph",
+          "text": "矩和, 280 = 10 × d,∴力臂 d = 28 m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,試求 250 N 之力對 O 點所產生之力矩 與力臂。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 43"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 當作用力之作用線與轉軸平行時,其力矩為 (A) 零 (B) 無限大 (C) 作用力乘以距離 (D) 作用力除以距離。 ( ) 2. 如圖所示, F 力 10 N 對 A 點的力矩為多少 N-m? (A) 15 ( { ) (B) 25 ( [ ) (C) 25 ( { ) (D) 25 3 ( [ )。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 如圖所示,有一扳手轉動螺帽,分別承受 A、 B、 C、 D 四個大小相同"
+        },
+        {
+          "type": "heading",
+          "text": "而方向不同的施力,試問哪個施力最容易轉動螺帽?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) A (B) B (C) C (D) D。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 4. 有關力矩之敘述,下列何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 力矩原理可應用在轉動扳手上"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 若力的作用線通過力矩中心或轉軸,力矩不為零 (C) 力矩是物體受一力作用後,對某點或某軸產生平移之趨勢 (D) 若力的作用線與轉軸平行,則在此轉軸旋轉方向之力矩不為零。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "44"
+        },
+        {
+          "type": "heading",
+          "text": "2-4 力偶"
+        },
+        {
+          "type": "heading",
+          "text": "一、力偶"
+        },
+        {
+          "type": "paragraph",
+          "text": "力偶 (couple) 為兩個力量作用於物體上,此 兩力大小相等,方向相 反,作用線不在同一直線上的兩平行力,力偶使物體產生轉動的效應,稱 為力偶矩 (moment of couple),以符號“ C ”表示。 力偶矩的大小等於力偶 之一力 (F) 與力偶臂垂直距離 (d) 之乘積,即 力偶矩 = 力 × 力偶臂。 ( 如"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-10 力偶"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 2-10 所示 )。"
+        },
+        {
+          "type": "heading",
+          "text": "C = F × d ( 公式 2-6)"
+        },
+        {
+          "type": "heading",
+          "text": "生活實例:"
+        },
+        {
+          "type": "heading",
+          "text": "開關水龍頭 童玩竹蜻蜓 使用螺絲攻扳手"
+        },
+        {
+          "type": "heading",
+          "text": "力偶的特性:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 力偶是向量。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 力偶矩的單位為牛頓 - 公尺 (N-m)、公斤重 - 公尺 (kgw-m) 等。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 力偶矩的方向之正負值與力矩相同,即 逆時針 旋轉時為 正, 順時針 旋轉時為 負。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 力偶矩愈大,則物體轉動的趨勢愈大。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 力偶的三要素:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 力偶的 大小。 (2) 力偶旋轉的 方向。 (3) 力偶所 作用的平面或方位。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 力偶為自由向量,其大小與作用點無關,可在其作用平面上任意移動或轉動。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 多組 力偶合併後,仍為力偶或為零。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 45"
+        },
+        {
+          "type": "heading",
+          "text": "二、力偶的轉換"
+        },
+        {
+          "type": "paragraph",
+          "text": "力學的運算可經由力偶的轉換,增加求解過程的靈活性。力偶的轉換不改變其特性及 旋轉效應。以下為力偶轉換的三種情況:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 力偶為自由向量,可以在 同一平面內任意移動或轉動,如圖 2-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-11 力偶可在同平面內任意移動或轉動"
+        },
+        {
+          "type": "heading",
+          "text": "2. 力偶可由一平面 移到另一平行之平面上,如圖 2-12 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-12 力偶可由一平面移至另一平行平面"
+        },
+        {
+          "type": "heading",
+          "text": "3. 若力偶矩固定,則力偶之 兩力與力偶臂距離可以改變,如圖 2-13 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-13 力偶矩固定,力與力偶臂距離是可以改變的"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "46"
+        },
+        {
+          "type": "heading",
+          "text": "三、一單力可分解為一單力及一力偶"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-14,同平面上之一單力,可以分解成一單力及一力偶,且不改變其外效應。說 明如下:圖 (a) 同平面上有一單力 F 作用未通過力矩中心 O 點,圖 (b) 於 O 點增加兩個單 力 F,其大小相等、方向相反、作用在同一直線上,圖 (c) 其中兩力符合力偶要件形成力偶 作用。由圖 2-14(c) 所示,該平面均呈現同時移動與轉動的外效應。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-14 分解一單力及一力偶"
+        },
+        {
+          "type": "heading",
+          "text": "分解後的特性:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 一單力分解後之單力與原力大小方向均相同,但位置不同。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 分解後之力偶等於原有力量對該指定點之力偶矩。"
+        },
+        {
+          "type": "heading",
+          "text": "生活實例:"
+        },
+        {
+          "type": "heading",
+          "text": "保齡球的滾動 溜溜球的轉動 飛盤的飛行軌跡"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 力偶臂:為力偶兩平行力之垂直距離。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 力偶系 ( 多組力偶 ) 合併後為力偶或零。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 一力偶矩對空間任一點所生的力矩都相同。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 力偶矩之大小和力偶矩之中心位置無關。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 47"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-8 題型:力偶矩的計算與合成"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示之力偶,求合力偶矩的大小和方向?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "key:先求力偶臂 ( 二力的垂直距離 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "C = 6 × 6 − 10 × 2 4. = 36 − 24 = 12 N m - ( [ )"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之三組力偶,試求此三力偶之合力偶矩大小和方向。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-9 題型:一單力分解為一單力及一力偶"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,將力 F 分解成作用於 B 點的一力及一力偶矩時,其力偶矩的大小為"
+        },
+        {
+          "type": "heading",
+          "text": "多少 N-m?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,將 F = 12 N 之力,分解為通過 A 點的一單力及一力偶,並求其大 小和方向。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 49"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 關於力偶矩的特性,下列敘述何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 力偶矩是一種向量"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 力偶可於其作用平面上任意移動"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 欲使原力偶矩之大小維持不變,若產生力偶之二力變小,則其力"
+        },
+        {
+          "type": "heading",
+          "text": "偶臂需變大"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 力偶為大小相等、方向相反及作用於同一直線上的二力所形成。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 2. 力偶的特性,下列何者為非?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 力偶可在所作用平面上任意移動"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 力偶可由一平面任意移動至另一平面"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 力偶可在所作用平面上任意旋轉"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 力偶值保持不變,力偶之力與力間的距離可任意變動。 ( ) 3. 分解一力為一單力及一力偶的方法,可改變力的? (A) 大小 (B) 方向 (C) 作用線之位置 (D) 大小和方向。 ( ) 4. 如圖所示之一單力,將其等效為一單力與一力"
+        },
+        {
+          "type": "heading",
+          "text": "偶,則下列何者為正確的結果?"
+        },
+        {
+          "type": "heading",
+          "text": "(A)"
+        },
+        {
+          "type": "heading",
+          "text": "(B)"
+        },
+        {
+          "type": "heading",
+          "text": "(C)"
+        },
+        {
+          "type": "heading",
+          "text": "(D)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "heading",
+          "text": "2-5 同平面各種力系之合成及平衡"
+        },
+        {
+          "type": "heading",
+          "text": "合力型式"
+        },
+        {
+          "type": "heading",
+          "text": "平衡條件"
+        },
+        {
+          "type": "heading",
+          "text": "同平面"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F ≠ 0 ( 可求 合力種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "力系類型 ∑ F = 0, ∑ M ≠ 0 ∑ F = 0, ∑ M = 0"
+        },
+        {
+          "type": "heading",
+          "text": "合力為 未知數 )"
+        },
+        {
+          "type": "heading",
+          "text": "合力為一力偶 合力為零 ( 平衡 )"
+        },
+        {
+          "type": "heading",
+          "text": "一單力"
+        },
+        {
+          "type": "heading",
+          "text": "(2 個 ) (2 種 )"
+        },
+        {
+          "type": "heading",
+          "text": " ∑ F x = 0  零"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F ≠ 0 共點沒有力偶   ∑ F x = 0 "
+        },
+        {
+          "type": "heading",
+          "text": " ∑ F y = 0  一單力"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y = 0"
+        },
+        {
+          "type": "heading",
+          "text": "共點力系 "
+        },
+        {
+          "type": "heading",
+          "text": "( 沒有力偶 )"
+        },
+        {
+          "type": "heading",
+          "text": "(2 個 ) (3 種 )"
+        },
+        {
+          "type": "paragraph",
+          "text": " Σ F = 0  ∑ F y = 0  零"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F ≠ 0    ∑ F = 0 "
+        },
+        {
+          "type": "heading",
+          "text": " Σ M ≠ 0  ∑ M = 0 一單力"
+        },
+        {
+          "type": "heading",
+          "text": " "
+        },
+        {
+          "type": "heading",
+          "text": "平行力系 ∑ M = 0"
+        },
+        {
+          "type": "heading",
+          "text": " "
+        },
+        {
+          "type": "heading",
+          "text": " 一力偶"
+        },
+        {
+          "type": "heading",
+          "text": "(3 個 ) (3 種 )"
+        },
+        {
+          "type": "heading",
+          "text": " ∑ F x = 0"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": " ∑ F y = 0"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": " ∑ F = 0  ∑ M = 0  ∑ F = 0  零"
+        },
+        {
+          "type": "heading",
+          "text": "x"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F ≠ 0   "
+        },
+        {
+          "type": "heading",
+          "text": "∑ M ≠ 0 ( 也可用 ∑ M A = 0,"
+        },
+        {
+          "type": "heading",
+          "text": "非共點   ∑ F y = 0  一單力"
+        },
+        {
+          "type": "heading",
+          "text": "∑ M B = 0, ∑ M C = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "非平行力系   ∑ M = 0   一力偶"
+        },
+        {
+          "type": "heading",
+          "text": ",但 A、 B、 C 三"
+        },
+        {
+          "type": "heading",
+          "text": "點不得共線 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、同平面共點力系"
+        },
+        {
+          "type": "heading",
+          "text": "1. 同平面共點力系之合成"
+        },
+        {
+          "type": "paragraph",
+          "text": "在相同平面上,若力系中 各力之作用線均交於一點 ( 或延長線交於一點 ) 者, 稱為同平面共點力系 (concurrent force system)。力系的合成即為求解此力系之合"
+        },
+        {
+          "type": "heading",
+          "text": "力,同平面共點力系之合力求法有以下兩種方法:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "將向量由三角形法,繪出各力之平行偏移線,然後首尾相接,最後自第一 向量之起點與最後一向量之終點相連,其 長度即表示合力之大小,箭頭表示合 力之方向,如此所形成之多邊形,稱為力多邊形法,如圖 2-15 所示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 51"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-15 力多邊形法"
+        },
+        {
+          "type": "paragraph",
+          "text": "力的多邊形法可求合力的大小與方向,其繪出的先後順序並不會影響合力 的結果。當為共線力系時,力多邊形繪出成一直線,若力多邊形繪出為閉合 時,則共點力系之合力為零。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 代數法"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-16 所示,先將每一力分解成 x 軸及 y 軸方向之分力,然後將同向 之力相加,反向之力相減,求得 x 軸及 y 軸之合力 ∑ F x 及 ∑ F y,再由畢氏定理 求合力之大小與方向。 ∑ F x = F 1 cos q 1 - F 2 cos q 2 - F 3 cos q 3 ∑ F y = F 1 sin q 1 + F 2 sin q 2 - F 3 sin q 3"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "合力的大小 R = ∑ F x + ∑ F y"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y − 1 ∑ F y"
+        },
+        {
+          "type": "paragraph",
+          "text": "合力的方向 tan α =, α = tan ( 公式 2-7)"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F x ∑ F x"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-16 代數法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "52"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-10 題型:共點力系求合力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,在平面共點力系中有三個力同時作用在原點 O,則此平面共點力系"
+        },
+        {
+          "type": "heading",
+          "text": "之合力大小及方向為何?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fx = 120 + 60 - 100 = 80 N ( → ) ∑ Fy = 160 - 80 = 80 N ( ↑ )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "R = ∑ F x + ∑ F y = 80 + 80 = 80 2 N"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y 80"
+        },
+        {
+          "type": "heading",
+          "text": "tan α = = = 1, α = 45 °"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F x 80"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-10"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,試求此力系合力的大小和方向?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 53"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-11 題型:已知合力求分力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示, R 為 P、 Q、 S 三力之合力, R 為 100 N,且 與水平之夾角 37°,若 P = 20 N,則 Q、 S 大小各為多少"
+        },
+        {
+          "type": "heading",
+          "text": "牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F x = 80 = Q + × S"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y = 60 = × S − 20"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "∴ S = 100 N, Q = 20 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-11"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示的物體,受到 F1 = 200 N、 F2 = 150 N、 F3 = 390 N 及 F4 = 100 N 的負"
+        },
+        {
+          "type": "heading",
+          "text": "荷作用,試求 x 軸方向的合力大小?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "54"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 同平面共點力系中,若力多邊形閉合,則其合力為? (A) 一單力 (B) 一力偶 (C) 零 (D) 一單力及一力偶。 ( ) 2. 如圖所示,同平面共點力系之合力在水平"
+        },
+        {
+          "type": "heading",
+          "text": "方向,試求 P 力的大小為多少 N?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 75 (B) 150 (C) 30 (D) 60。 ( ) 3. 同 上 題, 試 求 此 力 系 之 合 力 為 多 少 N? (A) 75 (B) 150 (C) 30 (D) 60。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 同平面共點力系之平衡"
+        },
+        {
+          "type": "paragraph",
+          "text": "一物體靜止或作等速直線運動時,則此物體為平衡狀態。同平面共點力系因 作用力皆交於一點,因此並不會有力矩的產生。解同平面共點力系之平衡,可分"
+        },
+        {
+          "type": "heading",
+          "text": "為以下三類:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "當力多邊形閉合時,合力 R 必等於零,則此共點力系呈平衡狀態。例如: 已知有四力 F 1、 F 2、 F 3、 F 4,如圖 2-17(a) 所示。利用多邊形法將各個力量首 尾相接,如圖 2-17(b) 所示。若產生閉合,則 F 1、 F 2、 F 3、 F 4 四力平衡,合力 為零。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-17 力多邊形閉合,各力系同向循環合力為零"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 55"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 代數法"
+        },
+        {
+          "type": "paragraph",
+          "text": "同平面共點力系,當物體受到 三個作用力 以上作用時,可用代數法求解平"
+        },
+        {
+          "type": "heading",
+          "text": "衡,可求解 2 個未知力,其平衡方程式如下:"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F x = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y = 0 ( 公式 2-8)"
+        },
+        {
+          "type": "heading",
+          "text": "註:同平面共點力系之平衡"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當 ∑ F x = 0 和 ∑ F y = 0 時,合力 R 必為零,即平衡狀態。 (2) 同平面共點力系平衡條件 2 個,可求 2 個未知力。"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 特殊情況"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 二力平衡 ( 又稱二力構件 ):一物體受二力作用平衡時,其平衡條件為二 力: 大小相等、 方向相反、 作用在同一直線上,如圖 2-18 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-18 二力平衡 ▲ 圖 2-19 比例法 ▲ 圖 2-20 拉密定理 2 三力平衡 ( 又稱三力構件 ):三力平衡時,三力若不平行則必相交於一點, 且三力必作用於同一平面上。 當三力平衡時,任一力之反向為其它兩力之 合力。三力平衡的解法有兩種型式,說明如下: ❶ 比例法:三力平衡,若三力不平行,則三力必圍成一 閉合的三角形, 各 力之向量箭頭形成同向循環,則 此三角形之邊長比等於三力之大小比, 如圖 2-19 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "F 1 F 2 F 3"
+        },
+        {
+          "type": "heading",
+          "text": "= = ( 公式 2-9)"
+        },
+        {
+          "type": "heading",
+          "text": "x y z"
+        },
+        {
+          "type": "paragraph",
+          "text": "❷ 拉密定理:如圖 2-20 所示,共點三力 F 1、 F 2、 F 3 其間夾角 q 1、 q 2、 q 3"
+        },
+        {
+          "type": "heading",
+          "text": "為已知,則拉密定理公式為:"
+        },
+        {
+          "type": "heading",
+          "text": "F 1 F 2 F 3"
+        },
+        {
+          "type": "heading",
+          "text": "= = ( 公式 2-10)"
+        },
+        {
+          "type": "heading",
+          "text": "sin θ 1 sin θ 2 sin θ 3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "56"
+        },
+        {
+          "type": "heading",
+          "text": "3. 同平面共點力系之求解結果統整"
+        },
+        {
+          "type": "paragraph",
+          "text": "同平面共點力系的圖解法與代數法之合力或平衡求解,平衡方程式為 ∑ F x 及 ∑ F y,可求解 2 個未知數,結果會產生以下兩種型式,如表 2-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 2-3 同平面共點力系之結果"
+        },
+        {
+          "type": "heading",
+          "text": "力多邊形 (R) 合力情況 物體外效應"
+        },
+        {
+          "type": "heading",
+          "text": "不閉合 (R ≠ 0) 一單力 移動"
+        },
+        {
+          "type": "heading",
+          "text": "閉合 (R = 0) 零 平衡"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-12 題型:三力共點 ( 比例法 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之圓球,重 30 N,用繩子懸吊於牆壁上,求球與牆壁"
+        },
+        {
+          "type": "heading",
+          "text": "之反力 R 及繩之張力 T 之大小?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "key: 1方法一:代數法 ( ∑ Fx = 0、 ∑ Fy = 0)"
+        },
+        {
+          "type": "heading",
+          "text": "2方法二:比例法"
+        },
+        {
+          "type": "paragraph",
+          "text": "畫圓球之自由體圖,得知三力共點。"
+        },
+        {
+          "type": "heading",
+          "text": "方法一:"
+        },
+        {
+          "type": "heading",
+          "text": "3 60"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, T - 30 = 0,∴ T = 20 = 3 N"
+        },
+        {
+          "type": "heading",
+          "text": "2 3"
+        },
+        {
+          "type": "heading",
+          "text": "T T 30"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fx = 0, − R = 0,∴ R = = = 10 3 N"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 3"
+        },
+        {
+          "type": "heading",
+          "text": "方法二:"
+        },
+        {
+          "type": "heading",
+          "text": "R: T: 30 = 1: 2: 3"
+        },
+        {
+          "type": "heading",
+          "text": "60 30"
+        },
+        {
+          "type": "heading",
+          "text": "T = N, R= N"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "注意:本題目的角度為特別角,所以用比例法比較容易。"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-12"
+        },
+        {
+          "type": "paragraph",
+          "text": "試求圖中之所有光滑面,對 100 N 重之圓筒之反作用"
+        },
+        {
+          "type": "heading",
+          "text": "力大小 A、 B 兩點各為若干牛頓?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 57"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-13 題型:三力共點 ( 拉密定理 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示, W 重為 200 N,求 AB 及 BC 繩各受張力為"
+        },
+        {
+          "type": "heading",
+          "text": "若干 N?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "key: 1方法一:代數法 ( ∑ Fx = 0、 ∑ Fy = 0)"
+        },
+        {
+          "type": "heading",
+          "text": "2方法二:拉密定理"
+        },
+        {
+          "type": "paragraph",
+          "text": "畫物體之自由體圖,得知三力共點。"
+        },
+        {
+          "type": "heading",
+          "text": "方法一:由力分解成 x、 y 軸之分力"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, TAB sin60° + TBC sin30° - 200 = 0 ⋯⋯1 ∑ Fx = 0, TAB cos60° - TBC cos30° = 0 ⋯⋯2 由1、2得到: TBC = 100 N, T AB = 100 3 N"
+        },
+        {
+          "type": "heading",
+          "text": "方法二:"
+        },
+        {
+          "type": "heading",
+          "text": "F 1 F 2 F 3"
+        },
+        {
+          "type": "heading",
+          "text": "= ="
+        },
+        {
+          "type": "heading",
+          "text": "sin θ 1 sin θ 2 sin θ 3"
+        },
+        {
+          "type": "heading",
+          "text": "200 T AB T BC"
+        },
+        {
+          "type": "heading",
+          "text": "= ="
+        },
+        {
+          "type": "paragraph",
+          "text": "sin 90 ° sin 120 ° sin 150 °"
+        },
+        {
+          "type": "heading",
+          "text": "200 T AB T BC"
+        },
+        {
+          "type": "heading",
+          "text": "= ="
+        },
+        {
+          "type": "heading",
+          "text": "1 3 1"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "T BC = 100 N, T AB = 100 3 N 注意:本題目的角度為特別角,所以用拉密定理比較容易。"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-13"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,鋼球重 400 N,置於光滑之兩壁間,求 A、 B 點之反力?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "58"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-14 題型:二圓筒相接觸求反力"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,各接觸面皆為光滑面, W1 圓筒重"
+        },
+        {
+          "type": "paragraph",
+          "text": "300 N, W2 重 150 N,所有接觸面之作用力各為"
+        },
+        {
+          "type": "heading",
+          "text": "多少 N?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "取 W2 自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": " 4"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F x = 0, R A = R B"
+        },
+        {
+          "type": "heading",
+          "text": " "
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": " ∑ F y = 0, 150 = R B"
+        },
+        {
+          "type": "heading",
+          "text": "  5"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ RB = 250 N, RA = 200 N,取 W2 與 W1 之組合自由體圖 由 ∑ Fx = 0, RC = RA = 200 N, ∑ Fy = 0, RD - 150 - 300 = 0 ∴ RD = 450 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-14"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,兩圓筒直徑相等,圓筒 W1 重量為 200 N,圓筒 W2 重量為 400 N, 設所有接觸面均為光滑,則求 A、 B、 C、 D 點的作用力各為多少 N?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 59"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-15 題型:光滑斜面的平衡"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示, WA = 60 N, WB = 50 N,分別"
+        },
+        {
+          "type": "heading",
+          "text": "置於光滑之斜面上,在平衡狀態下繩子之"
+        },
+        {
+          "type": "heading",
+          "text": "張力 T 和斜面夾角 q 值各為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "由 A 之自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": "∑ Fx = 0"
+        },
+        {
+          "type": "heading",
+          "text": "T - 30 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "T = 30 N"
+        },
+        {
+          "type": "heading",
+          "text": "由 B 之自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": "∑ Fx = 0"
+        },
+        {
+          "type": "heading",
+          "text": "T - 50 sin q = 0"
+        },
+        {
+          "type": "heading",
+          "text": "30 - 50 sin q = 0"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "sin q ="
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "∴ q = 37°"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-15"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示的質量系統,已知 m1 為 2 kg, m2 為 3 kg,所有接觸面均無摩擦且不 計繩重。若此系統保持靜止不動,則 tan q 的值等於多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 同平面共點力系用圖解法求合力時,畫力多邊形之次序應為?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 逆時針方向 (B) 順時針方向"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 依力的大小次序來畫 (D) 與順序無關。 ( ) 2. 下列有關力之敘述,何者錯誤? (A) 若物體受二力作用而呈平衡, 則此二力必須大小相等,方向相反且位於同一直線上 (B) 若物體 受三個共面之非平行力作用而呈平衡,則此三力必然共點 (C) 若作 用於物體之力系,其合力與合力矩皆為零,則此物體處於平衡狀態 (D) 共平面力系之合力及合力矩皆必然為零。 ( ) 3. 同平面共點力系之平衡條件有幾個? (A) 5 (B) 4 (C) 3 (D) 2。 ( ) 4. 10 人拔河,分成甲乙兩隊,每隊 5 人,每個人以一圓圈表示,如圖所 示。假設每個人之施力均相等且均為 F,則下列敘述何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) A 處繩子之張力 ( 拉力 ) 為零"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) B 處繩子之張力 ( 拉力 ) 與 E 處相等 (C) C 處繩子之張力 ( 拉力 ) 因兩邊力平衡因此為零 (D) D 處繩子之張力 ( 拉力 ) 為 3 F。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 如圖所示之機件,其 B 端為銷接,在 A 端有一垂直向下 15 kN 之力 作用, C 端加一水平力 F 能使機件保持平衡。此時 B 點之受力為多少 kN? (A) 15 (B) 20 (C) 25 (D) 30。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 61"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 6. 如圖所示的交通號誌由二條繩索支"
+        },
+        {
+          "type": "heading",
+          "text": "撐,已知號誌的質量為 20 kg,則繩"
+        },
+        {
+          "type": "heading",
+          "text": "索 BC 的張力約為多少 N?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 210"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 180"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 140"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 90。 ( ) 7. 如圖所示之滾輪,重量為 900 N,直徑為 0.6 m,若要以拉把拉動使其 爬過高度差為 0.15 m 的台階,不考慮拉把的重量與軸心之摩擦力矩, 則所需之拉力 F ( 沿著 30° 方向 ) 應為何? (A) 600 N (B) 750 N (C) 900 N (D) 1200 N。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 8. 如圖所示,三個相同且均質之圓柱體堆"
+        },
+        {
+          "type": "heading",
+          "text": "疊,圓柱體半徑為 R 而質量為 m,圓柱"
+        },
+        {
+          "type": "heading",
+          "text": "體之間為光滑表面且不計摩擦力,試求上"
+        },
+        {
+          "type": "heading",
+          "text": "圓柱體與右下圓柱體間之正向接觸力為多"
+        },
+        {
+          "type": "heading",
+          "text": "少? (g 為重力加速度 )"
+        },
+        {
+          "type": "heading",
+          "text": "mg mg"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) mg (D) 2 mg。"
+        },
+        {
+          "type": "heading",
+          "text": "2 3"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 9. 如圖所示,三個直徑相同且重"
+        },
+        {
+          "type": "heading",
+          "text": "量均為 W 的光滑圓柱,置於光"
+        },
+        {
+          "type": "heading",
+          "text": "滑的 V 形槽上,則下列何者為"
+        },
+        {
+          "type": "heading",
+          "text": "接觸點 B 的反作用力? ( 提示:"
+        },
+        {
+          "type": "heading",
+          "text": "可考量三圓柱的對稱關係 )"
+        },
+        {
+          "type": "heading",
+          "text": "3 W 4 W 16 W 43 W"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "5 5 25 40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "heading",
+          "text": "二、同平面平行力系"
+        },
+        {
+          "type": "heading",
+          "text": "1. 同平面平行力系之合成"
+        },
+        {
+          "type": "paragraph",
+          "text": "在相同平面上,力系中各力之作用線均相互平行而不共點,稱為同平面平行 力系 (parallel force system)。合成即求解同平面平行力系之合力,有以下兩種方"
+        },
+        {
+          "type": "heading",
+          "text": "法:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "力多邊形法可決定合力 R 之大小及方向,索線多邊形法可決定合力 R 之 位置或合力偶矩。實際力學問題的計算上,圖解法之力多邊形與索線多邊形較"
+        },
+        {
+          "type": "heading",
+          "text": "不實用,此處僅將圖解法之結果與型式說明如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 當力多邊形不閉合,則合力為 一單力 ( ∑ F ≠ 0)。 2 當 力 多 邊 形 閉 合, 索 線 多 邊 形 不 閉 合, 則 此 平 行 力 系 合 力 為 一 力 偶 ( ∑ F = 0, ∑ M ≠ 0)。 3 當力多邊形與索線多邊形均閉合,則合力為 零 ( ∑ F = 0, ∑ M = 0)。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 代數法 ( 如圖 2-21 所示 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 合力大小與方向,合力 R 之大小等於各平行力之代數和。 2 合力的位置,合力 R 的位置 x 可由力矩原理對 O 點取力矩 ( 合力對 O 點之"
+        },
+        {
+          "type": "heading",
+          "text": "力矩 = 各分力對 O 點之力矩代數和 ):"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-21 同平面平行力系"
+        },
+        {
+          "type": "paragraph",
+          "text": "R = ∑ F = F 1 + F 2 + F 3 + F 4 ∑ M O = R. x = F 1. x 1 + F 2. x 2 + F 3. x 3 + F 4. x 4 ( 公式 2-11)"
+        },
+        {
+          "type": "heading",
+          "text": "3 同平面平行力系代數解法之型式:"
+        },
+        {
+          "type": "paragraph",
+          "text": "❶ 合力 R ≠ 0,合力為一單力。 ❷ 合力 R = 0,合力矩 ∑ M O ≠ 0,合力為一力偶。 ❸ 合力 R = 0,合力矩 ∑ M O = 0,合力為平衡狀態。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 63"
+        },
+        {
+          "type": "heading",
+          "text": "4 兩平行力之合力接近位置"
+        },
+        {
+          "type": "paragraph",
+          "text": "❶ 當兩力平行同向時,合力在兩力之間,距大力較近。 ❷ 若兩力平行反向時,合力在大力之外側,距大力較近。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-16 題型:平行力系求合力位置"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,試求此平行力系之合力至 A 點的距離為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "合力 = 60 - 20 - 35 = 5 N ( ↑ )"
+        },
+        {
+          "type": "heading",
+          "text": "對 A 點:由力矩原理 ( 取逆時針為正向 )"
+        },
+        {
+          "type": "heading",
+          "text": "5. X = 60 × 3 - 35 × 5 - 30"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ X = - 5 ( 負表與假設反向,即在 A 點左邊 ) 合力 5 N ( ↑ ) 在 A 點左邊 5 m 處"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-16"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示為一同平面平行力系,其合力之作用位置距 A 點之距離多少 m?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 兩個指向相反而大小不相等之兩平行力的合力位置? (A) 在這兩個 單力之間,距大力較近 (B) 在較大單力外側 (C) 在較小單力外側 (D) 視此兩單力合力之大小而定。 ( ) 2. 如 圖 所 示, 試 求 此 平 行 力 系 之 合 力 距 A 點 之 距 離 為 多 少 公 尺? (A) 2.2 (B) 3.2 (C) 4.2 (D) 5.2。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 如 圖 所 示, 試 求 此 力 系 合 力 之 大 小 為 多 少? (A) 合 力 為 零 ( 平 衡 ) (B) 合 力 為 一 力 偶 50 N-m( { ) (C) 合 力 為 一 力 偶 50 N-m( [ ) (D) 合力為一力和一力偶。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 同平面平行力系之平衡"
+        },
+        {
+          "type": "paragraph",
+          "text": "同平面平行力系平衡時物體不移動也不轉動。求解同平面平行力系之平衡,"
+        },
+        {
+          "type": "heading",
+          "text": "可分為以下二類:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 圖解法:同平面平行力系平衡時,力多邊形和索線多邊形皆閉合。 (2) 代數法:同平面平行力系平衡時,其合力為 0 ( ∑ F = 0) 及力矩代數和為 0 ( ∑ M = 0),同平面平行力系有兩個平衡方程式,可解兩個未知力。 ( 另外也可 使用 ∑ M A = 0; ∑ M B = 0 平衡方程式求解,但 AB 兩點連線不可與力系平行 )"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∑ M = 0 ( 公式 2-12)"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 65"
+        },
+        {
+          "type": "heading",
+          "text": "代數法之求解順序:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 先畫出樑之自由體圖,各支承以適當的反作用力取代之。 2 樑上若受到均佈負荷或均變負荷時,轉換為 集中負荷 取代,此集中負荷之 大小,等於分佈負荷曲線圖下的面積,而該集中負荷作用線通過此面積之 形心,如圖 2-22 ∼ 2-23 所示。 3 計算時以最多未知力通過點設為力矩中心。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-22 均佈負荷 ▲ 圖 2-23 均變負荷"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "66"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-17 題型:組合樑求反力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之組合樑 D 點和 C 點、 A 點之反力各為多少牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "∑ MA = 0 ( 取 AB 樑自由體圖 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "300 × 2 + 120 × 6 - RB × 4 = 0 ∴ RB = 330 N ( ↑ ) ∑ Fy = 0, RA + RB - 300 - 120 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RA = 90 N ( ↑ )"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MC = 0, RB × 2 + RD × 4 = 0 ( 取 CD 樑自由體圖 ) RD = - 165 N ( ↓ ) ( 負表與假設反向 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 假設正表向上,負表向下 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MD = 0, RC × 4 - 330 × 6 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RC = 495 N ( ↑ )"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-17"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,若桿子重量均不計,則 A、 B、 D 點和 C 點繩子受力各為多少牛頓?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 67"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-18 題型:樑的支承反力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示為一外伸樑之受力情形,求支點 A 和 B 之反力各為多少 N?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "取樑之自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": "∑ MA = 0,"
+        },
+        {
+          "type": "paragraph",
+          "text": "200 × 2 + 100 × 5 + 150 × 8 + 140 - RB × 7 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RB = 320 N ( ↑ )"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, RA + RB - 200 - 100 - 150 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RA = 130 N ( ↑ )"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-18"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,樑受一均佈負荷和一集中負荷作用,求 A、 B 兩點之反力各為多少"
+        },
+        {
+          "type": "heading",
+          "text": "牛頓?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "68"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 一人重 W,以滑輪組和繩索平衡在如圖所示之坐墊"
+        },
+        {
+          "type": "heading",
+          "text": "上,除了人之重量外,忽略其他物件之重量,且不"
+        },
+        {
+          "type": "heading",
+          "text": "考慮繩索與滑輪間之摩擦力,則繩索之張力為何?"
+        },
+        {
+          "type": "heading",
+          "text": "W W W"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D) W。"
+        },
+        {
+          "type": "heading",
+          "text": "4 3 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 如圖所示,求 B 點之反力為多少 N? (A) 11.11 (B) 33.33 (C) 66.67 (D) 99.99。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 一懸臂樑承受如圖所示之二相等力,則下"
+        },
+        {
+          "type": "heading",
+          "text": "列有關固定端 A 處之反力與反力矩的描"
+        },
+        {
+          "type": "heading",
+          "text": "述何者正確? (A) 反力與反力矩皆為零"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 反 力 與 反 力 矩 皆 不 為 零 (C) 反 力 為 零、反力矩不為零 (D) 反力不為零、反力矩為零。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 一 長 度 為 6 m 之 剛 體 桿 AB, 桿 上"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "處 兩 點 承 受 一 組 大 小 為 12 kN 之 力"
+        },
+        {
+          "type": "heading",
+          "text": "偶,端點 A、 B 則分別承受力矩 MA 與"
+        },
+        {
+          "type": "paragraph",
+          "text": "MB,方向如圖所示。若 AB 桿處於平衡狀態,則當 MA 為 12 kN-m 時, MB 應為 (A) 36 kN-m (B) 24 kN-m (C) 12 kN-m (D) 0 kN-m。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 69"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 5. 如圖所示,懸臂樑承受一直角三角形"
+        },
+        {
+          "type": "heading",
+          "text": "分佈力,若忽略樑之重量,試求固定"
+        },
+        {
+          "type": "paragraph",
+          "text": "端 A 處 的 反 作 用 力 矩 為 多 少 N-m? (A) 450 (B) 900 (C) 1350 (D) 2700。 ( ) 6. 一 桿 長 3 m 受 均 變 負 荷, 若 桿 重 不 計, 則 A 點 反 力 為 多 少 kN? (A) 30 (B) 37.5 (C) 25 (D) 45。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 如圖所示,若桿重不計,求 A 點之反力為多少牛頓? (A) 12.5 (B) 125 (C) 337.5 (D) 375。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "70"
+        },
+        {
+          "type": "heading",
+          "text": "三、同平面非共點非平行力系"
+        },
+        {
+          "type": "heading",
+          "text": "1. 同平面非共點非平行力系之合成"
+        },
+        {
+          "type": "paragraph",
+          "text": "在相同平面上,力系中各力之作用線,交於兩點或兩點以上者,稱為同平面 非共點非平行力系。合成即求解同平面非共點非平行力系之合力,有以下兩種方"
+        },
+        {
+          "type": "heading",
+          "text": "法:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 圖解法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "力多邊形法可決定合力 R 之大小及方向,索線多邊形法可決定合力 R 之 位置或合力偶矩。圖解法之結果與型式說明如下: 1 當力多邊形不閉合,則合力為 一單力 ( ∑ F ≠ 0)。 2 當力多邊形閉合,索線多邊形不閉合,則合力為 一力偶 ( ∑ F = 0, ∑ M ≠ 0)。 3 當力多邊形與索線多邊形均閉合,則合力為 零 ( ∑ F = 0, ∑ M = 0)。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 代數法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 合力大小與方向,將每一力分解成 x 軸及 y 軸方向之分力,然後將同向之 力相加,反向之力相減,求得 x 軸及 y 軸之合力 ∑ F x 及 ∑ F y,再由畢氏定 理求合力之大小與方向。 2 合力的位置,合力 R 的位置 x 可由力矩原理對任意點取力矩 ( 合力對某點 之力矩 = 各分力對某點之力矩代數和 )( 圖 2-24):"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-24 同平面非共點非平行力之合成"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 ∑ F y − 1 Σ F y"
+        },
+        {
+          "type": "paragraph",
+          "text": "R = ( ∑ F x ) + ∑ ( F y ), tan α = ∴ α = tan ( 公式 2-13)"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F x Σ F x"
+        },
+        {
+          "type": "heading",
+          "text": "3 同平面非共點非平行力系代數解法之型式:"
+        },
+        {
+          "type": "paragraph",
+          "text": "❶ 合力 ∑ F ≠ 0,合力為一單力。 ❷ 合力 ∑ F = 0,合力矩 ∑ M ≠ 0,合力為一力偶。 ❸ 合力 ∑ F = 0,合力矩 ∑ M = 0,合力為平衡狀態。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 71"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-19 題型:非共點非平行力系求合力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,試求此力系合力的大小及距 A 點之垂直距離。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fx = 240 + 80 - 120 = 200 N ( → ) ∑ Fy = 110 + 100 - 60 = 150 N ( ↓ )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "合力 = 200 + 150 = 250 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MA = 110 × 3 - 60 × 5 = 250 × d"
+        },
+        {
+          "type": "heading",
+          "text": "∴ d = 0.12 m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-19"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示三力之力系,求合力之大小為若干?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "72"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 同平面不共點力系之合力可能的情形有幾種? (A) 4 種 (B) 3 種 (C) 2 種 (D) 1 種。 ( ) 2. 如圖所示,試求合力作用線與 A 點之垂直距離為多少公分? ( 每格 1 cm) (A) 2 (B) 4 (C) 6 (D) 8。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 同平面非共點非平行力系之平衡"
+        },
+        {
+          "type": "paragraph",
+          "text": "同平面非共點非平行力系之平衡指的是物體不移動不轉動。求解同平面非共"
+        },
+        {
+          "type": "heading",
+          "text": "點非平行力系之平衡,可分為以下二類:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 圖解法:同平面非共點非平行力系平衡時,力多邊形和索線多邊形皆閉合。 (2) 代數法:同平面非共點非平行力系平衡時,其合力為 0 ( ∑ F = 0,即 ∑ F x = 0 與 ∑ F y = 0) 及力矩代數和為 0 ( ∑ M = 0),同平面非共點非平行力系有三個平衡方 程式,可解三個未知力。 ( 另外也可使用 ∑ M A = 0, ∑ M B = 0, ∑ M C = 0 平衡方 程式求解,條件: A、 B、 C 三點不得共線 )"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F x = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∑ M = 0 ( 公式 2-14)"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 在作力的多邊形時,各分力的先後順序可隨便選用,不會影響合力。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 等速度移動 ( 或轉動 ) 的物體也是平衡,不是只有靜止才是平衡。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 物體受力時只要合力為 0 仍是平衡,不是只有不受力才是平衡。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 73"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-20 題型:非共點非平行力系求反力"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,一均勻鋼桿重 100 N,物體重"
+        },
+        {
+          "type": "paragraph",
+          "text": "200 N ( 與桿子銲接成一體 ) 用一繩固定在 定滑輪上,求繩子張力和 A 點之反力。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "取桿子之自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": "∑ MA = 0,"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( T × ) × 6 - 100 × 3 + T × 2 - 200 × 2 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "18 28"
+        },
+        {
+          "type": "paragraph",
+          "text": "T - 300 + 2 T - 400 = 0, T = 700"
+        },
+        {
+          "type": "heading",
+          "text": "5 5"
+        },
+        {
+          "type": "heading",
+          "text": "∴ T = 125 N"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "∑ Fx = 0, Ax - T = 0"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "∴ Ax = T = 100 N ( →)"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, Ay + T + T - 200 - 100 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "Ay = 100 N ( ↑)"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ A = A x + A y = 100 + 100 = 100 2 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-20"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,一木棒重量不計,受 120 N 之力,試求繩子受力和 A 點反作用力"
+        },
+        {
+          "type": "heading",
+          "text": "RA 分別為多少 N?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "74"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-21 題型:二力構件求反力"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示的結構,桿件 ABC 與 DE 的重量不"
+        },
+        {
+          "type": "paragraph",
+          "text": "計。若有一集中負載 F = 300 N 作用在 C 點,"
+        },
+        {
+          "type": "heading",
+          "text": "則 E 點的反力大小為多少 N?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "桿 DE 為二力構件,即 DE 桿只受 D 點和 E 點兩力作用,此兩力大小相等、方"
+        },
+        {
+          "type": "heading",
+          "text": "向相反、作用在一直線上,∴ RE 會通過 D 點"
+        },
+        {
+          "type": "heading",
+          "text": "∑ MA = 0"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "300 × 4 - RE × 8 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RE = 250 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-21"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,求 A 點之反力為多少 kN?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 75"
+        },
+        {
+          "type": "heading",
+          "text": "例題 2-22 題型:求繩子張力與接觸點反力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,圓柱重 1200 N 置於斜面及垂直柱之間,柱 的頂端以繩子繫牢而底端 A 係以銷釘栓於斜面,若接觸"
+        },
+        {
+          "type": "heading",
+          "text": "面均為光滑,試求繩之張力為多少牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "由圓柱自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, R 1 − 1200 = 0, R1 = 2000 N"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "∑ Fx = 0, R 2 − R 1 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "∴ R 2 = R 1 1600 = N"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "取桿子自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MA = 0, ( T ) × 5 − R 2 × 2 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "∴ 4T = 2R2 = 3200"
+        },
+        {
+          "type": "heading",
+          "text": "∴ T = 800 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 2-22"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,桿斜倚於光滑之垂直柱上, A 端置於光滑水"
+        },
+        {
+          "type": "heading",
+          "text": "平面上繫以軟繩,若桿重和繩重不計,試求繩子張力為"
+        },
+        {
+          "type": "heading",
+          "text": "多少牛頓? D 點及 A 點之反力各為多少牛頓?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "76"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 一同平面非共點力系保持平衡之條件方程式之一為? (A) ∑ MA = 0, ∑ MB = 0, ∑ MC = 0, ABC 三 點 為 不 在 同 一 直 線 上 之 任 意 三 點 (B) ∑ Fx = 0, ∑ Fy = 0, ∑ Mz = 0 (C) ∑ Mx = 0, ∑ Fy = 0, ∑ Mz = 0 (D) ∑ Mx = 0, ∑ My = 0, ∑ Fz = 0。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 2. 如圖所示之一樑,假設忽略其自重"
+        },
+        {
+          "type": "paragraph",
+          "text": "且 只 考 慮 外 力 作 用。 AB 長 度 為 2 L, BC 長度為 L,外力 (100 N 向"
+        },
+        {
+          "type": "heading",
+          "text": "下 ) 作用於 AB 之中點 D; A 為鉸"
+        },
+        {
+          "type": "paragraph",
+          "text": "支撐 (hinge), C 為滾支撐 (roller),"
+        },
+        {
+          "type": "heading",
+          "text": "C 點之反力 (reaction) 作用線通過"
+        },
+        {
+          "type": "heading",
+          "text": "D 點,下列敘述何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) RC = 141.4 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) A 點垂直反力為 Ay = 100 N ( 向上 ) (C) A 點水平反力為 Ax = 100 N ( 向右 ) (D) ABC 整體可視為三力平衡構件。 ( ) 3. 如圖所示之平面構架, AB 為水平構件, 200 N 為垂直外力, A、 B 及 C 接點均為無摩擦之銷連接,不計構件重量,下列敘述何者不正確? (A) AB 構件為三力構件 (B) AB 構件僅受彎矩作用不受軸向作用力 (C) BC 構件為二力構件 (D) BC 構件僅有軸向作用力不受彎矩作用。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 承上題,銷 C 對 BC 構件作用力之大小為多少 N? (A) 100 (B) 125 (C) 150 (D) 175。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 平面力系 77"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 如 圖 所 示 之 結 構, 桿 重 不"
+        },
+        {
+          "type": "heading",
+          "text": "計,則 B 點之支承反力為多"
+        },
+        {
+          "type": "heading",
+          "text": "少 N?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 400 2"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 400"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 200 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 200。 ( ) 6. 如圖所示,若框架重量與摩擦力不計,一"
+        },
+        {
+          "type": "heading",
+          "text": "鋼球直徑 6 m,重 80 kN,靠在一光滑牆"
+        },
+        {
+          "type": "heading",
+          "text": "壁上,試求 A 點之反力為多少 kN?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 60"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 80"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 100"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 120。 ( ) 7. 如圖所示,一均質桿重 240 N,若所有接觸面"
+        },
+        {
+          "type": "heading",
+          "text": "均光滑,以繩將桿繫住,試求 A 點之反力為"
+        },
+        {
+          "type": "heading",
+          "text": "多少 N?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 96"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 120"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 240"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 312。 ( ) 8. 如圖所示,圓柱的半徑為 9 cm、重"
+        },
+        {
+          "type": "heading",
+          "text": "量為 W,置於兩個相同長度細桿中"
+        },
+        {
+          "type": "heading",
+          "text": "間,兩細桿分別以繩索連接於 A、 C"
+        },
+        {
+          "type": "heading",
+          "text": "點,且分別以光滑插銷連接於 B、 D"
+        },
+        {
+          "type": "heading",
+          "text": "點;已知 W 重為 288 N,且接觸面"
+        },
+        {
+          "type": "heading",
+          "text": "為光滑,如果不計細桿、繩索和插"
+        },
+        {
+          "type": "paragraph",
+          "text": "銷的重量,則 AC 繩索的張力為多少 N? ( 提示:請運用 3: 4: 5 直"
+        },
+        {
+          "type": "heading",
+          "text": "角三角形和左右對稱的幾何關係作圖求解之 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 70 (B) 96 (C) 120 (D) 144。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "78"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "大船微妙平衡:貨櫃輪排貨有技巧"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 長榮貨櫃輪 ( 圖片來源:長榮海運 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "貨櫃輪排貨決定出海後船舶的穩定性,貨櫃船通常要停靠多個港口,所以每個貨櫃放在船上的位置 是個大學問,不但要顧及船身平衡,也要考量到每個港口時能就很快出貨。一般貨櫃船在排貨時主要考 慮以下因素: 依船舶靠港順序,先到先下、後到後下,彼此不互壓,且貨艙及甲板都放有適當貨載。不 同的河道、碼頭、運河都有不同的載重吃水限制,要分配得當。 最佳排貨原則是貨物 前後對稱 及 左右平均,完全滿載但不傷船體,且絕對要符合國際安全標準,擁 有足夠的 定傾高度 (GM 值 )。除此之外,貨物的配置還要考慮到船體應力的安全,包括 彎曲力矩 (bending moment)、剪力 (shearing force)、扭力 (torsional moment) 等。實務上,貨物應該平均分配在船中線的兩側, 且重貨應該放在定傾中心的下方;當船舶在海上航行時,如果重量過於集中在船舶的底部,搖擺的周期 會愈短、頻率愈高、左右搖晃速度愈快,不但使船上人員感到不適,亦會造成貨物繫固機具的損壞。適 當的定傾高度 (GM 值 ) 可以確保航行的安全及避免船舶左右搖晃速度過快的困擾,由此可知貨櫃輪的上 下貨學問非常大,跟我們現在所學的機械力學息息相關,力學的影響力無遠弗屆。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "2-1 1. 當一力作用於一物體時,可以用兩個或兩個以上的力量來取代,而 不改變其外 效應 的方法稱為 力的分解。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 將一力分解成數個分力的方法稱為力的分解,通常將力分解為 水平 (x 軸 ) 及 垂"
+        },
+        {
+          "type": "paragraph",
+          "text": "直 (y 軸 ) 兩分力。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 一力可分解成 2 個以上的分力,分力最多可分解成無限多個分力。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 兩力夾角 q 合力大小與方向:"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "合力大小 R = F 1 + F 2 + 2 F F 1 2 cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "− 1 F 2 sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "合力方向 α = tan"
+        },
+        {
+          "type": "heading",
+          "text": "F 1 + F 2 cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 Σ F y"
+        },
+        {
+          "type": "heading",
+          "text": "5. 當 q = 90 °,二力垂直,則合力 R = ( Σ F x ) + ( Σ F y ), tan α ="
+        },
+        {
+          "type": "heading",
+          "text": "Σ F x"
+        },
+        {
+          "type": "heading",
+          "text": "6. 將作用於物體上的所有力合成為 一單力,而不改變原有的外效應稱為 力的合"
+        },
+        {
+          "type": "paragraph",
+          "text": "成。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 力之合成:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 一力系之合力只有一個。 (2) 一力分為數個分力,分力的值不一定較原來之總力為小;數個外力之合力 其合力不一定比原來的力量大。 2-2 8. 自由體圖 ( 或分離體圖 ) 係將物體之支承移去,將物體單獨畫出,把作用在物 體之力 ( 包括作用力、反作用力及重量等 ),全部標出之圖形稱為自由體圖。"
+        },
+        {
+          "type": "heading",
+          "text": "79"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "9. 畫自由體圖應注意事項:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 繩子之力量沿著繩子之方向作用只受拉力 ( 張力 )。 (2) 光滑接觸面只有正向力與接觸面垂直。 (3) 光滑銷釘或鉸接常以兩個垂直分力表示。 (4) 固定端除水平和垂分力還有一反作用力矩存在。 (5) 自由體圖上的力,無論其為已知或未知,均應全部畫出來。 (6) 自由體圖上的未知力,可事先假設,若算出來之答案為負,表示與假設方 向相反。 2-3 10. 力矩 (M):力矩為力與力至作用點之垂直距離 d 之乘積,力矩 M = F × d。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 力矩及力偶一般均定義逆時針旋轉為「 + 」,順時針旋轉為「 - 」。"
+        },
+        {
+          "type": "heading",
+          "text": "12. 力矩原理:合力對於某一點之力矩,等於各個分力對於該點之力矩代數和。"
+        },
+        {
+          "type": "heading",
+          "text": "13. 力矩的特性:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 力之作用線與力矩轉軸平行時,力矩為零。 (2) 力之作用線或作用線之延長線與力矩中心或力矩軸相交,力矩為零。 2-4 14. 力偶:力偶為大小相等,方向相反,作用線不在同一直線上的兩平行力。力偶 矩的大小等於力偶之一力與力偶臂乘積, ( 力偶臂為兩平行力之垂直距離 ), C = F × d。"
+        },
+        {
+          "type": "heading",
+          "text": "15. 力偶的三要素:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 力偶 大小。 (2) 力偶旋轉 方向。 (3) 力偶作用的平面或方位。"
+        },
+        {
+          "type": "heading",
+          "text": "16. 力偶之轉換:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 力偶可以在 同一平面上任意移動或轉動。 (2) 力偶可由 一平面移動到另一平行之平面上。 (3) 力偶矩固定時,則力偶之兩力與兩力間之距離可以改變的。"
+        },
+        {
+          "type": "heading",
+          "text": "17. 力偶之特性:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 多組力偶合併後仍為力偶或零。 (2) 力偶對任一點所生的力矩都相同,因為力偶是 自由向量。 (3) 力偶矩之大小和力偶矩之中心位置無關。"
+        },
+        {
+          "type": "heading",
+          "text": "80"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "18. 一單力可分解為一力及一力偶 可改變力之作用線位置。"
+        },
+        {
+          "type": "heading",
+          "text": "2-5 19. 同平面共點力系平衡方程式為:"
+        },
+        {
+          "type": "heading",
+          "text": " Σ F x = 0"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": " Σ F y = 0"
+        },
+        {
+          "type": "heading",
+          "text": "20. 二力平衡 ( 二力構件 ) 之條件:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 二力大小相等。 (2) 二力方向相反。 (3) 二力作用線在同一直線上。"
+        },
+        {
+          "type": "heading",
+          "text": "21. 三力平衡 ( 三力構件 ) 之條件:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 三力作用線必交於一點 ( 或互相平行 )。 (2) 三力在同一平面上。 (3) 三力圍成閉合三角形。"
+        },
+        {
+          "type": "heading",
+          "text": "22. 兩力平行同向時,合力在兩力之間距大力較近;若兩力方向相反,則合力在大"
+        },
+        {
+          "type": "paragraph",
+          "text": "力之外側。"
+        },
+        {
+          "type": "heading",
+          "text": "81"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "23. 同平面各種力系之合成及平衡。"
+        },
+        {
+          "type": "heading",
+          "text": "合力型式"
+        },
+        {
+          "type": "heading",
+          "text": "平衡條件"
+        },
+        {
+          "type": "heading",
+          "text": "同平面"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F ≠ 0 ( 可求未知 合力種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "力系類型 ∑ F = 0, ∑ M ≠ 0 ∑ F = 0, ∑ M = 0"
+        },
+        {
+          "type": "heading",
+          "text": "合力為 數 )"
+        },
+        {
+          "type": "heading",
+          "text": "合力為一力偶 合力為零 ( 平衡 )"
+        },
+        {
+          "type": "heading",
+          "text": "一單力"
+        },
+        {
+          "type": "heading",
+          "text": "(2 個 ) (2 種 )"
+        },
+        {
+          "type": "heading",
+          "text": " ∑ F x = 0  零"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F ≠ 0 共點沒有力偶   ∑ F x = 0 "
+        },
+        {
+          "type": "heading",
+          "text": " ∑ F y = 0  一單力"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y = 0"
+        },
+        {
+          "type": "heading",
+          "text": "共點力系 "
+        },
+        {
+          "type": "heading",
+          "text": "( 沒有力偶 )"
+        },
+        {
+          "type": "heading",
+          "text": "(2 個 ) (3 種 )"
+        },
+        {
+          "type": "heading",
+          "text": " Σ F = 0  ∑ F y = 0 "
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F ≠ 0    ∑ F = 0  零"
+        },
+        {
+          "type": "heading",
+          "text": " Σ M ≠ 0  ∑ M = 0"
+        },
+        {
+          "type": "heading",
+          "text": "  一單力"
+        },
+        {
+          "type": "heading",
+          "text": "平行力系 ∑ M = 0"
+        },
+        {
+          "type": "heading",
+          "text": " "
+        },
+        {
+          "type": "heading",
+          "text": " 一力偶"
+        },
+        {
+          "type": "heading",
+          "text": "(3 個 ) (3 種 )"
+        },
+        {
+          "type": "heading",
+          "text": " ∑ F x = 0"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": " ∑ F y = 0"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": " ∑ F = 0  ∑ M = 0  ∑ F = 0 "
+        },
+        {
+          "type": "heading",
+          "text": "x"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F ≠ 0    零"
+        },
+        {
+          "type": "heading",
+          "text": "∑ M ≠ 0 ( 也可用 ∑ M A = 0,"
+        },
+        {
+          "type": "heading",
+          "text": "非共點   ∑ F y = 0  一單力"
+        },
+        {
+          "type": "heading",
+          "text": "∑ M B = 0, ∑ M C = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "非平行力系   ∑ M = 0   一力偶"
+        },
+        {
+          "type": "heading",
+          "text": ",但 A、 B、 C 三"
+        },
+        {
+          "type": "heading",
+          "text": "點不得共線 )"
+        },
+        {
+          "type": "heading",
+          "text": "82"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "2-1 ( ) 1. 一質點上同時承受數個外力,若以單一力量代表該質點所承受上述外力 之總合,此係利用下列何種方法? (A) 力量的分解 (B) 力量的合成 (C) 力偶的合成 (D) 力偶的分解。 ( ) 2. 一力 F 作用於如圖所示的 ABC 桿上,將此力分解為沿 著 BA 方向及垂直於 BA 方向之分力,請問力 F 沿著"
+        },
+        {
+          "type": "heading",
+          "text": "BA 方向之分力大小為何?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) F sin20 °"
+        },
+        {
+          "type": "heading",
+          "text": "(B) F cos20 °"
+        },
+        {
+          "type": "heading",
+          "text": "(C) F sin30 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) F cos30 °。 2-2 ( ) 3. 一般繪製結構體之自由體圖 (free body diagram) 時,下列何者可 不必 包含"
+        },
+        {
+          "type": "heading",
+          "text": "在圖內?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 支承反力 (B) 外加載重 (C) 切割處斷面之內力 (D) 支承本身。 ( ) 4. 有關自由體圖繪製之相關敘述,下列何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 物體在光滑面上之反力必為零"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 物體之重量可不通過物體之重心"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 滾輪在滾動平面之反力必為零"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 重量不計之軟繩,若有作用力必為張力,且沿繩之方向作用。 2-3 ( ) 5. 下列四種受力情況中,其力量 F 大小皆相等,且 L > a, 0 ° < q < 90 °,請"
+        },
+        {
+          "type": "heading",
+          "text": "問何者對 O 點所產生的力矩大小會最大?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B)"
+        },
+        {
+          "type": "heading",
+          "text": "(C) (D)"
+        },
+        {
+          "type": "heading",
+          "text": "83"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 如圖所示, 50 N 及 10 N 作用力對 A 點之合力"
+        },
+        {
+          "type": "heading",
+          "text": "矩為多少 N-m?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 17.5"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 20"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 57.5"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 92.5。 ( ) 7. 如 圖 所 示, 連 續 剛 性 構 件 OBA 於 A 點 承 受 400 N 作用力,該作用力與 AB 軸夾角 q。當 q = 0 度時,求此力對固定端 O 之力矩為何? (A) 28.3 N-m (B) 40.0 N-m (C) 56.6 N-m (D) 69.3 N-m。 ( ) 8. 承上題,當此力對固定端 O 之力矩為最大值時, q 為多少度? (A) 30 度 (B) 45 度 (C) 60 度 (D) 75 度。 2-4 ( ) 9. 一平面力系包含大小相等、方向相反且作用點不同之二平行力,有關此 力系之敘述,下列何者正確? (A) 可用一單力來平衡 (B) 可分解成一 單力及一力偶 (C) 可使物體產生平移效應 (D) 對平面上任一點之力矩 皆相等。 ( ) 10. 當一個物體受到三組力偶作用時,其結果為 (A) 合力及合力偶矩皆不一 定為 0 (B) 合力必定為 0,但合力偶矩不一定為 0 (C) 合力偶矩必定為 0,但合力不一定為 0 (D) 合力及合力偶矩皆必定為 0。 ( ) 11. 如圖所示位於 xy 平面上的一對大小相等、方向相 反之平行力 F,此二力對 O、 A、 B 三點之力矩分 別為 M O、 M A 與 M B,試問下列對於力矩大小之比 較,何者正確? (A) M O = M B > M A (B) M O = M B < M A (C) M O > M B = M A (D) M O = M B = M A。 ( ) 12. 如圖所示,有一力偶作用於 T 形板上,試變換為作 用在 A、 B 兩點垂直方向之相當力偶,則其作用力 F"
+        },
+        {
+          "type": "heading",
+          "text": "最小值為多少牛頓?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 24 (B) 48 (C) 96 (D) 120。"
+        },
+        {
+          "type": "heading",
+          "text": "84"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 13. 如圖所示,作用於扳手上 40 N 之力可分解為通過 O 點 之 力 系 為? (A) 一 單 力 40 N (B) 一 力 偶 240 N-cm (C) 一單力 40 N 及一力偶 240 N-cm (D) 一單力 40 N 及 一力偶 320 N-cm。 2-5-1 ( ) 14. 三力在同一平面成平衡時,則此三力之作用線? (A) 必相交於一點 (B) 必相交於兩點 (C) 必平行 (D) 若不平行則必相交於一點。 ( ) 15. 一物體受同平面二力之作用而保持平衡時,此物體稱為二力構件,其條 件必須為? (A) 大小相等,方向相同,作用線在同一直線上 (B) 大小 不等,方向相反,作用線在同一直線上 (C) 大小相等,方向相反,作用 線在同一直線上 (D) 大小相等,方向相反,作用線不在同一直線上。 ( ) 16. 一物體重 W 以一繩索 AB 懸掛,並在 A 點施加拉力 P, 使其如圖所示保持平衡狀態。若要使所施加拉力 P 之大"
+        },
+        {
+          "type": "heading",
+          "text": "小為最小,則 P 力之方向 q 角應為何?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 0 °"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 30 °"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 60 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 90 °。 ( ) 17. 如圖所示, AB 斜桿壓制一圓柱體,斜桿與圓"
+        },
+        {
+          "type": "heading",
+          "text": "柱體之重量可忽略不計,斜桿左端為銷連結,"
+        },
+        {
+          "type": "paragraph",
+          "text": "右端受到一垂直向下外力 F = 1000 N,若各物"
+        },
+        {
+          "type": "heading",
+          "text": "體接觸面皆為無摩擦之光滑表面,則圓柱與地"
+        },
+        {
+          "type": "heading",
+          "text": "面接觸之 C 點反作用力是多少 N?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 500"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 500 3"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 1000 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 2000。"
+        },
+        {
+          "type": "heading",
+          "text": "85"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 18. 三個重量皆為 120 N,半徑為 10 cm,均勻且相同的圓柱,如圖所示,以 一條細繩索穿過下方兩圓柱中心,若不計所有摩擦力,則細繩索的張力 為 (A) 60 N (B) 80 N (C) 120 N (D) 160 N。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 19. 如圖所示,圓柱 1 重量 W 1 為 300 N、半徑 R 1 為 2 m,圓柱 2 重量 W 2 為 600 N、半徑 R 2 為 3 m。若所有接觸面為光滑面,圓柱 1 與地面接觸點 D 的作用力為多少 N? (A) 1000 (B) 900 (C) 800 (D) 600。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 20. 如圖所示,桿 F 1、 F 2 接點受力情形,試求 F 1、 F 2"
+        },
+        {
+          "type": "heading",
+          "text": "二桿所受之力量為多少牛頓? ( 若正表拉力,負表"
+        },
+        {
+          "type": "heading",
+          "text": "壓力 )"
+        },
+        {
+          "type": "heading",
+          "text": "(A) − 30 2, 130 2"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 130 2, − 30 2"
+        },
+        {
+          "type": "heading",
+          "text": "(C) - 30, 130"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 130, - 30。 ( ) 21. 如圖所示,圓柱重 126 N,以繩索懸掛之,並靠於"
+        },
+        {
+          "type": "heading",
+          "text": "一光滑斜面上,則斜面與球之間的反力為多少?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 50 N (B) 56.25 N (C) 94.45 N (D) 104 N。"
+        },
+        {
+          "type": "heading",
+          "text": "86"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch02/p062.jpg"
+    }
+  ]
+}

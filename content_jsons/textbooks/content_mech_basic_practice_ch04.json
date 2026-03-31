@@ -1,0 +1,1521 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH04",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH04",
+    "title": "CH4"
+  },
+  "title": "機械基礎實習全冊 Chapter 4 ᝝ˆeდˆၾҸᑮ७",
+  "source_pdf": "機械基礎實習全冊/CH4PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH04",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "᝝ˆeდˆၾҸᑮ७"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 瞭解鑽床的種類、規格與維護 4-1 鑽床種類、規格與維護"
+        },
+        {
+          "type": "heading",
+          "text": "2. 瞭解鑽頭、鉸刀與螺絲攻規格 4-2 鑽頭、鉸刀與螺絲攻規格與用法"
+        },
+        {
+          "type": "heading",
+          "text": "與用法 4-3 鑽孔轉速的計算與選擇"
+        },
+        {
+          "type": "heading",
+          "text": "3. 熟悉鑽孔轉速的計算與選擇 4-4 鉸孔前鑽頭直徑的計算"
+        },
+        {
+          "type": "heading",
+          "text": "4. 學會鉸孔前鑽頭直徑的計算 4-5 攻螺紋前鑽頭直徑的計算"
+        },
+        {
+          "type": "heading",
+          "text": "5. 學會攻螺紋前鑽頭直徑計算 4-6 鑽孔、鉸孔與攻螺紋注意事項"
+        },
+        {
+          "type": "heading",
+          "text": "6. 熟練鑽孔、鉸孔與攻螺紋的操作 4-7 鑽床的使用與鑽孔步驟"
+        },
+        {
+          "type": "heading",
+          "text": "4-8 鉸孔、攻螺紋的操作步驟"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "heading",
+          "text": "4-1 ᝝ґ၇ᗳe஝ࣸၾၪᚐ"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械設備上有許多的圓孔做為裝配或定位之用,鑽孔 (Drilling) 是最基本的加工方式,所謂 鑽孔就是在鑽床 (Drilling machine) 裝置鑽頭,鑽頭旋轉並沿軸向進給以切削出圓形的內孔,如 圖 4-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-1 ȭ⿛ઋ"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽床若配合其他刀具,可做鉸孔、攻螺紋、搪孔、魚眼孔、柱坑孔、錐形孔、中心孔等工作, 如圖 4-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-2 ȭ⿛ಉⶪ׶Ң઩ӝңʠడ̳ᄜᲿ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 ᝝ˆeდˆၾҸᑮ७ 63"
+        },
+        {
+          "type": "heading",
+          "text": "4-1-1 c᝝ґ၇ᗳ"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽床依結構不同,適於各種鑽孔工作,常用的鑽床有下列幾種.."
+        },
+        {
+          "type": "paragraph",
+          "text": "靈敏鑽床 (Sensitive drilling machine)"
+        },
+        {
+          "type": "heading",
+          "text": "置於桌上使用,又稱桌上鑽床或檯式鑽"
+        },
+        {
+          "type": "paragraph",
+          "text": "床,如圖 4-3 所示。 ・ᄖ⿛ಉ౑ᮢᅠ᳅ല"
+        },
+        {
+          "type": "heading",
+          "text": "\u0002 13mm ˫ʁ᱿⿛ઋȯ 馬達與主軸間以 V"
+        },
+        {
+          "type": "heading",
+          "text": "形皮帶 (V-belt) 傳動,主軸進給與床台升"
+        },
+        {
+          "type": "paragraph",
+          "text": "降均為齒輪與齒條之傳動機構。靈敏鑽床"
+        },
+        {
+          "type": "heading",
+          "text": "無自動進刀裝置,鑽削過程全靠手動,因"
+        },
+        {
+          "type": "heading",
+          "text": "切削阻力極易由操作者察覺,故命名為靈"
+        },
+        {
+          "type": "heading",
+          "text": "敏鑽床,常用於小型工件和鉗工裝配的鑽"
+        },
+        {
+          "type": "paragraph",
+          "text": "孔工作,是機械工廠最普遍的鑽床。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-3 ȭ・ᄖ⿛ಉ"
+        },
+        {
+          "type": "paragraph",
+          "text": "立 式 鑽 床 (Vertical drilling machine) 旋臂鑽床 (Radial drilling machine) 主 如圖 4-4 所示,外型與靈敏鑽床相似,唯 要構造有底座 (Base)、床柱 (Column)、旋 體積較大、結構剛性也較強、鑽孔精度 臂 (Radial arm) 及主軸頭 (Spindle head), 高,具有自動進給功能,一般用於較大直 如圖 4-5。旋臂沿床柱升降並繞床柱做水 徑的鑽孔。 平擺動,主軸頭再沿旋臂移動至加工處,"
+        },
+        {
+          "type": "heading",
+          "text": "因不需移動工件 Ŋ᧚Ӳ⳺ᮢ߱Ὣ⸅໣ञࠣ"
+        },
+        {
+          "type": "heading",
+          "text": "డ˴᱿⿛ઋȯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 4-4 ȭἼೣ⿛ಉ Ț ߧ 4-5 ȭᅩ⍪⿛ಉ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "4-1-2 c᝝ґ஝ࣸ"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽床規格一般以「最大鑽孔能力」與「能裝置的工作物大小」表示,其要點有下列幾項,"
+        },
+        {
+          "type": "heading",
+          "text": "請參閱表 4-1 與圖 4-6:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 主軸能裝置的最大鑽頭直徑,如表中之 H 值。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 主軸最大進刀距離,即最大鑽孔深度,如表中之 D 值。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 主軸端至床台或基座面的距離,表示所能裝置的最大工件高度,如圖 F 值。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 主軸至床柱距離,即孔的最大邊距,如圖 E 值。"
+        },
+        {
+          "type": "heading",
+          "text": "5. ᅩ⍪⿛ಉ˫ȵᅩ⍪⿢ಙȶ⠧ḻ⣳ጁȯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽床規格除上述幾點外,廠商也會將鑽床轉速、馬力大小、外觀尺寸等資料詳列於型錄中, 必要時可參考使用。"
+        },
+        {
+          "type": "heading",
+          "text": "Ȝ ⠧ 4-1 ȭኽೇۄ⿛ಉ⣳ጁ⠧"
+        },
+        {
+          "type": "heading",
+          "text": "ೣࠣ⿛ಉ KSD-13"
+        },
+        {
+          "type": "heading",
+          "text": "A 㕗ᾷ᳅ല \u0002 52mm"
+        },
+        {
+          "type": "heading",
+          "text": "B ʙⰧ⻧ಙ JT6"
+        },
+        {
+          "type": "heading",
+          "text": "C ʙⰧᕀᄲ 4"
+        },
+        {
+          "type": "heading",
+          "text": "D ʙⰧ⠗Ễ 85mm"
+        },
+        {
+          "type": "heading",
+          "text": "E ʙⰧ⎏ߥዘ 175mm"
+        },
+        {
+          "type": "heading",
+          "text": "F ʙⰧ⎏ߥᲷ 430mm"
+        },
+        {
+          "type": "heading",
+          "text": "G ʙⰧ⎏ಎಚ 610mm"
+        },
+        {
+          "type": "heading",
+          "text": "H ⿛ઋ⋱Ի 3-13mm"
+        },
+        {
+          "type": "heading",
+          "text": "ƥ ƥ"
+        },
+        {
+          "type": "heading",
+          "text": "N ⲪⱧⳌ 590-2700rpm"
+        },
+        {
+          "type": "heading",
+          "text": "O (労)Ⳮ 1/2HP-4P"
+        },
+        {
+          "type": "paragraph",
+          "text": "P ᑨፋଙ૸ 680 ć 325 ć 1085mm"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-6 ȭ⿛ಉ⣳ጁḻาߧ"
+        },
+        {
+          "type": "heading",
+          "text": "4-1-3 c᝝ґၪᚐ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑽床用畢應將鑽頭卸除,切屑及切削劑等油漬需清除乾淨。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 虎鉗、壓板組等夾具,用畢應另外存放,勿置於床台。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 床台等易鏽處,塗上機油保養。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 旋臂鑽床之主軸頭應盡量靠近床柱,並放低旋臂位置。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 機器上的油杯或油嘴處,定期添加潤滑油。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 ᝝ˆeდˆၾҸᑮ७ 65"
+        },
+        {
+          "type": "heading",
+          "text": "4-2 ᝝᎘eდɠၾᑮകҸ஝ࣸၾ͜ج"
+        },
+        {
+          "type": "heading",
+          "text": "4-2-1 c᝝᎘၇ᗳe஝ࣸၾ͜ج"
+        },
+        {
+          "type": "paragraph",
+          "text": "⿛ᆑ᱿ቨ⫨ञघ˫ネⳌ⻘ᣅʙŊኲⵒԀሷ HS ໣ HSS ઎ᑂŊ 常用的鑽孔刀具有下列幾種:"
+        },
+        {
+          "type": "heading",
+          "text": "ɓe௦ڀ᝝᎘"
+        },
+        {
+          "type": "paragraph",
+          "text": "麻花鑽頭 (Twist drill) 又稱扭轉鑽頭,具有兩個切刃及螺旋槽,可在實體材料上直接鑽孔, 是最常用的鑽頭,麻花鑽頭如圖 4-7 所示。 鑽頭規格以直徑表示,尺寸規格如表 4-2。目前因應產業快速變化與多樣化的生產需求,鑽 頭規格也隨之增加,如 \u0002 10.2mm、 \u0002 10.3mm 之尺寸亦可購得,必要時可參閱刀具廠商之型錄。"
+        },
+        {
+          "type": "heading",
+          "text": "Ȝ ⠧ 4-2 ȭҝӼ⿛ᆑ᱿⣳ጁ (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "⿛ᆑ᳅ല῅ߣ ᕓᄄ⿵⭡ ⎠͛⦦ᆙ"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u0002 0.3 Ɯ \u0002 10 ᕓぽ 0.1mm ɺᄄ \u0002 0.3 Ȯ \u0002 0.4 ƥ \u0002 10 \u0002 10.5 Ɯ \u0002 32 ᕓぽ 0.5mm ɺᄄ \u0002 10.5 Ȯ \u0002 11 ƥ \u0002 32 \u0002 33 Ɯ \u0002 100 ᕓぽ 1mm ɺᄄ \u0002 33 Ȯ \u0002 34 ƥ \u0002 100"
+        },
+        {
+          "type": "heading",
+          "text": "麻花鑽頭由鑽柄、鑽身與鑽尖組成,各部位要點說"
+        },
+        {
+          "type": "heading",
+          "text": "明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "( ɓ ) ݛ᝝"
+        },
+        {
+          "type": "paragraph",
+          "text": "⿛ ኲ ᣅ पྃ ⵒ̤ Ŋ ሷ ᳅ ኲُ ⻧ ኲ ʠ ӠŊ ᳅ ല \u0002 13mm( ؐ ) ˫ʁᣅ᳅ኲŊॖߧ 4-7(a) Ŋ˫⿛ᆑपᆑ (Drill chuck) पྃ ߗ હř \u0002 13mm ˫ ʀ ᣅ ⻧ ኲŊॖ ߧ 4-7(b) Ŋ ⻧ኲ࿮⎊攴ඖ᱿Dᕿ⻧ಙ (Morse Taper ř MT ) Ŋ 可裝在"
+        },
+        {
+          "type": "heading",
+          "text": "具有相同錐度號數的主軸孔內,再藉末端扁平狀的根部"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Tang) 傳達動力防止鑽頭打滑。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-7 ȭ㓮␕⿛ᆑ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "66"
+        },
+        {
+          "type": "heading",
+          "text": "( ɚ ) ᝝φ (Point)"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽尖又稱鑽頂,由靜點、切邊、鑽唇角與鑽唇間隙角形成,如圖 4-8 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-8 ȭ⿛ଊ׳ⵒ̤׻ờ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 靜點 (Dead center)"
+        },
+        {
+          "type": "paragraph",
+          "text": "靜點是鑽頭尖端兩圓錐面的相交處,靜點大小跟鑽腹厚度有密切的關聯,鑽頭愈靠 近柄部,鑽腹愈厚,靜點愈大、鑽削阻力也愈大。當阻力過大時, ר૽㄃㔄⚠᱿⿛⌸ḇ"
+        },
+        {
+          "type": "heading",
+          "text": "☃໣҅˫ଅ⿛ᆑ⿛଄ઋが̥ӡԇぁԻȯ"
+        },
+        {
+          "type": "heading",
+          "text": "2. 切邊 (Cutting edge)"
+        },
+        {
+          "type": "paragraph",
+          "text": "切邊是螺旋槽與鑽尖圓錐面的相交處,因圓錐面向後傾斜,前端形成一個銳利的刀 口,負責切削,此刀口稱為切邊,又稱鑽刃或鑽唇。 қӡⴗ␵ʃᾀ⿢Ŋ⿛ԇᆹሳഐໞ܈"
+        },
+        {
+          "type": "heading",
+          "text": "ⴗӡଫŊ⿛ᆑް⸅მՒŊⳍໞᯌ౑იઋȯ"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鑽唇間隙角 (Lip clearance angle ) 與鑽唇角 (Lip angle)"
+        },
+        {
+          "type": "paragraph",
+          "text": "由切邊漸漸向後方傾斜的角度稱為鑽唇間隙角, ⿛ڝ⿵め⤑⬤ञŊ⿛ᆑฬ⺤ӴȮ̟ ೼ಙฬదŊૌᆞ೧⬚⇃ם໣ய⡣Ŋ⳺׶⿛ԇⰖ⫨⸉଼řוʠŊᮢᅠ⿛ԇⰱʉʠ⸉଼Ŋɺ ⎷⿛ԇ⻘ᅆ᱿⿛ڝ⿵め⤑ᣅ 8 ° Ɯ 12 ° ȯ 鑽唇角是兩條切邊所成的夾角,又稱鑽頂角。單一切邊與鑽頭中心軸線所成的夾角 稱為鑽唇半角,鑽唇半角不相等,也會造成單邊切削與鑽頭擺動,使孔徑擴大。理論上, 鑽唇半角 59° 時,鑽削所產生的壓應力與扭轉應力約成平衡,所以 ⿛ԇᷦ⻘᱿⿛ڝ⤑ᣅ 118 ° ȯ␵⿛ڝ⤑⎞⿛ڝ⿵め⤑қ≛ࠀᔌᷨŊ㄃㔄Bᕀ⎞ӡⴗሳໞ 120 ° Ɯ 135 ° ᱿㄃㔄⤑ȯ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 ᝝ˆeდˆၾҸᑮ७ 67"
+        },
+        {
+          "type": "heading",
+          "text": "( ɧ ) ᝝Ԓ (Body)"
+        },
+        {
+          "type": "heading",
+          "text": "鑽身介於鑽尖與鑽柄之間,"
+        },
+        {
+          "type": "heading",
+          "text": "由螺旋槽、鑽腹與鑽邊組成,如"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 4-9(a) 所示。螺旋槽引導切屑"
+        },
+        {
+          "type": "heading",
+          "text": "自孔底排出,並提供切削劑流入"
+        },
+        {
+          "type": "heading",
+          "text": "鑽尖的空間,螺旋槽與鑽頭軸"
+        },
+        {
+          "type": "heading",
+          "text": "線所成的夾角稱為螺旋角,大"
+        },
+        {
+          "type": "heading",
+          "text": "的螺旋角刀刃鋒利、排屑快速,"
+        },
+        {
+          "type": "heading",
+          "text": "用於銅、鎂等軟質金屬的鑽削,"
+        },
+        {
+          "type": "heading",
+          "text": "但切邊強度較弱,遇切削阻力"
+        },
+        {
+          "type": "heading",
+          "text": "易崩裂;反之,小的螺旋角用"
+        },
+        {
+          "type": "heading",
+          "text": "於硬質金屬的鑽削, ⿛ԇⰖ⻘"
+        },
+        {
+          "type": "heading",
+          "text": "דʉ⻘᱿➦ᅩ⤑) 20 ° Ɯ 25 ° ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "⿛⌸ᆯқ⿛ᐥ⿵᱿૪ナׂ"
+        },
+        {
+          "type": "heading",
+          "text": "ಙŊฬ࿲Ⲗ⿛ኲ⬤ׂŊᮢ า࣑߱"
+        },
+        {
+          "type": "heading",
+          "text": "Խ⿛ᆑ೼ಙȯ 鑽邊是沿螺旋"
+        },
+        {
+          "type": "heading",
+          "text": "溝槽邊凸起的狹帶,兩狹帶的"
+        },
+        {
+          "type": "paragraph",
+          "text": "距離為鑽頭直徑。鑽邊在圓周"
+        },
+        {
+          "type": "heading",
+          "text": "方向以直徑稍變小的方式形成"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽 身 直 徑 間 隙, 如 圖 4-9(b) 所"
+        },
+        {
+          "type": "heading",
+          "text": "示,此間隙可減少鑽邊與圓周"
+        },
+        {
+          "type": "paragraph",
+          "text": "面產生摩擦。在軸線方向,直"
+        },
+        {
+          "type": "heading",
+          "text": "徑也以 1/1000 的比例向柄部微"
+        },
+        {
+          "type": "heading",
+          "text": "微縮小形成錐度,如圖 4-9(c) 所"
+        },
+        {
+          "type": "heading",
+          "text": "示,該錐度同樣會讓鑽身和孔"
+        },
+        {
+          "type": "paragraph",
+          "text": "壁留有間隙,避免摩擦。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-9 ȭ⿛ᆑʠ⿛⯿⎞⿛ଊ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "68"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeʕː᝝"
+        },
+        {
+          "type": "paragraph",
+          "text": "中心鑽 (Center drill) 如圖 4-10 所示,是由一 小直徑且長度極短的麻花鑽頭與 60° 的錐坑鉸 刀 組合而成。 ʑൔ⿛⣳ጁ˫ԊὉ᳅ലञଅờكŊ 如 \u0002 2、 \u0002 3.2mm。中心鑽所加工之孔稱為中心孔,可"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-10 ȭʑൔ⿛"
+        },
+        {
+          "type": "heading",
+          "text": "引導鑽頭定位或在車床上兩心間工作時做為頂心"
+        },
+        {
+          "type": "paragraph",
+          "text": "支撐之孔。"
+        },
+        {
+          "type": "heading",
+          "text": "ɧe፿Ѧ᝝᎘"
+        },
+        {
+          "type": "paragraph",
+          "text": "錐坑鑽頭 (Counter sinking drill) 是把孔端形狀"
+        },
+        {
+          "type": "heading",
+          "text": "製成圓錐形,使平頭螺釘的頭部在裝配時能沉入工"
+        },
+        {
+          "type": "heading",
+          "text": "件,另一個主要目的是在孔端倒角,或修除鑽孔所"
+        },
+        {
+          "type": "heading",
+          "text": "產生的毛邊,也稱為倒角刀或倒角鑽,如圖 4-11"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-11 ȭ⻧ࠉ⿛ᆑ"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示。"
+        },
+        {
+          "type": "heading",
+          "text": "̬ eݒѦ᝝᎘"
+        },
+        {
+          "type": "paragraph",
+          "text": "柱坑鑽頭 (Counter borer) 如圖 4-12(a),係在圓"
+        },
+        {
+          "type": "heading",
+          "text": "孔端形成一大一小的階級孔,主要目的是讓內六角"
+        },
+        {
+          "type": "heading",
+          "text": "沉頭螺絲組立時,頭部能沉入工件表面, ⣳ጁ˫Ҟ"
+        },
+        {
+          "type": "paragraph",
+          "text": "⤑ᗖᆑ➦⃦ ᱿ᐻờଙಙ⠧ḻŊ 如 M5、 M6、 M8 ⋯ 等。階級鑽頭 (Step drill) 是同一支鑽頭有兩種或兩 種以上的直徑,如圖 4-12(b) 所示,它的特點是一"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-12 ȭዘࠉ⿛ᆑ⎞べ₤⿛ᆑ"
+        },
+        {
+          "type": "paragraph",
+          "text": "次操作即可鑽出不同直徑的圓孔。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 ᝝ˆeდˆၾҸᑮ७ 69"
+        },
+        {
+          "type": "heading",
+          "text": "4-2-2 cდɠٙ஝ࣸၾ͜ج"
+        },
+        {
+          "type": "heading",
+          "text": "鉸孔是在已加工的圓孔中切除孔壁少量的金屬"
+        },
+        {
+          "type": "paragraph",
+          "text": "層,使圓孔稍微增大,以 ᪀വᔌᷨ᱿ઋലȮⰱ̈́᱿᳠ ߥಙ⎞⠧ㄇ⁏⁳ಙŊ 鉸孔精度可達 IT7 ∼ IT9。鉸孔所 使用的刀具稱為鉸刀 (Reamer),鉸刀如圖 4-13 所示, 鉸刀材質為高速鋼或鎢鋼, ɺ⎷⹶ԇడ̳ ̃˫ネⳌ⻘"
+        },
+        {
+          "type": "heading",
+          "text": "ᣅʙȯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "鉸孔刃部有直刃與螺旋刃兩種。直刃阻力較大且"
+        },
+        {
+          "type": "heading",
+          "text": "易抖動; ➦ᅩӟぁԻⰱଅŊ౹ỻʃᆞネՒŊ⳺ᮢᅠሷ"
+        },
+        {
+          "type": "heading",
+          "text": "尸ᐥ໣ᗴઋʠҙઋ⹶ԇŊ 惟螺旋刃研磨不易,製造成"
+        },
+        {
+          "type": "paragraph",
+          "text": "本較高。螺旋切刃有左旋和右旋之分,一般以左旋方"
+        },
+        {
+          "type": "heading",
+          "text": "式形成螺旋,其目的在避免順時針鉸削時,因螺旋而"
+        },
+        {
+          "type": "heading",
+          "text": "產生自動拉入現象,且左旋切刃會使切屑向下排出,"
+        },
+        {
+          "type": "paragraph",
+          "text": "減少切屑刮傷孔壁。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-13 ȭ⹶ӝ׳ⵒ̤׻ờ"
+        },
+        {
+          "type": "paragraph",
+          "text": "刀柄為鉸刀的夾持處,有直柄與錐柄。 ᳅ኲ቎Ὁሷᅞഐዘ≛ờᣅ༆డ⹶ӝ (Hand reamer) Ŋ ᅞഐዘဏͧ➦⃦ᄋ༡༆ (Tap wrench) पྃʠᮢŊ 如圖 4-14(a) 所示,以利手工鉸削。 ᑨፋ⹶ӝ (Machine reamer) ኲⵒ቎ὉᤀᅞഐዘŊഐᨊᣅ᳅ኲ໣⻧ኲŊ᳅ኲͧ⿛प໣ᾉप攴ZŊ 如圖 4-14(b) 所示,可裝置在鑽床、車床或銑床上,以機械動力進行鉸孔。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-14 ȭ⹶ӝʠ攴Z"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "70"
+        },
+        {
+          "type": "paragraph",
+          "text": "手工鉸刀與機械鉸刀在外觀上,除了上述特徵外,刀刃前端也略有不同, ༆డ⹶ӝԊὉ) ሷ 1 ° ᱿⻧ಙŊՀᅠ⹶ӝⳖҘઋҙřᑨፋ⹶ӝԊὉ)Ϊ⤑ 45 ° Ŋ˫ᔍ⚠ϝᣅӡԇӝםȯ ⹶ӝ⣳ጁ˫⹶ઋര᱿ઋലञଅ⠧ḻŊ 例如 \u0002 10H7,其中「 \u0002 10 」為標稱尺度、「 H 」表示孔 的公差區間 ( 大寫英文字母表示孔之公差、小寫英文字母表示軸之公差 )、「 7 」為公差等級,相 關資料可查閱機械工作便覽等書籍,在此將鉸孔常用的尺寸與公差列於表 4-3。"
+        },
+        {
+          "type": "heading",
+          "text": "Ȝ ⠧ 4-3 ȭ⹶ઋ౑ᮢ᱿ଙ૸⎞ҝద"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ϙదϊ ( ̤܈ \u0003 Ŋ 1 \u0003 = 0.001mm)"
+        },
+        {
+          "type": "heading",
+          "text": "ᐻờଙಙ H7 H8 H9"
+        },
+        {
+          "type": "paragraph",
+          "text": "( mm) ʀϘద ʁϘద ʀϘద ʁϘద ʀϘద ʁϘద 3 ˫ʁ + 10 0 + 14 0 + 25 0 3 Ɯ 6 + 12 0 + 18 0 + 30 0 6 Ɯ 10 + 15 0 + 22 0 + 36 0 10 Ɯ 18 + 18 0 + 27 0 + 43 0 18 Ɯ 30 + 21 0 + 33 0 + 52 0"
+        },
+        {
+          "type": "heading",
+          "text": "4-2-3 cᑮകҸٙ஝ࣸၾ͜ج"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺絲攻 (Tap) 是製造內螺紋的一種刀具,如圖 4-15 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-15 ȭ׳ೣ➦⃦ᄋ"
+        },
+        {
+          "type": "heading",
+          "text": "螺絲攻以垂直於圓柱或圓錐之切線方向上的"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋斷面當成切刃,來切削工件的孔壁,使工件"
+        },
+        {
+          "type": "heading",
+          "text": "孔壁產生與螺絲攻相同的螺紋,此切削行為稱為"
+        },
+        {
+          "type": "paragraph",
+          "text": "攻螺紋 (Tapping),也稱為攻牙,如圖 4-16 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "因應各種材料的切削,螺絲攻材質可以是超"
+        },
+        {
+          "type": "paragraph",
+          "text": "微粒碳化鎢、高速鋼、合金工具鋼等。工業界所用"
+        },
+        {
+          "type": "heading",
+          "text": "的螺絲攻種類繁多,今將較常用的幾種介紹如下 Ř"
+        },
+        {
+          "type": "heading",
+          "text": "▲ ߧ 4-16 ȭᄋ➦hʠԽడ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 ᝝ˆeდˆၾҸᑮ७ 71"
+        },
+        {
+          "type": "paragraph",
+          "text": "手工螺絲攻 (Hand Tap) 如圖 4-17(a) 所示,該螺絲攻如同手工鉸刀,使用時均需以螺絲攻扳 手夾持末端方形柱,進行攻螺紋作業,如圖 4-17(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-17 ȭ༆డ➦⃦ᄋ⎞➦⃦ᄋ༡༆"
+        },
+        {
+          "type": "paragraph",
+          "text": "手工螺絲攻一組有三支,分別為第一攻、第二攻及第三攻,這三支最大直徑、節距 (pitch) 都相同,惟各支前端的倒角牙數不同,如圖 4-18 所示。對於厚度較薄的通孔工件,只需以第一 攻加工即可;第三攻多用於盲孔的攻牙。"
+        },
+        {
+          "type": "paragraph",
+          "text": "ὮɺᄋԊὉሷ 8 Ɯ 10 ᧃ᱿Ϊ⤑ŊᲿ᱿͐➦⃦ᄋ"
+        },
+        {
+          "type": "heading",
+          "text": "ԊὉ⩐ଅŊ˫ӴᄋҘҙઋȯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ὦwᄋ)ሷ 3 Ɯ 4 ᧃ᱿Ϊ⤑Ŋᆯ↧Ὦɺᄋ͐ᮢȯ"
+        },
+        {
+          "type": "heading",
+          "text": "ὮɿᄋᣅሱരɺᄋŊ)ףሷ 1 Ɯ 2 ᧃ᱿Ϊ⤑Ŋ"
+        },
+        {
+          "type": "heading",
+          "text": "Ჿ᱿ᆯ͐➦⃦ᄋ⋱Ѣ⸇ᄋ⎏ઋಎȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-18 ȭ༆డ➦⃦ᄋԊὉΪ⤑෼ഐ"
+        },
+        {
+          "type": "paragraph",
+          "text": "機 器 螺 絲 攻 (Machine Tap) 如 圖 4-19, 專"
+        },
+        {
+          "type": "heading",
+          "text": "用於機器上攻製螺紋,其排屑槽為螺旋槽狀,"
+        },
+        {
+          "type": "heading",
+          "text": "目的是對延性材料攻牙時,切屑會沿螺旋槽而"
+        },
+        {
+          "type": "heading",
+          "text": "成條狀捲曲並往柄端排出,沒有切屑殘留或堵"
+        },
+        {
+          "type": "heading",
+          "text": "塞於溝槽的困擾,適用於切削高韌性之材料,"
+        },
+        {
+          "type": "paragraph",
+          "text": "而不適合鑄鐵等切屑成細碎狀之材料。螺絲攻 前端約有 1 ∼ 3 牙的倒角,使機器攻牙時,能 Ț ߧ 4-19 ȭᑨݽ➦⃦ᄋ 儘可能的攻至孔底。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "72"
+        },
+        {
+          "type": "paragraph",
+          "text": "先端螺絲攻 (Point Tap) 如圖 4-20 所示,是在螺絲攻前鋒刃槽 部研磨 8° 的軸向斜槽,切屑由螺絲攻前端排出,且排屑槽僅有三 槽,強度佳,是切削效率很高的螺絲攻。但 ૌଫἇ⿵ଇŊХ⳺׶"
+        },
+        {
+          "type": "heading",
+          "text": "ⳇઋԽడʏʃ⳺ᅠᄋ⢌᳃ઋ➦hȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-20 ȭ҅Ὁ➦⃦ᄋ"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺絲攻的規格有公制與英制之分,均標示於螺絲攻柄端處,如是整套盒裝式的螺絲攻也會 標示於盒外,以利辨認,以下舉三個例子說明之。"
+        },
+        {
+          "type": "heading",
+          "text": "ɓeʮՓ஝ࣸ"
+        },
+        {
+          "type": "heading",
+          "text": "公制規格的螺絲攻表示如下:"
+        },
+        {
+          "type": "heading",
+          "text": "M ➦hकല ć ➦hῃ⭡ ȭ ➦⃦ᄋቨ⫨"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-1"
+        },
+        {
+          "type": "heading",
+          "text": "M10 × 1.5 SKS2"
+        },
+        {
+          "type": "paragraph",
+          "text": "⦦ᆙ 該螺絲攻的外徑為 10mm,螺紋節距 1.5mm,所用的材質為合金工具鋼。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-2"
+        },
+        {
+          "type": "heading",
+          "text": "M6 × 1.0 SKH2"
+        },
+        {
+          "type": "paragraph",
+          "text": "⦦ᆙ 該螺絲攻的外徑為 6mm,螺紋節距 1.0mm,所用的材質為高速鋼。"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeߵՓ஝ࣸ"
+        },
+        {
+          "type": "heading",
+          "text": "螺絲攻的英制規格表示如下:"
+        },
+        {
+          "type": "heading",
+          "text": "➦hकലŋᕓ׹➦hᄲד➦h7Ӳ ȭ ➦⃦ᄋቨ⫨"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-3"
+        },
+        {
+          "type": "heading",
+          "text": "1/2\"-13 UNC HSS"
+        },
+        {
+          "type": "paragraph",
+          "text": "⦦ᆙ 該螺絲攻外徑為 1/2 英吋 ( 換算成公制: 1/2\" × 25.4 = 12.7mm),每吋 (25.4mm) 長度有 13 個螺紋數,所以節距為 1/13 英吋 ( 換算成公制: 1/13\" × 25.4 = 1.9538mm),該螺紋 係屬統一標準粗螺紋,所用的材質為高速鋼。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 ᝝ˆeდˆၾҸᑮ७ 73"
+        },
+        {
+          "type": "heading",
+          "text": "4-3 ᝝ˆᔷ஺ٙࠇၑၾ፯኿"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽孔工作是鑽頭旋轉並做軸向進給以切除材料,鑽孔情形如圖 4-21(a) 所示。所謂 ȷӡԇⳌ ಙ (Cutting speed) ȸᆯӡԇᆹӝң⎞ቨᅆ᱿᳈ଃⳌಙŊ˫ᕓӠ身घଇҝଙ (m/min) ⠧ḻȯ 鑽削 加工的鑽削速度是指鑽頭旋轉時,圓周上的切線速度,如圖 4-21(b) P 點切線速度。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-21 ȭ⿛ઋ෼ഐ⎞ӡԇⳌಙḻาߧ"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削速度是影響刀具壽命最顯著的因素,就鑽孔而言,鑽頭轉速愈快,切線速度也愈高。 過高的切削速度剛開始似乎會有較好的切削效率,但刀具也承受較多的切削熱,大大降低刀具 使用壽命;反之,太低的切削速度除了浪費加工時間,刀具也無法發揮應有的切削效能。 影響鑽頭切削速度的因素有刀具材質、被加工物材質、加工精度與切削劑的使用等等,其 中 ሱ⸅⣬᱿ߌ₪ᆯȵ⡕Խడ᧎ቨ⫨ȶ⎞ȵӝң ( ⿛ᆑ ) ቨ⫨ȶȯ 不同材料的切削速度是經驗的累 積與實驗的結果。對同材質的刀具而言, Խడฬʉ໣ฬザӡԇ᱿ቨᅆŊӡԇⳌಙະฬ๨ȯ 表 4-4 是高速鋼鑽頭切削各種材料的鑽削速度。"
+        },
+        {
+          "type": "heading",
+          "text": "Ȝ ⠧ 4-4 ȭネⳌ⻘⿛ᆑ⿛ԇⳌಙ"
+        },
+        {
+          "type": "heading",
+          "text": "⿛ԇቨᅆ ӡԇⳌಙ (m/min)"
+        },
+        {
+          "type": "paragraph",
+          "text": "̥ᷦ ⻘ ( ؐᷦ ⸇ 0.05% Ɯ 0.3%) 24 Ɯ 34 ʑᷦ⻘ ( ؐᷦ ⸇ 0.3% Ɯ 0.6%) 21 Ɯ 24 ネᷦ⻘ ( ؐᷦ ⸇ 0.6% Ɯ 1.7%) 15 Ɯ 18"
+        },
+        {
+          "type": "heading",
+          "text": "ʃ舟⻘ 9 Ɯ 12"
+        },
+        {
+          "type": "heading",
+          "text": "風隶 ( ҽʉ ) 21 Ɯ 31"
+        },
+        {
+          "type": "heading",
+          "text": "風隶 ( ଭඖ ) 24 Ɯ 27"
+        },
+        {
+          "type": "heading",
+          "text": "ᇒⳇ㓳⺁Ȯヾ⺁ 61 Ɯ 91"
+        },
+        {
+          "type": "heading",
+          "text": "⺭Ȯ⺭׶⸉ 61 Ɯ 91"
+        },
+        {
+          "type": "heading",
+          "text": "广Ȯ广׶⸉ 76 Ɯ 122"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "74"
+        },
+        {
+          "type": "paragraph",
+          "text": "依上述切削速度,可根據鑽頭直徑計算適當的主軸轉速。今設鑽頭半徑為 R,鑽頭以 \u0002 等"
+        },
+        {
+          "type": "heading",
+          "text": "角速度旋轉,鑽頭的切線速度為 V,三者關係如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "V = R × \u0002 (V 單位為 m/min、 \u0002 單位為 rad/min) = R × 2 \u0003 N ( 其中 \u0002 = 2 \u0003 N, R 單位為 m, N:主軸每分鐘的轉速 )"
+        },
+        {
+          "type": "heading",
+          "text": "= \u0003 DN (D:鑽頭直徑,單位為 m)"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽頭直徑均以 mm 表示 (1m = 1000mm),故得"
+        },
+        {
+          "type": "heading",
+          "text": "π π DN"
+        },
+        {
+          "type": "heading",
+          "text": "V = = (4-1)"
+        },
+        {
+          "type": "heading",
+          "text": "1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "上式 V 可查表 4-4 而得,經計算再依鑽床提供的主軸轉速選用較接近者。下列舉兩例子說 明上述關係。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "直徑 \u0002 10mm 的高速鋼鑽頭在工件上鑽孔,工件材質為中碳鋼,切削速度 V = 30m/min,則選 用的主軸轉速 (N) 應為多少 rpm? ( 註: \u0004 = 3.14 ≒ 3)"
+        },
+        {
+          "type": "heading",
+          "text": "⤟"
+        },
+        {
+          "type": "heading",
+          "text": "π DN 3 × 10 × N"
+        },
+        {
+          "type": "paragraph",
+          "text": "V =, 30 = ∴ N = 1000 (rpm)"
+        },
+        {
+          "type": "heading",
+          "text": "1000 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "⦦ᆙ 以靈敏鑽床為例,一般可用於 50Hz 與 60Hz"
+        },
+        {
+          "type": "heading",
+          "text": "的交流電,兩者的主軸轉速標示於機器銘"
+        },
+        {
+          "type": "paragraph",
+          "text": "牌上,如圖 4-22 所示。台灣使用的交流電 頻率 60Hz,主軸轉速分別為 3000、 1750、 1050、 550 等四種,選用較近的 1050(rpm)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-22 ȭ⿛ಉⱧⳌ⠧"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "直徑 \u0002 6mm 的鑽頭,以每分鐘 1600rpm 的轉速進行鑽孔,鑽削速度為何?"
+        },
+        {
+          "type": "heading",
+          "text": "⤟"
+        },
+        {
+          "type": "heading",
+          "text": "π DN 3.14 × 6 × 1600"
+        },
+        {
+          "type": "paragraph",
+          "text": "V =, V = ∴ V = 30 (m/min)"
+        },
+        {
+          "type": "heading",
+          "text": "1000 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "⿛ԇ⳧ỄʑŊʙⰧᅩⱧɺߞŊ⿛ᆑᗺⰧ׿⿛Ҙቨᅆ᱿⭡サờᣅⳖ⃛⸇໣ờⳖ⃛᪓ (Feed) Ŋ ˫ᕓⱧघଇҝ׀⠧ḻ (mm/rev) ȯ 因靈敏鑽床無自動進給功能,主軸進給率全由操作者施力控制, 小鑽頭剛性較差、排屑不易,進給量宜慢,也就是操作者施加於主軸把手之力應較小。反之, 大鑽頭剛性佳,可採用較快的進給率。 ଎ᄝᘜาŊᯍడ˴⿛ἊU⿵Ŋ㄃㔄ぁԻἌᤋᚉदŊᅡԽ ᅠ༴༆ʠԻະᛧג ( Ⳗ⃛᪓ଅ ) Ŋ؋ԅሳߌ⿛ᆑ᱿➦ᅩ̳ᮢ࿉⬚డ˴໣ᆯ⿛ᆑ֦̦≟ᱹᮝ֭るȯ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 ᝝ˆeდˆၾҸᑮ७ 75"
+        },
+        {
+          "type": "heading",
+          "text": "4-4 დˆۃ᝝᎘ٜࢰٙࠇၑ"
+        },
+        {
+          "type": "paragraph",
+          "text": "依前述,鉸孔是先以略小於孔徑的鑽頭進行鑽孔,所以 ⹶ԇԊ᱿⿛ઋ᳅ലś⹶ઋ᳅ലŋ⹶ԇ ᄩᮽ⸇ȯᄩᮽ⸇ら᳅ല≟ᯌŊ᳅ലฬञȮᄩᮽ⸇ฬघŊ 如表 4-5 所示,並舉一例說明之。"
+        },
+        {
+          "type": "heading",
+          "text": "Ȝ ⠧ 4-5 ȭ⹶ԇᄩᮽ⸇ (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-6"
+        },
+        {
+          "type": "heading",
+          "text": "⹶ઋ᳅ല (D) ⹶ԇᄩᮽ⸇ ( ᳅ലϊ )"
+        },
+        {
+          "type": "heading",
+          "text": "鉸削直徑 \u0002 10H7 的內孔,試問需先以直"
+        },
+        {
+          "type": "heading",
+          "text": "\u0002 5 ˫ʁ 0.1 Ɯ 0.2"
+        },
+        {
+          "type": "heading",
+          "text": "徑多少 mm 的鑽頭進行鑽孔?"
+        },
+        {
+          "type": "heading",
+          "text": "\u0002 5 Ɯ \u0002 20 0.2 Ɯ 0.3"
+        },
+        {
+          "type": "heading",
+          "text": "⤟"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u0002 21 Ɯ \u0002 32 0.3 由 表 4-5 得 \u0002 5 ∼ \u0002 20mm 的 鉸 削 預 留 量 \u0002 33 Ɯ \u0002 50 0.5 為 0.2 ∼ 0.3mm,鑽孔之直徑為: \u0002 10 - (0.2 ∼ 0.3) = \u0002 9.7 ∼ \u0002 9.8 mm"
+        },
+        {
+          "type": "heading",
+          "text": "\u0002 51 Ɯ \u0002 80 0.8"
+        },
+        {
+          "type": "heading",
+          "text": "4-5 Ҹᑮ७ۃ᝝᎘ٜࢰٙࠇၑ"
+        },
+        {
+          "type": "paragraph",
+          "text": "攻螺紋之前需先鑽孔,攻螺紋鑽頭直徑依 ISO 所規"
+        },
+        {
+          "type": "heading",
+          "text": "定的螺紋配合標準是:標準螺紋的內徑=攻螺紋的鑽頭"
+        },
+        {
+          "type": "paragraph",
+          "text": "直徑,即是螺紋外徑減去兩倍的牙深。此時內、外螺紋 的接觸比為 83.3%,但以此內徑進行攻螺紋時,切削阻 力會變得很大,不但攻螺紋困難,且容易將螺絲攻扭斷。 因此,若將攻螺紋鑽頭的直徑加大約 6 ∼ 8%,使內、 外螺紋的接觸比由 83.3% 降至 77 ∼ 75%,雖然螺紋接觸"
+        },
+        {
+          "type": "heading",
+          "text": "的高度減少了,但並不妨礙配合的功能,而配合的強度"
+        },
+        {
+          "type": "heading",
+          "text": "也在安全許可範圍內,除可避免螺絲攻被扭斷的危險性"
+        },
+        {
+          "type": "paragraph",
+          "text": "外, 攻螺紋鑽頭直徑的計算也變得容易許多, 如公式 4-2。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-23 ⿛ઋ᳅ല⎞➦hಎലḻาߧ"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽孔直徑與螺紋底徑示意圖如圖 4-23 所示。 ᄋ➦h⿛ᆑ᳅ലś➦hकല (D) ŋῃ⭡ (P) (4-2)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "76"
+        },
+        {
+          "type": "paragraph",
+          "text": "在工業界中,一般零件使用螺紋配合的接觸比,並無嚴格要求要 75% 或 77%,主要是不影 響其配合強度便可,所以一般攻螺紋鑽頭直徑均以上式簡要公式為主,且泛稱此公式為接觸比 75% 的鑽頭直徑公式,茲舉兩例說明上式公式。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件攻製 M10 × 1.5 螺紋,採 75% 的接觸比,攻螺紋鑽頭直徑應為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "⤟"
+        },
+        {
+          "type": "paragraph",
+          "text": "攻螺紋鑽頭直徑 = 螺紋外徑 \u0006 節距 = \u0002 10 \u0006\u0007 1.5 = \u0002 8.5mm"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "某一工件上欲攻 3/8\"-16UNC 的英制螺紋,攻螺紋鑽頭直徑應為多少英吋?若鑽頭為公制規"
+        },
+        {
+          "type": "heading",
+          "text": "格,直徑應是多少公厘?"
+        },
+        {
+          "type": "heading",
+          "text": "⤟"
+        },
+        {
+          "type": "paragraph",
+          "text": "攻螺紋鑽頭直徑 = 螺紋外徑 \u0006 節距 = \u0002 3/8 \u0006\u0007 1/16 = \u0002 5/16 ( 英吋 )。 換算成公制鑽頭直徑: \u0002 5/16\" × 25.4 ≒ \u0002 8 mm。 ( 註: 1 英吋 = 25.4 mm)"
+        },
+        {
+          "type": "heading",
+          "text": "4-6 ᝝ˆeდˆၾҸᑮ७ءจԫධ"
+        },
+        {
+          "type": "heading",
+          "text": "4-6-1 c᝝ˆءจԫධ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑽孔前應先劃線,並確認無誤再進行鑽孔工作。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鑽孔位置先以中心衝打點,圓點位置需正好通過兩線條的交點,否則鑽孔位置會有誤差產生。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鑽孔前應核對鑽頭尺寸,確定無誤再裝置鑽頭,並選定適當之主軸轉速。"
+        },
+        {
+          "type": "heading",
+          "text": "4. խ໷༆हഺʁ⿛ઋడ̳Ŋߌቨᅆט჉ࣱരŊ⿛ଫⴗMໞ⻔㕗ᨊŊᆞ૽ፕ⫨༆ह࿉Ҙⳍໞาकȯ"
+        },
+        {
+          "type": "heading",
+          "text": "5. 大直徑的鑽孔,因鑽頭靜點及鑽削扭力較大,應先鑽導孔,再逐漸增大鑽頭尺寸。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 除鑽削鑄鐵、銅合金外,應添加切削劑降低切削溫度,延長刀具壽命。"
+        },
+        {
+          "type": "heading",
+          "text": "7. డ˴֯૽⡕⿛ἊᆹŊະが̥⿛ԇԻ⸇ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "8. 鑽頭斷在孔內,無法以另一支鑽頭直接鑽除,須設法取出後再鑽削。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 材料經鑽削後會在孔的上、下端產生毛邊,應以倒角鑽 ( 刀 )、較大直徑的鑽頭或旋轉刮刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "去除。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 ᝝ˆeდˆၾҸᑮ७ 77"
+        },
+        {
+          "type": "heading",
+          "text": "4-6-2 cდˆءจԫධ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 柄部末端有方形柱者為手工鉸刀,手工鉸刀僅能用於手工鉸削作業,不可以機械動力鉸削。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鉸孔前之鑽頭直徑要適當,並考慮鑽孔後的擴孔問題,應確保鑽削後仍有足夠的鉸削預留"
+        },
+        {
+          "type": "paragraph",
+          "text": "量。但預留量也不可以過多,否則阻力變大,手工鉸削會有轉不動的情形,強制鉸入易造 成類似多邊形或波浪狀的孔壁表面,影響真圓度,甚至損壞鉸刀。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鑽孔後應先修除孔端的毛邊再做鉸孔工作。此舉是避免倒角所產生的微小毛邊遺留在鉸削面。"
+        },
+        {
+          "type": "heading",
+          "text": "4. ⳖȮⲵ⹶ӝࠀトᇝᆹ⸒ᅞ׿ᅩⱧŊӡൗוᇝᆹ⸒ᅞ׿ᅩⱧŊ˫҉ӝӟய⡣ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "5. 鉸削過程除鑄鐵、黃銅外,應添加切削劑,切削劑具有延長刀具壽命,獲得良好的表面粗"
+        },
+        {
+          "type": "paragraph",
+          "text": "糙度的功用。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 若以 ᑨፋ⹶ઋະ͐ᮢᑨፋ⹶ӝŊʏ˫̥ⱧⳌȮञⳖ⃛᱿ӡԇጻ˴Ⳗ⠗⹶ઋȯ"
+        },
+        {
+          "type": "heading",
+          "text": "7. 鉸刀用畢應清除切屑、擦拭乾淨、塗抹防鏽油後,置於刀具廠商所提供的塑膠盒內保存,"
+        },
+        {
+          "type": "paragraph",
+          "text": "避免刀刃相互碰撞。"
+        },
+        {
+          "type": "heading",
+          "text": "4-6-3 cҸᑮ७ءจԫධ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 攻螺紋前應確認螺絲攻的外徑、節距並計算鑽孔直徑。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 攻螺紋前,孔的兩端需先倒角,倒角略大於螺紋的公稱直徑。倒角有以助於螺絲攻進入孔"
+        },
+        {
+          "type": "paragraph",
+          "text": "內、減少攻牙後所產生的毛邊,以及裝配容易等功用。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 螺絲攻扳手需配合螺絲攻大小選用,過長的扳手易因扭力過大,扭斷螺絲攻;太短的扳手"
+        },
+        {
+          "type": "paragraph",
+          "text": "又因力臂短、扭力小,攻牙不易。"
+        },
+        {
+          "type": "heading",
+          "text": "4. ᄋ➦h⳧ỄトԽҘ⳺ᯍ᱿ӡԇᗴŊ 最好是使用攻牙專用油,延長螺絲攻壽命,獲得良好的"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋表面。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 手工攻螺紋應注意垂直度,歪斜螺絲攻易使其斷裂,或造成螺紋裝配困難等問題。"
+        },
+        {
+          "type": "heading",
+          "text": "6. ᄋ➦hトג๨ʈỻહ᱿ⱧՒ༡༆ŊᕓⱧ) 1/2 Ɯ 3/4 ߞŊ➦⃦ᄋトരⲵ) 1/4 ߞŊ˫Ӵᅜଫ"
+        },
+        {
+          "type": "paragraph",
+          "text": "໣࿢ଫŊʏגُ➦⃦ᄋ᱿טԻȯⱧՒ⳧Ễ␵Ⳣ⳧ञぁԻະ⳺ᆹוⱧȮᔌⱧᄲᓝരŊҪ↧↲"
+        },
+        {
+          "type": "heading",
+          "text": "ᄋᧃŊӡխ೼⠗ᄋҘŊ˫〾➦⃦ᄋ༛ᅜȯ"
+        },
+        {
+          "type": "heading",
+          "text": "7. ଃᅠ⻘ኈㆩ᱿ⳇઋᄋᧃŊףᄝ͐ᮢὮɺᄋʏ͐ԊὉ᱿Ϊ⤑રҚⳇ⳧ר֯řଃᅠ᳃ઋ᱿ᄋᧃŊ"
+        },
+        {
+          "type": "paragraph",
+          "text": "ԅト͐ὮwᄋדὮɿᄋŊ˫ᷨΎઋಎʃરҚ᱿➦hᛧ⎏ሱଇȯ"
+        },
+        {
+          "type": "heading",
+          "text": "8. 盲孔攻牙時,愈接近孔底應減緩攻螺紋的速度,並用感覺來判斷螺絲攻是否已到孔底,以"
+        },
+        {
+          "type": "paragraph",
+          "text": "防持續性的加壓而扭斷螺絲攻。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 萬一螺絲攻斷裂,應以手鉗或夾鉗夾持斷裂處,再逆轉取出,或以尖細狀的衝子徐徐逆轉"
+        },
+        {
+          "type": "paragraph",
+          "text": "敲擊取出,勿直接以鑽頭鑽除。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "78"
+        },
+        {
+          "type": "heading",
+          "text": "൩eҦঐ௅ɦ"
+        },
+        {
+          "type": "heading",
+          "text": "4-7 ᝝ґٙԴ͜ၾ᝝ˆӉ᜷"
+        },
+        {
+          "type": "heading",
+          "text": "4-7-1 c˴ൿᔷ஺ሜ዆"
+        },
+        {
+          "type": "paragraph",
+          "text": "以靈敏鑽床為例,因馬達轉速固定,變換皮帶位置可得到不同的主軸轉速,其原則是: ʙⰧὉ᱿ࢡⱐ᳅ലฬଅŊⱧⳌฬネȯ 各級轉速可由鑽床前方的主軸轉速表得知,轉速調整方式"
+        },
+        {
+          "type": "heading",
+          "text": "如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 在主軸停止狀態下,掀開皮帶護蓋。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 放鬆固定螺絲,馬達移動把手向內拉 ( 馬"
+        },
+        {
+          "type": "heading",
+          "text": "達向主軸靠近 ),皮帶變鬆,如圖 4-24(a)"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 右手將皮帶調整至適當位置,左手轉動"
+        },
+        {
+          "type": "paragraph",
+          "text": "主軸, 使皮帶順勢進入塔輪的 V 形槽內。"
+        },
+        {
+          "type": "heading",
+          "text": "Თ౏ẼՒᇝ಍˫ࢡⱐ᳅ല⩐ଅὉ҅⠗⦲"
+        },
+        {
+          "type": "heading",
+          "text": "ᄮᣅ׆ԅŊ 如圖 4-24(b) 所示若皮帶需往"
+        },
+        {
+          "type": "heading",
+          "text": "上移動,應先調整主軸端皮帶,再調整"
+        },
+        {
+          "type": "heading",
+          "text": "馬達端,因主軸塔輪直徑由大變小,皮"
+        },
+        {
+          "type": "paragraph",
+          "text": "帶會變得更鬆而容易調整。反之,皮帶 較緊,調整較不易。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 4-24 ȭʙⰧⱧⳌ⦲ᄮ"
+        },
+        {
+          "type": "heading",
+          "text": "4. 皮帶定位後,馬達移動把手推離操作者,使皮帶具有適當張力,同時鎖緊固定螺絲。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 蓋妥皮帶護蓋。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch04/p018.jpg"
+    }
+  ]
+}

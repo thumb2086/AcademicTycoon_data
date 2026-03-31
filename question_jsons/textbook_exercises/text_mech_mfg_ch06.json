@@ -1,0 +1,85 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH06",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH06_001",
+      "subject": "機械製造",
+      "unit": "6-2",
+      "q": "4 % 50 (D) (D) 500 (C)",
+      "image_url": "",
+      "options": [
+        "(A) (A) (A) (A) (D) (A) (A)",
+        "",
+        "",
+        "(D) 500 (C) (A) (A) (A) (A) (A) (D) (A) (A) (B) (D) (A) (A) (D) (B) (B) (C) (B) (B) 30 (B) 291 學更 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH06_002",
+      "subject": "機械製造",
+      "unit": "6-2",
+      "q": "5 % (C) (D) (D)",
+      "image_url": "",
+      "options": [
+        "(D)",
+        "",
+        "",
+        "(D) (A) (D) (B) (B) 30 (B) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH06_003",
+      "subject": "機械製造",
+      "unit": "6-2",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "CVD",
+        "CHM",
+        "PVD",
+        "CHE (A) (A) 50 (C) (A) (B) (D) (B) 200 (A) (A) 500 (C) (D) (A) (B) (D) (A) (B)PVD CVD (A)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH06_004",
+      "subject": "機械製造",
+      "unit": "6-2",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        ")"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH06_005",
+      "subject": "機械製造",
+      "unit": "6-2",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        ")"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

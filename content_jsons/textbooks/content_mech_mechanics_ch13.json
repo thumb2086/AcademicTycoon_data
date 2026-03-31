@@ -1,0 +1,1369 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH13",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH13",
+    "title": "CH13"
+  },
+  "title": "機械力學 Chapter 13 軸的強度與應力",
+  "source_pdf": "機械力學/CH13PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH13",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        },
+        {
+          "type": "heading",
+          "text": "軸的強度與應力"
+        },
+        {
+          "type": "heading",
+          "text": "本章網要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "13-1 扭轉的意義 1. 能說出扭轉的意義並明確知道 13-2 扭轉角的計算 2. 能正確地計算出扭轉角並知道其"
+        },
+        {
+          "type": "heading",
+          "text": "13-3 動力與扭轉的關係 公式之其本假設"
+        },
+        {
+          "type": "paragraph",
+          "text": "13-4 輪軸大小的計算 3. 能了解功率與扭矩之間的關係"
+        },
+        {
+          "type": "heading",
+          "text": "4. 能明確地設計出軸徑尺寸與動力"
+        },
+        {
+          "type": "heading",
+          "text": "關係"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "216"
+        },
+        {
+          "type": "paragraph",
+          "text": "我國陸軍即將擁有的 M1A2 坦克車的重量 65 公噸,擁有 1500 匹馬力 (1103KW),其 傳動軸直徑要多大才不會斷裂呢?世界最大的船舶其傳動軸直徑要有多大?應如何計算 呢?如芬蘭所生產的 RT-flex96c 柴油發動機其馬力有 10.9 萬匹馬力,轉速 102 rpm,其直"
+        },
+        {
+          "type": "heading",
+          "text": "徑至少 840mm 以上,是如何計算的?"
+        },
+        {
+          "type": "paragraph",
+          "text": "本章「軸的強度與應力」乃藉由扭轉的定義,進而討論傳動軸受到扭矩作用時產生的 剪應力、剪應變的變化,當機械傳達動力時,若傳達動力愈大時,則軸的強度要愈大才能 承受此動力,藉由這些觀念來設計所有機械所需之傳動軸大小。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 13-1 M1 艾布蘭主戰坦克"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch13/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 13 軸的強度與應力 217"
+        },
+        {
+          "type": "heading",
+          "text": "13-1 扭轉的意義"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械利用傳動軸可將動力傳遞到機器外部或其它地方,例如:電動機的主軸、發電機 的主軸及飛機、車輛、船舶的各種傳動,其傳動方式常需藉助扭轉 (torsion) 的作用將動力 傳達出去。扭轉即為軸的一端固定,另一端受扭矩 (torque) 作用時,或是軸的兩端同時受 到大小相等方向相反的扭矩作用時所生的現象。如圖 13-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 13-2 軸受扭矩之自由體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "我們在分析實心或空心圓軸強度和應力時,均假設材料在受純扭矩作用時,尚須有下"
+        },
+        {
+          "type": "heading",
+          "text": "列之假設條件:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 軸的材料為均勻材質 (homogeneous)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 軸受扭轉時產生的應力與應變在比例限度內而且須符合虎克定律。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 軸受扭轉時,長度不變,軸不可以發生彎曲。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 扭矩之作用面必須與軸之中心線垂直,不得傾斜。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 扭轉後其斷面仍保持平面,且直徑 ( 或半徑 ) 保持直線。"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "錐柄鑽頭之鑽根 ( 鑽舌 ),除了用"
+        },
+        {
+          "type": "heading",
+          "text": "於退卸鑽頭外,其功用為防止鑽"
+        },
+        {
+          "type": "paragraph",
+          "text": "頭滑動並傳達動力。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch13/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "218"
+        },
+        {
+          "type": "heading",
+          "text": "13-2 扭轉角的計算"
+        },
+        {
+          "type": "heading",
+          "text": "1. 扭轉角"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 13-3(a) 所示,半徑為 R、長度為 L 之圓軸,一邊為固定端,另一邊為自"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": "由端且承受一扭矩 T 作用。則軸的外緣扭轉後被扭成圓弧線 BB ′,自由端產生一 角度 ∠ BOB ′ 稱為扭轉角 (angle of twist),以“ φ ”表示其單位為弧度 (rad),扭轉角 與軸長 L 成正比,離固定端遠,則扭轉角 φ 愈大。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 13-3 扭轉之變化圖形討論"
+        },
+        {
+          "type": "heading",
+          "text": "2. 扭轉剪應變"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 13-3 所示,扭轉所產生之 ∠ BAB ′ 稱為剪應變,以“ γ ”表示其單位為弧"
+        },
+        {
+          "type": "heading",
+          "text": "BB ′"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": "度 (rad)。由數學夾擠定律 tan γ = ≈ γ ( 當 γ 很小時 ),由圖 13-3(a) 中 BB ′ 為共"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "R φ φ"
+        },
+        {
+          "type": "paragraph",
+          "text": "用弧長 L. γ = R φ,∴剪應變 γ = = R θ,其中 θ =, q 稱為單位長度之扭轉"
+        },
+        {
+          "type": "heading",
+          "text": "L L"
+        },
+        {
+          "type": "paragraph",
+          "text": "角。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 扭轉剪應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 由扭轉產生之剪應力, t = G γ = G. R q (G:剪力彈性係數 ),所以軸受扭轉所 產生之剪應力 t 與半徑 R 成正比,如圖 13-3 (c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "D 外徑"
+        },
+        {
+          "type": "heading",
+          "text": "t 外壁 R 外壁 2 D 外徑"
+        },
+        {
+          "type": "heading",
+          "text": "= = = ( 公式 13-1)"
+        },
+        {
+          "type": "heading",
+          "text": "t 內壁 R 內壁 D 內徑 D 內徑"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch13/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 13 軸的強度與應力 219"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 如圖 13-4 所示,一圓軸承受扭矩 T 作用時,由力矩原理得知,其橫截面上各 微小面積 ( D A) 所生之剪力 V,對軸心的力矩總和等於該截面所承受之扭矩 T。"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "paragraph",
+          "text": "剪應力 τ =,剪力 V = t. A = (GR. q ). A。"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 13-4 軸心之力矩分佈"
+        },
+        {
+          "type": "paragraph",
+          "text": "扭矩 T = V 1 R 1 + V 2 R 2 + V 3 R 3 + ⋯ = ( t 1 A 1 )R 1 + ( t 2 A 2 )R 2 + ( t 3 A 3 )R 3 + ⋯ = (GR 1 q A 1 ). R 1 + (GR 2 q A 2 ). R 2 + (GR 3 q A 3 ). R 3 + ⋯"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= G q (A 1 R 1 + A 2 R 2 + A 3 R 3 + ⋯ )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "其中 A 1 R 1 + A 2 R 2 + A 3 R 3 + ⋯為橫截面的極慣性矩,以 J 表示,則扭矩 T = G q J"
+        },
+        {
+          "type": "heading",
+          "text": "T φ T TL"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴單位長度之扭轉角 θ = 又 θ = = 所以總扭轉角 φ = ( 公式 13-2)"
+        },
+        {
+          "type": "heading",
+          "text": "GJ L GJ GJ"
+        },
+        {
+          "type": "paragraph",
+          "text": "由上式得知總扭轉角 ( 單位:弧度 rad) 與扭矩 T ( 單位: N-mm) 及長度 ( 單 位: mm) 成正比;而與扭轉剛度 (torsional rigidity) GJ 成正反比。其中 G 為剪力彈"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "性係數 ( 單位: MPa), J 為極慣性矩 ( 單位: mm )。"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "π d π 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "其中極慣性矩 J 圓-實心 =, J 圓-空心 = (d 外 - d 內 )"
+        },
+        {
+          "type": "heading",
+          "text": "32 32"
+        },
+        {
+          "type": "heading",
+          "text": "R φ GR TL TR"
+        },
+        {
+          "type": "paragraph",
+          "text": "扭轉剪應力 τ = G ⋅ γ = G ⋅ = ⋅ = ( 公式 13-3)"
+        },
+        {
+          "type": "heading",
+          "text": "L L GJ J"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch13/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "220"
+        },
+        {
+          "type": "paragraph",
+          "text": "扭轉剪應力 t ( 單位: MPa) 與扭矩 T ( 單位: N-mm) 成正比,與極慣性矩 J ( 單"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "位: mm ) 成反比。扭轉剪應力 t 與半徑 R ( 單位: mm) 成正比,所以剪應力在表 面最大,中立軸最小等於零。"
+        },
+        {
+          "type": "heading",
+          "text": "1 若為實心時"
+        },
+        {
+          "type": "heading",
+          "text": "d"
+        },
+        {
+          "type": "heading",
+          "text": "T ⋅"
+        },
+        {
+          "type": "heading",
+          "text": "TR 2 16 T"
+        },
+        {
+          "type": "heading",
+          "text": "τ max = = = ( 公式 13-4)"
+        },
+        {
+          "type": "heading",
+          "text": "4 3"
+        },
+        {
+          "type": "heading",
+          "text": "J π d π d"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "2 若為空心時"
+        },
+        {
+          "type": "heading",
+          "text": "d 外"
+        },
+        {
+          "type": "heading",
+          "text": "T ⋅"
+        },
+        {
+          "type": "heading",
+          "text": "TR 外 2"
+        },
+        {
+          "type": "heading",
+          "text": "τ max = ="
+        },
+        {
+          "type": "heading",
+          "text": "J π 4 4"
+        },
+        {
+          "type": "heading",
+          "text": "( d 外 − d 內 )"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "TR T d T"
+        },
+        {
+          "type": "paragraph",
+          "text": "3 其他表示法 τ max = = × =, 知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "J J 2 ZP"
+        },
+        {
+          "type": "heading",
+          "text": "J"
+        },
+        {
+          "type": "paragraph",
+          "text": "令 Z P =, Z P 稱為極截面係數。 1. 脆性材料抗拉力較弱,脆性材料受扭轉"
+        },
+        {
+          "type": "heading",
+          "text": "R"
+        },
+        {
+          "type": "paragraph",
+          "text": "時呈 45 ° 斷裂為拉力破壞。 4 脆性材料扭轉之破壞 (ex:粉筆受扭 2. 將傳動軸圓桿直徑變大可以減少剪應力"
+        },
+        {
+          "type": "heading",
+          "text": "與扭轉角,因此可以承受更大的扭矩,"
+        },
+        {
+          "type": "heading",
+          "text": "轉斷裂 ) 如圖 13-5 所示,粉筆受扭"
+        },
+        {
+          "type": "paragraph",
+          "text": "但是直徑變大後會增加重量及成本。"
+        },
+        {
+          "type": "heading",
+          "text": "矩作用時,剪應力為垂直於軸線之橫"
+        },
+        {
+          "type": "heading",
+          "text": "截面上如圖 13-5 (a),拉應力與壓應"
+        },
+        {
+          "type": "paragraph",
+          "text": "力沿著與軸線成 45 ° 之方向如圖 13-5 (b)。但脆性材料的抗拉強度比抗剪強度 為低,為張應力破壞如圖 13-6,使其沿與軸向成 45 ° 角的平面受扭轉而斷裂如 圖 13-5 (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 13-5 粉筆受扭矩之破壞"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch13/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 13 軸的強度與應力 221"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 13-6 扭轉 45 ° 處之應力討論 ( 脆性材料受扭轉為 45 ° 張應力破壞 )"
+        },
+        {
+          "type": "heading",
+          "text": "例題 13-1 題型:扭轉角與剪應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "若 M1A2 坦克車傳動軸為實心直徑 4 cm 的鋁合金,受到 3140 N-m 的扭矩,軸 長 16 cm,鋁合金的剪力彈性係數為 80 GPa,則此軸的扭轉角為多少弧度?多 少度?此時傳動軸所承受的最大剪應力為多少 MPa?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "TL ( 3140 × 10 ) × 160 1"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 扭轉角 φ = = 4 = rad"
+        },
+        {
+          "type": "heading",
+          "text": "GJ 3 π × 40 40"
+        },
+        {
+          "type": "heading",
+          "text": "( 80 × 10 ) ×"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "φ 40 4 5. °"
+        },
+        {
+          "type": "heading",
+          "text": "由 180 ° = π 弧度, =, φ ="
+        },
+        {
+          "type": "heading",
+          "text": "180 ° π π"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "TR 16 T 16 × ( 3140 × 10 ) (2) 最大剪應力 τ max = = = = 250 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "J π d π × 40"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 13-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "實心圓軸受扭矩作用時,若直徑變為原來的 2 倍,則剪應力和扭轉角,各為原"
+        },
+        {
+          "type": "heading",
+          "text": "來的多少倍?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch13/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "222"
+        },
+        {
+          "type": "heading",
+          "text": "例題 13-2 題型:剪應力與半徑的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "實心圓軸的直徑為 2 cm,長度為 3.14 m,當圓軸的兩端承受大小相同、方向相 反的扭矩 62.8 N-m 的扭矩,產生扭轉角 4 °,則剪力彈性係數約為多少 GPa?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "由 180 ° = π 弧度,"
+        },
+        {
+          "type": "heading",
+          "text": "4 ° φ 4 π"
+        },
+        {
+          "type": "heading",
+          "text": "=, φ ="
+        },
+        {
+          "type": "heading",
+          "text": "180 ° π 180"
+        },
+        {
+          "type": "heading",
+          "text": "TL"
+        },
+        {
+          "type": "heading",
+          "text": "扭轉角 φ ="
+        },
+        {
+          "type": "heading",
+          "text": "GJ"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "4 π ( 62 8. × 10 ) × (. 3 14 × 10 )"
+        },
+        {
+          "type": "heading",
+          "text": "="
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "180 π × 20"
+        },
+        {
+          "type": "heading",
+          "text": "G ×"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ G = 180000 MPa = 180 GPa"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 13-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "空 心 鋼 軸, 外 徑 8 cm, 內 徑 4 cm, 其 兩 端 各 受 一 大 小 相 等、 方 向 相 反 的 12 π kN-m 扭轉力矩作用時,則鋼軸內徑與外徑所承受的剪應力各為何?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 13 軸的強度與應力 223"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 13-3 題型:扭轉角與剪應力 ( 階級桿件 ) 如圖所示之實心圓軸,受扭矩 T1 = 120 π N-m, T2 = 480 π N-m, AB 段的直徑為 8 cm, BC 段 的直徑為 4 cm,試求 AB 段和 BC 段的表面剪 應力及自由端 C 點位置的扭轉角。 ( 剪力彈性"
+        },
+        {
+          "type": "heading",
+          "text": "係數均為 G = 40 GPa)"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "16 T 16 × ( 360 π × 10 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "τ AB − max = = = 11 25. MPa"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "π d π × 80"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "16 T 16 × ( 120 π × 10 )"
+        },
+        {
+          "type": "heading",
+          "text": "τ BC − max = = = 30 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "π d π × 40"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 120 π × 10 ) × (. 2 4 × 10 ) ( 360 π × 10 ) × × (. 1 6 × 10 )"
+        },
+        {
+          "type": "heading",
+          "text": "φ C = φ BC − φ AB = −"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "heading",
+          "text": "3 π × 40 3 π × 80"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 40 × 10 ) × ( 40 × 10 ) ×"
+        },
+        {
+          "type": "heading",
+          "text": "32 32"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 0 09. − 0 01125. = 0 07875. rad"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 13-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之實心圓桿, AB 直徑為 4 cm, BC 直徑為 2 cm,圓桿受到扭矩 T1 = 120 π N-m, T2 = 280 π N-m,試求圓桿 AB 的最大剪應力為"
+        },
+        {
+          "type": "heading",
+          "text": "何?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch13/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "224"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 圓軸受純扭矩作用的基本假設,下列敘述何者錯誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 均勻材質"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 應力與應變在比例限度內符合虎克定律"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 圓軸受扭轉後,長度不變"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 圓軸受扭轉後,橫截面會產生翹曲現象。 ( ) 2. 直徑為 2 cm 的圓軸,若承受 100 π N-m 的扭矩作用,軸長為 1 m,且 剪力彈性係數為 100 GPa,則扭轉角為多少 rad? (A) 2 (B) 1 (C) 0.2 (D) 0.1。 ( ) 3. 以聯軸器傳動一中空圓軸,其外徑為 100 mm,內徑為 40 mm,承 受扭矩作用後,若內壁的剪應力為 20 MPa,則外壁的剪應力為多少 MPa? (A) 8 (B) 16 (C) 50 (D) 100。 ( ) 4. 脆性材料的圓軸 ( 如粉筆 ),承受扭轉時,其破裂角度與軸線應呈 (A) 45 ° (B) 30 ° (C) 90 ° (D) 0 °。 ( ) 5. 脆性材料的粉筆,受扭轉負載而破壞,其所受的破壞應力為何? (A) 張應力 (B) 壓應力 (C) 彎曲應力 (D) 剪應力。 ( ) 6. 一空心圓鋼棒,外徑為 80 mm,內徑為 40 mm,材料承受 1500 π N-m 的扭矩作用,試求其內徑表面的剪應力為多少 MPa? (A) 100 (B) 50 (C) 37.5 (D) 25。 ( ) 7. 軸的直徑為 0.8 cm,長度為 62.8 cm,若一端固定,另一端施以一扭 矩使其扭轉 9 °,若材料的剪力彈性係數為 70 GPa,試求其產生之剪"
+        },
+        {
+          "type": "heading",
+          "text": "應變及剪應力?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 0.001 rad, 70 MPa (B) 0.002 rad, 140 MPa (C) 0.02 rad, 700 MPa (D) 0.01 rad, 700 MPa。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 13 軸的強度與應力 225"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "Eleonora Maersk 是世界上最大的貨櫃船之一,如圖 (a),全長: 397 m,總噸位: 123000 tons,貨櫃 搭載數: 11000 ∼ 15000 個。該船由 Wärtsilä-Sulzer 14RTFLEX96-C 柴油發動機提供動力,如圖 (b),此"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "paragraph",
+          "text": "發動機長度 26.59 m,寬度 13.5 m,功率輸出 10.9 萬匹馬力,扭力可達 7.6 × 10 N-m,為目前世界上最 大的往復式發動機。從發動機延伸至船尾,螺旋槳傳動軸隧道全長超過 120 m,如圖 (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) Eleonora Maersk 貨櫃船"
+        },
+        {
+          "type": "paragraph",
+          "text": "(b) 14RTFLEX96-C 柴油發動機 (c) 傳動軸隧道"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch13/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "226"
+        },
+        {
+          "type": "heading",
+          "text": "13-3 動力與扭轉的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "世界最頂級跑車 Devel Sixteen 有 500 匹馬力,最大扭力 4741 N-m,時速可達 500 km/h, 而台灣市售神車 TOYOTA Corolla Altis 有 140 匹馬力,最大扭力 17.6 kg-m ( 約 172.5 N-m) 即馬力越大的汽車可輸出之扭力越大。所以功率與扭力 ( 扭矩 ) 有什麼關係呢?我們從力 與功率的定義得知,功率等於單位時間所作的功,功等於力與力方向位移之乘積。"
+        },
+        {
+          "type": "heading",
+          "text": "W F × S"
+        },
+        {
+          "type": "paragraph",
+          "text": "功率: P = = = F × V = F × r ω = T ω ( 公式 13-5)"
+        },
+        {
+          "type": "heading",
+          "text": "t t"
+        },
+        {
+          "type": "paragraph",
+          "text": "名詞代號 功率: P 功: W 時間: t 力量: F 速度: V 扭矩: T 角速度: ω 轉速: N SI 制單位 瓦特 (W) 焦耳 (J) 秒 (sec) 牛頓 (N) m/s N-m rad/s 轉 / 分"
+        },
+        {
+          "type": "heading",
+          "text": "2 π × N 2 π × N"
+        },
+        {
+          "type": "paragraph",
+          "text": "若轉速 N ( rpm ) = ( rad / ) s,則功率可寫成 P = T ω = T ×,功率的單位以瓦"
+        },
+        {
+          "type": "heading",
+          "text": "60 60"
+        },
+        {
+          "type": "paragraph",
+          "text": "特 (W) 或仟瓦 (kW) 表示,同時也可以用公制馬力 (PS) 表示, 1 PS = 75 kgf-m/s ≒ 736 W, 1 kW = 1000 W ≒ 1.36 PS ≒ 102 kgf-m/s。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 13-4 題型:扭矩與功率"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床主軸以 1200 rpm 迴轉時,能傳動 4 π kW 的功率,則此時車床主軸所承受"
+        },
+        {
+          "type": "heading",
+          "text": "的扭轉力矩為多少 N-m?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "2 π × N 2 π × 1200"
+        },
+        {
+          "type": "heading",
+          "text": "ω = = = 40 π rad / s"
+        },
+        {
+          "type": "heading",
+          "text": "60 60"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "P = T ω, 4 π × 10 = T × 40 π, T = 100 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 13-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "機台的傳動軸可承受 1500 N-m 的扭矩且轉速為 300 rpm,則此傳動軸可傳送的"
+        },
+        {
+          "type": "heading",
+          "text": "功率為多少仟瓦?多少馬力?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 13 軸的強度與應力 227"
+        },
+        {
+          "type": "heading",
+          "text": "例題 13-5 題型:扭矩與最大剪應力"
+        },
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "paragraph",
+          "text": "實心圓軸的直徑為 4 cm,最大容許剪應力為 α MPa,若其最高轉速為 300"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "rpm,則此軸可傳送的最大扭矩及功率各為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "16 T 160 16 × T"
+        },
+        {
+          "type": "paragraph",
+          "text": "τ max =, =, T = 640 × 1000 N-mm = 640 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "π d π π × 40"
+        },
+        {
+          "type": "heading",
+          "text": "2 π × 300"
+        },
+        {
+          "type": "paragraph",
+          "text": "P = T ω = 640 × = 6400 π W = 6 4. π kW"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 13-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "馬達的輸出軸直徑為 2 cm,其在轉速為 600 rpm 時傳送 4 π kW 的功率,則此"
+        },
+        {
+          "type": "heading",
+          "text": "時輸出軸所傳遞的扭矩及最大剪應力各為何?"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 圓軸以 1200 rpm 迴轉,傳動 8 π kW 的功率,則圓軸所承受的扭轉力 矩為多少 N-m? (A) 50 (B) 100 (C) 150 (D) 200。 ( ) 2. 一馬達輸出軸的直徑為 10 mm,其在轉速為 1200 rpm 時傳送 3.14 kW 的功率, 則此時輸出軸所傳送的扭矩 T 及最大剪應力 t max 各約為多少? (A) T = 25 N-m, t max = 127 MPa (B) T = 20 N-m, t max = 157 MPa (C) T = 20 N-m, t max = 127 MPa (D) T = 25 N-m, t max = 157 MPa。 ( ) 3. 空心圓軸的外徑為 20 mm,內徑為 10 mm,若圓軸以 1200 rpm 轉動,"
+        },
+        {
+          "type": "heading",
+          "text": "128"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓軸所能承受的最大剪應力為 α MPa,則該圓軸所傳遞的功率為多"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "paragraph",
+          "text": "少 kW? (A) 1.2 π (B) 2.4 π (C) 12 π (D) 24 π。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "228"
+        },
+        {
+          "type": "heading",
+          "text": "13-4 輪軸大小的計算"
+        },
+        {
+          "type": "paragraph",
+          "text": "我們在實習工廠鑽床實習時,用 f 3 鑽頭鑽孔,當轉速過低時鑽頭一鑽就斷, f 3 鑽頭 要轉速 1000 轉 / 分以上才不易斷,這是什麼原因呢?如果汽車要改裝成渦輪增壓 (turbo) 來增加馬力,傳動軸、變速箱是否要改變呢? M1A2 坦克車、鐵達尼號傳動軸要多大?本 單元就為你討論輪軸大小之計算方法。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 由動力與扭轉的關係"
+        },
+        {
+          "type": "heading",
+          "text": "2 π N"
+        },
+        {
+          "type": "paragraph",
+          "text": "功率 P = T. ω = T ⋅ ( 公式 13-6)"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "功率 P 扭矩 T 角速度 ω 轉速 N"
+        },
+        {
+          "type": "heading",
+          "text": "瓦特 N-m rad/s 轉 / 分"
+        },
+        {
+          "type": "heading",
+          "text": "16 T"
+        },
+        {
+          "type": "heading",
+          "text": "2. 由 扭轉剪應力 τ max = 3"
+        },
+        {
+          "type": "heading",
+          "text": "實心 π d"
+        },
+        {
+          "type": "heading",
+          "text": "16 T"
+        },
+        {
+          "type": "heading",
+          "text": "∴傳動軸直徑 d = 3"
+        },
+        {
+          "type": "heading",
+          "text": "π × τ max"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 τ 扭矩 T 直徑 d"
+        },
+        {
+          "type": "heading",
+          "text": "MPa N-mm mm"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "由上述二式得知: d 與扭矩 T 成正比;功率與扭矩成正比 ( 當轉速相同時 );扭矩 T"
+        },
+        {
+          "type": "heading",
+          "text": "與轉速 N 成反比 ( 當功率相同時 )"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "1. 當 材 料 相 同 ( 即 相 同 材 質 ) 且 轉 速 相 同 時, 直 徑 立 方 (d ) 與 功 率 (P) 成 正 比"
+        },
+        {
+          "type": "paragraph",
+          "text": "⇒ d 與 3 功率 成正比 ( 即直徑與功率立方根成正比 )。"
+        },
+        {
+          "type": "heading",
+          "text": "d 1 功率 1"
+        },
+        {
+          "type": "heading",
+          "text": "= 3 ( 公式 13-7)"
+        },
+        {
+          "type": "heading",
+          "text": "d 2 功率 2"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "2. 當材料 ( 材質 ) 相同,傳遞功率相同時, 直徑立方 (d ) 與轉速成反比"
+        },
+        {
+          "type": "heading",
+          "text": "d 1 N 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "⇒ d 與 3 轉速 成反比 ( 即直徑與轉速立方根成反比 )。 = 3 即直徑較小者,"
+        },
+        {
+          "type": "heading",
+          "text": "d 2 N 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉速應快才不致斷裂。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 13 軸的強度與應力 229"
+        },
+        {
+          "type": "heading",
+          "text": "例題 13-6 題型:功率、直徑、轉速的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之三皮帶輪各傳遞不同之馬力,若其產生之剪應力相等,則其直徑 d1"
+        },
+        {
+          "type": "heading",
+          "text": "與 d2 的比值為何?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "d1 承受 100PS, d2 承受 80PS"
+        },
+        {
+          "type": "heading",
+          "text": "由直徑與功率之立方根成正比"
+        },
+        {
+          "type": "heading",
+          "text": "d 1 功率 1 100 5"
+        },
+        {
+          "type": "heading",
+          "text": "∴ = 3 3 = = 3"
+        },
+        {
+          "type": "heading",
+          "text": "d 2 功率 2 80 4"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 13-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩材質相同,傳遞的功率也相同的傳動軸,若其產生之剪應力相同時,其中一 軸直徑 3cm 承受轉速 800 rpm,另一軸轉速 2700 rpm,則此圓軸直徑至少為多"
+        },
+        {
+          "type": "heading",
+          "text": "少公分?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch13/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "230"
+        },
+        {
+          "type": "heading",
+          "text": "例題 13-7 題型:直徑與最大剪應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "實心圓軸,以 600rpm 的轉速來傳遞 20 π kW 的動力,若圓軸之材料降伏剪應"
+        },
+        {
+          "type": "heading",
+          "text": "500"
+        },
+        {
+          "type": "paragraph",
+          "text": "力為 α MPa,安全因數為 2,則軸的直徑最小為多少公分?"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "2 π × 600"
+        },
+        {
+          "type": "paragraph",
+          "text": "由功率 = T × ω, 20 π × 1000 = T × ∴ T = 1000 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "500"
+        },
+        {
+          "type": "heading",
+          "text": "( )"
+        },
+        {
+          "type": "heading",
+          "text": "τ 降伏 π 250"
+        },
+        {
+          "type": "paragraph",
+          "text": "安全因數 n = ∴ 2 = ∴ t 容許 = MPa"
+        },
+        {
+          "type": "heading",
+          "text": "τ 容許 τ 容許 π"
+        },
+        {
+          "type": "paragraph",
+          "text": "16 T 250 16 1000 ( × 1000 )"
+        },
+        {
+          "type": "heading",
+          "text": "τ max − 實心 =, ="
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "π d π π × d"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ d = 64 × 1000 ∴ d = 40 mm = 4 cm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 13-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "一實心圓軸傳遞 8 π kW 的動力,若軸的轉速為 3000rpm,最大容許剪應力為"
+        },
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "α MPa,則此圓軸的直徑至少為多少公分?"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 一實心圓軸,用以設計傳遞動力,則傳遞功率與軸徑之關係為何? (A) 傳遞功率與軸徑立方成正比 (B) 傳遞功率與軸徑立方成反比 (C) 傳遞功率與軸徑立方根成正比 (D) 傳遞功率與軸徑立方根成反比。 ( ) 2. 相同材質的兩實心圓軸 A 和 B,若傳遞相同的動力和相同的剪應力, 若 A 軸的直徑為 2 cm,轉速為 1200 rpm,而 B 軸的轉速為 150 rpm, 則 B 軸的直徑為多少公分? (A) 1 (B) 0.5 (C) 4 (D) 8。 ( ) 3. 一 實 心 圓 軸 承 受 314 N-m 之 扭 矩, 若 此 圓 軸 之 容 許 剪 應 力 為 200 MPa,試求其圓軸之最小直徑為多少公分? (A) 20 (B) 10 (C) 5 (D) 2。"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

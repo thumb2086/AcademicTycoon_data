@@ -1,0 +1,501 @@
+{
+  "bundle_id": "MOCK_107_5_ENG",
+  "questions": [
+    {
+      "id": "MOCK_107_5_ENG_001",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "The news that a two-year-old boy was by his mother aroused people’s anger and dissatisfaction.",
+      "image_url": "",
+      "options": [
+        "transformed",
+        "abused",
+        "selected",
+        "resisted"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "一則兩歲小孩被媽媽虐待的新聞激起了人們的憤怒"
+    },
+    {
+      "id": "MOCK_107_5_ENG_002",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "People who are good at skills tend to get along with others and have more prosperous careers.",
+      "image_url": "",
+      "options": [
+        "magnificent",
+        "original",
+        "imaginative",
+        "communicative"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "擅長溝通技巧的人們傾向於與他人相處融洽且事業 Linda:我懂了!謝謝你的善心幫忙。 較飛黃騰達。 Zuck:不客氣。 (A) 華麗壯觀的 (B) 原始的 (A) 我找不到郵局。 (C) 想像力豐富的 (D) 溝通的 (B) 我看不懂 Google 地圖。"
+    },
+    {
+      "id": "MOCK_107_5_ENG_003",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "It is reported that heavy smoking is highly with earlier death and many diseases.",
+      "image_url": "",
+      "options": [
+        "adequate",
+        "ambiguous",
+        "ambitious",
+        "associated"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "這部電影鼓勵年輕人勇敢實現夢想。 解答: The movie encourages young people / the young / the youth to bravely fulfill their dreams / realize their dreams / make their dreams come true. 評閱指標 級分 說明 能充分表達原文題意,對題材有絕佳的掌握, 4 句子結構及連貫性甚佳。文法及標點正確,用 字遣詞沒有不當之處。 能適切表達原文題意,對題材有良好的掌握, 3 句子結構及連貫性大致得當。文法及標點、用 字遣詞有少數不當之處,但不妨礙題意之表達。 僅能部分表達原文題意,句子結構不良或有 2 誤,且大多難以理解並缺乏連貫性。文法及標 點、用字遣詞有失當之處。 無法表達原文題意,句子沒有結構概念及連貫 1 性,無法理解。文法及標點、用字遣詞之錯誤 甚多。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_107_5_ENG_004",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Jennifer’s wonderful performance in the speech contest has the judges and consequently she got the first prize.",
+      "image_url": "",
+      "options": [
+        "inherited",
+        "impressed",
+        "annoyed",
+        "prescribed"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Jennifer 在演說比賽的傑出表現讓評審印象深刻,因 秘書: 此她得到第一名。 客戶:謝謝!我晚點再打。 (A) 繼承 (B) 令人印象深刻 (A) 我就是。 (C) 使生氣或惹惱 (D) 開處方箋 (B) 哈囉!我可以幫你留下訊息嗎?"
+    },
+    {
+      "id": "MOCK_107_5_ENG_005",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "The reporter is said to have been killed secretly by the king because he the improper measures of the government in public.",
+      "image_url": "",
+      "options": [
+        "purchased",
+        "applauded",
+        "criticized",
+        "obtained"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "據說因為公開批評政府不適當的措施,那記者遭到國 (C) 謝謝您打電話過來。 王祕密殺害。 (D) 抱歉,他五分鐘前外出。 (A) 購買 (B) 鼓掌 (C) 批評 (D) 獲得"
+    },
+    {
+      "id": "MOCK_107_5_ENG_006",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Some scientists pointed out that huge icebergs in the South Pole decreased or would even mainly because of the greenhouse effect.",
+      "image_url": "",
+      "options": [
+        "vanish",
+        "astonish",
+        "polish",
+        "accomplish"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "有些科學家指出,主要因為溫室效應,南極巨大的冰 Mr. Brown: 山減少或甚至消失。 客服:非常感謝您,很快就出餐,請享用。 (A) 消失 (B) 震驚 (C) 打亮 (D) 完成 Mr. Brown:請盡快送來,我肚子很餓。"
+    },
+    {
+      "id": "MOCK_107_5_ENG_007",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "In order to cut down on airfares, Joan decided to fly to Bangkok and to Paris though it was much more time-consuming.",
+      "image_url": "",
+      "options": [
+        "respond",
+        "contribute",
+        "expose",
+        "transfer"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "為了減少票價, Joan 決定要飛到曼谷再轉機到巴黎, (A) 請叫人來修理水槽,水管塞住了。 雖然比較花時間。 (B) 我想多待兩天。 (A) 回答 (B) 捐助;貢獻 (C) 抱歉我打錯電話了。 (C) 暴露;揭發 (D) 轉機;調任 (D) 我想要點一客牛排和一瓶紅酒。"
+    },
+    {
+      "id": "MOCK_107_5_ENG_008",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "The little girl shivered with fear when the gangsters bullied her and asked her for money.",
+      "image_url": "",
+      "options": [
+        "trembled",
+        "opposed",
+        "combined",
+        "neglected"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "當幫派份子霸凌這個小女孩,向她要錢時,她害怕地"
+    },
+    {
+      "id": "MOCK_107_5_ENG_009",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "The concert at National Taichung Theater was cancelled because of the coming typhoon.",
+      "image_url": "",
+      "options": [
+        "laid off",
+        "called off",
+        "turned down",
+        "put away"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "因為颱風來臨,在臺中歌劇院的這場音樂會取消。 海關人員:那你將會住在哪兒? (A) 解雇 (B) 取消 (C) 拒絕 (D) 收拾 Joyce:在市區的青年旅館。"
+    },
+    {
+      "id": "MOCK_107_5_ENG_010",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Mrs. Simpson looks mean and tough, but in fact she is very kind to her students.",
+      "image_url": "",
+      "options": [
+        "occasionally",
+        "suspiciously",
+        "actually",
+        "cautiously"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "辛普森太太看起來很壞心和嚴格,但事實上她對她的 (A) 我 10 天後要飛回臺灣。 學生很親切。 (B) 我來這兒出差。 (A) 偶爾 (B) 懷疑地 (C) 事實上 (D) 小心地 (C) 我一人來旅行。"
+    },
+    {
+      "id": "MOCK_107_5_ENG_011",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "The company needs a(n) replacement for the secretary who resigned last month.",
+      "image_url": "",
+      "options": [
+        "inhabitant",
+        "preference",
+        "substitute",
+        "spectator II. 對話題 ( 第 12-21 題,每題 2 分,共 20 分 ) 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "這間公司需要一個人代替上個月辭職的秘書。 (D) 不,我沒有任何要申報的東西。 (A) 居民 (B) 偏好的人 (C) 代替 (D) 觀眾"
+    },
+    {
+      "id": "MOCK_107_5_ENG_012",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Sam: You look down. Jim: Oh, I feel like it’s the end of the world. I did poorly on the final exam this morning. Sam: Don’t worry. You’ll do better next time.",
+      "image_url": "",
+      "options": [
+        "Would you do me a favor?",
+        "I am sorry to hear that.",
+        "What’s wrong?",
+        "How about going shopping?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Sam:你看起來很難過, Lydia:還沒有,但我待會會去。 Jim:喔!我覺得好像世界末日,我今天早上期末考 (A) 你有去看醫生嗎? (B) 很嚴重嗎? 考很糟。 (C) 你有吃藥了嗎? (D) 痛多久了? Sam:別擔心,你下次會更好。"
+    },
+    {
+      "id": "MOCK_107_5_ENG_013",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Linda: Excuse me, sir. I am lost. Zuck: Oh, don’t worry. Just walk straight for two blocks, and turn right. It’s on your left. Linda: I see. Thanks a lot for your kind help. Zuck: You’re welcome.",
+      "image_url": "",
+      "options": [
+        "I just can’t find the post office.",
+        "I have trouble reading the Google Map.",
+        "Do you know where I am?",
+        "I am a total stranger here."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Linda:抱歉,先生,我迷路了, 和不滿。 Zuck:喔!別擔心!只要往前走兩個街區再右轉,它 (A) 轉變 (B) 虐待 (C) 選擇 (D) 抵抗 就在你左手邊。"
+    },
+    {
+      "id": "MOCK_107_5_ENG_014",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Client: May I speak to Mr. Black? Secretary: Client: Thanks. I’ll call him later.",
+      "image_url": "",
+      "options": [
+        "Speaking.",
+        "Hello, may I take a message?",
+        "Thank you for calling.",
+        "Sorry. He was out five minutes ago."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "客戶:請問方便和 Black 先生講話嗎?"
+    },
+    {
+      "id": "MOCK_107_5_ENG_015",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Receptionist: Room service. Is there anything I can do for you? Mr. Brown: Receptionist: Thank you very much. It will be up shortly. Please enjoy it. Mr. Brown: Please bring them as soon as possible. I’m starving.",
+      "image_url": "",
+      "options": [
+        "I’d like to have someone fix the sink. The pipe is stuck.",
+        "I want to stay for two more days.",
+        "I’m sorry. I’ve dialed the wrong number.",
+        "I’d like to order a steak and a bottle of red wine."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "客服:客房服務,請問有何效勞之處?"
+    },
+    {
+      "id": "MOCK_107_5_ENG_016",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "(At the Customs) Customs officer: How long are you going to stay here? Joyce: Customs officer: Where will you stay? Joyce: At a hostel downtown.",
+      "image_url": "",
+      "options": [
+        "I will fly back to Taiwan ten days from now.",
+        "I am here on business.",
+        "I am travelling alone.",
+        "I don’t have anything to declare."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "( 在海關 ) 發抖。 海關人員:你要在這裡待多久? (A) 發抖 (B) 反對 (C) 結合 (D) 忽視 Joyce:"
+    },
+    {
+      "id": "MOCK_107_5_ENG_017",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Leo: Lydia, what happened? Lydia: I slipped while taking a bath and hurt my back yesterday. Leo: Lydia: Not yet, but I will go later.",
+      "image_url": "",
+      "options": [
+        "Did you go to the doctor?",
+        "Is it very serious?",
+        "Have you taken medicine?",
+        "How long has it been in pain?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Leo: Lydia,發生了什麼事? Lydia:我昨天洗澡滑倒且傷到我的背。 II. 對話題 Leo:"
+    },
+    {
+      "id": "MOCK_107_5_ENG_018",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Waiter: How’s everything today? Romeo: Excellent. Waiter: Is there anything else I can do for you? Romeo: Waiter: No bother. I will help you with that.",
+      "image_url": "",
+      "options": [
+        "I’d like to order a Caesar Salad.",
+        "Could you give me a doggie bag?",
+        "I think the dessert is too sweet.",
+        "Cash or charge?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "服務生:今天一切滿意嗎? (A) 你可以幫我一個忙嗎? 107-5 共同科目 英文 詳解 Romeo:很棒。 (B) 但是 服務生:還有其他需要服務之處嗎? (C) 因此 ( 連接副詞,用分號連接兩句 ) Romeo: (D) 此外 服務生:不用麻煩了!我幫您處理。"
+    },
+    {
+      "id": "MOCK_107_5_ENG_019",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Vivian: Have you heard about an exhibition of the latest inventions? I look forward to going there. Cindy: That sounds interesting. But I am busy with my work. When will it end? Vivian: Cindy: What a pity! Maybe you should find someone else to go with you.",
+      "image_url": "",
+      "options": [
+        "Last Sunday.",
+        "For one month.",
+        "Every other month.",
+        "Till the end of the month."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Vivian:你有聽說有個關於最新發明的展覽嗎?我很 們想要從南韓高要求的工作和學業文化中尋求 (27) 緩解 想去看看。 鬆口氣。監獄規定很嚴格, (28) 舉例來說,不能和其他獄 Cindy:聽起來很有趣!但我工作很忙,展期何時結 友聊天、不能帶手機和時鐘,入住客戶會得到藍色囚服、 束? 一張瑜珈墊、一套茶具、一支筆和筆記本,他們睡在地 Vivian: 板上,房間內有一個小的馬桶但沒有鏡子。共同創辦人 Cindy:好可惜!也許你該找個人和你一起去。 說這個假的監獄是因她先生而 (29) 激起靈感,她先生是一 (A) 上周六。 (B) 一個月。 個禮拜工作 100 小時的律師,她說: 「他寧願待在完全安 (C) 每隔一個月。 (D) 直到月底。 靜的監獄一個禮拜休息 (30) 勝過這麼長時間工作。」很多"
+    },
+    {
+      "id": "MOCK_107_5_ENG_020",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Hess: Excuse me. I’d like to try this on in a smaller size. Morgan: Certainly. I’ll get that for you right away. Hess: Thank you. Morgan: No problem. I’ll take both for you to try on.",
+      "image_url": "",
+      "options": [
+        "It’s so kind of you to do so.",
+        "Do you accept credit cards?",
+        "May I try on the blue shirt as well?",
+        "Where is the fitting room?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Hess:不好意思,我想試穿這件,再小號一點。 人說: 「在這個監獄待過之後,這不是個監獄,真正的監 Morgan:當然,我馬上幫你拿。 獄是我們回去的地方。」在高競爭的南韓社會,人們把 Hess:謝謝你, 自己關起來 24 小時或 48 小時之久視為 (31) 面對生活壓力 Morgan:沒問題!我幫你拿這兩件讓你試穿。 的方法,一點也不令人驚訝。 (A) 你這樣做真是大好人。"
+    },
+    {
+      "id": "MOCK_107_5_ENG_021",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Michael: I’m considering working part time. Judith: Why? Michael: Yeah, but the pay is still low. I suppose I can work as a waiter at night. Judith: You might feel exhausted. Health is more important than wealth. Michael: I know. But I need to support my family.",
+      "image_url": "",
+      "options": [
+        "I heard you got fired.",
+        "I thought you just got promoted.",
+        "Did you have a quarrel with your boss?",
+        "Will you consider learning another skill? III. 綜合測驗 ( 第 22-31 題,每題 2 分,共 20 分 ) 說明:以下兩篇短文,共有 10 個空格,為第 22 至 31 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：107-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_5_ENG_022",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Which of the following pictures can best represent the gift that Shirley gives to Christy?",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "下列圖片最能代表 Shirley 給 Christy 的禮物? WTE 計畫,可以由燃燒廢棄物來發電,所以瑞典垃圾剩 由文章中敘述「有著牛標誌的幸運符」,可推知為圖 下的只有 1% 倒入垃圾掩埋場。 片 (C) 但到底垃圾如何變成能源?移除可回收的物品後,"
+    },
+    {
+      "id": "MOCK_107_5_ENG_023",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Which of the following countries may Christy live in?",
+      "image_url": "",
+      "options": [
+        "Thailand.",
+        "Mexico.",
+        "India.",
+        "New Zealand. ▲ 閱讀下文,回答第 34-37 題。 November 25th is the World Day against Foie Gras. Many people try to express opposition to the torture of force-feeding ducks and geese. Force-feeding causes severe pain and suffering. Over 30 million male ducks undergo this torture every year, in France alone. The fate of females is awful, too: part of them are killed shortly after hatching because they are just not profitable enough. In order to produce Foie Gras, ducks and geese are force-fed with hydraulic pump, several times per day, until their livers grow up to 10 times their normal size. To stop the animals from escaping, they are limited in small cages where they can never stretch their wings. They have no access to swimming or washing water. During the force-feeding period, the mortality rate is up to 20 times more than in traditional bird rearing centers."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Christy 可能住在下列哪個國家? 垃圾被帶到垃圾變能源的廠房,在那兒,垃圾被載入焚 (A) 泰國。 (B) 墨西哥。 (C) 印度。 (D) 紐西蘭。 化爐燃燒,產生大量的蒸氣轉動發電機的渦輪,再產生 由文章中 Christy 五月穿厚外套,可推知她位於南半 國內電網的電力,在回收上所有剩餘的金屬分開並回 球,因此選 (D) 紐西蘭 收。而其他無法燃燒的材料,如瓷器或磁磚,則收集起 Question 34-37 來當作道路建設的小石礫。在過去十年來,瑞典已經用 11 月 25 日是世界反鵝肝日,很多人試著表達反對強 光境內的垃圾,必須從其他國家,像是英國,進口垃圾, 迫灌食鴨和鵝,強迫灌食會導致嚴重疼痛和苦難,光在 這對多數的國家是個雙贏的局面,因為運送垃圾到瑞典 法國每年超過三千萬的公鴨遭受這樣的折磨,母鴨的命 不僅比掩埋繳稅還便宜,而且可讓更多垃圾加以重新利 運也很悲慘:部分的母鴨在孵化後,旋即被撲殺只因利 用,在這一段時間瑞典已經變成了零垃圾的國家且鼓勵 潤有限。 其他國家考慮此方案。 為了生產鵝肝醬,鴨和鵝一天被液壓幫浦多次強迫"
+    },
+    {
+      "id": "MOCK_107_5_ENG_024",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "What’s the main idea of this passage?",
+      "image_url": "",
+      "options": [
+        "Geese and ducks should not be eaten because they carry avian flu viruses.",
+        "France is famous for its Foie Gras and exports it to many countries.",
+        "Foie Gras should be banned because animals are raised cruelly.",
+        "Undoubtedly, Foie Gras is so delicious that everyone should give it a try."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "這篇文章的大意是什麼? (B) 燃燒垃圾並產生蒸氣以推動渦輪發電。 (A) 不該吃鵝肉和鴨肉,因為牠們帶有禽流感病毒。 (C) 把垃圾埋在掩埋場,裡面產生的熱可助發電。 (B) 法國以鵝肝醬聞名,且外銷到許多國家。 (D) 他們接受來自他國的垃圾並把它轉變成核能。 (C) 鵝肝醬應該被禁止,因為動物們被殘忍養育。 (D) 無疑地,鵝肝醬是如此美味,以至於每個人都該 第二部分:非選擇題 嚐看看。 I. 填充"
+    },
+    {
+      "id": "MOCK_107_5_ENG_025",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "Which of the following has the closest meaning to the word “ mortality ” in paragraph 2?",
+      "image_url": "",
+      "options": [
+        "death",
+        "breeding",
+        "quarrel",
+        "forecast"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "下列哪個字和第二段的 mortality 意思最接近?"
+    },
+    {
+      "id": "MOCK_107_5_ENG_026",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "What do people do to the animals in order to produce Foie Gras?",
+      "image_url": "",
+      "options": [
+        "The animals sometimes stretch their wings and walk around.",
+        "The animals have to stay in a cage in their lifetime.",
+        "The poultry usually go swimming several times a day.",
+        "Ducks and geese happily enjoy tasty meals all the time."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "為了生產鵝肝醬,人們對於這些動物做了什麼? 4 2 個空格皆正確。 (A) 這些動物有時候可伸展翅膀和四處走。 2 (B) 動物們必須一輩子待在籠子裡。 僅 1 個空格正確。 (C) 這些家禽通常一天好幾次游泳。 0 2 個空格皆錯誤。 (D) 鴨鵝總是快樂地享用美味食物。 II. 句子重組"
+    },
+    {
+      "id": "MOCK_107_5_ENG_027",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "30 million ducks have to endure torture annually, including male and female ones.",
+        "The purpose of force-feeding ducks or geese is to get more meat and feathers.",
+        "The mortality rate of the force-fed ducks is ten times more than those in ordinary farms.",
+        "There is a conflict between making money and treating animals in a humane way. ▲ 閱讀下文,回答第 38-41 題。 An incredibly huge amount of trash is dumped into landfills every year around the globe. If you lined it up in garbage trucks, it could circle the Earth 24 times. Sweden has found a way to turn their trash into gold. About half or 47% of Sweden’s waste is recycled. The program recycles and sorts metals, plastics, newspapers, batteries, and electronics. The remaining 52% of the country’s waste like excluded scrap, circuit boards, and agricultural waste is used for the country’s waste-to-energy program, or WTE program, which produces electricity from burning waste. So what is left is one remarkable percent of Sweden’s trash that actually ends up in a landfill. But how exactly does garbage turn into energy? After recyclable content has been removed, the trash is brought to the waste-to-energy plant. There, the trash gets loaded into furnaces and burned, which generates a large amount of steam that spins generator turbines, producing electricity for the nation’s power grid. On recycling, all leftover metals are separated and recycled while the other remaining materials that cannot be burned, like porcelain or tile, are collected for gravel in road construction. Over the past decade, Sweden has run out of their own garbage and had to start importing trash from other countries like UK. It’s a win-win situation for most countries since shipping trash to Sweden is not only cheaper than landfill taxes, but it also makes sure more garbage is reused. Over time, Sweden has become a zero waste nation and encouraged other countries to consider it."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據本文,下列敘述何者為真? (A) 每年包含公鴨和母鴨共三千萬隻鴨子必須忍受折"
+    },
+    {
+      "id": "MOCK_107_5_ENG_028",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "What is the main idea of this passage?",
+      "image_url": "",
+      "options": [
+        "Sweden is a democratic country that earns a lot of revenues.",
+        "Sweden successfully exported garbage to UK and earned much money.",
+        "Turning waste into energy is very effective in Sweden.",
+        "Sweden is good at turning all the waste into road construction."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：107-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_5_ENG_029",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, in Sweden, what percentage of the garbage ends up being buried in the landfill?",
+      "image_url": "",
+      "options": [
+        "1%.",
+        "24%.",
+        "47%.",
+        "52%."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：107-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_5_ENG_030",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, which of the following can generate electricity?",
+      "image_url": "",
+      "options": [
+        "Silver.",
+        "Porcelain cups.",
+        "Newspapers.",
+        "Agricultural waste."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：107-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_5_ENG_031",
+      "subject": "英文",
+      "unit": "107-5-四技二專-00共同科目 英文",
+      "q": "How does the trash turn into energy in Sweden?",
+      "image_url": "",
+      "options": [
+        "Energy is produced from the combination of solar energy and the trash.",
+        "The burning trash produces vapor that propels turbines to produce electricity.",
+        "The trash buried in the landfill produces the heat that generates electricity.",
+        "They accept the trash from other countries and turn it into nuclear power. 第二部分:非選擇題 ( 第 I 至 III 題,每題 6 分,共 18 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：107-5-四技二專-00共同科目 英文解析.pdf"
+    }
+  ]
+}

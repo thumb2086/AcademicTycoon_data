@@ -1,0 +1,117 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH07",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH07_001",
+      "subject": "機械製造",
+      "unit": "CH7",
+      "q": "( 1 ) ( 2 ) ( 3 ) ( 4 ) ( 5 ) 34 學後評量",
+      "image_url": "",
+      "options": [
+        "1 5 (D) 2 2 (C) 1",
+        "",
+        "",
+        "2 2 (C) 1 (B) 3 4 (A) 4 (B) 2 50 (D)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH07_002",
+      "subject": "機械製造",
+      "unit": "CH7",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "(A) (A) 00",
+        "O (D) (B) (B) (B)",
+        "",
+        "(B) (B) (B) (C) 1 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH07_003",
+      "subject": "機械製造",
+      "unit": "CH7",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "CMM",
+        "MMC",
+        "FMS",
+        "MC (B) (A) (A) (A) (A) (B) (A) (B) (B) (D) 35 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH07_004",
+      "subject": "機械製造",
+      "unit": "CH7",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "(A) (B) (C) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH07_005",
+      "subject": "機械製造",
+      "unit": "CH7",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "QC",
+        "QM",
+        "TQC",
+        "QA )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH07_006",
+      "subject": "機械製造",
+      "unit": "CH7",
+      "q": "(ISO)",
+      "image_url": "",
+      "options": [
+        "ISO 1000",
+        "I SO 5000",
+        "I SO 9000",
+        "I SO 14000 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH07_007",
+      "subject": "機械製造",
+      "unit": "CH7",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "0"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

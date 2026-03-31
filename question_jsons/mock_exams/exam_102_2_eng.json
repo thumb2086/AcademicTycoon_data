@@ -1,0 +1,565 @@
+{
+  "bundle_id": "MOCK_102_2_ENG",
+  "questions": [
+    {
+      "id": "MOCK_102_2_ENG_001",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "She made a hotel under the name of Chen before her trip to Las Vegas.",
+      "image_url": "",
+      "options": [
+        "precaution",
+        "observation",
+        "reservation",
+        "condition"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_002",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "That bad guy to be a police officer and stood there questioning the passengers.",
+      "image_url": "",
+      "options": [
+        "infected",
+        "deserted",
+        "consumed",
+        "pretended"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_003",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "The manager discussed the construction with his business partner during the break.",
+      "image_url": "",
+      "options": [
+        "project",
+        "persistence",
+        "perfume",
+        "majority"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_004",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Derek tried to her out of buying this product, but she insisted on her decision.",
+      "image_url": "",
+      "options": [
+        "persuade",
+        "maintain",
+        "operate",
+        "request"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_005",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Tony doesn’t want to get himself in politics because he thinks political matters are too complicated for him to handle.",
+      "image_url": "",
+      "options": [
+        "regretted",
+        "spoiled",
+        "involved",
+        "solved"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_006",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "After her unclear explanations, we were all about what to do next and asked her to explain again.",
+      "image_url": "",
+      "options": [
+        "modest",
+        "puzzled",
+        "defensive",
+        "masked"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_007",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Judging from the evidence, the detective inferred that someone murdered Mr. Brown.",
+      "image_url": "",
+      "options": [
+        "superstitiously",
+        "occasionally",
+        "humbly",
+        "intentionally"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_008",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Rumors about the superstar’s death have been spread and around the whole country.",
+      "image_url": "",
+      "options": [
+        "represented",
+        "circulated",
+        "endured",
+        "hesitated"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_009",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "The invention of the wheel, which enables humans to transport goods easily, is a great in the history of mankind.",
+      "image_url": "",
+      "options": [
+        "innovation",
+        "definition",
+        "passion",
+        "suspicion"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_010",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Their plan was to play basketball on the court, but they changed their mind and determined to play table tennis instead.",
+      "image_url": "",
+      "options": [
+        "disappointing",
+        "efficient",
+        "extensive",
+        "original"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_011",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "The prince lived in a towering and magnificent castle over that faraway mountain.",
+      "image_url": "",
+      "options": [
+        "formal",
+        "mighty",
+        "distant",
+        "lasting"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_012",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "An advertising campaign has been launched for the company’s brand-new product.",
+      "image_url": "",
+      "options": [
+        "activity",
+        "challenge",
+        "romance",
+        "occurrence"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_013",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Despite the bad weather, the express company managed to deliver this parcel in time.",
+      "image_url": "",
+      "options": [
+        "valued",
+        "insulted",
+        "attempted",
+        "predicted"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_014",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "The party was overcrowded because the host failed to take into account the large number of guests.",
+      "image_url": "",
+      "options": [
+        "sacrifice",
+        "consideration",
+        "trend",
+        "performance"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_015",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "The book depicts the lifetime of Confucius and his disciples, especially their impact on the educational system.",
+      "image_url": "",
+      "options": [
+        "containers",
+        "followers",
+        "philosophers",
+        "feathers 二、對話題 說明:第 16 ~ 25 題,請依對話內容,選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_016",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "(on the phone) Secretary: Hippo Language Center. May I help you? Zack: Yes, I’d like to get some information about your summer intensive program. Secretary: I’ll put you through to our program manager.",
+      "image_url": "",
+      "options": [
+        "Could you please leave a message?",
+        "Hold on a second.",
+        "Could you take a message from our manager?",
+        "This is she speaking."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_017",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "(The doorbell is ringing.) Joan: Aaron, I am occupied with the chores right now. Would you mind answering the door for me? Aaron: Joan: I really appreciate it.",
+      "image_url": "",
+      "options": [
+        "Of course.",
+        "The door is out of order, so I’ll ask for help.",
+        "Not at all.",
+        "A promise is a promise."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_018",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Sally: Thanks for the blouse you gave me on my birthday. Da-ming: It’s nothing. I just think the color and the curly design really suit you. Sally: I think so, too. Da-ming: Thanks for your compliment.",
+      "image_url": "",
+      "options": [
+        "You can never tell.",
+        "You always like to beat around the bush.",
+        "You forgot to take the receipt.",
+        "You definitely have good taste in fashion."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_019",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Janet: What’s up, Robert? Robert: Nothing particular. Janet: But you look so pale. Are you alright? Robert: Oh, I am just sick with influenza and feel so terrible. Janet: Take more rest, and",
+      "image_url": "",
+      "options": [
+        "you will get over it soon.",
+        "you will pass away sooner or later.",
+        "don’t bother me.",
+        "it serves you right!"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_020",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Jason: Laura, I just bought a kitten. Could you give me some advice about how to look after it? Laura: Jason: Really? I thought all I need to do is play with it and feed it. Laura: Wrong! You have to exercise it so that it can stay healthy. And you also have to clean its droppings. Jason: Gee...it sounds quite disgusting. Can you do this for me?",
+      "image_url": "",
+      "options": [
+        "That’s another suggestion you should think about carefully.",
+        "You can’t train your kitten like a soldier.",
+        "I am not sure whether I am ready to keep a pet.",
+        "Actually, caring for a kitten is very hard work."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_021",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Anita: Hi, Emily. It’s been a long time. How is everything in the press agency? Emily: In fact, I quit the job last month. I didn’t get along quite well with the people there. So, I choose to work with animals now. Anita: What? Emily: I mean I am working in the zoo. Anita: I see. How do you like your new job? Emily: Well, you know,",
+      "image_url": "",
+      "options": [
+        "a little bird told me.",
+        "animals are easier to get along with than humans.",
+        "I found the job in the local newspaper.",
+        "I like that zoo keeper’s resume very much."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_022",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Salesperson: Would you like to look at our latest tablet? It is on sale. Albert: What’s so special about it? Salesperson: It has a 10-inch foldable touchscreen. You can just put it in your pocket whenever you go around. Albert: But I have already had a laptop. Salesperson: You can use the built-in voice control to generate the words instead of using the keyboard. Albert: Well... I will think about it.",
+      "image_url": "",
+      "options": [
+        "What’s the point of getting this?",
+        "Whatever you say.",
+        "Isn’t this a good bargain?",
+        "Tablets are really out-of-date."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_023",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Jenny: This restaurant is so fancy. Nice decoration and romantic candlelight. I love it! Ken: Let’s take a look at the menu and see what they can offer us. (A waiter is coming after a while.) Waiter: Jenny: Yes, I’ll just have a salad with Thousand Island Dressing. Ken: Well, could you please recommend me some special meals?",
+      "image_url": "",
+      "options": [
+        "Anything to recommend?",
+        "Will that be for here or to go?",
+        "May I take your order now?",
+        "What dressing would you like to go with your salad?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_024",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Ted: Come on. Let’s cross the street here. Jeremy: What!? You wanna get yourself killed? There is no zebra crossing around. Ted: You see. There! Lots of people are crossing the street like this. Besides, no policemen are standing around. Jeremy: Suit yourself. I’ll take the underpass. It’s safer.",
+      "image_url": "",
+      "options": [
+        "Somebody may be fined.",
+        "What makes you think you could do that?",
+        "Cross your fingers before I do that.",
+        "How can policemen do that without being hit by cars?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_025",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Policeman: So, tell me where you are heading now. Erica: I am looking for Hyde Park in this neighborhood. Policeman: Walk down this street further for about three blocks and you’ll find it on your right hand side. Erica: Thanks for your help. Policeman:",
+      "image_url": "",
+      "options": [
+        "Catch you later.",
+        "Tell me about it!",
+        "You don’t say?",
+        "No problem. 三、綜合測驗 說明:以下三篇短文,共有十五格空格,為第 26 ~ 40 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 26 至 30 題,請依短文文意,選出一個最適合該空格的答案。 Have you ever given your foreign friends gifts in person? Do you know that ways to 26 gifts are quite different from one culture to another? For example, in order to show their respect to the givers and 27, westerners love opening their gifts in front of the givers. However, this may not be the case to Chinese people, who like to open their gifts when they are alone. A Chinese, thus, might be astonished to find that his American friend opens the gift 28 during the birthday party and feel confused. In addition, gifts for Chinese are always wrapped 29 red, which refers to good luck in Chinese culture. For westerners, nevertheless, they focus more on the wrapping of the gifts than on the color of wrapping."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_026",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Which of the following products is most likely to be the one described in the passage?",
+      "image_url": "",
+      "options": [
+        "The waist apron.",
+        "The neck pillow.",
+        "The waist bag.",
+        "The neck scarf."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_027",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "The product can decrease the stress in our body parts EXCEPT.",
+      "image_url": "",
+      "options": [
+        "the waist",
+        "the neck",
+        "the back",
+        "the head"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_028",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "According to the passage, which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "The product cannot be used without being inflated.",
+        "It is dangerous to use this product while we are driving cars.",
+        "The product is mainly made to protect the environment.",
+        "The product is too soft to store and carry around. ▲ 閱讀下文,回答第 44-46 題。 When it comes to extinction, the Dodo exhibited at the American Museum of Natural History is definitely a lesson we should bear in mind. First discovered by Dutch sailors around 1600 on Mauritius, the Dodo was driven to extinction less than eighty years later. Scientists believe that unlike the model with short, thick wings and ungainly body in the museum, which implies the Dodo’s flightless ability, the Dodo’s ancestors actually were capable of flying. It is inferred that when the Dodo’s ancestors landed on Mauritius, they found a habitat with an abundance of food and no enemies. They started to settle down on the ground, for it would take a great deal of energy for them to fly in the air. Moreover, from the skeletons discovered in land, scientists found that the Dodo’s breastbone was too small to support the huge pectoral muscles, which a bird of the same size would need to fly in the sky. Accordingly, the flightless Dodo gradually evolved. However, the flightless ability was not the main cause of the Dodo’s extinction. The Dutch sailors’ involvement such as the deforestation, which cut off the Dodo’s food supply and the destruction of Dodo’s nests caused by the sailors’ animals was to blame for its extinction. The Dodo’s extinction within less than a century from its first discovery draws worldwide attention to the impact of human activities on the environment. Scientists hope that the disappearance of this species can help us prevent similar extinction and preserve other endangered creatures on earth."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_029",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "According to this passage, the Dodo became extinct probably.",
+      "image_url": "",
+      "options": [
+        "in the 1520s",
+        "no later than 1600",
+        "in the mid-18th century",
+        "by 1700"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_030",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "Which of the following is NOT the primary cause of the Dodo’s extinction?",
+      "image_url": "",
+      "options": [
+        "The shortage of food.",
+        "The destruction of their nests.",
+        "The Dodo’s flightless ability.",
+        "The aftereffect of the Dutch sailors’ animals."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_031",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "What can be inferred from this passage?",
+      "image_url": "",
+      "options": [
+        "The lesson of the Dodo sheds light on the influence of human activities on species.",
+        "The Dodo was flightless long before it landed on Mauritius.",
+        "The underlined word “ ungainly ” probably means “being slim and skillful.”",
+        "The breastbone of the Dodo was as small as that of any other bird to support the huge pectoral muscles. ▲ 閱讀下文,回答第 47-50 題。 You probably saw a small square filled with blurry dots on the DM before. The stuff you saw is called QR code, which is short for quick response code. Unlike traditional UPC barcode, QR code catches on quickly in consumer advertising because it has much greater storage capacity and can read information faster. First designed to track automobile components in Japan’s vehicle manufacturing, QR codes are currently used over a wide range of applications such as product marketing, transport ticketing, personal information storage, etc. With the increasing popularity of smartphones, advertisers realize that they can make use of the consumers’ scanning behavior to motivate them to purchase more products. The QR code, thus, has become a marketing strategy in shopping industry as it offers customers quick and effortless access to the website of the goods. Furthermore, the QR code also serves as a tool to store classified personal information. A notable example is that Philippine government regulates QR codes should be added to National Bureau of Investigation Clearances. Nowadays, both Android and Apple users can turn their smartphones into QR code scanners, scanning the information and changing it to a standard URL for a website. Users may receive a text message or compose an e-mail after scanning QR codes. On top of that, by downloading some of the free QR code-generating apps, smartphone users can even produce and print their own QR codes for others to scan and use. Isn’t it interesting? If you can’t wait to experience the magic of QR code, just download apps for QR code in Google Play and you definitely will get addicted to it."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_032",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "What is the best title of this passage?",
+      "image_url": "",
+      "options": [
+        "The Origin of QR codes",
+        "The Use of QR Codes",
+        "The Design of QR Codes",
+        "The Definition of QR Codes"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_033",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "What does the underlined pronoun “ it ” in the second paragraph refer to?",
+      "image_url": "",
+      "options": [
+        "The website of the goods.",
+        "The scanning behavior.",
+        "The QR code.",
+        "The shopping industry."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_034",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "QR codes were initially used in.",
+      "image_url": "",
+      "options": [
+        "smartphone industry",
+        "consumer advertising",
+        "personal information storage",
+        "car industry"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_2_ENG_035",
+      "subject": "英文",
+      "unit": "51. 102-2-四技二專-英文",
+      "q": "According to the passage, which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "People with smartphones can scan and produce QR codes by using some apps.",
+        "Compared with QR codes, UPC barcodes, in reality, can store much more data.",
+        "QR codes are banned from storing personal information due to some security problems.",
+        "QR codes can be applied in a wide range of fields, excluding vehicle manufacturing."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    }
+  ]
+}

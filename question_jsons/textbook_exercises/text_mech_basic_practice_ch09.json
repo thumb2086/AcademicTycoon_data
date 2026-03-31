@@ -1,0 +1,37 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH09",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-11",
+      "q": "(Trowel)",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch09/p011_0_50_0_r.png",
+      "options": [
+        "大小鏝刀 (C) 大鏝刀使用情形 A 圖 9 一 16 9-17",
+        "",
+        "大鏝刀使用情形 A 圖 9 一 16 9-17 (B) (A) 彎頭抹刀與 s 型抹刀 9-16 (A) (B) 鏝刀握持方式",
+        "小鏝刀使用情形大小鏝刀與握持方式及使用情形 (D) A 圖 9-17 (Flat brush) 9 一 1 8 (A) 扁刷 A 圖 9-18 9-17 (A) 抹刀與提砂鈎扁刷使用情形 (B) 提砂鈎 (B) 扁刷使用情形 180"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-11",
+      "q": "(D) (D)",
+      "image_url": "",
+      "options": [
+        "(D) (A) (A) (A) (A)",
+        "(B) (B) (B) (A) (A) (A) (A) (A) (A) (B) (B) (D) (A) (B) (D) (D) (A) (D) (D) (B) (A) (B) (A) (A) (D) (D) (B) (B) (B) 學後量",
+        "",
+        "(D) (A) (D) (A) (A) (A) (A) (B) (B) (B) (B) (A) (A) (A) (A) (A) (A) (B) (B) (D) (A) (B) (D) (D) (A) (D) (D) (B) (A) (B) (A) (A) (D) (D) (B) (B) (B) 學後量 (C) 30 (A) (D) 64 (B) (D) (A) 8 12 (B) 20 9-4 ( 22 (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

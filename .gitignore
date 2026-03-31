@@ -1,0 +1,26 @@
+node_modules/
+.codex-tmp/
+*.pdf
+*.ppt
+*.pptx
+conversion_report.json
+
+# Source folders (not going to GitHub)
+統測歷屆試題/
+統測模擬考/
+各科課本習題/
+
+# Scripts and crawlers
+爬蟲.py
+scripts/
+download-tck-4g.mjs
+*.ps1
+
+# Allow assets and JSONs
+!assets/
+!question_jsons/
+!content_jsons/
+!config.json
+!README.md
+!package.json
+!package-lock.json

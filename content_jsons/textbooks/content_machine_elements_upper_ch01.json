@@ -1,0 +1,2993 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_UPPER_CH01",
+  "subject": "技術型高中機械群機件原理上冊",
+  "chapter": {
+    "code": "CH01",
+    "title": "01_機件原理"
+  },
+  "title": "技術型高中機械群機件原理上冊 CHAPTER 本丙 學華",
+  "source_pdf": "技術型高中機械群機件原理上冊_PPT/01_機件原理.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "本丙"
+        },
+        {
+          "type": "heading",
+          "text": "學華"
+        },
+        {
+          "type": "heading",
+          "text": "校興"
+        },
+        {
+          "type": "heading",
+          "text": "之冊"
+        },
+        {
+          "type": "heading",
+          "text": "止連"
+        },
+        {
+          "type": "heading",
+          "text": "籣容"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1-1 機 件、 機 構、 機 械 的 定 義"
+        },
+        {
+          "type": "heading",
+          "text": "1-1 機件、機構、機械的定義"
+        },
+        {
+          "type": "heading",
+          "text": "1-2 機 件 的 種 類"
+        },
+        {
+          "type": "heading",
+          "text": "1-2 機件的種類"
+        },
+        {
+          "type": "heading",
+          "text": "1-3 運 動 傳 達 的 方 法"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "1-3 運動傳達的方法 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "1-4 運 動 對 與 運 動 鏈 數"
+        },
+        {
+          "type": "heading",
+          "text": "1-4 運動對與運動鏈"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "在研究機件原理時,假設機件本身均為剛體 ( rigid body )。 所謂剛體就是受外力而不改變形狀的物體,或稱為抗力體。 如圖 1-1 所示,物體內 A、 B 兩點的距離不因外力 F 作用而伸長、 彎曲、扭轉或縮短。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-1 剛體"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "1-1 機件、機構、機械的定義"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "一、機件 構"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "機械中單獨的一件機械元件,"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "稱為機件 ( machine parts )。 定"
+        },
+        {
+          "type": "heading",
+          "text": "義"
+        },
+        {
+          "type": "heading",
+          "text": "機件是構成機械的基本元素,"
+        },
+        {
+          "type": "paragraph",
+          "text": "其種類多,如圖 1-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-2 機件"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "二、機構 件"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "三機件或四桿件 〔 含一固定 構"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "heading",
+          "text": "機件 (參見 1-2 節說明) 〕 以 機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "上的機件組合體,當動其一 的"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "heading",
+          "text": "義"
+        },
+        {
+          "type": "heading",
+          "text": "機件必迫使其他機件做預期"
+        },
+        {
+          "type": "heading",
+          "text": "的相對運動或限制運動者,"
+        },
+        {
+          "type": "heading",
+          "text": "稱為機構 ( mechanism ),"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 1-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-3 車床(楊鐵車床提供)"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械工廠常用的鐵鎚、手弓鋸、螺絲起子、扳手等,因機件間 件"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "paragraph",
+          "text": "無相對運動,故不能稱為機構,稱其為「工具」。 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "paragraph",
+          "text": "名詞定義上,「機構」常容易與「結構」、「機架」混淆,其"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "paragraph",
+          "text": "區別主要於研究目的之異,「機構」是機動學的研究範圍,主"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "paragraph",
+          "text": "要研究機件間相互運動的情形,或機件間運動的傳遞,例如四 義 連桿。「結構」是屬於土木工程研究範圈,各機件間無相對運 動,主要研究機件間各部分所受力的狀況,例如三連桿(呆鏈) ,而「機架」則是屬於固定機件。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "三、機械 件"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個以上機構的組合體,可接受外來的「能」,並將能轉換為 構"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "paragraph",
+          "text": "「功」,以做指定工作者稱為機械 ( machine )。機械必須具備 機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "的條件為: 的"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "heading",
+          "text": "義"
+        },
+        {
+          "type": "heading",
+          "text": "1. 由一個以上的機構組成。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 機件間會產生一定的相對運動或限制運動。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 可將接受的能轉變為輸出的功或其他效能。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "機械為機件與機構的組合體,機構為機件的組合體 件"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "paragraph",
+          "text": "(如圖 1-4 所示)。 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "heading",
+          "text": "義"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-4 機件、機構、機械"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "常見的機械種類有: 件"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "1. 燃燒燃料產生機械能用以作功的機械。"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "heading",
+          "text": "2. 接受動能產生電能用以作功的機械。 機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "3. 利用機械能或電能用以作功的機械。"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "heading",
+          "text": "義"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "有些物品例如游標卡尺、量表、彈簧秤、鐘錶等,雖然某些部 件"
+        },
+        {
+          "type": "heading",
+          "text": "、"
+        },
+        {
+          "type": "paragraph",
+          "text": "分有產生相對運動,但因無接受「能」轉變為「功」,或不以 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "作功為目的,故不能稱為機械,而稱其為「儀器」、"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "械"
+        },
+        {
+          "type": "paragraph",
+          "text": "( instruments )。再者如鍋爐、熱處理爐及飲水機等,雖然有電"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "paragraph",
+          "text": "能或熱能的轉換,但並無產生相對運動,或不以產生機械動能"
+        },
+        {
+          "type": "heading",
+          "text": "義"
+        },
+        {
+          "type": "paragraph",
+          "text": "為目的,故亦不能稱為機械,僅稱其為「設備」 ( equipment )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "1-2 機件的種類"
+        },
+        {
+          "type": "heading",
+          "text": "件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "一、固定機件 類"
+        },
+        {
+          "type": "paragraph",
+          "text": "用來支持或限制活動的機件,如圖 1-3 中車床的床台(機架)、 馬達的軸承座、汽車的底盤、軸承與扣環等。"
+        },
+        {
+          "type": "heading",
+          "text": "二、活動機件"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱傳動機件,用以傳送動力、傳遞運動或改變運動方向之機"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "件,依運動的方式可分為下列兩種:"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "1. 繞固定軸迴轉或擺動的機件。 4"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "2. 作線性運動的機件。"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "三、結合機件 件"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱連接機件,將兩個或兩個以上的機件連接起來使其緊密結 類 合之機件,如鉚釘、螺栓(釘)、螺帽、鍵及銷等。"
+        },
+        {
+          "type": "heading",
+          "text": "四、控制機件"
+        },
+        {
+          "type": "paragraph",
+          "text": "用於控制或緩衝運動之機件,如彈簧、制動器的來令片及調速 器之機件等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "五、流體機件 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "paragraph",
+          "text": "用於輸送或控制流體(流體包括氣體、液體)之機件,如管子、"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "管接頭、泵與閥等。"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "1-3 運動傳達的方法"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "達"
+        },
+        {
+          "type": "heading",
+          "text": "一、主動件、從動件 的"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "heading",
+          "text": "在一機構中,首先受到外界"
+        },
+        {
+          "type": "heading",
+          "text": "賦予之動力而最先運動的機"
+        },
+        {
+          "type": "heading",
+          "text": "件,稱為主動件 ( driver ) 或"
+        },
+        {
+          "type": "paragraph",
+          "text": "原動件。凡受主動件影響而"
+        },
+        {
+          "type": "heading",
+          "text": "產生運動的機件,稱為從動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "件 ( follower ),如圖 1-5。"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-5 凸輪機構"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "二、運動傳達種類 動"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "達"
+        },
+        {
+          "type": "paragraph",
+          "text": "主動件與從動件間的運動傳達方式,依傳動接觸方式不同可分: 的"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 直接接觸 ( direct contact ) 傳動 主動件與從動件間無任何中間物直接傳動者。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 滾動接觸:主動件與從動件接觸點的切線速度相等,而無滑"
+        },
+        {
+          "type": "paragraph",
+          "text": "動發生者,如圖 1-6(a) 所示之摩擦輪。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 滑動接觸:主動件與從動件接觸點的切線速度不相等,而產 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "生滑動者,如圖 1-6(b) 所示之車床床台上,床軌與刀具溜座 數"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "paragraph",
+          "text": "(床鞍)的接觸傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回.. 回"
+        },
+        {
+          "type": "heading",
+          "text": "運動傳達的方法"
+        },
+        {
+          "type": "heading",
+          "text": "接觸線"
+        },
+        {
+          "type": "heading",
+          "text": "接觸點"
+        },
+        {
+          "type": "heading",
+          "text": "A 輪"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數 6"
+        },
+        {
+          "type": "heading",
+          "text": "B 輪"
+        },
+        {
+          "type": "heading",
+          "text": "床鞍"
+        },
+        {
+          "type": "heading",
+          "text": "切線速度"
+        },
+        {
+          "type": "heading",
+          "text": "間隔塊"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 滾動接觸 ( 外接圓柱摩擦輪 )"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 滑動接觸 ( 車床床台 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1 一 6 直接接觸"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 間接接觸 ( intermediate contact ) 傳動 動"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "達"
+        },
+        {
+          "type": "paragraph",
+          "text": "主動件與從動件間必須藉由中間連接物作用才能傳動者,依連"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "接物之性質不同,可分為下列三種:"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 剛體連接物:能傳送推力及拉力,如圖 1-7(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 撓性體連接物:只能傳送拉力,不能傳送推力,如圖 1-7(b)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 流體連接物:將流體限制於密閉容器中,僅能傳送推力,如"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 1-7(c)。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運動傳達的方法"
+        },
+        {
+          "type": "heading",
+          "text": "氣壓縮機"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數 7"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 剛體連接物 ( 連桿 )"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 撓性體連接物 ( 皮帶 )"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 流體連接物 ( 氣壓機構 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1 一 7 間接接觸"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 非接觸 ( non-contact ) 傳動 動"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "達"
+        },
+        {
+          "type": "heading",
+          "text": "主動件與從動件間利用「超距"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "力」來傳送動力或運動者,如"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 1-8 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-8 非接觸傳動(磁浮列車)"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "1-4 運動對與運動鏈"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "一、運動對 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩機件經組合而互相接觸, 沿一定之動路產生相對運動者, 稱為運動對 ( kinematic pair ),或稱為「對偶」、「副」。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "運動對的「自由度」 ( degree of freedom ) 是指運動對中一機件 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "paragraph",
+          "text": "固定,而另一受約束之機件可自由運動的空間,亦稱為「可動 與"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "度」 ( mobility )。 動"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "1. 一個自由剛體(未受任何約束)不論形狀為何,其自由度為"
+        },
+        {
+          "type": "paragraph",
+          "text": "6,如圖 1-9(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 運動對因受到彼此間的約束會喪失一個或多個自由度,所以"
+        },
+        {
+          "type": "paragraph",
+          "text": "運動對的自由度最少為 1,最多為 5,如圖 1-9(b)。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "3. 螺旋對本身具有直線及迴轉之相對運動,但因直線運動受約 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "束,故其自由度只有 1,如圖 1-9(c)。 8"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回"
+        },
+        {
+          "type": "heading",
+          "text": "回"
+        },
+        {
+          "type": "heading",
+          "text": "回"
+        },
+        {
+          "type": "heading",
+          "text": "回"
+        },
+        {
+          "type": "heading",
+          "text": "運動對與運動鏈"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數 8"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 自由度為 6"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 自由度為 5"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 自由度為 1"
+        },
+        {
+          "type": "heading",
+          "text": "( 平移受拘東 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 3 個平移, 3 個旋轉 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 個平移, 3 個旋轉 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1 一自由度"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "有些運動對當機件改變動靜關係時,兩機件的運動狀況或軌跡 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "paragraph",
+          "text": "將會不同,而這種運動對中機件動靜關係的變換,稱為「運動 與"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "對的倒置」 ( inversion of pair ),或稱「對偶倒置」。 動"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "低對的機件組在倒置前後,其運動狀況或軌跡是相同且重合, 並不影響兩機件間的相對運動或絕對運動之性質。對有些高對 的機件組而言,倒置前後其運動狀況或軌跡是不同的,因各機 件之絕對運動已受影響而改變。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 依兩機件間的維持接觸方式分 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "1. 自鎖對 ( self-locking kinematic pair ):又稱「完全對偶」,是"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "不藉由外力作用即能維持兩機件間之接觸者,如圖 1-12(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "2. 力鎖對 ( force-locking kinematic pair ):又稱「不完全對偶 」,"
+        },
+        {
+          "type": "paragraph",
+          "text": "是須藉著外力作用才能維持兩機件間之接觸者,如圖 1-12(b)。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-12 自鎖對與力鎖對"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 依兩機件間的接觸性質分 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "1. 低對 ( lower pair ):兩機件係以面接觸者,依運動方式又分"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "為以下六種,其中前三種的自由度等於 1,後三種的自由度"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "大於 1。 (1) 滑動對 ( sliding pair ):兩機件間僅能作滑動運動, 如圖 1-13(a)。 (2) 迴轉對 ( turning pair ):兩機件間僅能作迴轉運動,"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 1-13(b)。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 螺旋對 ( screw pair ):兩機件間因迴轉而產生直線運動,"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "但其直線運動受到迴轉運動拘束,如圖 1-13(c)。"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-13 自由度為 1 的低對"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 球面對 ( globular pair ):自由度為 3,如圖 1-14(a)。 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 圓柱對 ( cylindrical pair):自由度為 2,如圖 1-14(b)。"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "(6) 平面對 ( flat pair ):自由度為 3,如圖 1-14(c)。 鏈"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-14 自由度大於 1 的低對"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "2. 高對 ( higher pair ):兩機件以點或線接觸者,其自由度可 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "paragraph",
+          "text": "等於或大於 1,如圖 1-15。 與"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-15 高對"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "二、運動鏈 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "由數個對偶組合而成的運動連鎖系統,稱為運動鏈 ( kinematic 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "chain )。在機件原理中運動鏈的各機件之配合情形,僅以點、 鏈 線或簡單符號代表,其常用符號列舉如表 1-1。用於傳達運動 的機件,常視為一簡易連桿 ( link ),故運動鏈常又稱連桿組。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運動對與運動鏈"
+        },
+        {
+          "type": "heading",
+          "text": "表 1-1 常用符號"
+        },
+        {
+          "type": "heading",
+          "text": "符號"
+        },
+        {
+          "type": "heading",
+          "text": "名稱"
+        },
+        {
+          "type": "heading",
+          "text": "意義"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        },
+        {
+          "type": "heading",
+          "text": "機件上之一點"
+        },
+        {
+          "type": "heading",
+          "text": "樞軸 ( pivot ) 兩聯動機件之接合點"
+        },
+        {
+          "type": "paragraph",
+          "text": "。 ◎"
+        },
+        {
+          "type": "heading",
+          "text": "固定樞軸"
+        },
+        {
+          "type": "heading",
+          "text": "曲柄或搖桿之固定迴轉中心"
+        },
+        {
+          "type": "heading",
+          "text": "連桿"
+        },
+        {
+          "type": "heading",
+          "text": "可傳達運動的機件"
+        },
+        {
+          "type": "heading",
+          "text": "迴樞軸"
+        },
+        {
+          "type": "heading",
+          "text": "一機件上, 以銷接另一機件作迴轉移動"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "迴樞軸"
+        },
+        {
+          "type": "heading",
+          "text": "兩機件在同一樞軸作迴轉移動"
+        },
+        {
+          "type": "heading",
+          "text": "迴樞軸"
+        },
+        {
+          "type": "heading",
+          "text": "三機件在同一樞軸作迴轉移動"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "表 1 一 1 常用符號 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "符號"
+        },
+        {
+          "type": "heading",
+          "text": "名稱"
+        },
+        {
+          "type": "heading",
+          "text": "意義"
+        },
+        {
+          "type": "heading",
+          "text": "曲柄與搖桿"
+        },
+        {
+          "type": "heading",
+          "text": "一連桿在固定樞軸上搖擺或旋轉"
+        },
+        {
+          "type": "heading",
+          "text": "結構 ( 呆鏈 )"
+        },
+        {
+          "type": "heading",
+          "text": "三連桿聯結成為剛體"
+        },
+        {
+          "type": "heading",
+          "text": "多連桿聯結成為剛體"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "固定桿 ( 機架 ) 機構的固定部分"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "滑動對"
+        },
+        {
+          "type": "heading",
+          "text": "滑塊與滑槽作相對移動"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "運動鏈的種類依運動性質可分為三種: 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "1. 呆鏈 ( locked chain):又稱固定鏈,亦可稱為結構,至少由"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "三個連桿組成,各桿間無相對運動,僅能作整體運動,如"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 1-16。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-16 三連桿"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "2. 拘束鏈 ( constrained chain ):至少由四個連桿組成, 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "paragraph",
+          "text": "其各連桿間有確切的相對運動,如圖 1-17。 與"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-17 四連桿"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "3. 無拘束鏈 ( unconstrained chain ):凡連桿組中,各連桿間 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "paragraph",
+          "text": "的相對運動無法確定者均為無拘束鏈。如圖 1-18 所示為 與"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "五連桿組。 動"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-18 五連桿"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "設 N 為運動鏈的連桿數, P 為對偶數,則運動鏈的種類可由 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "paragraph",
+          "text": "下列公式判別之。 與"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "3 鏈"
+        },
+        {
+          "type": "heading",
+          "text": "1. 若 P > N - 2 時,其自由度為 0,則為呆鏈。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "2. 若 P = N - 2 時,其自由度為 1,則為拘束鏈。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "3. 若 P < N - 2 時,其自由度大於 1,則為無拘束鏈。"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "2 數"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "使用以上之判別公式須注意下列事項: 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "1. 判別公式僅適用於自由度為 1 的低對運動對者,如滑動對、"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "迴轉對、螺旋對。"
+        },
+        {
+          "type": "heading",
+          "text": "鏈"
+        },
+        {
+          "type": "heading",
+          "text": "2. 機架及固定機件不論在機構圖中出現幾處,其連桿數都僅"
+        },
+        {
+          "type": "paragraph",
+          "text": "視為 1 件。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連桿數 N = 3,對偶數 P = 2。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 連桿數 N = 2,對偶數 P = 1。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "5. 連桿數 N = 1,對偶數 P = 0。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "6. 連桿數 N = 2,對偶數 P = 1。 動"
+        },
+        {
+          "type": "heading",
+          "text": "對"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "7. 連桿數 N = 4,對偶數 P = 3。 鏈"
+        },
+        {
+          "type": "heading",
+          "text": "8. 連桿數 N = 2,對偶數 P = 1。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 連桿數 N = 5,對偶數 P = 4。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "例題 1-1"
+        },
+        {
+          "type": "heading",
+          "text": "運動對與運動鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 1-19 所示之連桿組, 試以公式判別為何種運動鏈?"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-19 連桿組"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "由圖中知: N = 5, P = 6 ( 圈起數字表示對偶數 ) 代入一 N 一 2 = 一 × 5 一 2 = 5 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "則 P = 6 > ( N 一 2 )"
+        },
+        {
+          "type": "heading",
+          "text": "= 5 · 5, 判定為呆鏈"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "例題 1-2"
+        },
+        {
+          "type": "heading",
+          "text": "運動對與運動鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 1-20 所示之連桿組, 試以公式判別為何種運動鏈?"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-20 連桿組"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "由圖中知"
+        },
+        {
+          "type": "heading",
+          "text": ": N = 6, P = 7"
+        },
+        {
+          "type": "heading",
+          "text": "代入 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "一 2 = 一 × 6 一 2 = 9 一 2 = 7"
+        },
+        {
+          "type": "heading",
+          "text": "則 P = 7"
+        },
+        {
+          "type": "heading",
+          "text": "= 7, 判定為拘束鏈"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "例題 1-3"
+        },
+        {
+          "type": "heading",
+          "text": "運動對與運動鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 1-21 所示之連桿組, 試以公式判別為何種運動鏈?"
+        },
+        {
+          "type": "heading",
+          "text": "○"
+        },
+        {
+          "type": "heading",
+          "text": "○ 4"
+        },
+        {
+          "type": "heading",
+          "text": "○"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1-21 連桿組"
+        },
+        {
+          "type": "heading",
+          "text": "由圖中知: N = 6, p = 7"
+        },
+        {
+          "type": "heading",
+          "text": "代入 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "一 2 = 一 × 6 一 2 = 9 一 2 = 7"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "則 P = 7"
+        },
+        {
+          "type": "heading",
+          "text": "= 7, 判定為拘束鏈"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "例題 1-4"
+        },
+        {
+          "type": "heading",
+          "text": "運動對與運動鏈"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 1-22 所示之連桿組, 試以公式判別為何種運動鏈?"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 4"
+        },
+        {
+          "type": "heading",
+          "text": "◎ ○"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1 一 22 連桿組"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "由圖中知: N = 8, P"
+        },
+        {
+          "type": "heading",
+          "text": "= 9"
+        },
+        {
+          "type": "heading",
+          "text": "代入 N 一 2 ="
+        },
+        {
+          "type": "heading",
+          "text": "一 × 8 一 2 = 12 一 2 = 10"
+        },
+        {
+          "type": "heading",
+          "text": "則 P = 9 < ( N 一 2 )"
+        },
+        {
+          "type": "heading",
+          "text": "= 10, 判定為無拘束鏈"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch01/p042.jpg"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "bundle_id": "TCK_109_0_ENG",
+  "questions": [
+    {
+      "id": "TCK_109_0_ENG_001",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "You can wear sunglasses if you think the sunlight is too outside.",
+      "image_url": "",
+      "options": [
+        "bright",
+        "gray",
+        "large",
+        "weak ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這炸雞很美味,但對我來說有點太鹹了! The fried 1 chicken is tasty, but a little bit too 2 salty for me."
+    },
+    {
+      "id": "TCK_109_0_ENG_002",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Every Saturday, the library holds talks on various that include friendship, career, photography and health.",
+      "image_url": "",
+      "options": [
+        "jobs",
+        "hobbies",
+        "products",
+        "topics ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "People on the bus stared at the boy who was talking loudly on his cellphone. 公共汽車上的人們盯著那個用手機大聲說話的男孩。"
+    },
+    {
+      "id": "TCK_109_0_ENG_003",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "I don’t feel gossiping about Michael’s life because it is wrong to discuss other people’s private lives.",
+      "image_url": "",
+      "options": [
+        "annoyed",
+        "comfortable",
+        "embarrassed",
+        "fearful ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "我表姊邀請我去參加她的婚禮。 My cousin invited me to her wedding. 或 My cousin invited me to attend her wedding. 或 My cousin invited me to go to her wedding. 選擇建功‧ 7 ‧尊榮一生"
+    },
+    {
+      "id": "TCK_109_0_ENG_004",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "本試卷之 第一部份 「 選擇題 」 共 4 1 題,每題 2 分,共 8 2 分 。 第一部 份 均為單一選擇題,每題都有",
+      "image_url": "",
+      "options": [
+        "、",
+        "、",
+        "、",
+        "四個選項,請選一 個最適當答案,在答案卡 ( 卷 ) 同一題號對應方格內,用 2B 鉛筆塗滿方 格,但不超出格外。"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "電腦科技使人們能夠無需去辦公室即可有效地在家工作。 (A) 攻擊 (B) 混淆 (C) 使能夠 (D) 減少"
+    },
+    {
+      "id": "TCK_109_0_ENG_005",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "The shoes usually cost a lot, but now they are cheap after discount.",
+      "image_url": "",
+      "options": [
+        "regionally",
+        "relatively",
+        "reluctantly",
+        "respectfully ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "這鞋子通常價格很高,但現在打折後相對便宜。 (A) 區域性地 (B) 相對地 (C) 不情願地 (D) 恭敬地"
+    },
+    {
+      "id": "TCK_109_0_ENG_006",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Mozart ( 莫札特 ) was a great musician who start ed to music when he was very young.",
+      "image_url": "",
+      "options": [
+        "compose",
+        "lighten",
+        "monitor",
+        "reject ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "莫札特是一位偉大的音樂家,他很小的時候就開始創作音樂。 (A) 組成、做曲 (B) 閃電 (C) 監視器 (D) 拒絕"
+    },
+    {
+      "id": "TCK_109_0_ENG_007",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "A (n) face is essential to dramatic acting because it is good at showing all kinds of emotions.",
+      "image_url": "",
+      "options": [
+        "expressive",
+        "identical",
+        "protective",
+        "reasonable ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "表情豐富的臉對於戲劇表演至關重要,因為它善於表現各種情感。 (A) 表情豐富的 (B) 相同的 (C) 保護的 (D) 合理的"
+    },
+    {
+      "id": "TCK_109_0_ENG_008",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Henry has been very busy looking for a new job lately, so he hasn’t contacted his family for almost two weeks.",
+      "image_url": "",
+      "options": [
+        "fairly",
+        "nearly",
+        "recently",
+        "shortly ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Henry 最近一直忙著尋找一份新工作,所以他已經將近兩個星期沒有和家人聯繫了。 (A) 公平地 (B) 幾乎 (C) 最近 (D) 立刻"
+    },
+    {
+      "id": "TCK_109_0_ENG_009",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Mary broke up with her boyfriend because she felt he had no regard for her feelings.",
+      "image_url": "",
+      "options": [
+        "concern",
+        "fortune",
+        "silence",
+        "temper ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Mary 和男朋友分手了,因為她覺得他對她的感受漠不關心。 (A) 關注 (B) 財富、運氣 (C) 沉默 (D) 脾氣"
+    },
+    {
+      "id": "TCK_109_0_ENG_010",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "A medical report indicates that there is an association between high levels of stress and skin problems.",
+      "image_url": "",
+      "options": [
+        "an exchange",
+        "an obstacle",
+        "a relationship",
+        "a similarity ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "一份醫療報告指出,高度壓力與皮膚問題之間有關聯。 (A) 交換 (B) 障礙 (C) 關係 (D) 相似性"
+    },
+    {
+      "id": "TCK_109_0_ENG_011",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "The government declared that the new city hall would be open to the public this summer.",
+      "image_url": "",
+      "options": [
+        "announced",
+        "discovered",
+        "imagined",
+        "predicted ˉ II. 對話題:第 1 2 至 2 1 題,請依對話內容選出一個最適合的答案,使其成為有意 義 的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "政府宣佈新市政廳將在今年夏天向民眾開放。 (A) 宣佈 (B) 發現 (C) 想像 (D) 預測 II. 對話題:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+    },
+    {
+      "id": "TCK_109_0_ENG_012",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Rose: Hey, let’s go to Mama’s Kitchen for some food. Jane: Sounds great. Rose: No, it’s next to the bank. Jane: Oh, it’s quite far from here. But never mind. Let’s go!",
+      "image_url": "",
+      "options": [
+        "Is the food there really good?",
+        "Can you say it one more time?",
+        "Is it across from the Internet cafe?",
+        "Are you sure you want to go there? - 2 -"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Rose:嘿,我們去媽媽廚房吃點餐點吧。 Jane:好主意。 __________ Rose:不,它在銀行隔壁。 Jane:哦,離這兒很遠。但沒關係我們走吧! (A) 那裡的食物真的好嗎? (B) 你能再說一次嗎? (C) 是在網咖對面嗎? (D) 你確定要去 那裡嗎?"
+    },
+    {
+      "id": "TCK_109_0_ENG_013",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Alan: I’ve been looking for that book! Where did you get it? Betty: I just did a search on the Web and found it. It’s not that difficult, you know. Alan: Really? I must try my hand at it. Can you show me how to do it?",
+      "image_url": "",
+      "options": [
+        "I bought it online.",
+        "I paid by credit card.",
+        "I left it in the drawer.",
+        "I finished it in one night. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Alan:我一直在找那本書!你從哪兒弄到的? Betty: __________ 我剛在網上搜索,就找到了。這並不難,你知道的。 Alan:真的嗎?我必須試試它。你能告訴我怎麼做嗎? (A) 我在網路上買的。 (B) 我用信用卡付款。 (C) 我把它忘在抽屜裡了。 (D) 我在一個晚上 就看完了。"
+    },
+    {
+      "id": "TCK_109_0_ENG_014",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Steve: So, have you made up your mind about a career? Becky: Pretty much. It’s going to be something with either dancing or singing. I mean it. Steve: You’ve always been the musical type.",
+      "image_url": "",
+      "options": [
+        "It makes sense to me.",
+        "It will never come true.",
+        "I’m pretty good at music.",
+        "Neither of them will work. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Steve:那麼,你決定好工作了嗎? 選擇建功‧ 2 ‧尊榮一生 Becky:差不多。將是跳舞或唱歌的工作。我說真的。 Steve: __________ 你一直是音樂類型的人。 (A) 我覺得很合理。 (B) 永遠不會實現。 (C) 我很擅長音樂。 (D) 兩者都不能成功。"
+    },
+    {
+      "id": "TCK_109_0_ENG_015",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Mom: I think you have too much junk in your room. Why don’t you clean up right now? Mark: Junk? There is no junk. Mom: How about these empty boxes and broken mugs? Mark: They are for my art class.",
+      "image_url": "",
+      "options": [
+        "We can ask for help.",
+        "You can say that again.",
+        "It’s too late to clean up.",
+        "I keep things for a reason. ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Mom:我認為你房間裡有太多的垃圾。你為什麼不馬上打掃乾淨呢?ˉ Mark:垃圾?沒有垃圾。 __________ Mom:這些空盒子和破杯子是怎麼樣? Mark:它們是我的美術課要用到的東西。 (A) 我們可以尋求協助。 (B) 你說的對極了。 (C) 要清理為時已晚。 (D) 我保留東西是有原 因的。"
+    },
+    {
+      "id": "TCK_109_0_ENG_016",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Ken: Hello. This is Ken Wang. I bought a jacket on your website a month ago. I haven’t received it. Why? Joy: Hi, Mr. Wang. Let me check. Ah! Our records show a delay in delivery. Ken: Well, you should have called me about it. Joy: I’m truly sorry. I’ll try my best to send it out to you today.",
+      "image_url": "",
+      "options": [
+        "I could not find any records of your order.",
+        "I phoned you last week about that order.",
+        "There was no order placed for the jacket.",
+        "There has been a problem with that order. ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Ken:你好。這是王肯恩。一個月前我在你的網站上買了一件夾克。我還沒有收到它。為 什麼? Joy:嗨,王先生。讓我檢查一下。啊! __________ 我們的記錄顯示交貨延遲。 Ken:嗯,你應該給我打電話的。 Joy:我真的很抱歉。我會盡量在今天把它寄給你。 (A) 我找不到你訂單的任何記錄。 (B) 我上周給你打了有關那份訂單電話。 (C) 沒有購買夾 克訂單。 (D) 訂單出現問題。"
+    },
+    {
+      "id": "TCK_109_0_ENG_017",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Jennifer: That was an interesting speech. I learned a lot! Shu-hua: Yes, although the topic was hard to follow for a foreigner like me! Jennifer: Shu-hua: Thank you. It’s very kind of you.",
+      "image_url": "",
+      "options": [
+        "The speaker is from Canada.",
+        "But your English is excellent.",
+        "I’ve followed the speaker for a while.",
+        "And the topic was about foreign cultures. ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Jennifer:那是一個有趣的演講。我學到了很多!ˉ Shu-hua:是的,雖然像我這樣的外國人很難聽懂這個題目。 Jennifer: __________ Shu-hua:謝謝。你真是太好了。 (A) 演講者來自加拿大。 (B) 但是你的英語很好。 (C) 我跟隨演講者一段時間了。 (D) 主題 是關於外國文化的。"
+    },
+    {
+      "id": "TCK_109_0_ENG_018",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Interviewer: Have you always worked in the service line? Tim: Yes. Ever since I graduated from college. Interviewer: I see. Tim: Well. I think I am very hardworking but a little impatient sometimes.",
+      "image_url": "",
+      "options": [
+        "How do you spend your free time?",
+        "What are your strong and weak points?",
+        "Please tell us about your educational background.",
+        "Please say something about your work experience. ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "面試官:你一直在服務業工作嗎? Tim:是的。自從我大學畢業。 面試官:我明白了。 ___________ Tim:嗯。我覺得我很努力,但有時有點不夠有耐心。 (A) 如何度過你的空閑時間? (B) 你的強項和弱點是什麼? (C) 請告訴我們您的教育背景。 (D) 請談談你的工作經歷。"
+    },
+    {
+      "id": "TCK_109_0_ENG_019",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Mike: My brother has really gone crazy. He says he wants to take up skydiving. Can you believe that? Lily: What? Mike: I’m not. He’s dead serious. Lily: Well, you have to stop him. It’s really dangerous.",
+      "image_url": "",
+      "options": [
+        "Am I going crazy?",
+        "I believe he’s dangerous.",
+        "You’ve got to be kidding.",
+        "Have you talked to him seriously? - 3 - ◢"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Mike:我哥哥真的瘋了。他說他想去特技跳傘。你能相信嗎? Lily:什麼? __________ Mike:我沒開玩笑。他認真的要命。 Lily:嗯,你必須阻止他。真的很危險。 (A) 我要瘋了嗎? (B) 我相信他很危險。 (C) 你開玩笑吧。 (D) 你和他認真談過嗎? 選擇建功‧ 3 ‧尊榮一生"
+    },
+    {
+      "id": "TCK_109_0_ENG_020",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Bill: Nina, Nina: Not really. I’d like to check out this city. But I need to learn how to take the MRT first. Bill: I’m going to the station. If you want, we can go together. You’ll find it easy. Nina: That would be great! Thanks.",
+      "image_url": "",
+      "options": [
+        "where are you from?",
+        "do you have a check?",
+        "how do you like this city?",
+        "do you have any plans? ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Bill: Nina, __________ Nina:也不算真有。我想去看看這個城市。但我需要先學會如何搭乘捷運。 Bill:我正要去車站。如果你想,我們可以一起去。你會發現它很容易。 Nina:那太好了!謝謝。 (A) 你是哪裡人? (B) 你有支票嗎? (C) 你覺得這個城市怎麼樣? (D) 你有什麼計劃嗎?"
+    },
+    {
+      "id": "TCK_109_0_ENG_021",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "Peter: Did you hear that the band Mayday ( 五月天 ) is having two shows here this summer? Leo: Yes. And tickets are on sale this Friday. But fan club members like us can buy tickets right now. Let’s see what we can get. Peter: There are different kinds of seating in the stadium–floor, lower level, and upper level. Leo: I want to sit near the stage.",
+      "image_url": "",
+      "options": [
+        "Isn’t it far from the stadium?",
+        "How much is the fan club fee?",
+        "Why don’t we go with floor seats?",
+        "Can we sell tickets on the upper level? ˉ III. 綜合測驗:以下兩篇短文,共有 10 個空格,為第 2 2 至 3 1 題,每題有四個 選項,請依各篇短文文意,選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 2 2 - 26 題,請依短文文意,選出一個最適合該 空格的答案。 Rainforests are the Earth ’ s oldest living ecosystems. They 22 only a small part of the Earth’s surface, about six percent, but they are very important to us. For example, they provide us with 23 of the Earth’s oxygen and fresh water. A lot of medi cines we use today to treat cancer or hea rt disease 24 from the plants that grow only in rainforests. Many items we use in our own homes come from the rainforest as well. 25, rainforests are disappearing at an alarmingly fast pace, largely due to human development over the past few centuries. Problems 26 from the decrease of rainforests include more pollutions, less oxygen, and fewer species of animals. To keep rainforests from disappearing and save the Earth for our children, we must do something immediately. ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Peter:你聽說了五月天樂團今年夏天在這裡將要有兩場演出嗎? Leo:是的。本週五開始銷售門票。但是像我們這樣的粉絲俱樂部會員可以馬上買到票。 讓我們看看我們能買到什麼票。 Peter:體育場有不同類型的座位-體育場地板、下層和上層。 Leo: __________ 我想坐在舞臺附近。 (A) 離體育場不遠嗎? (B) 粉絲俱樂部的費用是多少? (C) 我們何不坐地板座位呢? (D) 我們可以在上層賣票嗎? III. 綜合測驗:以下兩篇短文,共有 10 個空格,為第 22 至 31 題,每題有四個選項,請依各 篇短文文意,選出一個最適合該空格的答案。 ▲下篇短文共有 5 個空格,為第"
+    },
+    {
+      "id": "TCK_109_0_ENG_022",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "What is Kelly going to order?",
+      "image_url": "",
+      "options": [
+        "A horse",
+        "Bubble tea",
+        "Coffin bread",
+        "Milkfish soup"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Kelly 要點什麼? (A) 一匹馬 (B) 珍珠奶茶 (C) 棺材板 (D) 虱目魚湯"
+    },
+    {
+      "id": "TCK_109_0_ENG_023",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "According to the menu and the conversation, who will have to pay the most if everyone orders only one portion of each item she wants to eat?",
+      "image_url": "",
+      "options": [
+        "Kelly",
+        "Linda",
+        "Vivian",
+        "Wendy - 5 -"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據菜單和對話,如果每個人都只點一份她想吃的每一項目,誰必須支付最多錢? (A)Kelly (B)Linda (C)Vivian (D)Wendy ▲閱讀下文,回答第"
+    },
+    {
+      "id": "TCK_109_0_ENG_024",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "What is the contribution of the Japanese to Taiwan’s chocolate industry?",
+      "image_url": "",
+      "options": [
+        "They knew how to produce chocolate.",
+        "They moved from Indonesia to Taiwan.",
+        "They introduced cocoa trees to Taiwan.",
+        "They succeeded in growing cocoa trees. ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "日本人對臺灣巧克力產業的貢獻是什麼? (A) 他們知道如何生產巧克力 。 (B) 他們從印尼搬到臺灣 。 (C) 他們把可可樹引進臺灣 。 (D) 他們成功地種植了可可樹。"
+    },
+    {
+      "id": "TCK_109_0_ENG_025",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "According to the passage, which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "Taiwan-made chocolate is gaining world attention.",
+        "Taiwan’s chocolate makers produce a single flavor.",
+        "Many Taiwanese chocolate eaters like local products.",
+        "Indonesia farmers planted cocoa trees in Taiwan 20 years ago. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據該段,以下哪一項陳述是正確的? (A) 台灣製造巧克力正引起世界的關注。 (B) 臺灣的巧克力製造商生產單一口味。 (C) 許多 臺灣巧克力食客喜歡當地產品。 (D)20 年前,印尼農民在台灣種植可可樹。"
+    },
+    {
+      "id": "TCK_109_0_ENG_026",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "What does the phrase “ take off ” in paragraph 3 mean?",
+      "image_url": "",
+      "options": [
+        "Remove its obstacles",
+        "Become successful",
+        "Appear competitive",
+        "Present its challenges ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "第 3 段中的「 take off 起飛」一詞是什麼意思? (A) 消除其障礙 (B) 變得成功 (C) 出現競爭 (D) 提出挑戰"
+    },
+    {
+      "id": "TCK_109_0_ENG_027",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "What is the main purpose of the passage?",
+      "image_url": "",
+      "options": [
+        "To discuss Taiwan’s problems of planting cocoa trees.",
+        "To introduce different flavors of Taiwanese chocolate.",
+        "To show the development in Taiwan’s chocolate industry.",
+        "To describe Taiwan’s success in selling chocolate worldwide. ˉ - 6 -"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "本文主要目的是什麼? (A) 討論台灣種植可可問題。 (B) 介紹不同口味的臺灣巧克力。 (C) 說明臺灣的巧克力產業 的發展。 (D) 描述臺灣在全球銷售巧克力的成功。 ▲閱讀下文,回答第"
+    },
+    {
+      "id": "TCK_109_0_ENG_028",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "What is the best title for this passage?",
+      "image_url": "",
+      "options": [
+        "Less Human Contact for Good Health",
+        "Better Learning with Internet Connection",
+        "Flexible Time and Place for Employment",
+        "Safe Homes with Popular Entertainments ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這篇文章的最佳標題是什麼? (A) 為了健康減少人類接觸 (B) 通過網路連結的更好地學習 (C) 彈性的就業時間和地點 (D) 帶大眾娛樂的安全之家"
+    },
+    {
+      "id": "TCK_109_0_ENG_029",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "What does the word “ one ” in paragraph 3 refer to?",
+      "image_url": "",
+      "options": [
+        "classroom",
+        "crisis",
+        "school",
+        "student ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "第 3 段中的 “one” 一詞指的是什麼? (A) 教室 (B) 危機 (C) 學校 (D) 學生"
+    },
+    {
+      "id": "TCK_109_0_ENG_030",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "According to the passage, which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "About 90% of the students stayed at home to learn to use the Internet.",
+        "Social distancing measured how fast the coronavirus spreads in a country.",
+        "Schools stopped students from gathering in large groups to prevent infection.",
+        "A new US law stated that sick employees would be paid if they worked at the office. ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據本文,以下哪一項陳述是正確的? (A) 大約 90% 的學生待在家裡學習使用網際網路。 (B) 社交距離測量了冠狀病毒在一個國家 的傳播速度。 (C) 學校阻止學生成群結隊地聚集以防止感染。 (D) 美國一項新法律規定, 生病的員工如果在辦公室工作,將領到工資。"
+    },
+    {
+      "id": "TCK_109_0_ENG_031",
+      "subject": "英文",
+      "unit": "109-統測-00共同科目-英文",
+      "q": "According to the passage, which of the following is NOT an act of social distancing?",
+      "image_url": "",
+      "options": [
+        "Attending a live concert filled with people.",
+        "Reducing the number of workers in the office.",
+        "Holding online church meetings with followers.",
+        "Watching videos at home instead of going to the movies. ˉ - 7 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據本文,以下哪一項不是社會疏遠行為? (A) 參加現場音樂會,現場擠滿了人。 (B) 減少辦公室工作人員人數。 (C) 與信徒舉行網上 教會會議。 (D) 在家觀看影片,而不是去看電影。 二、非選擇題(第I到第III題,每題 6 分,共 18 分)"
+    }
+  ]
+}

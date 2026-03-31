@@ -1,0 +1,2113 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH04",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH04",
+    "title": "CH4"
+  },
+  "title": "機械力學 Chapter 4 摩擦",
+  "source_pdf": "機械力學/CH4PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH04",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "4-1 摩擦的種類 1. 能瞭解摩擦的種類與意義。 4-2 摩擦定律 2. 熟悉摩擦定律的內容。 4-3 摩擦角與靜止角 3. 學會摩擦係數的區別與運用。 4-4 滑動摩擦 4. 清楚摩擦角與靜止角之定義與 摩擦係數的關係。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 摩擦在斜面上的運用。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "126"
+        },
+        {
+          "type": "paragraph",
+          "text": "本章首先介紹摩擦的種類與由來以及摩擦定律,然後循序漸進,由淺而深探討平面上 的各種摩擦情形,進而探討斜面上的各種作用力對摩擦的影響,裨使於日後研究摩擦在機 械上的各種應用,如制動器 ( 煞車 )、螺旋起動機等。由於本章將會運用到第二章的靜力平 衡觀念及力矩原理,同學只要將前述的觀念及摩擦定律熟悉運用,並融會貫通即可達到學 習的目標。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "F1 跑車為什麼加裝擾流翼?"
+        },
+        {
+          "type": "paragraph",
+          "text": "跑車的尾端為什麼要加上擾流翼?難道跑車要飛起來嗎?其實跑車擾流翼是將機翼上下裝反,當跑 車高速行駛時,通過跑車尾翼的氣流因為白努力原理 ( 速度大、壓力小 ),下方速度大壓力小而產生下 壓力,而不是向上的升力。來提高輪胎的正向力,也會使最大靜摩擦力增加,同時從引擎傳輸到車輪的 驅動力也就可以增加,而不至於使輪胎打滑。 相同的原理,有些跑車的底盤很低,幾乎快要碰觸地面,車子前後裝上大包,兩側加裝側裙,可避 免行駛時空氣流入底盤,底盤外側高速氣流以白努力原理將底盤內空氣抽出,車頂的大氣壓力,讓車子 像吸盤一般緊緊吸附地面提升抓地力。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 127"
+        },
+        {
+          "type": "heading",
+          "text": "4-1 摩擦的種類"
+        },
+        {
+          "type": "heading",
+          "text": "1. 產生摩擦力的原因"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體表面為完全光滑並不多見,實際上所有物體的表面大都是粗糙的,在接 觸表面,兩物體內部電荷交互作用會阻止或抵抗物體滑動的趨勢稱為摩擦力 ( 圖 4-1)。摩擦力常使人類早期無法發現或瞭解慣性定律,大家總認為運動物體一定會 停下來,其實是因為有摩擦力之作用。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) (b)"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-1 (a) 相當光滑的兩個物體表面, (b) 在顯微鏡下仍有許多粗糙不平的情形,並存在有兩物體內 部的電荷作用力,會阻止滑動之傾向。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 摩擦力之性質"
+        },
+        {
+          "type": "paragraph",
+          "text": "當兩物體的接觸面間,有相對運動或有相對運動的趨勢 ( 此時仍為靜止 ), 接觸面就會出現平行於接觸面,且有阻止兩物體作相對運動的力,稱為摩擦力 (friction force)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 摩擦力的種類"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦力種類 情況 公式"
+        },
+        {
+          "type": "heading",
+          "text": "靜摩擦力 = 作用力"
+        },
+        {
+          "type": "heading",
+          "text": "f s = F"
+        },
+        {
+          "type": "heading",
+          "text": "1. 當物體與接觸面間沒有相對運動,物體"
+        },
+        {
+          "type": "paragraph",
+          "text": "所受的摩擦力,稱為靜摩擦力。"
+        },
+        {
+          "type": "heading",
+          "text": "靜摩擦力: f s"
+        },
+        {
+          "type": "heading",
+          "text": "2. 靜摩擦力並不是一個定值,而是隨著作"
+        },
+        {
+          "type": "paragraph",
+          "text": "用力 F 的大小而改變。"
+        },
+        {
+          "type": "heading",
+          "text": "( 當物體靜止時 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "128"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦力種類 情況 公式"
+        },
+        {
+          "type": "heading",
+          "text": "1. 當物體開始作相對運動的瞬間,所受的"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦力最大稱為最大靜摩擦力 (f s max )。 最大靜摩擦力"
+        },
+        {
+          "type": "heading",
+          "text": "2. 最大靜摩擦力與接觸的面積無關,但與 = 靜摩擦係數 × 正壓力"
+        },
+        {
+          "type": "heading",
+          "text": "最大靜摩擦力: f s max"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩物體間之正壓力的大小成正比。 f s max = μ s N"
+        },
+        {
+          "type": "heading",
+          "text": "3. 有效推力必須大於或等於最大靜摩擦 ( μ s:靜摩擦係數 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "力,物體才會運動。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 兩物體有相對運動時,物體與接觸面間"
+        },
+        {
+          "type": "heading",
+          "text": "存在阻止物體運動的摩擦力,這種摩擦 動摩擦力"
+        },
+        {
+          "type": "paragraph",
+          "text": "力稱為動摩擦力 (f k )。 = 動摩擦係數 × 正壓力"
+        },
+        {
+          "type": "heading",
+          "text": "動摩擦力: f k"
+        },
+        {
+          "type": "heading",
+          "text": "2. 動摩擦力與接觸面的面積大小無關,與 f k = μ k N"
+        },
+        {
+          "type": "paragraph",
+          "text": "接觸面間的相對速度值無關,但與兩物 ( μ k:動摩擦係數 ) 體間之正壓力的大小成正比。"
+        },
+        {
+          "type": "heading",
+          "text": "水 平 推 物 體 時, 水 平"
+        },
+        {
+          "type": "heading",
+          "text": "作 用 力 與 摩 擦 力 的 關"
+        },
+        {
+          "type": "heading",
+          "text": "係圖"
+        },
+        {
+          "type": "heading",
+          "text": "4. 摩擦與人類的生活"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦對人類而言,是有利有弊的。如果沒有摩擦,人們將無法行走。汽車、 火車的行駛、摩擦輪或皮帶輪的傳送動力、手之持物、制動器之煞車、輪胎的花 紋等⋯均是依賴摩擦力之幫助。反之,摩擦力造成能量的損失、材料的磨耗、所 以機械與交通工具要常加油潤滑,故應儘量減小摩擦力;減小摩擦力的方法有: (1) 在接觸面加潤滑劑 (2) 改滑動為滾動,所以交通工具大部份均用輪子。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 129"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 當一物體放置於水平面上,受水平拉力 P 作用,在發生運動前, 物 體 與 水 平 接 觸 面 之 摩 擦 力 大 小 與 拉 力 P 之 大 小 成 何 種 關 係? (A) 沒有關係 (B) 成正比 (C) 成反比 (D) 始終為定值。 ( ) 2. 物體重 200 N 靜置於平面上,若無外力作用,其靜摩擦係數為 0.2, 則產生之摩擦力為 (A) 40 (B) 20 (C) 10 (D) 0 牛頓。 ( ) 3. 下 列 何 種 形 式 的 摩 擦 力 最 小? (A) 最 大 靜 摩 擦 (B) 滑 動 摩 擦 (C) 滾動摩擦 (D) 極限摩擦。 ( ) 4. 摩擦力的方向與物體運動接觸面之運動方向 (A) 相向 (B) 相反 (C) 必垂直 (D) 不一定。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "為什麼後輪驅動的車子爬坡性能比較好?"
+        },
+        {
+          "type": "paragraph",
+          "text": "後輪驅動的車子的優點是爬坡力強。車子爬坡時,重心會落在後輪附近,使前輪正向力降低並增加 後輪的正向力;也就是說爬坡時,用前輪驅動可能會發生打滑,而後輪驅動正向力變大,則提高了最大 靜摩擦力,比較不容易發生驅動輪打滑無法爬坡的問題。所以當汽車爬坡時,後輪驅動爬坡性能較好。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "130"
+        },
+        {
+          "type": "heading",
+          "text": "4-2 摩擦定律"
+        },
+        {
+          "type": "heading",
+          "text": "1. 摩擦定律"
+        },
+        {
+          "type": "paragraph",
+          "text": "法國人庫倫 (Coulomb) 於 1781 發表關於乾摩擦的實驗,稱為摩擦定律,其主"
+        },
+        {
+          "type": "heading",
+          "text": "要有:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 摩擦力及摩擦係數,與接觸面積之大小無 知識大補帖 關,但與接觸面之性質有關。"
+        },
+        {
+          "type": "heading",
+          "text": "車子於夏天與冬天行駛在同一條馬路"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 摩擦力與接觸面之正壓力的大小成正比,"
+        },
+        {
+          "type": "heading",
+          "text": "上,在同樣的行車條件下,冬天路面"
+        },
+        {
+          "type": "paragraph",
+          "text": "但摩擦係數不因正壓力的增加或減少而改 結冰較易打滑,夏天較不受影響,接"
+        },
+        {
+          "type": "heading",
+          "text": "觸面積沒有改變,影響打滑的因素為"
+        },
+        {
+          "type": "paragraph",
+          "text": "變。"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦係數,由此經驗可知摩擦力大小"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 動摩擦係數小於靜摩擦係數,動摩擦力與 與接觸面積大小無關。 相對運動之速度大小無關。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 摩擦係數"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 靜摩擦係數: ( μ s )"
+        },
+        {
+          "type": "paragraph",
+          "text": "最大靜摩擦力與正壓力成正比,此比值稱為靜摩擦係數 (coefficient of static friction)。"
+        },
+        {
+          "type": "heading",
+          "text": "f s max"
+        },
+        {
+          "type": "paragraph",
+          "text": "最大靜摩擦力 f s max = μ s N ( 即 μ s = ) ( 公式 4-1)"
+        },
+        {
+          "type": "heading",
+          "text": "N"
+        },
+        {
+          "type": "heading",
+          "text": "(N:接觸面之正壓力 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: 正壓力與接觸面垂直。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 動摩擦係數: ( μ k )"
+        },
+        {
+          "type": "paragraph",
+          "text": "動摩擦力與接觸面正壓力成正比,此比值稱為動摩擦係數 (coefficient of kinetic friction)。"
+        },
+        {
+          "type": "heading",
+          "text": "f k"
+        },
+        {
+          "type": "paragraph",
+          "text": "動摩擦力 f k = μ k N ( 即 μ k = ) ( 公式 4-2)"
+        },
+        {
+          "type": "heading",
+          "text": "N"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 131"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 通常:靜摩擦係數 μ s > 動摩擦係數 μ k; 摩擦係數的範圍為 0 < μ < ∞,當摩擦 係數 μ = 0 時,稱為完全光滑面, μ = ∞ 時,接觸面黏合成一物體,均不會動。 正壓力 (N) 之值在圖 4-2 顯示各種情況正壓力之大小:"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-2 為各種情況之正壓力 N ( 由 ∑ F y = 0 求出 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "132"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-1 題型:判斷運動狀態求摩擦力"
+        },
+        {
+          "type": "paragraph",
+          "text": "重 100 N 之物體置於水平面上,若物體與接觸面之靜摩 擦係數 μ s = 0.2, 動摩擦係數 μ k = 0.18, 求下列作用力時, 各情況之摩擦力。 (1) 拉力 P = 5 N,則摩擦力為多少牛頓? (2) 拉力 P = 19 N,則摩擦力為多少牛頓? (3) 拉力 P = 30 N,則摩擦力為多少牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 ∑ Fy = 0, N - 100 = 0。∴ N = 100 牛頓 最大靜摩擦力 fs max = μ s N = 0.2 × 100 = 20 N"
+        },
+        {
+          "type": "heading",
+          "text": "∴拉力要大於 20 N 物體才會動"
+        },
+        {
+          "type": "heading",
+          "text": "故 (1)(2) 均為靜止,水平推力 = 摩擦力"
+        },
+        {
+          "type": "heading",
+          "text": "所以"
+        },
+        {
+          "type": "heading",
+          "text": "(1) P = 5 牛頓時,摩擦力為 5 牛頓"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) P = 19 牛頓時,摩擦力為 19 牛頓 (3) 拉力 30 牛頓,物體運動,摩擦力 = 動摩擦力 = μ k N = 0.18 × 100 = 18 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 4-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體重 200 牛頓放在水平面上,受一水平力 P 作用,若物體與地面之靜摩擦係"
+        },
+        {
+          "type": "heading",
+          "text": "數 0.6;動摩擦係數 0.55,試求"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 當 P = 118 牛頓時之摩擦力?"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 當 P = 125 牛頓時之摩擦力?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 133"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-2 題型:斜向作用力求摩擦力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,拉力 100 N,若物體與地面之靜摩擦係數 0.4,試求摩擦力為多少牛"
+        },
+        {
+          "type": "heading",
+          "text": "頓?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 ∑ Fy = 0, N + 80 - 280 = 0,∴ N = 200 牛頓 fs max = μ s N = 0.4 × 200 = 80 牛頓 > 60 牛頓,所以物體靜止"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦力為 60 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 4-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,重 170 N 之物體置於水平面上,若物體與水平面間之靜摩擦係數為"
+        },
+        {
+          "type": "heading",
+          "text": "0.4,今用 50 N 的拉力作用之,則其摩擦力為多少牛頓?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "134"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 1. 摩擦力與接觸面積之大小成"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 正比 (B) 反比 (C) 平方反比 (D) 無關。 ( ) 2. 摩擦力之大小與下列何者成正比? (A) 接觸面積大小 (B) 接觸面之 正壓力大小 (C) 滑動之速度 (D) 接觸時間。 ( ) 3. 當物體置於水平面,受水平推力 P 作用,令物體與平面之間摩擦力為 f, 如圖所示為水平推力為 P 與摩擦力 f 之關係示意圖, 下列何者正確? (A) 在區間 (I),物體是運動的 (B) fb 是最大靜摩擦力 (C) fa 是動摩 擦力 (D) q 角度一定是 45°。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 有一滑塊重量為 100 N,靜置於水平面上如圖所示,若滑塊與地面間 之靜摩擦係數 0.4, 動摩擦係數 0.35, 當水平力 P = 45 N 作用於滑塊時, 摩擦力為多少牛頓? (A) 35 (B) 40 (C) 45 (D) 20。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 135"
+        },
+        {
+          "type": "heading",
+          "text": "4-3 摩擦角與靜止角"
+        },
+        {
+          "type": "heading",
+          "text": "1. 摩擦角 f (angle of friction)"
+        },
+        {
+          "type": "paragraph",
+          "text": "一物體置於粗糙平面上,受一拉力作用,即將滑動時之 總反力 R ( 正壓力與最 大靜摩擦力之合力 )( 圖 4-3) 與正壓力 N 之夾角 f,稱為摩擦角 ( 圖 4-4)。 靜摩擦 係數等於摩擦角之正切值,且摩擦角越大摩擦係數越大。靜摩擦係數 μ = tan φ"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-3 總反力示意圖 ▲ 圖 4-4 摩擦角與摩擦係數和正壓力之關係"
+        },
+        {
+          "type": "heading",
+          "text": "μ N"
+        },
+        {
+          "type": "paragraph",
+          "text": "證明:由圖 4-4 摩擦角與摩擦係數和正壓力之關係∴ tan φ = = μ"
+        },
+        {
+          "type": "heading",
+          "text": "N"
+        },
+        {
+          "type": "heading",
+          "text": "2. 靜止角 q (angle of repose)"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體置於一傾斜面上除了本身重量及斜面反作用力外,無其他外力作用時, 如斜面傾斜角度逐漸增加至 q 角時,斜面上之物體開始下滑,則 開始下滑的角度 定義為靜止角,如圖 4-5 所示。 摩擦角等於靜止角,其正切值等於摩擦係數,即 φ = θ, tan φ = tan θ = μ。斜面之傾斜角若小於靜止角,物體不會下滑。 證明:由 Σ Fy = 0, N − Wcos θ = 0, N = Wcos θ ∴ f s max = μ N = μ W cos θ 剛好下滑,由 Σ Fx = 0, W sin θ − fs max = 0, ∴ f s max = W sin θ = μ W cos θ,"
+        },
+        {
+          "type": "heading",
+          "text": "sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "∴ μ = = tan θ = tan φ,"
+        },
+        {
+          "type": "heading",
+          "text": "cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "∴靜止角 = 摩擦角"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-5 靜止角"
+        },
+        {
+          "type": "heading",
+          "text": "3. 若摩擦角 f,則 P 與地面夾角 a 時, 當 f = a 時, P 拉力最小即可拉動物體。"
+        },
+        {
+          "type": "paragraph",
+          "text": "若 f = 20 ° 時,當 a = 20 ° 時, P 拉力最小即可使物體移動,如圖 4-6 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-6 最小拉力"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "136"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-3 題型:靜止角與摩擦係數"
+        },
+        {
+          "type": "paragraph",
+          "text": "重 20 N 之物體置於一斜面上,當其如圖所示,物體將 開始向下滑動,試求物體與接觸面間之靜摩擦係數。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "物體開始下滑之角度為靜止角"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "∴ μ S = tan θ = = 0.75"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 4-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "若物體間之摩擦係數為 1 時,其摩擦角為若干度?靜止角為多少度?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-4 題型:摩擦角與摩擦係數"
+        },
+        {
+          "type": "paragraph",
+          "text": "重 10 kgw 之梯子斜靠於牆壁及地面上,當梯子之傾斜情 形如圖所示時,梯子剛好開始沿牆壁滑下,若牆壁為光滑"
+        },
+        {
+          "type": "heading",
+          "text": "而地面為粗糙面,則梯子與地面間之摩擦係數為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "求摩擦係數可利用摩擦角定義。 ( 當三力平衡時,三力不"
+        },
+        {
+          "type": "heading",
+          "text": "平行一定交於一點 )"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "μ = tan φ = ( 由 μ = tan f )"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 137"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 4-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,使一均質桿重 W 剛好保持即將滑動瞬間時,則桿與地面之摩"
+        },
+        {
+          "type": "heading",
+          "text": "擦係數為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 若一物體置於斜面上,當斜面之傾斜角逐漸增加至物體開始下滑時之"
+        },
+        {
+          "type": "heading",
+          "text": "傾斜角 q 時,則物體與接觸面間的靜摩擦係數為?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) cos q (B) tan q (C) csc q (D) sec q。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 2. 摩擦係數等於摩擦角之"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 正切值 (B) 餘切值 (C) 正割值 (D) 餘割值。 ( ) 3. 若物體置於粗糙之水平面上,若其摩擦角為 30°,則其靜摩擦係數為"
+        },
+        {
+          "type": "heading",
+          "text": "1 3 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) 3 (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 若有一甲蟲在半圓形碗裡欲爬出來,無論"
+        },
+        {
+          "type": "heading",
+          "text": "往哪個方向爬,最高只能爬到與圓心垂直"
+        },
+        {
+          "type": "heading",
+          "text": "軸成 37° 角的位置便往下滑,如右圖所示,"
+        },
+        {
+          "type": "heading",
+          "text": "則甲蟲和碗之間的靜摩擦係數為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "3 4 3 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "4 3 5 5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "138"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 欲拖動置於水平地面上之重物,如右圖所示,若"
+        },
+        {
+          "type": "heading",
+          "text": "地面與此物間之摩擦角為 30°,則拖動繩方向與"
+        },
+        {
+          "type": "heading",
+          "text": "水平面之夾角 a 為幾度時,作用力 P 最小即可"
+        },
+        {
+          "type": "paragraph",
+          "text": "拉動物體? (A) 0° (B) 30° (C) 45° (D) 60°。 ( ) 6. 如圖所示重量分別為 W 及 2W 的兩個物體,一個置於光滑桌面上、 另一個靠於牆壁且底部並無支撐,施加水平作用力 P 將兩物體推向牆 壁,兩物體間、物體與牆壁之摩擦係數均為 μ。欲使靠牆的物體不會 產生滑動或掉落,則作用力 P 必須滿足下列何種條件? (A) P ≥ W/(2 μ ) (B) P ≥ W/ μ (C) P ≥ 2 μ W (D) P ≥ μ W。"
+        },
+        {
+          "type": "heading",
+          "text": "4-4 滑動摩擦"
+        },
+        {
+          "type": "heading",
+          "text": "1. 滑動摩擦"
+        },
+        {
+          "type": "paragraph",
+          "text": "若物體為滑動摩擦 (sliding friction) 時,因受力的作用不同而產生相對運動或 有運動之趨勢,其運動形式如下。 ( 一物體重 W 放置水平面上受一水平推力 P 時 )"
+        },
+        {
+          "type": "heading",
+          "text": "物體受外力作用仍為靜止時,"
+        },
+        {
+          "type": "heading",
+          "text": "1. 物體靜止不動時"
+        },
+        {
+          "type": "paragraph",
+          "text": "此時推力等於摩擦力。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 139"
+        },
+        {
+          "type": "heading",
+          "text": "物體即將開始產生滑動,此時"
+        },
+        {
+          "type": "heading",
+          "text": "產生之摩擦力稱為最大靜摩擦"
+        },
+        {
+          "type": "heading",
+          "text": "2. 物體即將滑動時 力, 當外力或外力之合力大於"
+        },
+        {
+          "type": "heading",
+          "text": "或等於最大靜摩擦力時,物體"
+        },
+        {
+          "type": "paragraph",
+          "text": "才會運動。"
+        },
+        {
+          "type": "heading",
+          "text": "當外力大於最大靜摩擦力時,"
+        },
+        {
+          "type": "heading",
+          "text": "物體便產生滑動,此時所產生"
+        },
+        {
+          "type": "heading",
+          "text": "3. 物體開始滑動時 之摩擦力稱為動摩擦力。 動摩"
+        },
+        {
+          "type": "heading",
+          "text": "擦力不因外力增加而增加,為"
+        },
+        {
+          "type": "paragraph",
+          "text": "一定值。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 當作用力 P 平行於斜面拉動物體時之探討"
+        },
+        {
+          "type": "heading",
+          "text": "sin( α + φ )"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-7 (a) 物體上滑, f 向下此時 P = W"
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        },
+        {
+          "type": "heading",
+          "text": "sin( α − φ )"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 物體下滑, f 向上此時 P = W"
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "140"
+        },
+        {
+          "type": "paragraph",
+          "text": "若斜面與水平面之夾 a 角,物體重 W,靜摩擦係數 μ,摩擦角 f。"
+        },
+        {
+          "type": "heading",
+          "text": "sin φ"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當物體沿斜面上滑時,至少出力 P 之求法,如圖 4-7(a) 所示。 μ = tan φ ="
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        },
+        {
+          "type": "heading",
+          "text": "sin( α + φ )"
+        },
+        {
+          "type": "heading",
+          "text": "物體 上滑 時作用力 P = W"
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        },
+        {
+          "type": "heading",
+          "text": "證明:"
+        },
+        {
+          "type": "paragraph",
+          "text": "當物體上滑,摩擦力 f 向下。 由 ∑ Fy = 0, N − W cos α = 0, N = W cos α 由 ∑ Fx = 0, W sin α + f − P = 0, P = f + W sin α = μ W cos α + W sin α"
+        },
+        {
+          "type": "heading",
+          "text": "sin φ"
+        },
+        {
+          "type": "heading",
+          "text": "= W( × cos α + sin α )"
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "= W( )(sin φ cos α + cos φ sin α )"
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        },
+        {
+          "type": "heading",
+          "text": "sin( α + φ )"
+        },
+        {
+          "type": "heading",
+          "text": "= W"
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        },
+        {
+          "type": "heading",
+          "text": "sin( α − φ )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 當物體沿斜面 下滑 時,如圖 4-7(b) 所示,則 P = W"
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        },
+        {
+          "type": "heading",
+          "text": "證明:"
+        },
+        {
+          "type": "paragraph",
+          "text": "當物體下滑,摩擦力 f 向上。 由 Σ Fy = 0, N − W cos α = 0, N = W cos α 由 Σ Fx = 0, P + f − W sin α = 0,"
+        },
+        {
+          "type": "heading",
+          "text": "P = W sin α − μ N"
+        },
+        {
+          "type": "heading",
+          "text": "sin φ"
+        },
+        {
+          "type": "heading",
+          "text": "= W sin α − ( W cos α )"
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "= W (sin α cos φ − cos α sin φ )"
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        },
+        {
+          "type": "heading",
+          "text": "sin( α − φ )"
+        },
+        {
+          "type": "heading",
+          "text": "= W"
+        },
+        {
+          "type": "heading",
+          "text": "cos φ"
+        },
+        {
+          "type": "heading",
+          "text": "3. 作用力 P 平行於水平面時"
+        },
+        {
+          "type": "paragraph",
+          "text": "作用力 P 為水平力,沿斜面上推一重量為 W 的物體,若物體與斜面間之摩擦 係數為 μ,摩擦角為 f,斜面與水平夾角為 a,則 (1) 上滑 時之最小作用力 P = W tan( α + φ )。 (2) 若物體剛好沿斜面 滑下,則 P = W tan( α − φ )。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 141"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-8 摩擦力方向"
+        },
+        {
+          "type": "heading",
+          "text": "證明:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 物體上滑, f 向下,如圖 4-8(a) 所示。 由 Σ Fy = 0, P sin α + W cos α − N = 0, N = P sin α + W cos α 由 Σ Fx = 0, P cos α − f − W sin α = 0 P cos α = f + W sin α = μ ( P sin α + W cos α ) + W sin α P (cos α − μ sin α ) = W (sin α + μ cos α )"
+        },
+        {
+          "type": "heading",
+          "text": "W (sin α + μ cos α )"
+        },
+        {
+          "type": "heading",
+          "text": "P =, ( 利用上下除以 cos a )"
+        },
+        {
+          "type": "heading",
+          "text": "cos α − μ sin α"
+        },
+        {
+          "type": "paragraph",
+          "text": "W (tan α + μ ) W (tan α + tan φ ) P = = = W tan( α + φ ) ( ∵ μ = tan f ) 1 − μ tan α 1 − tan φ tan α (2) 物體下滑, f 向上,如圖 4-8(b) 所示。 由 Σ Fy = 0, P sin α + W cos α − N = 0, N = P sin α + W cos α 由 Σ Fy = 0, P cos α + f − W sin α = 0"
+        },
+        {
+          "type": "heading",
+          "text": "P cos α + f = W sin α"
+        },
+        {
+          "type": "paragraph",
+          "text": "P cos α + μ ( P sin α + W cos α ) = W sin α ∴ P (cos α + μ sin α ) = W (sin α − μ cos α )"
+        },
+        {
+          "type": "heading",
+          "text": "W (sin α − μ cos α )"
+        },
+        {
+          "type": "heading",
+          "text": "P =, ( 利用上下除以 cos a ):"
+        },
+        {
+          "type": "heading",
+          "text": "cos α + μ sin α"
+        },
+        {
+          "type": "paragraph",
+          "text": "W (tan α − μ ) W (tan α − tan φ ) P = = = W tan( α − φ ) ( ∵ μ = tan f ) 1 + μ tan α 1 + tan φ tan α"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-5 題型:移動物體的作用力與摩擦係數"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,物體質量 14 kg 若 g = 10 m/s,水平面靜摩擦係數 μ = 0.3,則要使"
+        },
+        {
+          "type": "heading",
+          "text": "物體滑動所需的最小作用力 P 為多少牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "重量 W = mg =14 × 10 = 140 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "由物體之自由體圖,"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, N − 140 + P = 0"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "N = 140 − P = 140 − 0 8. P"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fx = 0, P − f = 0, 0 6. P = 42 − 0 24. P"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "0 84. P = 42"
+        },
+        {
+          "type": "heading",
+          "text": "∴ P = 50 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 4-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,一物體重 230 N 若施力 50 N 可使物體開始移動,求靜摩擦係數。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 143"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-6 題型:求移動相疊物體的最小作用力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示 ( 所有接觸面靜摩擦係數 μ 均為 0.2),要拉動 200 N 之 B 物體運動時,"
+        },
+        {
+          "type": "heading",
+          "text": "P 至少為多少牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "由 A 物體之自由體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, N1 − 100 = 0, N1 = 100 N ∑ Fx = 0, T − f 1 = 0, T = f 1 = μ N 1 = 0 2. × 100 = 20 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "由 B 物體自由體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 ∑ Fy = 0, N 1 + 200 − N 2 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "N 2 = 100 + 200 = 300 牛頓"
+        },
+        {
+          "type": "paragraph",
+          "text": "f 2 = μ N 2 = 0 2. × 300 = 60 牛頓 由 ∑ Fx = 0, P - f1 - T - f2 = 0 P = f1 + T + f2 = 20 + 20 + 60 = 100 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 4-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示 ( 所有接觸面摩靜擦係數 μ 均為 0.2),要拉動 200 N 運動時, P 至少"
+        },
+        {
+          "type": "heading",
+          "text": "為多少牛頓?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "144"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-7 題型:移動不傾倒的最大高度"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,靜摩擦係數為 μ,物體寬為 b,重為 W,今有一 水平力作用於其上,試求使物體恰能滑動而不傾倒的 P 力"
+        },
+        {
+          "type": "heading",
+          "text": "為多少?作用點之最高位置 h 為何?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "由物體之自由體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 ∑ Fy = 0, N − W = 0, N = W, f = μ N = μ W 由 ∑ Fx = 0, P − f = 0, P = f = μ W"
+        },
+        {
+          "type": "heading",
+          "text": "b b"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 ∑ M A = 0, P × h − W × = 0, P × h = W ×"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "b b"
+        },
+        {
+          "type": "heading",
+          "text": "μ W h ⋅ = W ×,∴ h ="
+        },
+        {
+          "type": "heading",
+          "text": "2 2 μ"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 4-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "均質長方形物體如圖所示,寬 40 cm、高 70 cm、重量為 200 N,物體與地面間 之靜摩擦係數為 0.4,當施加 P 力可使物體移動而不致傾倒時,則最大高度 h"
+        },
+        {
+          "type": "heading",
+          "text": "為多少 cm?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 145"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-8 題型:推動梯子的作用力"
+        },
+        {
+          "type": "paragraph",
+          "text": "梯子與地面靜摩擦係數 μ 1 = 0.25,梯子與牆壁之靜 摩擦係數 μ 2 = 0.2,欲使梯子向右運動,則推力 P 至"
+        },
+        {
+          "type": "heading",
+          "text": "少要多少牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "由梯子之自由體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ M B = 0, 100 × 1 5. + 0 2. N A × 3 − N A × 4 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "heading",
+          "text": "∴ N A ="
+        },
+        {
+          "type": "heading",
+          "text": "3 4."
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, N B − 100 − 0 2. N A = 0"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "paragraph",
+          "text": "N B = 100 + 0 2. N A = 100 +"
+        },
+        {
+          "type": "heading",
+          "text": "3 4."
+        },
+        {
+          "type": "heading",
+          "text": "7 5."
+        },
+        {
+          "type": "heading",
+          "text": "f B = 0 25. N B = 25 +"
+        },
+        {
+          "type": "heading",
+          "text": "3 4."
+        },
+        {
+          "type": "heading",
+          "text": "30 7 5."
+        },
+        {
+          "type": "paragraph",
+          "text": "[ 由 0 25 100. ( + ) = 25 + ]"
+        },
+        {
+          "type": "heading",
+          "text": "3 4. 3 4."
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fx = 0, P − 0 25. N B − N A = 0"
+        },
+        {
+          "type": "heading",
+          "text": "7 5. 150"
+        },
+        {
+          "type": "paragraph",
+          "text": "P = 0 25. N B + N A = ( 25 + ) + = 71.3 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "3 4. 3 4."
+        },
+        {
+          "type": "heading",
+          "text": "練習題 4-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,梯重 40 N,直牆為光滑面,梯與地板之靜摩擦係數為 0.4,今欲使"
+        },
+        {
+          "type": "heading",
+          "text": "梯子開始向右運動,試求所需 P 力之大小?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-9 題型:斜面平衡的作用力範圍"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,重 200 N 之物體置於斜面上,若物體與斜面間之靜摩擦係數為 0.5, 試求 (1) 推動物體上滑之水平力 P 至少為若干牛頓? (2) 若要阻止物體下滑, P 至少為若干牛頓? (3) 物體在斜面平衡時 P 之範圍為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 物體上滑 f 向下,由物體之自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 ∑ Fy = 0, N − 160 − P = 0, N = 160 + P"
+        },
+        {
+          "type": "heading",
+          "text": "5 5"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "f = μ S N = 0 5. × [ 160 + P ] = 80 + 0 3. P"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fx = 0, P − f − 120 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "paragraph",
+          "text": "0 8. P − ( 80 + 0 3. P ) − 120 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "0.5P = 200,∴ P = 400 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 物體下滑 f 向上,由物體之自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "由 Σ Fy = 0, N = 160 + P,"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "paragraph",
+          "text": "f = μ N = 0 5. N = 80 + 0 3. P 由 Σ Fx = 0, 0 8. P + f − 120 = 0, 0 8. P + ( 80 + 0 3. P ) = 120"
+        },
+        {
+          "type": "heading",
+          "text": "400"
+        },
+        {
+          "type": "heading",
+          "text": "1.1P = 40,∴ P = 36.36 = 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) ∴ 36.36 < P < 400,物體靜止。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 摩擦 147"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 4-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,一重 100 N 之方形物體置於斜面上,其物體與斜面間之靜摩擦係數 為 0.3,求能使 100 N 之方形物體剛好不動, W 重量範圍為多少牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 聖誕老公公的兩隻麋鹿在吵架,以角對角使力互相推擠對方。若甲鹿 步步進逼,乙鹿節節敗退,則下列有關作用力的敘述,何者正確? (A) 甲鹿對乙鹿的施力應大於乙鹿對甲鹿的施力 (B) 乙鹿對甲鹿的施 力等於甲鹿所受的合力 (C) 甲鹿對乙鹿的施力等於甲鹿所受的合力 (D) 地面對甲鹿的摩擦力大於地面對乙鹿的摩擦力。 ( ) 2. A、 B 兩物體與水平面間之靜摩擦係"
+        },
+        {
+          "type": "heading",
+          "text": "數皆為 0.3,今有水平力 35 牛頓作用"
+        },
+        {
+          "type": "heading",
+          "text": "於 A 物體上,若 A 物體之質量為 10"
+        },
+        {
+          "type": "paragraph",
+          "text": "公斤, B 物體之質量為 8 公斤, F = 35 牛頓,則 A、 B 間的正向力為"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "多少牛頓? (g = 10 公尺 / 秒 ) (A) 5 (B) 10 (C) 30 (D) 35。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 一箱子寬 1 公尺、高 3 公尺、 100 kgw,置於 一平面上受一水平作用力 P 如圖。若平面靜摩"
+        },
+        {
+          "type": "heading",
+          "text": "擦係數為 0.3,則當箱子即將傾倒而不滑動時,"
+        },
+        {
+          "type": "heading",
+          "text": "x 至少為多少公尺?"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 2.5 m (B) 2 m (C) 1.5 m (D) m。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 一重量為 20 kgw 之均勻鐵梯 AB, A 端置於具摩"
+        },
+        {
+          "type": "heading",
+          "text": "擦阻力之粗糙地面, B 端靠在光滑無摩擦力之牆"
+        },
+        {
+          "type": "paragraph",
+          "text": "面。若 A 端位置恰距牆面 2 m 時鐵梯開始滑動"
+        },
+        {
+          "type": "heading",
+          "text": "( 如圖所示 ),則地面與鐵梯間之靜摩擦係數為?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 0.20 (B) 0.25 (C) 0.30 (D) 0.35。 ( ) 5. 如圖所示,滑塊重量 W = 130 N 置於斜面,滑塊 與斜面之間具有靜摩擦係數 μ = 0.2,如圖示拉力 F 欲使滑塊不下滑, 求拉力 F 至少為多少 N? (A) 26 (B) 74 (C) 36 (D) 64。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 如圖所示,物塊 A 之重量為 260 N,已知該物塊與斜面間之靜摩擦係 數為 0.2,則欲阻止該物塊而使其沿斜面往下移動所需之最小水平力 P 為多少 N? (A) 52 (B) 104 (C) 175 (D) 205。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "4-1 1. 當兩物體有相對運動或有滑動的傾向時,其接觸面上,會產生阻礙相對運動或 滑動傾向之力,稱之為 摩擦力。 摩擦力與物體運動方向相反,且 表面愈粗糙者, 摩擦力也愈大。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 摩擦力可以分為 靜摩擦力、動摩擦力 及 滾動摩擦力。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 靜摩擦力:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 靜摩擦力:物體在非光滑面受力作用時,仍處於靜止狀態,沒有滑動 現象。此摩擦力稱為靜摩擦力。若物體在水平面上受力而靜止,則此 時靜摩擦力等於水平作用力。 2 最大靜摩擦力:物體受力後,即將滑動之瞬間,此時之摩擦力稱為最 大靜摩擦力 f s max。當物體在水平面上,則有效水平作用力大於或等於 最大靜摩擦力時物體才會滑動。 (2) 動摩擦力:物體在平面上受力產生運動時接觸面的摩擦力。 (3) 滾動摩擦力:物體在平面上滾動時,其接觸面所產生之阻力, 滾動摩擦力 小於動摩擦力和最大靜摩擦力。"
+        },
+        {
+          "type": "heading",
+          "text": "水 平 推 物 體 時, 水 平"
+        },
+        {
+          "type": "heading",
+          "text": "作 用 力 與 摩 擦 力 的 關"
+        },
+        {
+          "type": "heading",
+          "text": "係圖"
+        },
+        {
+          "type": "heading",
+          "text": "4-2 3. 摩擦定律:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 摩擦力與摩擦係數僅與接觸面的性質有關,與接觸面積的大小無關。 (2) 兩接觸面間之 摩擦力與接觸面正壓力之大小成正比,摩擦係數不因正壓力 之增減而改變。 (3) 動摩擦係數必小於靜摩擦係數,且與物體運動之速度無關。 (4) 動摩擦力小於最大靜摩擦力。"
+        },
+        {
+          "type": "heading",
+          "text": "149"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 動摩擦力的大小與相對速度大小無關。 (6) 一般溫度的變化,對摩擦力的影響甚小。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 摩擦係數:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 靜摩擦係數 ( μ s ): 最大靜摩擦力 (f s max ) 與正壓力 (N) 之比值,稱為靜摩擦 係數。"
+        },
+        {
+          "type": "heading",
+          "text": "最大靜摩擦力 f s max = μ s N"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 動摩擦係數 ( μ k ):動摩擦力與接觸面正壓力之比,稱為動摩擦係數。"
+        },
+        {
+          "type": "heading",
+          "text": "動摩擦力 f k = μ k N"
+        },
+        {
+          "type": "heading",
+          "text": "5. 摩擦係數 μ = 0 時為完全光滑面, μ = ∞ 時為完全粗糙面, 故摩擦係數之範圍為"
+        },
+        {
+          "type": "paragraph",
+          "text": "0 < μ < ∞。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 靜摩擦係數 > 動摩擦係數。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 最大靜摩擦力 > 動摩擦力 > 滾動摩擦力。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 正壓力與接觸面垂直。"
+        },
+        {
+          "type": "paragraph",
+          "text": "4-3 9. 摩擦角 f:總反力 R ( 正壓力與最大靜摩擦力之合力 ) 與正壓力 N 之夾角 f, 稱為摩擦角。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 靜止角 q:斜面上之物體開始下滑為 q 角時,則 q 角定義為靜止角。摩擦角等"
+        },
+        {
+          "type": "paragraph",
+          "text": "於靜止角,其 正切 值均等於 摩擦係數,即 摩擦角 f = 靜止角 q, μ = tan q = tan f。 4-4 11. 滑動摩擦:若物體為滑動摩擦時,因受力的作用不同而產生相對運動或有運動 之趨勢,其形式如下。 物體受外力作用仍為靜止時,即 推力或外力之合力小於最大靜摩擦"
+        },
+        {
+          "type": "heading",
+          "text": "物體靜止不動"
+        },
+        {
+          "type": "paragraph",
+          "text": "力時,此時推力或外力之合力等於摩擦力。 物體即將開始產生滑動,此時產生之摩擦力稱為最大靜摩擦力, 當"
+        },
+        {
+          "type": "heading",
+          "text": "物體即將滑動時"
+        },
+        {
+          "type": "paragraph",
+          "text": "外力或外力之合力等於最大靜摩擦力,物體才會運動。 當外力大於最大靜摩擦力時,物體便產生滑動,此時所產生之摩"
+        },
+        {
+          "type": "heading",
+          "text": "物體開始滑動"
+        },
+        {
+          "type": "paragraph",
+          "text": "擦力稱為動摩擦力。動摩擦力不因外力增加而增加,為一定值。"
+        },
+        {
+          "type": "heading",
+          "text": "150"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "火車增加車輪的摩擦力 ( 抓地力 )"
+        },
+        {
+          "type": "heading",
+          "text": "火車頭為什麼要比車廂重很多?"
+        },
+        {
+          "type": "paragraph",
+          "text": "火車車輪與鐵軌都是鋼鐵製造,而且滾動摩擦力很小,火車頭的驅動時要拉很多節車廂,如果發 生打滑的話,就會影響到火車頭的驅動力而無法驅動。驅動力太大時,車輪會出現打滑現象,由摩擦 力公式得知:「增加正向力就可以增加最大靜摩擦力」,所以只要驅動力小於最大靜摩擦力,車輪就 不會發生打滑了。火車增加最大靜摩擦力方法,就是增加火車頭的重量也就是使正向力變大。"
+        },
+        {
+          "type": "heading",
+          "text": "車重: 16410 kg"
+        },
+        {
+          "type": "paragraph",
+          "text": "來源: http://blog.xuite.net/sujaushi/twblog1/119021343"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "151"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "4-1 ( ) 1. 當一物體放置水平面上,並受水平拉力 P 之作用,在發生運動前物體與"
+        },
+        {
+          "type": "heading",
+          "text": "水平面間摩擦力之大小與拉力 P 之大小"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 沒有關係 (B) 成正比 (C) 成反比 (D) 始終為定值。 ( ) 2. 為了安全考量,一般腳踏車或汽、機車輪胎的表面都有胎紋。當胎紋的 磨損嚴重時,必須更換新輪胎,下列何者是輪胎有胎紋的主要原因?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 多樣化的胎紋,使輪胎看起來比較美觀"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 可減少製造輪胎所需的材料,降低成本"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 雨天時,地面的積水可自胎紋縫隙流走,避免車子打滑 (D) 減少輪胎與地面的接觸面積,以降低行車時輪胎的磨損。 ( ) 3. 在正常狀況下,下列何者的摩擦力愈小愈好?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 走路時,鞋子與地面之間的摩擦力"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 滑雪時,滑雪板與雪地之間的摩擦力"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 使用工具時,手與工具手把之間的摩擦力"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 騎腳踏車煞車時煞車板與輪子之間的摩擦力。 ( ) 4. 滑塊 A 與滑塊 B 水平堆疊置放於水平面 C 上,如 右圖所示,滑塊 A 與滑塊 B 間之最大靜摩擦力為 f 1,滑塊 B 與平面 C 間之最大靜摩擦力為 f 2,今施 一大小為 P 的水平力於滑塊 A 上,若 f 1 < f 2 < P, 則 滑 塊 A 與 B 如 何 運 動? (A) A 和 B 都 不 動 (B) A 和 B 都 會 動 (C) A 不動, B 會動 (D) A 會動, B 不動。 4-2 ( ) 5. 摩擦的知識以及摩擦係數是如何得來的? (A) 實驗 (B) 純理論分析 (C) 畫自由體圖 (D) 圖解。 ( ) 6. 一大小相等之 F 力作用於同一鐵塊,均可使鐵塊在水平面上移動,下列"
+        },
+        {
+          "type": "heading",
+          "text": "哪一種情況鐵塊所受的摩擦力最小?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B) (C)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 三者均相同。"
+        },
+        {
+          "type": "heading",
+          "text": "152"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 下列有關物體與接觸面間摩擦力之敘述,何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 靜摩擦力等於靜摩擦係數乘以正壓力之值"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 一般而言摩擦力之方向與物體在接觸面上之運動方向相反"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 接觸面間之相對速度愈大,其動摩擦力愈小"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 接觸面之正壓力愈大,其摩擦角會愈大。 ( ) 8. 一物體 2 kgw,置於與水平夾角 30 ° 之斜面上,除重力外無其他外力作用, 物體與斜面間之靜摩擦係數為 1。則物體與斜面之摩擦力為多少牛頓? (A) 9.8 (B) 9 8. 3 (C) 1 (D) 3。 ( ) 9. 質量 2 kg 的物塊以 20 m/s 之初速衝上仰角 60 ° 之長斜面,物塊與斜面間 之動摩擦係數為 0.3,求物塊上滑所受之動摩擦力約多少? (A) 6 牛頓 (B) 3 牛頓 (C)0.6 牛頓 (D)0.3 牛頓。 ( ) 10. 重為 120 N 之梯子斜靠於光滑牆壁及粗糙地面上, 梯子長度為 10 m,當梯子之傾斜情形如圖所示時,"
+        },
+        {
+          "type": "heading",
+          "text": "梯子剛好開始沿牆壁滑下,則梯子與地面間之靜摩"
+        },
+        {
+          "type": "heading",
+          "text": "擦係數為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 0.2 (B) 0.25 (C) 0.325 (D) 0.375。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "4-3 ( ) 11. 如圖所示,若靜摩擦係數為,則當 q 逐漸增"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "加時,使物體 W 欲下滑之最小角度 q 為?"
+        },
+        {
+          "type": "heading",
+          "text": "− 1 1 − 1 3"
+        },
+        {
+          "type": "heading",
+          "text": "(A) cos ( ) (B) tan ( )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "− 1 1 − 1 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) sin ( ) (D) cot ( )。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 12. 如圖所示,均勻棒重 W,斜置於光滑鉛直牆,若棒與地面 靜摩擦係數為 0.5,則棒能平衡的最大 q 角為? (A) 60 ° (B) 53 ° (C) 45 ° (D) 37 °。"
+        },
+        {
+          "type": "heading",
+          "text": "153"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "4-4 ( ) 13. 如圖所示,將一重量為 30 N 之物體 A 置於一"
+        },
+        {
+          "type": "heading",
+          "text": "斜面上,其兩端分別用兩彈簧加以支撐,並維"
+        },
+        {
+          "type": "heading",
+          "text": "持靜力平衡,若彈簧一與彈簧二受力狀態分別"
+        },
+        {
+          "type": "paragraph",
+          "text": "為受 4 N 之壓力 8 N 之拉力,試問此時物體 A"
+        },
+        {
+          "type": "heading",
+          "text": "所受之摩擦力為多少 N?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 3 (B) 4 (C) 18 (D) 22。 ( ) 14. 如圖所示,兩木塊質量分別為 M 與 m"
+        },
+        {
+          "type": "heading",
+          "text": "由一輕繩和一無摩擦之定滑輪連接,若"
+        },
+        {
+          "type": "heading",
+          "text": "所有接觸面之靜摩擦係數均為 μ,則欲"
+        },
+        {
+          "type": "heading",
+          "text": "使此系統開始向右運動,所需的最小拉"
+        },
+        {
+          "type": "heading",
+          "text": "力 F 應力為何?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (3 M + m) μ g (B) (M + 3 m) μ g (C) (M + 2 m) μ g (D) (2 M + m) μ g。 ( ) 15. 如圖所示的長方形物體,質量為 100 kg,受一向右 400 N 的水平力 Q 作用,已知地板與物體間的靜摩擦 係數為 0.45,且此水平力 Q 的作用點距離地面的高 度 h = 6 m,則該物體將會處於下列何種狀態?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 靜止不動 (B) 滑動"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 向右傾倒 (D) 向左傾倒。 ( ) 16. 如圖所示,圓柱重 600 N,牆為光滑面,圓柱與水平面 之靜摩擦係數為 0.2,不致使圓柱體轉動之最大 P 時之"
+        },
+        {
+          "type": "heading",
+          "text": "A 點作用力為多少牛頓?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 200 N (B) 400 N (C) 600 N (D) 800 N。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 17. 三方塊重 W 1 = 100 N、 W 2 = 200 N、 W 3 = 300 N, W 1"
+        },
+        {
+          "type": "heading",
+          "text": "受一牆阻擋其向左運動,已知所有接觸面之靜摩擦"
+        },
+        {
+          "type": "paragraph",
+          "text": "係數均為 μ = 0.1,如圖所示試求水平力 P 要多大才"
+        },
+        {
+          "type": "heading",
+          "text": "能拉動 W 2 向左移動?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 20 N (B) 30 N (C) 40 N (D) 70 N。"
+        },
+        {
+          "type": "heading",
+          "text": "154"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch04/p030.jpg"
+    }
+  ]
+}

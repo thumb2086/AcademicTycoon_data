@@ -1,0 +1,101 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH02",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH02_001",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "0 % 18 %",
+      "image_url": "",
+      "options": [
+        "",
+        "(D) 18-8 (A) (B)",
+        "",
+        "18-8 (A) (B) (C) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_002",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "DIN",
+        "BS",
+        "ANSI",
+        "JIS 2-2 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_003",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "SAE1030",
+        "SAE1313",
+        "SAE4023",
+        "SAE3140 (A)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_004",
+      "subject": "機械製造",
+      "unit": "2-2",
+      "q": "SNCM241",
+      "image_url": "",
+      "options": [
+        "",
+        "(D) 學後評量 (A)SAEI 340 (B) St34",
+        "",
+        "學後評量 (A)SAEI 340 (B) St34 (C)SKI (D)AIS13140 S45C S22C (D)S45C S22C )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_005",
+      "subject": "機械製造",
+      "unit": "2-2",
+      "q": "CNS",
+      "image_url": "",
+      "options": [
+        "P",
+        "T",
+        "F",
+        "W (A)S45C ss450 (C)S45C S22C (B) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_006",
+      "subject": "機械製造",
+      "unit": "2-2",
+      "q": "(D) (D) (B)",
+      "image_url": "",
+      "options": [
+        "",
+        "(A) (A) (A) (A) (A) (B) (A) (A) (B) (A)SUP(B)SCM",
+        "",
+        "(D) (B) (A) (A) (A) (A) (A) (B) (A) (A) (B) (A)SUP(B)SCM(C)SKH (B) (B) (A) (A) (B) (B) (B) (D) (B) (D) 55"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

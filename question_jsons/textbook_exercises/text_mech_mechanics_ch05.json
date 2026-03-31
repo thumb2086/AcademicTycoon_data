@@ -1,0 +1,101 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH05",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_001",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "6 m/s 10 m/s 10 m/s2",
+      "image_url": "",
+      "options": [
+        "75",
+        "125",
+        "175",
+        "240 1 (A)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_002",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "7 m/s 學後評量",
+      "image_url": "",
+      "options": [
+        "",
+        "(D) (A) (B) (D) 40 5 一 2 40 (A) (B) (D) (A) (B)",
+        "",
+        "(A) (B) (D) 40 5 一 2 40 (A) (B) (D) (A) (B) (C) (D) (A) (B)SI (D) VI 公尺 / 分 ) 30 825 t ( 分 ) (A) 25 (B) 30 (C) 35 (D) 40 0 10 30 4 cn 04 1 0-1 一 4 0 s 40 s (A) 80 (B) 90 10 20 30 40 (C) 100 時間 ( s ) (D) 120 194 學後評量 a(m/s2) 4 0-20 m/s 35 (A) 110 (B) 130 (C) 120 (D) 140 t(s) 20 40 a(m /s2) (A) 4 一 3 m/s t(s) 6 m/s2 (B) 4 2 4"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_003",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "25",
+      "image_url": "",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "400 10 40 (A) 6(B) 8(C) 10 (D) 12 2 公尺 / 秒 2 10 公尺 / 秒 40 公尺 (A) 5(B) 10 (C) 15 (D) 25 (A) (B) (C) (D) 195 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_004",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "△ S3 △ SI △ SI △ S2 △ S3 △ S2",
+      "image_url": "",
+      "options": [
+        "111",
+        "123",
+        "135",
+        "149 40 m V="
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_005",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "2g cosO 2g sinO 2v0",
+        "(D)",
+        "",
+        "(C) 2S g cos 0 2S g sin 0 3v0 (A) ) 18 (A) (B) (B) (D)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_006",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "5 196 20 /",
+        "30 /",
+        "13 m/s 25 /",
+        "14 學後評量"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

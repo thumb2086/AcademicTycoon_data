@@ -1,0 +1,4565 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH09",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH09",
+    "title": "CH9"
+  },
+  "title": "機械製造 Chapter 9 工作機械",
+  "source_pdf": "機械製造/CH9PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH09",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        },
+        {
+          "type": "heading",
+          "text": "工作機械"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "9-1 車床"
+        },
+        {
+          "type": "heading",
+          "text": "9-2 鑽床與搪床"
+        },
+        {
+          "type": "heading",
+          "text": "9-3 鋸床及拉床"
+        },
+        {
+          "type": "heading",
+          "text": "9-4 銑床"
+        },
+        {
+          "type": "heading",
+          "text": "9-5 磨床"
+        },
+        {
+          "type": "heading",
+          "text": "9-6 電腦數值控制機械"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "72"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械工廠的加工方式仍然以傳統式切削加工為主。胚料應依其不同的形狀與特性,而 選用適當的 工作母機 (Machine Tools) 來加工。例如,圓柱形的工件以車床加工最適合;方 塊形工件則以銑床來加工;一般之內孔加工宜選用鑽床,大孔徑且精度要求高者,宜選用 搪床;形狀特殊而需大量生產的內孔件則大都採用拉床;鋸床則大都用於胚料的鋸切;精 度要求高的零件,或熱處理硬化後的機件精修,通常選用磨床; CNC 工作機械則是目前機 械工廠的主流機器,可執行高精度、高效率及高複雜性機件的彈性加工工作。"
+        },
+        {
+          "type": "heading",
+          "text": "9-1 車床"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床 (Lathes) 是使用歷史最久,且應用最廣的工具機。其工作方式是以夾具夾持工件, 再以主軸驅動旋轉。而單尖車刀由刀座帶動,進行縱向、橫向、斜向,以及曲線等移動, 以除去不要的材料,完成所需的切削加工。車床的切削工作包括:外圓、端面、內孔、錐度、 螺紋、壓花、圓球、鉸孔、鑽孔、攻絲、切槽及切斷等。"
+        },
+        {
+          "type": "heading",
+          "text": "9-1-1 車床的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了適應各種不同的加工要求,車床的型式也就有各種不同的設計,一般車床依其工"
+        },
+        {
+          "type": "heading",
+          "text": "作的特質可分為下列五種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 機力車床 (Engine Lathes)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 六角車床 (Turret Lathes)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 凹口車床 (Gap Lathes)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 立式車床 (Vertical Lathes)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 自動車床 (Automatic Lathes)"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "搪床 P99"
+        },
+        {
+          "type": "paragraph",
+          "text": "搪床以旋轉的刀具將已有的孔擴大至所需尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "攻絲 P172"
+        },
+        {
+          "type": "paragraph",
+          "text": "以螺絲攻在內孔中攻製螺紋。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 73"
+        },
+        {
+          "type": "heading",
+          "text": "一、機力車床"
+        },
+        {
+          "type": "paragraph",
+          "text": "機力車床如圖 9-1 所示,即一般所稱之普通車床。規格表示法主要為下列三項: (1) 旋 徑; (2) 兩心間距離; (3) 床台長度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-1 機力車床 ( 圖片取自三興機器公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "二、六角車床"
+        },
+        {
+          "type": "paragraph",
+          "text": "六角車床又名轉塔車床,如圖 9-2 所示,是將普通車床的尾座部分改成六角轉塔,切 削刀具依加工程序裝置在轉塔各面,依序轉至切削位置,執行切削工作;此式機器最適用 於大量生產工作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-2 六角車床 ( 圖片取自 BANKS MACHINE)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "74"
+        },
+        {
+          "type": "heading",
+          "text": "三、凹口車床"
+        },
+        {
+          "type": "paragraph",
+          "text": "凹口車床如圖 9-3 所示,床軌未連接至車頭,形成一凹口,以增大其旋徑。 此種機器 適用於加工直徑較大而長度較短的工件,其夾頭大都用花盤,故又稱為花盤車床。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-3 凹口車床 ( 圖片取自三興機器公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "四、立式車床"
+        },
+        {
+          "type": "paragraph",
+          "text": "立式車床係為加工大型且笨重之工件而設計,其加工物之直徑可大至數公尺。操作時, 工件裝置在旋轉台上,繞直立的軸心旋轉。車刀裝在工具頭,沿橫樑上的床軌橫向移動車 削工件的端面;沿直立的軌道垂直縱向移動車削工件的外徑。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-4 立式車床 ( 圖片取自油機工業股份有限公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 75"
+        },
+        {
+          "type": "heading",
+          "text": "五、自動車床"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動車床如圖 9-5 所示,通常由凸輪組控制微動開關,使工件桿料能自動送裝。刀具 能自動按加工程序及路徑進行切削,並於切削完成後自動回復,繼續按上述之加工程序進 行下一個工作循環;全部加工過程均不須假手人工而得名。此式機器係專為大量生產而設 計。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-5 自動車床 ( 圖片取自忠群機械公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "9-1-2 車床的基本構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床的構造如圖 9-6 所示,係由 頭座 (Head Stock)、 床台 (Bed)、 刀具溜座 (Carriage) 及 尾座 (Tail Stock) 組成。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-6 車床的基本構造 ( 圖片取自協聖機械公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "76"
+        },
+        {
+          "type": "heading",
+          "text": "一、頭座"
+        },
+        {
+          "type": "paragraph",
+          "text": "頭座永久固定在床台的左側,內裝中空主軸及傳動機構,用來裝置工件及帶動工件迴 轉。 齒輪變速箱變速時,微轉夾頭有利齒輪咬入。用右手旋轉夾頭,左手撥動變化桿。"
+        },
+        {
+          "type": "heading",
+          "text": "二、床台"
+        },
+        {
+          "type": "paragraph",
+          "text": "床台是以鑄鐵鑄造而成的車床基座,右端支撐尾座,中間則提供刀具溜座滑行的軌道。 床台上方有四條床軌、內軌用於支持尾座,外軌可支持刀座。"
+        },
+        {
+          "type": "heading",
+          "text": "三、刀具溜座"
+        },
+        {
+          "type": "paragraph",
+          "text": "刀具溜座如圖 9-7 所示,可藉手動或自動使其在床軌上滑動。刀具溜座包含床帷和床 鞍兩大部分,床台前方的部分為床帷;而在床軌上方的部分稱為床鞍。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-7 刀具溜座 ( 取材自參考書目 (23)) 床鞍部分包含橫滑台、複式刀座及刀架等裝置。 床鞍本身可在床軌上沿軸向縱向進刀, 進行外徑車削,並且可以控制車削長度。橫滑台置於床鞍上,前後移動橫向進刀,進行端 面車削,並且可以控制工件直徑大小。 複式刀座置於橫滑台上,可利用旋轉件轉一角度斜向進刀,進行錐度車削。 調整複式 刀座的角度應使用六角扳手。刀架則是用來裝置車刀的部分。 床帷部分包含縱向進刀手輪、自動進刀裝置及車螺紋傳動裝置。 縱向進刀手輪藉著手 輪上之齒輪與床台底下之齒條作用,可促使床鞍縱向移動。 自動進刀裝置可控制縱向與橫 向自動進刀。床台下方的梯形牙導螺桿則可配合半離合螺帽用以車製螺紋。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 77"
+        },
+        {
+          "type": "heading",
+          "text": "四、尾座"
+        },
+        {
+          "type": "paragraph",
+          "text": "尾座位於床台的右側,可沿床軌左右移動,以配合工件不同的長度。尾座分為上座與 下座,上座可藉偏位螺絲的調整,與下座偏一距離,適用於二頂心間工作,以便切削錐度。 上方的心軸前端有 莫斯 (Morse) 錐度孔,可裝置頂心,用以支持工件;亦可裝置鑽頭、鉸 刀及螺絲攻,進行內孔加工。 在車床上鑽孔、攻螺絲與鉸孔,應將尾座鎖固在床軌上,尾座心軸鎖緊扳手則處於鬆 弛狀態。作兩心間工作時,除將尾座鎖固在床軌之外,還要將心軸鎖緊扳手扳緊。"
+        },
+        {
+          "type": "heading",
+          "text": "9-1-3 車床之規格"
+        },
+        {
+          "type": "heading",
+          "text": "1. 旋徑:例如規格為 350 mm,表示旋徑為 350 mm,即可車削直徑 350 mm 之工件。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 兩心間距離:表示可車削工件之長度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 床台長度"
+        },
+        {
+          "type": "heading",
+          "text": "4. 床面寬度、主軸前端錐度、主軸孔錐度、主軸孔徑、主軸轉速範圍、縱向與橫向進"
+        },
+        {
+          "type": "paragraph",
+          "text": "刀範圍、裝箱尺寸 ( 長 × 寬 × 高 ) ⋯。"
+        },
+        {
+          "type": "heading",
+          "text": "9-1-4 工件的夾持器"
+        },
+        {
+          "type": "paragraph",
+          "text": "車削加工須依不同的工作性質,選用適當的夾持方式。車床常見的夾持方式有:兩頂 心間夾持、夾頭夾持、扶料架夾持、花盤夾持及套軸夾持等多種。茲分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "一、兩頂心間夾持"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-8 所示,工件以雞心夾頭夾緊,然後支頂在活頂心與死頂心 ( 硬度較高 ) 之間, 由驅動盤帶動雞心夾頭而迴轉。此種夾持方式大都用來夾持長形工件。 兩頂心間夾持不可作切斷、鑽孔、鉸孔、搪孔與攻絲等加工。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-8 兩頂心間工作"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "78"
+        },
+        {
+          "type": "heading",
+          "text": "二、夾頭夾持"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件以夾頭夾持之情形,如圖 9-9 所示,此種夾持方式應用範圍很廣。常見的夾爪驅 動方式有三種:圖 9-10 所示之 三爪夾頭,由螺旋盤同時驅動三個爪,又稱為聯動夾頭,通 常用於夾持圓桿及六角形桿;圖 9-11 所示之 四爪夾頭,早期由四支螺桿分別驅動四個爪, 又名獨立夾頭,現今也有聯動式,可夾持圓桿及四方形桿件,並可調整車偏心;另有油壓 驅動者,常用於 CNC 車床及自動車床之工件夾持。 四爪夾頭與三爪夾頭做比較,其使用範圍較廣、夾持精度較高、夾持力量較大,但是 調整較費時。 夾頭扳手的長度與夾頭大小成正比,必須依照其設計的長度使用,不可任意加長。 夾頭夾爪上的方牙螺桿不可以添加潤滑油,以免螺紋鎖不緊。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-9 夾頭夾持 ▲ 圖 9-10 三爪夾頭 ▲ 圖 9-11 四爪夾頭 ( 圖片取自沅銘企業公司 ) ( 圖片取自沅銘企業公司 ) ( 圖片取自沅銘企業公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "三、扶料架夾持"
+        },
+        {
+          "type": "paragraph",
+          "text": "細長之工件為了避免車削時受車刀之徑向推力而偏開,宜以扶料架夾持,扶料架有如 下兩種:圖 9-12 所示之 固定式扶料架有三個扶料爪,使用時裝在床軌上,又稱為中心架; 圖 9-13 所示之 從動式扶料架有兩個扶料爪,使用時裝在床鞍上,隨車刀移動而支持工件, 又稱為跟刀架。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-12 固定式扶料架 ▲ 圖 9-13 從動式扶料架"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 79"
+        },
+        {
+          "type": "heading",
+          "text": "四、花盤夾持"
+        },
+        {
+          "type": "paragraph",
+          "text": "花盤又稱為面盤,如圖 9 - 14 所示,用於夾持尺寸大且形狀不規則之工件;例如大型 的自來水肘管及偏心機件。以花盤夾持工件時,應注意平衡問題,必要時可在偏重邊的對 面裝置平衡鐵塊。花盤常以 T 槽螺栓鎖住輔助夾具 ( 如圖 9-14 中藍色部分 ) 以便配合多樣 化的工件外形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-14 以花盤夾持偏心機件 ( 取材自參考書目 (25))"
+        },
+        {
+          "type": "heading",
+          "text": "五、套軸夾持"
+        },
+        {
+          "type": "paragraph",
+          "text": "套軸又稱為工軸, 用於夾持長度短且直徑大的工件,例如齒輪胚料及皮帶輪。圖 9-15 所示者,即是齒輪胚的加工例,首先將略具錐度之套軸壓入齒輪胚的孔中,獲得適當的緊 度配合;然後再將套軸頂在兩頂心間,以驅動盤驅動雞心夾頭來帶動套軸。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "自來水肘管 上冊 P105"
+        },
+        {
+          "type": "heading",
+          "text": "上 冊 圖 3-55 之 自 來 水 肘 管"
+        },
+        {
+          "type": "heading",
+          "text": "是以包模鑄造法中的脫蠟法"
+        },
+        {
+          "type": "heading",
+          "text": "所製作而成,其以蠟做成模"
+        },
+        {
+          "type": "heading",
+          "text": "型,再包覆砂或石膏做成鑄"
+        },
+        {
+          "type": "heading",
+          "text": "模,然後加熱將蠟熔化掉,"
+        },
+        {
+          "type": "heading",
+          "text": "而留下與蠟模型完全相同的"
+        },
+        {
+          "type": "heading",
+          "text": "模穴以供澆鑄,故又稱為去"
+        },
+        {
+          "type": "paragraph",
+          "text": "蠟法或失蠟法。可用於製造"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-15 以套軸夾持齒輪胚"
+        },
+        {
+          "type": "paragraph",
+          "text": "形狀複雜之鑄件。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "80"
+        },
+        {
+          "type": "heading",
+          "text": "9-1-5 車刀的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "車刀是車床的切削工具,屬於單鋒刀具,為了應付不同的工作需要,車刀的形狀有多 種不同的設計,如圖 9-16 所示者,為整體式高速鋼車刀的形狀,茲分別說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "一、左手車刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "刃口在右側,車削時車刀由左向右進刀;用於車削外徑及圓錐。"
+        },
+        {
+          "type": "heading",
+          "text": "二、右手車刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "刃口在左側,車削時車刀由右向左進刀;用於車削外徑及圓錐。"
+        },
+        {
+          "type": "heading",
+          "text": "三、圓頭車刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "刃口為圓弧形,車削時車刀可向左或向右進刀;用於車削內徑、外徑、端面、圓錐及 曲面體 ( 如手輪之把手、圓球等 )。"
+        },
+        {
+          "type": "heading",
+          "text": "四、左手削面車刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "用以車削工件的左端面及左肩角,其刀頂刃角應小於 90 度,且刀口為尖形。"
+        },
+        {
+          "type": "heading",
+          "text": "五、右手削面車刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "用以車削工件的右端面及右肩角,其刀頂刃角應小於 90 度,且刀口為尖形。"
+        },
+        {
+          "type": "heading",
+          "text": "六、螺紋車刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "用以車削內、外螺紋,依其車螺紋牙形的不同,其刀頂刃角有 29 度、 30 度、 45 度、 55 度及 60 度等;刀端部分亦有平形、圓弧形及尖形等多種。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 81"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-16 車刀與各種車削"
+        },
+        {
+          "type": "heading",
+          "text": "七、切斷車刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "用以切斷工件或切槽,其刀鼻部分的寬度較大,向柄部的方向漸小,形成約 2 ~ 3 度 的間隙,以免被工件夾斷。 圖 9-17 所示者,為切斷車刀的三視圖,此種車刀通常不磨邊斜 角。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "82"
+        },
+        {
+          "type": "heading",
+          "text": "八、成形車刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "將車刀磨成所需的形狀,進行一刀成型的切削工作;常用來車削內、外圓弧,以及特 殊曲面的切削。"
+        },
+        {
+          "type": "heading",
+          "text": "九、內孔搪刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "用以車削內孔, 其前隙角應隨孔徑之大小而變化:孔徑大時,其角應小;反之,則大。 圖 9-18 所示者,為此種關係之說明圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-17 切斷車刀 ▲ 圖 9-18 前隙角與孔徑的關係 目前最廣用的碳化鎢或碳化物刀具,可分為端銲式及捨棄式兩種,捨棄式車刀如圖 9-19 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-19 捨棄式車刀"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 83"
+        },
+        {
+          "type": "heading",
+          "text": "9-1-6 一般車削"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床的車削操作,包括:端面車削、外徑車削、肩角車削、錐度車削及螺紋車削、倒 角及圓稜角、切槽、壓花、鑽孔、搪孔及鉸孔等。"
+        },
+        {
+          "type": "heading",
+          "text": "一、端面車削"
+        },
+        {
+          "type": "paragraph",
+          "text": "車削工作的第一步就是車削端面,使端面垂直於工件的中心軸,以便作為量測的基準。 工件可用夾頭夾持或以兩頂心支持。 兩心間車削端面時,應注意調整尾座中心,使與頭座主軸同心。 若尾座偏向操作者, 端面會成凹形;偏離操作者,端面會成凸形, 如圖 9-20 所示。 端面車削時車刀尖應對準工件中心,否則端面會留下凸點。"
+        },
+        {
+          "type": "heading",
+          "text": "二、外徑車削"
+        },
+        {
+          "type": "paragraph",
+          "text": "外徑車削如圖 9-21 所示,車刀沿床軌方向縱向移動,將工件車削成所需大小的直徑。 車刀高度通常要對正工件中心。粗車外徑時,如果車床的剛性不足,當車刀之刀尖低 於工件中心,刀尖會受到如圖 9-22 所示之水平拉力 ( F x ) 作用而插刀。此時宜將刀尖提高至 比工件中心高 5 度;即工件直徑 25mm 時,刀尖約提高 1mm。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-20 尾座偏心對端面形狀的影響"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-21 外徑車削 ▲ 圖 9-22 刀尖位置太低 ( 誇大表示 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "84"
+        },
+        {
+          "type": "paragraph",
+          "text": "刀尖應位於夾持點的後方,以免車削阻力太大時刀尖挖入工件。 橫向進刀環轉一格若 車刀前進 0. 02 mm,則工件直徑會減少 0. 04 mm。在車削中遇到嚴重的鐵屑纏繞時,應停 止機器,再使用鐵屑勾清除。以四爪夾頭夾持圓桿工件時,可利用刀柄、劃線台或量錶作 為參考基準點。在車床上進行銼削時,操作者應儘量靠近尾座以握持銼刀,並且以左手握 持銼刀柄。"
+        },
+        {
+          "type": "heading",
+          "text": "三、壓花 ( 滾紋 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓花又稱為滾紋,如圖 9-23 所示,利用壓花刀在工件面上壓出花紋,可避免用手握持 時滑脫;通常用於手輪之握把及機器之操作桿。壓花是一種擠壓作用,材料受壓後向外擠 出而使外徑增大約 0.4 ∼ 0.8mm,如圖 9-24 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 示意圖 (b) 壓花刀實體圖 ( 圖片取自益佃五金行有限公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-23 壓花"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-24 壓花前後直徑之比較"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓花刀之紋路常見者有直紋及斜紋兩種,其中以斜紋較常用。配合工件直徑的大小, 其花紋有粗、中、細三種:φ 10mm 以下壓細紋;φ 10 ∼ φ 25mm 壓中紋;φ 25mm 以上 壓粗紋。 壓花刀紋路之粗細規格以模數表示, 例如 “ m 0.5 ” 表花紋之模數為 0.5, 紋距為 0.5 π = 1.57mm。 壓花時,壓花刀面應與工件軸心成 0.5 ° ∼ 1 °,且刀把伸出部分儘量縮短,以獲得較大 的支持力。 壓花的工作要領: ( 1 ) 切削速度低; ( 2 ) 刀具縱向進刀大; ( 3 ) 壓痕深; ( 4 ) 壓花道數少, 以一次或兩次完成為宜; ( 5 ) 隨時添加切削劑,以沖除鐵屑及冷卻、潤滑工件。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 85"
+        },
+        {
+          "type": "heading",
+          "text": "四、鑽孔"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件以夾頭夾持,鑽頭裝置在尾座心軸孔中。將尾座鎖固在床軌上,手轉尾座心軸手 輪,驅動鑽頭前進不需旋轉即可鑽出所需之孔徑。車床上鑽孔時應特別注意調整尾座中心, 使對正頭座主軸中心,否則鑽頭會激烈地搖動,甚至折斷。 鉗工工件之鑽孔,必須在鑽削位置打一個中心眼來容納鑽頭之靜點。而車床上之鑽孔 則是以中心鑽先鑽一個凹孔,來替代此中心眼。"
+        },
+        {
+          "type": "heading",
+          "text": "五、錐度車削"
+        },
+        {
+          "type": "paragraph",
+          "text": "將工件車製成錐形, 具有若干作用: (1) 利用摩擦作用所產生的自著性來結合兩機件; (2) 保持兩機件中心成一直線; (3) 裝卸迅速。因此機器的主軸、軸孔及刀柄等,大都製成錐形; 諸如:車床、銑床、鑽床的心軸孔,鑽頭、銑刀及鉸刀的錐柄,車床的頂心等,均為錐度 應用的重要實例。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 錐度的意義"
+        },
+        {
+          "type": "heading",
+          "text": "錐度 (Taper) 常譯成推拔,錐度件兩端之直"
+        },
+        {
+          "type": "heading",
+          "text": "徑大小不同,且有對稱之心軸,大、小徑間之錐"
+        },
+        {
+          "type": "paragraph",
+          "text": "面部分,成均勻的直線性變化,如圖 9-25 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "錐度的大小係以每單位長度的大、小徑差來"
+        },
+        {
+          "type": "heading",
+          "text": "表示,即:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-25 錐度"
+        },
+        {
+          "type": "heading",
+          "text": "D − d"
+        },
+        {
+          "type": "heading",
+          "text": "T ="
+        },
+        {
+          "type": "heading",
+          "text": "l"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "一錐度件的大徑 D = φ 50mm,小徑 d = φ 40mm,錐度長 l = 100mm,求其 錐度。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "D − d 50 − 40 1"
+        },
+        {
+          "type": "heading",
+          "text": "T = = = (mm/mm)"
+        },
+        {
+          "type": "heading",
+          "text": "l 100 10"
+        },
+        {
+          "type": "paragraph",
+          "text": "錐度的單位為 mm/mm,通常省略不寫。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "86"
+        },
+        {
+          "type": "paragraph",
+          "text": "錐度的車削及檢驗時,常須計算其半錐角 ( α )。如圖 9-29 所示,直角三角形 ∆ abc 中,"
+        },
+        {
+          "type": "heading",
+          "text": "D − d"
+        },
+        {
+          "type": "paragraph",
+          "text": "α 角的對邊 ab =,鄰邊 bc = l,由三角關係知:"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "− 1 D − d − 1 T"
+        },
+        {
+          "type": "heading",
+          "text": "α = tan = tan ≈ 28.65T"
+        },
+        {
+          "type": "heading",
+          "text": "2 l 2"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 車錐度"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床上車削錐度,有多種方法可供選用,即: (1) 尾座偏置法; (2) 複式刀座旋轉法; (3) 錐度附件法; (4) 成形刀法; (5) 靠模車削法; (6)CNC 車床程式控制法等,本單元僅說明前 二種方法。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 尾座偏置法"
+        },
+        {
+          "type": "paragraph",
+          "text": "尾座偏置法如圖 9-26 所示,將工件裝置在兩頂心之間,尾座向操作者偏置一距 離,車刀沿床軌方向移動,即可車出右端小,左端大的錐度件。"
+        },
+        {
+          "type": "heading",
+          "text": "D − d D − d l Tl"
+        },
+        {
+          "type": "heading",
+          "text": "S ≈ = × ="
+        },
+        {
+          "type": "heading",
+          "text": "2 2 l 2"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-26 尾座偏置法 ▲ 圖 9-27"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 9-27 所示之錐度長 l,等於工件全長 L;若錐度長僅佔全長之一部分時,公式應寫成:"
+        },
+        {
+          "type": "heading",
+          "text": "TL"
+        },
+        {
+          "type": "heading",
+          "text": "S ="
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件偏轉角太大時,將會破壞頂心及工件的中心孔,故此法適用於車削長度大且錐度 小之工件。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 87"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "欲 以 尾 座 偏 置 法 車 削 全 長 L = 100mm, 錐 度 部 分 長 l = 40mm, 大 徑 D = φ 35mm,小徑 d = φ 33mm 之工件,求尾座偏置量 S。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "D − d 35 − 33 1"
+        },
+        {
+          "type": "heading",
+          "text": "T = = ="
+        },
+        {
+          "type": "heading",
+          "text": "l 40 20"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "× 100"
+        },
+        {
+          "type": "heading",
+          "text": "TL 20"
+        },
+        {
+          "type": "heading",
+          "text": "S = = = 2.5(mm)"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2. 複式刀座旋轉法"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-28 所示,將複式刀座旋轉一角度,斜向移動即可車出錐度, 此法最適合 切削長度小而錐度大之工件。複式刀座之轉角恰為工件的半錐角。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-28 複式刀座偏轉法"
+        },
+        {
+          "type": "heading",
+          "text": "立即練習"
+        },
+        {
+          "type": "heading",
+          "text": "1. 車刀低於工件中心時,為何容易插刀,試繪圖說明之。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 工件的全長 200mm, 大徑 φ 50mm, 小徑 φ 40mm, 錐度部分長 100mm, 求: (1) 錐度、"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 半錐角、 (3) 尾座偏置量。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 何謂進給?車床、鑽床與銑床之進給如何表示?"
+        },
+        {
+          "type": "heading",
+          "text": "4. 簡述兩種車削錐度的方法。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "88"
+        },
+        {
+          "type": "heading",
+          "text": "9-2 鑽床與搪床"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械零件常須依功能的需求而製孔。製孔的方法很多,諸如:鑽孔、搪孔、衝孔、拉 刀拉孔、立式鋸床鋸孔、砂心製孔、鍛造穿孔、 放電加工 (Electrical Discharge Machining, EDM)、 雷射加工 (Laser Beam Machining, LBM)、 電子束加工 (Electron Beam Machining, EBM)、 電化加工 (Electro-Chemical Machining, ECM)、 超音波加工 (Ultrasonic Machining, USM) 及 化學銑切 (Chemical Milling, CHM) 等。這些方法中,最常用到的是鑽孔與搪孔。 鑽床是機械工廠必備的工作母機,可在工件上施以鑽孔、搪孔、鉸孔、攻螺絲、鑽魚 眼、鑽錐坑及鑽柱坑等加工,如圖 9-29 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-29 鑽床的工作項目"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "放電加工 P228"
+        },
+        {
+          "type": "paragraph",
+          "text": "工具與工件分別連接於直流電源的正負兩極,兩極之間隔以絕緣液,通電後產生電火花將工件及工 具局部蒸發或熔解而逐步除去。"
+        },
+        {
+          "type": "heading",
+          "text": "超音波加工 P232"
+        },
+        {
+          "type": "paragraph",
+          "text": "工具超音波震動,驅使磨粒撞擊工件,將工件加工成形。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 89"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽孔之尺寸欲加以擴大時,可再用搪床來搪孔。搪床與鑽床之工作原理相同,均是工 件固定,而刀具作迴轉之切削運動。兩者主要之不同有兩點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑽孔之刀具為鑽頭,而搪孔用搪孔刀。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鑽孔係將實體材料鑽出孔,而搪孔是將鑽孔進一步擴大。"
+        },
+        {
+          "type": "heading",
+          "text": "9-2-1 鑽床的種類"
+        },
+        {
+          "type": "heading",
+          "text": "鑽床依其構造及用途分類,主要有下列數種:"
+        },
+        {
+          "type": "heading",
+          "text": "一、 靈敏鑽床 (Sensitive Drilling Machines)"
+        },
+        {
+          "type": "paragraph",
+          "text": "靈敏鑽床又稱為台式鑽床或檯式鑽床,如圖 9-30 所示。 此式鑽床的主要特色有二:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 裝鑽容量小,通常以 φ 13 mm 以下之鑽頭為主。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 沒有自動進刀裝置,完全靠手工進刀。 工件可用鑽床虎鉗夾持,或直接固定在床台"
+        },
+        {
+          "type": "paragraph",
+          "text": "上。 調整轉數時,主軸必須完全停止運轉。將鬆緊把手拉向操作者,放鬆 V 型皮帶。 皮帶 拆卸移動之順序,須先行以塔輪直徑大端調至直徑小端為原則。皮帶定位後,須使皮帶具 有適當張力,同時鎖緊固定螺絲。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-30 靈敏鑽床 ( 圖片取自良苙機械股份有限公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "二、 直立鑽床 (Upright Drilling Machines)"
+        },
+        {
+          "type": "paragraph",
+          "text": "直立鑽床如圖 9-31 所示,與靈敏鑽床相似,但其結構較強,以齒輪系改變轉速,且有 自動進刀裝置,鑽削直徑大者可達 100 mm,適用於大孔鑽削。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-31 直立鑽床 ( 圖片取自興農工業公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "三、 旋臂鑽床 (Radial Drilling Machines)"
+        },
+        {
+          "type": "paragraph",
+          "text": "旋臂鑽床如圖 9-32 所示,由底座、機柱、旋臂及鑽床頭組成。鑽床頭可在旋臂上左右 滑動,旋臂可繞機柱旋轉並上下移動;利用這些動作,可輕易地將鑽頭移至鑽削位置而不 必移動工件位置, 適用於笨重工件或大面積板材之鑽孔。此式機器之規格以旋臂長度表示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-32 旋臂鑽床 ( 圖片取自偉峻精機公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 91"
+        },
+        {
+          "type": "heading",
+          "text": "四、 排列鑽床 (Gang Drilling Machines)"
+        },
+        {
+          "type": "paragraph",
+          "text": "排列鑽床係將許多鑽床頭裝置在同一床台上,每個鑽軸可裝不同的鑽削刀具。操作時 按加工程序,依序由第一部鑽床加工至最後一部,工作即告完成。適用於大量生產,可免 去重複換刀之時間。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 轉塔鑽床 (Turret Drilling Machines)"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉塔鑽床係將轉軸製成轉塔形,可依工作需要依序裝上不同尺寸或種類的刀具,如鑽 頭、鉸刀、螺絲攻、錐坑鉸刀及魚眼鉸刀等。每完成一項工作時,轉塔即旋轉一個角度, 由次一個刀具進行次一項工作。 此式鑽床的使用目的與排列鑽床相同。圖 9-33 所示者為 CNC 控制之轉塔鑽床,可同時裝置六把刀具。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-33 轉塔鑽床 ( 圖片取自興農工業公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "六、 多軸鑽床 (Multi-spindle Drilling Machines)"
+        },
+        {
+          "type": "paragraph",
+          "text": "多軸鑽床之頭座如圖 9-34 所示, 在鑽床頭上有一個中心齒輪, 其周圍有若干個小齒輪, 每一小齒輪之下有一個轉軸。在鑽床頭下方也有相同數目的轉軸可分別裝置鑽頭,上下兩 軸間用兩個萬向接頭及一個管子軸連接之。下轉軸可應工作之需要而加以調整。此式鑽床 可一次鑽出若干孔,屬於大量生產用的機器。 工件必須用鑽模夾持,並由其上之導套引導 鑽頭,以獲得最大之互換性。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-34 多軸鑽床 ( 圖片取自翰坤五金機械有限公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "92"
+        },
+        {
+          "type": "heading",
+          "text": "9-2-2 鑽頭的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽頭是一種旋轉時頭端有切削能力之刀具,具有一個或多個切刃,及同等數目的槽。 各槽的長度與鑽身之長度相同,槽形可以是直形,也可以是螺旋形,其用途係供注入切削 劑及排出鑽屑。絕大多數的鑽頭皆製成兩個槽,但亦有單槽、三槽及四槽者; 三槽及四槽 統稱為多槽,又名 心型鑽頭 (Core Drills),如圖 9-34-1 所示。 以鑄造法鑄成之心型孔,若 以雙槽鑽頭擴孔,因為只有兩個鑽邊與孔周面接觸,兩點無法決定一個圓,將導致鑽頭不 穩而無法鑽出精密的孔。 若選用多槽鑽頭,除三點以上的接觸穩定性較好之外,多出的切 刃亦可分擔切刃磨損而增加刀具壽命。 較常用的鑽頭,有下列數種:"
+        },
+        {
+          "type": "heading",
+          "text": "一、 蔴花鑽頭 (Twist Drills)"
+        },
+        {
+          "type": "paragraph",
+          "text": "蔴 花鑽頭是最常用的鑽頭,通常均製成雙槽型,其各部分名稱如圖 9-35 所示,可分成"
+        },
+        {
+          "type": "heading",
+          "text": "鑽柄、鑽身及鑽頂三部分,茲說明如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-34-1 心型鑽頭 ( 圖片取自機械公社 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 鑽柄"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽柄為鑽頭之夾持部位,有直柄與錐柄之分。 通常直徑在 φ 13 mm 以下者製成直柄, 以鑽頭夾頭夾持;直徑大於 φ 13 mm 者製成莫斯錐度柄,可直接插入主軸錐孔。錐柄鑽 頭之柄端有一平行部分之舌端,與軸孔末端之平行槽配合,可傳達大的扭力而不虞鬆脫。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 93"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-35 蔴 花鑽頭各部分名稱 ( 示意圖 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 鑽身"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽身最主要之部分為鑽槽,為利於排屑,通常製成螺旋形。 螺旋槽與鑽頭軸線之夾角 稱為螺旋角,此角之作用相當於車刀之斜角,角度愈大排屑愈順利,但刃口之強度愈低; 故此角與工件硬度成反比。 兩鑽槽間之金屬厚度稱為鑽腹,為支持鑽身之部位。為減少進刀之阻力,鑽腹應薄, 但太薄之鑽腹易因軸向壓力產生挫曲而折斷。故通常將鑽腹製成由鑽頂向柄部厚度由薄漸 厚,如圖 9-36 所示,不但可減小鑽削阻力,且可避免挫曲。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-36 (a) 鑽腹的厚度由鑽尖向柄部逐漸增加, 左邊: ▲ 圖 9-37 背隙 靠近鑽尖的鑽腹,右邊:靠近刀柄的鑽腹。"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 愈靠近柄部鑽腹的厚度愈厚"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "94"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽頭徑向最外側的兩段圓弧面稱之為鑽邊,鑽頭之直徑通常即指兩鑽邊間之直徑。為 避免鑽頭與孔周面之摩擦,而將鑽邊後方略微磨凹,形成鑽身間隙。 鑽頭之外徑並非前後一致,而是由鑽頂向柄的方向微微漸減,形成錐度 T = 1: 1000 之背隙;亦即鑽身長為 100 mm 時,前後之直徑差為 0.1 mm,以減少鑽頭在軸向與孔面之 摩擦。圖 9-37 為上段敘述之說明圖。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 鑽頂"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽頂由切邊 ( 鑽唇 )、靜點及鑽唇間隙組成。靜點為兩鑽唇之連線,其長度愈大,軸向 進刀阻力愈大。 兩鑽唇之夾角稱為鑽頂角。此角愈大,切刃之強度愈大。所以鑽削高硬度材料時,應 磨成大的鑽頂角,而軟材料則磨成小鑽頂角。低碳鋼之鑽削通常將鑽頂角磨成 118 度。 鑽頂由鑽唇向後傾斜所形成之間隙稱為鑽唇間隙。 間隙愈大,切刃愈鋒利但強度愈低, 故此角應與工件硬度成反比。低碳鋼之鑽削通常將鑽唇間隙角磨成 8 ° ~ 12 °。 表 9-1 為以高速鋼鑽頭鑽削各種材料所選用之鑽頂角與鑽唇間隙角。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-1 工件,鑽頂角度和鑽唇間隙角"
+        },
+        {
+          "type": "heading",
+          "text": "工件 鑽頂角 鑽唇間隙角 備註"
+        },
+        {
+          "type": "heading",
+          "text": "一般鋼料 118 ° 8 ~ 12 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "合金鋼、不鏽鋼 125 ~ 135 ° 8 ~ 10 °"
+        },
+        {
+          "type": "heading",
+          "text": "鑄鐵 90 ~ 110 ° 12 °"
+        },
+        {
+          "type": "heading",
+          "text": "黃、青銅 118 ° 15 ° 減少螺旋角"
+        },
+        {
+          "type": "paragraph",
+          "text": "鎂鋁合金 110 ° 15 ~ 18 ° 減少螺旋角"
+        },
+        {
+          "type": "heading",
+          "text": "木材 60 ° 15 ~ 20 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "A:鑽頂角,一般為 118 °。 B:鑽唇間隙角,一般為 8 ~ 12 °。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 深孔鑽頭 (Deep-hole Drills)"
+        },
+        {
+          "type": "paragraph",
+          "text": "深孔鑽頭早期用於槍管及砲管之鑽孔,所以又稱為 槍管鑽頭 (Gun Drills)。 此種鑽頭較 細長,為得到較堅固的結構,皆採用單槽形,將鑽頭切除約四分之一做為鑽槽。此外, 為 了方便油孔噴出之切削劑與鑽屑之排出,而將鑽槽作成直槽。鑽刃只有一個,通常為碳化 鎢鑲塊。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 95"
+        },
+        {
+          "type": "paragraph",
+          "text": "槍管鑽頭有空心及實心兩種。空心型之中心為一圓形孔,切削時工件中心保有一圓桿, 可引導鑽頭前進,不易偏心,待工件鑽通之後,將此心桿抽出,此種鑽頭只能鑽削通孔, 如圖 9-38(b) 所示,又名留心槍管鑽頭。實心型如圖 9-38(c) 所示,又名中心切割槍管鑽頭, 可鑽削深的盲孔,由於沒有心桿的引導,穩定性不如前者,所以不能太細長。 槍管鑽頭鑽削時採用高轉速、小進給。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-38 槍管鑽頭 ( 取材自參考書目 (2))"
+        },
+        {
+          "type": "heading",
+          "text": "三、 中心鑽頭 (Center Drills)"
+        },
+        {
+          "type": "paragraph",
+          "text": "中心鑽頭如圖 9-39 所示, 由一小 蔴 花鑽頭與 60 ° 錐孔鉸刀組成,適用於車床上頂心孔 之鑽削。鑽孔位置要求精確以及鑽削大孔時,亦常以中心鑽頭鑽削此定位錐孔。 中心鑽頭 之規格以小 蔴 花鑽頭之直徑表示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "96"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-39 中心鑽頭"
+        },
+        {
+          "type": "heading",
+          "text": "四、 鏟形鑽頭 (Spade Drills)"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-40 所示,鏟頭以高速鋼或碳化鎢製成,另加一鋼製柄桿。 專用於厚工件鑽削大 孔之工作,其鑽削孔徑可大至 φ 400 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 翼形刀具 (Fly Cutter) 與 鋸條式鑽孔刀 (Hole Saw)"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-41 所示,用於薄板上鑽切大孔。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-40 鏟形鑽頭 ( 取材自參考書目 (26))"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-41 薄板鑽削刀具"
+        },
+        {
+          "type": "heading",
+          "text": "9-2-3 工模與夾具"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削加工時,工件必須有適當的夾持方法加以固持。夾持工具可概分為 工模 (Jigs) 與 夾具 (Fixtures) 兩大類。兩者之基本不同, 在於工模有導套可引導刀具前進,並夾持工件。 而夾具只能將工件夾住在正確的加工位置。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 97"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-42 工模"
+        },
+        {
+          "type": "paragraph",
+          "text": "工模如圖 9-42 所示,常用於鑽孔、攻絲、搪孔,以及鉸孔等大量生產之操作上。此種 工具主要係用於鑽孔工作,故又稱為“鑽模”。鑽孔工作使用鑽模,有下列數項功用: (1) 工件不必劃線、衝點,可減少操作時間; (2) 減少鑽頭定位及工件夾持之時間,增加產量; (3) 確保精度; (4) 獲得製品之互換性; (5) 將技術孕育在工具之中,降低人工技術之要求。 夾具係泛指夾持工件之工具,例如:夾頭、虎鉗、 C 型夾、壓板與梯枕、磁性吸盤、 花盤及套軸⋯等。其主要目的為固定工件。 圖 9-43 與圖 9-44 所示者,為各種夾具之使用例。為讓工件於虎鉗上水平夾緊,可用 軟頭鎚敲平工件。 安裝直柄鑽頭時,夾持長度應儘量為鑽柄的全長。 小型工件鑽孔時,工件以虎鉗夾持,再用手抓住虎鉗即可;大型工件則必須以 T 形螺 栓將虎鉗鎖固在床台上。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-43 壓板與梯枕之夾持"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "98"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-44 虎鉗夾持"
+        },
+        {
+          "type": "heading",
+          "text": "9-2-4 鑽孔"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽床的工作項目很多,諸如:鑽孔、鉸孔、切魚眼⋯等,其中最基本、最主要的操作"
+        },
+        {
+          "type": "heading",
+          "text": "就是鑽孔,茲將鑽孔之相關事項說明如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽孔前須依工作條件,選用適當的鑽頭,並磨出正確的角度,磨削時應檢查的項目有 三,即: (1) 兩鑽唇是否等長; (2) 兩鑽唇半頂角是否相等; (3) 鑽唇間隙角是否正確。 鑽唇長度與鑽唇半頂角是否正確,可用如圖 9 - 45 所示之鑽頭規量測。 但是,鑽唇間 隙角是否正確,無法用鑽頭規量測,通常 由鑽頂方向目測鑽唇與靜點之夾角為 120 ° ~ 135 °,即表示鑽唇間隙角為 8 ° ~ 12 °,如圖 9-46 所示。 手動旋轉較大直徑的鑽頭,可以去除以小鑽頭鑽孔後所產生的毛邊。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-45 鑽頭規 ( 取材自參考書目 (26)) 鑽削大孔時可先鑽導孔以減小靜點的鑽削阻力,導孔直徑比靜點長度略大。 小直徑鑽頭進行鑽孔工作時,宜採用高轉速、小進給量。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 99"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-46 鑽唇間隙角之判斷"
+        },
+        {
+          "type": "heading",
+          "text": "9-2-5 搪床"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽孔之尺寸精密度低,真圓度不良,表面比較粗糙,且普通鑽頭之最大直徑不超過 φ 100 mm。欲改善上述缺點,可實施搪孔。搪孔可用銑床、搪床、車床及鑽床等工具機。其 中搪床係專為搪孔而設計,其工作效率及加工精度皆高,特別適用於大型工件及特殊形狀 工件之加工。搪床可分為三種: (1) 工模搪床 (Jig Boring Machines); (2) 臥式搪床 (Horizontal Boring Machines); (3) 立式搪床 (Vertical Boring Machines),茲分別說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "一、工模搪床"
+        },
+        {
+          "type": "paragraph",
+          "text": "工模搪床可作工模、夾具、沖模、量規,以及其他精密工件之鑽孔、搪孔等工作。其 外觀類似銑床,但構造精密。工作台的移動可用光學尺或磁性尺精密的控制與度量至 1 μm"
+        },
+        {
+          "type": "heading",
+          "text": "− 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "(μm = 10 m = 0.001 mm)。如圖 9-47 所示的立式 CNC 搪銑機問世之後,已逐漸取代工 模搪床。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-47 立式 CNC 搪銑機 ( 圖片取自干誠機械股份有限公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "二、臥式搪床"
+        },
+        {
+          "type": "paragraph",
+          "text": "臥式搪床如圖 9-48 所示。轉軸裝在水平位置。切削時刀具旋轉而工件不動,可作水平 方向之搪孔。轉軸可在一定範圍內調整高低位置。工作台可在底座上作縱向及橫向的移動, 調整工件位置;亦可作某種角度的水平旋轉,以因應角度搪孔之需。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-48 臥式搪床 ( 圖片取自 MK 機械公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "三、立式搪床"
+        },
+        {
+          "type": "paragraph",
+          "text": "立式搪床與立式車床相似,其工件裝在水平的旋轉台上,可作面切、垂直切削及搪孔 等工作。刀具裝在滑座上,可作垂直及水平之進給。橫軌可在床柱上升降,調整位置。此 種機器之規格,以旋轉工作台之直徑表示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 101"
+        },
+        {
+          "type": "heading",
+          "text": "9-2-6 搪孔"
+        },
+        {
+          "type": "paragraph",
+          "text": "內孔之 精密度 (Precision) 及表面光度要求很高時,其加工程序按:鑽中心孔→鑽孔 →搪孔→鉸孔之步驟進行,如圖 9-49 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-49 精確圓孔之加工程序"
+        },
+        {
+          "type": "heading",
+          "text": "立即練習"
+        },
+        {
+          "type": "heading",
+          "text": "1. 機械工廠有那些製孔的方法?"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鑽削工作使用鑽模,有那些功用?"
+        },
+        {
+          "type": "heading",
+          "text": "3. 試列舉四種鑽頭。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 繪圖標示鑽頭的鑽頂角、鑽唇間隙角與螺旋角。"
+        },
+        {
+          "type": "heading",
+          "text": "9-3 鋸床及拉床"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械加工的第一步工作,是將長條狀胚料鋸成適當的長度,然後再送到各有關之機械, 作進一步加工。此種工作雖然也可在車床、磨床及銑床上完成,但是不經濟。所以一般工 廠的下料工作,大都選用鋸床來加工。 拉床之切削乃是利用具有連續刀刃的拉刀,以一個衝程將工件加工至所需的形狀及尺 寸。其加工時間以秒計算,製品之精密度及光度均高,最適合大量生產的場合。"
+        },
+        {
+          "type": "heading",
+          "text": "9-3-1 鋸床的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械工廠中常見的鋸床, 如圖 9-50 所示, 依其傳動方式及結構形狀之不同, 可分為三類:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 往復式鋸床 (Reciprocating Sawing Machines)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 圓鋸機 (Circular Sawing Machines)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 帶鋸機 (Band Sawing Machines)。"
+        },
+        {
+          "type": "heading",
+          "text": "茲分別說明如下:"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "102"
+        },
+        {
+          "type": "heading",
+          "text": "一、往復式鋸床"
+        },
+        {
+          "type": "paragraph",
+          "text": "往復式鋸床具有構造簡單、操作方便以及保養費用低廉等優點。但是,其往復行程中, 僅去程有鋸削作用,操作效率較低為其最大缺點。現時已被圓鋸機與帶鋸機取代。 鋸條之規格以「長 ( 兩銷孔中心距 ) × 寬 × 厚-每一吋齒數」表示。 工件硬度低或鋸削面大時應選用粗齒鋸條。鋸條之齒形有三種:直齒如圖 9-51(a) 所示, 沒有後斜角,刃口強度較大,用於鋼、銅與鋁之精密鋸削;爪齒如圖 9-51(b) 所示,有後 斜角,刃口鋒利性高,用於軟金屬的快速鋸削;跳躍齒如圖 9-51(c) 所示,其齒形與直齒相 同,但是齒間較大,可容納較多切屑,用於大截面軟工件之鋸削。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9 - 50 鋸床的種類"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9 - 51 鋸條的齒形"
+        },
+        {
+          "type": "heading",
+          "text": "二、圓鋸機"
+        },
+        {
+          "type": "heading",
+          "text": "圓鋸機依其使用鋸片之不同可分為三種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 金屬圓鋸機。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鋼摩擦盤圓鋸機。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 磨料圓鋸機。"
+        },
+        {
+          "type": "paragraph",
+          "text": "此式鋸床之鋸切動作連續,效率較高。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 金屬圓鋸機"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-52 所示,利用直徑很大的圓盤形鋸片,迴"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-52 金屬圓鋸機"
+        },
+        {
+          "type": "heading",
+          "text": "轉同時向工件進給,切斷材料後退回起始點,準備下一"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片取自德力彎管機械有限公司 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "個工作循環。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 103"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 鋼摩擦圓盤鋸機"
+        },
+        {
+          "type": "paragraph",
+          "text": "高速迴轉的鋼盤與工件摩擦,使工件因高溫而軟化,軟化的材料擠進鋼盤周緣間隔排 列的 2 ∼ 3 mm 深凹槽中,因迴轉鋼盤的離心力而摔出。此法最適合工具鋼、合金鋼與不 鏽鋼等硬材料之鋸削。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 磨料圓鋸機"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨料圓鋸機係以薄砂輪為刀具,高速迴轉產生磨削作用將工件鋸斷。磨料圓鋸機之鋸 削速度比帶鋸機快很多。"
+        },
+        {
+          "type": "heading",
+          "text": "三、帶鋸機"
+        },
+        {
+          "type": "paragraph",
+          "text": "帶鋸機係利用帶狀鋸條為切削刀具,對工件進行鋸削工作。帶鋸機一般可分為立式及 臥式二種。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 立式帶鋸機"
+        },
+        {
+          "type": "paragraph",
+          "text": "立式帶鋸機的工作範圍包括直線、角度及曲線輪廓。如圖 9-53 所示,其鋸條裝置在上、 下安置之兩個導輪上,由上導輪調整帶鋸輪之鬆緊度,下導輪驅動帶鋸條。帶鋸條通常每 捲 30 m 長,使用時應計算其裝置長度而後截斷之。如圖 9-54 所示,其長度為兩倍輪間距 (2 C ) 與導輪圓周長 ( π D ) 之和,再減去 25 mm,即:"
+        },
+        {
+          "type": "heading",
+          "text": "L = π D + 2 C − 25"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-53 立式帶鋸機 ( 圖片取自仕群工業公司 ) ▲ 圖 9-54 鋸條長度之計算"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "104"
+        },
+        {
+          "type": "paragraph",
+          "text": "帶鋸條縮短 25 mm 之目的,係為使鋸條與導輪之間有足夠的張力,以便驅動。鋸條剪 斷後, 掛在兩導輪軸之間, 利用機器上之銲接器及砂輪, 依序進行銲接、 退火及修整等工作。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 臥式帶鋸機"
+        },
+        {
+          "type": "paragraph",
+          "text": "臥式帶鋸機如圖 9-55 所示,其鋸條在水平方向前進,主要用於材料之切斷。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-55 臥式帶鋸機 ( 圖片取自鎂佳機械公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "9-3-2 拉床的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "拉切係利用長條形的拉刀,以一個衝程將工件切削成形的切削操作。拉刀的每一刀齒 在操作時都有切削作用,所以後一齒必較前一齒更大或更高,如圖 9-56 所示。拉切的操作 效率高,但工具價格昂貴,僅適用於大量生產的工作場合。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-56 拉刀的切削動作"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 105"
+        },
+        {
+          "type": "paragraph",
+          "text": "拉床依操作方法的不同,可分為四種: (1) 拉力拉床; (2) 推力拉床; (3) 表面拉床; (4) 連續拉床。茲說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "一、拉力拉床"
+        },
+        {
+          "type": "paragraph",
+          "text": "拉力拉床係將拉刀拉經固定之工件而產生切削作用,其切削動作如圖 9-57 所示。 此式 拉床大都用於栓槽孔、槍管來復線 ( 螺旋形膛線 )、齒輪鍵槽、多角形孔及特殊形狀內孔之 拉削。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-57 拉力拉床的切削作用"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 9-58 所示者為拉力式拉床。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-58 拉力式拉床 ( 圖片取自羽成實業公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "106"
+        },
+        {
+          "type": "heading",
+          "text": "二、推力拉床"
+        },
+        {
+          "type": "paragraph",
+          "text": "推力拉床係以推力將拉刀壓入固定之工件而產生切削作用,其切削作用如圖 9-59 所 示。此式機器所用之拉刀不可過長,以免因 挫曲 (Buckling) 而折斷。齒輪之內孔常以此型 拉床加工,其加工效率及精度、光度均較鉸削為高。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-59 推力拉床的切削作用"
+        },
+        {
+          "type": "heading",
+          "text": "三、表面拉床"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-60 所示,將拉刀裝置在垂直的滑座上,由液壓缸推動而上下往復運動。此式機 器大都使用較寬之拉刀,在工件上加工平面、曲面及凹槽等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-60 表面拉床 ( 取材自參考書目 (4))"
+        },
+        {
+          "type": "heading",
+          "text": "四、連續拉床"
+        },
+        {
+          "type": "paragraph",
+          "text": "連續拉床之拉刀固定不動,一聯串的工件裝置在鏈條輸送帶上,連續不斷的作直線移 動而通過拉刀,產生拉削作用。工件亦可裝置在旋轉中之圓形工作台上,作曲線的移動而 通過拉刀。由於工件係連續不斷的通過拉刀,中間無空檔時間,加工效率最高,但只適用 於表面拉削工作。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 107"
+        },
+        {
+          "type": "heading",
+          "text": "9-3-3 拉削的優點與限制"
+        },
+        {
+          "type": "heading",
+          "text": "一、優點"
+        },
+        {
+          "type": "heading",
+          "text": "1. 粗、精切由一個刀具一次切削完成。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 切削時間以秒計算,生產效率很高。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 工件之內、外面均可加工。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 任何加工面形狀,只要在拉刀上可製出者,皆可加工。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 加工尺寸精確,能維持適當的互換性。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 加工面之光度很高。"
+        },
+        {
+          "type": "heading",
+          "text": "二、限制"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工具價格昂貴,不適合少量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 工件必須妥為支持,才能承受加工時拉刀所施於工件上之力。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 加工面不能有硬點,以免損傷刀口。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 切除量不能太多。"
+        },
+        {
+          "type": "heading",
+          "text": "立即練習"
+        },
+        {
+          "type": "heading",
+          "text": "1. 常見的鋸床有哪幾類?"
+        },
+        {
+          "type": "heading",
+          "text": "2. 說明拉削之優點與限制。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "108"
+        },
+        {
+          "type": "heading",
+          "text": "9-4 銑床"
+        },
+        {
+          "type": "paragraph",
+          "text": "銑床的切削係將多鋒的銑刀裝在刀軸上作迴轉之切削運動,工件則固定在床台上,對 迴轉之銑刀進給而產生切削作用。由於銑刀為多鋒刀具,種類變化多,且床台可作縱向、 橫向、升降及角度之移動,其工作範圍堪稱工具機之最。"
+        },
+        {
+          "type": "heading",
+          "text": "9-4-1 銑床的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "銑床為了不同的加工需求而有不同的型別設計,就基本構造與用途的差異,可將之分"
+        },
+        {
+          "type": "heading",
+          "text": "為下列數類:"
+        },
+        {
+          "type": "heading",
+          "text": "一、 臥式銑床 (Plain Milling Machine)"
+        },
+        {
+          "type": "paragraph",
+          "text": "臥式銑床又稱為普通銑床,如圖 9-61 所示,由底座、機柱、床架、床鞍、床台、旋臂 及驅動機構等七大部分所構成,工件裝在床台上可作縱、橫與上下之移動。 臥式銑床的刀軸平行於水平面,其規格以床台的縱向移動距離表示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-61 臥式銑床 ( 圖片取自聚信機床 )"
+        },
+        {
+          "type": "heading",
+          "text": "二、 立式銑床 (Vertical Milling Machine)"
+        },
+        {
+          "type": "paragraph",
+          "text": "立式銑床如圖 9-62 所示,其結構與臥式銑床相似,床台亦有三方向的移動,最大不同 在於其刀軸垂直於水平面而非平行。切削時大都使用端銑刀或面銑刀,可銑削平面、側面、 凹槽、斜面、鑽孔、搪孔及鉸孔等加工。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 109"
+        },
+        {
+          "type": "paragraph",
+          "text": "目前機械加工廠最常用的銑床為立式銑床。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "端銑刀 P113"
+        },
+        {
+          "type": "paragraph",
+          "text": "其端面及圓周面均有刀齒。可銑"
+        },
+        {
+          "type": "heading",
+          "text": "削平面、側面、凹槽、肩角及鑽"
+        },
+        {
+          "type": "paragraph",
+          "text": "孔,為立式銑床最廣用之銑刀。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-62 立式銑床 ( 圖片取自新虎將機械公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "三、 龍門式銑床 (Planer Milling Machine)"
+        },
+        {
+          "type": "paragraph",
+          "text": "龍門式銑床如圖 9-63 所示,與龍門鉋床相似,但其銑床頭有一迴轉主軸,可裝置面銑 刀,銑削較大之平面,切削效率較高。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-63 龍門式銑床 ( 圖片取自張俊雄企業公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "heading",
+          "text": "四、 萬能銑床 (Universal Milling Machine)"
+        },
+        {
+          "type": "paragraph",
+          "text": "萬能銑床之外表與臥式銑床極為相似,但其工作台可在床鞍上迴轉一角度。配合分度 頭之運用,可作各種螺旋槽之切削,例如:鑽頭、螺旋銑刀及螺旋齒輪等。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 床式銑床 (Bed-type Milling Machine)"
+        },
+        {
+          "type": "paragraph",
+          "text": "床式銑床之工作台直接裝在底座上,左右縱向移動。垂直移動與橫向的調整由銑床頭 為之。 此式銑床的床架固定不能升降,所以剛性極佳,適用於大量生產,可勝任較重之切 削。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "螺旋齒輪 P179"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-4-2 銑刀的種類 又稱為正扭齒輪,具有傳達動力大、 輪齒漸進式接觸,以及噪音小等優點。"
+        },
+        {
+          "type": "heading",
+          "text": "銑刀可依下列三種方式分類:"
+        },
+        {
+          "type": "heading",
+          "text": "一、依安裝方法分"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 心軸銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-64(a) 所示, 銑刀之中心有一孔, 可安裝於臥式刀軸上, 為臥式銑床之專用銑刀。 整體式心軸銑刀以高速鋼製造,鑲刃式則是在高碳鋼的刀體上銲上或鎖上碳化鎢刀片。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 有柄銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-64(b) 所示,銑刀之刀身具有柄,可用彈簧式夾頭夾持,大都用於立式銑床。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 面銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-64(c) 所示,以螺栓鎖在短心軸端, 用於立式銑床或龍門式銑床上銑削大平面。 圖 9-64 所示為捨棄式刀具,尚有整體式刀具如圖 9-66 ∼圖 9-71 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-64 銑刀 ( 捨棄式 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 111"
+        },
+        {
+          "type": "heading",
+          "text": "二、依輪磨方法分"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 輪廓銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "銑刀的圓周面較小,容易磨削,所以一般銑刀鈍化都是修磨圓周面 ( 間隙面 ),如圖 9-65(a) 所示,稱為輪廓銑刀。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 成形銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "成形銑刀如圖 9-65(b) 所示,有特殊的周緣。鈍化時必須修磨徑向面 ( 傾角面 ),避免 改變銑刀的成形輪廓。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-65 銑刀之磨削"
+        },
+        {
+          "type": "heading",
+          "text": "三、依外形及功能分"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 平銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "平銑刀呈圓筒狀,其圓周面上有刀齒,側面無刀齒,如圖 9-66 所示, 是臥式銑床最常 用的銑刀。此種銑刀中央有孔,孔中有鍵槽可裝入臥式銑床之刀軸。刀刃部分有直齒及螺 旋齒兩種。齒寬在 20 mm 以內者製成直齒,其製造及重磨均較便利。 齒寬大於 20 mm 者 製成螺旋齒,切削時刀刃與工件面以漸進方式接觸,較不會產生震動。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-66 平銑刀"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "112"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 側銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "側銑刀如圖 9-67 所示,除圓周部分有刀齒之外,側面亦有刀齒,可用於銑削側面、溝 槽、及平行面之騎銑。其刀齒有直齒、交錯齒及螺旋齒三種。交錯齒相鄰兩刀口間的橫向 力可彼此抵消,適用於重切削工作。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-67 側銑刀"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 角銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "角銑刀如圖 9-68 所示,用於銑削角度槽,有單角及雙角兩種。由於角銑刀之尖端很脆 弱,所以 應選用上銑法,以免撞斷刀尖,同時應選用低轉速與小進給,以減輕刀尖之負荷。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-68 角銑刀"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 113"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 鋸割銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋸割銑刀如圖 9-69 所示,其外形與平銑刀或側銑刀相似,但厚度較薄,用於切斷工件 或銑切窄深槽。 此種銑刀由外周向中心厚度漸減,形成側面間隙,可避免銑刀被工件夾斷。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-69 鋸割銑刀 ▲ 圖 9-70 成形銑刀"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 成形銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "成形銑刀如圖 9-70 所示,係專為加工特定之外形而設計之銑刀,例如:內、外圓槽、 齒輪、鏈輪及螺紋等。"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 端銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "端銑刀如圖 9 - 71 所示,其端面及圓周面均有刀齒。可銑削平面、側面、凹槽、肩角 及鑽孔, 為立式銑床最廣用之銑刀。選用平口或球頭端銑刀,亦可利用五軸綜合切削中心 機或 CNC 銑床銑削出 3D 曲面或圓柱。直徑小者製成直柄,直徑大者製成錐柄。銑削內槽 時應注意選用上銑法,以免插刀。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-71 端銑刀 ( 取材自參考書目 (27))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "114"
+        },
+        {
+          "type": "heading",
+          "text": "( 七 )T 形槽銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "T 形槽銑刀如圖 9-72 所示, 用於銑削 T 形槽,其圓周面及兩側面均有刀齒。 T 形槽銑 削如圖 9-73 所示, 先以端銑刀銑出明槽 ( 直槽 ),再以 T 形槽銑刀銑出暗槽。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-72 T 形槽銑刀"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-73 T 形槽銑削"
+        },
+        {
+          "type": "heading",
+          "text": "( 八 ) 半月鍵座銑刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "半月鍵座銑刀如圖 9-74 所示, 其外形與 T 形槽銑刀相似,但兩側面均無刀齒,用於銑 削半月鍵座時,可避免加大鍵座之寬度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-74 半月鍵座銑刀"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 115"
+        },
+        {
+          "type": "heading",
+          "text": "9-4-3 銑削工作"
+        },
+        {
+          "type": "paragraph",
+          "text": "銑削工作須考慮銑削方向、銑削速度及進給速度等,茲分別說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "一、銑削方向"
+        },
+        {
+          "type": "paragraph",
+          "text": "銑削時,由於銑刀迴轉方向與工件進給方向的相對關係,可分為上銑法與下銑法兩種, 如圖 9-75 所示。 上銑法又稱為逆銑法,如圖 (a) 所示,其銑刀之迴轉方向與工件進給方向 相逆,適用於粗切削。下銑法又稱為順銑法,如圖 (b) 所示,其銑刀之迴轉方向與工件進 給方向相順,適用於精切削。 表 9-2 為上、下銑法之優缺點比較。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-75 銑削方向"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-2 上銑法與下銑法之比較"
+        },
+        {
+          "type": "heading",
+          "text": "銑削方向"
+        },
+        {
+          "type": "heading",
+          "text": "上銑法 下銑法"
+        },
+        {
+          "type": "heading",
+          "text": "項目"
+        },
+        {
+          "type": "heading",
+          "text": "切屑形成 由薄而厚 由厚而薄"
+        },
+        {
+          "type": "paragraph",
+          "text": "刀口受力 漸近式,刀口不易碰損 刀口易受撞擊而崩裂"
+        },
+        {
+          "type": "heading",
+          "text": "刀具壽命 刀口易磨損,壽命短 刀口壽命長"
+        },
+        {
+          "type": "heading",
+          "text": "切削震動 易生震動 不易震動"
+        },
+        {
+          "type": "heading",
+          "text": "加工面 有震紋 無震紋"
+        },
+        {
+          "type": "heading",
+          "text": "進給動力 費力 省力"
+        },
+        {
+          "type": "paragraph",
+          "text": "陷刀危險 不易陷刀 ( 插刀 ) 容易陷刀 ( 插刀 )"
+        },
+        {
+          "type": "heading",
+          "text": "胚面銑削 適合 不適合"
+        },
+        {
+          "type": "heading",
+          "text": "工件夾持 不易 容易"
+        },
+        {
+          "type": "heading",
+          "text": "銑薄工件 不適合 適合"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "116"
+        },
+        {
+          "type": "heading",
+          "text": "二、銑削速度與進刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "銑削速度係指銑刀最外周上任意點的切線速度,以 m/min 表示。銑削速度與工件硬度 成反比,而與刀具硬度成正比。 進刀是指工件對銑刀的移動速度,以 mm/min 表示。粗切之進刀大,精切之進刀小。"
+        },
+        {
+          "type": "heading",
+          "text": "進刀速度可由下式求得:"
+        },
+        {
+          "type": "paragraph",
+          "text": "fm = fr × N = ft × Tc × N"
+        },
+        {
+          "type": "heading",
+          "text": "式中 fm:每分進刀 (mm/min)"
+        },
+        {
+          "type": "heading",
+          "text": "fr:每轉進刀 (mm/rev)"
+        },
+        {
+          "type": "heading",
+          "text": "ft:每齒進刀 (mm/t)"
+        },
+        {
+          "type": "heading",
+          "text": "Tc:銑刀刃數 ( 刃 )"
+        },
+        {
+          "type": "heading",
+          "text": "N:銑刀轉數 (rpm)"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "以直徑 100 mm 之碳化鎢銑刀銑削鋼料,選用之銑削速度為 100 m/min,若每 齒進刀 0.2 mm,刀刃數為 8,求每分進刀。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "1000 V 1000 × 100"
+        },
+        {
+          "type": "heading",
+          "text": "N = = = 318 rpm"
+        },
+        {
+          "type": "heading",
+          "text": "π D π × 100"
+        },
+        {
+          "type": "paragraph",
+          "text": "fm = ft × Tc × N = 0.2 × 8 × 318 = 508.8 mm/min"
+        },
+        {
+          "type": "heading",
+          "text": "三、銑削工作"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 平銑"
+        },
+        {
+          "type": "paragraph",
+          "text": "平銑如圖 9-76 所示,將平銑刀裝在臥式銑床的刀軸上,銑削工件的平面。選擇平銑刀 之寬度宜較工件略大,而 直徑宜選小的,其切削行程較短,如圖 9 - 77 所示。粗銑選用齒 數少的銑刀,有較大的容屑空間;精銑則選用齒數多的銑刀。若使用螺旋銑刀時,應注意 讓工件的軸向推力指向機柱邊,如圖 9-78 所示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 117"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-76 平銑 ▲ 圖 9-77 銑削行程"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-78 軸向推力指向機柱邊"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 騎銑"
+        },
+        {
+          "type": "paragraph",
+          "text": "騎銑又稱為跨銑,如圖 9-79 所示, 係利用兩片側銑刀,同時銑削兩平行側面的工作。 四角頭或六角頭常以此法銑成,如圖 9-80 所示,六角頭的對邊寬與圓桿直徑之關係為:"
+        },
+        {
+          "type": "heading",
+          "text": "S = d cos α"
+        },
+        {
+          "type": "heading",
+          "text": "式中 S:六角頭對邊寬 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "d:圓桿直徑 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "α:六角頭為 30 °;四角頭為 45 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件與銑刀側面輕輕接觸以後,沿銑刀軸向移至正確銑削位置之距離 L 為:"
+        },
+        {
+          "type": "heading",
+          "text": "d S"
+        },
+        {
+          "type": "heading",
+          "text": "L = + + l"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "式中 l:銑刀之厚度 (mm)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "118"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-79 騎銑 ▲ 圖 9-80 騎銑六角頭"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "以 20 mm 厚之兩片側銑刀,在 50 mm 之圓桿上銑削六角形頭,求: (1) 最大對 邊寬; (2) 圓桿與銑刀外側輕輕接觸後,應移動多少 mm 至正確的銑削位置。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) S = d cos α = 50 cos30° = 43.3 mm"
+        },
+        {
+          "type": "heading",
+          "text": "d S 50 43.3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) L = + + l = + + 20 = 66.65 mm"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 排銑"
+        },
+        {
+          "type": "paragraph",
+          "text": "排銑又稱為群銑, 如圖 9-81 所示, 係將兩片或兩片以上的心軸銑刀裝在同一銑刀軸上, 將工件之成形面一次銑成,圖中所示者為車床床軌的銑削情形。 排銑時應以最大外徑的銑 刀計算最低轉速,而以最少齒數的銑刀來計算每分最小進刀量。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-81 排銑"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 119"
+        },
+        {
+          "type": "heading",
+          "text": "四、銑削時間"
+        },
+        {
+          "type": "heading",
+          "text": "1. 面銑或端銑 ( 圖 9-82)"
+        },
+        {
+          "type": "heading",
+          "text": "L l + D"
+        },
+        {
+          "type": "heading",
+          "text": "T = ="
+        },
+        {
+          "type": "heading",
+          "text": "fm fm"
+        },
+        {
+          "type": "heading",
+          "text": "式中 T:銑削時間 (min)"
+        },
+        {
+          "type": "heading",
+          "text": "L:銑削長度 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "fm:每分進刀 (mm/min)"
+        },
+        {
+          "type": "heading",
+          "text": "l:工件長度 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "D:銑刀直徑 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-82 面銑或端銑之銑削長度"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "端銑作業中,銑削 200 mm 長之工件,已知銑刀直徑為 40 mm、銑刀齒數為 5、 每齒進刀量為 0.2 mm、切削速度為 125.6 m / min,則其加工時間約為多少秒?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "l + D 200 + 40"
+        },
+        {
+          "type": "paragraph",
+          "text": "T = = = 0.24( 分 ) = 14.4( 秒 ) ft × Tc × N 1, 000 × 125.6"
+        },
+        {
+          "type": "heading",
+          "text": "0.2 × 5 ×"
+        },
+        {
+          "type": "heading",
+          "text": "π × 40"
+        },
+        {
+          "type": "heading",
+          "text": "2. 平銑刀銑削 ( 圖 9-83)"
+        },
+        {
+          "type": "heading",
+          "text": "D 2 D 2"
+        },
+        {
+          "type": "heading",
+          "text": "l + 2 ( ) − ( − t )"
+        },
+        {
+          "type": "heading",
+          "text": "L 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "T = ="
+        },
+        {
+          "type": "heading",
+          "text": "fm fm"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "120"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-83 平銑之銑削長度"
+        },
+        {
+          "type": "heading",
+          "text": "式中 T:銑削時間 (min)"
+        },
+        {
+          "type": "heading",
+          "text": "L:銑削長度 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "fm:每分進刀 (mm/min)"
+        },
+        {
+          "type": "heading",
+          "text": "l:工件長度 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "D:銑刀直徑 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "t:銑削深度 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "臥式銑床以平銑刀銑削 100 mm 長之工件,已知銑刀直徑為 90 mm、銑刀齒數 為 10、每齒進刀量為 0.2 mm、假設切削深度 5 mm 切削速度為 94.2 m/min,則"
+        },
+        {
+          "type": "heading",
+          "text": "其加工時間約為多少秒?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "D 2 D 2 90 2 90 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "l + 2 ( ) − ( − t ) 100 + 2 ( ) − ( − 5)"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "T = ="
+        },
+        {
+          "type": "heading",
+          "text": "fm 1, 000 × 94.2"
+        },
+        {
+          "type": "heading",
+          "text": "0.2 × 10 ×"
+        },
+        {
+          "type": "heading",
+          "text": "π × 90"
+        },
+        {
+          "type": "heading",
+          "text": "= 0.21( 分 ) = 12.6( 秒 )"
+        },
+        {
+          "type": "heading",
+          "text": "9-4-4 分度頭 ( 分度盤 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "將圓周等分為若干等分稱之為分度,而分度的工具就是分度頭。本單元將分為: (1) 分 度原理; (2) 分度的方法二個部分加以探討。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 121"
+        },
+        {
+          "type": "heading",
+          "text": "一、分度原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "分度頭的外部構造如圖 9-84 所示,內部構造如圖 9-85 所示。 主要部分為蝸桿與蝸輪 之減速機構,其傳動情形如圖 9-86 所示。單線蝸桿與 40 齒之蝸輪嚙合,當蝸桿轉一圈時,"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "蝸輪即轉 圈。欲銑削 20 齒之齒輪時,每銑一齒,齒輪胚須轉 圈,則分度曲柄應轉"
+        },
+        {
+          "type": "heading",
+          "text": "40 20"
+        },
+        {
+          "type": "heading",
+          "text": "之轉數 ( N ) 為:"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-84 分度頭的外部構造 ( 圖片取自合傑企業社 )"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "N = = 2( 圈 )"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "paragraph",
+          "text": "若非整數時,可藉分度板完成之。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-85 分度頭的內部構造 ( 取材自參考書目 (34))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "122"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-86 蝸輪 / 蝸桿減速機構 ( 取材自參考書目 (15))"
+        },
+        {
+          "type": "heading",
+          "text": "二、分度的方法"
+        },
+        {
+          "type": "heading",
+          "text": "常用的分度方法有三種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 直接分度法"
+        },
+        {
+          "type": "paragraph",
+          "text": "直接分度法係將蝸輪與蝸桿分離,直接使用主軸上的直接分度板來分度,如圖 9-98 所 示。所用之分度板若為 24 孔時,可作 2、 3、 4、 6、 8、 12、 24 等分之分度。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "以直接分度法分 2 等分時,只須將主軸轉動 12 孔距 ( 圈 );若以蝸桿與蝸輪之間接"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳動,則曲柄須轉 20 圈。兩相比較,作少數目的分度時,選用直接分度法可大量節省操 作時間,但其分度範圍受到限制。"
+        },
+        {
+          "type": "heading",
+          "text": "直接分度之計算公式為:"
+        },
+        {
+          "type": "heading",
+          "text": "24 30 36"
+        },
+        {
+          "type": "heading",
+          "text": "N = (, )"
+        },
+        {
+          "type": "heading",
+          "text": "T T T"
+        },
+        {
+          "type": "heading",
+          "text": "式中 N:應轉孔數"
+        },
+        {
+          "type": "heading",
+          "text": "T:欲分等分"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "以 30 孔之直接分度板,作 6 等分之分度時,主軸應轉幾孔距?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "30 30"
+        },
+        {
+          "type": "heading",
+          "text": "N = = = 5"
+        },
+        {
+          "type": "heading",
+          "text": "T 6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 123"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 簡式分度法一分等分"
+        },
+        {
+          "type": "paragraph",
+          "text": "簡式分度法是最常用的分度法。蝸桿與蝸輪之減速比為 40: 1,即蝸桿轉一圈,蝸輪"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉 圈。故欲將圓周分成 T 等分時,曲柄應轉之圈數 N 為:"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "heading",
+          "text": "N ="
+        },
+        {
+          "type": "heading",
+          "text": "T"
+        },
+        {
+          "type": "paragraph",
+          "text": "若 N 為非整數圈時,應藉表 9-3 所示之分度板具有之孔洞完成之。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-3 分度板孔圈數目"
+        },
+        {
+          "type": "heading",
+          "text": "第 1 板 15 16 17 18 19 20"
+        },
+        {
+          "type": "heading",
+          "text": "白朗 ‧ 沙普型"
+        },
+        {
+          "type": "heading",
+          "text": "第 2 板 21 23 27 29 31 33"
+        },
+        {
+          "type": "heading",
+          "text": "(Brown & Sharpe)"
+        },
+        {
+          "type": "heading",
+          "text": "第 3 板 37 39 41 43 47 49"
+        },
+        {
+          "type": "paragraph",
+          "text": "辛辛那提型 正面 24 25 28 30 34 37 38 39 41 42 43 (Cincinati) 背面 46 47 49 51 53 54 57 58 59 62 66"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "以白朗.沙普型之分度板將圓周 28 等分,則曲柄應轉之圈數若干?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "40 40 3 9"
+        },
+        {
+          "type": "heading",
+          "text": "N = = = 1 = 1"
+        },
+        {
+          "type": "heading",
+          "text": "T 28 7 21"
+        },
+        {
+          "type": "paragraph",
+          "text": "在 21 孔洞上轉 1 圈又 9 孔距。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 簡式分度法一分角度"
+        },
+        {
+          "type": "heading",
+          "text": "1 360 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "蝸桿轉 1 圈,蝸輪轉 圈,換成角度即: = 9 °,故欲將主軸轉動 A ° 時,曲柄"
+        },
+        {
+          "type": "heading",
+          "text": "40 40"
+        },
+        {
+          "type": "heading",
+          "text": "之轉數 N 為:"
+        },
+        {
+          "type": "heading",
+          "text": "A ° A ′"
+        },
+        {
+          "type": "heading",
+          "text": "N = ="
+        },
+        {
+          "type": "heading",
+          "text": "9 ° 540 ′"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "124"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "用 B&S 型分度板,求 10° 之分度。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "A ° 10 ° 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "N = = = 1 = 1"
+        },
+        {
+          "type": "heading",
+          "text": "9 ° 9 ° 9 18"
+        },
+        {
+          "type": "paragraph",
+          "text": "在 18 孔洞上轉 1 圈又 2 孔距。"
+        },
+        {
+          "type": "heading",
+          "text": "立即練習"
+        },
+        {
+          "type": "heading",
+          "text": "1. 從切屑形成、刀口受力、刀具壽命、切削震動及進給動力消耗等五方面,比較上銑"
+        },
+        {
+          "type": "paragraph",
+          "text": "法與下銑法之不同。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以 80 mm 之高速鋼銑刀銑削黃銅,銑削速度 V = 80 m/min,銑刀刃數為 10,每齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "進刀 0.2 mm,求每分鐘進刀量。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以白朗.沙普型之分度板將圓周 38 等分,則曲柄應轉之圈數若干?"
+        },
+        {
+          "type": "heading",
+          "text": "4. 用 B&S 型分度板,求 19 ° 30' 之分度。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 125"
+        },
+        {
+          "type": "heading",
+          "text": "9-5 磨床"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨床是利用高速迴轉的 磨輪 (Grinding Wheels),對工件作精密磨削的工具機,其加工 範圍很廣,圖 9-87 所示者為部分加工例。一般金屬切削工具機在切削過程中,是以單鋒或 多鋒刀刃切除工件表面之金屬,以獲得所需之尺寸、形狀及表面粗糙度。而磨床加工所使 用之磨輪,乃是由無數微小而無一定形狀之硬磨粒所組成,每一顆粒均是一極小的刀刃。 此種加工方式特別適用於硬工件之加工,並可獲得精密的尺寸及光滑的表面。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-87 磨床加工例 ( 取材自參考書目 (37))"
+        },
+        {
+          "type": "heading",
+          "text": "磨床加工具有下列特點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 有自生作用,磨粒鈍化後會自行脫落。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 為極多刃之切削刀具,由於刃口多,加工面較光滑。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 磨粒硬度高,可切削硬材料。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 磨削壓力小,適合加工薄工件。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 加工效率高。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "126"
+        },
+        {
+          "type": "heading",
+          "text": "9-5-1 磨床的種類"
+        },
+        {
+          "type": "heading",
+          "text": "磨床依照加工面的種類及操作情形的不同,可分為:"
+        },
+        {
+          "type": "heading",
+          "text": "一、 圓柱磨床 (Cylindrical Grinder)"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓柱磨床又稱為外圓磨床,如圖 9-88 所示。砂輪軸與工件分別由兩部馬達驅動同向迴 轉,砂輪之周速可達 2,000 m/min,而工件之周速僅約 10 ∼ 30 m/min。軸向之進給可由砂 輪或床台之左右移動完成之。 圓柱磨床之工作包括:直桿、階級桿、圓筒、錐桿及成形工件之磨削。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-88 圓柱磨床 ( 取材自參考書目 (13))"
+        },
+        {
+          "type": "heading",
+          "text": "二、 內圓磨床 (Internal Grinder)"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨削內孔的目的是要獲得正確的孔徑、光滑的孔面及良好的真圓度。其加工範圍如圖 9-89 所示,可磨削穿通之圓柱孔,未穿通之圓柱孔、錐孔及成形孔等。 內圓磨床之輪軸較細,剛性不足,宜選用軟砂輪,以免砂輪鈍化,導致砂輪受力太大 而使輪軸彎曲。若孔內有鍵槽,則應選用硬砂輪,以免砂粒被槽之邊緣刮落,此時應減小 磨削深度,以減輕磨削壓力。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 127"
+        },
+        {
+          "type": "paragraph",
+          "text": "孔徑與砂輪直徑之適當比例為 3: 2。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-89 內圓磨削加工例"
+        },
+        {
+          "type": "heading",
+          "text": "三、 無心磨床 (Centerless Grinder)"
+        },
+        {
+          "type": "paragraph",
+          "text": "無心磨床依其工作性質的不同,可分為外圓無心磨床及內圓無心磨床兩種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 外圓無心磨床"
+        },
+        {
+          "type": "paragraph",
+          "text": "外圓無心磨床如圖 9 - 90 所示,工件以扶架板支持在高速迴轉的切削磨輪與低速迴轉 的調整輪之間進行磨削。加工時無固定的夾持中心,故名無心磨床,最適合圓柱形工件的 大量生產。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-90 外圓無心磨床 ( 取材自參考書目 (13)) 磨削時,兩砂輪同方向旋轉,而工件反向迴轉。磨削作用由切削磨輪負擔。工件的迴 轉、軸向進給及水平方向之支撐,為調整輪之主要作用。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "128"
+        },
+        {
+          "type": "paragraph",
+          "text": "調整輪之軸心與切削砂輪偏轉 0 ° ~ 10 °,如圖 9 - 91 所示。偏轉角度之目的係為使工 件產生軸向進給。 調整輪迴轉一圈時,工件之軸向進給為 f,由圖可知, f 之值為:"
+        },
+        {
+          "type": "heading",
+          "text": "f = π D sin α"
+        },
+        {
+          "type": "paragraph",
+          "text": "設調整輪每分轉數為 N (rpm),則工件每分進給量 fm 為:"
+        },
+        {
+          "type": "heading",
+          "text": "fm = f × N = π DN sin α"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9 - 91 無心磨削之進給"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-10"
+        },
+        {
+          "type": "paragraph",
+          "text": "在一無心磨床上作通過進刀磨削,切削磨輪直徑 200 mm,每分轉速 3,000 rpm,調整輪直徑 100 mm,每分轉數 150 轉,兩輪軸交角為 8°,求工件每分"
+        },
+        {
+          "type": "heading",
+          "text": "進給量? ( sin 8° = 0.139)"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "fm = πDN sin α"
+        },
+        {
+          "type": "heading",
+          "text": "= π × 100 × 150 × 0.139"
+        },
+        {
+          "type": "heading",
+          "text": "= 6,547 mm/min"
+        },
+        {
+          "type": "heading",
+          "text": "= 6.547 m/min"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p058.jpg"
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 129"
+        },
+        {
+          "type": "heading",
+          "text": "外圓無心磨削之進給方式有三種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 直進法"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為通過進給,工件由兩砂輪間軸向通過, 適用於磨削圓柱形工件,如圖 9-92(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 內進法"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為挺進法,工件無軸向進給,主削磨輪向工件進給至所需深度即可,欲磨 面之長度通常較砂輪面窄。 此法適用於帶頭圓桿、圓球及成形工件之磨削。如圖 9-92(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 端進法"
+        },
+        {
+          "type": "paragraph",
+          "text": "調整輪與扶架板之位置固定,工件以人力或機力由側邊送入兩砂輪間,至固定 停止端為止。 此法適用於錐桿件之磨削。如圖 9-92(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9 - 92 無心磨削之進給方式"
+        },
+        {
+          "type": "heading",
+          "text": "外圓無心磨削具有下列優點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 不產生徑向推力,磨細長工件不產生彎曲。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 工件長度不受限制。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 工件不須夾持,操作迅速,特別適用於大量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 工件支托很穩固,不致發生顫動。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 工件尺寸容易控制。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 不須太高的操作技術,容易自動化。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "130"
+        },
+        {
+          "type": "heading",
+          "text": "此種加工方式亦有下列數項缺點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工件必須有完整的圓周,若有平面或鍵座者,無法加工。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 不易加工階級軸。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 對中空之工件,無法確保內外兩圓的同心度。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 內圓無心磨床"
+        },
+        {
+          "type": "paragraph",
+          "text": "內圓無心磨床如圖 9-93 所示,工件由加壓滾子、支持滾子及調整輪成三點支撐,並由 調整輪驅動而慢速迴轉,然後以其孔內之切削砂輪磨成正確之內孔。 此種磨削方式所加工 之工件筒壁厚度均一,能確保內外兩圓的同心度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9 - 93 內圓無心磨削"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 示意圖 (b) 實體圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片由成都市文運機床設備有限公司提供 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9 - 94 平面磨床 ( 取材自參考書目 ( 13 ))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 131"
+        },
+        {
+          "type": "heading",
+          "text": "四、 平面磨床 (Surface Grinder)"
+        },
+        {
+          "type": "paragraph",
+          "text": "平面磨床如圖 9-94 所示,主要用於工件水平部分之表面磨削。有時亦可用於磨削工件 垂直部位之側平面。 典型的加工方式是將工件固定在磁性工作台上,砂輪裝置在水平轉軸上迴轉,當工作 台沿縱向作往復運動時,同時進行橫向進給,即可進行往復磨削。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "粗磨之橫向進給量約為砂輪寬度的 ∼,精磨約 ∼。"
+        },
+        {
+          "type": "heading",
+          "text": "2 3 3 2"
+        },
+        {
+          "type": "heading",
+          "text": "9-5-2 砂輪的種類與規格"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂輪 ( 磨輪 ) 是磨削工作的刀具,由磨粒和結合劑結合而成。磨削過程中,砂粒由於 鈍化而逐漸脫落,若控制不當,將會影響加工品質。故選用砂輪時,須對砂輪的特性有充 分的認識。"
+        },
+        {
+          "type": "heading",
+          "text": "構成砂輪的三要素,如圖 9-95 所示,包括:"
+        },
+        {
+          "type": "heading",
+          "text": "一、 磨料 (Abrasives)"
+        },
+        {
+          "type": "paragraph",
+          "text": "直接對工件發生磨削作用的刀刃。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 示意圖 (b) 砂輪實體圖 ( 圖片取自中國砂輪企業有限公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-95 砂輪的三要素"
+        },
+        {
+          "type": "heading",
+          "text": "二、 結合劑 (Bonds)"
+        },
+        {
+          "type": "paragraph",
+          "text": "產生磨料顆粒間的結合力,並使砂輪在一定的速度下能安全迴轉。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 氣孔 (Pores)"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨料與結合劑以外的間隙,可幫助切屑的排除,以保持磨削效果。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "132"
+        },
+        {
+          "type": "paragraph",
+          "text": "以上三要素可再細分為五因子,即: (1) 磨料; (2) 粒度; (3) 結合度; (4) 組織; (5) 製法。"
+        },
+        {
+          "type": "heading",
+          "text": "一、磨料"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨料可分為天然磨料與人造磨料兩種,工廠中所用者,大都為人造磨料。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 天然磨料"
+        },
+        {
+          "type": "heading",
+          "text": "1. 金剛砂: 50 ∼ 60% 結晶之氧化鋁,加氧化鐵。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 剛玉: 75 ∼ 90% 結晶之氧化鋁,加氧化鐵。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 石英。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 石榴石。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 鑽石。"
+        },
+        {
+          "type": "paragraph",
+          "text": "上述天然磨料最廣用者為鑽石磨料,用以精磨碳化物刀具。其記號以 D 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 人造磨料"
+        },
+        {
+          "type": "heading",
+          "text": "1. 氧化鋁 (Al 2 O 3 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 碳化矽 (SiC)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 碳化硼 (B 4 C)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 氧化鋯 (ZrO 2 )。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 立方晶氮化硼 (CBN)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "上述人造磨料最廣用者為氧化鋁,其次為碳化矽。兩者皆以電爐熔煉而成,冷卻後再 用碎礦機擊碎,然後再加以篩選,得不同的粒度。 氧化鋁可分為低純度的褐色氧化鋁 (A) 及高純度的白色氧化鋁 (WA)。 A 磨料之磨削對"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "象為抗拉強度 300 ~ 500 MPa ( 30 ~ 50 kg/mm ) 之材料,如碳鋼及合金鋼。 WA 磨料適用"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "於磨削抗拉強度 500 MPa ( 50 kg/mm ) 以上之材料,例如高速鋼及淬硬鋼。 碳化矽可分為低純度的黑色碳化矽 (C) 及高純度的綠色碳化矽 (GC)。 C 磨料之磨削對"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "象為抗拉強度 300 MPa ( 30 kg/mm ) 以下之材料,例如鑄鐵、銅、鋁及鋅等。 GC 磨料適 用於碳化物刀具之粗磨削。 立方晶氮化硼 (CBN) 之硬度僅次於鑽石,適用於各種難磨削鋼材之中、細磨削及螺紋 磨削。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 133"
+        },
+        {
+          "type": "paragraph",
+          "text": "表 9-4 為各種磨料之記號、成分及硬度值之比較。 ▼ 表 9-4 各種磨料之記號、成分及硬度值之比較"
+        },
+        {
+          "type": "heading",
+          "text": "磨料種類 CNS 磨料記號 成分 硬度 (HK)"
+        },
+        {
+          "type": "heading",
+          "text": "鑽石 D C 7000"
+        },
+        {
+          "type": "heading",
+          "text": "氮化硼 (CBN) B B 3 N 4700"
+        },
+        {
+          "type": "heading",
+          "text": "綠色碳化矽 GC SiC 99% 以上 2550"
+        },
+        {
+          "type": "heading",
+          "text": "黑色碳化矽 C SiC 95% 以上 2500"
+        },
+        {
+          "type": "heading",
+          "text": "Al 2 O 3 99%"
+        },
+        {
+          "type": "heading",
+          "text": "單結晶氧化鋁 HA 2300"
+        },
+        {
+          "type": "heading",
+          "text": "TiO 2 0.1 ~ 0.3%"
+        },
+        {
+          "type": "heading",
+          "text": "Al 2 O 3 99%"
+        },
+        {
+          "type": "heading",
+          "text": "淡紅色氧化鋁 PA 2250"
+        },
+        {
+          "type": "heading",
+          "text": "Cr 2 O 3 0.1 ~ 0.45%"
+        },
+        {
+          "type": "paragraph",
+          "text": "白色氧化鋁 WA Al 2 O 3 99% 以上 2200"
+        },
+        {
+          "type": "heading",
+          "text": "Al 2 O 3 95%"
+        },
+        {
+          "type": "heading",
+          "text": "褐色氧化鋁 A 2000"
+        },
+        {
+          "type": "heading",
+          "text": "TiO 2 2 ~ 3%"
+        },
+        {
+          "type": "heading",
+          "text": "二、粒度"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨粒的大小稱為粒度,以每 25. 4 mm 長度內之篩網孔數表示。分成粗、中、細、極細 及超微粒五種,如表 9-5 所示。極細粒 ( 粉級 ) 常在標籤上附上“ F ”字樣, 280 為 F; 320 為 FF; 500 為 FFF。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-5 磨料的粒度"
+        },
+        {
+          "type": "heading",
+          "text": "粗粒 中粒 細粒 極細粒 超微粒"
+        },
+        {
+          "type": "paragraph",
+          "text": "Coarse Medium Fine Very Fine Ultra Fine 10、 12、 14 30、 36、 46 70、 80、 90 240、 280 1000、 1500 16、 20、 24 54、 60 100、 120 320、 400 2000、 2500 150、 180 500、 600 3000、 4000"
+        },
+        {
+          "type": "heading",
+          "text": "220 700、 800"
+        },
+        {
+          "type": "heading",
+          "text": "粒度之選擇原則為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 粗磨削用粗粒;精磨削用細粒。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 軟工件用粗粒;硬工件用細粒。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 砂輪和工件接觸面大用粗粒;接觸面小用細粒。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "134"
+        },
+        {
+          "type": "heading",
+          "text": "三、結合度 ( 等級 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨粒以結合劑黏結之強度稱為結合度,以軟硬來區分。結合度強者為硬砂輪,弱者為 軟砂輪,如圖 9-96 所示。 硬砂輪之磨粒不易脫落,容易鈍化,且磨削熱多。軟砂輪之磨粒 容易脫落,刃口較鋒利,磨削熱較少。 結合度的軟硬以英文字母 A ~ Z 表示,字母愈前面愈軟,愈後面愈硬,如表 9 - 6 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-96 結合度"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-6 磨輪的結合度"
+        },
+        {
+          "type": "heading",
+          "text": "極軟 軟 中硬 硬 極硬"
+        },
+        {
+          "type": "paragraph",
+          "text": "Very Soft Soft Medium Hard Very Hard A、 B、 C、 D、 T、 U、 V、 W、 H、 I、 J、 K L、 M、 N、 O P、 Q、 R、 S"
+        },
+        {
+          "type": "heading",
+          "text": "E、 F、 G X、 Y、 Z"
+        },
+        {
+          "type": "heading",
+          "text": "結合度之選擇原則為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 硬工件用軟砂輪;軟工件用硬砂輪。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 精磨削用軟砂輪;粗磨削用硬砂輪。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 砂輪與工件之接觸面大用軟砂輪;接觸面小用硬砂輪。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 砂輪轉速高用軟砂輪;轉速低用硬砂輪。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 工件進給速度慢用軟砂輪;進給速度快用硬砂輪。"
+        },
+        {
+          "type": "heading",
+          "text": "四、組織 ( 結構 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "廣義而言,組織就是磨粒、結合劑和氣孔三者,在數量上比例的分佈狀態;以狹義而 言,乃指磨料間距。磨料間距測定不易,因此,組織通常以砂輪體積中磨料所佔的百分比 來表示。如表 9-7 所示, 0 號之磨料率為 62 %,最密; 14 號之磨料率為 34 %,最鬆。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p064.jpg"
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 135"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-7 磨料率與組織的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "組織 NO 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 磨料率 (%) 62 60 58 56 54 52 50 48 46 44 42 40 38 36 34"
+        },
+        {
+          "type": "heading",
+          "text": "分級 密 (C) 中 (M) 鬆 (W)"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 9-97 所示者為組織鬆密的示意圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲圖 9-97 組織"
+        },
+        {
+          "type": "heading",
+          "text": "組織之選擇原則為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 軟工件用鬆組織;硬工件用密組織。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 粗磨削用鬆組織;精磨削用密組織。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 砂輪與工件之接觸面大用鬆組織;接觸面小用密組織。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 濕磨削用鬆組織,有較大之空間可供切削劑流通。"
+        },
+        {
+          "type": "heading",
+          "text": "五、製法"
+        },
+        {
+          "type": "heading",
+          "text": "砂輪依其結合劑之不同,可分為下列六種製法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 黏土結合法 (Vitrified Bond) 簡稱 V 法,係將黏土結合劑與磨粒混合均勻後,經加壓成形及高溫燒結而成。 此種製 法之砂輪,組織均勻、形狀準確、多孔質,且不受酸、水、油及溫度之影響,使用範圍最廣, 約佔砂輪用量的 75 ∼ 90%。但此法亦有不少缺點,諸如: (1) 不易製造 750 mm 以上的大 砂輪; (2) 缺乏彈性,不易製造薄砂輪; (3) 製造耗時。 ( 二 ) 水玻璃結合法 (Silicate Bond) 簡稱 S 法,係將水玻璃 ( 矽酸鈉 ) 結合劑與磨粒混合製造而成。此種砂輪結合度較弱, 磨粒容易脫落,故摩擦生熱較少。 適用於刀具之磨削,可避免刃口受熱太多而退火軟化。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "136"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 蟲漆結合法 (Shellac Bond) 簡稱 E 法,係使磨粒在蒸汽加熱混合器中塗上蟲漆,然後在熱鋼模中加壓,並在 150 °C的溫度烘烤而成。 此種結合劑之結合力差,所製之砂輪較軟,不適合粗磨削而用於 精磨削。 ( 四 ) 橡膠結合法 (Rubber Bond) 簡稱 R 法,係將磨料、橡膠及硬化劑 ( 硫 ) 混合,在加熱混合滾子中滾軋成一定厚度, 而後以模子切成輪子,並在壓力下硬化而成。 R 磨輪之強韌性佳,且富彈性,可製成 0.5 mm 厚之薄砂輪。 可作無心磨床之調整砂輪,及作木料切斷與溝槽磨削之用。 ( 五 ) 樹脂結合法 (Resinoid Bond) 簡稱 B 法,係將磨粒、熱凝性合成樹脂粉與液體溶劑混合,然後在 160 ∼ 180 °C的溫 度下烘烤而成。 B 砂輪之結合力強,適用於金屬之切斷,及高速磨削,如手提砂輪機之輪 磨。"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 金屬結合法 (Metal Bond)"
+        },
+        {
+          "type": "paragraph",
+          "text": "簡稱 M 法,係將金剛石粉粒和金屬結合劑 (Cu、 Fe、 Ni) 混合加壓加熱而成。 此法專 用於製造金剛石磨輪與電化磨輪,主要用於金屬之切斷與超硬合金之輪磨工作。"
+        },
+        {
+          "type": "heading",
+          "text": "六、砂輪的形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂輪的形狀已標準化,每一型別均有它自身的編號,自 1 ∼ 74 號。圖 9-98 所示者為 較常用之數種型式。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-98 砂輪的標準形狀"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p066.jpg"
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 137"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂輪的緣形如表 9-8 所示,以大寫英文字母表示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-8 砂輪之緣形"
+        },
+        {
+          "type": "heading",
+          "text": "No A B C D"
+        },
+        {
+          "type": "heading",
+          "text": "砂"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "緣"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "圖"
+        },
+        {
+          "type": "heading",
+          "text": "No E F M N P"
+        },
+        {
+          "type": "heading",
+          "text": "砂"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "緣"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "圖"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "138"
+        },
+        {
+          "type": "heading",
+          "text": "七、砂輪的標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂輪的規格依:五因子 ( 磨料、粒度、結合度、組織、製法 )、外觀、尺寸的次序標註。"
+        },
+        {
+          "type": "heading",
+          "text": "9-5-3 砂輪機"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂輪機主要用於鏨子、車刀與鑽頭等刀具之磨削,如圖 9-99 所示。裝置砂輪時應注意"
+        },
+        {
+          "type": "heading",
+          "text": "下列事項:"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-99 砂輪機的標準形狀 ( 圖片取自建成工具 )"
+        },
+        {
+          "type": "heading",
+          "text": "1. 砂輪心軸孔套入心軸上應為鬆配合。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "2. 夾持砂輪的緣盤直徑須相等,並不得小於砂輪直徑之。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p068.jpg"
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 139"
+        },
+        {
+          "type": "heading",
+          "text": "3. 緣盤與砂輪間應加一層膠紙或橡膠圈,且夾持力不可太大,以免膠紙之彈性消失。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 緣盤應中間凹下,以周緣凸出面和砂輪接觸,不可全面接觸;此種接觸方式能使緣"
+        },
+        {
+          "type": "paragraph",
+          "text": "盤對砂輪傳達最大之扭力。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 支持架與砂輪周面之距離勿大於 3 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 安全罩與砂輪周面之距離勿大於 6 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 為防止螺帽於旋轉時鬆脫,右端心軸應用右螺紋;左端心軸用左螺紋。"
+        },
+        {
+          "type": "heading",
+          "text": "9-5-4 砂輪的檢查與修正"
+        },
+        {
+          "type": "paragraph",
+          "text": "裝置砂輪之前應做音響檢查,確定砂輪無內部裂痕;做平衡檢查,確定砂輪沒有偏重。 鈍化的砂輪可用碳化硼修整棒、溝槽金屬輪或機械式修整器削銳。鑽石修整器則兼具 削銳與削正之功能。"
+        },
+        {
+          "type": "heading",
+          "text": "9-5-5 表面精光"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂輪磨削加工時,砂粒鈍化後會逐漸脫落,因此加工面之尺寸精密度及表面光滑度均 受到某種程度的限制。若欲進一步提升,可依工作需要,施以搪光、研光、超光、拋光及 擦光等加工。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 搪光 (Honing):搪磨"
+        },
+        {
+          "type": "paragraph",
+          "text": "搪光係以搪光頭在內孔中作往復螺旋運動,將內孔搪光的加工法。搪光頭如圖 9-100 所示,其上分佈若干條狀的油石。搪光頭之轉速與壓力均遠較普通磨輪為低,且油石亦比 砂輪細得多,故加工時之熱變形及加工面變質層可減至最小,而表面光滑度可相對提高。 搪光後之工件面會產生交叉線的外觀。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 示意圖 (b) 搪磨機實體圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片由金宏昌機械廠提供 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-100 搪光頭 ( 取材自參考書目 (4))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p069.jpg"
+    },
+    {
+      "page": 70,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "140"
+        },
+        {
+          "type": "heading",
+          "text": "二、 研光 (Lapping):研磨"
+        },
+        {
+          "type": "paragraph",
+          "text": "研光如圖 9-101 所示,將欲磨光之工件置於兩磨盤間,並加磨粒及切削劑,利用兩磨 盤相對旋轉時所產生之磨削作用,將工件磨光。此種製程若加粉級磨粒,可實施鏡面加工。 為使磨削作用產生在工件面, 磨盤之材質應較工件軟,通常大都選用細晶粒的灰鑄鐵。由 於磨盤較軟,能使磨粒刺入盤面而成為磨盤的一部分,而對工件產生磨削作用。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-101 研磨盤"
+        },
+        {
+          "type": "paragraph",
+          "text": "研光可使用於平面、圓柱面、球面及一些特殊的曲面。其代表性的加工有塊規、齒輪、 蝸桿、軸承、塞規、環規、剎車墊片及光學零件等。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 超光 (Super Finishing):超級精磨"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "超光是利用寬約工件直徑之, 長與工件相等或略短之油石, 在工件上往復直線震動,"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "配合工件慢速迴轉而達成精修目的之加工法,如圖 9-102 所示。超光的主要功用是用來消 除工件在輪磨加工中,因高溫高壓所產生的微幾何形狀及結構的變化。工作時應充分噴注 切削劑,將磨除之廢屑沖除。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-102 超光"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p070.jpg"
+    },
+    {
+      "page": 71,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 141"
+        },
+        {
+          "type": "paragraph",
+          "text": "超光可應用於圓柱體之外表面,圓孔之內表面及平的環狀表面之加工,如圖 9-103 所 示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-103 超光之應用"
+        },
+        {
+          "type": "heading",
+          "text": "四、 拋光與擦光 (Polishing and Buffing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "拋光與擦光是將研光液敷於質密之棉布或麻布輪上,然後高速旋轉,將工件表面之切 削刀痕或毛邊磨除,以獲得光亮的表面。 擦光與拋光之區別在於擦光所用之布輪較柔軟, 且研光液中之磨粒亦較細,故其加工面之品質優於拋光面。 一般金屬在電鍍之前,通常施 以擦光處理,以便獲得較佳之電鍍面。研光液係以黏結劑混合氧化鋁、二氧化矽、鍛燒鋁 礬土或矽藻土製成。 圖 9-104 所示者為常用的拋光與擦光輪。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-104 拋光與擦光輪 ( 圖片取自台顧化學公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p071.jpg"
+    },
+    {
+      "page": 72,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "heading",
+          "text": "五、 滾筒磨光 (Barrel Finishing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾筒磨光是將工件、磨料及切削劑,裝入如圖 9-105 所示之多角形滾筒中,藉著滾筒 的旋轉或箱子的往復振動,使工件相互摩擦、撞擊,將表面的污點、油污、鏽皮及毛邊除 去,而獲得較光滑的表面。 工件表面由於彼此相互撞擊、產生塑性流動而應變硬化,且殘 留壓縮應力,故能增加表面硬度及提高疲勞強度。滾筒磨光常用於去除鑄件的砂皮、鍛件 的鏽皮及沖壓件的毛邊。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-105 滾筒磨光機 ( 圖片取自春錫機械公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "立即練習"
+        },
+        {
+          "type": "heading",
+          "text": "1. 說明砂輪結合度之選擇原則。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 裝置砂輪時,應注意那些事項?"
+        },
+        {
+          "type": "heading",
+          "text": "3. 說明外圓無心磨削之優點與限制。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 說明砂輪規格“ GC 24 M 10 V 2B 250 × 30 × 32 ”各符號之意義。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p072.jpg"
+    },
+    {
+      "page": 73,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 工作機械 143"
+        },
+        {
+          "type": "heading",
+          "text": "9-6 電腦數值控制機械"
+        },
+        {
+          "type": "paragraph",
+          "text": "數值控制工具機具備高度的彈性,最適合現今以批量生產為主的加工型態。以數值控 制系統為基礎,進一步發展出切削中心機、五軸加工機、多功能複合機與智慧製造等,促 進了工業 4.0 的製造革命。 有關數值控制工具機的詳細內容, 請參閱第十二章電腦輔助製造。"
+        },
+        {
+          "type": "heading",
+          "text": "數值控制在工業上的應用非常廣泛,茲擇要列舉如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. CNC 車床。"
+        },
+        {
+          "type": "heading",
+          "text": "2. CNC 銑床。"
+        },
+        {
+          "type": "heading",
+          "text": "3. CNC 磨床 ( 圖 9-106)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. CNC 鑽床。"
+        },
+        {
+          "type": "heading",
+          "text": "相關知識"
+        },
+        {
+          "type": "heading",
+          "text": "5. 切削中心機 (MC)。"
+        },
+        {
+          "type": "heading",
+          "text": "工具機為因應不同的工件與刀具,須有不同的轉"
+        },
+        {
+          "type": "heading",
+          "text": "6. CNC 攻牙機。"
+        },
+        {
+          "type": "paragraph",
+          "text": "速變化,早在 1490 年,達文西就已經將無段連續"
+        },
+        {
+          "type": "heading",
+          "text": "7. CNC 放電加工機。"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動變速箱概念繪製成草圖。時至今日,達文西"
+        },
+        {
+          "type": "heading",
+          "text": "8. CNC 火焰切割機。 的變速概念以現代化形式實際使用在汽車、拖拉"
+        },
+        {
+          "type": "heading",
+          "text": "9. CNC 座標量測機。 機、雪上摩托車與速克達機車上。"
+        },
+        {
+          "type": "heading",
+          "text": "早年達文西曾任軍事工程師,在他的筆記中也包"
+        },
+        {
+          "type": "heading",
+          "text": "10. CNC 齒輪量測機。"
+        },
+        {
+          "type": "heading",
+          "text": "含了數種軍事機械的設計:例如機關槍、人力或"
+        },
+        {
+          "type": "heading",
+          "text": "11. CNC 機器人。 以馬拉動的武裝坦克車、子母彈與軍用降落傘等"
+        },
+        {
+          "type": "heading",
+          "text": "12. CNC 繪圖機。 等。其他的發明包括了潛水艇、被詮譯為第一個"
+        },
+        {
+          "type": "heading",
+          "text": "機械計算機的齒輪裝置,以及被誤解為發條車的"
+        },
+        {
+          "type": "heading",
+          "text": "13. CNC 雷射切割機。"
+        },
+        {
+          "type": "paragraph",
+          "text": "第一部可程序化行動機器人。"
+        },
+        {
+          "type": "heading",
+          "text": "14. CNC 板金加工機。"
+        },
+        {
+          "type": "heading",
+          "text": "15. CNC 車銑複合機。"
+        },
+        {
+          "type": "heading",
+          "text": "16. CNC 銑磨複合機"
+        },
+        {
+          "type": "paragraph",
+          "text": "CNC 工作機械之詳細介紹,請參閱第十二章。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-106 CNC 磨床 ( 圖片取自福裕機械公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch09/p073.jpg"
+    },
+    {
+      "page": 74,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "一、車床"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工件的夾持器"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 兩頂心間夾持:工件以雞心夾頭夾緊,然後支頂在活頂心與死頂心之間,由 驅動盤帶動雞心夾頭而迴轉。此種夾持方式大都用來夾持長形工件。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 夾頭夾持"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 三爪夾頭:由螺旋盤同時驅動三個爪,又名聯動夾頭,通常用於夾持圓 桿及六角形桿。 2 四爪夾頭:由四支螺桿分別驅動四個爪,又名獨立夾頭,可夾持圓桿及 四方形桿件,並可調整車偏心。 3 油壓夾頭:常用於 CNC 車床及自動車床之工件夾持。 (3) 扶料架夾持:細長之工件為了避免車削時受車刀之徑向推力而偏開,宜以扶 料架夾持。 1 固定式扶料架:有三個扶料爪,使用時裝在床軌上。 2 從動式扶料架:有兩個扶料爪,使用時裝在床鞍上,隨車刀移動而支持 工件。"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 花盤夾持"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 用於夾持尺寸大且形狀不規則之工件;例如大型的自來水肘管及曲柄軸。 2 以花盤夾持工件時,應注意平衡問題,必要時可在偏重邊的對面裝置平 衡鐵塊。 (5) 套軸夾持:套軸又稱為工軸,用於夾持長度短且直徑大的工件,例如齒輪胚 料及皮帶輪。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 車刀的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 左手車刀:刃口在右側,車削時車刀由左向右進刀;用於車削外徑及圓錐。 (2) 右手車刀:刃口在左側,車削時車刀由右向左進刀;用於車削外徑及圓錐。 (3) 切斷車刀:用以切斷工件或切槽,其刀鼻部分的寬度較大,向柄部的方向漸 小,形成約 2 ∼ 3 度的間隙,以免被工件夾斷。 (4) 內孔搪刀:用以車削內孔,其前隙角應隨孔徑之大小而變化:孔徑大時,其 角應小;反之,則大。"
+        },
+        {
+          "type": "heading",
+          "text": "144"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 75,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "3. 一般車削"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 端面車削"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 車削工作的第一步就是車削端面。 2 尾座偏向操作者,端面會成凹形;偏離操作者,端面會成凸形。 (2) 外徑車削:粗車時,宜將刀尖提高至比工件中心高 5 度;即工件直徑 25 mm 時,刀尖約提高 1 mm。 (3) 壓花:工作要領為切削速度低刀具縱向進刀大、壓痕深、壓花道數少,以一 次或兩次完成為宜;隨時添加切削劑,以沖除鐵屑及冷卻、潤滑工件。"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 錐度車削"
+        },
+        {
+          "type": "heading",
+          "text": "D − d"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 錐度的大小係以每單位長度的大、小徑差來表示,即: T =。"
+        },
+        {
+          "type": "heading",
+          "text": "l"
+        },
+        {
+          "type": "heading",
+          "text": "TL"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 尾座偏置量: S =。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "二、鑽孔與搪孔"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑽床的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 靈敏鑽床:裝鑽容量小,通常以 13 mm 以下之鑽孔為主;沒有自動進刀裝置, 完全靠手工進刀。 (2) 旋臂鑽床:適用於笨重工件或大面積鈑材之鑽孔,其規格以旋臂長度表示。 (3) 排列鑽床:將許多鑽床頭裝置在同一床台上,每個鑽軸可裝不同的鑽削刀具。 適用於大量生產,可免去重複換刀之時間。 (4) 轉塔鑽床:使用目的與排列鑽床相同。 (5) 多軸鑽床:可一次鑽出若干孔,屬於大量生產用的機器。工件必須用鑽模夾 持,並由其上之導套引導鑽頭,以獲得最大之互換性。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 蔴 花鑽頭"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 鑽柄:通常直徑在 φ 13 mm 以下者製成直柄,以鑽頭夾頭夾持;直徑大於 13 mm 者製成莫斯錐度柄,可直接插入主軸錐孔。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 鑽身"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 螺旋角:螺旋槽與鑽頭軸線之夾角稱為螺旋角,此角之作用相當於車刀 之斜角,角度愈大排屑愈順利,但刃口之強度愈低;故此角與工件硬度 成反比。"
+        },
+        {
+          "type": "heading",
+          "text": "145"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 76,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 鑽腹:通常將鑽腹製成由鑽頂向柄部厚度由薄漸厚,不但可減小鑽削阻 力,且可避免挫曲。 3 鑽邊:鑽頭徑向最外側的兩段圓弧面稱之為鑽邊,鑽頭之直徑通常即指 兩鑽邊間之直徑。為避免鑽頭與孔周面之摩擦,而將鑽邊後方略微磨凹, 形成鑽身間隙。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 搪孔:內孔之精密度及表面光度要求很高時,可按鑽中心孔→鑽孔→搪孔→鉸孔"
+        },
+        {
+          "type": "paragraph",
+          "text": "之步驟進行。"
+        },
+        {
+          "type": "heading",
+          "text": "三、銑床"
+        },
+        {
+          "type": "heading",
+          "text": "1. 銑床的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 臥式銑床:規格以床台的縱向移動距離來表示。 (2) 立式銑床:為目前機械加工廠最常用的銑床。 (3) 龍門銑床:可裝置面銑刀,銑削較大之平面,切削效率較高。 (4) 萬能銑床:工作台可在床鞍上迴轉一角度,以便銑削螺旋槽。 (5) 床式銑床:剛性極佳,適用於大量生產,可勝任較重之切削。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 銑刀的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 平銑刀:齒寬在 20 mm 以內者製成直齒,其製造及重磨均較便利。齒寬大於 20 mm 者製成螺旋齒,切削時刀刃與工件面以漸進方式接觸,較不會產生震 動。 (2) 角銑刀:尖端很脆弱,所以應選用上銑法,以免撞斷刀尖,同時應選用低轉 速與小進給,以減輕刀尖之負荷。 (3) 端銑刀:端銑刀之端面及圓周面均有刀齒。可銑削平面、側面、凹槽、肩角 及鑽孔,為立式銑床最廣用之銑刀。銑削內槽時應注意選用上銑法,以免插 刀。 (4) T 型槽銑刀:圓周面及兩側面均有刀齒。 (5) 半月鍵座銑刀:外形與 T 形槽銑刀相似,但兩側面均無刀齒,用於銑削半月 鍵座時,可避免加大鍵座之寬度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 銑削工作"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 銑削方向"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 上銑法:又稱為逆銑法,其銑刀之迴轉方向與工件進給方向相逆。"
+        },
+        {
+          "type": "heading",
+          "text": "146"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 77,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 下銑法:又稱為順銑法,其銑刀之迴轉方向與工件進給方向相順。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 進刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 進刀是指工件對銑刀的移動速度,以 mm/min 表示。粗切之進刀大,精 切之進刀小。 2 進刀速度: fm = fr × N = ft × Tc × N。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 銑削工作"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 平銑:粗銑選用齒數少的銑刀,有較大的容屑空間;精銑則選用齒數多的銑 刀。若使用螺旋銑刀時,應注意讓工件的軸向推力指向機柱邊。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 騎銑"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 又稱為跨銑,係利用兩片側銑刀,同時銑削兩平行側面的工作。 2 六角頭的對邊寬與圓桿直徑之關係為: S = d cos α。 3 工件與銑刀側面輕輕接觸以後,沿銑刀軸向移至正確銑削位置之距離 L"
+        },
+        {
+          "type": "heading",
+          "text": "d S"
+        },
+        {
+          "type": "paragraph",
+          "text": "為: L = + + l。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 排銑"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 又稱為群銑,係將兩片或兩片以上的心軸銑刀裝在同一銑刀軸上,將工 件之成形面一次銑成。 2 排銑時應以最大外徑的銑刀計算轉速,而以最少齒數的銑刀來計算每分 進刀量。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 分度頭"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 分度原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 將圓周等分為若干等分稱之為分度,而分度的工具就是分度頭。 2 分度頭的主要部分為單線蝸桿與 40 齒蝸輪之減速機構。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 分度的方法"
+        },
+        {
+          "type": "heading",
+          "text": "24 30 36"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 直接分度法: N = (, )。"
+        },
+        {
+          "type": "heading",
+          "text": "T T T"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 簡式分度法 --- 分等分: N =。"
+        },
+        {
+          "type": "heading",
+          "text": "T"
+        },
+        {
+          "type": "heading",
+          "text": "A ° A ′"
+        },
+        {
+          "type": "paragraph",
+          "text": "3 簡式分度法 --- 分角度: N = =。"
+        },
+        {
+          "type": "heading",
+          "text": "9 ° 540 ′"
+        },
+        {
+          "type": "heading",
+          "text": "147"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 78,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "四、磨床"
+        },
+        {
+          "type": "heading",
+          "text": "1. 無心磨床"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 外圓無心磨床"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 工件以扶架板支持在高速迴轉的切削磨輪與低速迴轉的調整輪之間,進 行磨削。加工時無固定的夾持中心,故名無心磨床,最適合圓柱形工件 的大量生產。 2 磨削時,兩砂輪同方向旋轉,而工件反向迴轉。磨削作用由切削磨輪負 擔。工件的迴轉、軸向進給及水平方向之支撐,為調整輪之主要作用。 3 調整輪之軸心與切削砂輪偏轉 0 ° ∼ 10 °,偏轉角度之目的係為使工件產 生軸向進給。工件之每分鐘軸向進給為: fm = f × N = π DN sin α (2) 內圓無心磨床:此種磨削方式所加工之工件筒壁厚度均一,能確保內外兩圓 的同心度。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 磨輪的五因子"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 磨料"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 天然磨料: 最廣用者為鑽石磨料, 用以精磨碳化物刀具, 其記號以 D 表示。 2 人造磨料:人造磨料最廣用者為氧化鋁,其次為碳化矽。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 粒度"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 磨粒的大小稱為粒度,以每 25.4 mm 長度內之篩網孔數表示。 2 粒度之選擇原則為:粗磨削用粗粒,精磨削用細粒;軟工件用粗粒,硬 工件用細粒;砂輪和工件接觸面大用粗粒,接觸面小用細粒。"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 結合度"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 磨粒以結合劑黏結之強度稱為結合度,以軟硬來區分。結合度強者為硬 砂輪,弱者為軟砂輪。硬砂輪之磨粒不易脫落,容易鈍化,且磨削熱多。 軟砂輪之磨粒容易脫落,刃口較鋒利,磨削熱較少。 2 結合度的軟硬以英文字母 A ∼ Z 表示,字母愈前面愈軟,愈後面愈硬。 3 結合度之選擇原則為:硬工件用軟砂輪,軟工件用硬砂輪;精磨削用軟 砂輪,粗磨削用硬砂輪;砂輪與工件之接觸面大用軟砂輪,接觸面小用 硬砂輪;砂輪轉速高用軟砂輪,轉速低用硬砂輪;工件進給速度慢用軟 砂輪,進給速度快用硬砂輪;機器穩定度夠的,可選用軟砂輪,若軸承 有鬆動,應選用硬砂輪。"
+        },
+        {
+          "type": "heading",
+          "text": "148"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

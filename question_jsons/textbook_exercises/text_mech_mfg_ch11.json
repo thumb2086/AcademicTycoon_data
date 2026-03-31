@@ -1,0 +1,69 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH11",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH11_001",
+      "subject": "機械製造",
+      "unit": "CH11",
+      "q": "(D) (D)",
+      "image_url": "",
+      "options": [
+        "(A) ECG (A)",
+        "(B) (A) EDM (B)",
+        "",
+        "(D) (A) (A) ECG (A) (B) (B) (A) EDM (B) (C)ECM(D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH11_002",
+      "subject": "機械製造",
+      "unit": "CH11",
+      "q": "LBM(C)EDM(D)ECM",
+      "image_url": "",
+      "options": [
+        "EBM",
+        "",
+        "EDM",
+        "ECM (A)EBM(B) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH11_003",
+      "subject": "機械製造",
+      "unit": "CH11",
+      "q": "(B) AlMg(C) EDM",
+      "image_url": "",
+      "options": [
+        "",
+        "AlMg",
+        "EDM (A) (B) (A) (B) (A) (Slicer)",
+        "(A) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH11_004",
+      "subject": "機械製造",
+      "unit": "CH11",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "SLA",
+        "SLS",
+        "AM",
+        "RP )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

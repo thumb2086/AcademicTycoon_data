@@ -1,0 +1,53 @@
+{
+  "bundle_id": "TEXT_MECH_DRAFTING_CH03",
+  "questions": [
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_001",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "nm",
+        "cm",
+        "mm",
+        ")"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_002",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        ")"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_003",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "( 40 )",
+        "",
+        "",
+        "92 學後評量 A4 (A) A4 (B) A0 (D) A4 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

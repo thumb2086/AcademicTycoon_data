@@ -1,0 +1,53 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH01",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH01_001",
+      "subject": "機械製造",
+      "unit": "1-2",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "(D) (A) (B) (D) 28 學後評量 (A) (B) (ECG)(B)",
+        "",
+        "(A) (B) (D) 28 學後評量 (A) (B) (ECG)(B) (C) (D) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH01_002",
+      "subject": "機械製造",
+      "unit": "1-2",
+      "q": "(D)",
+      "image_url": "",
+      "options": [
+        "",
+        "M",
+        "",
+        "(A) (B)M (C)K (D) (A) (A)Cr-Ni-Fe(B)W-Cr-V-Fe (C)Co-Cr-W-Fe(D)W-Co-C-Fe (A) (B) (A) (D) (B) (B) 18 % (B) 4 % (C) (D) (D) (A) (B) 18 % 4 % 1 %(D) (A) (D) 1 % 18 % )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH01_003",
+      "subject": "機械製造",
+      "unit": "1-2",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "200",
+        "600",
+        "820",
+        "1, 100 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

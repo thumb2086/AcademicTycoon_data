@@ -1,0 +1,1029 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH05",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH05",
+    "title": "CH5"
+  },
+  "title": "機械基礎實習全冊 Chapter 5 ԓґਿ͉዁Ъ",
+  "source_pdf": "機械基礎實習全冊/CH5PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "ԓґਿ͉዁Ъ"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 熟悉車床操作與安全注意事項 5-1 車床的工作原理與功用"
+        },
+        {
+          "type": "heading",
+          "text": "2. 認識車床上使用的手工具 5-2 車床的構造與種類"
+        },
+        {
+          "type": "heading",
+          "text": "3. 瞭解車床的保養與維護。 5-3 認識車床上使用的手工具"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 操作車床之安全注意事項"
+        },
+        {
+          "type": "heading",
+          "text": "5-5 車床的保養與維護"
+        },
+        {
+          "type": "heading",
+          "text": "5-6 車床基本操作"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "88"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "heading",
+          "text": "5-1 ԓґٙʈЪࡡଣၾ̌͜"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床 (Lathe) 是最早被發明的工作母機。在有歷史記載以 來,人類自 13 世紀中期,即學會使用簡易的旋轉機構加工物 件。如圖 5-1(a) 所示,透由腳踏方式,以帶繩帶動工件轉動, 在工件正轉時,進行切削,再由樹枝 ( 彈簧棒 ) 的自然彈力使 帶繩回復 ( 工件逆轉 ),如此往復旋轉工件,便可將工件切削 出所需形狀,此類簡單的機構被稱為彈簧柱車床 (Spring pole lathe) 或腳踏式車床 (Foot lathe),加工對象為木頭,至今仍有 以此車床加工木製品者。 1797 年,英國人亨利曼史雷 (Henry Maudslay) 發明了第一 部以螺桿驅動的機力車床 (Engine lathe),它使用 V 型導軌 (Vee guide way) 及導螺桿傳動,用於金屬材料的加工,是現代車床 的雛型,如圖 5-1(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ ߧ 5-1 ȭⰇಉ᱿⬚᜺⎞ᱹଭ"
+        },
+        {
+          "type": "paragraph",
+          "text": "໽˫Ⰷಉడ̳͸҅͐డ˴ᅩⱧŊҪ͐ӝңଃడ˴Ⳗ⠗ẼՒೣ᱿ӡԇԽడ᱿༬⠛ȯ 在加工過 程,由於使用的刀具,硬度遠高於工件,且具適當的切削角度,故能使刀具對工件進行切削加 工 (Cutting)。 加工的項目, 包括有一般的外徑、 端面、 槽徑、 內徑、 錐度、 螺紋、 偏心軸徑等切削, 甚至塑性加工的壓花或板件旋製或彈簧旋繞等元件製造。依此原理, ⥓घᅘೣడңᑨ᱿⥑⤺Ŋ ⵣ᜺⎊ᅠⰇಉ᱿⃌ᐉŊ໽˫Ⰷಉᆯ໽ሷడ̳ᕒᑨ᱿Ṓᑨȯ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 ԓґਿ͉዁Ъ 89"
+        },
+        {
+          "type": "paragraph",
+          "text": "隨著工業技術快速進步,車床也發展出各種新型的樣式與功能,以便適應產業界多樣少 量、少樣多量或多樣多量的需求,如機力車床、六角車床 (Turret lathe)、仿削車床 (Duplicating lathe)、自動車床 (Automatic lathe)、桌上型車床 (Bench lathe) 及電腦數值控制車床 (CNC lathe) 等。 其中, 「機力車床」是目前使用最廣的車床,又名普通車床或高速精密車床,主軸以齒輪系傳動, 構造精密,轉速可達 2000 ∼ 3000rpm,且可重切削,是當今機械工廠及訓練單位使用最多的車 床,本書所有車床工作範例也都以高速精密車床為說明對象。圖 5-1(c) 及 5-1(d) 所示,係典型國 人開發的高速精密車床與電腦數值控制車床。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ ߧ 5-1 ȭⰇಉ᱿⬚᜺⎞ᱹଭ ( ↲ )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "5-2 ԓґٙ࿴ிၾ၇ᗳ"
+        },
+        {
+          "type": "paragraph",
+          "text": "現代用途最廣的車床,不外是高速車床,如圖 5-2 示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ ߧ 5-2 ȭネⳌⰇಉࡣ቏ᐉⳍ ( שʑᑨဏͧ ) 高速車床主要部位包括..主軸頭座 (Head-stock)、快速變換齒輪箱 (Quick-change gearbox)、 刀具溜座組 (Tool carriage assembly)、床台 (Bed) 及尾座 (Tail-stock) 等機構,分述如下。"
+        },
+        {
+          "type": "heading",
+          "text": "ɓe˴ൿ᎘ࢭ"
+        },
+        {
+          "type": "paragraph",
+          "text": "主軸頭座如圖 5-3 所示,包含空心主軸、主軸齒輪系及外掛齒輪系等三部分。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 5-3 ȭʙⰧᆑಚ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 ԓґਿ͉዁Ъ 91"
+        },
+        {
+          "type": "heading",
+          "text": "空心主軸由高精度滾珠及滾柱軸承所支撐,"
+        },
+        {
+          "type": "heading",
+          "text": "用以裝置夾頭或面板;軸孔前端製成標準莫氏錐"
+        },
+        {
+          "type": "paragraph",
+          "text": "度 (Morse taper) 孔,以裝配頂心或套筒等附件。"
+        },
+        {
+          "type": "heading",
+          "text": "主軸製成空心,如圖 5-4,主要是對於長條"
+        },
+        {
+          "type": "heading",
+          "text": "型工作物的加工, 可穿過空心軸, 方便夾頭夾持;"
+        },
+        {
+          "type": "paragraph",
+          "text": "且空心軸比起實心軸,具有較佳的強度與剛性。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 5-4 ȭἇൔʙⰧ"
+        },
+        {
+          "type": "heading",
+          "text": "主軸齒輪箱內有主軸輪系,包括高精密後"
+        },
+        {
+          "type": "paragraph",
+          "text": "列齒輪 (Back gear) 與主軸齒輪 (Shaft gear),均"
+        },
+        {
+          "type": "heading",
+          "text": "藉由齒輪運轉與潤滑油構成自潤系統,可充分獲"
+        },
+        {
+          "type": "paragraph",
+          "text": "致潤滑與冷卻,減緩主軸運轉昇溫問題。透過齒"
+        },
+        {
+          "type": "heading",
+          "text": "輪箱外的速度變換把手,可調整主軸各段轉速,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-5。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 5-5 ȭʙⰧ㕗ⱐ7"
+        },
+        {
+          "type": "heading",
+          "text": "主軸轉速大分為高速檔與低速檔,當後列"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪 (Back gear train) 作動時,表示轉速被置於"
+        },
+        {
+          "type": "heading",
+          "text": "低速檔位,此時,主軸以高扭力輸出,可用來重"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削或需慢速切削的場合。外掛輪系置於主軸頭"
+        },
+        {
+          "type": "heading",
+          "text": "左側,由鋁製護蓋保護,空心主軸帶動外掛輪系"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪,進而驅動縱、橫向的進給機構或螺紋車削"
+        },
+        {
+          "type": "heading",
+          "text": "機構,如此即可透過外掛輪系齒輪組的變換,調"
+        },
+        {
+          "type": "paragraph",
+          "text": "整自動進給的速率或螺紋車削的節距 (Pitch) 值, 如圖 5-6。 ▲ ߧ 5-6 ȭक࿨㕗ⱐ7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "92"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeҞ஺ᜊ౬኉ቃᇌ"
+        },
+        {
+          "type": "paragraph",
+          "text": "快速變換齒輪箱,即所謂 8 段變速機構,圖 5-7(a) 顯示內部結構圖。 透過此機構的外部調整把手,如圖 5-7(b),可快速變換縱、橫向的自動進給速率或螺紋車削 的節距。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) Ҝᕀ⩐Ⳍҙⵒᑨᐉ (b) Ҝᕀ⩐Ⳍकⵒᑨᐉ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 5-7 ȭ൬Ⳍ⩐ဘ㕗ⱐᾼ"
+        },
+        {
+          "type": "paragraph",
+          "text": "⦲ᄮⳖ⃛᪓トͩԽడ᧎᱿ቨ⫨ȮӡԇᛖಙȮӡԇⳌಙדӝңቨ⫨≟⩐Ւȯ 不同進給率的設 定,可查尋車床製造商所提供的「進給速率操作表」,依表中所對應的「英文字母」及「阿拉 伯數字」,調整其變換把手的位置即可獲得。當變換進給速率後,將主軸選在較高轉速的檔位, 以右手旋轉夾頭, 查看自動進刀桿是否隨之轉動, 如果沒有, 表示輪系尚未完整嚙合, 須再調整, 直至自動進刀桿確定隨夾頭旋轉後,始得啟動主軸。主軸一旦被啟動並於旋轉狀態下,便不得 再操作變換桿把手,以免發生齒輪撞擊,危害機器。"
+        },
+        {
+          "type": "heading",
+          "text": "ɧeɠՈ๠ࢭଡ଼"
+        },
+        {
+          "type": "paragraph",
+          "text": "刀具溜座組由 ಉㄤ (Saddle) 與 ಉ౐ (Apron) 兩 部份所組成。"
+        },
+        {
+          "type": "heading",
+          "text": "床鞍置於床台的水平面上,如圖 5-8 所示,包"
+        },
+        {
+          "type": "paragraph",
+          "text": "括橫向進給機構 (Cross feed mechanism)、複式刀座 (Compound rest) 與方刀塔 (Square tool post) 等。 橫向進給機構由橫向滑軌 (Cross slide) 與橫向導 螺桿所組成,負責徑向切削 (Radial cutting),進給手 輪上附有精密刻度環,供徑向進給調整之用。複式 ▲ ߧ 5-8 ȭಉㄤ 刀座用於調整半錐角 (Half taper angle),車削短距離 的內、外徑錐度。方刀塔四面用於裝置刀具。"
+        },
+        {
+          "type": "heading",
+          "text": "床帷設計於床台的垂直面,包含有:縱、橫向"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動進給機構及螺紋車削機構,如圖 5-9 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "自動進給機構可透過外掛輪系的齒輪傳動,帶動"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動進給桿,以控制其自動進給。螺紋車削機構亦是 藉由外掛輪系的齒輪傳動,促使導螺桿 (Lead screw) 轉動,再配合半合螺帽 (Half nut) 與螺紋車削指示器 (Thread chasing dial) 原理,便可達螺紋車削目的。 ▲ ߧ 5-9 ȭಉ౐"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 ԓґਿ͉዁Ъ 93"
+        },
+        {
+          "type": "heading",
+          "text": "̬ eґ̨"
+        },
+        {
+          "type": "heading",
+          "text": "ಉשɺ⎷˫風隶風ໞŊ᮫ᅠ風隶ңʃⳐ↲ඖ᱿"
+        },
+        {
+          "type": "heading",
+          "text": "⫨߸⃅ↈŊᄑңᏎؚ̈́ネ⋱Իȯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "床台上面有 V 型導軌 (Vee guide Way),是車床"
+        },
+        {
+          "type": "heading",
+          "text": "縱向進給的基準,通常經高週波表面硬化及精密研"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨處理,以提高耐磨耗性與其精度。 床座是車床的基底,承載車床上所有的組件。"
+        },
+        {
+          "type": "heading",
+          "text": "其內部設計有主軸馬達、電氣控制箱、冷卻油泵及"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削劑儲存槽等設備;外部有切屑承盤 (Chip pan)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ ߧ 5-10 שȭಉ"
+        },
+        {
+          "type": "heading",
+          "text": "與過濾網,可提供暫時堆放切屑及過濾切削劑之用,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-10 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ʞe҈ࢭ"
+        },
+        {
+          "type": "heading",
+          "text": "ଜಚ⥑⤺Ჿ᱿ᆯଃడ˴⿛ʑൔઋȮ⿛ઋȮᄋ➦"
+        },
+        {
+          "type": "heading",
+          "text": "hȮ⹶ઋȮᄄ႓డ˴໣֠Հዮᔌడ˴ᾀడ̳Ŋ 各部"
+        },
+        {
+          "type": "paragraph",
+          "text": "位結構名稱如圖 5-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "當尾座用來加工工件時,心軸需套入附有莫"
+        },
+        {
+          "type": "heading",
+          "text": "氏錐度的錐柄鑽夾或錐柄鑽頭進行鑽孔加工;當尾"
+        },
+        {
+          "type": "heading",
+          "text": "▲ ߧ 5-11 ȭଜಚ"
+        },
+        {
+          "type": "paragraph",
+          "text": "座用以支撐工件時,則心軸需套入固定頂心 (Dead center) 或活動頂心 (Live center);尾座頂心亦可用 以校正刀具中心高度。當尾座校正工作物時,可用"
+        },
+        {
+          "type": "heading",
+          "text": "心軸端面頂住工件的端面,直接對工件做垂直面的"
+        },
+        {
+          "type": "paragraph",
+          "text": "校正。 Ⰷಉ⣳ጁɺ⎷˫ሱञడ̳᱿ᅩല (Swing) Ŋكờ 如圖 5-12 所示。如 356mm,表示該部車床所能車 削的最大直徑為 356mm; ˇሷ˫қൔ⿵᱿⭡サờكŊ 如 550mm,表示該部車床以兩心工作時,所能車削 的最大長度為 550mm。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ ߧ 5-12 ȭⰇಉ⣳ጁ⠧ḻ"
+        },
+        {
+          "type": "heading",
+          "text": "車床加工方向,如圖 5-13 所示,以夾持於夾頭"
+        },
+        {
+          "type": "heading",
+          "text": "上的圓形工件為準, ౹⠗ᅠడ˴Ⱗൔ᱿ᅞ׿ờᣅⰧ"
+        },
+        {
+          "type": "paragraph",
+          "text": "׿ (Axial direction) ໣XI׿Ŋࠡ᳅ᅠడ˴Ⱗൔ᱿ᅞ׿ ờᣅല׿ (Radial direction) ໣ᑲ׿ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "所以縱向進給是指沿著工件軸心的方向進行切"
+        },
+        {
+          "type": "heading",
+          "text": "削,如一般的外徑車削或以尾座進行鑽孔;而橫向"
+        },
+        {
+          "type": "heading",
+          "text": "進給是指在工件直徑的方向做切削,如切槽或切斷"
+        },
+        {
+          "type": "paragraph",
+          "text": "加工等。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 5-13 ȭⰇಉԽడᅞ׿⠧ḻ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "94"
+        },
+        {
+          "type": "heading",
+          "text": "5-3 ႩᗆԓґɪԴٙ͜˓ʈՈ"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床上經常使用的手工具有夾頭扳手、刀架扳手及六角扳手,如圖 5-14(a) 所示。 夾頭扳手用於鎖緊或鬆開夾頭上的工作物夾持,使用時,需以兩手進行,如圖 5-14(b)。 為人體工學考量,面對夾爪,扳手順時間旋轉者為鎖緊動作,相反則為鬆開動作。刀架扳 手用於方刀塔上刀具的鎖固,以單手或雙手操作即可,如圖 5-14(c)。 車床上配置的六角扳手,用於複式刀座的鎖固或螺紋車削時,蝸輪座的鎖固,如圖 5-14(d)。 上述 ᤀ⧄̬Ớ༡༆ŊᅡԻጥ᱿⥑⤺ࠀሷɺહ᱿⿢ಙᐻ᜾Ŋ͐ᮢᆹŊʃവҪह˫˶̬हᾷᅡ"
+        },
+        {
+          "type": "heading",
+          "text": "ԻŊ؋ԅ༡༆໣⡕ᅡԻ᱿➦ጥࠀᏎᆞᱹᮝ⩐ഐ໣༛ᅜȯ"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 5-14 ȭⰇಉʀ⃻౑͐ᮢ᱿༆డң"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 ԓґਿ͉዁Ъ 95"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 ዁ЪԓґʘτΌءจԫධ"
+        },
+        {
+          "type": "paragraph",
+          "text": "如前述,車床加工是工作物旋轉,刀具移動的一種加工方式,操作上的安全措施與其他機 器的操作相同,如能遵循其安全規範並按時保養維護,便很安全;否則很有可能隨時發生意外, 如工件未夾緊而飛出傷及操作者、刀具或工件懸量過長,車削時發生顫振 (Chattering) 或異聲、 進給過快而發生撞車,損壞刀具或機器等情形,故除謹慎操作外,尚需注意下列安全事項及可 能發生的意外,參考圖 5-15。"
+        },
+        {
+          "type": "heading",
+          "text": "1. Ⴝ̳ⰇಉʃവἊ໷༆हŊ 並應穿著輕便工作服及配戴安全眼鏡,如圖 5-15(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 刀具、量具、工具不應任意堆放,常用扳手應整齊置放在主軸頭座上,如圖 5-15(b)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. Ⰷಉʀ⺫ԇŊႽ̳≛ະ߱⳵サपᆑ᱿ᅞ׿డ̳Ŋ 如圖 5-15(c)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 5-15 ȭႽ̳Ⰷಉ౑⣲᱿મҚۊ丙"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "96"
+        },
+        {
+          "type": "heading",
+          "text": "4. 車床上不應單手使用砂布,砂布應平貼於銼刀下使用,如圖 5-15(d)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 刀塔應對角裝置刀具,勿裝滿刀具,以確保安全,如圖 5-15(e)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 變換轉速前,應先微轉夾頭,以利齒輪入檔,且不得觸摸轉動中的夾頭,如圖 5-15(f)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 5-15 ȭႽ̳Ⰷಉ౑⣲᱿મҚۊ丙 ( ↲ )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 ԓґਿ͉዁Ъ 97"
+        },
+        {
+          "type": "heading",
+          "text": "7. 扳手用畢應隨手取下;啟動夾頭前,應確定一切都安全才能啟動,如圖 5-15(g)。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 嚴重纏屑,表示車削條件錯誤,纏屑應以鐵屑鉤清除,如圖 5-15(h)。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 各式刀具應擺放整齊,各式量具也應擺放整齊,如圖 5-15(i)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 5-15 ȭႽ̳Ⰷಉ౑⣲᱿મҚۊ丙 ( ↲ )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "98"
+        },
+        {
+          "type": "heading",
+          "text": "5-5 ԓґٙڭቮၾၪᚐ"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床工作,除了操作上的安全事項外,維護與保養是操作者做好車床的第一步。 ɺ̤ѭṡ᱿ ༬⠛ڂŊଃᅠ⎊నႽ̳᱿ⰇಉŊɺહሳらᆹΎ㇭H⩂Ŋ 這是極其重要的習慣,因為車床能隨時維 持在最佳狀態,才能車製出高精度的零件,操作者的安全也才得以保障。車床的清潔與潤滑,在 製造商所提供的維護手冊中,均已詳細規定,今再以日常遇見的保養問題說明之,參考圖 5-16。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 清理車床,應先推開尾座,由後床台開始清理擦拭,並於床台滑軌上注入一層薄油,潤滑"
+        },
+        {
+          "type": "paragraph",
+          "text": "兼防鏽,如圖 5-16(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 橫向進刀螺桿及鳩尾槽配合處也應注入潤滑油,確保滑順移動,如圖 5-16(b)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 方刀塔刀具拆卸後,應擦淨保養。 पᦧʀ᱿ᅞᧃ➦ጥŊӡխʀᗴ។᝱Ŋ˫҉द׏पྃ᱿ၷ"
+        },
+        {
+          "type": "paragraph",
+          "text": "ჍԻŊ 如圖 5-16(c)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ ߧ 5-16 ȭⰇಉ᱿ᛤះΎ㇭⎞H⩂"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 ԓґਿ͉዁Ъ 99"
+        },
+        {
+          "type": "heading",
+          "text": "4. 導螺桿的螺牙底部,容易沉積飛塵與雜屑,應以棉繩繞圈去除。並且殘留在車床上的切削"
+        },
+        {
+          "type": "paragraph",
+          "text": "劑,應立即擦淨,以防鏽蝕,如圖 5-16(d)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 機件配合前,應先將配合部位擦淨,以防配合面刮傷,油漆部位應擦淨,不應上油,以防"
+        },
+        {
+          "type": "paragraph",
+          "text": "飛塵附著,如圖 5-16(e)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 工作中,也應保持床台乾淨;收工後,刀具溜座應歸於床台右邊,並將電源關閉,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "5-16(f)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ ߧ 5-16 ȭⰇಉ᱿ᛤះΎ㇭⎞H⩂ ( ↲ )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "൩eҦঐ௅ɦ"
+        },
+        {
+          "type": "heading",
+          "text": "5-6 ԓґਿ͉዁Ъ"
+        },
+        {
+          "type": "heading",
+          "text": "5-6-1 c˴ൿ઼ٙਗၾ৾˟"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作程序:參考圖 5-17。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ ߧ 5-17 ȭʙⰧ᱿ۓՒ⎞ϟᔋ ( שʑᑨဏͧ )"
+        },
+        {
+          "type": "heading",
+          "text": "1. 開啟車床分電盤的電源及車床主軸電源。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以右手微轉夾頭,左手調整「轉速變換桿」,將主軸齒輪入檔 ( 任意轉速檔 )。"
+        },
+        {
+          "type": "heading",
+          "text": "3. ˫ఢ༆െⱧपᆑŊ␵ሷെ⸅᱿฾⤌Ŋԅ⠧ḻ㕗ⱐ఩Ҙᒆȯ"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以右手拉起 ( 或壓下 ) 「正逆轉啟動桿」,使主軸正轉 ( 或逆轉 )。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 將「正逆轉啟動把手」歸回原位,再採煞車,使主軸停止。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 以右手壓下 ( 或拉起 ) 「正逆轉啟動把手」,使主軸逆轉 ( 或正轉 )。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 將「正逆轉啟動把手」歸回原位,再採煞車,使主軸停止。"
+        },
+        {
+          "type": "paragraph",
+          "text": "重覆上述步驟,以熟悉車床主軸的正逆轉操作。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 ԓґਿ͉዁Ъ 101"
+        },
+        {
+          "type": "heading",
+          "text": "5-6-2 c˴ൿᔷ஺ᜊ౬"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作程序:參考圖 5-18。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 開啟車床分電盤電源及車床電源開關。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 依「主軸轉速操作表」的指示,以右手微轉夾頭,左手調整「轉速變換把手」及「高低速"
+        },
+        {
+          "type": "paragraph",
+          "text": "檔變換把手」,選定任意轉速調整之。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 5-18 ȭʙⰧⳌಙ⩐ဘႽ̳"
+        },
+        {
+          "type": "heading",
+          "text": "3. ఢ༆െⱧपᆑᆹŊ␵ሷെ⸅໣Ꮞ⸅᱿฾⤌Ŋ⠧ḻʙⰧ㕗ⱐ఩Ҙᒆȯ"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以右手拉起 ( 或壓下 ) 「正逆轉啟動把手」,使主軸正轉。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 將「正逆轉啟動把手」歸回原位,再踩煞車,使主軸停止。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 依「主軸轉速操作表」的指示,調變其他轉速。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 重覆上述步驟,以熟悉主軸各段轉速。"
+        },
+        {
+          "type": "paragraph",
+          "text": "⥘ŘʙⰧⱧՒʑŊӡխ⩐ဘⱧⳌᒆ̤Ŋ˫҉㕗ⱐ႞Ⴛטံȯ"
+        },
+        {
+          "type": "heading",
+          "text": "5-6-3 cᐽΣeዑΣၾልόɠࢭආɠ˓ቃٙ዁Ъ"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作程序:參考圖 5-19。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 關閉車床電源,以防誤觸「正逆轉啟動把手」。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以右手操作「縱向進給手輪」,使刀塔左右移動,"
+        },
+        {
+          "type": "paragraph",
+          "text": "參考圖 5-19(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 熟悉縱向刻度環讀數值:"
+        },
+        {
+          "type": "heading",
+          "text": "ᕓɺԀಙϊ = డ˴⿢ಙ᱿࣑ᛧ⸇ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以左手操作「橫向進給手輪」,使刀塔前後移動。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ ߧ 5-19 ȭXI׿Ȯᑲ׿⎞⢒ೣӝಚⳖ⃛༆ⱐ"
+        },
+        {
+          "type": "heading",
+          "text": "Ⴝ̳∑∳"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "102"
+        },
+        {
+          "type": "heading",
+          "text": "5. 熟悉橫向刻度環讀數值:"
+        },
+        {
+          "type": "heading",
+          "text": "ᕓɺԀಙϊ = డ˴᳅ല᱿࣑ᛧ⸇ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "6. 以右手操作「複式刀座進給手輪」,"
+        },
+        {
+          "type": "paragraph",
+          "text": "使 刀 塔 左 右 移 動 ( 當 半 錐 角 = 0° 時 )。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 熟悉複式刀座刻度環的讀數值:"
+        },
+        {
+          "type": "heading",
+          "text": "ᕓɺԀಙϊ = డ˴⿢ಙ᱿࣑ᛧ⸇ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "8. 將「縱、橫向直線軌跡路徑圖」安"
+        },
+        {
+          "type": "paragraph",
+          "text": "裝於床台上,參考圖 5-19(b)。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 兩手轉動縱、橫向進給手輪,配合"
+        },
+        {
+          "type": "paragraph",
+          "text": "軌跡圖案,使指針徐徐移動。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 指針移動的路徑需恆落於軌跡內,"
+        },
+        {
+          "type": "paragraph",
+          "text": "並於規定時間內完成。"
+        },
+        {
+          "type": "heading",
+          "text": "重複上述步驟,練習「縱、橫向斜"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ ߧ 5-19 ȭXI׿Ȯᑲ׿⎞⢒ೣӝಚⳖ⃛༆ⱐႽ̳∑∳ ( ↲ ) 線與曲線的軌跡路徑圖」。"
+        },
+        {
+          "type": "heading",
+          "text": "5-6-4 cІਗආഗၾ஺ଟᜊ౬዁Ъ"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作程序:參考圖 5-20。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 開啟車床分電盤電源及車床電源。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 依「自動進給速率操作表」調整「進給速率變換把手」,選定某項進給率,如圖 5-20(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 確定主軸齒輪及自動進給齒輪均已入檔後,啟動車床,如圖 5-20(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "▲ ߧ 5-20 ȭ⎊ՒⳖ⃛⎞Ⳍ᪓⩐ဘႽ̳"
+        },
+        {
+          "type": "heading",
+          "text": "4. ˫׬༆െⱧपᆑᆹŊ⎊ՒⳖ⃛ጥሳらʠⱧՒŊԅ⠧ḻ⎊ՒⳖ⃛㕗ⱐ఩Ҙᒆȯ"
+        },
+        {
+          "type": "heading",
+          "text": "5. 以左手調整「自動進給變向把手」,使床鞍自動縱向進給。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 將「自動進給變向把手」歸原位,使床鞍停止進給。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 以左手調整「自動進給變向把手」,使刀具自動橫向進給。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 重覆上述步驟,調變其他進給速率,以熟悉自動進給速率的變換,切記 ʙⰧⱧՒʑŊխ⩐"
+        },
+        {
+          "type": "heading",
+          "text": "ဘҢ˟Ⳗ⃛᪓Ŋ˫҉㕗ⱐ႞Ⴛטံȯ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 ԓґਿ͉዁Ъ 103"
+        },
+        {
+          "type": "heading",
+          "text": "5-6-5 c҈ࢭ዁Ъ"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作程序:參考圖 5-21。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ ߧ 5-21 ȭଜಚႽ̳"
+        },
+        {
+          "type": "heading",
+          "text": "1. 關閉車床電源,以防誤觸「正逆轉啟動把手」。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 調整「尾座固定把手」,放鬆尾座,並推至床台適當處,再鎖固尾座。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 調整「心軸固定把手」,以右手轉動手輪,將心軸伸出適當長度。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 熟識手輪刻度環之讀數值及心軸刻度值之讀數值。"
+        },
+        {
+          "type": "heading",
+          "text": "5. ᕓɺԀಙϊ = డ˴Ⱗ׿ᛖಙ᱿࣑ᛧ⸇。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 調變「進給率調整把手」,並以右手轉動手輪,以熟識心軸之進給速率。"
+        },
+        {
+          "type": "paragraph",
+          "text": "重覆上述步驟,熟悉尾座各項操作。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch05/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "൙ඎܝኪ"
+        },
+        {
+          "type": "heading",
+          "text": "一、 \u0002 選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u0003\u0004\u0005 ( ) 1. 車床規格表示,一般係以 (A) 刀具溜座移動 (B) 橫向進刀移動 (C) 複式刀座 移動 (D) 二頂心間 之最大距離。 ( ) 2. 使尾座和刀具溜座保持平行的機件是 (A) 倒 V 形床軌 (B) 導螺桿 (C) 進刀桿 (D) 複式刀座。 ( ) 3. 車 床 上 鑽 中 心 孔、 攻 螺 紋 等 工 作, 主 要 使 用 到 (A) 複 式 刀 座 (B) 導 螺 桿 (C) 橫向進給機構 (C) 尾座。 ( ) 4. 下列何者不是車床空心主軸的目的 (A) 減輕重量 (B) 方便觀察 (C) 方便排屑 (D) 加工長工件。 ( ) 5. 車床主軸的方向稱為 (A) 縱向 (B) 橫向 (C) 徑向 (D) 周向。 ( ) 6. 自動進給及車削螺紋機構裝置於 (A) 床鞍內部 (B) 床鞍外部 (C) 床帷內部 (D) 床帷外部。 ( ) 7. 車 床 電 器 設 備 絕 緣 不 良, 可 能 造 成 之 現 象 為 (A) 漏 電 (B) 正、 反 轉 不 靈 (C) 電磁開關會跳脫 (D) 馬達不轉動。 ( ) 8. 車床工作中,橫向進給是指 (A) 圓形工件的直徑方向 (B) 車床的中心軸方向 (C) 與尾座心軸平行的方向 (D) 與 V 型床軌平行的方向。 \u0003\u0004\u0006 ( ) 9. 車床工作中,利用煞車的目的是 (A) 防止刀尖破裂 (B) 保護工件 (C) 防止頂 心鬆脫 (D) 緊急停車。 \u0003\u0004\u0003 ( ) 10. 車床主軸箱加注潤滑油時,油面應在 (A) 油窗頂端 (B) 油窗頂端至中心線間 (C) 油窗中心線 (D) 油窗下端。 ( ) 11. 選用車床齒輪箱內之潤滑油, 最重要的特性是 (A) 揮發性 (B) 黏度 (C) 著火點 (D) 絕緣性。 ( ) 12. 車床在使用後,最須採行的維護工作為 (A) 調整 (B) 擦拭及注油 (C) 暖機 (D) 拆下夾頭。 ( ) 13. 車床工作,嚴禁使用 (A) 安全鞋 (B) 安全眼鏡 (C) 手套 (D) 耳塞。 \u0003\u0004\u0007 ( ) 14. 一 般 高 速 車 床 變 速 時, 正 確 操 作 是 (A) 主 軸 停 止 後 變 速 (B) 轉 動 間 變 速 (C) 主軸停止動前變速 (D) 車床起動後瞬間變速。 ( ) 15. 車床起動後,主軸不轉,可能原因是 (A) 主軸變速桿未定位 (B) 進給車牙變換 桿未定位 (C) 換向操作桿未定位 (D) 縱、橫自動進給操作桿未定位。 ( ) 16. 車床複式刀座的主要用途是車削 (A) 較長工件 (B) 較薄工件端面 (C) 長桿錐 度工件 (D) 短桿錐度工件。 ( ) 17. 車削工作中,若發覺車床有異狀或有不正常之聲音時,首先要 (A) 切斷電源 (B) 退出刀具 (C) 踩煞車 (D) 加速車削。"
+        },
+        {
+          "type": "heading",
+          "text": "104"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "൙ඎܝኪ"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 18. 車床煞車後,主軸無法立即停止,煞車放開後,主軸又恢復轉動,可能原因是 (A) 煞車帶太鬆 (B) 煞車帶斷裂 (C) 煞車來令片已磨損 (D) 煞車微動開關失靈。 ( ) 19. 校正車床主軸孔中心之偏擺度,以下列何者較為精確 (A) 對正車頭及尾座頂心 (B) 試車削工件 (C) 以量錶及標準桿檢查 (D) 校對尾座記號。 ( ) 20. 車床上切削低碳鋼材料,理想的切屑是 (A) 捲曲之小段 (B) 捲曲而源源不斷 (C) 粉狀 (D) 直條狀。"
+        },
+        {
+          "type": "heading",
+          "text": "\b \u0003 105 105"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "ਞϽ˖ᘠ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 馬敬業,廖清碧譯,工具機及機製實習 ( 上 ), P509 ∼ P510,徐氏基金會, 1989。"
+        },
+        {
+          "type": "heading",
+          "text": "2. D.A. Stephenson, J.S. Agapiou, Metal cutting theory and practice, Third Edition, CRC Press, P8,"
+        },
+        {
+          "type": "heading",
+          "text": "2016."
+        },
+        {
+          "type": "heading",
+          "text": "106"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

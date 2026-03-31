@@ -1,0 +1,1825 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH10",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH10",
+    "title": "CH10"
+  },
+  "title": "機械製造 Chapter 10 螺紋與齒輪製造",
+  "source_pdf": "機械製造/CH10PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH10",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋與齒輪製造"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "10-1 螺紋介紹"
+        },
+        {
+          "type": "heading",
+          "text": "10-2 螺紋加工"
+        },
+        {
+          "type": "heading",
+          "text": "10-3 齒輪種類"
+        },
+        {
+          "type": "heading",
+          "text": "10-4 齒輪加工"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "158"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋具有鎖固、傳力、調整、量測、密封及傳送物料等功用,為日常生活中不可或缺 的工業必須品。例如:眼鏡、鐘錶及隨身聽所用的小螺紋;鋼琴、車床、傢俱使用的一般 螺紋;乃至輪船、建築物、鐵塔及橋樑所使用的大型螺紋等,隨處可見螺紋的蹤影。 螺紋的製造方法很多,例如:車削、銑削、輪磨、滾軋、螺紋機切製、手工攻製、鉸 製及壓鑄等。每一種製造方法均有其特色與適用領域。例如:滾軋適用於大量生產但胚料 硬度不能太高;淬硬的工件可用輪磨法精修;壓鑄法只適用於低熔點金屬⋯等等。機械工 作者必須了解每一加工法的特色,方能因應不同的工作條件選用最符合經濟原則的加工 法。 齒輪是機器最重要的傳動機件,其製造精度與耐磨之程度會影響整部機器的品質與使 用壽命。但是齒輪的製造技術困難,所以由一個國家的齒輪製造技術,可看出一個國家的 工業水準。"
+        },
+        {
+          "type": "heading",
+          "text": "10-1 螺紋介紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 10-1 所示者為各種常見的螺紋製品。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-1 常見的螺紋製品 ( 圖片取自羽威實業公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "壓鑄 上冊 P96"
+        },
+        {
+          "type": "heading",
+          "text": "利用高壓力將熔融金屬液注入金屬鑄"
+        },
+        {
+          "type": "paragraph",
+          "text": "模內,以便形成所需鑄件的鑄造法。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 159"
+        },
+        {
+          "type": "heading",
+          "text": "一、螺紋各部分的名稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋各部分的名稱,如圖 10-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-2 螺紋各部分之名稱"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 大徑"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋的最大直徑,又稱為公稱尺寸,即外螺紋的牙頂直徑,或內螺紋的牙底直徑。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 小徑"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋的最小直徑,即外螺紋的牙底直徑,或內螺紋的牙頂直徑。 ( 三 ) 節圓直徑 (Pitch Diameter) 簡稱節徑,為一假想圓之直徑,在此假想圓之圓周軸線上,螺紋牙間和牙厚相等。節 徑為檢驗螺紋的標準尺寸,是螺紋極重要的尺寸。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 牙峰"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為牙頂,為螺紋的頂部。"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 牙根"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為牙底,為螺紋的底部。"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 牙深"
+        },
+        {
+          "type": "paragraph",
+          "text": "沿垂直軸線方向,牙峰與牙根面的垂直距離。"
+        },
+        {
+          "type": "heading",
+          "text": "( 七 ) 牙角 (Thread Angle)"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為螺紋角,為兩牙面間之夾角,有 29 °、 30 °、 45 °、 55 ° 及 60 ° 等多種規格。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "( 八 ) 導程角 (Lead Angle)"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋旋向和中心線的垂線所成的角度。"
+        },
+        {
+          "type": "heading",
+          "text": "( 九 ) 節距 (Pitch)"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為螺距,係相鄰兩螺紋的對應點,在平行軸線方向所量得的距離。"
+        },
+        {
+          "type": "heading",
+          "text": "( 十 ) 導程 (Lead)"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋旋轉一圈,沿軸向前進或後退的距離。單牙螺紋之導程與節距相等,多牙螺紋之"
+        },
+        {
+          "type": "heading",
+          "text": "導程為節距的線數 ( n ) 倍,即:"
+        },
+        {
+          "type": "heading",
+          "text": "L = n × P"
+        },
+        {
+          "type": "heading",
+          "text": "二、螺紋之功用"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 鎖固"
+        },
+        {
+          "type": "paragraph",
+          "text": "將機件結合在一起,是螺紋最主要的功用,例如車床之床台可用基礎螺栓鎖緊在地面 上。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 傳力"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床之刀座由導螺桿驅動等速進刀,配合工件之等速迴轉運動可以車削螺紋,即為傳 力之應用實例。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 量測或調整機件的距離"
+        },
+        {
+          "type": "paragraph",
+          "text": "分厘卡之心軸上有節距 0.5 mm 之螺紋,若將套筒分為 50 等分,則每轉一刻劃就表示 心軸前進 0.01 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 防漏"
+        },
+        {
+          "type": "paragraph",
+          "text": "錐度管螺紋可以防漏。"
+        },
+        {
+          "type": "heading",
+          "text": "相關知識"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋實際的使用起自 19 世紀中期,期間經過多次牙形改變,最後發展成國際標準牙形。螺紋的演變"
+        },
+        {
+          "type": "heading",
+          "text": "歷史如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1841 年,英國 Whitworth 氏首先制定螺紋制度,牙角 60 °,英制規格; 1864 年,美國 Sellers 氏訂 出牙峰平形,牙角 60 ° 的美國標準螺紋; 1898 年,公制度量衡國家宣布採用 SI 規格之公制螺紋,牙 角 60 °; 1948 年,美國、英國與加拿大共同制定三國通用的統一標準螺紋,英制規格; 1964 年,公 制度量衡國家建議採用 ISO 標準螺紋,因此,若英制國家改用公制單位, ISO 螺紋將成為全球性統 一的標準螺紋。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 161"
+        },
+        {
+          "type": "heading",
+          "text": "10-2 螺紋加工"
+        },
+        {
+          "type": "heading",
+          "text": "10-2-1 機器切削法"
+        },
+        {
+          "type": "heading",
+          "text": "一、 車削螺紋 (Thread Turning)"
+        },
+        {
+          "type": "paragraph",
+          "text": "車削螺紋如圖 10-3 所示,胚料以夾頭夾持等速迴"
+        },
+        {
+          "type": "heading",
+          "text": "轉,刀具溜座以等速迴轉的導螺桿驅動作等速直線進"
+        },
+        {
+          "type": "paragraph",
+          "text": "給,牙刀即可在工件上車出螺紋槽。"
+        },
+        {
+          "type": "heading",
+          "text": "不同的車刀可車出不同的螺紋,如: V 形螺紋、"
+        },
+        {
+          "type": "paragraph",
+          "text": "梯形螺紋、方形螺紋及鋸齒形螺紋⋯等。車製時,首"
+        },
+        {
+          "type": "heading",
+          "text": "先依規格將車刀磨成正確角度,以牙規校正後,固定"
+        },
+        {
+          "type": "paragraph",
+          "text": "於刀架上。依工件及導螺桿之節距搭配齒輪,然後配 合螺紋指示器,離合半螺帽與螺桿,促使刀座縱向往 ▲ 圖 10-3 車削螺紋 復移動,重覆數次進刀車削,至所需牙深為止。 螺紋之檢驗部位,有:牙角、牙深、節距、小徑、大徑及節徑等,其中以節徑之檢驗 最為重要。檢驗的方法,可用:螺紋量規、投影機、工具顯微鏡、螺紋比較儀、螺紋分厘 卡及三線量測法等。本單元僅說明車削時最普遍應用之螺紋分厘卡及三線量測法量節徑。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 螺紋分厘卡"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋分厘卡如圖 10-4 所示,其主軸及砧座均為 V 形,可直接由套筒刻度讀出螺紋之 節徑。砧座可依受測工件之節距不同而更換。 用此法檢驗時,螺紋牙角必須正確,否則會 嚴重影響量測結果之正確性。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-4 螺紋分厘卡 ( 圖片取自三豐公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "2. 三線量測法"
+        },
+        {
+          "type": "paragraph",
+          "text": "三線量測法如圖 10-5 所示,以三支等徑之鋼線,置於導螺桿之兩側,以分厘卡夾此三 鋼線測得讀值 M,然後代入下式,求出節徑 E。 三線量測法是檢驗螺紋節徑最常用且最準 確的方法。 測 60 ° V 形螺紋 E = M + 0.866 P − 3 G 測 55 ° 韋氏螺紋 E = M + 0.96049 P − 3.1657 G 測 30 ° 梯形螺紋 E = M + 1.866 P − 4.8637 G 測 29 ° 梯形螺紋 E = M + 1.99333 P − 4.9936 G"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-5 三線量測法"
+        },
+        {
+          "type": "paragraph",
+          "text": "三線量測法之量測對象為螺紋之節徑,故鋼線最好能在螺紋之節點相切,此時之線徑"
+        },
+        {
+          "type": "heading",
+          "text": "稱為標準線徑,如圖 10-6 所示,其值為:"
+        },
+        {
+          "type": "heading",
+          "text": "P G P P α"
+        },
+        {
+          "type": "heading",
+          "text": "= ⇒ G = = sec"
+        },
+        {
+          "type": "heading",
+          "text": "4 α α 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 cos 2 cos"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "α = 60 ° G = 0.57735 P"
+        },
+        {
+          "type": "heading",
+          "text": "α = 55 ° G = 0.56369 P"
+        },
+        {
+          "type": "heading",
+          "text": "α = 30 ° G = 0.51645 P"
+        },
+        {
+          "type": "heading",
+          "text": "α = 29 ° G = 0.51764 P"
+        },
+        {
+          "type": "paragraph",
+          "text": "標準線徑不易獲得,故實際工作時選用之線徑通常比標準線徑略大或略小;以 60 ° V 形螺紋為例,其線徑可在 0.505 P ∼ 1.01 P 之間。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 163"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-6 標準線徑"
+        },
+        {
+          "type": "heading",
+          "text": "二、 銑削螺紋 (Thread Milling)"
+        },
+        {
+          "type": "paragraph",
+          "text": "銑削螺紋如圖 10-7 所示,工件旋轉一周,要同時進螺紋的一導程。所以工件除要沿軸 向進給外,還須使分度頭按一定比例旋轉。 銑削法通常用於加工大尺寸的螺桿。不易轉動的工件可選用行星式銑床加工內、外螺 紋。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-7 銑螺旋"
+        },
+        {
+          "type": "heading",
+          "text": "三、 磨削螺紋 (Thread Grinding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪磨法如圖 10-8 所示,砂輪的外形角度為螺紋的牙角,當工件慢速轉動時,砂輪高速 迴轉並沿工件軸向慢速進給即可磨出螺紋。 螺紋淬火後會變形,以螺紋磨床精修,可獲得高度的精密度與精細的表面粗糙度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-8 磨削螺紋"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋磨床的磨削方式有下列三種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 縱向進給輪磨法"
+        },
+        {
+          "type": "paragraph",
+          "text": "縱向進給輪磨法如圖 10-9 所示,與車床車螺紋及銑床銑螺紋類似。高速迴轉的單紋砂 輪,由磨床的導螺桿驅動,慢速通過迴轉的工件,工件轉一圈,磨輪移動工件一導程的距 離,直至磨完全長為止。 磨削時磨輪會慢速磨耗,所以必須定期用鑽石削整器修正其形狀。修正時,削整器的 動作必須以樣板或縮放機構控制之。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-9 縱向進給輪磨法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 165"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 橫向進給輪磨法"
+        },
+        {
+          "type": "paragraph",
+          "text": "橫向進給輪磨法如圖 10-10 所示。比工件略長的多紋磨輪以橫向 ( 垂直於工件軸心的 方向 ) 進至預定的磨削深度後, 再沿轉動中之工件軸向進給 1 ∼ 2 導程的距離, 磨削即完成, 所以效率比縱磨法高。此種磨法的製品精度比縱磨法低。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-10 橫向進給輪磨法"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 無心螺紋輪磨法"
+        },
+        {
+          "type": "paragraph",
+          "text": "無心螺紋輪磨法如圖 10-11 所示,工件置於成形磨輪與調節輪之間,下面以支托板支 持,由調節輪的控制,慢速通過磨輪面而完成磨削。 此種磨削法由於工件不必裝卸,所以 加工效率最高。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-11 無心螺紋輪磨法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "166"
+        },
+        {
+          "type": "heading",
+          "text": "四、螺紋機切製法"
+        },
+        {
+          "type": "paragraph",
+          "text": "量產工作宜選用專為加工螺紋而設計的專用螺紋機。刀具的進給動作由凸輪或鼓輪配 合極限開關全自動操作,用於小螺釘的製作相當便利。 瑞士型螺紋車床如圖 10-12 所示,此型機器是瑞士鐘錶業者首先採用,以製造各種鐘 錶螺釘及零件,故得名。此型機器只有一個轉軸,使用精密筒夾來夾持經過無心磨床精磨 過的精密胚料。胚料由一極為精密的引導套筒控制伸出筒外的長度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-12 瑞士螺紋車床之端視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "工具頭面上有若干輻射方向裝置的單尖車刀,各車刀的進給或退出皆由凸輪及彈簧控 制。由於刀具裝在固定的工具頭,只能沿輻射方向進退而無法順工件的軸向進給,所以工 件的進給是由可水平移動的頭座來完成。切削時刀具由四面八方同時進行,作用在工件上 的切削力很平衡,工件不受彎曲力矩,所以能車出細長的工件而不彎曲。 此型機器的每一刀具皆有極精密的調整螺紋,所以工件的節徑公差可控制到數 μm, 長度公差亦可控制到 0.01mm。其優點為能車出細長的精密螺紋;缺點則是所用的圓桿胚 料直徑,必須有極高的精密度,方能與引導套筒適切地配合。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 牙鈑刀 (Thread Cutter) 切削法"
+        },
+        {
+          "type": "paragraph",
+          "text": "以如圖 10-13 所示的專用牙鈑刀切削螺紋,即快速又精確。切削時牙鈑刀定速迴轉, 工件慢速轉動一圈並沿軸向移動一節距即可切削出全部螺牙,類似多紋磨輪橫向進給輪磨 法。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 167"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-13 牙鈑刀 ( 圖片取自羽威實業公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "六、自動螺絲模與螺絲攻切製"
+        },
+        {
+          "type": "heading",
+          "text": "在大量生產工作中,使用自動張開式螺"
+        },
+        {
+          "type": "heading",
+          "text": "絲模和自動退縮式螺絲攻,於切削行程的終"
+        },
+        {
+          "type": "heading",
+          "text": "點,刀具可自動脹縮,直行抽離工件,省去"
+        },
+        {
+          "type": "paragraph",
+          "text": "逆轉退刀的時間,加工效率較高。圖 10-14"
+        },
+        {
+          "type": "heading",
+          "text": "所示的自動張開式螺絲鏌,將平板形螺紋切"
+        },
+        {
+          "type": "heading",
+          "text": "刀裝置在如四爪夾頭夾爪的裝置器上,損壞"
+        },
+        {
+          "type": "paragraph",
+          "text": "後可以更換。操作的方式,可以是工件旋轉 而切刀不轉;也可以是工件不轉而切刀旋轉。 切 刀 裝 置 的 位 置 有 切 線 方 向 及 徑 向 兩 種,圖 10-14 所示者為徑向裝置。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-14 自動螺絲模"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "168"
+        },
+        {
+          "type": "heading",
+          "text": "七、 拉削螺紋 (Thread Broaching)"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋拉削係用如圖 10-15 所示的螺紋拉刀,以螺旋前進方式拉經工件內孔而切出螺紋。 類似螺絲攻的攻製。但是螺絲攻的切削作用集中在前端 6 ∼ 8 牙的倒角部位,每一刀口的 切削份量較重,所以刀具容易損壞;拉刀則從前端至末端,每一切刃均有切削作用,不但 吃力輕,而且加工精度高。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-15 螺紋拉刀 ( 圖片取自羽威實業公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "10-2-2 壓鑄法"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓鑄法係將熔解爐中加熱熔化的金屬液以柱塞壓入金屬模內,冷卻後打開模子取出製 品,模子開合一次即完成一次製程。 最適用於低熔點金屬製造外螺紋的大量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "10-2-3 滾軋法"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋滾軋如圖 10-16 所示,是將具有適當可塑性的圓形金屬胚料,置於往復運動的平 板模或迴轉運動的圓滾模間,以適當的壓力將螺紋形狀軋出來,俗稱搓牙。 滾軋時,胚料 向外流動形成 齒頂 (Addendum),所得的成品外徑比胚料大。由於此法不會導致材料的損 失,故與車製螺紋相比較可節省材料約為 16 ~ 25 %。且其螺紋部分呈纖維狀組織,強度 大為增加。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-16 以往復扁模滾軋螺絲之情形"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾軋法屬於冷作,材料以塑性流動的方式成形,並無切削作用,最適用於軟工件的大 量生產。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 169"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 10-17 為車製螺紋與滾軋螺紋的胚料外徑比較。"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-17 滾製螺紋較切削螺紋節省材料的說明"
+        },
+        {
+          "type": "heading",
+          "text": "一、螺紋滾軋的原理"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 原理說明"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋滾軋的原理和使用車床進行壓花 ( 滾紋 ) 一樣,係以硬化的滾模施壓於常溫狀態 的胚料,一面加壓,一面轉動螺紋軸部,則在圓桿胚料數個旋轉至十數個旋轉之間,胚料 發生塑性變形,於是滾模表面的凹凸就相反過來,印在胚料上,如圖 10-18 所示。 滾模的 螺紋旋向必須與欲滾製的工件相反。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-18 滾軋過程"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 螺紋與滾模的導程角"
+        },
+        {
+          "type": "paragraph",
+          "text": "導程角如圖 10-19 所示,係與導程 ( L ) 相對應的 α 角。 α 角、螺紋的導程 ( L ) 與節徑 ( D )"
+        },
+        {
+          "type": "heading",
+          "text": "的關係為:"
+        },
+        {
+          "type": "heading",
+          "text": "L = π D tan α"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾模與工件必須有相同的導程角。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "170"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-19 導程角與工件直徑之關係"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 胚料的外徑"
+        },
+        {
+          "type": "paragraph",
+          "text": "胚料的外徑約等於螺紋的節徑。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 滾製過程"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 10-20 所示,將圓桿胚料置於固定的下模與活動的上模之間。活動模往復運動並 往下施壓,在一個行程內將胚料搓成螺紋。其過程為:工件置於去角部→粗滾軋→光製→ 完成脫落。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-20 滾製過程"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 171"
+        },
+        {
+          "type": "heading",
+          "text": "二、螺紋滾床"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋滾床因滾模的不同,可分為扁模式螺紋滾床與圓模式螺紋滾床兩大類:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 扁模式螺紋滾床"
+        },
+        {
+          "type": "paragraph",
+          "text": "將圖 10-21 所示的活動模與固定模分別裝在圖 10-22 所示的滾床的活動模座與固定模 座上。胚料由漏斗漏下沿漏斗導板進入兩滾模間,活動模往復一次即可滾製一支螺桿。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-21 扁式滾模"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-22 扁模式螺紋滾床"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "172"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 圓模式螺紋滾床"
+        },
+        {
+          "type": "paragraph",
+          "text": "胚料以迴轉的圓滾模搓成螺紋,如圖 10-23 所示。可用的滾床型式有單滾、雙滾及三 滾等三種。滾軋時胚料受滾輪之摩擦力驅動,而與滾輪反向迴轉。同時滾輪對胚料作徑向 進給,到達適當深度後,稍停片刻,待工件迴轉超過一圈後,再將滾輪退至原位置。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-23 圓滾模的種類"
+        },
+        {
+          "type": "heading",
+          "text": "三、優點與缺點"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾軋螺紋與車製螺紋相比較,具有下列數項優點與缺點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 材料產生應變硬化,可增進其抗拉、抗剪及抗疲勞強度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾 2. 牙形精確,表面光度高。"
+        },
+        {
+          "type": "heading",
+          "text": "軋"
+        },
+        {
+          "type": "paragraph",
+          "text": "優點 3. 節省材料,胚料尺寸約等於螺紋的節徑。"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "4. 生產速度快,適用於大量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "紋"
+        },
+        {
+          "type": "heading",
+          "text": "5. 螺紋形狀有多種變化。"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺 1. 滾模較貴,少量生產不經濟。 點 缺點 2. 胚料以塑性流動的方式形成牙頂,故製品的大徑尺寸不易控制。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 材料硬度超過 37HRC 者,無法滾軋。"
+        },
+        {
+          "type": "heading",
+          "text": "10-2-4 手工切製法"
+        },
+        {
+          "type": "heading",
+          "text": "修護工作或裝配工作,經常使用手工切製法,以"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺絲攻攻製內螺紋,以螺絲模鉸製外螺紋。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 螺絲攻 (Tap)"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺絲攻如圖 10-24 所示,刀身沿軸向刻有二、三"
+        },
+        {
+          "type": "heading",
+          "text": "或四道溝槽,構成切刃並形成排屑的通道,其前端製"
+        },
+        {
+          "type": "paragraph",
+          "text": "成錐度,以利起攻。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-24 螺絲攻組"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 173"
+        },
+        {
+          "type": "paragraph",
+          "text": "等徑螺絲攻通常三支成組,外徑大小相等,不同的是倒角的牙數, 第一攻 ( 斜螺絲攻 ) 倒 6 ~ 8 牙,有利切入;第二攻 ( 插螺絲攻 ) 倒 3 ~ 4 牙;第三攻 ( 底螺絲攻 ) 倒 1 牙, 可使攻牙深度接近孔深。攻削通孔用第一攻即可。攻削未穿通的盲孔則依第一、第二及第 三攻的次序攻削,可使不完全牙的牙數減至一牙,讓完全牙的深度接近鑽孔深度。 增徑螺絲攻僅第三攻直徑為所需直徑,第一攻直徑小 0.30 P,第二攻直徑小 0.125 P, 三支節距相同,但是導角牙數不同,第一攻倒最多,第三攻最少。其切削負荷分別為 25%、 55%、 20%,以第二攻負荷最大,因此攻第二攻時須特別注意,以防折斷。可適用 於盲孔或強韌材料之攻絲用。此種螺絲攻無論攻通孔或盲孔均需按第一、二、三之次序攻。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "攻進一、二牙之後,要用角尺檢查螺絲攻是否與工件表面垂直。攻削時旋轉 圈至"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "3 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "圈,反轉約 圈以斷裂切屑。"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "攻絲之前要先鑽一導孔,導孔的直徑應大於螺桿的小徑,亦即螺紋孔之保留牙深必須 小於 100%,否則攻絲阻力太大,無法攻製。導孔的大小如圖 10-25 所示,通常保留 75% 牙深。公制 V 形牙螺紋的牙深為 0.65 P,故可導出公式如下: d = D − 2 × 0.75 × 0.65 P = D − P"
+        },
+        {
+          "type": "heading",
+          "text": "式中 d:導孔直徑 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "D:螺紋大徑 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "P:螺紋節距 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "機器螺絲攻每一規格只有一支,攻削時"
+        },
+        {
+          "type": "paragraph",
+          "text": "不需反轉。其槽形大都為螺旋槽,以利排屑, 不同於手工螺絲攻大都為直槽。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-25 攻絲導孔直徑"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "攻削 M10 × 1.5 的螺紋孔,若保留 75% 的牙深,則導孔直徑應多大? (A)10 mm (B)9 mm (C)8.5 mm (D)8 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "d = D − P = 10 − 1.5 = 8.5 (mm)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "174"
+        },
+        {
+          "type": "heading",
+          "text": "二、 螺絲模 (Dies)"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺絲模如圖 10-26 所示。鉸削時先以調節螺絲將縫隙調大,使螺絲模之內徑變大,以 利初步鉸削,然後再逐漸縮小縫隙,修整螺桿的外徑與精度。 內、外螺紋配合要精密者,應先攻內螺紋再鉸外螺紋。車削螺紋由於內螺紋量測不易, 所以先車外螺紋再車內螺紋。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-26 螺絲模"
+        },
+        {
+          "type": "heading",
+          "text": "10-2-5 螺紋製造方法的比較"
+        },
+        {
+          "type": "paragraph",
+          "text": "各種螺紋的製造法依精密度、生產量及能夠生產內或外螺紋等方面,如表 10-1 比較如"
+        },
+        {
+          "type": "heading",
+          "text": "下:"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 10-1 各種螺紋製造法的比較"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋製造法 精密度 生產量 外螺紋 內螺紋 備註"
+        },
+        {
+          "type": "heading",
+          "text": "1. 車削螺紋 高 小"
+        },
+        {
+          "type": "heading",
+          "text": "2. 銑削螺紋 高 小 大尺寸的螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "3. 磨削螺紋 最高 小 可精修淬硬材料"
+        },
+        {
+          "type": "heading",
+          "text": "4. 螺紋機切製法 高 大"
+        },
+        {
+          "type": "heading",
+          "text": "5. 牙板刀切製法 高 中"
+        },
+        {
+          "type": "heading",
+          "text": "6. 自動螺絲模與螺絲攻切製 高 中"
+        },
+        {
+          "type": "heading",
+          "text": "7. 拉削螺紋 高 中"
+        },
+        {
+          "type": "heading",
+          "text": "8. 壓鑄法 中 大 適用於低熔點金屬"
+        },
+        {
+          "type": "heading",
+          "text": "9. 滾軋法 中 大 材料硬度不可太高"
+        },
+        {
+          "type": "heading",
+          "text": "10. 螺絲攻切製 低 小"
+        },
+        {
+          "type": "heading",
+          "text": "11. 螺絲模鉸製 低 小"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 175"
+        },
+        {
+          "type": "heading",
+          "text": "10-3 齒輪種類"
+        },
+        {
+          "type": "heading",
+          "text": "10-3-1 正齒輪各部分名稱簡介"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪 (Gear) 傳動具有效率高、負載能力大、使用壽命長、速比精確與可靠性高等優點, 廣泛使用於各種機械設備與儀器中。齒輪是機械的基本元件,其製造精度、品質、性能與 使用壽命攸關整體機械的技術水準。由於齒輪的形狀複雜、製造難度大且技術問題多,所 以由一個國家的齒輪製造水準可以推知一個國家的工業水準。 齒輪的種類很多,其中最基本而常見的就是正齒輪。要介紹齒輪的加工技術之前,必 須對齒輪的相關名詞有所了解。 圖 10-27 所示者為正齒輪的圖示,茲說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-27 齒輪各部位名稱"
+        },
+        {
+          "type": "heading",
+          "text": "一、 節面 (Pitch Surface)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為齒輪的假想面。正齒輪之節面為圓柱面,斜齒輪之節面為圓錐面。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 節線 (Pitch Line)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為節面與輪軸之垂直面之交線。齒輪之節線為圓,稱為節圓,齒條為直線。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 節徑 (Pitch Diameter)"
+        },
+        {
+          "type": "paragraph",
+          "text": "節圓之直徑大小。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "176"
+        },
+        {
+          "type": "heading",
+          "text": "四、 節點 (Pitch Point)"
+        },
+        {
+          "type": "paragraph",
+          "text": "一對嚙合齒輪節圓之切點,位於兩齒輪的連心線上。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 齒頂圓 (Addendum Circle)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為連結齒頂面之圓,又稱為外圓。"
+        },
+        {
+          "type": "heading",
+          "text": "六、 齒根圓 (Dedendum Circle)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為連結齒底面之圓,又稱為齒底圓。"
+        },
+        {
+          "type": "heading",
+          "text": "七、 齒頂高 (Addendum)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為齒頂圓與節圓之徑向距離,又稱為齒冠高。"
+        },
+        {
+          "type": "heading",
+          "text": "八、 齒根高 (Dedendum)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為節圓與齒根圓之徑向距離,又稱為齒底高。"
+        },
+        {
+          "type": "heading",
+          "text": "九、 齒高 (Height of Tooth)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為齒頂圓與齒根圓之徑向距離,也就是齒頂高與齒根高之和,又稱為齒深。"
+        },
+        {
+          "type": "heading",
+          "text": "十、 工作深 (Working Depth of Tooth)"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩嚙合齒輪相配合之最大深度,為齒頂高之兩倍,又稱為工作高。"
+        },
+        {
+          "type": "heading",
+          "text": "十一、 齒厚 (Gear Thickness)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為輪齒在節圓上所量得之弧線長,約為周節之一半。"
+        },
+        {
+          "type": "heading",
+          "text": "十二、 齒間 (Tooth Space)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為相鄰兩齒沿節圓所量得之弧線長,約為周節之一半。"
+        },
+        {
+          "type": "heading",
+          "text": "十三、 齒面 (Face of Tooth)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為節圓至齒頂圓間之輪齒曲面。"
+        },
+        {
+          "type": "heading",
+          "text": "十四、 齒腹 (Flank)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為節圓至齒根圓間之輪齒曲面。"
+        },
+        {
+          "type": "heading",
+          "text": "十五、 齒隙 (Backlash)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為齒間與齒厚之差,又稱為背隙。"
+        },
+        {
+          "type": "heading",
+          "text": "十六、 間隙 (Clearance)"
+        },
+        {
+          "type": "paragraph",
+          "text": "一對嚙合齒輪之齒頂面與齒底面之間隙,又稱為餘隙,為齒根減去齒頂之距離。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 177"
+        },
+        {
+          "type": "heading",
+          "text": "十七、壓力角 (Pressure Angle)"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 10-28 所示之 θ 角,為齒輪之作用線 ( 輪齒接觸點與節點之連線 ) 與節圓公切線 之夾角,又稱為傾斜角。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-28 齒輪之壓力角"
+        },
+        {
+          "type": "heading",
+          "text": "十八、周節 (Circular Pitch)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為齒輪上相鄰兩齒之相對點沿節圓所量得之弧線長,周節愈大,齒形愈大。周節 ( Pc )、"
+        },
+        {
+          "type": "heading",
+          "text": "節徑 ( D ) 與齒數 ( T ) 之關係為:"
+        },
+        {
+          "type": "heading",
+          "text": "π D"
+        },
+        {
+          "type": "heading",
+          "text": "Pc ="
+        },
+        {
+          "type": "heading",
+          "text": "T"
+        },
+        {
+          "type": "heading",
+          "text": "十九、模數 (Module)"
+        },
+        {
+          "type": "paragraph",
+          "text": "假想將齒輪之輪齒等距離排列於節徑上,每齒所佔之距離,用於表示公制齒輪的大小, 模數越大,齒形越大。模數 ( M )、節徑 ( D ) 與齒數 ( T ) 之關係為:"
+        },
+        {
+          "type": "heading",
+          "text": "D"
+        },
+        {
+          "type": "heading",
+          "text": "M ="
+        },
+        {
+          "type": "heading",
+          "text": "T"
+        },
+        {
+          "type": "heading",
+          "text": "二十、徑節 (Diametral Pitch)"
+        },
+        {
+          "type": "paragraph",
+          "text": "假想將齒輪之輪齒等距離排列於節徑上,則節徑上每吋長所能排列之齒數稱為徑節, 用於表示英制齒輪的大小,徑節越大,齒形越小。徑節 ( Pd )、節徑 ( D ) 與齒數 ( T ) 之關係為:"
+        },
+        {
+          "type": "heading",
+          "text": "T"
+        },
+        {
+          "type": "heading",
+          "text": "Pd ="
+        },
+        {
+          "type": "heading",
+          "text": "D"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "178"
+        },
+        {
+          "type": "heading",
+          "text": "10-3-2 齒輪的分類"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪依兩軸之相對關係,分為三種:"
+        },
+        {
+          "type": "heading",
+          "text": "一、連接平行軸— 正齒輪系 (Spur Gears)"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 直齒 內、外齒輪 (External Gears and Internal Gears) 直齒內、外齒輪製造容易,為最普通之齒輪,用途最廣。如圖 10-29 所示者為外齒輪, 圖 10-30 所示者為內齒輪。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-29 外齒輪 ( 圖片取自 TECHNIX 公司 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-30 內齒輪 ( 圖片取自上海益楊精密機械有限公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 179"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 齒條與小齒輪 (Rack and Pinion) 當齒輪之節圓直徑無窮大時,就成為直線形的齒條,與小齒輪的嚙合如圖 10-31 所示。 傳動時,可以是齒輪在固定軸上轉動,帶動齒條直線移動;也可以是齒條固定,小齒輪轉 動,同時沿著齒條直線移動。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-31 齒條與小齒輪 ( 圖片取自 Shutterstock 圖庫 ) ( 三 ) 螺旋齒輪 (Helical Gears) 螺旋齒輪如圖 10-32 所示,又稱為正扭齒輪。 與正齒輪相比較,螺旋齒輪具有傳達動 力大、輪齒漸進式接觸噪音小等優點。缺點則是製造困難、且會產生軸向推力必須使用止 推軸承。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-32 螺旋齒輪 ( 圖片取自長江齒輪有限公司 ) ( 四 ) 人字齒輪 (Herringbone Gears) 人字齒輪如圖 10-33 所示,又稱為雙螺旋齒輪。 此種齒輪由左、右螺旋組合而成,軸 向推力可相互抵消,傳動圓滑,噪音小。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-33 人字齒輪 ( 圖片取自上海齒家網路科技有限公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "180"
+        },
+        {
+          "type": "heading",
+          "text": "二、連接相交軸— 斜齒輪系 (Bevel Gears)"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 直齒斜齒輪 (Straight Bevel Gears) 如圖 10-34 所示,是由圓錐形摩擦輪變化而來,又稱為 平斜齒輪 (Plane Bevel Gears)。 如果兩齒輪成 90 ° 相交,且齒數相等時,稱為 斜方齒輪 (Miter Gears),如圖 10-35 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-34 直齒斜齒輪 ▲ 圖 10-35 斜方齒輪 ( 圖片取自朝嘉興業股份有限公司 ) ( 圖片取自朝嘉興業股份有限公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 冠狀齒輪 (Crown Gears)"
+        },
+        {
+          "type": "paragraph",
+          "text": "斜齒輪之半錐角若等於 90 °,則輪齒會形成於平盤面上,如圖 10 - 36 所示,又稱為冕 齒輪。此時,兩軸之中心線夾角必大於 90 °。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-36 冠狀齒輪 ( 圖片取自德國 Kownatzki TECHNOLOGY 公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 181"
+        },
+        {
+          "type": "heading",
+          "text": "三、連接不平行、不相交軸— 歪齒輪系 (Skew Gear)"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 雙曲面齒輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 10-37 所示,又稱為 歪斜齒輪 (Skew Bevel Gear)。輪齒形成於雙曲面上,常用於 紡織機械。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-37 雙曲面齒輪 ( 圖片取自波蘭 ZZN 公司 ) ( 二 ) 蝸桿與蝸輪 (Worm and Worm Wheel) 如圖 10-38 所示, 蝸桿與蝸輪軸不相交,在空間互成 90 °。以蝸桿為主動件,傳動蝸輪, 為減速機構。分度頭即為此種機構的應用實例。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-38 蝸桿與蝸輪 ( 圖片取自德國 WMH Herion 公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "182"
+        },
+        {
+          "type": "heading",
+          "text": "10-4 齒輪加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪加工如圖 10 - 39 所示,可概分為齒胚加工、齒形加工、熱處理和熱處理後齒輪精 修加工四個階段。 齒胚加工必須保證加工基準面的精度,如圖 10-40 所示者係將齒胚套在 套軸上,再將套軸裝置在車床之兩頂心間,以此方法車削之齒胚可保證齒胚外圓與內孔之 同心度。熱處理可決定齒輪的內在品質與輪齒部分之表面硬度,直接影響齒輪的使用壽命。 齒形加工與熱處理後的精修加工則是齒輪製造技術的關鍵,由齒輪加工的精度可反映出齒 輪製造的水準。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-39 齒輪加工程序"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-40 以車床車削齒胚"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪依不同的尺寸大小或精度要求高低而選用不同的製程:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 軟齒面和中硬度齒面的齒輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "將齒胚調質熱處理後滾齒或鉋齒。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 大模數齒輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "先將齒胚粗滾齒,之後進行調質熱處理,最後再精滾齒。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 大量生產精度高之齒輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "將齒胚滾齒或鉋齒後,再進行刮齒或搪齒。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 硬齒面齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "將齒胚滾齒或鉋齒、刮齒、高週波感應淬火,再"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨齒、研齒或搪齒。 刮齒 P189"
+        },
+        {
+          "type": "heading",
+          "text": "用刮齒刀來精修滾齒或鉋"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒粗加工後的齒輪齒形。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 183"
+        },
+        {
+          "type": "heading",
+          "text": "接下來對各種齒輪的加工技術作詳細的說明:"
+        },
+        {
+          "type": "heading",
+          "text": "10-4-1 切削加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "以滾齒機、鉋齒機、樣板切齒機、銑床與拉床配合適當的切削刀具在齒輪工件上切削 出齒形。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 滾齒 (Gear Hobbing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾齒加工如圖 10-41 所示,以滾刀在工件齒輪的外圓周上滾銑出輪齒部分。 此法類似 蝸桿與蝸輪的嚙合關係,可將滾刀視為有軸向溝槽並有刀刃的蝸桿。滾刀迴轉一周,工件 齒輪轉動一齒,兩者以此關係同步迴轉,直到工件齒輪面上滾出全部齒形為止。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-41 滾刀與被加工齒輪 ( 照片摘自 Liebherr 公司型錄 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "paragraph",
+          "text": "CNC 滾齒機如圖 10-42 所示,滾齒加工時,滾刀 ( 圖中之 B1 軸 ) 沿 X1 軸向工件齒輪 進給到達適當深度為止,此時工件齒輪 ( 圖中之 C2 軸 ) 的節線速度會與滾刀的導程速度相 等,兩者依照齒數比不停地同步迴轉,滾刀沿工件齒輪軸向慢慢切過整個齒面寬 ( 圖中之 Z1 軸 )。由於滾刀有導程角,所以切削正齒輪時滾刀之心軸必須與工件齒輪軸之垂線成一 螺旋角,此交角由圖中之 A1 軸控制。滾刀之切向進給由圖中之 V1 軸控制。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-42 CNC 滾齒機 ( 照片摘自 Liebherr 公司型錄 ) 滾齒加工之效率很高,但是滾刀之價格昂貴,所以比較適合大量生產。在精度許可的 範圍內應儘可能使用多牙口滾刀,一般雙牙口滾刀可提高效率約 40%。滾刀之牙口數可多 至 7 個,不過牙口數越多則精度越差。 根據蝸桿與蝸輪的配合原理,一根蝸桿可配合任何相同模數的蝸輪,不受齒數的限制, 所以任一模數 ( 或徑節 ) 之齒輪只要一支滾刀即可,可簡化刀具的準備工作。滾齒加工可 製造正齒輪、螺旋齒輪和蝸輪。 滾銑正齒輪時,滾齒刀之軸線須偏轉成導程角;滾銑蝸輪時,滾齒刀軸與齒輪胚軸線 成直角;滾銑螺旋齒輪時,滾齒刀必須繞齒輪面,作螺旋角之移動。 最近發展出之 硬齒面滾齒技術 (Skiving Hobbing),滾刀以硬質合金、瓷金材料或塗層 氮化鈦作成,可作為大型齒輪的磨前加工或去掉淬火的變形量,藉著減少磨削裕量來縮短 磨齒的時間,降低製造成本。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 185"
+        },
+        {
+          "type": "heading",
+          "text": "二、 鉋齒 (Gear Shaping)"
+        },
+        {
+          "type": "paragraph",
+          "text": "鉋齒加工如圖 10 - 43 所示,係模擬兩齒輪的嚙合關係,齒輪狀的鉋齒刀與齒輪工件以 相同的節線速度同步迴轉,鉋齒刀並上下往復直線運動進行鉋齒切削,鉋齒刀的旋轉機構 會使刀具自動地向工件進給,直到所需切削深度為止。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-43 鉋齒刀鉋正齒輪示意圖 ( 照片摘自 Liebherr 公司型錄 ) 鉋齒機如圖 10-44 所示,鉋齒刀由圖中的 Z 1 與 Z 2 軸控制上下的往復切削運動、 C 1 軸 控制迴轉運動,工件齒輪的迴轉運動由 C 2 軸控制。 X 1 軸控制切削深度, B 4 軸可控制刀具 回程時卸載行程的後退量, Z 2 軸用於控制刀具上下行程的長度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-44 鉋齒機 ( 照片摘自 Liebherr 公司型錄 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "186"
+        },
+        {
+          "type": "paragraph",
+          "text": "鉋齒加工的精度高且具有多樣化,除上述的正齒輪加工之外,使鉋齒刀與內孔狀的工 件接觸也可加工內齒輪。如果在蝸旋形鉋齒刀切削運動時加上一個旋轉運動,可加工螺旋 齒輪。以特殊的鉋齒刀配合適當的鉋削動作,鉋齒機還可以加工蝸桿、齒條、冠狀齒輪、 斜齒輪、人字齒輪、鏈輪、棘輪與凸輪。 大型齒輪的體積、重量大,裝卸不便;大量生產的齒輪為節省裝卸料的時間、提高效 率,因而發展出如圖 10-45 所示,將滾齒、鉋齒、磨齒與檢測集於一體的綜合加工形式。 滾齒機與鉋齒機,前者模擬蝸桿配蝸輪,後者模擬齒輪配齒輪,兩者都屬於創成式加 工法。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-45 鉋齒與滾齒混合加工機 ( 照片摘自 Liebherr 公司型錄 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 187"
+        },
+        {
+          "type": "heading",
+          "text": "三、 樣板切削法 (Template Gear Cutting Process)"
+        },
+        {
+          "type": "paragraph",
+          "text": "樣板切齒法如圖 10-46 所示,切削刀具由樣板控制往復運動將齒形切削出來,此法適 用於難以用成形刀具切削之大齒輪,也適用於加工斜齒輪,其齒形之形成係由樣板控制。 由於斜齒輪之大小端齒間寬度不同,所以加工時需要三塊樣板;一塊用來粗切中心部位之 齒槽,另兩塊用來切削齒間的左右邊。切削時工件齒輪固定不動,待切完一齒後再以分度 裝置將工件轉一適當角度,直到切完全部輪齒部分為止。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-46 斜齒輪樣板切削法 ( 取材自參考書目 (4))"
+        },
+        {
+          "type": "heading",
+          "text": "四、 成形刀切削法 (Formed Tooth Process)"
+        },
+        {
+          "type": "paragraph",
+          "text": "以成形銑刀加工正齒輪的方法如圖 10-47 所示,成形銑刀裝在臥式銑床之主軸上,工 件齒輪以套軸裝置在分度頭與尾座之間,銑床之床鞍上升調整至適當的切齒深度後,工作 台帶動工件向銑刀進給,每往復一次就轉動分度頭至下一銑削位置,依序銑完全部輪齒。 此種加工法之效率低,只適用於維修工作的少量製造。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-47 銑床銑削正齒輪"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "188"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪的齒面曲線隨齒數而變化,齒數少者曲度大。齒輪銑刀配合此種曲度的變化,將 每一種模數的銑刀依齒數的大小區分為 8 個號數,如表 10-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 10-2 公制齒輪銑刀"
+        },
+        {
+          "type": "heading",
+          "text": "銑刀號碼 銑齒範圍"
+        },
+        {
+          "type": "heading",
+          "text": "NO.1 12 ~ 13"
+        },
+        {
+          "type": "heading",
+          "text": "NO.2 14 ~ 16"
+        },
+        {
+          "type": "heading",
+          "text": "NO.3 17 ~ 20"
+        },
+        {
+          "type": "heading",
+          "text": "NO.4 21 ~ 25"
+        },
+        {
+          "type": "heading",
+          "text": "NO.5 26 ~ 34"
+        },
+        {
+          "type": "heading",
+          "text": "NO.6 35 ~ 54"
+        },
+        {
+          "type": "heading",
+          "text": "NO.7 55 ~ 134"
+        },
+        {
+          "type": "heading",
+          "text": "NO.8 135 ~∞ ( 齒條 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "將成形鉋刀或拉刀作成齒間的形狀代替銑刀,類似上述裝置,也可利用鉋床或拉床來 切削正齒輪與齒條。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 拉削 (Broaching)"
+        },
+        {
+          "type": "paragraph",
+          "text": "拉刀若做成單一齒間之形狀,以前述之成形刀法切削,只能一行程拉削一齒,低效率 的拉削外齒輪。若將拉刀作成完整的外齒輪狀,拉經已有內孔之工件,則可在一行程中, 高效率的將內齒輪拉削完成。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 189"
+        },
+        {
+          "type": "heading",
+          "text": "10-4-2 模造加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬以固態、粉態或液態流動的方式在沖壓模、擠製模、粉末冶金模或鑄模內成形, 此法的加工效率比機器切削法高,但是精度較低。"
+        },
+        {
+          "type": "heading",
+          "text": "一、鑄造"
+        },
+        {
+          "type": "paragraph",
+          "text": "將鑄模之模穴作成齒輪形就可用鑄造法來製造齒輪。精度要求不高的齒輪可用普通砂 模鑄造法;精度要求高者可選用脫蠟鑄造或石膏模鑄造法; 熔點低而精度要求高又需大量 生產者,選用壓鑄法最理想。"
+        },
+        {
+          "type": "heading",
+          "text": "二、沖壓"
+        },
+        {
+          "type": "paragraph",
+          "text": "以金屬板為胚料大量製造薄型齒輪最方便的方法是沖壓法,此法的加工精度較低。"
+        },
+        {
+          "type": "heading",
+          "text": "三、粉末冶金"
+        },
+        {
+          "type": "paragraph",
+          "text": "以金屬粉末在鋼模內壓製成形的方法製造齒輪,適用於大量生產小型齒輪,其精度比 鑄造法高。由於製品之密度較低,所以齒輪的強度相對的也較低。"
+        },
+        {
+          "type": "heading",
+          "text": "四、擠製法"
+        },
+        {
+          "type": "paragraph",
+          "text": "軟金屬胚料由齒輪狀的擠製模孔擠出,可製造長條狀的齒輪桿,再依所需尺寸切成適 當之厚度。"
+        },
+        {
+          "type": "heading",
+          "text": "10-4-3 齒形精修加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "欲提高切削或模造加工製造的齒輪尺寸精度或齒形精度時,可利用刮齒、搪齒、滾軋、 研齒或磨齒進一步修正。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 刮齒 (Gear Shaving)"
+        },
+        {
+          "type": "paragraph",
+          "text": "用刮齒刀來精修滾齒或鉋齒粗加工後的齒輪齒形,如圖 10 - 48 所示,是最經濟與最有 效率的方法之一,此法適用於中、小模數之中、軟硬度齒輪的齒面精加工。齒輪經過刮齒 之後,不但精度提高也可增長使用壽命與降低噪音。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-48 刮齒刀與工件齒輪嚙合示意圖 ( 照片摘自 Gleason-Hurth 公司型錄 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "190"
+        },
+        {
+          "type": "paragraph",
+          "text": "刮齒刀有齒輪型與齒條型兩種,圖 10-49 所示者為齒輪型刮齒刀。當刮齒刀與工件齒 輪作相對滑動時,刮齒刀齒面與齒腹處之插槽就會如切削刃口修整工件齒輪,所切下之細 長切屑像頭髮絲一般細。硬度夠高的刮齒刀大約刮 4000 個齒輪才需要重新磨銳,總共可 磨銳 4 至 10 次。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-49 齒輪型刮齒刀 ( 照片摘自 Gleason-Hurth 公司型錄 ) 刮齒刀與工件齒輪就如同兩個齒輪嚙合旋轉,通常只有刮齒刀具有迴轉動力,刮齒刀 進給到所需位置之後,利用刮齒刀帶動工件正逆旋轉數十秒,再後退些許距離進行精刮即 可。刮齒刀之進給方式如圖 10-50 所示,由 A 位置進給至 C 位置,由左至右依序為軸向進 給、對角進給與徑向進給三種, 其中以徑向進給方式之效率最高,但由於其刀具設計與製 造不易,所以刀具成本也較高。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-50 刮齒刀的進給方式 ( 照片摘自 Gleason-Hurth 公司型錄 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 螺紋與齒輪製造 191"
+        },
+        {
+          "type": "heading",
+          "text": "二、 搪齒 (Gear Honing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "搪齒加工與前述的刮齒加工類似,將刮齒刀換成齒輪狀的磨輪,磨輪的齒面上均勻密 佈著磨粒,每一個磨粒相當於一個刀刃。當磨輪與工件齒輪嚙合轉動時,齒面嚙合點之間 產生相對滑動,磨輪面上的磨粒便按一定軌跡從工件齒輪面上磨過而形成切削。 搪齒適用於硬面齒輪的修整加工,可修整工件齒輪的熱處理變形,改善齒輪的幾何精 度、提高表面粗糙度品質與消除加工刀痕。搪齒加工如圖 10-51 與圖 10-52 所示,分為外 嚙合搪齒與內嚙合搪齒。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-51 外嚙合搪齒 ( 照片摘自 Gleason-Hurth 公司型錄 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-52 內嚙合搪齒 ( 照片摘自 Gleason-Hurth 公司型錄 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "192"
+        },
+        {
+          "type": "heading",
+          "text": "三、 磨齒 (Gear Grinding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨齒加工如圖 10-53 所示,齒輪磨床將工件裝置在工作台上兩頂心間,以圓盤狀之磨 輪為切削刀具,利用 CNC 砂輪修整器將其周緣修整為工件齒輪齒間之形狀,將磨輪沿 Y 軸方向進給至所需深度之後,沿輪齒之齒寬方向 (Z 軸方向 ) 往復磨削,工作台在 C 軸方向 旋轉,以一次輪磨一齒的方式逐步將所有輪齒磨削完畢。 此法適用於硬面齒輪之精修,可 加工內、外齒輪,加工精度比刮齒與搪齒高。 磨齒的主要問題是效率低而成本高,尤其是大尺寸的齒輪。為提高效率與降低成本必 須增加齒輪磨床的剛性以便增加每次之磨削深度,減少磨削次數;使用以金屬基體電鍍之 CBN 磨輪,此種磨輪之消耗慢幾乎不必修整,可省卻修整磨輪之時間;另外,超高速磨削 的發展將磨削線速度提高至每秒 250 米甚至 500 米,亦可大幅提升加工效率。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-53 成形磨齒法 ( 本圖摘自 Klingelinberg 公司型錄 )"
+        },
+        {
+          "type": "heading",
+          "text": "四、 研齒 (Gear Lapping)"
+        },
+        {
+          "type": "paragraph",
+          "text": "研齒加工是將兩嚙合齒輪裝在研齒機上互相嚙合轉動,並在兩齒輪之間加入以金剛砂 加潤滑劑調製而成的研磨膏,將兩齒輪不精確之部分慢慢磨除,直到運轉順暢沒有噪音為 止。 研齒加工的精度高於磨齒加工。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 滾軋 (Rolling)"
+        },
+        {
+          "type": "paragraph",
+          "text": "以三個硬化而精確的滾軋齒輪與欲加工的工件齒輪在一定壓力下一起轉動,工件齒輪 上不正確之齒形受壓產生塑性流動而漸趨正確。此法屬於冷作,只能修整未硬化處理之齒 輪齒形,且冷軋後之輪齒表面形成不規則組織,會降低齒輪的使用壽命,比刮齒加工的效 果差。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch10/p036.jpg"
+    }
+  ]
+}

@@ -1,0 +1,1521 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH07",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH07",
+    "title": "CH7"
+  },
+  "title": "機械製造 Chapter 7 量測與品管",
+  "source_pdf": "機械製造/CH7PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH07",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        },
+        {
+          "type": "heading",
+          "text": "量測與品管"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "7-1 公差與配合"
+        },
+        {
+          "type": "heading",
+          "text": "7-2 工件量測"
+        },
+        {
+          "type": "heading",
+          "text": "7-3 品質管制與實施"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "隨著時代的進步,工商業的發達,所引發的商場激烈競爭,唯有創造高品質低成本的 產品,才具有競爭的能力,進而賺取利潤。由於新材料及自動化的發展,機械製造日趨複 雜,所以工程師對於檢驗與品質管理,必須有深入的瞭解,才能將產品保持在一定的水準。 檢驗與品管之主要目標為利用科學方法將生產線上製造所得之成品,做一有條理的分析, 去除其缺點,使成品日趨完美。 由於電腦科技的發達,促進檢驗工作的電腦化與自動化。例如傳統的量測儀器,投影 機與三次元座標量測機,配合電腦軟體,使量測功能、精度、速度與範圍大幅提升。"
+        },
+        {
+          "type": "heading",
+          "text": "7-1 公差與配合"
+        },
+        {
+          "type": "heading",
+          "text": "7-1-1 加工精密度"
+        },
+        {
+          "type": "paragraph",
+          "text": "精密度乃是優良品質的一種保證,為了提高品質,必須嚴格控制工件之精密度,以便 獲得機件之互換性。這是在大量生產制度中必要的條件,也就是任何相同機件均可保持尺 度的一致性程度,提高機件的互換性,這樣不但在維修上大為方便,同時也可降低生產費 用。 然而,製造高精密度的產品,需要高價的機器和技術,同時剔除件也可能較多,生產 成本自然增高。所以 在產品之設計及製造上,應配合產品之種類、性能及品級之實際需要, 訂定適當之加工精密度,不宜要求過高。 任何一種加工法均有其優勢與限制,工程師必須依照加工精密度與加工程度的要求, 選用適當的加工法,才能同時獲得最佳的品質與最低的生產成本。"
+        },
+        {
+          "type": "heading",
+          "text": "- 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "公制長度之基本單為為 m( 米,公尺 ),機械工廠慣用之單位為 mm( 10 m,毫米,公"
+        },
+        {
+          "type": "heading",
+          "text": "- 6 - 9"
+        },
+        {
+          "type": "paragraph",
+          "text": "厘 ),精密加工用 μm( 10 m,微米 ),積體電路線寬用 nm( 10 m,奈米 )。 0. 01 mm 在機 械行業中常被俗稱為 1 條。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "積體電路 P281"
+        },
+        {
+          "type": "heading",
+          "text": "把小型化的電路製造在半導體晶圓"
+        },
+        {
+          "type": "paragraph",
+          "text": "上的技術。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 3"
+        },
+        {
+          "type": "heading",
+          "text": "7-1-2 公差與配合"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械零件加工時,因受機器震動、材料變形、刀具磨損、溫度變化及操作者技術等 因素之影響,很難使同一式樣之零件,均能獲得同一尺度而絲毫不差。 為求便於製造, 常准許零件之尺度有一定之差異,此種允許的差異稱為公差。 例如,一軸件的尺度為 φ 10 ± 0.02 mm,其公差為 0.04 mm。 任何機械零件與其相配件之相互關係有某種程度之規定,以便達成一種特別作用。如 轉動、移動或靜止固定等,為達上述目的, 相配件間宜有適當的鬆緊,此種鬆緊的情形稱 為配合。 公差與配合係為呼應大量生產之發展,其具有下列數項用途:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 可加速大量生產,降低生產成本。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 便於實施品質管制,以獲得均一品質。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 所製之機件具有互換性。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 可將零件分在各地製造,以爭取時效。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 可用量規量測,簡化檢驗工作,易於技術訓練。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 可以簡化結合方式,以節省工時。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 CNS 標準公差"
+        },
+        {
+          "type": "paragraph",
+          "text": "中華民國國家標準 (Chinese National Standards, CNS) 之公差等級之規定如表 7-1 所示, 500 mm 以 下 分 IT 01, 0, 1 ~ 18, 共 20 級; 500 ~ 3150 mm 分 IT 1 ~ 18, 共 18 級。 尺度相同時,級數大者公差亦大,例如 10 mm 之 8 級公差比 10 mm 之 6 級公差大;級數 相同時,尺度大者公差亦大,例如 50 mm 之 8 級公差比 10 mm 之 8 級公差大。 各級之用途: IT 01 ~ IT 4 為規具公差; IT 5 ~ IT 10 為配合件公差, IT 11 ~ IT 18 為非 配合件公差。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "量規 P23"
+        },
+        {
+          "type": "heading",
+          "text": "量測時僅能測知工件是否在標準範"
+        },
+        {
+          "type": "paragraph",
+          "text": "圍之內,而無法讀出量測值之量具。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "1μm 18 1400 1800 2200 2700 3300 3900 4600 5400 6300 7200 8100 8900 9700"
+        },
+        {
+          "type": "heading",
+          "text": "單位: 17"
+        },
+        {
+          "type": "paragraph",
+          "text": "1000 1200 1500 1800 2100 2500 3000 3500 4000 4600 5200 5700 6300"
+        },
+        {
+          "type": "heading",
+          "text": "16 600 750 900"
+        },
+        {
+          "type": "paragraph",
+          "text": "1100 1300 1600 1900 2200 2500 2900 3200 3600 4000"
+        },
+        {
+          "type": "heading",
+          "text": "15 400 480 580 700 840"
+        },
+        {
+          "type": "paragraph",
+          "text": "1000 1200 1400 1600 1850 2100 2300 2500 14 250 300 360 430 520 620 740 870"
+        },
+        {
+          "type": "heading",
+          "text": "1000 1150 1300 1400 1150"
+        },
+        {
+          "type": "paragraph",
+          "text": "13 140 180 220 270 330 390 460 540 630 720 810 890 970 12 100 120 150 180 210 250 300 350 400 460 520 570 630 11 60 75 90 110 130 160 190 220 250 290 320 360 400 10 40 48 58 70 84 100 120 140 160 185 210 230 250 9 25 30 36 43 52 62 74 87"
+        },
+        {
+          "type": "heading",
+          "text": "100 115 130 140 155"
+        },
+        {
+          "type": "heading",
+          "text": "標準公差數值表"
+        },
+        {
+          "type": "paragraph",
+          "text": "8 14 18 22 27 33 39 46 54 63 72 81 89 97"
+        },
+        {
+          "type": "heading",
+          "text": "7-1"
+        },
+        {
+          "type": "heading",
+          "text": "表 7"
+        },
+        {
+          "type": "paragraph",
+          "text": "10 12 15 18 21 25 30 35 40 46 52 57 63"
+        },
+        {
+          "type": "heading",
+          "text": "▼"
+        },
+        {
+          "type": "paragraph",
+          "text": "6 6 8 9 11 13 16 19 22 25 29 32 36 40 5 4 5 6 8 9 11 13 15 18 20 23 25 27 4 3 4 4 5 6 7 8 10 12 14 16 18 20"
+        },
+        {
+          "type": "heading",
+          "text": "的標準公差數值"
+        },
+        {
+          "type": "paragraph",
+          "text": "3 2 2.5 2.5 3 4 4 5 6 8 10 12 13 15"
+        },
+        {
+          "type": "heading",
+          "text": "IT16"
+        },
+        {
+          "type": "heading",
+          "text": "至"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 1.2 1.5 1.5 2 2.5 2.5 3 4 5 7 8 9 10"
+        },
+        {
+          "type": "heading",
+          "text": "IT14"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 0.8 1 1 1.2 1.5 1.5 2 2.5 3.5 4.5 6 7 8 以下之標準公差等級之值。。 0 0.5 0.6 0.6 0.8 1 1 1.2 1.5 2 3 4 5 6 以下的"
+        },
+        {
+          "type": "heading",
+          "text": "3150mm"
+        },
+        {
+          "type": "paragraph",
+          "text": "標準。 01 0.3 0.4 0.4 0.5 0.6 0.6 0.8 1 1.2 2 2.5 3 4 1mm"
+        },
+        {
+          "type": "heading",
+          "text": "0.001mm"
+        },
+        {
+          "type": "heading",
+          "text": "= CNS"
+        },
+        {
+          "type": "paragraph",
+          "text": "級別 6 10 18 30 50 80 120 180 250 315 400 500"
+        },
+        {
+          "type": "heading",
+          "text": "標稱尺度在 取自"
+        },
+        {
+          "type": "heading",
+          "text": "至 至 至 至 至 至 至 至 至 至"
+        },
+        {
+          "type": "heading",
+          "text": "≤ 3 至 至 1. 1μm 2. 3."
+        },
+        {
+          "type": "heading",
+          "text": "(mm)"
+        },
+        {
+          "type": "heading",
+          "text": ">3 >6"
+        },
+        {
+          "type": "paragraph",
+          "text": ">10 >18 >30 >50 >80:不包括尺寸 >120 >180 >250 >315 >400 *"
+        },
+        {
+          "type": "heading",
+          "text": "尺寸 分段"
+        },
+        {
+          "type": "heading",
+          "text": "註 備考:"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "設計機械零件時,依其受力與強度所訂定的尺度就是基本尺度。再依基本尺度加大稱 為正限界偏差,減小稱為負限界偏差,正、負限界偏差的範圍稱為偏差位置。孔之偏差位 置以大寫英文字母表示,軸用小寫英文字母表示,各 28 個位置,即: A ∼ Z 減去 I、 L、 O、 Q 及 W,再加 CD、 EF、 FG、 JS、 ZA、 ZB 及 ZC;軸亦然。偏差位置之規定,如圖 7-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-1 偏差位置"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "paragraph",
+          "text": "孔與軸的限界偏差,進一步說明如圖 7-1-1 與圖 7-1-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-1-1 孔之限界偏差"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-1-2 軸之限界偏差"
+        },
+        {
+          "type": "paragraph",
+          "text": "孔的上、下限界偏差分別以 ES 及 EI 表示,軸的上、下限界偏差則以 es、 ei 表示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 7"
+        },
+        {
+          "type": "heading",
+          "text": "二、配合的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "配合可因孔與軸的相對關係而產生不同程度的鬆緊,此種鬆緊的情形可區分為三種: ( 一 ) 餘隙配合 (Clearance Fit) 孔大於軸的配合方式,配合後可產生適當的間隙,具有適度的潤滑配差與良好的運動 性能。 孔之最大限界尺度與軸之最小限界尺度配合,得最大間隙,為正值;孔之最小限界 尺度與軸之最大限界尺度配合,得最小間隙,為正值。其範圍為: H/a ~ h 或 A ~ H/h。 ( 二 ) 過渡配合 (Transition Fit) 孔與軸偏差位置相重疊的配合方式,在極大孔時,有間隙的存在;在極小孔時,可能 產生干涉。此種配合常用於決定各配件的位置,例如定位銷。 孔之最大限界尺度與軸之最 小限界尺度配合,得最大間隙,為正值;孔之最小限界尺度與軸之最大限界尺度配合,得 最大干涉,為負值。其範圍為: H/j ~ n 或 J ~ N/h。 ( 三 ) 干涉配合 (Interference Fit) 孔小於軸的配合方式,配合後可產生適當的緊度,能保持所需之孔壁壓力,常用於永 久性冷縮配合。 孔之最小限界尺度與軸之最大限界尺度配合,得最大干涉,為負值;孔之 最大限界尺度與軸之最小限界尺度配合,得最小干涉,為負值。其範圍為: H/p ~ zc 或 P ~ ZC/h。 圖 7-2 所示為三類配合之孔軸關係。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-2 配合的種類"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "三、配合的方式"
+        },
+        {
+          "type": "heading",
+          "text": "配合的方式有基軸制和基孔制之規範:"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 基軸制配合系統 (Shaft Basis Fit System) 將軸之偏差位置定於 h,固定不變,藉由改變孔之偏差位置,以獲得各種不同的間隙 或干涉的一種配合方式。基軸制配合系統的軸上限界偏差為零,如圖 7 - 3 (a) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-3 基孔制、基軸制配合系統與各種配合之關係 ( 二 ) 基孔制配合系統 (Hole Basis Fit System) 將孔之偏差位置定於 H,固定不變,藉由改變軸之偏差位置,以獲得各種不同的間隙 或干涉的一種配合方式。基孔制配合系統的孔下限界偏差為零,如圖 7-3(b) 所示。 上述兩種方式以基孔制配合系統較常用,可避免工具及量規之不必要的多樣化。基軸 制配合系統僅使用於無需後續加工的單軸抽拉鋼棒上,可裝配數個不同偏差的孔製件時。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 9"
+        },
+        {
+          "type": "heading",
+          "text": "7-1-3 幾何公差"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了精確控制機件的形狀,方向與位置的正確性,除了標註尺度公差,還需要標註幾 何公差 (Geometrical Tolerance)。幾何公差是一種幾何型態之外形,兩面的方向關係,或其 所在位置及偏轉度的公差,對於某一公差區域,該形態或其位置必須介於此區域內。 尺度公差與幾何公差抵觸時,幾何公差優先。表 7-2 所示者,為幾何公差的符號。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 7-2 幾何公差性質符號"
+        },
+        {
+          "type": "heading",
+          "text": "形態 公差 公差性質 符號"
+        },
+        {
+          "type": "heading",
+          "text": "真直度"
+        },
+        {
+          "type": "heading",
+          "text": "真平度"
+        },
+        {
+          "type": "heading",
+          "text": "單一形態"
+        },
+        {
+          "type": "heading",
+          "text": "真圓度"
+        },
+        {
+          "type": "heading",
+          "text": "形狀公差"
+        },
+        {
+          "type": "heading",
+          "text": "圓柱度"
+        },
+        {
+          "type": "heading",
+          "text": "曲線輪廓度"
+        },
+        {
+          "type": "heading",
+          "text": "單一或相關形態"
+        },
+        {
+          "type": "heading",
+          "text": "曲面輪廓度"
+        },
+        {
+          "type": "heading",
+          "text": "平行度"
+        },
+        {
+          "type": "heading",
+          "text": "方向公差 垂直度"
+        },
+        {
+          "type": "heading",
+          "text": "傾斜度"
+        },
+        {
+          "type": "heading",
+          "text": "位置度"
+        },
+        {
+          "type": "heading",
+          "text": "相關形態"
+        },
+        {
+          "type": "heading",
+          "text": "定位公差 同心、同軸度"
+        },
+        {
+          "type": "heading",
+          "text": "對稱度"
+        },
+        {
+          "type": "heading",
+          "text": "圓偏轉度"
+        },
+        {
+          "type": "heading",
+          "text": "偏轉度公差"
+        },
+        {
+          "type": "heading",
+          "text": "總偏轉度"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "7-2 工件量測"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件加工後,尺度是否合乎標準,必須藉量具來量測,量具可分為規量量具與計量量"
+        },
+        {
+          "type": "heading",
+          "text": "具兩大類:"
+        },
+        {
+          "type": "heading",
+          "text": "一、計量量具"
+        },
+        {
+          "type": "paragraph",
+          "text": "量測時可讀出量測值之量具,如:分厘卡、游標卡尺、角度儀與塊規...等。 選用計量量具時,依據十一定則,量具的最小讀值應為被測工件公差值的十分之一。 例如檢驗 φ 10 ± 0. 05 的軸,公差為 0. 1 mm,應選用讀值 0. 01 mm 的分厘卡。"
+        },
+        {
+          "type": "heading",
+          "text": "二、規量量具"
+        },
+        {
+          "type": "paragraph",
+          "text": "量測時僅能測知工件是否在標準範圍之內,而無法讀出量測值之量具,如:卡規、塞 規及環規...等。 大量生產大都選用規量量具,以節省量測時間與人力;小量生產則選用計量量具,以 獲得較大之適應性。 量具之種類繁多,限於篇幅,無法一一介紹,本單元僅選擇實習工廠較常見之數種量"
+        },
+        {
+          "type": "heading",
+          "text": "具加以說明:"
+        },
+        {
+          "type": "heading",
+          "text": "一、量測長度用量具"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 游標卡尺 (Vernier Calipers) 鋼尺一格之最小讀值為 0.5mm,游標卡尺之設計可使最小讀值小至 0.05mm、 0.02mm 或 0.01mm。游標卡尺如圖 7-4 所示,係由本尺 ( 主尺 ) 與游尺 ( 副尺 ) 組合而成。其最小 讀值為本尺 1 刻度長及游尺 1 刻度長之差,例如:本尺 1 格 1mm,游尺取本尺 19 格分成"
+        },
+        {
+          "type": "heading",
+          "text": "20 等分,則最小讀值為:"
+        },
+        {
+          "type": "heading",
+          "text": "19 1"
+        },
+        {
+          "type": "heading",
+          "text": "1 − = (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "20 20"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "分厘卡 P15"
+        },
+        {
+          "type": "heading",
+          "text": "利用螺紋節距微分原理,可將"
+        },
+        {
+          "type": "paragraph",
+          "text": "心軸之進距細分至 0.01 mm。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-4 游標卡尺 ( 圖片取自三豐公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 11"
+        },
+        {
+          "type": "paragraph",
+          "text": "游標卡尺之各種刻度分法,如表 7-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 7-3 游標卡尺之刻度分劃"
+        },
+        {
+          "type": "heading",
+          "text": "本尺刻度 取本尺格數 游尺刻度 最小讀數"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "1mm 49 格 50 等分 = 0.02mm"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "heading",
+          "text": "24 格 (12mm) 1"
+        },
+        {
+          "type": "heading",
+          "text": "0.5mm 25 等分 = 0.02mm"
+        },
+        {
+          "type": "heading",
+          "text": "49 格 (24.5mm) 50"
+        },
+        {
+          "type": "heading",
+          "text": "19 格 1"
+        },
+        {
+          "type": "heading",
+          "text": "1mm 20 等分 = 0.05mm"
+        },
+        {
+          "type": "heading",
+          "text": "39 格 20"
+        },
+        {
+          "type": "paragraph",
+          "text": "讀取游標卡尺之尺度時,先看游尺 0 刻度對準本尺何處,再看游尺第幾格對準本 尺。 如 圖 7-5 所 示, 游 尺 0 刻 度 對 準 本 尺 23 ∼ 24mm 之 間, 表 示 尺 度 大 於 23mm, 小 於 24mm, 游 尺 1 格 表 示 0.02mm, 箭 頭 所 指 對 準 之 游 尺 刻 度 為 0.28mm, 所 以 讀 值 為"
+        },
+        {
+          "type": "heading",
+          "text": "23.28mm。"
+        },
+        {
+          "type": "paragraph",
+          "text": "人類以肉眼識別兩條線是否重合的極限為 0. 012 ~ 0. 017 mm,所以刻劃型游標卡尺 的最小讀值設計為 0. 02 mm。液晶顯示型或如圖 7 - 6 所示之量錶型游標卡尺則無此限制, 最小讀值可達 0. 01 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-5 游標卡尺讀法"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-6 量錶型游標卡尺 ( 圖片取自三豐公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-7 所示, 游標卡尺具有四個量測部位,可作外側、內側、深度與階段量測。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 量測外側尺度 (b) 量測深度"
+        },
+        {
+          "type": "paragraph",
+          "text": "(c) 量測階段尺度 (d) 量測內側尺度 (e) 量測外徑"
+        },
+        {
+          "type": "paragraph",
+          "text": "(f) 輔助劃線求圓桿端面中心 (g) 輔助劃線作平行線"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-7 游標卡尺之應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用游標卡尺外測爪量測工件外部尺度時,工件應盡量靠近主尺,以減少阿比誤差。 如圖 7-8 所示,量測工件外徑時,應取最小值;量測工件內徑時,應取最大值;量測工件 的槽寬時,應取最小值。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-8 游標卡尺量測不同部位之讀取值"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 13"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-9 所示之 齒輪游標卡尺 (Gear Vernier Caliper) 可量測齒輪之弦齒厚。量測時先用 垂直尺調整 弦齒頂 (Chordal Tooth Top),再用水平尺量出 弦齒厚 (Chordal Tooth Thickness)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-9 齒輪游標卡尺"
+        },
+        {
+          "type": "paragraph",
+          "text": "阿比誤差也譯作阿貝誤差,是指量測時未符合 阿比定理 (Abbe's Principle) 所產生的誤 差。 依據阿比定理、量測儀器的軸線與待測工件的軸線需在一直線上。如圖 7-10 所示, 游標卡尺的測爪與本尺間由於滑動間隙而產生傾斜,其測值 ( R ) 與真實直徑 ( L ) 間的誤差 ( δ ) ≈ h · θ,若能使 h = 0,則 δ = 0。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-10 阿比誤差 ( θ 極小,此圖為誇大畫出 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 高度規 (Height Gage)"
+        },
+        {
+          "type": "paragraph",
+          "text": "高度規的讀尺方式有游標刻劃、量錶與液晶數字顯示數種。圖 7-11 所示之游標高度規 由一基座主尺與帶高速鋼或碳化鎢刀口之游尺所組成,可量測高度、劃平行線及求圓桿端 面中心。 其規格以游尺所能移動的最大高度表示。以游標高度規劃線時劃刀與前進方向傾 斜 30 ~ 60 度。游標高度規作歸零檢查時,必須將游尺上的劃刀降到最低位置平貼在平板 上。 液晶顯示之游標高度規可利用塊規在任何位置設定零點。 以高度規劃線時,劃線刀伸出長度不要太長。底座與工件參考面必須保持平行。讀取 高度規刻度時,視線應和讀取之刻度等高。 欲在圓桿之端面劃出中心線及找出中心點,可按下列五個動作來完成:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 圓桿置於 V 形枕上。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 利用游標高度規碰觸圓桿以測出圓桿頂部之高度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 將游標高度規所測得之高度扣除圓桿半徑,即為圓桿中心高度。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 左手壓緊圓桿及 V 形枕,右手移動游標高度規底座,使刀尖與圓桿之端面接觸,劃"
+        },
+        {
+          "type": "paragraph",
+          "text": "出第一條中心線。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 將圓桿轉動一角度 ( 儘量與第一條劃線成 90 ° ),劃出第二條中心線,則兩線之交點"
+        },
+        {
+          "type": "paragraph",
+          "text": "即為中心點。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-11 游標高度規 ( 圖片取自三豐公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "相關知識"
+        },
+        {
+          "type": "paragraph",
+          "text": "依歷史記載,在 1492 ~ 1577 年左右,一位葡萄牙人 Petorus Nonuth 首先將游標刻度應用在鋼尺上。 其後在 1631 年由法國人 Pierre Vernier 設計成第一代滑動游標尺,由一支短的輔助尺與長的主尺組 合而成,這是今日游標卡尺的原始架構。 1850 年美國 Brown & Shape 公司創辦人 Joseph R.Brown 將上述兩種游標尺加以改良,使本尺與游尺各有不同刻度,設計出目前使用的游標卡尺。 為了紀念這兩位先進,遂將游標卡尺命名為 Vernier Calipers,日本則稱為呢利斯 (Nonuth)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 15"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 分厘卡 (Micrometers)"
+        },
+        {
+          "type": "paragraph",
+          "text": "分厘卡如圖 7-12 所示,又稱為測微器,係由卡架、砧座、主軸、套筒及襯筒組成。利 用螺紋節距微分原理,可將心軸之進距細分至 0.01mm。若再加上游標分劃,更可細分至"
+        },
+        {
+          "type": "heading",
+          "text": "0.001mm。每一支分厘卡之量測範圍為 25mm。"
+        },
+        {
+          "type": "paragraph",
+          "text": "普通分厘卡之襯筒刻劃間隔等於心軸螺桿節距 0. 5 mm,套筒倒角錐面分成 50 等分,"
+        },
+        {
+          "type": "heading",
+          "text": "所以套筒轉 1 刻度,心軸之前進距離為:"
+        },
+        {
+          "type": "heading",
+          "text": "0.5"
+        },
+        {
+          "type": "heading",
+          "text": "= 0.01(mm)"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-12 外徑分厘卡 ( 圖片取自智允貿易有限公司 ) ▲ 圖 7-13 游標分厘卡之刻度分劃 游標分厘卡之刻度分劃如圖 7 - 13 所示,除了普通分厘卡的兩種刻度之外,襯筒另取 套筒之 9 刻度間隔,等分為 10 等分,則其最小讀值為:"
+        },
+        {
+          "type": "heading",
+          "text": "0.09"
+        },
+        {
+          "type": "heading",
+          "text": "0.01 − = 0.001(mm)"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "paragraph",
+          "text": "讀取分厘卡之尺度時,先看套筒邊緣對準襯筒主刻度何處,再看襯筒之橫刻度對準套 筒第幾格,最後再看襯筒之游標刻劃第幾格對準套筒刻度。圖 7-13 所示之游標分厘卡,套 筒邊緣對準襯筒主刻度 6~6.5mm,襯筒之橫刻度對準套筒 21~22 格,襯筒之游標刻劃第 3 格對準套筒刻度,所以讀值為 6.213mm。 分厘卡依不同之量測條件,有多種設計,如:量測內尺度用的卡儀型內測分厘卡與三 點式內測分厘卡 ( 如圖 7-14 所示 )、 量測外尺度用的外測分厘卡、 量測深度用的深度分厘卡、 量測螺紋節徑用的螺紋分厘卡、量測齒輪節徑用的齒輪分厘卡與量測奇數刃刀具直徑用的 V 溝分厘卡。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "量錶 P22"
+        },
+        {
+          "type": "heading",
+          "text": "將量測軸的直線位移或角位移做機械性的"
+        },
+        {
+          "type": "heading",
+          "text": "放大,並將放大的結果經由指針指示於刻"
+        },
+        {
+          "type": "paragraph",
+          "text": "度盤之量具。 ▲ 圖 7-14 三點式內測分厘卡 ( 圖片取自 Mahr 公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "相關知識"
+        },
+        {
+          "type": "paragraph",
+          "text": "依歷史記載,在 1772 年英國發明家 James Watt 為了控制蒸汽機內活塞與汽缸之間的間隙,利用螺 紋原理製造由兩片刻度盤組合而成的分厘卡。在 1800 年另一位英國工程師 Henry Maudslay,改良 Watt 分厘卡而製造出精度可達 0.001 吋的分厘卡,但其造形並非今日的摩登造形。此後 Palmer 加以 改良,將分厘卡螺桿製成每吋 40 牙,且在螺桿旋轉端之外套筒上刻劃出螺紋線及螺紋線相交 25 等 分線段的直線,而其刻度的判讀是以指針為準,精度可達 0.001 吋。但是,分厘卡真正商品化是在 1885 年之後,距原始設計已超過 100 年。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 塊規 (Gage Blocks)"
+        },
+        {
+          "type": "paragraph",
+          "text": "塊規常用作線性量測器之檢驗標準,檢驗游標卡尺、分厘卡、高度規、量錶...之精度。 塊規係由耐磨材料所製成之長方形橫斷面 ( 亦有正方形及圓形 ) 且量測面相互平行之 量具。其量測面和另一塊之量測面緊貼時,具有良好的密著性質,可依需要而將數片塊規 組合在一起。 塊規大都成套購買, 如圖 7-15(a) 所示, 常見者有 112 塊組、 103 塊組、 87 塊組、 76 塊組、 56 塊組及 47 塊組等。其材質為碳化鉻、碳化鎢、合金鋼、石英石及不鏽鋼等,一般所用 者為碳化鉻。硬度極高的陶瓷塊規為近年來開發成功的產品,有極優良的抗腐蝕性、抗磨 損性及抗碰撞性。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-15 塊規組"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 17"
+        },
+        {
+          "type": "paragraph",
+          "text": "選用與組合塊規之原則如下: ( 1 ) 以欲組合尺寸之最右端數字為基數,選取尺寸最大者 由小至大選配,以期得到最少塊數之組合,使誤差最小; ( 2 ) 扭合時應先將最厚的一對扭合, 然後再由厚而薄,依次加併,不可紊亂; ( 3 ) 由薄而厚分開; ( 4 ) 厚塊規用旋轉法組合,薄 塊規用堆疊法組合。 圖 7-15(b) 所示者,係利用量錶配合塊規檢驗工件尺度之情形。首先將量錶測頭置於 塊規上歸零,移走塊規後將工件置於測頭下方,量錶顯示之偏差量即為塊規與工件之尺度 差。 塊規的等級、公差及各級之用途,如表 7-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 7-4 塊規的等級、公差及各級之用途"
+        },
+        {
+          "type": "heading",
+          "text": "CNS JIS"
+        },
+        {
+          "type": "heading",
+          "text": "每 25mm 之誤差 用途"
+        },
+        {
+          "type": "heading",
+          "text": "等級稱呼 舊標準"
+        },
+        {
+          "type": "paragraph",
+          "text": "00 AA ± 0.05 μm 於高精密量測實驗中,比測 0、 1、 2 級塊規"
+        },
+        {
+          "type": "heading",
+          "text": "0 A ± 0.1 μm 檢驗規量量具"
+        },
+        {
+          "type": "heading",
+          "text": "1 B ± 0.2 μm 檢驗計量量具"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 C ± 0.4 μm 現場量具檢驗、劃線工作及精密工件 ( 五 ) 三次元座標量測機 (Coordinate Measuring Machine, CMM) CMM 如圖 7-16 所示,是指在一個六面體的空間範圍內,能夠表現幾何形狀、長度及 圓周分度等量測能力的儀器。其量測功能包括尺度精度、定位精度、幾何精度及輪廓精度 等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-16 座標量測機 ( 圖片取自福宮通商公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "18"
+        },
+        {
+          "type": "paragraph",
+          "text": "CMM 有 X、 Y、 Z 三個量測軸,透過導軌上的光學尺或磁性尺的裝置,可輕易地顯示 量測值至 1μm。同時由其電腦的軟體功能,能將量測結果以 3D 立體圖顯示在螢幕上。 CMM 的探頭有接觸式及非接觸式兩種,早期以接觸式探頭為主,時下則廣用非接觸 式探頭。 將工件定位一次,就能在除底面之外的另五個面上進行 3 D 量測,讓 CMM 在塑膠模 具的檢驗上,成為不可或缺的角色。"
+        },
+        {
+          "type": "heading",
+          "text": "二、量測角度用量具"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 游標角度儀 (Universal Bevel Protractors) 游標角度儀又稱為萬能量角器,如圖 7-17 所示。可直接量測工件的角度,使用範圍很 廣,藉著游標微分裝置,可使最小讀值達 5 分。圖 7-18 所示者為尺面局部放大圖, 本尺 1 格 1 度,游尺取本尺 11 或 23 格,等分為 12 等分,則其最小讀值為:"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-17 游標角度儀 ( 圖片取自三豐公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-18 游標刻度分劃"
+        },
+        {
+          "type": "heading",
+          "text": "11 ° 1 °"
+        },
+        {
+          "type": "heading",
+          "text": "1 ° − = = 5 ′"
+        },
+        {
+          "type": "heading",
+          "text": "12 12"
+        },
+        {
+          "type": "heading",
+          "text": "23 ° 1 °"
+        },
+        {
+          "type": "heading",
+          "text": "2 ° − = = 5 ′"
+        },
+        {
+          "type": "heading",
+          "text": "12 12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 19"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於角度量測方向可能向左或向右偏,所以游尺左右各一組,游尺上之刻劃格數總共 24 格。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 正弦桿 (Sine Bars)"
+        },
+        {
+          "type": "paragraph",
+          "text": "正 弦 桿 如 圖 7-19 所 示。 其 標 稱 尺 寸 係 以 兩 圓 柱 之 中 心 距 離 L 來 表 示, 常 見 者 有 100mm 及 200mm 兩種。當正弦桿一側之圓柱下方墊厚度 H 之塊規時,其兩圓柱中心連線"
+        },
+        {
+          "type": "heading",
+          "text": "與水平方向夾一角度 α,依三角函數之關係得:"
+        },
+        {
+          "type": "heading",
+          "text": "H = L sin α"
+        },
+        {
+          "type": "paragraph",
+          "text": "將欲檢驗之工件置於正弦桿上,如圖 7-20 所示。再以量錶探測工件兩端,若高度相等, 則表示工件面與平板平行。依“平行線之內錯角相等”之定理,可知工件之夾角 A 等於正 弦桿之設定夾角 α。 以正弦桿檢驗工件時,角度不宜超過 45 度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7 - 19 正弦桿原理"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7 - 20 工件角度之量測"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 角度塊規 (Angle Gages)"
+        },
+        {
+          "type": "paragraph",
+          "text": "工業界通常以角度塊規做為角度的基準,其組合方式如圖 7-21 所示,有相加組合及相 減組合兩種方法。 一套 18 塊組的角度塊規 ( 其角度如表 7-5 所示 ), 可以 1 秒為單位, 從 0 ° ∼ 90 ° 任意組合使用。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7 - 21 角度塊規之組合"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 7 - 5 18 件組之角度塊規組"
+        },
+        {
+          "type": "paragraph",
+          "text": "度 1 °、 3 °、 5 °、 15 °、 30 °、 45 ° 分 1 '、 3 '、 5 '、 10 '、 20 ' 秒 1 \"、 3 \"、 5 \"、 10 \"、 20 \"、刀口直尺、直規 ( 四 ) 組合角尺 (Combination Square Sets)"
+        },
+        {
+          "type": "heading",
+          "text": "組合角尺又稱為複角尺,如圖 7-22 所示,由"
+        },
+        {
+          "type": "paragraph",
+          "text": "直尺、 直角規 ( 圖左 )、 角度規 ( 圖中 ) 與中心規 ( 圖 右 ) 組成。角度規配直尺可劃增量值 1 度之任意 角度線。且可以將尺沿著工件邊移動,繪製平行 線。 單獨使用直角規可量測水平度,配直尺可檢 驗 90 度與 45 度,還可以量測深度。中心規配直 尺可求圓桿端面中心,如圖 7 - 23 所示。 ▲ 圖 7-22 組合角尺 ( 圖片取自三豐公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 21"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-23 組合角尺之用途"
+        },
+        {
+          "type": "heading",
+          "text": "三、量測平面用量具"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 平板 (Surface Plates) 平板是機械工廠從事量測或劃線不可少的量具,很多精密量測儀器都需要以平板當作 基準面,才能使量測、劃線、比對及檢驗等工作順利進行。 在平板上塗薄薄的一層紅丹油, 將工件緊貼於該處配合後,由工件面沾紅丹油的百分比,可判定工件的平面度。 常見的平板材質有鑄鐵及花崗石兩種,如圖 7-24 所示者為花崗石平板。 花崗石平板的"
+        },
+        {
+          "type": "heading",
+          "text": "價格較高,但品質較優良,其特點為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 無內應力,平面具有良好的穩定性。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 熱膨脹係數低,故受溫度變化影響極小。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 防蝕效果好。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 不生磁化,可以使用磁性設備。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 容易清洗,維護費用比鑄鐵便宜。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 不會有黏著現象,精密儀器移動順利。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 受微小撞擊時,受傷部位之晶粒組織會破裂,清除後表面不起毛邊或凸痕,影響平"
+        },
+        {
+          "type": "paragraph",
+          "text": "面度不大。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-24 花崗石平板 ( 圖片取自三豐公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "22"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 指示器 (Indicators)"
+        },
+        {
+          "type": "paragraph",
+          "text": "指示器又稱為量錶,是將量測軸的直線位移或角位移做機械性的放大,並將放大 的結果經由指針指示於刻度盤之量具。放大測軸的直線位移者,稱為 針盤指示器 (Dial Indicator),如圖 7-25 所示, 其指針旋轉範圍在一圈以上。放大測軸的角位移者,稱為 槓 桿指示器 (Dial Test Indicators), 如圖 7-26 所示, 其指針的旋轉範圍在一圈以內。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-25 針盤指示器 ( 圖片取自三豐公司 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-26 槓桿指示器 ( 圖片取自三豐公司 ) 指示器之用途為: (1) 以槓桿指示器作槽面與槽內壁的量測; (2) 工件對準中心; (3) 配 合工具機進行虎鉗的固定鉗口平行度校正; (4) 配合正弦桿作錐度檢驗; (5) 配合塊規進行 工件高度比較量測。 指示器的測頭太粗,無法檢驗工件的表面粗糙度。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 23"
+        },
+        {
+          "type": "paragraph",
+          "text": "針盤指示器的測桿必須與受測工件表面垂直,否則弧形測頭會產生餘弦誤差,平形測 頭會產生正弦誤差。槓桿指示器的測桿必須與受測工件表面平行,以免產生餘弦誤差。 指示器歸零時係轉動錶殼之 0 刻度對正指針。 ( 三 ) 光學平鏡 (Optical Plates) 光學平鏡以水晶製成,用於檢查經研磨或拋光加工之工件面,例如分厘卡之心軸與砧 座,精測塊規及量規之平面度。 其原理是利用光波干涉現象,而形成明暗相間的色帶,再 以此色帶的數目及形狀,作平面狀況的判斷。 利用光學平鏡作表面檢驗的工作,其表面狀況必須精光到足夠反射光線的程度,始能 形成色帶,表面粗糙度在 1μm 以上的工件面,是無法以光學平鏡檢驗的。"
+        },
+        {
+          "type": "heading",
+          "text": "四、量規"
+        },
+        {
+          "type": "paragraph",
+          "text": "大量生產可互換性之工件,大都選用量規來檢驗,量規檢驗具有下列數項優點: (1) 誤 差量少; (2) 操作快速; (3) 檢驗精確; (4) 降低成本。"
+        },
+        {
+          "type": "heading",
+          "text": "量規依其使用狀況,可分為下列數種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 塞規 (Plug Gages)"
+        },
+        {
+          "type": "paragraph",
+          "text": "塞規用於檢驗孔的內徑尺度,如圖 7-27(a) 所示,具有通過端及不通過端兩個量測頭。 通過端可控制孔的最小尺度,其長度較長,與孔面摩擦時比較不會磨損。 不通過端可控制 孔的最大尺度,其長度較短並塗紅漆。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 環規 (Ring Gages)"
+        },
+        {
+          "type": "paragraph",
+          "text": "環規用於檢驗軸之外徑尺度,如圖 7-27(b) 所示。 其通過環外圓有壓花,可控制軸的 最大尺度。不通過環除壓花外,另有一環形切槽,槽內塗紅漆,可控制軸的最小尺度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-27 量規 ( 圖片取自 Mahr 公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "24"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 卡規 (Snap Gages)"
+        },
+        {
+          "type": "paragraph",
+          "text": "卡規如圖 7 - 27 (c) 所示,可用於檢驗工件的外徑、長度及厚度等尺度。其通過端標 “ GO ”,可控制受測處的最大尺度。不通過端標“ NO.GO ”並塗紅漆,可控制最小尺度。 ( 四 ) 螺紋量規 (Thread Gages) 螺紋量規如圖 7-27(d) 所示,有螺紋塞規及螺紋環規兩種。前者用於檢驗內螺紋,後 者用於檢驗外螺紋。利用螺紋量規,可判定螺紋之大徑、小徑、節徑、牙角及節距的尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 錐度量規 (Taper Gages)"
+        },
+        {
+          "type": "paragraph",
+          "text": "錐度量規如圖 7-28 所示,有錐度環規及錐度塞規兩種。前者用於檢驗錐軸,後者可檢 驗錐孔。以錐度塞規檢驗錐孔時,先在孔中塗一層薄薄的紅丹油,接著將錐度塞規插入錐 孔中,旋轉約三分之一圈後抽出,檢視接觸紅丹的情形。若小端接觸紅丹,表示錐孔之錐 度太大;若大端接觸紅丹,則表示錐度太小。錐度環規的檢驗步驟與塞規相同,唯錐度大 小的判定與前者相反。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-28 錐度量規 ( 圖片取自昊源機械股份有限公司 ) ( 六 ) 厚度規 (Thickness Gages) 如圖 7-29 所示,又稱為測隙規或厚薄規,用於小間隙之量測。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-29 厚度規 ( 圖片取自德國 Vogel)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 25"
+        },
+        {
+          "type": "heading",
+          "text": "五、 光學投影機 (Optical Projector)"
+        },
+        {
+          "type": "paragraph",
+          "text": "光學投影機如圖 7-30 所示,係利用光學原理,將工作物之輪廓經過各透鏡之投射,放 大成各種倍數後,呈現於半透明之投影幕上,令其與投影幕上原繪成之圖形或刻度分劃, 進行正確比較,作詳細量測或檢驗,從而獲得真實誤差情況,並讀出確實數值。 使用在非接觸性量測時,對不規則形狀、彈性材料或脆性材料等工件形狀、尺度的高 精度高效率之量測,是最適當的量測儀器。其用途如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 利用玻璃讀尺量測長度。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 利用微動裝物台量測直角座標長度及極座標。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 利用迴轉式或微動裝物台與量角投影幕量測角度。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 利用標準圖形片比較量測工件輪廓形狀,例如縫"
+        },
+        {
+          "type": "paragraph",
+          "text": "衣針之輪廓量測。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 量測螺紋外徑、底徑、節徑、節距、牙角及牙形。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 量測工件偏心距。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 觀測工件表面形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "光學投影機不可量測項目:表面粗糙度、真平度、"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-30 光學投影機"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件厚度,盲孔深度,螺紋的螺旋角與導程角。"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片取自台智公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "六、 工具顯微鏡 (Toolmaker Microscopes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-31 所示,應用光學原理做工件檢測,直接由目鏡觀察放大的工件。載物台以光 學尺精密顯示,可進行長度、角度、形狀與位置的精密檢測。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "導程角 P160"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋旋向和中心線的垂線所成的"
+        },
+        {
+          "type": "paragraph",
+          "text": "角度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-31 工具顯微鏡 ( 圖片取自三豐公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "26"
+        },
+        {
+          "type": "heading",
+          "text": "7-3 品質管制與實施"
+        },
+        {
+          "type": "heading",
+          "text": "一、品質管制的意義"
+        },
+        {
+          "type": "paragraph",
+          "text": "早期的 品質管制 (Quality Control, QC) 是以統計數理分析方法,應用到工廠的生產過 程中,配合工程師的知識及經驗,以事實的分析與客觀的判斷,謀求操作標準化、提高效 率,預防不良品的產生,使產品的品質合乎要求,期能得到合乎經濟原則的製品。它是一 種合理而經濟的方法,成為企業管理中重要的一環。 近期的品質管制已由狹義的觀念邁向廣義的領域。它所包含的不僅是製造過程的品 質,而是以產品品質為核心,自購買原料開始,經生產而至產品送達客戶以後的服務為止, 凡直接或間接與品質有關的項目,包括:採購、設計、技術、設備、製造、成品、銷售及 人事等,全部在管制之內。也就是整個企業系統均包括在內,此稱之為 全面品質管制 (Total Quality Control, TQC)。 品質管制近年來稱為 品質管理 (Quality Management, QM)。品質管理最大目的 在於確保產品或服務的品質能符合消費者要求的水準,此活動又稱為 品質保證 (Quality Assurance, QA)。 ISO 管理標準分類: ( 1 )ISO 9000 ( 品質管理標準 ); ( 2 )ISO 14000 ( 環境管理標準 ); ( 3 ) ISO 22000 ( 食品管理標準 )。證書有效期間為 3 年。 品質管制過程中,量測的主要目的是用來管制樣本內平均值的變異。為了觀察品質的 變異情形,就需要利用管制圖來分析。在精密量測方面,常採用的管制圖有直方圖、管制 圖、特性要因圖、柏拉圖⋯等。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 27"
+        },
+        {
+          "type": "heading",
+          "text": "二、品質管制的實施"
+        },
+        {
+          "type": "paragraph",
+          "text": "直方圖如圖 7-32 所示,將樣本的最大尺度與最小尺度間等分為若干等分用直方形排列 在一起。直方形的高度代表該尺度出現的次數,底邊寬代表每一等分的尺度大小。此種圖 形能夠將量測次數的分佈情形清楚地表達出來,以供品質管制的參考。 製程能力表示某機器加工時所能達成的尺度範圍,訂定公差時必須大於製程能力,否 則不良品會偏多。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-32 直方圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "管制圖為一種解決問題與產生品質改進的傑出方法。管制圖如圖 7-33 所示,每日將生 產工廠中成品之品質公佈記錄於管制圖上,品管員再依此管制圖上之品質分佈是不是有變 異,進一步探究原因而做適當之處理。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-33 管制圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "28"
+        },
+        {
+          "type": "paragraph",
+          "text": "統計解析法係將統計結果以歸納法則,運用或然率理論,少數資料推測出成品產生變 異之原因。 圖 7-34 所示者為特性要因圖,乃由直線與代表特性要因間有意義關係的符號所組成, 亦稱 因果圖 (Cause-and-effect Diagram),又因其圖形如魚骨,故又稱為魚骨圖。繪製特性要 因圖時先將發生問題的主要原因填入圖形最外側的長方框內,再將次要原因依序填入主要 原因下方的箭頭後方,作為品質改進的依據。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-34 特性要因圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "柏拉圖如圖 7-35 所示,乃是將領域失敗的數據分類從左到右成下降順序排列,重要的 少數項在左邊,不重要的多數項在右邊,而將許多出現次數很少的多數項組合成一種分類 稱為其他,在圖中以 O 標示出來。此種圖形在品管方面主要是用於品質改良計劃的設計, 可清楚的指出急須改進的項目 ( 圖中的 F 與 C 項 )。通常掌握著約 20% 的重要少數項,問 題便可獲得 80% 的解決。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-35 柏拉圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 量測與品管 29"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-36 所示者為散佈圖,可解析兩個變數之間的相關性。如圖 (a) 所示,當 X 變數 值變大、 Y 變數值也變大,稱為正相關;如圖 (b) 所示,當 X 變數值變大、 Y 變數值變小, 稱為負相關;如圖 (c) 所示,當 X、 Y 兩變數值不具正或負相關,且圖形近似圓形時,稱 為無相關。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 正相關 (b) 負相關 (c) 無相關"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-36 散佈圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch07/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "1. 公差與配合"
+        },
+        {
+          "type": "heading",
+          "text": "(1) CNS 標準公差"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 500mm 以 下 分 IT01, 0, 1 ∼ 18, 共 20 級; 500 ∼ 3150mm 分 IT1 ∼ 18,共 18 級。 2 尺度相同時,級數大者公差亦大,例如 10mm 之 8 級公差比 10mm 之 6 級公差大;級數相同時,尺度大者公差亦大,例如 50mm 之 8 級公差比 10mm 之 8 級公差大。 3 各 級 之 用 途: IT01 ∼ IT4 為 規 具 公 差; IT5 ∼ IT10 為 配 合 件 公 差, IT11 ∼ IT18 為非配合件公差。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 配合的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 餘隙配合 (Clearance Fit):孔大於軸的配合方式,配合後可產生適當的間 隙,具有適度的潤滑配差與良好的運動性能。其範圍為: H/a ∼ h 或 A ∼ H/h。 2 過渡配合 (Transition Fit):孔與軸公差帶相重疊的配合方式,在極大孔時, 有間隙的存在;在極小孔時,可能產生干涉。此種配合常用於決定各配 件的位置,例如定位銷。其範圍為: H/j ∼ n 或 J ∼ N/h。 3 干涉配合 (Interference Fit):孔小於軸的配合方式,配合後可產生適當的 緊度,能保持所需之孔壁壓力,常用於永久性冷縮配合。其範圍為: H/p ∼ zc 或 P ∼ ZC/h。"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 配合的方式"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 基軸制配合系統 (Shaft Basis Fit System):將軸之偏差位置定於 h,固定不 變,藉由改變孔之偏差位置,以獲得各種不同的間隙或干涉的一種配合 方式。基軸制配合系統的軸上限界偏差為零。 2 基孔制配合系統 (Hole Basis Fit System):將孔之偏差位置定於 H,固定不 變,藉由改變軸之偏差位置,以獲得各種不同的間隙或干涉的一種配合 方式。基孔制配合系統的孔下限界偏差為零。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 量具分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 計量量具:量測時可讀出量測值之量具,如:分厘卡、游標卡尺、角度儀及 水平儀⋯等。"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH04",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH04_001",
+      "subject": "機械力學",
+      "unit": "CH4",
+      "q": "8 m/s2)",
+      "image_url": "",
+      "options": [
+        "10",
+        "30",
+        "49",
+        "98 (A) (B) cosO+gsinO gcosO+sin0 (D) gcos0—sinO cos0—gsin0 155 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "100 NB 200 NC 300 NA 0 · 5B 160"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH04_002",
+      "subject": "機械力學",
+      "unit": "CH4",
+      "q": "5 f = O(B) F (C) W = 130 N N",
+      "image_url": "",
+      "options": [
+        "",
+        "F",
+        "W = 130 N N (A) 100 (B) 110 (C) 120",
+        "150 (A) F 5m C 12m 100N )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "2"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH04_003",
+      "subject": "機械力學",
+      "unit": "CH4",
+      "q": "2C P 48 N",
+      "image_url": "",
+      "options": [
+        "B A",
+        "A B c",
+        "AB",
+        "AB 100N 1 = 03 150N ="
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "2"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH04_004",
+      "subject": "機械力學",
+      "unit": "CH4",
+      "q": "2",
+      "image_url": "",
+      "options": [
+        "65",
+        "125",
+        "175",
+        "205 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "2"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH04_005",
+      "subject": "機械力學",
+      "unit": "CH4",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "98 N",
+        "102 N",
+        "106 N",
+        "108 N 12 16m 100N 12m 4-3 4-4 158 100 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

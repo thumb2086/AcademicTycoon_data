@@ -1,0 +1,2077 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH11",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH11",
+    "title": "CH11"
+  },
+  "title": "機械製造 Chapter 11 非傳統加工",
+  "source_pdf": "機械製造/CH11PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH11",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        },
+        {
+          "type": "heading",
+          "text": "非傳統加工"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "11-1 粉末冶金"
+        },
+        {
+          "type": "heading",
+          "text": "11-2 塑膠加工"
+        },
+        {
+          "type": "heading",
+          "text": "11-3 電積成形"
+        },
+        {
+          "type": "heading",
+          "text": "11-4 放電加工"
+        },
+        {
+          "type": "heading",
+          "text": "11-5 特殊切削加工"
+        },
+        {
+          "type": "heading",
+          "text": "11-6 積層製造"
+        },
+        {
+          "type": "heading",
+          "text": "11-7 雷射加工"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "202"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "科技的發展日新月異,為了向更好、更快速挑戰,許多新的材料乃陸續被開發出來, 這些材料趨向高硬度、耐高溫及耐腐蝕,例如:超合金、碳化鎢及陶瓷等。這些材料的加 工,並非傳統的工具機所能勝任,因此新的加工法乃應運而生,這些新的加工法有別於傳 統的切削加工,我們稱之為 特殊加工法 (Special Processes) 或 非傳統加工法 (Nontraditional Machining Processes)。 特殊加工是指不用傳統的加工工具、工具機而使材料分離、結合、除去及附著或變形, 以達成所需之形狀、尺寸或機能。其實際之加工機構是由光子、電子、離子、原子或分子 等分擔。 塑膠的特性與金屬截然不同,所以加工的方式亦大異其趣。 積 層 製 造 (Additive Manufacturing, AM) 技 術 從 早 期 被 稱 為 快 速 原 型 (Rapid Prototyping, RP),即是一般俗稱的 3D 列印,於 2009 年由美國材料試驗協會正名為積層 製造。"
+        },
+        {
+          "type": "heading",
+          "text": "11-1 粉末冶金"
+        },
+        {
+          "type": "heading",
+          "text": "11-1-1 粉末冶金概說"
+        },
+        {
+          "type": "paragraph",
+          "text": "粉末冶金 (Powder Metallurgy, PM) 係將金屬,或非金屬材料先製成粉末狀,再以 適當的成形方法製成所需成品形狀的一種製造方法。由於 PM 法具有多項別種製法無法取 代的特色,因此製成的零件有逐漸取代鑄造件與鍛造件的趨勢,其應用領域愈來愈廣。圖 11-1 所示者,為粉末冶金製品應用於汽車各部位的情形。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 粉末冶金製品例 (b) 粉末冶金製品例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片取自北京恆源天橋粉末冶金有限公司 ) ( 圖片取自長鈺模具公司 ) ▲ 圖 11-1 汽車用 PM 零件之範圍及種類 ( 取材自參考書目 (19))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 203"
+        },
+        {
+          "type": "heading",
+          "text": "一、粉末冶金的製程"
+        },
+        {
+          "type": "paragraph",
+          "text": "粉末冶金的製程如圖 11-2 所示。其原料以金屬所佔的比例最大,另有少部分用到非金 屬,例如製陶瓷用的氧化鋁。這些原料以物理的、化學的、或機械的方法製成粉末。然後 依需要將不同的粉粒按比例加以混合, 例如自潤軸承要混入石墨當潤滑劑,碳化鎢要混入 鈷當黏結劑等。 混煉均勻的粉粒以適當的方法施壓,令其依模具形狀而成形。此時粉粒與 粉粒間雖然緊密的擠在一起,但只是一種幾何式的彼此扣接而已,必須加溫燒結,使顆粒 間的交界面互相擴散,才有足夠的結合強度。燒結件再經矯正、熱處理⋯等後續的成品處 理,最後才得到成品。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-2 粉末冶金零件之製造流程"
+        },
+        {
+          "type": "heading",
+          "text": "二、金屬粉末的重要性質"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬粉末的性質,對於製成後成品的品質,有很大的影響,必須將其控制在合於訂定 的規格內。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-3 所示,有球形、角形、多角形、尖角形、樹枝形、不規則形、多孔形、以及 破片形等。依不同的製法會產生不同的形狀。 球形的流動性好,但結合強度較低;多角形、 樹枝形,以及不規則形的結合強度大,但流動性差。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-3 粉粒形狀"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 細度"
+        },
+        {
+          "type": "paragraph",
+          "text": "細度是顆粒大小的一種表示法,通常以標準篩子來篩量。 篩子以篩號來稱呼,篩號就 是篩子上每吋長的孔數,所以篩號愈大,表示顆粒愈細。 PM 法所用的顆粒尺寸大小約 0.1 μm ∼ 1,000 μm。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "204"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 流動性"
+        },
+        {
+          "type": "paragraph",
+          "text": "流動性是粉粒在壓模內流動難易的指標,流動性高者,製品的密度較均勻,且製品形 狀可較複雜。 ( 四 ) 壓縮性 (Compressibility) 壓縮性是一定量粉末在壓縮前後的體積比。比值愈大,則壓縮性愈高。鐵粉的壓縮比 約 2. 5: 1。"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 燒結能 (Sintering)"
+        },
+        {
+          "type": "paragraph",
+          "text": "燒結是加熱使金屬粉末擴散而產生黏結作用的操作。 加熱之溫度範圍大者,表示燒結 能佳,因其控制容易,失敗率低。"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 鬆裝密度"
+        },
+        {
+          "type": "paragraph",
+          "text": "鬆裝密度又稱為虛表密度,係表示粉粒在未施壓狀態下的密度。"
+        },
+        {
+          "type": "heading",
+          "text": "( 七 ) 微振密度"
+        },
+        {
+          "type": "paragraph",
+          "text": "微振密度又稱為輕敲密度,係粉粒輕輕敲擊或振動後的密實狀態下的密度。"
+        },
+        {
+          "type": "heading",
+          "text": "三、粉末冶金之優點與缺點"
+        },
+        {
+          "type": "heading",
+          "text": "1. 為某些製品獨一無二的製法:燒結碳化物、多孔性自潤軸承、陶瓷、雙"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬,以及耐高溫的金屬棒 ( 鎢、鉬 ) 等,僅能以 PM 法製造。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 加工時無廢料產生,可節省原料。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 不需高度技術,人工費用低廉,可降低生產成本。"
+        },
+        {
+          "type": "paragraph",
+          "text": "優點 4. 製品純度高。 粉 5. 可控制零件的孔隙。 末 6. 與鑄件相較, PM 製品的尺寸精確、表面光滑。 冶 7. 可量產化,適用於量多而小件製品的生產。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 成品之重量輕。"
+        },
+        {
+          "type": "heading",
+          "text": "金"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "paragraph",
+          "text": "優 1. 設備成本高,不適合小量生產。 缺 2. 金屬粉末價格較高。 點 3. 金屬粉粒容易氧化變質,不易儲存。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 與液態金屬相較,金屬粉粒的流動性偏低,無法製造太複雜的機件。"
+        },
+        {
+          "type": "heading",
+          "text": "缺點"
+        },
+        {
+          "type": "heading",
+          "text": "5. 由於壓力機容量的限制,製品尺寸不能太大。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 鋁、鎂、鋯、鈦等較活潑的金屬粉末,容易燃燒而引起火災或爆炸。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 燒結溫度必須嚴格控制,故加熱困難。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 除了燒結鍛造與熱均壓法,大多數的 PM 製程所生產的製品密度都較低。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 205"
+        },
+        {
+          "type": "heading",
+          "text": "11-1-2 金屬粉末的製造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "粉末冶金法所用的金屬粉末,最主要的有鐵基 ( 鋼與不鏽鋼 ) 及銅基 ( 純銅、黃銅與 青銅 ) 兩者。另外還有 Ni、 Ag、 Al、 W、 Co、 Ti 及 Ta 等。這些金屬的機械性質與化學性 質並不相同,必須依其特性選用適當的方法來製粉。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 機械粉碎法 (Mechanical Comminution)"
+        },
+        {
+          "type": "paragraph",
+          "text": "此法係利用機械式的操作,例如:滾磨、軋碎、鎚擊等方式,使金屬碎裂的方法。 這 種方法通常用於脆性金屬,如:銻、錳、鉻、及鎂等,所粉碎的金屬粉成多角狀或不規則狀。 對軟性金屬可得片狀之粉末。此法容易從設備上混入雜質,所以不容易製造純度高的金屬 粉。圖 11-4(a) 所示者為球磨機之滾磨粉碎法。圖 11-4(b) 所示者為軋碎法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-4 機械粉碎法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "206"
+        },
+        {
+          "type": "heading",
+          "text": "二、 噴霧法 (Atomization)"
+        },
+        {
+          "type": "paragraph",
+          "text": "噴霧法係利用高壓氣體或水流噴射,如圖 11-5(a) 和 (b) 所示,將液態金屬噴散成霧狀 後凝固成粉末的方法,前者稱為氣體霧化,後者稱為水霧化。氣體霧化之冷速慢,製成之 粉末為球狀粉,而水霧化可製成不規則形狀之粉末,壓縮性優異結合強度高,較常被採用。 噴霧法之製造工程單純,除了純金屬外也適合於合金,且生產力很高,所以近年來成 為粉末製造法之主流。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-5 噴霧法"
+        },
+        {
+          "type": "heading",
+          "text": "三、 還原法 (Reduction Method)"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬氧化物質脆,以機械粉碎法軋碎成粉狀,然後在熔點以下的高溫接觸還原氣,可 還原成純度很高且呈海棉狀 ( 多孔狀 ) 的粉粒。其作法有二:一是將金屬氧化物在爐中加 熱到高溫以後,將一氧化碳、天然氣、以及瓦斯等還原氣導入爐中;另一是將金屬氧化物 與煤碳粉混合後共置於爐中加熱,使碳與氧在高溫化合而將金屬還原。 此法適用於高熔點 金屬之製粉,如:鐵、鎢、鉬、鎳、以及鈷等。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 207"
+        },
+        {
+          "type": "heading",
+          "text": "四、 電解法 (Electrolytic Deposition)"
+        },
+        {
+          "type": "paragraph",
+          "text": "電解法如圖 11-6 所示,電解槽底部的不鏽鋼板接陰極,上方的低碳鋼棒接陽極,通電 時陽極金屬鍍向陰極成為沉積粉末。此法與電鍍之原理相同,但其電流密度較大,電解液 的溫度較高,故所得的電解物組織鬆散,容易碎成粉。此法可適用於 Fe、 Cu、 Ni、 Zn、 Ag、 Ta、 Sn 等金屬之製粉。 電解法所得之金屬粉末純度最高。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-6 電解法"
+        },
+        {
+          "type": "heading",
+          "text": "11-1-3 混合"
+        },
+        {
+          "type": "paragraph",
+          "text": "粉末的混合 ( 攪拌 ),可以獲得適當的粒度分佈,以及不同成分粉末的均勻分佈,是 PM 製程的必經步驟。 品質要求不高或粉末不易氧化者,通常在空氣中進行混合。若要提高品質,避免氧化, 就必須在真空中或惰性氣體保護下進行混合。 為了減少壓縮成形時粉粒與模壁間的摩擦,並利於脫模,往往在粉粒原料間混入適當 的潤滑劑,如:石墨、硬脂酸鋰等。 潤滑劑可令粉體流動順暢,所以更容易填充各種複雜 的凹部,而且使加壓粉體的密度均勻,增加模具的使用壽命,對光製面的平滑性也有幫助。 在鐵粉中混入石墨粉時,因為兩者間有很大的比重差,容易引起粉末的分離,可添加 少量的低黏度有機物液體加以改善。 高面積-體積比時的活性金屬,如 Al、 Mg、 Zr、 Ti 具有爆炸性,混合時要特別注意。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "208"
+        },
+        {
+          "type": "heading",
+          "text": "11-1-4 成形"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬粉末混合均勻之後,就可以進行成形工作,成形的方法常見的有下列數種:"
+        },
+        {
+          "type": "heading",
+          "text": "一、 壓製法 (Pressing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓製是將混合均勻的粉末,取定量置於鋼模內,以衝頭施壓而成形,如圖 11-7 所示。 衝頭施力的大小,因粉末材質與工作性質而異。材料硬脆、尺寸大、密度要求高,所需的 壓力就大;反之,則小。 初步壓實的毛胚稱為 壓實毛胚 (Green Compact) 或生壓胚。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-7 雙動作壓製成形模"
+        },
+        {
+          "type": "heading",
+          "text": "二、 離心力壓製法 (Centrifugal Compacting)"
+        },
+        {
+          "type": "paragraph",
+          "text": "此法的原理,與離心力鑄造法完全相同。模子加料完成後,置於離心機上作高速的旋 轉,以便產生離心力,作用在每一顆金屬粉粒上,而製成密度均勻的壓製品。由於離心力 只產生於徑向或輻射線方向,而不在切線方向,故製品最好是單一截面,而且形狀簡單者, 例如:套筒、圓柱、以及刀尖塊等。 離心力壓製法對於重金屬較有利,因為顆粒愈重,離心力愈大,製品的密度愈高。此"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "法所用的離心力約為 30kg/cm。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 擠製法 (Extrusion)"
+        },
+        {
+          "type": "paragraph",
+          "text": "擠製法如圖 11-8 所示。在金屬粉末中加入適當的膠合劑,如糖漿、樹膠、或溶於酒精 中的硝化纖維等,混成糊狀,然後裝入可塑性材料製成的罐子中。 罐子放入擠壓室中,以 擠伸桿迫使它通過模孔,而成為斷面均一的長條狀製品。隨即加熱使膠合劑揮發,並達到 燒結的目的。 燈泡用鎢絲的初步成形、高溫電弧銲接用銲條以及核能固體燃料棒等,均以 此法製成。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 209"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-8 擠製法"
+        },
+        {
+          "type": "heading",
+          "text": "四、 滑鑄法 (Slip Casting)"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑鑄法是先將金屬粉末與膠合劑混合均勻,作成糊漿狀,然後澆入多孔性的石膏模中。 膠合劑中的液體部份被模壁吸收、黏性物質與金屬粉末仍存留在模內而成為類似鑄件的製 品。若製品要製成中空,則混合漿注入模內的時間不必太長,當模面上沉積的厚度夠時, 即可反轉模子,將中心部份多餘的漿倒出,再經燒結而成中空的製品。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 重力燒結法 (Gravity Sintering)"
+        },
+        {
+          "type": "paragraph",
+          "text": "重力燒結是將金屬粉末均勻分佈在陶瓷盤子上,在氨氣中加溫燒結而成多孔性的製 品。因其燒結前後並未施加其他外力,故名重力燒結。 此法大都用於製造化學工業用之多 孔性不鏽鋼濾板。"
+        },
+        {
+          "type": "heading",
+          "text": "六、 滾軋法 (Rolling)"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾軋法如圖 11-9 所示,金屬粉末與膠結劑混合均勻後,由漏斗下方加入兩個迴轉的滾 軋輪之間,軋成片狀,再送入燒結爐燒結即得。 此法可連續操作,適用於大量生產,製成 銅、黃銅、青銅、蒙鈉合金,及不鏽鋼等之板狀製品。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-9 滾軋法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "七、 均壓成形法 (Isostatic Pressing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "巴斯卡 (Pascal) 原理:對一封閉的液體所施的壓力,必均勻的傳遞到液體中的任一部 份及器壁上,且其值不變。均壓成形即是利用此原理,將粉末裝入可撓性的橡膠袋內,由 外部施加流體靜壓而成形。 由於製品各部位的受力相同,故密度很均勻,各方向的強度均 一。 此法的設備費用低廉,且對製品的形狀及尺寸沒有限制,適用於鋁、鎂、鈹、鐵、鎢, 及不鏽鋼等之成形。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-10 CIP 裝置之構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "均壓成形法分為 冷均壓法 (Cold Isostatic Pressing, CIP) 與 熱均壓法 (Hot Isostatic Pressing, HIP) 兩種,如圖 11 - 10 與圖 11 - 11 所示。 CIP 是先均壓成形,再送進燒結爐加 溫燒結,而 HIP 是均壓成形的同時,即加溫完成燒結;其成形室即是燒結爐。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-11 熱均壓法 ( 取材自參考書目 (37))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 211"
+        },
+        {
+          "type": "heading",
+          "text": "八、 金屬纖維法 (Fiber Metal Process)"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬纖維法常用來製造孔隙比很大的金屬過濾器、振動阻尼器、火焰阻擋網等。 先製 造鋼之短纖維,接著將各纖維彎曲,並互相嵌扭作亂絲狀,然後與一種液體糊狀物混合, 澆於多孔性底盤上。待液體漏盡,取出黏結的纖維塊,然後加壓、燒結即可。"
+        },
+        {
+          "type": "heading",
+          "text": "九、 粉體射出成形 (Powder-injection Molding, PIM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "此法又名 金屬射出成形 (Metal-injection Molding, MIM),係將很細的金屬粉末,與聚 合物或蠟基結合劑拌合,然後在 135 °C∼ 200 °C的溫度下射入鑄模。模鑄後之生胚零件放 至於低溫爐中,燒除結合劑,然後在 1375 °C的高溫爐中燒結。 製程步驟:粉末混煉→射出成形→去結合劑→燒結→後處理。 此法具有製品形狀可比普通 PM 法複雜、零件機械性質與鍛造品相當、尺度精度高與 生產率高等優點。"
+        },
+        {
+          "type": "heading",
+          "text": "相關知識"
+        },
+        {
+          "type": "paragraph",
+          "text": "早期的網球拍以金屬製造邊框,為了要得到重量輕且堅固耐用的需求特性,現今的網球拍大都改用複 合材料來製造。複合材料的網球拍是由石墨纖維、石硼、陶瓷及芳香聚安醯胺纖維 (Kevler) 強化組合 後製成。這些網球拍有夾層結構,有些有單一方向性的強化。 含硼纖維的網球拍具有最高硬度,其次是含石墨、玻璃纖維、及 Kevler 纖維。 最新的發展是使用壓電纖維置入在複合材料的網球框。壓電材料最主要的目的是去修正框的硬度,修 正的大小是根據力道或擊球控制。壓電材料也可用來減低震動以改善握拍的感覺。"
+        },
+        {
+          "type": "heading",
+          "text": "11-1-5 燒結"
+        },
+        {
+          "type": "heading",
+          "text": "將已成形之製品,加熱到適當的高溫,使"
+        },
+        {
+          "type": "heading",
+          "text": "粉粒與粉粒之交界面間,彼此產生固體擴散作"
+        },
+        {
+          "type": "paragraph",
+          "text": "用 ( 如圖 11 - 12 所示 ),黏結成一體而增加製品 強度的製程,謂之 燒結 (Sintering)。影響燒結 的三個主要變數為溫度、時間 ( 從 10 分鐘至 8 小時 ) 與爐氣環境。"
+        },
+        {
+          "type": "heading",
+          "text": "單一成分之燒結體,其燒結溫度在熔點之"
+        },
+        {
+          "type": "paragraph",
+          "text": "下 ( 約為熔點的 0. 7 ~ 0. 9 倍 )。多成分的合金"
+        },
+        {
+          "type": "heading",
+          "text": "燒結體,其燒結溫度在高、低熔點金屬熔點之"
+        },
+        {
+          "type": "heading",
+          "text": "間;使低熔點金屬熔解而形成液相燒結,增加"
+        },
+        {
+          "type": "paragraph",
+          "text": "原子之擴散速度與結合強度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-12 燒結過程的擴散現象"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "212"
+        },
+        {
+          "type": "paragraph",
+          "text": "燒結的目的為增加製品的強度、密度與熱電傳導率。 各 種 材 料 之 燒 結 溫 度, 因 其 熔 點 而 異; 熔 點 高 者, 燒 結 溫 度 亦 高。 例 如: 鐵 為 1000 °C;不鏽鋼為 1200 °C;銅為 870 °C; 碳化鎢為 1500 °C;以及陶瓷為 1600 °C。燒結時 間少則 10 分鐘,多則 8 小時。 為避免高溫燒結時,製品被氧化而影響品質,可用真空爐或在爐中充滿還原性蒙氣 ( 氫 氣、一氧化碳氣或氨氣 ) 或惰氣 ( 氮氣或氦氣 )。"
+        },
+        {
+          "type": "heading",
+          "text": "常見的燒結方式,有下列數種:"
+        },
+        {
+          "type": "heading",
+          "text": "一、爐中燒結 ( 普通燒結 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "粉粒在不加溫狀態下成形,然後送入燒結爐中加溫燒結,以增加結合力。成形時加壓 而不加溫,燒結時加溫而不加壓,為此種燒結的特徵。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 熱壓法 (Hot Pressing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "熱壓法是將成形與燒結兩個步驟合併操作的燒結法。 金屬在高溫時之可塑性大、擴散 能力強,故壓結效果好,製品密度高、強度大、硬度高且精密度優。由於成形模具與壓結 體一併受熱,壽命較短,是此法最大的缺點。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 燒結鍛造法 (Sinter Forging)"
+        },
+        {
+          "type": "paragraph",
+          "text": "燒結鍛造法又名 粉末鍛造法 (Powder Forging, PF)。如圖 11-13 所示,先將粉末壓成預 成形體 ( 圖中斜線由右上偏左下者 ),加溫燒結後置於鍛模內鍛成製品 ( 圖中斜線由左上偏 右下者 ),其製品密度可達 100%。在日本,此項技術已實用於汽車引擎用連桿之製造。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-13 燒結鍛造法 (PF)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 213"
+        },
+        {
+          "type": "heading",
+          "text": "四、 火花燒結 (Spark Sintering)"
+        },
+        {
+          "type": "paragraph",
+          "text": "火花燒結是一種特殊的熱壓法。其加熱的方式不同於傳統的熱壓法,乃是利用石墨電 極與工件間通電時所產生的電火花來加熱。僅在 1 ∼ 2 秒之內即可將粉末表面的不純物除 去,露出新而純淨的接觸表面,之後以石墨電極施加壓力於粉體金屬,即可產生強有力的 實體接合。 圖 11-14 所示者,為鋼與碳化鎢之雙金屬件的火花燒結之裝置簡圖。衝頭、模子與心 型皆以石墨製成。碳化物粉末置於鋼基材質之上,通電產生火花後壓結而成。此法除了可 用在碳化鎢等高熔點金屬外,還可用於鋁、銅、鐵,以及不鏽鋼的燒結。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-14 火花燒結法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "11-1-6 二次加工及完工處理"
+        },
+        {
+          "type": "paragraph",
+          "text": "粉末製品於成形與燒結完成,具有充分強度之後,為了具有某種特殊性質,須進一步"
+        },
+        {
+          "type": "heading",
+          "text": "加工,其操作有下列數項:"
+        },
+        {
+          "type": "heading",
+          "text": "一、 整形 (Sizing) 與 壓印 (Coining)"
+        },
+        {
+          "type": "paragraph",
+          "text": "整形與壓印都是將燒結完成的機件,送入標準模內再壓一次。整形的目的在修正零件 因燒結時所引起的形狀變化與尺寸變化,以增加零件的精度。壓印的主要目的則在增加製 品的密度,所需的壓力較大。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 切削 (Machining)"
+        },
+        {
+          "type": "paragraph",
+          "text": "PM 靠模具壓縮成形,但是像圖 11-15 所示的 螺紋、過切、側孔,以及凹槽等,就無 法直接以模壓法成形,必須以後續的切削法來加工。切削的工件若為鐵金屬,不可使用水 性切削劑,因粉末的多孔性會吸水入內而造成腐蝕。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-15 切削"
+        },
+        {
+          "type": "heading",
+          "text": "三、 滲油 (Oil Impregnation)"
+        },
+        {
+          "type": "paragraph",
+          "text": "製造自潤軸承時,壓製的軸承經燒結、整形後須滲油。滲油是直接將軸承浸入油中一 併加熱,使軸承內的空氣膨脹而逸出,冷卻時孔隙內的空氣收縮而將油吸入,如此反覆多 次,直到滲油量達到標準為止。"
+        },
+        {
+          "type": "heading",
+          "text": "四、 金屬滲入 (Metal Infiltration)"
+        },
+        {
+          "type": "paragraph",
+          "text": "鐵基零件燒結後,為了增加其密度,可將較低熔點之金屬 ( 常用銅或青銅 ) 熔滲其中。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 電鍍 (Plating)"
+        },
+        {
+          "type": "heading",
+          "text": "PM 零件大都為多孔性,電鍍時電解液會"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "paragraph",
+          "text": "滲入孔內, 造成腐蝕。 因此 PM 零件作電鍍時, 除密度很高外,均須作鍍前補孔及鍍後清洗等 電鍍 上冊 P283"
+        },
+        {
+          "type": "heading",
+          "text": "將工件放入電解槽中,接陰極,欲鍍之純"
+        },
+        {
+          "type": "paragraph",
+          "text": "處理。 補孔可用金屬滲入法,或用珠擊法及軋 金屬接陽極。通以直流電,則電解液中之 光法,藉表面金屬受壓時所產生的塑性流動達 金屬離子逐漸積集在工件表面形成一薄層。 到封孔的目的。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 215"
+        },
+        {
+          "type": "heading",
+          "text": "六、 熱處理 (Heat Treatment)"
+        },
+        {
+          "type": "paragraph",
+          "text": "PM 之壓製品若要求高硬度、耐磨損,通常要藉熱處理來獲得。 PM 零件具有孔隙、散 熱效果差,且淬火液可能滲入零件內部,這點應特別注意。在鹽浴中加熱的熱處理方式, 孔內必吸收有害的鹽分,故不適用於 PM 件之熱處理。"
+        },
+        {
+          "type": "heading",
+          "text": "11-1-7 常見的粉末冶金製品"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於粉末冶金技術的不斷改進,由 PM 工業所發展出來的產品日益增多,常見的 PM"
+        },
+        {
+          "type": "heading",
+          "text": "製品主要的有下列幾項:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 多孔性自潤軸承。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 金屬過濾器。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 燒結之碳化鎢。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 陶瓷刀具。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 馬達刷子。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 永久磁石。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 電氣接觸件。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 齒輪及泵轉子。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 汽車連桿。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 雙金屬。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "碳化鎢 上冊 P19"
+        },
+        {
+          "type": "heading",
+          "text": "將碳化鎢粉加入鈷當結合劑,利用"
+        },
+        {
+          "type": "paragraph",
+          "text": "粉末冶金的方式製成刀尖塊。"
+        },
+        {
+          "type": "heading",
+          "text": "相關知識"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用金屬粉加以強固化作為金屬材料或製品有關之技術從紀元前就有了。但是,卻於 1910 年美國的 Coolidge 發表了「有關在鎢絲線的製造上之研究」之後,才正式成為近代的工業。他將全工程區分 為原料粉的製造、壓縮、燒結與燒結體的加工等四個工程,而且完成了各工程相互關連成為一貫性的 製造技術。 攸關製品好壞的燒結研究則在 1920 年至 1950 年間才盛行地被公開發表。 粉末冶金零件的真正流行,無論國內或國外,都是在第二次世界大戰之後的事。以日本為例,最初是 以家電製品開始,然後將主力移至汽車零件上。 1962 年,日本的汽車每一部約有 1 公斤的粉末冶金 製品,到了 1985 年則變為 3.7 公斤,在這二十幾年之間成長約四倍。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "216"
+        },
+        {
+          "type": "heading",
+          "text": "11-2 塑膠加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑膠 (Plastic) 依美國塑膠工程師協會 (SPE) 之定義為:「塑膠是含有高分子量物質為 主要成分的鉅大複雜的物料,最終成品為固體,而在製造過程中,由於加熱及加壓而軟化 可予塑形者」。 塑膠之基本分子是碳,其中具有可塑性之性質者為 樹脂 (Resins)。其反應方式係用化 學方法將單分子聚合起來而成一長鏈分子,故稱之為聚合物。 塑膠是用天然物料, 例如木材、 空氣、 水、 石油、 天然氣及鹽等, 經過合成方法製造的。 利用不同的化學方法,可以產生很多種相異的塑膠。化學家先把天然物料分解成基本的原 子及分子,然後再用熱、壓力及化學作用來組合成塑膠分子。 例如從煤炭中抽取出苯,從石油或天然氣中製取乙烯,接著將苯與乙烯化合成乙苯。 然後利用加熱、加壓把乙苯製成苯乙烯,最後經聚合反應而得聚苯乙烯。塑膠之優點與缺"
+        },
+        {
+          "type": "heading",
+          "text": "點如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 質量輕。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 容易造形。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 能防濕氣腐蝕。"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑 優點 4. 電絕緣性優。 膠 5. 能吸收振動並隔音。 之 6. 可製成透明或有色之製品。 優 7. 可製成精密度高,表面光滑之製品。"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "paragraph",
+          "text": "點 1. 強度、硬度及延展性較低。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 不耐熱。"
+        },
+        {
+          "type": "heading",
+          "text": "缺點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 低溫時太脆。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 受負載時容易變形。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 217"
+        },
+        {
+          "type": "heading",
+          "text": "11-2-1 塑膠的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑 膠 依 其 加 工 的 性 質 可 分 成 熱 塑 性 塑 膠 (Thermoplastic Plastic) 及 熱 固 性 塑 膠 (Thermosetting Plastics) 兩類。 熱塑性塑膠不論加工程序重複多少次,當受熱即軟化,冷卻 即硬化,可重複塑造成形。其分子呈鏈狀結構,如圖 11 - 16 (a) 所示。熱硬性 ( 又稱為熱凝 性或熱固性 ) 塑膠一旦受熱塑製成形,就永久保持其受塑形狀,不能再受熱而變為原來的 形狀。其分子呈網狀結構, 如圖 11-16(b) 所示。 熱硬性塑膠的耐熱度通常比熱塑性塑膠高,所以掀開汽車引擎蓋,引擎附近的塑膠零 件幾乎都是以熱硬性塑膠製成。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-16 塑膠的分類 ( 取自參考書目 (21)) 塑膠的種類繁多,不勝枚舉,茲就日常生活所常見者,列舉數種加以介紹:"
+        },
+        {
+          "type": "heading",
+          "text": "一、熱塑性塑膠"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 聚乙烯 (PE)"
+        },
+        {
+          "type": "paragraph",
+          "text": "PE 在室溫及低溫情形下,皆富有柔韌性,能防水及多種化學品的侵蝕,並可製成各種 顏色之材料。 PE 常用於製造保鮮膜、耐溫塑膠袋、嬰兒奶瓶、冰塊盤,以及高週波用絕緣 件等。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 聚丙烯 (PP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "PP 有極優良的電絕緣性質,高的抗衝擊及拉力強度,以及優良的耐熱及化學抵抗性 質。此種材料常用於製成行李箱、電視機外殼、電絕緣件、食物包裝紙及玩具等。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 聚苯乙烯 (PS)"
+        },
+        {
+          "type": "paragraph",
+          "text": "PS 的比重輕,有優良的水及化學腐蝕抵抗力,尺寸安定性及絕緣性均優,是一種最好 的橡膠代用品。 PS 常用於製造蓄電池盒子、丟棄式餐盤、鑄造用可消散模型、壁磚,以及 盛冰盒子等。其發泡體俗稱保麗龍。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "218"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 聚氯乙烯 (PVC)"
+        },
+        {
+          "type": "paragraph",
+          "text": "PVC 對於若干種溶劑有高度的抵抗力,且不易燃燒。多用於製造類似富有彈性之橡膠 製品,包括:雨衣、水管、裝箱材料及模中吹製之瓶罐等。 PVC 之絕緣性優,常用為電線 電纜的被覆材料。"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 )ABS 塑膠"
+        },
+        {
+          "type": "paragraph",
+          "text": "ABS 為苯乙稀+丙烯 腈 +丁二乙烯之組合,因組合成分之不同,可具有較高的硬度, 亦可具有較高的柔軟性或韌性,常用於需要有高度耐震性、著色性、硬度、電氣絕緣性及 抗濕性等之製品。其成品包括:家庭管路、電話機授話器、照相機,以及電動工具外殼等。"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 壓克力 (PMMA)"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓克力的硬度高,具有高度塑性記憶 ( 容易恢復原狀 ),以及所有塑膠中最高的光學透 明性,著色性良好,且不受任何限制。常用來製造戶外廣告牌、擋風罩、汽車尾燈、隱形 眼鏡、電視螢光幕及各種號碼盤。 ( 七 ) 聚對苯二甲酸乙二酯 (Polyethylene Terephthalate, PET) PET 是透明、堅韌及對二氧化碳具阻隔性,常被用於碳酸飲料之包裝。最初的用途是 做為人造纖維,及底片、磁帶等,在 1976 年才用於飲料瓶。以 PET 為原料做為填充容器, 就是俗稱的「寶特瓶」。 寶特瓶的硬度、韌性極佳,質量輕,攜帶和使用方便,生產時能量消耗少, 加上不透 氣、不揮發,耐酸鹼,是碳酸飲料的好包裝材料。 PET 瓶由於不具毒性,且氣密性佳,不會產生絮狀物,經再生處理即為具經濟效益二 次料,可作為不織布纖維、拉鍊、填充材料等用途。 ( 八 ) 聚碳酸酯 (Polycarbonates, PC) 聚碳酸酯有很好的衝擊抵抗能力及電氣性質,化學阻抗亦佳。常用於製造安全頭盔、 防彈玻璃、瓶子、光學鏡片、阻抗負荷的電子零件與電氣絕緣物。"
+        },
+        {
+          "type": "heading",
+          "text": "( 九 ) 乙醛樹脂 (Acetals)"
+        },
+        {
+          "type": "paragraph",
+          "text": "乙醛樹脂是由乙酸和酒精合成,具有高的強度與剛性,對於磨損、濕氣、熱量與化學 反應的抵抗性高。常用於需要長時間使用的零件,例如:軸承、齒輪、凸輪、滾輪、閥與 蓮蓬頭等。 ( 十 ) 氟碳樹脂 (Fluorocarbons) 氟碳對溫度、化學成分、天氣與導電度的阻抗能力佳,並且具有獨特的非黏結特性與 低的摩擦阻力。常用於製造不沾鍋的覆層、低摩擦係數的軸承與高溫纜線的電氣絕緣層。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 219"
+        },
+        {
+          "type": "heading",
+          "text": "二、熱硬性塑膠"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 酚醛樹脂 (PF)"
+        },
+        {
+          "type": "paragraph",
+          "text": "酚醛樹脂係由酚及甲醛反應而成,俗稱電木,為最常用的熱硬性塑膠。 具有高硬度、 強度及抗濕、抗腐蝕能力。主要用途為塗敷覆層、板片、砂輪的結合劑、金屬及玻璃的黏 結劑,以及鑄造砂模的膠合劑。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 呋喃樹脂"
+        },
+        {
+          "type": "paragraph",
+          "text": "呋 喃樹脂具有防水及優良的電絕緣性質,但顏色黑暗。此種樹脂常用作砂模的膠合劑、 石膏的加硬劑,也可用作地板材料及石墨製品的黏合。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 環氧樹脂 (EP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "環氧樹脂具有低收縮性、高化學腐蝕抵抗性,及對於玻璃與金屬之高度黏結性等優點。 可用作夾層材料之黏結劑,與玻璃纖維混合作印刷電路板、 IC 之外殼、板金造形模子,以 及黏結陶瓷刀片與鋼質刀把等。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 尿素甲醛 (UF)"
+        },
+        {
+          "type": "paragraph",
+          "text": "尿素甲醛屬於氨基樹脂,耐破裂性,表面相當硬。但受日光長期照射,會發生褪色、 強度衰減等缺點,不適用於戶外使用。"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 矽膠 (Silicone)"
+        },
+        {
+          "type": "paragraph",
+          "text": "矽膠在適當的濕度下具有良好的電氣絕緣性,對化學成分及熱的阻抗性亦佳。常用於 製造高溫狀態使用的電子零件、熱封環、耐水性材料與爐具的密封環。 ( 六 ) 不飽和聚酯 (Unsaturated Polyester, UP) 不飽和聚酯價格便宜,有良好的機械及電氣性質,能夠抗酸腐蝕。使用氫氧化物或鈣 鎂氧化物以增加樹脂黏度,便利材料的傳遞,常用於模造成形。 ( 七 ) 多元脂樹脂 (Polyester resin) 多元酯樹脂,俗稱保麗樹脂,亦即強化塑膠。它可以被加熱硬化,也可以常溫加觸媒 硬化,而且對各種填充劑的親和力極佳,較之石膏尤勝一籌,是常用的雕塑材料。"
+        },
+        {
+          "type": "heading",
+          "text": "( 八 ) 交聯聚乙稀 (XLPE)"
+        },
+        {
+          "type": "paragraph",
+          "text": "交聯 PE 是由熱塑性鏈狀 ( 線型 ) 聚乙烯,經分子間的化學反應形成具有網狀結構的熱 硬性塑料。 PE 由鏈狀結構變為網狀結構後,性能徹底改變,具有突出的耐磨性、抗爆破性、 尺寸穩定性、耐溶劑性、耐熱性與耐候性,常用於製作電纜線的絕緣層。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "220"
+        },
+        {
+          "type": "heading",
+          "text": "11-2-2 塑膠的成形法"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑膠成形的方法分為:模塑成形、加熱成形、補強成形、鑄造成形及發泡成形等五種。"
+        },
+        {
+          "type": "heading",
+          "text": "一、模塑成形"
+        },
+        {
+          "type": "paragraph",
+          "text": "模塑成形 (Molding) 為最廣用的塑膠成形法。其成形原理是將粉末狀或粒狀的塑膠原 料,加熱至 150 ∼ 200 °C,然後壓迫成預定形狀。其壓迫成形的方式有三: (1) 在相對之模 中擠壓; (2) 由模孔中擠出; (3) 在兩對轉之滾筒中壓延。模塑成形法可再分為下列七種: ( 一 ) 壓縮模成形法 (Compression Molding) 壓縮模成形法是最簡單的模塑法,工作原理如圖 11-17 所示,在模壓之前,先將金屬 模加熱至適當溫度,加入適當之塑膠原料,合模後加壓使塑膠軟化,隨模穴形狀流動而成 形。加入之料,即可以是粒狀的,也可以是預壓成形的小塊。 此法常用於熱硬性塑膠製造面積較大、凹凸較深的電器開關或家電用品的外殼,例如 電視機與收音機之外殼。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-17 壓縮模成形法 ( 取材自參考書目 (21)) ( 二 ) 傳遞模成形法 (Transfer Molding) 如圖 11-18 所示,將粒狀塑膠或預行壓製之小塊,置於模子側邊的加壓穴內 ( 圖 (a)), 加溫塑化後成液體 ( 圖 (b)),然後在壓力下注入模穴內 ( 圖 (c))。以此法成形所需的聚合時 間,比壓縮模成形法短。 此法由於材料在液化後才注入模中,流動性好,特別適用於複雜 而不規則或斷面變化很大之製品,例如杯子與蓋子。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-18 傳遞模成形法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 221"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 射出成形法 (Injection Molding) 射出成形是目前塑膠加工大量生產及高速操作最常用的加工法。其加工原理如圖 11-19 所示,粒狀之塑膠 ( 以熱塑性塑膠為主 ) 由漏斗之上方加入,於加熱熔化後,經由柱塞之 擠壓而射入右邊之金屬模內。金屬模內之冷卻水循環,待模內之塑膠硬化完成即可開模頂 出成品。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-19 往復柱塞式射出成形法"
+        },
+        {
+          "type": "heading",
+          "text": "射出成形機除了上述往復式柱塞之設"
+        },
+        {
+          "type": "paragraph",
+          "text": "計外,另有如圖 11-20 所示之螺桿式設計。"
+        },
+        {
+          "type": "heading",
+          "text": "漏斗內之塑膠粉粒因本身之重力作用而自"
+        },
+        {
+          "type": "heading",
+          "text": "動落於下方的螺桿筒內,螺桿旋轉同時加"
+        },
+        {
+          "type": "heading",
+          "text": "熱,塑化後之塑膠受旋轉之螺桿推動而向"
+        },
+        {
+          "type": "paragraph",
+          "text": "其頭端移動,直至有適當的數量為止,如 (a) 轉動螺桿推塑料至左端 圖 11-20(a) 所示。當柱塞下降時,螺桿停"
+        },
+        {
+          "type": "heading",
+          "text": "止轉動而向前推動,將定量之材料推入移"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉室中,如圖 11-20(b) 所示。柱塞往上推 升,將塑膠射出模內,如圖 11-20(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "日常所見的射出成形製品有:玩具、"
+        },
+        {
+          "type": "heading",
+          "text": "冰箱蓋子、水果筐、各種容器、垃圾桶、"
+        },
+        {
+          "type": "heading",
+          "text": "臉盆、浴室及廚房壁磚、電池箱、電器零"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 螺桿左移推塑料入移轉室"
+        },
+        {
+          "type": "paragraph",
+          "text": "件及裝飾浮雕等。"
+        },
+        {
+          "type": "heading",
+          "text": "(c) 柱塞上升將塑料射入模穴"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-20 螺桿式射出成形法 ( 取材自參考書目 (4))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "222"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 擠製成形法 (Extrusion):押出成形法 擠製成形法如圖 11-21 所示,將粉粒狀之熱塑性塑膠裝入上方漏斗之中,粉粒因其自 身之重力作用而落入下方的螺桿筒中。然後受螺旋之推動經過加熱室,塑化成為濃厚而黏 性甚大之流體,被迫自模之孔中擠出,成為長條狀或薄片狀斷面均一之產品。其製品為管、 桿、板,以及各種特殊截面之型材。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-21 擠製成形法"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 滾壓成形法 (Calendering) 滾壓成形法如圖 11-22 所示, 將塑膠粉粒加熱塑化後,放入兩滾子之間,軋成薄片, 並經水冷滾子冷卻後,再捲繞成圓筒。此法常用於製造窗簾布、雨衣、包裝膠膜、可吹脹 的玩具、游泳池襯裡,以及汽車座位襯套等。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-22 滾壓成形法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 223"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 六 ) 吹製成形法 (Blow Molding):吹瓶成形法 吹製成形法如圖 11-23 所示,塑化的熱塑性塑膠材料首先擠製成圓筒形之胚料,然後 以最快之速度送至分裂式之模內 ( 圖 (a))。當模子閉合後,管之一端即行夾緊並切斷 ( 圖 (b))。壓縮空氣由擠製端吹入,迫使模內之管脹大而與模壁相貼 ( 圖 (c))。 此法常用於製造 化妝品盒子、瓶子、浮沉子、汽車加熱器導管及液體清潔劑之薄壁容器。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-23 吹製成形法"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 七 ) 吹管擠製法 (Blow Tubular Extrusion):吹膜成形法 吹管擠製法是製造薄軟片或管袋式包裝用塑膠袋的方法。其原理如圖 11-24 所示。塑 膠先以環形擠製模擠成直徑較大之薄管,擠製方向由下向上,經過一直立的圓筒之內,同 時吹入空氣使之膨脹,直徑與筒之內徑相等。繼續上升,並用空氣冷卻之,然後用上方之 兩個滾子壓平,在適當長度作等間隔黏銲,使成可撕離之塑膠袋,並捲繞成圓筒。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-24 吹管擠製法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "224"
+        },
+        {
+          "type": "heading",
+          "text": "二、加熱成形"
+        },
+        {
+          "type": "paragraph",
+          "text": "加熱成形係將熱塑性塑膠板加熱軟化,再利用模子成形,得所需之形狀,如圖 11-25 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-25 加熱成形"
+        },
+        {
+          "type": "heading",
+          "text": "三、補強成形"
+        },
+        {
+          "type": "paragraph",
+          "text": "補強成形 (Reinforced Forming) 如圖 11-26 所示,係在塑膠中添加補強材料,如玻璃纖 維、合成纖維、石棉及棉紗等,再由噴槍噴出樹脂將上述材料黏結,以增加強度的成形法。 以纖維強化之塑膠製品俗稱塑鋼 (FRP),常用於製造浴缸、釣竿、腳踏車架、遊艇與 水管等。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-26 補強成形"
+        },
+        {
+          "type": "heading",
+          "text": "四、鑄造成形"
+        },
+        {
+          "type": "heading",
+          "text": "鑄造成形如圖 11-27 所示,將塑化的塑膠澆"
+        },
+        {
+          "type": "heading",
+          "text": "入模子內,待硬化後開模取出成品,其過程猶"
+        },
+        {
+          "type": "paragraph",
+          "text": "如普通金屬之鑄造法。一般膠棒、膠管及膠板"
+        },
+        {
+          "type": "heading",
+          "text": "在製成最終成品之前,往往經過這一步驟預成"
+        },
+        {
+          "type": "paragraph",
+          "text": "形成為半成品。 若將電子零件預先放置在模中, 再澆入塑膠一體成形,名之為 膠埋 (Potting) 或 栽裝,常用於電容器或電阻器之製造。 鑄造法 的另一種應用稱為 嵌埋 (Embedment) 或封裝,"
+        },
+        {
+          "type": "heading",
+          "text": "係將科學或生物標本,以及裝飾品等,膠封在"
+        },
+        {
+          "type": "paragraph",
+          "text": "透明的壓克力內,以供欣賞之用。 ▲ 圖 11-27 鑄造"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 225"
+        },
+        {
+          "type": "heading",
+          "text": "五、旋轉成形"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-28 所示之旋轉成形法 (Rotational Molding),係使薄殼製造之模圍繞次級軸旋 轉,次級軸之框架再繞主轉軸迴轉,利用離心力作用,使塑化後之塑膠貼在殼的內壁而成 形之方法。 製品包括各種塑膠玩具、 洋娃娃、 噴霧球、 浮球、 足球、 塑膠水果與捏壓玩具等。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-28 旋轉模製法"
+        },
+        {
+          "type": "heading",
+          "text": "六、發泡成形"
+        },
+        {
+          "type": "paragraph",
+          "text": "將泡沫塑膠製成成品的過程叫 發泡成形 (Foaming)。塑膠經過適當的發泡處理,可製成 多孔性的產品,通常稱為塑膠泡棉, 具有防震、絕緣、隔音及隔熱等功效,廣用於建築材 料、包裝材料及各種襯墊。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "226"
+        },
+        {
+          "type": "heading",
+          "text": "11-3 電積成形"
+        },
+        {
+          "type": "heading",
+          "text": "一、電積成形之原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "電積成形又名 電鑄 (Electroforming),其裝置如圖 11-29 所示, 將導電之待鍍模型接陰 極,犧牲金屬接陽極。利用電解的作用,使金屬離子化而自陽極游離至陰極表面,依待鍍 模型表面之形狀而成形。 待沉積之厚度達一定之要求,自陰極剝下而得薄殼狀之成品。 為 了易於脫模,有時須在待鍍模型表面預作離模處理;例如在待鍍模型上塗敷石墨。 電積成形與電鍍之原理完全相同,但是有下列三點不同:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 電積成形之鍍層厚度較厚。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 電鍍層與基材緊密貼合,電積成形層要與模型脫離。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電鍍基材要徹底乾淨,電積成形之模型要附著一層脫模劑。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-29 電積成形之裝置"
+        },
+        {
+          "type": "paragraph",
+          "text": "電積成形特別適用於薄殼、高精密度、內面光平,以及內孔形狀較為複雜,無法以普 通機械加工法製造之產品。 例如:喇叭口形之鐘、鋼筆殼,以及由圓至方的管路接頭等。 理論而言,任何可以電鍍的金屬,皆可用來電積成形,例如: Ni、 Fe、 Cu、 Zn、 Pb、 Ag、 Sn、 Al、 Cd 及 Au 等。但實用上較常見者為 Ag、 Fe、 Cu 及 Ni 四者,此四者具有較 好的導電性、複製性、抗蝕性及強度。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 227"
+        },
+        {
+          "type": "heading",
+          "text": "二、電積成形之優點與缺點"
+        },
+        {
+          "type": "heading",
+          "text": "1. 製品的機械性質容易藉由電鑄條件的改變而加以調整;例如硬度、抗"
+        },
+        {
+          "type": "paragraph",
+          "text": "拉強度等。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 貼靠模型之面有很高的複製性,尺寸精密度很高。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 製品表面粗糙度可達 μ m 以下。"
+        },
+        {
+          "type": "heading",
+          "text": "優點"
+        },
+        {
+          "type": "heading",
+          "text": "4. 可製造極薄及層狀的製品。"
+        },
+        {
+          "type": "heading",
+          "text": "電"
+        },
+        {
+          "type": "heading",
+          "text": "5. 可製極複雜的產品,而無形狀之限制。"
+        },
+        {
+          "type": "heading",
+          "text": "積"
+        },
+        {
+          "type": "heading",
+          "text": "6. 經電解分離,可製造高純度的製品。"
+        },
+        {
+          "type": "heading",
+          "text": "成"
+        },
+        {
+          "type": "heading",
+          "text": "7. 製品之內部尺寸不受限制。"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "paragraph",
+          "text": "優 1. 電鑄速度慢,例如塑膠成形用之模具,電鑄時間往往長達 2 ~ 3 週。 缺 2. 電鑄時的電流密度隨模型之外形而改變,使製品之厚度不均,外部形 點 狀難以控制。例如圖 11-30 所示之模型,外尖角之電流密度最大,內 缺點 角隅最小;故外尖角部最厚而內角隅處最薄。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 只限於薄層製品之生產。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 生產費用偏高。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 實用之製品材種不多。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-30 電鑄層之厚度變化"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "228"
+        },
+        {
+          "type": "heading",
+          "text": "11-4 放電加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "放電加工 (Electrical Discharge Machining, EDM) 有兩種不同的應用,其一為雕模 放電加工,另一為線切割放電加工。 雕模放電加工簡稱 EDM,其加工原理如圖 11 - 31 所示。工具與工件分別連接於直流電 源的正負兩極, 兩極之間隔以絕緣液; 通常用煤油。 加約 100V 之電壓, 並充分接近至 0.02 ∼"
+        },
+        {
+          "type": "heading",
+          "text": "0.05mm 之間距,使兩極表面最接近部分發生脈衝式放電。其溫度高達 12,000 °C,足以令"
+        },
+        {
+          "type": "paragraph",
+          "text": "火花區附近之工件及工具局部蒸發或熔解而逐步除去,最後依工具之形狀而成形,沖出之 廢屑由絕緣液帶出工作區,經過濾後絕緣液還可循環使用。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-31 雕模 EDM 之原理圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "放電加工進行時,工具亦因火花之熔蝕而逐漸變形,故加工進行中往往需要修磨電極 或更換新電極。 EDM 使用之電極為導電體,例如:碳化鎢、銅鎢合金、銀鎢合金、石墨、 純銅、黃銅及鋅合金等,均可作為工具材料。 現時所使用之 EDM,其加工條件之設定,均由 CNC 系統為之,如圖 11-32 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-32 雕模 EDM( 圖片取自聯盛機電公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 229"
+        },
+        {
+          "type": "paragraph",
+          "text": "線切割放電加工 (Wire-cut EDM) 簡稱 WEDM,其加工原理如圖 11 - 33 所示。其工具 電極乃是一條金屬線 ( 用 0. 05 ~ 0. 25 mm 之純銅或黃銅線,另有銅線外層鍍鋅之鍍鋅線, 若線徑小於或等於 0. 05 mm 時,則採用鎢線,由於價格昂貴,所以使用的機會不大 ),穿 入預先鑽穿之孔中,再以去離子水或蒸餾水為絕緣液,進行加工。 線由捲軸帶動,工件置 於加工台,由 CNC 程式指令床台在軸方向移動而加工出二維形狀。因易於自動控制及與 電腦連線,故發展迅速,在模具製作方面應用甚廣。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-33 WEDM 之原理圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 11-34 所示為線切割放電加工的加工實例。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-34 WEDM 的加工例 ( 圖片取自鉅盟機械公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "230"
+        },
+        {
+          "type": "heading",
+          "text": "放電加工之優點與缺點如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 製模工作可在淬火後施工,避免先加工再淬火所引起之變形。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 工件只要能導電就能加工,不受硬度之限制。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 加工時無真正的切削作用,工件不受外力,所以不殘留切削應力,加"
+        },
+        {
+          "type": "paragraph",
+          "text": "工太脆或太薄的工件亦不虞破裂。"
+        },
+        {
+          "type": "heading",
+          "text": "放 優點"
+        },
+        {
+          "type": "heading",
+          "text": "4. 工具可用軟質材料製作,成本低。"
+        },
+        {
+          "type": "heading",
+          "text": "電"
+        },
+        {
+          "type": "heading",
+          "text": "5. 加工形狀之適應性大,只要電極可以作成之形狀皆可製造。"
+        },
+        {
+          "type": "heading",
+          "text": "加"
+        },
+        {
+          "type": "heading",
+          "text": "6. 製品之尺寸精密度高。"
+        },
+        {
+          "type": "heading",
+          "text": "工"
+        },
+        {
+          "type": "heading",
+          "text": "7. 工作進行可以完全自動化,操作者不需太高的技術水平。"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工件必須能導電才可加工。"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "heading",
+          "text": "2. 加工的速度太慢,不適合大量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電極有消耗。"
+        },
+        {
+          "type": "heading",
+          "text": "缺點"
+        },
+        {
+          "type": "heading",
+          "text": "4. 由於電極的消耗,使工具前端之直徑小於後端而形成約 0.001 ~ 0.01"
+        },
+        {
+          "type": "paragraph",
+          "text": "之錐度。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 由於急冷急熱的反覆作用,會在加工面殘留熱應力。"
+        },
+        {
+          "type": "paragraph",
+          "text": "放電加工若與車削作比較,有下列幾個不同點:車削利用機械能切除工件,放電加工 則利用電熱能切除工件;車削之材料移除率多比放電加工快速;車刀硬度須較工件為高, 放電加工之工具電極硬度則可較工件為低;車刀須直接接觸工件,放電加工之工具電極則 可不直接接觸工件。"
+        },
+        {
+          "type": "heading",
+          "text": "11-5 特殊切削加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳統切削加工是以硬質刀具切削軟質工件,刀具與工件之硬度差愈大,刀具的壽命愈 長,加工成本愈低。隨著高硬度工件的需求日益增加,刀具的硬度要求也跟著提高。但是, 刀具的硬度有極限,不可能隨著工件硬度而無限增加。如果能借助電熱能、化學能、電解 能或機械能為切削媒介,就能輕而易舉的切除硬工件,而不必使用硬工具。以軟工具控制 特殊能量切除工件的切削方式,就是非傳統加工。 非傳統加工依其應用之能量,可分為熱電式、機械式、電化式與化學式等四大類。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 231"
+        },
+        {
+          "type": "heading",
+          "text": "11-5-1 熱電式非傳統切削"
+        },
+        {
+          "type": "paragraph",
+          "text": "以電能轉為熱能,再以熱能將工件局部蒸發或熔解的切削方式。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 放電加工 (Electrical Discharge Machining, EDM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "放電加工的原理及優缺點,如 11-4 節所述。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 雷射加工 (Laser Beam Machining, LBM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "雷射加工的原理及優缺點,如 11-7 節所述。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 電子束加工 (Electron Beam Machining, EBM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "電子束加工是將電子集成細束,在真空中高速撞擊工件而產生高溫,使工件材料熔解 或蒸發而切除之加工法。 圖 11-35 為 EBM 裝置之概略圖,圖中電子槍內含有可產生熱電子 的陰極,熱電子被陽極加速至 0.5 ∼ 0.75 倍光速,經過電磁透鏡 ( 線圈 ) 集束聚焦成為細 束進入加工室。 工件置於移動工作台上, 由 CNC 系統指令移動。 電子束之微量偏移或掃描, 可藉由偏向線圈來控制。 電子束的束徑可小至 0.01μm,極適合加工微細的電子或電腦零件。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-35 EBM 之概略圖"
+        },
+        {
+          "type": "heading",
+          "text": "四、 電漿加工 (Plasma Arc Machining, PAM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "電漿加工是使用電漿作為非鐵金屬及不鏽鋼板的切削工具,以其高溫令工件熔解或蒸 發而切除。 這種加工法具有切削速度快、切縫寬度小、除屑率比 EBM 及 LBM 高等優點。 其缺點則是加工面有氧化現象、熱效應會引起冶金變化、表面形成粗糙,以及切削熱能引 發材料之脹縮現象使尺寸不精確等。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "232"
+        },
+        {
+          "type": "heading",
+          "text": "11-5-2 機械式非傳統切削"
+        },
+        {
+          "type": "paragraph",
+          "text": "以壓縮、振動等機械能驅動水或磨粒等加工媒介,將工件局部沖蝕的切削方式。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 磨料噴射加工 (Abrasive Jet Machining, AJM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨料噴射加工係利用高速的磨料粒子氣流撞擊工件表面而達到切削目的的加工法,如 圖 11-36 所示,氧化鋁或碳化矽磨料粒以壓縮空氣噴出之速度高達 150 ∼ 300 m/sec。 此法 適用於硬脆材料之鑽孔、除鏽及去毛邊等工作。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-36 磨料噴射加工"
+        },
+        {
+          "type": "heading",
+          "text": "二、 超音波加工 (Ultrasonic Machining, USM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "USM 是由高週波振盪器產生超音波頻率之電源,經傳遞線圈產生對應之磁場變化,再 使強磁性材料構成之轉換器作伸縮性之機械振動。其末端則連接工具,如圖 11-37 所示, 工具之振幅達 10 ∼ 160 μm,頻率約 20 ∼ 30 kHz (20,000 ∼ 30,000 cs/sec),工具與工件間 充以磨料和水混成之磨漿;工具下行時驅動磨粒打入工件表面產生裂紋,裂紋相交便成碎 屑脫落。 此種加工法特別適用於硬脆之材料,例如玻璃、陶瓷等。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-37 USM 之工具作用情形"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 233"
+        },
+        {
+          "type": "heading",
+          "text": "三、 水噴射加工 (Water Jet Machining, WJM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "WJM 係以高速水柱撞擊材料使之穿孔或切斷,但因水分子不像電子或離子可用電場 加速,只能用壓力加速,因此不易得到高速及微細水柱,其加工面之精密度尚不能與 EBM 及 LBM 相比。 此法常用於木材、紡織品、塑膠及皮革之切割。 若於水中混入砂粒,則可切割大理石、花崗石與陶瓷等硬而脆之材料。"
+        },
+        {
+          "type": "heading",
+          "text": "11-5-3 電化式非傳統切削"
+        },
+        {
+          "type": "paragraph",
+          "text": "在工具與工件間噴注電解液,將工件電解成形的加工方式。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 電化加工 (Electro-Chemical Machining, ECM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "ECM 所用的原理與電鍍法完全相同,但裝置不同,將工件接陽極而工具接陰極,如 圖 11 - 38 所示,係電鍍之反向應用,又稱為反電鍍法。 工作時電解液自工具中心之孔噴出, 工件因電解作用而被蝕去,逐漸依工具之形狀而成形,電蝕下來的金屬離子則被流動的電 解液帶離工作區。 ECM 通常被用於具複雜形狀之凹穴及高硬度材料的加工,例如航太工業中,渦輪葉片 及噴射引擎零件之生產。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-38 電化加工"
+        },
+        {
+          "type": "heading",
+          "text": "二、 電化研磨 (Electro-Chemical Grinding, ECG)"
+        },
+        {
+          "type": "paragraph",
+          "text": "ECM 之電解液在工具與工件間快速流動所產生之擾流,足以影響製品之精密度。若採 用如圖 11-39 所示之 ECG 法,以鑲鑽石之銅電極為工具,則 工件除以電解作用除去之外, 還有部分材料 ( 約 10 %) 係以磨削作用除去,可以獲得更精確的加工面。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "234"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-39 電化研磨"
+        },
+        {
+          "type": "heading",
+          "text": "11-5-4 化學式非傳統切削"
+        },
+        {
+          "type": "paragraph",
+          "text": "以化學液的腐蝕作用,將工件欲切除之部位蝕去的加工方式。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 化學銑切 (Chemical Milling, CHM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "CHM 如圖 11 - 40 所示,係以化學腐蝕的方式,將金屬欲加工之部位 ( 圖中未塗遮罩劑 部分 ) 蝕去,以代替銑床之銑切加工。此法起源於航太工業,將機件上多餘之部分切除, 來減輕飛機的重量; 其加工對象以鋁合金及鎂合金為主。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-40 化學銑切 ( 取材自參考書目 (37))"
+        },
+        {
+          "type": "heading",
+          "text": "二、 化學切胚 (Chemical Blanking, CHB)"
+        },
+        {
+          "type": "paragraph",
+          "text": "化學切胚與前述之 CHM 原理相同,但使用目的不同,主要用途是代替衝床將薄板狀 之材料腐蝕分離加工成所需之零件,例如錶用之小齒輪。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 化學雕刻 (Chemical Engraving, CHE)"
+        },
+        {
+          "type": "paragraph",
+          "text": "化學雕刻是以化學腐蝕的方式,代替傳統的縮放雕刻機來雕刻製品,例如不鏽鋼雕花 門及各種名牌。此法之操作原理與過程,大致與化學切胚相同,但腐蝕作用只在工件之一 面,雕刻後,字體或圖案即可為凸出,亦可為凹下。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 235"
+        },
+        {
+          "type": "heading",
+          "text": "11-6 積層製造"
+        },
+        {
+          "type": "paragraph",
+          "text": "積 層 製 造 (Additive Manufacturing, AM), 早 期 稱 為 快 速 原 型 (Ropid Prototyping, RP),一般民眾則稱為 3D 列印 (3D Printing)。美國材料試驗協會於 2009 年正名為積層製造, 並成立技術委員會訂定其相關標準。 以 CAD 所設計的三次元立體圖檔若要轉換成實體模型,最方便而準確的方法就是積 層製造。積層製造依建模、列印、完成之步驟進行。 建模就是使用 電腦輔助設計 (Computer Aided Design, CAD) 或三維掃描器來建立 3D 電腦模型,並轉換成 STL 或 OBJ 這類印表機可以讀取的格式。 STL 格式檔案會產生各表面沒有相互連接,或是模型上存在空隙等問題,必須先進行 流形錯誤檢查加以修正。然後用一種名為 切片機 (Slicer) 的軟體功能將 3D 電腦模型轉換成 一系列薄層,再開始列印。 列印出的模型是以一片片薄片層疊而成,所以邊緣是階梯狀。為了提高精度,通常先 用標準解析度列印一個比要求略大的模型,然後以高解析度的削減程式將多餘的材料移 除。 可列印的材質從金屬與合金、塑膠、陶瓷、石膏粉末、蠟、食材⋯上百種。 應用範圍由早期專用於機械工業,擴展至電腦與手機外殼、牙齒、骨骼、人體器官、 義肢、建築模型、首飾、歷史文物、樂器、食物、服裝⋯等。 圖 11-41 所示為積層製造設備。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-41 積層製造設備 ( 圖片取自華曙高科 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "236"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 11-42 所示為積層製造產品。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-42 積層製造產品 ( 圖片取自工研院雷射與積層製造平台 ) 積層製造的製程有很多種,以下就介紹其中最常見的兩種製程:"
+        },
+        {
+          "type": "heading",
+          "text": "一、 選擇性雷射燒結 (Selective Laser Sintering, SLS)"
+        },
+        {
+          "type": "paragraph",
+          "text": "選擇性雷射燒結如圖 11-43 所示,將金屬或非金屬粉末置入粉末進料筒,令進料筒上 升一小段距離使粉末溢出台面,機械輥子向右移動將溢出粉末掃入零件構造圓筒中。接著 利用微處理機及 3D - CAD 將欲成形的圖形檔案依所需厚度分解各層之幾何形狀,編製 零件加工程式,引導附載於檢流計上的雷射光束聚焦在此薄層粉末上依圖案作特定區域掃 描,被雷射照射之粉末熔化後再凝結將掃描圖案燒結成一體。未被雷射掃描區域的粉末仍 然鬆散,可支撐燒結的區域。反覆上述製程,依各層幾何形狀掃描直到 3D 立體零件製造 完成。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-43 選擇性雷射燒結概圖 ( 取材自參考書目 (38))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 237"
+        },
+        {
+          "type": "paragraph",
+          "text": "每掃描一層,粉末進料筒由步進馬達精確驅動上升,而零件構造圓筒則同步下降相同 距離。"
+        },
+        {
+          "type": "heading",
+          "text": "二、立體光刻技術 (Stereo Lithography, SLA)"
+        },
+        {
+          "type": "paragraph",
+          "text": "立體光刻技術原理與上述之 SLS 相似,不同之處是照射光源用紫外光雷射,成形物以 光化樹脂取代粉末。 如圖 11-44 所示,在一個充滿光化樹脂 ( 液體丙烯酸 ) 之大桶內放置可垂直升降之平板。 當平板升高到最高位置時,僅有淺淺的液體薄層漫過平台表面,然後將紫外光雷射依幾何 圖形在平板上作選擇性地照射,被光束照射到之光化樹脂產生聚合反應固結為固態物體黏 附在平台上。接著平板下降一段距離,使光化樹脂再漫過已硬化之聚合物上方,重複前述 步驟,直到模型全部成形為止。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-44 立體光刻技術加工圖例 ( 取材自參考書目 (18))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "238"
+        },
+        {
+          "type": "heading",
+          "text": "11-7 雷射加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "雷射 (Laser) 是 Light Amplification by Stimulated Emission of Radiation 之簡稱。雷射光 束乃是由輻射線的激勵放大所產生的一種極強而不分散的一束單色光線,其能量非常集 中,以此集中之光能投射於工件表面,能使工件瞬間熔解或蒸發而達到切除的目的。圖 11-45 所示者為 LBM 之概略圖,雷射光束射出後以 45 ° 反射鏡反射垂直朝下,經聚光鏡聚 焦再投射在切斷試片上。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 11-45 LBM 之概略圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "雷射隨著發光物質之不同而分成許多種類,常見之雷射如: CO 2 Laser, Ruby Laser, YAG Laser 及 He-Ne Laser..... 等。產業界最常使用是 Nd- YAG 及 CO 2 雷射。 物質對光有吸收、反射與穿透等三種特性,其中吸光性 ( 與材料之電阻係數成正比 ) 高者容易吸熱,所以加工性較好。 其應用的範圍主要包括銲接、切割、貫穿孔、雕刻、蒸鍍和熱處理等。"
+        },
+        {
+          "type": "heading",
+          "text": "雷射加工具有如下之優點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 應用範圍廣泛,二氧化碳雷射幾乎可對任何金屬與非金屬材料進行雕刻切割,並且"
+        },
+        {
+          "type": "paragraph",
+          "text": "價格低廉。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 非接觸式加工,材料不會有機械擠壓或機械應力。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 根據電腦輸出的圖樣進行 2D 雕刻和切割,生產速度快。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 光束一般小於 0.5 mm,切割縫小,節省材料。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 切割精度可達到 0.02 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 不受批量限制,大小量皆適合。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 非傳統加工 239"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 11-46 所示者為雷射切割產品例。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 11-46 雷射切割產品例 ( 圖片取自佳興國際科技有限公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch11/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "一、粉末冶金 (PM)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 製程"
+        },
+        {
+          "type": "heading",
+          "text": "2. 金屬粉末的重要性質"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 形狀:球形的流動性好,但結合強度較低;多角形、樹枝形,以及不規則形的 結合強度大,但流動性差。 (2) 細度:篩子以篩號來稱呼,篩號就是篩子上每吋長的孔數,所以篩號愈大,表 示顆粒愈細。 (3) 壓縮性:壓縮性是一定量粉末在壓縮前後的體積比。比值愈大,則壓縮性愈高。 鐵粉的壓縮比約 2.5: 1。 (4) 燒結能:加熱之溫度範圍大者,表示燒結能佳,因其控制容易,失敗率低。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 優點"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 為某些製品獨一無二的製法:燒結碳化物、多孔性自潤軸承、陶瓷、雙金屬, 以及耐高溫的金屬棒 ( 鎢、鉬 ) 等,僅能以 PM 法製造。 (2) 加工時無廢料產生;不需高度技術;製品純度高;可控制零件的孔隙;與鑄件 相較, PM 製品的尺寸精確、表面光滑;適用於量多而小件製品的生產;成品 之重量輕。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 缺點"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 設備成本高,不適合小量生產;金屬粉末價格較高;金屬粉粒容易氧化變質, 不易儲存;與液態金屬相較,金屬粉粒的流動性偏低,無法製造太複雜的機件; 由於壓力機容量的限制,製品尺寸不能太大。 (2) 鋁、鎂、鋯、鈦等較活潑的金屬粉末,容易燃燒而引起火災或爆炸;大多數的 PM 製程所生產的製品密度都太低。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 金屬粉末的製造法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 機械粉碎法:通常用於脆性金屬,如:銻、錳、鉻及鎂等。 (2) 噴霧法:製造工程單純,除了純金屬外也適合於合金,且生產力很高,所以近 年來成為成為粉末製造法之主流。 (3) 還原法:適用於高熔點金屬之製粉,如:鐵、鎢、鉬、鎳及鈷等。 (4) 電解法:所得之金屬粉末純度最高。"
+        },
+        {
+          "type": "heading",
+          "text": "240"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "6. 成形"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 離心力壓製法:對於重金屬較有利。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 擠製法"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 以擠伸桿迫使它通過模孔,而成為斷面均一的長條狀製品。 2 燈泡用鎢絲的初步成形、高溫電弧銲接用銲條、以及核能固體燃料棒等, 均以此法製成。 (3) 重力燒結法:製造化學工業用之多孔性不鏽鋼濾板。 (4) 滾軋法:可連續操作,適用於大量生產,製成銅、黃銅、青銅、蒙鈉合金, 及不鏽鋼等之板狀製品。 (5) 均壓成形法:施加流體靜壓而成形,由於製品各部位的受力相同,故密度很 均勻,各方向的強度均一。分為冷均壓法 (Cold Isostatic Pressing, CIP) 與熱 均壓法 (Hot Isostatic Pressing, HIP) 兩種。 (6) 金屬纖維法:製造孔隙比很大的金屬過瀘器及振動阻尼器。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 燒結"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 將已成形之製品,加熱到適當的高溫,使粉粒與粉粒之交界面間,彼此產生 固體擴散作用,黏結成一體而增加製品強度的製程。 (2) 單一成分之燒結體,其燒結溫度在熔點之下 ( 約為熔點的 0.7 ∼ 0.9 倍 )。多 成分的合金燒結體,其燒結溫度在高、低熔點金屬熔點之間;使低熔點金屬 熔解而形成液相燒結,增加原子之擴散速度與結合強度。 (3) 熔點高者,燒結溫度亦高。碳化鎢為 1500 °C。 (4) 為避免高溫燒結時,製品被氧化而影響品質,可用真空爐或在爐中充滿還原 性蒙氣 ( 氫氣、一氧化碳氣或氨氣 ) 或惰氣 ( 氮氣或氦氣 )。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 二次加工及完工處理"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 整形與壓印"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 整形與壓印都是將燒結完成的機件,送入標準模內再壓一次。 2 整形的目的在修正零件因燒結時所引起的形狀變化與尺寸變化,以增加 零件的精度。壓印的主要目的則在增加製品的密度。 (2) 滲油:製造自潤軸承時,壓製的軸承經燒結、整形後須滲油。 (3) 金屬滲入:為了增加其密度,可將較低熔點之金屬熔融滲入製品中。"
+        },
+        {
+          "type": "heading",
+          "text": "241"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 電鍍:除密度很高外,均須作鍍前補孔及鍍後清洗等處理。補孔可用金屬滲 入法,或用珠擊法及軋光法,藉表面金屬受壓時所產生的塑性流動達到封孔 的目的。"
+        },
+        {
+          "type": "heading",
+          "text": "二、塑膠加工"
+        },
+        {
+          "type": "heading",
+          "text": "1. 塑膠的主要優缺點"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 優點:質量輕;容易造形;能防濕氣腐蝕;電絕緣性優;能吸收振動並隔音; 可製成透明或有色之製品;可製成精密度高,表面光滑之製品。 (2) 缺點:強度、硬度及延展性較低;不耐熱;低溫時太脆;受負載時容易變形。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 塑膠的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 熱塑性塑膠:不論加工程序重複多少次,當受熱即軟化,冷卻即硬化,可重 複塑造成形。 1 聚乙烯 (PE):製造保鮮膜、耐溫塑膠袋。 2 聚丙烯 (PP)。 3 聚苯乙烯 (PS):發泡體俗稱保麗龍。 4 聚氯乙烯 (PVC):製造雨衣、水管。 5 壓克力 (PMMA): 光學透明性最好, 著色性良好, 常用來製造戶外廣告牌、 擋風罩與隱形眼鏡。 6 聚乙烯對苯二甲酸酯 (PET):可製造寶特瓶。 (2) 熱硬性塑膠:一旦受熱塑製成形,就永久保持其受塑形狀,不能再受熱而變 為原來的形狀。 1 酚醛樹脂 (PF):俗稱電木,為最常用的熱硬性塑膠。 2 呋 喃樹脂。 3 環氧樹脂 (EP)。 4 尿素甲醛 (UF)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 塑膠的成形法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 模塑成形:為最廣用的塑膠成形法。 1 壓縮模成形法:為最簡單的模塑法。常用於熱硬性塑膠製造面積較大、 凹凸較深的電器開關或家電用品的外殼,例如電視機與收音機之外殼。 2 傳遞模成形法:特別適用於複雜而不規則或斷面變化很大之製品,例如 杯子與蓋子。"
+        },
+        {
+          "type": "heading",
+          "text": "242"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

@@ -1,0 +1,2165 @@
+{
+  "content_id": "CONTENT_MECH_DRAFTING_CH08",
+  "subject": "機械製圖",
+  "chapter": {
+    "code": "CH08",
+    "title": "CH8"
+  },
+  "title": "機械製圖 Chapter 8 習用畫法",
+  "source_pdf": "機械製圖/CH8PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "習用畫法"
+        },
+        {
+          "type": "heading",
+          "text": "本章學習內容"
+        },
+        {
+          "type": "heading",
+          "text": "8-1 局部視圖與局部放大視圖"
+        },
+        {
+          "type": "heading",
+          "text": "8-2 輔助視圖"
+        },
+        {
+          "type": "heading",
+          "text": "8-3 半視圖"
+        },
+        {
+          "type": "heading",
+          "text": "8-4 中斷視圖"
+        },
+        {
+          "type": "heading",
+          "text": "8-5 轉正視圖"
+        },
+        {
+          "type": "heading",
+          "text": "8-6 虛擬視圖"
+        },
+        {
+          "type": "heading",
+          "text": "8-7 各種習用表視法"
+        },
+        {
+          "type": "heading",
+          "text": "( 建議授課: 9 節 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "92"
+        },
+        {
+          "type": "heading",
+          "text": "學習表現"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製物體之視圖時,有時為了使視圖能更清晰,且讓視圖的表達更合理化,有時候 需做適度修改其表示方法,或增加一部份特殊的表現法,讓人更瞭解圖意,這樣所繪製 之視圖泛稱為特殊視圖或習用畫法。故本章之學習目標如下: ◎ 能引起學習興趣與動機,並能體會美感素養、創意概念和應用於日常產品或感"
+        },
+        {
+          "type": "heading",
+          "text": "知科技產品之設計"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解局部視圖、輔助視圖、半視圖畫法"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解中斷視圖、轉正視圖、局部放大視圖畫法"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解虛擬視圖、視圖之習用畫法"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解等距與相同形態表示法"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解因圓角消失稜線與圓柱、圓錐面削平表示法"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解輥紋與表面特殊處理表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 遇特殊形狀物體時,能體會且能 熟練使用特殊表現法或習用畫法的重要性"
+        },
+        {
+          "type": "heading",
+          "text": "8-1 局部視圖與局部放大視圖"
+        },
+        {
+          "type": "heading",
+          "text": "一、局部視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "在繪製視圖時,可只繪製欲表達的某一部位,而省略或斷裂其他部份形狀的視圖,稱為 局 部視圖 ( Partial view )。繪製局部視圖 最主要功用 有下列三種,敘述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "局部上光印刷 - 名片"
+        },
+        {
+          "type": "paragraph",
+          "text": "在名片上的圖形或文字作局部上光覆膜,使名片的局部獲得凸起的光澤度,擁有水晶般晶瑩剔透質感視覺 效果的印後加工。在台灣經常與霧膜一起使用,但為避免彎曲現像,上膜紙張不宜太薄。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 93"
+        },
+        {
+          "type": "heading",
+          "text": "1. 簡化視圖,節省繪圖所費時間: 如圖 8-1 所示,俯視圖與右側視圖採用局部視圖即為此目的。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-1 局部視圖可簡化視圖"
+        },
+        {
+          "type": "heading",
+          "text": "2. 充份表達該機件: 僅須繪製某一部份即可充份表"
+        },
+        {
+          "type": "heading",
+          "text": "達該機件,常用於表達機件上鍵座、鍵槽之部位"
+        },
+        {
+          "type": "paragraph",
+          "text": "形狀,如圖 8-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-2 局部視圖之應用"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "94"
+        },
+        {
+          "type": "heading",
+          "text": "3. 補足表達形狀與平移繪製: 若不繪製該部位之視圖時,則有形狀表達不充份之虞時,如圖 8-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示,若只繪前視圖,則不足以表達長方形孔形狀,當繪製局部視圖遇空間狹小時,可平移 至圖紙上適當位置,並在該視圖投影方向及新位置附近加繪箭頭及文字說明,但不可旋轉。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-3 局部視圖之平移"
+        },
+        {
+          "type": "heading",
+          "text": "二、局部放大視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "在日常生活中常見到快訊商品廣告 (DM, Direct mail) 以局部放大圖示意表達小圖形或細微 處,如圖 8-4 所示並加指線註解說明魚水鑽五金與烙印,如圖 8-5 所示為微雕藝術作品透過放大 鏡做局部放大應用實例。。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-4 手提包 DM 局部放大示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: UKADONIS 公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 95"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-5 微雕藝術"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:東網 & 中華網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "當物體上常有某些部位與全機件比較起來較為細小,常造成在繪製視圖時,在表示它的詳 細形狀及標註尺度時不易,此時繪圖可將此細小部位予以局部放大繪製,此種圖稱為 局部放大 視圖 ( Partial enlarged view )。 故在機械工程圖中,當遇狹窄尺度需要詳細表明形狀及大小時,可以 局部放大視圖 表示之, 且繪製時有一定之規範。其繪製方式於該欲放大部位 畫一細實線圓,並在附近以 大寫拉丁字母 標示,再以適當的 放大比例 繪製該局部的圖形於原圖附近,並且必須在局部放大視圖上方註明 大寫拉丁字母及放大比例之大小,如圖 8-6 所示,如圖 8-7 所示為 3D 軟體應用實例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-6 局部放大視圖及尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "96"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-7 機械繪圖軟體應用實例 ( 電腦輔助立體製圖丙級 )"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "paragraph",
+          "text": "電腦輔助機械設計製圖技術士 ( 資料來源:勞發署技能檢定中心 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、 緣由與分級:鑑於產業升級及製圖方法與設備之改進,產業界已完全應用電腦來輔助設計製圖工作,"
+        },
+        {
+          "type": "paragraph",
+          "text": "為推行工程製圖國家標準及因應製圖設備資訊化與設計製圖軟體的應用,並提升電腦輔助機械設計製 圖專業人員之技能水準與研發之工作效率,同時整合機械製圖及電腦輔助機械製圖兩職類之工作為電 腦輔助機械設計製圖職類之內涵,以提供產業界所需之專業人力,爰於民國九十八年元月制定之。"
+        },
+        {
+          "type": "heading",
+          "text": "二、工作內涵:本職類分甲、乙、丙三級"
+        },
+        {
+          "type": "heading",
+          "text": "1. 甲級:係擔任機械產品之開發與設計製圖工作。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 乙級:係擔任機械產品之設計與圖面繪製工作。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 丙級:係擔任機械產品之圖面繪製與整理工作。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 97"
+        },
+        {
+          "type": "heading",
+          "text": "8-2 輔助視圖"
+        },
+        {
+          "type": "heading",
+          "text": "一、輔助視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "斜面的應用除了日常生活搬運物體時具有力學省力作用外,如圖 8-8 所示,斜面尚有其功能 性、方便性與美觀性,如圖 8-9 所示應用廣泛。所以許多物體的形狀並非皆由正垂面所架構而成, 往往物體都具有一斜面或多個斜面。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-8 斜面的力學應用"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-9 單斜面設計應用實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: (expansys 網 capsule、雅虎拍賣網、 usersdt 網、 dangdang 網北恩 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "98"
+        },
+        {
+          "type": "heading",
+          "text": "物體可藉正投影中的直立投影面、水平投影面"
+        },
+        {
+          "type": "heading",
+          "text": "及側投影面之三個主要投影面上,分別獲得六個互"
+        },
+        {
+          "type": "paragraph",
+          "text": "為垂直方向的視圖。且當物面平行於投影面時,可 得此物面的正垂視圖。但是當物體形狀具有斜面時,"
+        },
+        {
+          "type": "heading",
+          "text": "則在主要視圖中所顯示的並非一真實形狀及真實大"
+        },
+        {
+          "type": "paragraph",
+          "text": "小,如圖 8-10 所示圖 (c) 為一真實投影,在俯視圖"
+        },
+        {
+          "type": "heading",
+          "text": "及左側視圖上,不但非實形,而且投影複雜,不易"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製。故物面為斜面時,為了顯示此斜面實形及大"
+        },
+        {
+          "type": "heading",
+          "text": "小,而且使閱圖及繪圖清晰易懂,我們便設法繪出"
+        },
+        {
+          "type": "paragraph",
+          "text": "此斜面的正垂視圖,如圖 (b) 所示,此斜面的正垂視 圖稱為 輔助視圖 (A uxiliary view )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-10 輔助視圖之目的"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此,物體為了表達斜面之實形,我們可依據投影原理,做一輔助投影面 (Auxiliary Plane) 與斜面互相平行,再依據正投影方法進行投影,則可在輔助投影面上呈現斜面實形的視圖,此 視圖就稱為 輔助視圖,而此種在輔助投影面上的投影稱為 輔助投影 (A uxiliary projection ),故 輔 助視圖主要目的 是顯示斜面上之實形及大小。如圖 8-11 所示,為一軸承座放入透明投影箱中, 從正前方、上方及右方可得三主要視圖,但是其中兩個視圖的圓卻是變成橢圓,顯示出非為實 形及大小。但如圖 (d) 中所示,藉助一輔助投影面與該斜面平行,則可在該投影面上表現出上半 部斜面的真實形狀 (True Shape,英文縮寫為 T.S),再經輔助投影面旋轉即可確知輔助視圖的位 置,如圖 (e)、 (f)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法"
+        },
+        {
+          "type": "heading",
+          "text": "99"
+        },
+        {
+          "type": "heading",
+          "text": "上方"
+        },
+        {
+          "type": "heading",
+          "text": "右側方"
+        },
+        {
+          "type": "heading",
+          "text": "前方"
+        },
+        {
+          "type": "heading",
+          "text": "右側方"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 正投影"
+        },
+        {
+          "type": "heading",
+          "text": "上方"
+        },
+        {
+          "type": "heading",
+          "text": "平行"
+        },
+        {
+          "type": "heading",
+          "text": "AP"
+        },
+        {
+          "type": "heading",
+          "text": "前方"
+        },
+        {
+          "type": "heading",
+          "text": "輔助投影方向輔助投影面"
+        },
+        {
+          "type": "heading",
+          "text": "(D) 輔助投影"
+        },
+        {
+          "type": "heading",
+          "text": "平行"
+        },
+        {
+          "type": "heading",
+          "text": "俯視圖"
+        },
+        {
+          "type": "heading",
+          "text": "H P"
+        },
+        {
+          "type": "heading",
+          "text": "輔助投影面 AP"
+        },
+        {
+          "type": "heading",
+          "text": "(e) 輔助投影面旋轉"
+        },
+        {
+          "type": "heading",
+          "text": "(0 輔助視圖位置"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 8-11"
+        },
+        {
+          "type": "heading",
+          "text": "輔助投影面"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "二、局部輔助視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "當繪製輔助視圖時,為了只顯示斜面上之實形及大小,透過上一章節局部視圖的概念, 可只繪該斜面上之正垂視圖,而省略其他部分視圖,稱此種視圖為「 局部輔助視圖 」 (Partial auxiliary elevation),如圖 8-12(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-12 局部輔助視圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 101"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了圖面的清晰及節省繪製時間,畫局部輔助視圖通常只畫出欲求斜面之實形及部份細節 而將其他部份予以斷裂或省略,即可完整而明確的表達,如圖 8-13 所示,圖 (a) 立體圖示為一彎 管,圖 (b) 為三主要視圖,顯示右側視圖非實形且不易繪製,圖 (c) 為局部輔助視圖,清晰易懂。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-13 局部輔助視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "局部輔助視圖可平行移到任何位置,平移之輔助視圖需加畫箭頭與大寫字母註明,如圖 8-14(a) 所示。局部輔助視圖亦可作適當之旋轉,以利繪製圖形,旋轉後之輔助視圖上方應加註 旋轉符號及角度,如圖 8-14(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-14 局部輔助視圖平移與旋轉"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "102"
+        },
+        {
+          "type": "heading",
+          "text": "三、輔助視圖畫法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 參考平面設置:參考平面 (Reference plane,英文縮寫為 RP) 在輔助視圖的用途僅做為量度"
+        },
+        {
+          "type": "paragraph",
+          "text": "的參考,而良好的設置可使繪製輔助視圖更為簡化。參考平面之設置如圖 8-15 所示,其設 置位置雖然不同,但所繪得斜面的大小及形狀均不變。如圖 (a) 乃將參考平面設置於視點與 物體之間,且與物體前方表面緊貼,換言之,物體位於 RP 之外側;如圖 (b) 乃將參考平面 緊貼在物體後方表面,如此物體介於視點與參考平面之間,換言之,物體之視圖必位於參考 平面之內側。如圖 (c) 所示參考平面設置在物體正中央,此種設置常用於對稱物體;如圖 (d) 所示,參考平面設置在物體中間重要部位,將物體切割分為內、外兩側,繪製輔助視圖時需 特別注意其內、外兩側之相對應點。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-15 參考平面設置位置"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 103"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪單斜面之輔助視圖的方法:從以上投影原理與參考平面設置位置不同可知,有關繪製單斜"
+        },
+        {
+          "type": "heading",
+          "text": "面輔助視圖之方法,茲舉三例敘述如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 參考平面設置在物體前方,並緊貼表面:假設一參考平面設置在物體前方並緊貼表面, 如圖 8-16 所示物體俯視圖 12 線上,即物體在參考平面之外側,則繪製輔助視圖方法敘"
+        },
+        {
+          "type": "heading",
+          "text": "述如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-16 單斜面輔助視圖之繪製步驟 ( 參考平面在物體前方並緊貼表面 ) (a) 已知前視圖、俯視圖,前視圖得知一斜線為該斜面的邊視圖。 (b) 在俯視圖設置 RP,並在前視圖之邊視圖上各點引垂線並設置 RP,且 RP 必須平行該 斜線。在此斜面上各點標示數字,若研判俯視圖位在外側,則輔助視圖亦應繪在 外側。 (c) 在俯視圖上各點量取距 RP 線之距離,如 h1、 h2,然後在輔助視圖上往外側轉移各點, 並在各位置上標記相對應數字,如、所示點 5、 3。 (d) 連接各點即為輔助視圖。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "104"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 參考平面設置在物體後方並緊貼表面:如圖 8-17 所示物體俯視圖 54 線上,繪製方法敘"
+        },
+        {
+          "type": "heading",
+          "text": "述如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 已知前視圖與俯視圖。 (b) 設置參考平面在物體後方並緊貼表面,換言之,俯視圖在 RP 內側。在前視圖邊視圖 ( 斜線 ) 上各點引垂線,設置 RP 且必須平行該斜線,同時考量輔助視圖之畫圖位置 位在內側的空間,並在該斜面上各點標記數字。 (c) 量取俯視圖各點距 RP 線內側之距離,如 h1、 h2、 h3,然後在輔助視圖上往內側轉移 各點,並在各位置上標記相對應數字如點 1、 2、 3。 (d) 連接各點即為輔助視圖。 (e) 因輔助視圖目的在表達斜面實形,又因非斜面部份在正投影視圖中已清楚表達,故 通常只繪斜面部位之局部輔助視圖 ( 若需要平移或旋轉可參考圖 8-13 所示 )。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-17 單斜面輔助視圖之繪製步驟 ( 參考平面在物體後方 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 105"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 參考平面設置在物體正中央:此法常用於對稱物體,繪製此種物體的輔助視圖時, 由於 RP 穿越物體,造成視圖有內、外兩側,繪製時須注意各點相對應的位置。如圖 8-18 所示 RP 位在中心線上,點 4 位在 RP 外側,故轉量在輔助視圖亦在外側。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-18 參考平面設置在物體正中央"
+        },
+        {
+          "type": "heading",
+          "text": "四、輔助視圖的尺度標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件若為斜面時,尺度應標註於顯示機件真實形狀之視圖上;換言之,通常為了顯示斜面 的實形而繪有輔助視圖,尺度則須標註在顯示實長的輔助視圖上,如圖 8-19 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-19 尺度應標註在實形視圖上"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "106"
+        },
+        {
+          "type": "heading",
+          "text": "8-3 半視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "通常在設計對稱的物體形狀,表達上可只畫出中心線的一側,而省略其他一半的圖形,如 圖 8-20 所示表示法亦可讓人了解圖形的形狀或欲表達的意思。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-20 物體半視圖表達 ( 露天網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "故在遇對稱形狀的機件,為了節省繪圖時間和圖紙所佔的空間,可以只畫出中心線的一側, 而省略其他一半的圖形,稱為 半視圖 (Half view)。 機械工程在繪製 半視圖時,須有更嚴謹的規範,即對稱中間須以中心線做為分界線,繪製"
+        },
+        {
+          "type": "heading",
+          "text": "時亦須符合正投影原理,下列為其應用例:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 如果前視圖為非剖視圖,俯視圖以半視圖表示時,應繪靠近前視圖的前半部 ( 即下半部 ),"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 8-21 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-21 半視圖 ( 非剖視圖 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 107"
+        },
+        {
+          "type": "heading",
+          "text": "2. 如果前視圖為非剖視圖,右側視圖以半視圖"
+        },
+        {
+          "type": "heading",
+          "text": "表示時,應繪靠近前視圖的左半部,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "8-22 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-22 半視圖 ( 非剖視圖 )"
+        },
+        {
+          "type": "heading",
+          "text": "3. 如果前視圖為全剖視圖或半剖視圖,俯視圖以半視圖表示時,應繪遠離前視圖的後半部 ( 即"
+        },
+        {
+          "type": "paragraph",
+          "text": "上半部 ),如圖 8-23(a) 和圖 8-24 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-23 半視圖 ( 全剖視圖 )"
+        },
+        {
+          "type": "heading",
+          "text": "4. 如果前視圖為全剖視圖或半剖視圖,右側視圖以半視圖表示時,應繪遠離前視圖的右半部,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 8-23(b) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-24 半視圖之選擇 ( 全剖視圖或半剖視圖 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "108"
+        },
+        {
+          "type": "heading",
+          "text": "5. 半視圖及半剖視圖之尺度標註:若為半視圖或半剖視圖,尺度界線及尺度線可省略約一半,"
+        },
+        {
+          "type": "paragraph",
+          "text": "但其 尺度線未帶箭頭端之長必須超過圓心,如圖 8-25(a) 與 (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-25 半視圖與半剖視圖之尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "6. 半視圖上可於對稱中心線之兩端,繪製兩條平行細實線,平行線之長度等於字高 h( 約"
+        },
+        {
+          "type": "paragraph",
+          "text": "3mm),兩平行線之間距等於 h/3( 約 1mm),表示其視圖為半視圖,如圖 8-26 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-26 半視圖對稱中心線上之兩平行線"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 109"
+        },
+        {
+          "type": "heading",
+          "text": "8-4 中斷視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製視圖時,遇形狀規則沒有變化之長形物體時,可將此段部份中斷,以節省圖紙空間, 稱為 中斷視圖 (B roken view 或 Interrupted view ),如圖 8-27 所示實物實例。 中斷視圖之繪製乃在中斷部份使用 折斷線 ( 細實線 ) 表示,通常用徒手繪製不規則連續細 實線,或以長折斷細實線 ( 含鋸齒形彎折之連續線 ) 繪製,長折斷線畫法為兩相對銳角角度約為 15 °,其尖角高度約為字高 (3mm),間隔約為字高 6 倍 (18mm)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-27 長管中斷視圖實物實例"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: Solidwork 網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "中斷視圖雖然部分視圖中斷因而改變了圖形長度,但須注意標註尺度時,仍以 物件之實長 標註,常搭配未按比例之尺度標註來表示,如圖 8-28 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-28 中斷視圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "heading",
+          "text": "8-5 轉正視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製視圖時,為簡化視圖,得違反投影原理以習用表示法畫之。換言之,當物體的物面與 投影面成不平行部位時,以某一適當的點為中心軸,將不平行部位旋轉至與投影面平行,再繪 出此種視圖稱為 轉正視圖 (A ligned view )。下列為其應用例說明:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 若物體上有一部位成一角度傾斜,若依實際投影,則傾斜的部位在其他正投影視圖上呈現縮"
+        },
+        {
+          "type": "paragraph",
+          "text": "小又非真實的形狀,且造成繪製不易。故在剖視圖上可將傾斜部位旋轉至中心線後再投影至 正投影視圖上,如圖 8-29 所示為曲桿件,以轉正視圖繪製俯視圖時簡便、省時、清晰很多, 如圖 (a) 所示。若以一般真實投影視圖繪製時,俯視圖複雜且混淆不清晰,如圖 (b)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-29 轉正視圖之目的"
+        },
+        {
+          "type": "heading",
+          "text": "2. 轉正視圖之繪製,常使用在物體具奇數的凸緣、耳、肋、輪臂、孔⋯等繪製場合。如圖 8-29"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示之凸緣與圖 8-30 所示肋與圓孔,圖 (a) 所示為凸緣、孔、肋經轉正後再投影,所得視圖 清晰易懂,圖 (b) 所示雖然真實投影,反而易招讀圖者誤解。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-30 凸緣之轉正"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 111"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-31 肋與孔之轉正"
+        },
+        {
+          "type": "heading",
+          "text": "3. 轉正視圖亦可運用在剖視圖上,如可將具有奇數之機件部位,旋轉至垂直或水平後再投影至"
+        },
+        {
+          "type": "paragraph",
+          "text": "正投影視圖上,如圖 8-32 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-32 凸緣之轉正剖切"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "112"
+        },
+        {
+          "type": "heading",
+          "text": "8-6 虛擬視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體在表達其形狀或相關位置時,常加繪並不存在或不可見的虛擬圖形,如圖 8-33 實物應 用實例的表達方法。在繪製機械工程視圖時,機件的某些部份因特殊原因,須在視圖上加繪並 不存在或不可見的虛擬圖形,以表明其形狀或相關位置,此種表達視圖的方法,稱為 虛擬視圖 (False view ),說明如後。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-33 實物應用實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: 24h.pchome.com、 depositphotos 網、 CADEX 凱德科技 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 113"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製機械工程圖之虛擬視圖乃以假想線 ( 兩點細鏈線 ) 繪製,標註尺度與一般標註方法相同,"
+        },
+        {
+          "type": "heading",
+          "text": "以下為常用虛擬視圖表示的情形:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 剖視後已不見的部份:如圖 8-34 所示,若一機件經過剖切後,致使某一部位的形狀不見,"
+        },
+        {
+          "type": "paragraph",
+          "text": "而使視圖表達不完整時,可以假想線 ( 兩點細鏈線 ) 繪製虛擬視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 機件鄰接部位的圖形:在需表示機件相互裝配或相鄰機件的位置時,該機件以假想線繪出虛"
+        },
+        {
+          "type": "paragraph",
+          "text": "擬視圖,如圖 8-35、 8-36 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 表達機件加工前胚料形狀:如圖 8-37 所示鉚釘,其釘頭為經過端壓鍛造成形的製品,所以"
+        },
+        {
+          "type": "paragraph",
+          "text": "視圖除繪製完成製品的形狀外,亦可加繪加工前胚料的形狀及尺度,以做為製造者準備胚料 之參考。圖 8-38 為加工前鈑金形狀另一圖例。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 表達機器運動模擬:可運用假想線繪製出機件之運動位置,藉由虛擬視圖來了解其機件在此"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械中運動時之行程範圍,如圖 8-39 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-34 剖視後不見部份"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-35 裝配機件位置"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-36 機件鄰接部份"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "114"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-38 加工前鈑金形狀另一圖例"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-37 加工前形狀 ▲ 圖 8-39 運動時之行程範圍虛擬視圖設計"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:虎門科技 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 115"
+        },
+        {
+          "type": "heading",
+          "text": "8-7 各種習用表視法"
+        },
+        {
+          "type": "heading",
+          "text": "一、等距與相同形態表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械元件經常遇到等距與相同型態之情形,如圖 8-40 所 示立體圖上有許多相同型態的孔,我們可稱之為相同型態, 而圖 8-41 所示為相同型態的陣式刀模實例。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-40 等距相同形態機件實例 ▲ 圖 8-41 相同型態的陣式刀模 實例 ( 圖片來源:匯晟管道公司、新浪搏客賞瓷堂 ) ( 圖片來源: UKADONIS 公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "等距與相同型態繪製方式分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 等距圓孔"
+        },
+        {
+          "type": "paragraph",
+          "text": "當機件上有多個圓孔,其間隔距離或角度相等時,稱此種現象之孔為 等距圓孔。等距圓孔 在標註尺度時,可以簡化方法標註其位置,如圖 8-42(a) 所示,有 8 個 φ 5 之等距圓孔,標註時, 選其一 φ 5 圓孔標註尺度,填寫尺度方式為「數量 × 尺度」,例: 8 × φ 5。 一個圓盤機件上有等距離且尺寸相同之圓孔時,不論是奇數孔或偶數孔,習慣上在非圓形 視圖皆表示出對稱的兩個,如圖 8-42(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-42 等距圓孔"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "116"
+        },
+        {
+          "type": "paragraph",
+          "text": "若是在半剖視圖上繪製等距圓孔時,在非圓形視圖之外形部位得以中心線表示該圓孔,且 虛線得以省略,如圖 8-43 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-43 半剖視圖等距圓孔"
+        },
+        {
+          "type": "heading",
+          "text": "2. 等距長度、角度表示法"
+        },
+        {
+          "type": "heading",
+          "text": "當機件上有多個相同形態 ( 如孔 ),"
+        },
+        {
+          "type": "heading",
+          "text": "其間隔長度、角度相同時,可簡化標註"
+        },
+        {
+          "type": "heading",
+          "text": "長度或角度,填寫尺度方式為「數量 ×"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺 度 = 總 尺 度 」。 如 圖 8-44 所 示, 有"
+        },
+        {
+          "type": "heading",
+          "text": "10 個 15mm 之等間距長度,則直接將總"
+        },
+        {
+          "type": "paragraph",
+          "text": "長 度 標 註, 填 寫 尺 度 方 式 為 10 × 15 = 150;如圖 8-45 所示,有 4 個 10 °之等"
+        },
+        {
+          "type": "heading",
+          "text": "間距角度,則將總角度標註,填寫尺度"
+        },
+        {
+          "type": "heading",
+          "text": "方式為 4 × 10 °= 40 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-44 相同形態之間隔長度相等 ▲ 圖 8-45 相同形態之位置尺度角度相等"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 117"
+        },
+        {
+          "type": "heading",
+          "text": "3. 對稱形態"
+        },
+        {
+          "type": "paragraph",
+          "text": "在標註完全對稱之機件尺度時,以中心線為基準線,可以省略位置尺度,如圖 8-46 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-46 對稱形態"
+        },
+        {
+          "type": "heading",
+          "text": "二、因圓角消失稜線之表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常物品常因平面與曲面相交或相切時,形成因圓角而消失之稜線,如圖 8-47 所示設計草 圖,與如圖 8-48 所示實物例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-47 圓角而消失之稜線設計草圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:站酷網繪友老程 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-48 實物實例"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:英國阿多尼斯公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "118"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程圖上的機件中因圓角而消失之稜線,仍在原位置上以 兩端稍留空隙之細實線 表示,如 圖 8-49 所示。若消失之稜線為隱藏時,則不畫出。如圖 8-50 所示說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 圖 (A) 為一曲面與一平面相切,其俯視圖及右側視圖中,相切部分無線條畫出。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 圖 (B) 為平面與平面相交,圖 (C) 為平面與曲面相交,共相交之稜線處,以粗實線畫出。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 圖 (D) 中前視圖若兩圓弧相切部分形成垂直面,其俯視圖應畫出粗實線。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 圖 (E) 中前視圖相切處,以細實線兩端留間隙方式繪之。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 圖 (F) 中前視圖為兩相對大圓弧與傾斜面互相切成圓滑曲面,其俯視圖不畫任何線。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 圖 (G) 前視圖之肋交角相切處若為圓角,則俯視圖以細實線兩端留間隙方式繪之;圖 (H) 肋"
+        },
+        {
+          "type": "paragraph",
+          "text": "之圓角位置不同,則三視圖之呈現方式與圖 (G) 略為不同。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 圖 (I)、圖 (J)、圖 (K) 為圓柱與曲面體相交,其交線以細實線兩端留間隙方式繪之。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 圖 (L)、圖 (M)、圖 (N) 為圓柱與平面體相交,其交線以細實線兩端留間隙方式繪之;由此三"
+        },
+        {
+          "type": "paragraph",
+          "text": "個圖之俯視圖觀察,因平面體之角度不同,其交線位置也會改變。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-49 因圓角消失之稜線"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-50 曲面識圖練習"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 119"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-50 曲面識圖練習 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "三、圓柱、圓錐面削平或相交表示法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 圓柱、圓錐面削平部位表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件或工具的圓柱面或圓錐面常成偶數削平,主要目的在方便裝卸,如圖 8-51 所示夾具、 刀桿或鑽頭。遇到這種圓柱、圓錐面的削平部位,繪圖時有一定的表示法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-51 圓角而消失之稜線實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: ajaxtoolsupply 公司、 miyanachcutter 公司、 solidworks 網 ) 圓柱面或圓錐面有一部份被削平而未繪出側視圖時,應在該平面上加畫對角交叉之細實線 以表示之,如圖 8-52 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-52 圓柱削平部位"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "120"
+        },
+        {
+          "type": "heading",
+          "text": "2. 圓柱與圓柱或角柱相交之交線表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常物品中不乏相貫體 (Penetrated body),如圖 8-53 所示圓柱與另一圓柱或角柱相交。故圓 柱與另一圓柱或角柱相交,在不必顯示其交線之真實投影時,其交線 (Line of intersection) 可不 依投影法,而視其尺度差別之大小用直線或圓弧表示之,分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-53 圓柱與圓柱交線"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: black-by-design 網、 scp 網 )"
+        },
+        {
+          "type": "heading",
+          "text": "1. 當相貫兩圓柱直徑尺度差別大時,其交線投影結果趨近於直線,則交線依習用畫法以直線方"
+        },
+        {
+          "type": "paragraph",
+          "text": "式繪出,如圖 8-54(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 當相貫兩圓柱直徑尺度差別小時,其交線投影結果為一圓弧線,則交線依正投影法以圓弧方"
+        },
+        {
+          "type": "paragraph",
+          "text": "式繪出,如圖 8-54(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 當相貫兩圓柱直徑相同時,其交線投影結果為與軸線呈 45 °之直線,如圖 8-54(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-54 圓柱與圓柱之相交交線表示法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 121"
+        },
+        {
+          "type": "paragraph",
+          "text": "同樣情形,在剖視圖中常遇見方孔、圓孔與另一圓孔或圓柱相交,其交線亦可不依投影法, 而視其尺度差別之大小用直線或圓弧表示,如圖 8-55 與圖 8-56 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-55 方孔與圓管相交"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-56 圓孔與圓管相交"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "122"
+        },
+        {
+          "type": "heading",
+          "text": "四、輥紋表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件或工具常須作輥花加工,除了美觀外,主要用途是方便握持,如圖 8-57 所示為輥花輪 刀具與機件實物,常見機件之輥花加工面有平行紋及交叉紋兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-57 輥花實物例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:邁道納自動化公司、 (elecbee 網、彬宏精密 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製輥花、金屬網及紋面板之工程圖時,以細實線表示,花紋亦可僅畫出一角表示,如圖 8-58 所示。 圖 (a) 顯示壓花種類有粗壓花、 中壓花與細壓花, 圖 (b) 為使用壓花刀對工件輥花情形, 圖 (c) 為輥花機件表示法,並搭配以詳圖標柱紋距與紋廓角;圖 (d)、 (e) 分別為金屬網與紋面板 之表示法。如圖 8-59 所示為機械加工乙級檢定題標註輥花圖例,亦可配合指線說明壓花種類與 標柱紋距。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 習用畫法 123"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-58 輥花金屬網及紋面板表示法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-59 機械加工乙級檢定題標註輥花圖例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "124"
+        },
+        {
+          "type": "heading",
+          "text": "五、表面特殊處理表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件之一部份須實施特殊加工時,在視圖上乃將該部位用一點粗鏈線平行而離輪廓線約 1mm 表示之,並用文字註明其加工法,如圖 8-60 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-60 表面特殊處理表示法"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "滲碳硬化"
+        },
+        {
+          "type": "paragraph",
+          "text": "滲碳 (Carburizing) 是指在高溫下使碳原子滲入到鋼表面層的過程,可使低碳鋼 ( 含碳 0.2 %以下 ) 的工件 具有高碳鋼的表面層,以使工件的表面層具有高硬度和耐磨性,而工件的中心部分仍然保持著低碳鋼韌性 之法。按含碳介質的不同,滲碳可分為氣體滲碳、固體滲碳、液體滲碳和真空滲碳法。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "8-1 ( )1. 繪製局部視圖時,下列敘述何者有誤? (A) 若遇空間狹小時可將該視圖之局部視圖平移繪製在圖紙適當位置 (B) 表示機件內部之某部份可將該部位剖切且以折斷線分界繪之"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 繪製時可平移至圖紙上適當位置,但不可旋轉"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 平移時須在該視圖投影方向及新位置附近加繪箭頭及文字說明。 ( )2. 繪製局部視圖最主要功用,下列敘述何者有誤? (A) 可簡化視圖表達方式 (B) 常用於充份表達機件上鍵座、鍵槽之部位形狀 (C) 可節省繪圖所費時間 (D) 可表達視圖中並不存在的特徵、形狀及相關位置。"
+        },
+        {
+          "type": "heading",
+          "text": "( )3. 下列敘述局部放大視圖何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 視圖中某部位太小不易標記尺度或形狀時,可將該部位以適當放大比例繪製"
+        },
+        {
+          "type": "heading",
+          "text": "在其他位置稱之"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 乃在視圖上欲放大的部位用細鏈線圓及小寫字母代號表示 (C) 必須在局部放大視圖上方註明大寫拉丁字母及放大比例 (D) 當遇狹窄尺度需要詳細表明形狀及大小時可採用此法繪製。 8-2 ( )4. 當投影面平行於斜面時,可得此物面的何種視圖? (A) 水平面視圖 (B) 傾斜面視圖 (C) 正垂視圖 (D) 邊視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "( )5. 繪製輔助視圖時,下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 主要目的可獲得斜面投影的真實形狀及大小"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 物體的斜面透過輔助投影面所得邊視圖稱為傾斜面視圖 (C) 做一輔助投影面與斜面互相平行,再依據正投影方法進行投影所得視圖 (D) 可在輔助投影面上呈現斜面的實形與大小之視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "( )6. 下列敘述物體斜面功用何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 搬運物體時具有力學省力作用"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 具有功能性"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 具有方便性"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 製造加工相對於正垂面具有加工容易性。"
+        },
+        {
+          "type": "heading",
+          "text": "( )7. 下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 局部輔助視圖可只畫該斜面實形及部份細節而將其他部份予以斷裂或省略"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 輔助視圖中的 RP 表示參考平面"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 欲求物體上一斜面的實形須先求得其視圖上的邊視圖 (D) 某物體平面上的正投影視圖為其實形,則此平面必與投影面垂直。"
+        },
+        {
+          "type": "heading",
+          "text": "125"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( )8. 下列敘述輔助視圖何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 機件若為斜面時,尺度應標註於原三主要視圖上 (B) 機件若為斜面時,通常為了顯示實形而繪有輔助視圖 (C) 機件若為斜面時,尺度則須標註在顯示實長的輔助視圖上 (D) 輔助視圖用途在於表示斜面之真實形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "( )9. 繪製輔助視圖之主要目的為顯示斜面之"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 內、外部形狀"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 投影關係"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 真實形狀與大小"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 長度範圍。"
+        },
+        {
+          "type": "heading",
+          "text": "8-3 ( )10. 下列敘述半視圖何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 被切開之處應以折斷線繪製之"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 通常用在表達對稱的物體形狀"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 只畫出一側而省略其他一半的圖形"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 繪製時須符合正投影原理。 ( )11. 在第三角投影中繪製機械工程視圖之半視圖時,下列敘述何者有誤? (A) 前視圖為非剖視圖,俯視圖以半視圖表示時,應繪靠近前視圖的前半部 ( 即下"
+        },
+        {
+          "type": "heading",
+          "text": "半部 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 前視圖為非剖視圖,右側視圖以半視圖表示時,應繪靠近前視圖的左半部 (C) 前視圖為全剖視圖或半剖視圖,俯視圖以半視圖表示時,應繪靠近前視圖的"
+        },
+        {
+          "type": "heading",
+          "text": "前半部 ( 即下半部 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 前視圖為全剖視圖或半剖視圖,右側視圖以半視圖表示時,應繪遠離前視圖 的右半部。 ( )12. 下列敘述半視圖及半剖視圖之尺度標註何者正確? (A) 半視圖尺度標註時,尺度界線及尺度線可省略約一半,但其尺度線之長不可"
+        },
+        {
+          "type": "heading",
+          "text": "超過圓心"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 半剖視圖尺度標註時,尺度界線及尺度線可省略約一半,但其尺度線之長不"
+        },
+        {
+          "type": "heading",
+          "text": "可超過圓心"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 半視圖或半剖視圖之尺度標註,尺度界線及尺度線可省略約一半,但其尺度"
+        },
+        {
+          "type": "heading",
+          "text": "線未帶箭頭端之長必須超過圓心"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 半視圖或半剖視圖尺度標註時,尺度界線及尺度線省略約一半時,其尺度線 未帶箭頭端之長不可超過圓心。"
+        },
+        {
+          "type": "heading",
+          "text": "126"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "8-4 ( )13. 下列敘述中斷視圖何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 常用於遇形狀規則沒有變化之長形物體"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 可節省圖紙空間"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 中斷部份使用假想線表示"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 中斷部份可使用不規則連續細實線表示。"
+        },
+        {
+          "type": "heading",
+          "text": "( )14. 下列敘述中斷視圖何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 在中斷部份通常用徒手繪製不規則連續細實線繪製表示 (B) 在中斷部份以長折斷細實線或含鋸齒形彎折之連續線繪製表示"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 標註尺度時以正投影視圖之長標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 標註尺度時常搭配未按比例之尺度標註來表示。 8-5 ( )15. 若物體上有一部位成一角度傾斜,若依實際投影時則傾斜的部位在其他正投影視 圖上呈現縮小又非真實的形狀,且造成繪製不易,此時為簡便、省時、清晰可採"
+        },
+        {
+          "type": "heading",
+          "text": "用何種視圖方法?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 半視圖 (B) 中斷視圖 (C) 轉正視圖 (D) 局部視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "( )16. 下列敘述轉正視圖何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 將物體與投影面不平行的部位旋轉至投影面平行,然後再投影繪出此部位的"
+        },
+        {
+          "type": "heading",
+          "text": "視圖稱之"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 常使用繪製在物體具奇數輪臂、孔等繪製場合"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 常使用繪製在物體具奇數的凸緣、耳、肋等繪製場合 (D) 此法缺點是無法運用在剖視圖上。 8-6 ( )17. 下列敘述機械視圖之虛擬視圖何者有誤? (A) 在某視圖中並不存在的特徵,為表明其形狀及相關位置而繪製的視圖稱之"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 乃以中心線 ( 一點細鏈線 ) 繪製"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 若一機件經過剖切後致使某一部位的形狀不見,可以此法繪製使視圖表達完整 (D) 為表達機器運動狀況可運用此法繪製出機件之運動模擬位置。"
+        },
+        {
+          "type": "heading",
+          "text": "8-7 ( )18. 下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 一個圓盤機件上有等距離且尺寸相同之圓孔時,不論是奇數孔或偶數孔,習"
+        },
+        {
+          "type": "heading",
+          "text": "慣上在非圓形視圖皆表示出對稱的兩個"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 若是在半剖視圖上繪製等距圓孔時,在非圓形視圖之外形部位得以假想線表"
+        },
+        {
+          "type": "heading",
+          "text": "示該圓孔,且虛線不可以省略"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 當機件上有多個相同形態 ( 如孔 ),其間隔長度、角度相同時,可簡化標註長 度或角度,填寫尺度方式為「數量 × 尺度=總尺度」 (D) 在標註完全對稱之機件尺度時,以中心線作為基準線時,可以省略位置尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "127"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( )19. 下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 機件中因圓角而消失之稜線,仍在原位置上以兩端稍留空隙之細實線表示 (B) 前視圖若兩圓弧相切部分形成垂直面,則俯視圖在該部位應畫出粗實線 (C) 前視圖為兩相對大圓弧與傾斜面互相切成圓滑曲面,其俯視圖不畫任何線 (D) 前視圖之肋交角相切處若為圓角,則俯視圖在該部位以粗實線方式繪之。"
+        },
+        {
+          "type": "heading",
+          "text": "( )20. 下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 圓柱面或圓錐面有一部份被削平而未繪出側視圖時,應在該平面上加畫對角"
+        },
+        {
+          "type": "heading",
+          "text": "交叉細實線表示之"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 當相貫兩圓柱直徑尺度差別大時,其交線投影結果趨近於直線,則交線依習"
+        },
+        {
+          "type": "heading",
+          "text": "用畫法以直線方式繪出"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 當相貫兩圓柱直徑相同時,其交線投影結果為一圓弧線 (D) 在剖視圖中常遇見方孔、圓孔與另一圓孔或圓柱相交,其交線視其尺度差別 之大小用直線或圓弧表示。"
+        },
+        {
+          "type": "heading",
+          "text": "( )21. 下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 繪製輥花、金屬網及紋面板之工程圖時,以粗實線表示 (B) 機件或工具常須作輥花加工,除了美觀外,主要用途是方便握持 (C) 繪製輥花、金屬網及紋面板之工程圖時,花紋可僅畫出一角表示 (D) 繪製輥花機件時可搭配詳圖標柱紋距與紋廓角。 ( )22. 機件之一部份須實施特殊加工時,在視圖上該部位將用何種方式表示?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 二點細鏈線平行而離輪廓線約 1mm 表示"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 一點細鏈線平行而離輪廓線約 1mm 表示"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 二點粗鏈線平行而離輪廓線約 1mm 表示"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 一點粗鏈線平行而離輪廓線約 1mm 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "二、整合型題目"
+        },
+        {
+          "type": "heading",
+          "text": "( )23. 下列敘述習用畫法何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 繪製視圖時只繪欲表達的某一部位而省略或斷裂其他部位的視圖形狀,此種"
+        },
+        {
+          "type": "heading",
+          "text": "視圖稱為虛擬視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 中斷視圖常用於遇形狀規則沒有變化之長形物體,可節省圖紙空間 (C) 若物體上有一部位成一角度傾斜,若依實際投影時則傾斜的部位在其他正投 影視圖上呈現縮小又非真實的形狀,且造成繪製不易,此時為簡便、省時、清晰"
+        },
+        {
+          "type": "heading",
+          "text": "可採用半視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 在某視圖中並不存在的特徵,為表明其形狀及相關位置而繪製的視圖稱為轉 正視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "128"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "( )24. 下列敘述習用畫法何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 局部剖面視圖為將某部分剖切且以中心線分界表示"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 半視圖乃在被切開之處以中心線繪製之"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 中斷視圖乃在中斷部份使用中心線表示"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 虛擬視圖乃以中心線繪製表明其形狀及相關位置。 ( )25. 如圖所示物體,下列何種視圖表達最不適合?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 採用轉正視圖表達物體凸緣"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 採用正投影三視圖"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 採用局部輔助視圖表達物體凸緣"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 採用全剖視圖或半剖視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "129"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "三、繪圖題"
+        },
+        {
+          "type": "heading",
+          "text": "1. 圖號 8-1:依立體圖之圖示尺度,繪製視圖及 A、 B 方向之局部視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體圖之圖示尺度, 將視圖及 A、 B 方向之局部視圖以 1: 1 比例繪製在圖紙上。 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領: 依箭頭方向,將局部視圖正確繪出。 局部視圖之文字註解需於視圖上。 前視圖以全剖視圖繪製,且左側部分以轉正視圖表示。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "8-1"
+        },
+        {
+          "type": "heading",
+          "text": "130"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2. 圖號 8-2:依圖示尺度及 RP 位置,繪製局部輔助視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依圖示尺度及 RP 位置,將局部輔助視圖以 1: 1 比例繪製在圖紙上。 依 RP 位置繪製局部輔助視圖。 (3) 繪製要領: 於視圖上編號,以利判斷投影之相關位置。 線條需依 CNS 規定。 局部輔助視圖需繪製正確。"
+        },
+        {
+          "type": "heading",
+          "text": "8-2"
+        },
+        {
+          "type": "heading",
+          "text": "131"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "3. 圖號 8-3:依圖示尺度,繪製局部輔助視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依圖示尺度,將局部輔助視圖以 1: 1 比例繪製在圖紙上。 自訂輔助視圖 RP 位置,並繪製局部輔助視圖。 (3) 繪製要領: 於視圖上編號,以利判斷投影之相關位置。 自訂輔助視圖之 RP 位置需考慮佈局。 線條需依 CNS 規定。 局部輔助視圖需繪製正確。"
+        },
+        {
+          "type": "heading",
+          "text": "8-3"
+        },
+        {
+          "type": "heading",
+          "text": "132"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4. 圖號 8-4:依立體圖之圖示尺度,繪製前視圖、局部俯視圖及局部輔助視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體圖之圖示尺度,將視圖以 1: 1 比例繪製在圖紙上。 可參考提示圖示,將前視圖、局部俯視圖及局部輔助視圖繪出。 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領: 圖面布局需恰當。 前視圖、局部俯視圖需繪製正確。 局部輔助視圖需繪製正確。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "8-4"
+        },
+        {
+          "type": "heading",
+          "text": "133"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "5. 圖號 8-5:依立體圖之圖示尺度,繪製局部輔助視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體圖之圖示尺度,將視圖以 1: 1 比例繪製在圖紙上。 適當的將局部輔助視圖繪製。 ( 圖 1 作平移,圖 2 作旋轉 ) 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領: 圖面布局需恰當。 視圖需表達完整。 局部輔助視圖需註明旋轉符號及角度。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "8-5"
+        },
+        {
+          "type": "heading",
+          "text": "134"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6. 圖號 8-6~8-7:依立體圖之圖示尺度,擇一圖號繪製局部輔助視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體圖之圖示尺度,將視圖以 1: 1 比例繪製在圖紙上。 可參考提示圖示,將視圖繪出。 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領: 圖面布局需恰當。 視圖之表達需正確。 局部輔助視圖需繪製正確。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "8-6"
+        },
+        {
+          "type": "heading",
+          "text": "135"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "提示"
+        },
+        {
+          "type": "heading",
+          "text": "R20"
+        },
+        {
+          "type": "heading",
+          "text": "R30"
+        },
+        {
+          "type": "heading",
+          "text": "提示"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 25"
+        },
+        {
+          "type": "heading",
+          "text": "136"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch08/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "7. 圖號 8-8:依立體圖之圖示尺度,繪製全剖視圖及半視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體圖之圖示尺度,將視圖以 1: 1 比例繪製在圖紙上。 前視圖以全剖視圖繪製。 右側視圖與仰視圖以半視圖方式表達。 (3) 繪製要領: 圖面布局需恰當。 視圖之表達需正確。 半視圖需繪製正確。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "8-8"
+        },
+        {
+          "type": "heading",
+          "text": "137"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "8. 圖號 8-9:依立體圖之圖示尺度,繪製中斷視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體圖之圖示尺度,將視圖以 1: 1 比例繪製在圖紙上。 將中斷視圖繪出。 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領: 圖面布局需恰當。 中斷視圖需繪製正確,且以未按比例標註尺度。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "8-9"
+        },
+        {
+          "type": "heading",
+          "text": "138"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "9. 圖號 8-10~8-11:依立體圖之圖示尺度,繪製轉正視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體圖之圖示尺度,將轉正視圖以 1: 1 比例繪製在圖紙上。 將轉正所依據之投影線繪出。 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領: 圖面布局需恰當。 轉正之投影方式需正確。 轉正視圖需繪製正確。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "8-10"
+        },
+        {
+          "type": "heading",
+          "text": "8-11"
+        },
+        {
+          "type": "heading",
+          "text": "139"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "10. 圖號 8-12:依立體圖之圖示尺度,繪製局部放大視圖及中斷視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體圖之圖示尺度,將視圖以 1: 1 比例繪製在圖紙上。 將局部放大視圖及中斷視圖繪出。 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領: 圖面布局需恰當。 局部放大視圖上方需註明比例。 局部放大視圖需繪製正確。 線條與尺度需依 CNS 規定。 中斷視圖需繪製正確,且以未按比例標註尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "8-12"
+        },
+        {
+          "type": "heading",
+          "text": "140"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "11. 圖號 8-13:依圖示尺度,繪製虛擬視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依圖示尺度,將虛擬視圖以 1: 1 比例繪製在圖紙上。 依中心線之行程角度,繪製出虛擬視圖。 (3) 繪製要領: 圖面布局需恰當。 虛擬視圖之表達需正確。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "8-13"
+        },
+        {
+          "type": "heading",
+          "text": "141"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "筆記頁 OTE"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

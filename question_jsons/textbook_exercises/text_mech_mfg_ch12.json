@@ -1,0 +1,165 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH12",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH12_001",
+      "subject": "機械製造",
+      "unit": "CH12",
+      "q": "CNC",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "(A)G98 (B)M06 (C)G96 (D)GO 1 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH12_002",
+      "subject": "機械製造",
+      "unit": "CH12",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "NC (A) (B) (C) (D) (A) (B) (C) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "0 2013"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH12_003",
+      "subject": "機械製造",
+      "unit": "CH12",
+      "q": "NC",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "CNC (A)FT(B)OR (C)NS(D)TG )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH12_004",
+      "subject": "機械製造",
+      "unit": "CH12",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "CIM",
+        "CAD",
+        "CAM",
+        "FMS )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH12_005",
+      "subject": "機械製造",
+      "unit": "CH12",
+      "q": "CNC",
+      "image_url": "",
+      "options": [
+        "N",
+        "M",
+        "T",
+        "F NC (A) (B) (C) (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH12_006",
+      "subject": "機械製造",
+      "unit": "CH12",
+      "q": "CNC",
+      "image_url": "",
+      "options": [
+        "X z",
+        "X",
+        "Y z",
+        "XYZ 288 (A) 學後評量 (FMS)(B) (CNC)(C) (CAD/CAM) (A) ATC (fixed automation)(D) ATC (A) 1 2-2 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH12_007",
+      "subject": "機械製造",
+      "unit": "CH12",
+      "q": "(B) (B) MC (D) (D) (B) (D) (C)CRT CNC (D) (MC) (D)",
+      "image_url": "",
+      "options": [
+        "",
+        "(B) MC (D) (D) (B) (D)",
+        "",
+        "(D) (B) (D) (C)CRT CNC (D) (MC) (D) (A) ATC (A) (A) (A) (B) (B) (A) (MDI) (B) (D) 3 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH12_008",
+      "subject": "機械製造",
+      "unit": "CH12",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "PA",
+        "DA",
+        "OA",
+        "LA )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH12_009",
+      "subject": "機械製造",
+      "unit": "CH12",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "CAD",
+        "CAM",
+        "CAE",
+        "CAT 289 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "291"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH12_010",
+      "subject": "機械製造",
+      "unit": "CH12",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "(D)",
+        "(A) (D) 10 一 9 m(B) 10 一 (D) (A) (B) (A)CAM (B) (D)OA (B) 3 皿",
+        "",
+        "(B) (A) (D) 10 一 9 m(B) 10 一 (D) (A) (B) (A)CAM (B) (D)OA (B) 3 皿 (C) (D) (B) (A) (B)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

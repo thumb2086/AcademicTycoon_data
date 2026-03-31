@@ -1,0 +1,629 @@
+{
+  "bundle_id": "MOCK_102_1_ME1",
+  "questions": [
+    {
+      "id": "MOCK_102_1_ME1_001",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "下列運動鏈中,何者為拘束運動鏈?",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_002",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "有關各種機件間之對偶關係之敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "摩擦輪間之傳動,其對偶屬於高對",
+        "火車車輪與鐵軌間之傳動,其對偶屬於力鎖對",
+        "齒輪間之傳動,其對偶屬於低對",
+        "螺栓與螺帽之配合,其對偶屬於自鎖對"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_003",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 一 ) 所示,一物體 A 靜置於斜面上,斜面與鉛直面夾角 為 θ,以一水平力 F 推之,若不計摩擦阻力,試求此斜面之 機械利益為何? 圖 ( 一 )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p001_631_787_732_1103.png",
+      "options": [
+        "cos θ",
+        "tan θ",
+        "cot θ",
+        "csc θ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_004",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 二 ) 所示,一螺旋起重機,手柄半徑為 50 cm,螺旋導程為 6 mm, 機械效率為 60%,若施力 F = 100 N,試求此螺旋起重機能舉升之最大荷 重為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p001_891_1154_936_1099.png",
+      "options": [
+        "1000 π N",
+        "5000 π N",
+        "10000 π N",
+        "50000 π N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_005",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "有關各種螺紋的相關敘述中,下列何者正確?",
+      "image_url": "",
+      "options": [
+        "統一標準螺紋之螺紋角為 60° 圖 ( 二 )",
+        "M20 × 1.5 表示螺紋節徑為 20 mm",
+        "圓螺紋適合於高速傳動用途",
+        "美國標準螺紋牙峰與牙根均為圓弧"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_006",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "在螺旋中,若以 θ 表導程角, α 表螺旋角, P 表螺距, D 表螺旋外徑, L 表螺旋導程, n 表螺旋 線數,則下列敘述何者 不正確? L",
+      "image_url": "",
+      "options": [
+        "L = n P ⋅",
+        "tan θ = π ⋅ D π ⋅ D \u0001",
+        "tan α =",
+        "α + θ = 180 L"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_007",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "有關螺旋之敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "螺旋的節距與螺紋角成正比關係",
+        "螺旋的導程與節距成正比關係",
+        "螺旋的傳動速度與導程角正切值成正比關係",
+        "螺旋的機械利益與螺旋角成正比關係"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_008",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "台北 101 大樓 (TAIPEI 101) 擁有世界知名的高速電梯,能一路以約 16 m / sec 的速度將乘客送達 89 樓的觀景台,若假設電梯總重量為 1125 公斤,機械效率為 80%,試求電梯驅動馬達所需之 最小公制馬力數為何?",
+      "image_url": "",
+      "options": [
+        "180 PS",
+        "240 PS",
+        "300 PS",
+        "360 PS"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_009",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 三 ) 所示之二段工字梁欲以二塊連接板配合螺栓加以連接 固定,應選用何種螺栓較為適當?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p002_544_788_844_1110.png",
+      "options": [
+        "貫穿螺栓",
+        "環首螺栓",
+        "基礎螺栓",
+        "雙頭螺栓 圖 ( 三 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_010",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "訂製一廣告招牌,需符合外表美觀、避免水滲入、避免螺紋外露而造成人體碰觸割傷,下列 何種螺帽能達成上述要求事項?",
+      "image_url": "",
+      "options": [
+        "球面底座螺帽",
+        "環首螺帽",
+        "蓋頭螺帽",
+        "堡型螺帽"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_011",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "下列螺帽鎖緊裝置中,何者 不是 靠摩擦力的作用?",
+      "image_url": "",
+      "options": [
+        "彈簧墊圈鎖緊裝置",
+        "彈簧線鎖緊裝置",
+        "錐型底部螺帽鎖緊裝置",
+        "法國制螺帽鎖緊裝置"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_012",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "平鍵之鍵槽製作一般可採用下列何種方式完成?",
+      "image_url": "",
+      "options": [
+        "銑床",
+        "車床",
+        "鉋床",
+        "鑽床"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_013",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 四 ) 所示應為何種銷?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p002_1298_1482_858_1100.png",
+      "options": [
+        "開口銷",
+        "彈簧銷",
+        "定位銷",
+        "U 型鉤銷 圖 ( 四 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_014",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "一平鍵規格為 18 × 12 × 120 mm,裝於直徑 200 mm 之圓軸上用以傳遞動力,若軸的轉速為 400 rpm, 且鍵的容許剪應力為 50 MPa,容許 壓 應力為 100 MPa,則此軸所能傳遞之最大動力為 多少 kw?",
+      "image_url": "",
+      "options": [
+        "228 π kw",
+        "192 π kw",
+        "144 π kw",
+        "96 π kw"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_015",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "有關彈簧 特性 之敘述,下列何者正確?",
+      "image_url": "",
+      "options": [
+        "其 他條 件不 變,則彈簧 常 數 愈 大,彈簧 變形 量 愈 大",
+        "其 他條 件不 變,則彈簧 指 數 愈 大,彈簧 變形 量 愈 大",
+        "其 他條 件不 變,則彈簧 受 力 愈 大,彈簧 變形 量 愈 小",
+        "其 他條 件不 變,則 初始長 度 愈長,彈簧 變形 量 愈 大"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_016",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "在彈簧 實驗 中, 取 一彈簧 常 數 未 知之 拉伸 彈簧, 依序 將不 同 荷重 掛 上 彈簧 後,量 測 彈簧總 長 度,如圖 ( 五 ) 所示, 並 加以 記錄 如下表所示, 請依實驗結果 計 算 此彈簧之彈簧 常 數應 該 為何? 1 2 3 4 5 荷重 (kgf) 4 kgf 10 kgf 20 kgf 35 kgf 60 kgf 彈簧總 長 度 30.5 cm 31.25 cm 32.5 cm 34.375 cm 37.5 cm 圖 ( 五 )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p003_557_760_959_1094.png",
+      "options": [
+        "4 kgf / cm",
+        "5 kgf / cm",
+        "6 kgf / cm",
+        "8 kgf / cm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_017",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 六 ) 所示之三 個 彈簧 組 合,各彈簧 常 數 分別 為 k 1 = 12 N mm / 、 k 2 = 8 N mm / 、 k 3 = 6 N mm /,試求此彈簧 組 合之總彈簧 常 數為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p003_907_1184_834_1096.png",
+      "options": [
+        "7.5 N / mm",
+        "10.8 N / mm",
+        "14.4 N / mm",
+        "32 N / mm 圖 ( 六 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_018",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "一 離 合 器 能在接合傳動軸 時,能 緩和 傳動 時 的 衝擊 力, 使 動力傳遞的 過 程平 順, 並減少震 動, 下列何種 離 合 器 最能符合以上的 描 述?",
+      "image_url": "",
+      "options": [
+        "顎 夾 離 合 器",
+        "摩擦 離 合 器",
+        "超越 式 離 合 器",
+        "流 體 離 合 器"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_019",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "滾珠 軸 承 標 稱號碼 為 「 6202 」,表示軸 承內 徑大小為何?",
+      "image_url": "",
+      "options": [
+        "10 mm",
+        "12 mm",
+        "15 mm",
+        "17 mm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_020",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "以下 八 種不 同 型式的 聯結器 中, 哪些 屬於 剛性聯結器? ( 甲 ) 歐丹聯結器 ( 乙 ) 摩擦阻環 聯結器 ( 丙 ) 分筒聯結器 ( 丁 ) 筒形聯結器 ( 戊 ) 萬向 接頭 ( 己 ) 鏈 條聯結器 ( 庚 ) 凸緣聯結器 ( 辛 ) 脹縮 接頭",
+      "image_url": "",
+      "options": [
+        "( 甲 )( 乙 )( 丁 )( 戊 )",
+        "( 丙 )( 丁 )( 已 )( 辛 )",
+        "( 乙 )( 丙 )( 庚 )( 辛 )",
+        "( 乙 )( 丙 )( 丁 )( 庚 ) 第二部份:機械力學"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_021",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "下列各種物 理 量何者 不屬於 向 量?",
+      "image_url": "",
+      "options": [
+        "角加速度",
+        "功 率",
+        "力 矩",
+        "位 移"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_022",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "下列各種 單 位中,何者為 功 的 單 位?",
+      "image_url": "",
+      "options": [
+        "N m ⋅",
+        "N sec ⋅",
+        "N m sec ⋅ / 2",
+        "N m sec ⋅ /"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_023",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 七 ) 所示, F 1 大小為 300 N,若將 F 1 分解 為 F 2 及 F 3, 試求 F 2 的大小?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p004_1008_1312_733_1105.png",
+      "options": [
+        "F 2 = 150 N",
+        "F 2 = 150 3 N 圖 ( 七 )",
+        "F 2 = 100 N",
+        "F 2 = 100 3 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_024",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 八 ) 所示,試求此力 系 之合力大小為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p004_1254_1553_684_1084.png",
+      "options": [
+        "80 N",
+        "100 N",
+        "120 N",
+        "150 N 圖 ( 八 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_025",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 九 ) 所示, AB 桿長 10 公 尺, CD 桿 接於 AB 桿 之中 點, B 端 以 繩索吊掛 一重 750 N 之物體,若不計 桿 重,試求 CD 桿 所 承受 之力 的大小為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p005_138_398_835_1099.png",
+      "options": [
+        "1000 3 N",
+        "500 3 N",
+        "750 N",
+        "500 N 圖 ( 九 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_026",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 十 ) 所示,一重物重 1000 N,以 繩 BC 、 繩 CD 與 拉伸 彈簧 AC 繫 於鉛直 牆 面上而達 到 平 衡 位置, 已 知彈簧 常 數為 80 N / cm, 受 力 後 彈簧較 受 力 前伸長 5 公 分,試求 CD 繩 所 受張 力為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p005_393_697_747_1101.png",
+      "options": [
+        "400 3 N",
+        "500 2 N",
+        "600 3 N 圖 ( 十 )",
+        "800 2 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_027",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 十 一 ) 所示, AB 桿長 4 公 尺,重 1200 N, 兩端 靠於 光 滑牆 面上,於距 A 端 1 公 尺處 以 CD 繩 固定於 天花 板上, 試求 繩 之 張 力為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p005_699_974_691_1092.png",
+      "options": [
+        "600 2 N",
+        "800 3 N",
+        "900 2 N 圖 ( 十一 )",
+        "1000 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_028",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 十 二 ) 所示,若 F 1 = 100 N, F 2 = 200 N,試求 B 點支承反 力?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p005_967_1275_685_1086.png",
+      "options": [
+        "210 N",
+        "240 N",
+        "300 N",
+        "360 N 圖 ( 十二 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_029",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 十 四 ) 所示之 ABCDA 封閉 線段 組 合,各 端點 座標 分 別 為 A( 10, 0) − 、 B( 2, 6) − 、 C(2, 6) 、 D(10, 0),求此線 段 組 合之 Y 軸 形心 座標 y 為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p006_148_406_813_1094.png",
+      "options": [
+        "y = − 3.2",
+        "y = − 2.32",
+        "y = − 2.09",
+        "y = 1.02 圖 ( 十四 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_030",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 十五 ) 所示之方 形 面 積組 合,求此面 積 之 Y 軸 形心 座標 y 為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p006_456_653_822_1094.png",
+      "options": [
+        "y = 8",
+        "y = 9",
+        "y = 10",
+        "y = 11 圖 ( 十五 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_031",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 十六 ) 所示之半圓 形 面 積組 合,求此面 積 之 Y 軸 形 心 座標 y 為何? 14d",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p006_703_989_684_1093.png",
+      "options": [
+        "y = 9 π 13d",
+        "y = 10 π 12d",
+        "y = 11 π 圖 ( 十六 ) 11d",
+        "y = 10 π"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_032",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 十七 ) 所示,重 1000 N 之物體 A 靜置於 地 面,若物體 與 地 面間之靜摩擦係數 μ = s 0.4,試求 P 力為 多少時恰 可 使 物體開 始移 動?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p006_1031_1208_707_1109.png",
+      "options": [
+        "460 N 圖 ( 十七 )",
+        "480 N",
+        "500 N",
+        "520 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_033",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 十八 ) 所示, 已 知物體 A 重 500 N,當以一大小為 158 N 之與斜面平 行 之力 F 推動 時恰 可 使 物體 向 下 滑 動,試求物 體 A 與斜面間之靜摩擦係數為 多少? ( sin 20 ° = 0.342, cos 20 ° = 0.940, tan 20 ° = 0.364 ) 圖 ( 十八 )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p006_1291_1421_841_1108.png",
+      "options": [
+        "0.7",
+        "0.6",
+        "0.5",
+        "0.4"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_034",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 十九 ) 所示,一均 質桿 件靠於一高 3 公 尺 之 階 梯上,自直 立緩慢傾倒至 圖示之平 衡 位置, 此 時桿 與 地 面成 30°,若 桿 件重 200 N, 長 為 10 公 尺, 忽略 B 點 之摩擦與 桿 之直徑 尺寸,求 桿 μ 件與 地 面接觸 點 A 之摩擦係數 為何? 6 3",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p007_241_491_609_1079.png",
+      "options": [
+        "μ = 11 5 3",
+        "μ = 9 4",
+        "μ = 7 圖 ( 十九 ) 7 3",
+        "μ = 8"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_035",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "如圖 ( 二 十 ) 所示, 滑 塊 A 與 B 各重 400 N, 滑 塊與接觸面之 靜摩擦係數 μ S = 0.5, 滑 塊 分別 以 繩繫 於 C, 並吊掛負 荷一 重物,若不計 繩 重,試求在 滑 塊不 滑 動之 情況 下所能 負 荷 之最大重量 W 為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_102_1_me1/p007_541_774_818_1102.png",
+      "options": [
+        "1200 N",
+        "1600 N",
+        "2000 N 圖 ( 二十 )",
+        "2400 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_036",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "一車作直線 等 加速度運動,自 出發後依序經過 相距 50 公 尺 之 A 與 B 兩測 速 站,若 A 站 與 B 站 測得 之速度 分別 為 72 km / hr 與 90 km / hr,試求此車之加速度為何? 2 2",
+      "image_url": "",
+      "options": [
+        "0.36 m / sec",
+        "3.24 m / sec 2 2",
+        "2.25 m / sec",
+        "29.16 m / sec 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_037",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "令 一高速列車之加速度與 減 速度均為 0.75 m / sec, 今 此列車自 新竹站出發後 以 等 加速度 行駛 100 秒,接 著 以 等 速度 行駛 11 分鐘後, 再 以 等減 速度 行駛 100 秒後停 靠板 橋站,試計 算新竹站 與板 橋站 間之距 離 為何?",
+      "image_url": "",
+      "options": [
+        "55 km",
+        "57 km",
+        "59 km",
+        "61 km"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_038",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "位於 阿拉伯聯 合大公國 杜拜 (Dubai) 境內 的 哈里發塔 (Khalifa tower) 塔 高 828 公 尺,為 目前 世界 2 第 一高樓, 今 於 塔 上方 10 公 分 自 由落 下一 金 屬圓球,若重力加速度 g = 9.8 m / sec,不計 風 力 及空氣 阻力之 影響, 並忽略 圓球直徑,試求此圓球 落至地 面所需 時 間為何?",
+      "image_url": "",
+      "options": [
+        "12 sec",
+        "13 sec",
+        "14 sec",
+        "15 sec"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_102_1_ME1_039",
+      "subject": "機械群專一",
+      "unit": "42. 102-1-四技二專-機械群專一",
+      "q": "直 昇 機於 490 公 尺 高 空 中 盤 旋不動, 擬垂 直 投 彈 命 中一 輛 以 時 速 144 km / hr 直線 等 速 駛近 之車 輛,則此直 昇 機應於車 輛 距 投 彈 命 中 點多少 距 離時放 下 炸 彈 才 能準確 命 中?",
+      "image_url": "",
+      "options": [
+        "400 m",
+        "500 m",
+        "600 m",
+        "700 m"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    }
+  ]
+}

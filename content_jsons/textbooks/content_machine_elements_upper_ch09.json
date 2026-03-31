@@ -1,0 +1,4897 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_UPPER_CH09",
+  "subject": "技術型高中機械群機件原理上冊",
+  "chapter": {
+    "code": "CH09",
+    "title": "09_摩擦輪"
+  },
+  "title": "技術型高中機械群機件原理上冊 CHAPTER 摩擦輪",
+  "source_pdf": "技術型高中機械群機件原理上冊_PPT/09_摩擦輪.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "本籣報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 丙容來源; 108 華興機件原理上冊 / 連結影片及部分圖片取目網路。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "9-1 摩 擦 輪 傳 動 原 理 與 速 比 介 紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "9-1 摩擦輪傳動原理與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "9-2 摩 擦 輪 的 種 類 與 構 造 數"
+        },
+        {
+          "type": "heading",
+          "text": "9-2 摩擦輪的種類與構造"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "9-1 摩擦輪傳動原理與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "一、摩擦輪傳動原理 動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "主動輪藉由摩擦力,將迴轉運動由滾動接觸直接傳給從動輪,"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "使從動輪也產生迴轉運動者,稱為摩擦輪 ( friction wheel )。 比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦輪之輪面間是屬於線接觸(高對),從動輪負載過大時, 主動輪易造成空轉打滑之現象,故從動輪的輪面材料必須較主 動輪堅硬。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "250"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩輪於接觸線上難免有打滑現象,這種打滑現象(滑動)在某 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "種情況下可免去機件的陡震 ( shock ),而減少機件損害,故負 傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "載較輕,速度較高之傳動宜用摩擦輪。 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "250"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-1 摩擦輪"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 摩擦輪傳動之優缺點 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "1. 優點:"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 傳動時,從動輪起動平穩,無陡震現象,噪音小。"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 輕負載時,可高速運轉。"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 從動輪負載過大時,接觸點會產生滑動,使機件不致損壞。 介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 裝置簡單,維修容易,成本低。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 缺點:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 有滑動現象,速比不穩定。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 摩擦力有限,不適宜傳達大動力。"
+        },
+        {
+          "type": "heading",
+          "text": "250"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 因藉由摩擦力傳動,輪面容易磨損。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 滾動接觸傳動原理 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "相互接觸的兩機件傳動時,在"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "接觸點會發生相對速度,當相"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "對速度為零時,即無滑動現象,"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "此時的運動狀態,則稱為「純 介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾動接觸 」 ( pure rolling contact ) 之傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "251"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-2 摩擦輪之傳動"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "純滾動接觸,必須滿足以下條件: 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "1. 兩機件之接觸點恆在連心線上。"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "2. 兩機件在接觸點上的切線速度必相等( V = V )。 理"
+        },
+        {
+          "type": "heading",
+          "text": "A B"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "3. 兩機件的傳動弧長必相等。"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "251"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 摩擦輪傳動功率 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦輪傳動之功率,完全是靠著接觸點之摩擦力 ( F ),則摩擦"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "力愈大,所能傳達的功率亦愈大,而影響摩擦力的重要因素為"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦係數 ( coefficient of friction ) 和正壓力 ( normal pressure )。"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "paragraph",
+          "text": "在兩輪中心 O、 O 之聯心線上加以適當的壓力,稱為正壓力"
+        },
+        {
+          "type": "heading",
+          "text": "A B"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "( P ),則接觸點在聯心線的垂直方向即能產生一相當之摩擦力 ( F ),因此主動輪方能傳達動力給從動輪,而摩擦力的大小即"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "等於摩擦係數乘於正壓力( F = μ P ),故摩擦輪傳動之功率與 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦力大小成正比,而摩擦力大小則取決於摩擦係數及接觸點"
+        },
+        {
+          "type": "heading",
+          "text": "251"
+        },
+        {
+          "type": "paragraph",
+          "text": "之正壓力。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "要提高傳動功率在無法提高正壓力的同時,可藉由提高摩擦係 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "數來達成,摩擦係數大小,又與兩機件相互接觸的材料種類、 傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "接觸的表面狀況、動摩擦或靜摩擦(靜摩擦大於動摩擦)等有 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "關。"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "252"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪傳動原理與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "表 9-1 摩擦輪之材料及其摩擦係數"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦係數"
+        },
+        {
+          "type": "heading",
+          "text": "相互接觸材料"
+        },
+        {
+          "type": "heading",
+          "text": "表面狀況"
+        },
+        {
+          "type": "heading",
+          "text": "動摩擦"
+        },
+        {
+          "type": "heading",
+          "text": "靜摩擦"
+        },
+        {
+          "type": "heading",
+          "text": "鑄鐵與鑄鐵"
+        },
+        {
+          "type": "heading",
+          "text": "濕滑乾乾濕滑乾乾"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 31"
+        },
+        {
+          "type": "heading",
+          "text": "鑄鐵與青銅"
+        },
+        {
+          "type": "heading",
+          "text": "匕日"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 08 ~ 0 · 10"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 16"
+        },
+        {
+          "type": "heading",
+          "text": "鑄鐵與皮革"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 56"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 62"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 30 ~ 0 · 50"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "鑄鐵與本材"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 22"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 65"
+        },
+        {
+          "type": "heading",
+          "text": "匕日"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 19"
+        },
+        {
+          "type": "heading",
+          "text": "木材與皮革"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 30 ~ 0 · 50"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 50 ~ 0 · 60"
+        },
+        {
+          "type": "heading",
+          "text": "麻繩與木材"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 50"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 50 ~ 0 · 80"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦輪,若兩輪間之接觸點為純滾動接觸, 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "設 F:摩擦力。 V:摩擦輪之切線速度。"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "μ:摩擦係數。 P:正壓力。 理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "D:摩擦輪之直徑。 N:摩擦輪之轉速。"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "則所能傳達之功率如下: 紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "252"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "1. 瓦特 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 瓦特 ( W ) = 1 牛頓 - 公尺 / 秒 ( N-m/sec ),"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "1000W (瓦特) = 1kW (仟瓦特)。"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "單位: F、 P:牛頓 ( N );"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:公尺 / 秒 ( m/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "253"
+        },
+        {
+          "type": "heading",
+          "text": "D:公尺 ( m );"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:每分鐘轉數 ( rpm )。"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "2. 公制馬力 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 公制馬力 ( PS ) = 75 公斤力 - 公尺 / 秒 ( kgf-m/sec )。"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "單位: F、 P:公斤力 ( kgf );"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:公尺 / 秒 ( m/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "253"
+        },
+        {
+          "type": "heading",
+          "text": "D:公尺 ( m );"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:每分鐘轉數 ( rpm )。"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "3. 英制馬力 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 英制馬力 ( HP ) = 550 磅 - 呎 / 秒 ( lb-ft/sec )。"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "單位: F、 P:磅 ( lb );"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:呎 / 秒 ( ft/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "253"
+        },
+        {
+          "type": "heading",
+          "text": "D:呎 ( ft );"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "T:磅 - 呎 ( lb-ft )。"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪傳動原理與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "一摩擦輪傳動機構, 若其中一摩擦輪直徑為 50cm, 迴轉數為 600rpm, 兩輪之間的摩 擦係數為 0 · 2, 正壓力為 1 仟牛頓, 試求可傳送的功率為若干仟瓦特? 已知 D = 50cm= 0 · 5m, N= 600 卬 m, = 0 · 2, P= 1, 000N"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 9 一 1 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "P × DN 一 0 · 2 × 1000 × × 0 · 5 × 600"
+        },
+        {
+          "type": "heading",
+          "text": "Watt ="
+        },
+        {
+          "type": "heading",
+          "text": "= 1000 W = 3 · 14kW"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪傳動原理與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "一摩擦輪傳動機構, 若其中一摩擦輪直徑為 60cm, 轉速為 375rpm, 兩輪之間的摩擦 係數為 0 · 2, 可傳動 3 · 14 馬力, 試求施於該輪的正壓力為若干牛頓? 解已知 D = 60cm = 0 · 6m 'N=375rpm, = 0 · 2, PS = 3 · 14 馬力"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 9-2 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "gP><zDN 一 0 · 2 × P × × 0 · 6 × 375"
+        },
+        {
+          "type": "heading",
+          "text": "= 3 · 14 馬力"
+        },
+        {
+          "type": "heading",
+          "text": "PS ="
+        },
+        {
+          "type": "heading",
+          "text": "75 × 60"
+        },
+        {
+          "type": "heading",
+          "text": "75 × 60"
+        },
+        {
+          "type": "heading",
+          "text": "P = 100kgf = 980N"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "二、速比 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩轉動輪傳動,其主動輪轉速與從動輪轉速之比值稱為速比, 動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "以 ε ( epsilon ) 表示,其兩輪之轉速,常以每分鐘之轉動圈數 理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "N ( rpm ),或傳動輪之角速度 ω 表示,即為 速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦輪傳動大多數之機械傳動常以減速為主,即從動輪之轉速 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "小於主動輪之轉速,則傳動速比必大於 1;若要輸出為加速傳 254 動,則其速比必小於 1。 Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 圓柱形摩擦輪之速比 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪 1、 2 為圓柱形摩擦輪,若輪 1 為主動輪、輪 2 為從動輪,"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "兩輪相接觸於點 P,假設"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "R:主動輪之半徑。 R:從動輪之半徑。 速"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:主動輪每分鐘轉數。 N:從動輪每分鐘轉數。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "V:主動輪切線速度。 V:從動輪切線速度。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "ω:主動輪角速度。 ω:從動輪角速度。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "C:兩軸中心距。 數"
+        },
+        {
+          "type": "heading",
+          "text": "255"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "255"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-3 圓柱形摩擦輪"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "無滑動情況下,根據純滾動接觸條件得知,兩輪在接觸處之切 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "線速度必相等 V = V。 傳"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "外接圓柱形摩擦輪在純滾動接觸傳動時,其角速比(每分鐘之 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉速比)與其半徑成反比。 255"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 圓錐形摩擦輪之速比 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪 1、 2 為圓錐形摩擦輪,若輪 1 為主動輪、輪 2 為從動輪,"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "兩輪相接觸於 OP 連線上,假設"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "α:主動輪之半錐角。 β:從動輪之半錐角。 速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:主動輪每分鐘轉數。 N:從動輪每分鐘轉數。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "V:主動輪切線速度。 V:從動輪切線速度。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "ω:主動輪角速度。 ω:從動輪角速度。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "θ:兩軸之夾角(軸角)。 數"
+        },
+        {
+          "type": "heading",
+          "text": "256"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-4 圓錐形摩擦輪"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "無滑動情況下,依純滾動接觸條件兩摩擦輪之切線速度必相等 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "V = V。 傳"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "純滾動接觸之兩圓錐形摩擦輪,其角速比(每分鐘之轉速比) 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "與其半錐角之正弦值成反比。 256"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "9-2 摩擦輪的種類與構造"
+        },
+        {
+          "type": "heading",
+          "text": "擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "一、圓柱形摩擦輪 ( cylindrical friction wheel ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "當兩軸中心線同在一平面上,且相互平行時,適用圓柱形摩擦"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪傳動,其依接觸位置不同可分為外切與內切兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "256"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 外切圓柱形摩擦輪 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩輪係外切接觸,故兩輪傳動之迴轉方向恆相反,且兩軸中心"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "距等於兩輪之半徑和,即"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "256"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "若已知兩軸中心距 C,及兩輪每分鐘轉數 N、 N,而欲求兩 擦"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "輪半徑 R、 R 時 的"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "257"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 內切圓柱形摩擦輪 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "以內切方式接觸。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "257"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-5 內切圓柱形摩擦輪"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "故兩輪傳動之迴轉方向恆相同,且兩軸中心距為兩輪之半徑差, 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "即 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "258"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "若已知兩軸中心距 C,及兩輪每分鐘轉數 N、 N,而欲求兩輪 擦"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "半徑 R、 R 時 的"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "258"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪的種類與構造"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一圓柱形摩擦輪, 兩平行軸之中心距離為 40cm, 主動軸之轉速為 75rpm, 從動輪 之轉速為 25rpm, 試求兩輪之直徑各為若干 cm? 解已知 C =40cm, NI = 75rpm, N2 = 25 卬 m"
+        },
+        {
+          "type": "heading",
+          "text": "NI 75"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 9-5 ), 得 ="
+        },
+        {
+          "type": "heading",
+          "text": "= 3 ( > 1 )"
+        },
+        {
+          "type": "heading",
+          "text": "N2 25"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 1 ) 若兩輪外切時, 由公式 ( 9 一 8 ) 及公式 ( 9 一 9 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "C"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "heading",
+          "text": "主動輪 RI 一"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 10 · · · DI = 2R1 = 20cm"
+        },
+        {
+          "type": "heading",
+          "text": "E 十 1 一 3 十 1"
+        },
+        {
+          "type": "heading",
+          "text": "6 · C"
+        },
+        {
+          "type": "heading",
+          "text": "3 × 40"
+        },
+        {
+          "type": "heading",
+          "text": "從動輪 R2 ="
+        },
+        {
+          "type": "paragraph",
+          "text": "= 30 · · · D2 = 2R2 = 60cm"
+        },
+        {
+          "type": "heading",
+          "text": "十 1"
+        },
+        {
+          "type": "heading",
+          "text": "3 十 1"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪的種類與構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 若兩輪內切時, 由公式 ( 9 一 11 ) 及公式 ( 9 一 12 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "C"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "heading",
+          "text": "主動輪 RI ="
+        },
+        {
+          "type": "paragraph",
+          "text": "= 20 · · · DI = 2R1 = 40cm"
+        },
+        {
+          "type": "heading",
+          "text": "E · C 3 × 40"
+        },
+        {
+          "type": "heading",
+          "text": "從動輪 R2 ="
+        },
+        {
+          "type": "paragraph",
+          "text": "= 60 · · · D2 = 2R2 = 120cm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "二、圓錐形摩擦輪 ( cone friction wheel ) 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "當兩軸中心線同在一平面,但兩軸並不平行而互成一角度時, 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "可採用圓錐形摩擦輪傳動,其依接觸位置不同可分為外切與內 與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "切兩種。 造"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 外切圓錐形摩擦輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩錐面以外緣相切方式接觸,兩軸心線會交於一共同頂點 O, 而兩軸心線之夾角,又稱為軸角( θ )可為任意角度,最常見"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "為兩軸正交成 90 ° 時。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "259"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-6 259"
+        },
+        {
+          "type": "heading",
+          "text": "外切圓錐形"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦輪"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "此圓錐形摩擦輪無論兩輪之軸角如何變化,仍屬於外切接觸傳 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "動,故兩輪傳動之迴轉方向恆相反,且兩軸心線之夾角等於兩 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "輪之半錐角和,即 類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "259"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "若已知兩軸中心距 C,及兩輪每分鐘轉數 N、 N,而欲求兩輪 擦"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "之半錐角 α、 β 時 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "260"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "當兩軸正交時( θ = 90 ° ),則 sin θ = sin90 ° = 1,而 cos θ = 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "cos90 ° = 0,則得 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "260"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 內切圓錐形摩擦輪 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩錐面以內緣相切方式接觸,速比之計算與外切圓錐形摩擦輪"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "方法相同。"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "261"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-7 內切圓錐形摩擦輪"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩輪傳動之迴轉方向恆相同,且兩軸心線之夾角等於兩輪之半 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "錐角差,即 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "261"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "若已知兩軸中心距 C,及兩輪每分鐘轉數 N、 N,而欲求兩輪 擦"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "之半錐角 α、 β 時 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "261"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "例題 9-4"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦輪的種類與構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "設有一組圓錐形摩擦輪, 其軸角 = 60。, 主動軸之轉速為 90rpm, 而從動軸之迴轉 速為 400rpm, 試求純滾動時兩圓錐形摩擦輪之錐角為若干? (sin600 = 0 · 866, c0s60。 = 0 · 5, tan500 = 1 · 19, tan72.40 = 3 · 15 ) 解已知 = 60。, NI = 90rpm, N2 =400rpm"
+        },
+        {
+          "type": "heading",
+          "text": "NI 90"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 9 一 6 ), 得一"
+        },
+        {
+          "type": "heading",
+          "text": "= 0 · 225"
+        },
+        {
+          "type": "heading",
+          "text": "N2 一 400"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 1 ) 若兩輪外切時, 由公式 ( 9-15 ) 及公式 ( 9 一 16 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "Sin"
+        },
+        {
+          "type": "heading",
+          "text": "sin600"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 866"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "主動輪 = tan-l("
+        },
+        {
+          "type": "heading",
+          "text": "= tan 1 ("
+        },
+        {
+          "type": "heading",
+          "text": "= tan ("
+        },
+        {
+          "type": "heading",
+          "text": "0 · 225 十 cos60"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 725"
+        },
+        {
+          "type": "heading",
+          "text": "E 十 cos"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 50。 則主動輪之錐角為 2 = 2 × 50。 = 100。 從動輪 = 十 = 50。 十 = 60。, 即 = 10。"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "則從動輪之錐角為 2 = 2 × 10。 = 20。"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪的種類與構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 若兩輪內切時, 由公式 ( 9-18 ) 及公式 ( 9 一 19 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "s in600"
+        },
+        {
+          "type": "heading",
+          "text": "1 0 · 866"
+        },
+        {
+          "type": "heading",
+          "text": "主動輪 = tan 1 ("
+        },
+        {
+          "type": "heading",
+          "text": ") = tan 1 ("
+        },
+        {
+          "type": "heading",
+          "text": "tan- ("
+        },
+        {
+          "type": "heading",
+          "text": "cos600 一 0 · 225"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 275"
+        },
+        {
+          "type": "heading",
+          "text": "COS,, 一 E"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 72 · 4。 則主動輪之錐角為 2 = 2 × 72 · 4。 = 144.8。 從動輪 = 一 = 72 · 4。 一 = 60。, 即 = 12 · 4。"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "則從動輪之錐角為 2 = 2 × 12 · 4。 = 24 · 8。"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪的種類與構造"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一組圓錐形摩擦輪, 其軸角 = 90。, 設主動軸之半錐角為 30。, 且轉速為 200 卬 m, 試求從動軸之錐角及轉速為若干? ( tan300 = 0 · 577 ) 已知 = 90。, = 30。, NI= 200rpm"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 9 一 6 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "N2 N2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= tan300 = 0 · 577 · · · N2 = 115 · 4rpm"
+        },
+        {
+          "type": "heading",
+          "text": "tan"
+        },
+        {
+          "type": "heading",
+          "text": "一 NI 一 200"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 若兩輪外切時, 由公式 ( 9 一 13 ) 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動輪 = 十 = 30。 十 = 90。, 即 = 60。 則從動輪之錐角為 2 = 2 × 60。 = 120。"
+        },
+        {
+          "type": "heading",
+          "text": "若兩輪內切時, 由公式 ( 9-17 ), 得"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動輪 = 一 = 一 30。 = 90。, 即 = 120。 則從動輪之錐角為 2 = 2 × 120。 = 240。"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "三、凹槽形摩擦輪 ( grooved friction wheel ) 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "將摩擦輪的輪面製成兩側傾斜的楔形凹槽,以增加兩輪接觸面 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "積,降低輪面所需的正壓力,提高輪面的摩擦力,並提升傳達 與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "動力,一般以鑄鐵鑄造而成,常應用於起重設備、旋轉式泵上。 造 當凹槽兩側的夾角 ( θ ) 愈小,則摩擦力愈大,唯有節圓處為 滾動傳動,其兩側的接觸均為滑動傳動,當凹槽夾角愈小時, 會造成兩輪嚙合過緊,導致摩擦損耗大,傳動效果不佳,因此"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般凹槽夾角在 30 ° ~ 40 ° 為宜。"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "263"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪的種類與構造"
+        },
+        {
+          "type": "heading",
+          "text": "節距"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 實物照"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 8 凹槽形摩擦輪"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "四、可變速摩擦輪 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱變速摩擦傳動機構,其速比均可作某種程度的調整或作週 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "期性變化,且為無段變速,常見的類型略述如下。 與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "264"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 圓盤與滾子 ( disk and roller ) 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾子 1 與圓盤 2 的轉軸成正交,一般常以滾子為主動輪,圓盤為"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動件輪,且為顧及從動圓盤之負載過大時,滾子在圓盤上易"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "打滑甚至磨損從動圓盤,故滾子輪面之材質通常以軟性材料包"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "覆,從動圓盤則以鑄鐵為材料。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "264"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-9 圓盤與滾子"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓盤與滾子是同時具有變速及改變轉向之特性。 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "若滾子 1 為主動、圓盤 2 為從動,則圓盤與滾子之角速度為"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "265"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓盤與滾子的速比與接觸點至兩輪軸心之半徑成反比,然而接 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "觸點與滾子軸心之距離 R 是固定的,藉由移動滾子調整接觸點 的"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "與圓盤軸心之距離 R,而改變從動圓盤之轉速 N 之值,以達到 類"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "無段變速傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩圓盤軸心之半徑 R 及 R 和等於兩圓盤之軸心距 C,即 C = R"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "+ R,而滾子僅會在兩軸心間移動,故主動輪與從動輪轉向相"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "同,以滾子移動改變兩輪速比。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "空心圓盤與滾子亦是類似圓盤與滾子的應用,兩半徑和為一常 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "數值( R + R = C ),因此從動圓盤之轉速 N 則發生變化,以"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 2 265"
+        },
+        {
+          "type": "paragraph",
+          "text": "改變兩輪速比。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "266"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-10 圓盤與滾子的應用"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪的種類與構造"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-10 (A) 所示, 有一摩擦輪傳動裝置, 圓盤 1 的轉速為 200 卬 m, 圓盤 2 的轉速 為 100 卬 m, 兩圓盤軸心距離為 24cm, 試求滾子 3 的軸心距兩圓盤之距離分別為若干"
+        },
+        {
+          "type": "heading",
+          "text": "cm?"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 NI = 200rpm, N2 = 100 卬 m, C = 24cm"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 9-20 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "NI R2 200"
+        },
+        {
+          "type": "heading",
+          "text": "· R2 = 2R1"
+        },
+        {
+          "type": "heading",
+          "text": "一 N2 一 RI 一 100"
+        },
+        {
+          "type": "heading",
+          "text": "又 C = RI 十 R2, 得"
+        },
+        {
+          "type": "heading",
+          "text": "24 = RI 十 2R1 = 3R1"
+        },
+        {
+          "type": "heading",
+          "text": "· RI = 8cm, R2 = 16cm"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 球面與圓柱 ( sphere and roller cylinder ) 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "球面 1 其球面體是圓球的一部份為主動件,圓柱 2 亦可稱滾子為"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動件,其變速特性相似於圓盤與滾子方式。"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "266"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-11 球面與圓柱"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "當圓柱位於紅色虛線位置時,接觸點 P 剛好在球面之軸線位置 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "上,則 R = 0,因此不論球面之轉速為何,圓柱均靜止不動; 的"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "當圓柱之接觸點 P 愈遠離球面軸心,則圓柱之轉速愈快,反之 類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "則愈慢,若圓柱由球面軸心之左側移到其右側,則圓柱之轉向"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "則會改變,成反向旋轉,故球面與圓柱是同時具有變速及改變 轉向之特性,其僅適用於小動力的傳達,因此一般均用於精巧 的機構上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "267"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "51"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 伊氏圓錐形摩擦輪 ( Evans cones friction wheel ) 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "是由兩個形狀相同組裝相互倒置的圓錐形摩擦輪 1、 2 所組成,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩軸互相平行,兩輪間有一環形皮帶 3,兩圓錐形摩擦輪即藉"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "著緊壓皮帶來滾動傳達動力。"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "267"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-12 伊氏圓錐形摩擦輪"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 橢圓形摩擦輪 ( elliptical friction wheel ) 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "是由兩個大小相同的橢圓外形的摩擦輪 1、 2 所構成,其 C、"
+        },
+        {
+          "type": "heading",
+          "text": "1 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "Q 及 C、 Q 分別為兩輪之焦點, A B 及 A B 分別為兩輪之 與"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 2 1 1 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "長軸,則兩輪之固定轉軸必分別位於兩焦點之一,且兩軸中心 造 距需等於長軸,則兩輪能以滾動接觸傳達動力,兩輪之接觸點 P 恆在連心線上,故傳動時兩輪軸心與接觸點之半徑時時變化, 則兩輪之速比是變動值。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "268"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "heading",
+          "text": "擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "268"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-13 橢圓形摩擦輪"
+        },
+        {
+          "type": "heading",
+          "text": "54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪的種類與構造"
+        },
+        {
+          "type": "heading",
+          "text": "則兩輪之角速比為"
+        },
+        {
+          "type": "heading",
+          "text": "9-21"
+        },
+        {
+          "type": "heading",
+          "text": "Q2P"
+        },
+        {
+          "type": "heading",
+          "text": "QIP"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "5 5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "因兩輪之接觸點 P 非定點,恆在連心線上變動,故接觸點至軸 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "心距離時時改變,則兩輪之角速比會在最大與最小之間交替變 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "動。 類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "269"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "56"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "因兩橢圓形摩擦輪大小相同,則 Q A = Q A, Q B = Q B, 擦"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 2 2 1 1 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "故得"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "純滾動接觸之橢圓形摩擦輪,其最大角速比與最小角速比互為 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "倒數關係。 269"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 葉瓣輪 ( lobed wheel ) 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "一曲線在其上之任一點的切線與其至某一定點之夾角成一定角,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "且此定角不是直角時,則稱此曲線為對數螺線 ( logarithmic spiral )"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": ",又稱等角螺線。"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "269"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-14 對數螺線"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p058.jpg"
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "由多條對稱之對數螺線組合而成的摩擦輪,即稱為葉瓣輪或葉 擦"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪,依對數螺線數可有單葉輪、雙葉輪、三葉輪... 等,單葉輪 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "是由兩條相同之對數螺線各取 180 ° 組成的葉瓣輪,雙葉輪是由 類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "四條相同之對數螺線各取 90 ° 組成,三葉輪是由六條相同之對"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "數螺線各取 60 ° 組成,依此類推。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "270"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩擦輪的種類與構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "180。"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "Q2"
+        },
+        {
+          "type": "heading",
+          "text": "QI"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 單葉輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "60。"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "QI"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "QI"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "Q2"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 雙葉輪"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 三葉輪"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖一 15 葉瓣輪"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "假設輪 1 為主動輪、輪 2 為從動輪, Q、 Q 分別為兩輪之軸心, 擦"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "ω、 ω 為兩輪之角速度 的"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "270"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch09/p062.jpg"
+    }
+  ]
+}

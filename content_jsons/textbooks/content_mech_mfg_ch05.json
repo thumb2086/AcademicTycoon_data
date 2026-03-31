@@ -1,0 +1,3193 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH05",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH05",
+    "title": "CH5"
+  },
+  "title": "機械製造 Chapter 5 銲接",
+  "source_pdf": "機械製造/CH5PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH05",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "銲接"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "5-1 銲接介紹"
+        },
+        {
+          "type": "heading",
+          "text": "5-2 軟銲與硬銲"
+        },
+        {
+          "type": "heading",
+          "text": "5-3 氣銲"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 電銲"
+        },
+        {
+          "type": "heading",
+          "text": "5-5 其他銲接方法"
+        },
+        {
+          "type": "heading",
+          "text": "5-6 接頭形狀"
+        },
+        {
+          "type": "heading",
+          "text": "5-7 銲接符號與檢驗"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "198"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "將兩個或兩個以上分開的金屬結合在一起的方法有許多種,諸如:銲接、壓合、鉚接、 螺絲扣接及黏結等。在這些方法之中,應用層面最廣的,就是銲接。例如汽車、建築物的 構架、輪船、電器產品、電子產品⋯⋯等,均需大量使用銲接技術來輔助生產。 橋梁的桁架結構早期採用鉚接法,現在大都採用銲接法施工。高樓建築物採用鋼構銲 接法建造,不但工期短,而且耐震係數高。工具機之機架通常用鑄鐵或鑄鋼鑄造成形,若 採用銲接法,不但可以節省材料,還可以減輕重量。 銲接工作大都採用加熱的方式,例如電弧銲、電阻銲、氧乙炔氣體銲與發熱銲接等。 其實銲接不一定要加熱,對軟金屬而言,只要有足夠的壓力讓接合面充分接近就可以使兩 金屬銲接在一起。"
+        },
+        {
+          "type": "heading",
+          "text": "5-1 銲接介紹"
+        },
+        {
+          "type": "heading",
+          "text": "5-1-1 銲接的意義"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂 銲接 (Welding),是令兩件金屬銲件之接合處接近至分子的吸引力範圍而產生結 合作用的製程,又稱為熔接。 可利用溫度或壓力使銲件吸引接合。軟金屬利用壓力就可接 近到吸引力範圍而接合。強度大的金屬變形抵抗大,光靠壓力無法完成銲接,所以通常加 熱至適當溫度,使兩者相互徹底熔化而接合。 熔化與壓力並非銲接的絕對要件,銲件可在 無壓力下徹底熔化;亦可在半熔化狀態下施加壓力;或者僅使填料熔化,而母材銲件本身 並不熔化;或者在母材之再結晶溫度以下施加壓力等皆可產生結合。銲接可視需要添加填 料或不加填料。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 提高機件性能與使用壽命。 知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "2. 降低生產成本。"
+        },
+        {
+          "type": "heading",
+          "text": "銲 電弧銲 P220"
+        },
+        {
+          "type": "heading",
+          "text": "3. 節省材料,減輕重量。"
+        },
+        {
+          "type": "heading",
+          "text": "接 以電弧所產生的高溫來熔"
+        },
+        {
+          "type": "heading",
+          "text": "4. 設計彈性大,產品形狀自由。"
+        },
+        {
+          "type": "heading",
+          "text": "法 化金屬,以達接合之目的"
+        },
+        {
+          "type": "heading",
+          "text": "5. 銲接方法多,選擇適合的方法容易。 者,稱為電弧銲接。"
+        },
+        {
+          "type": "heading",
+          "text": "的 優點"
+        },
+        {
+          "type": "heading",
+          "text": "6. 減少工時,增進作業效率。"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "heading",
+          "text": "7. 施工程序簡單,自動化容易。"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "heading",
+          "text": "8. 缺陷改正,或修補維護容易。"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        },
+        {
+          "type": "heading",
+          "text": "9. 適用於不同材料之接合。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 所需設備遠較鑄造、鍛造簡單。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 199"
+        },
+        {
+          "type": "heading",
+          "text": "銲"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "1. 為確保品質,銲接處常須經非破壞性檢驗。"
+        },
+        {
+          "type": "heading",
+          "text": "法"
+        },
+        {
+          "type": "heading",
+          "text": "2. 殘留應力及變形問題,無法完全避免。"
+        },
+        {
+          "type": "heading",
+          "text": "的 缺點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 大部分的銲接方法會產生強光、高熱及煙塵,工作環境不良。"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "heading",
+          "text": "4. 銲接處容易產生氣孔、夾渣、裂縫及偏析等缺陷,形成破壞的根源。"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        },
+        {
+          "type": "heading",
+          "text": "5-1-2 銲接法的分類"
+        },
+        {
+          "type": "heading",
+          "text": "銲接法可由下列四種不同依據而分類:"
+        },
+        {
+          "type": "heading",
+          "text": "一、依接合原理之分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "視施銲中加不加壓力,母材熔不熔化及是否有加填充料等,可將之分為三類: ( 一 ) 融接 (Fusion Welding) 融接是將欲接合金屬 ( 母材 ) 的接合處,加熱到熔融狀態後,與加入的銲料熔液 ( 亦 可不加銲料 ) 互相熔合,待冷卻凝固後接合為一體的銲接法。此種銲接法應用的層面最廣, 按其加熱方式的不同,可分為氣體銲接與電弧銲接兩大類。 (1) 遮蔽金屬電弧銲接 (Shielded Metal Arc Welding, SMAW) (2) 碳極電弧銲接 (Carbon Arc Welding, CAW) (3) 原子氫電弧銲接 (Atomic Hydrogen Welding, AHW) 電弧銲接 (4) 潛弧銲接 (Submerged Arc Welding, SAW) (Arc Welding, AW) (5) 氣體鎢極電弧銲接 (Gas Tungsten Arc Welding, GTAW) (6) 氣體金屬極電弧銲接 (Gas Metal Arc Welding, GMAW) (7) 銲藥芯電弧銲接 (Flux-cored Arc Welding, FCAW) (8) 電漿銲接 (Plasma Arc Welding, PAW) (1) 空氣乙炔銲接 (Air-acetylene Welding, AAW)"
+        },
+        {
+          "type": "heading",
+          "text": "氣體銲接"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 氫氧銲接 (Oxy-hydrogen Welding, OHW)"
+        },
+        {
+          "type": "heading",
+          "text": "(Gas Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 氧乙炔銲接 (Oxy-acetylene Welding, OAW)"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "氧乙炔氣體銲 P206"
+        },
+        {
+          "type": "heading",
+          "text": "乙炔與氧的混合氣,燃燒溫度達 3,500 °C,"
+        },
+        {
+          "type": "paragraph",
+          "text": "可用來接合鐵金屬或非鐵金屬。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "200"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 壓接 (Pressure Welding) 壓接是將要接合的兩金屬,加熱到很高的塑性狀態,再施加壓力,使兩者結合為一體 的銲接法。可分為鍛銲及電阻銲接兩大類。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 電阻銲接 (Resistance Welding, RW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 點銲接 (Resistance Spot Welding, RSW) (2) 接縫銲接 (Resistance Seam Welding, RSEW) (3) 浮凸銲接 (Resistance Projection Welding, RPW) (4) 端壓銲接 (Upset Welding, UW) (5) 衝擊銲接 (Percussion Welding, PEW) (6) 閃光銲接 (Flash Welding, FW)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鍛銲 (Forge Welding, FOW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 鑞接:軟銲與硬銲 (Soldering and Brazing) 鑞接是在兩銲件間的微小間隙處,以毛細作用滲入第三熔融金屬液 ( 銲料 ),凝固後將 兩銲件黏合的結合方式。可分為軟銲及硬銲兩種:銲料熔點在 430 °C ( 800 °F ) 以上者,稱 為硬銲; 430 °C以下者,稱為軟銲。鑞接之銲件本身並不熔化。此法廣用於板金作業、電 子零件,以及一般小零件的接合。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 軟銲 (Soldering)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 硬銲 (Brazing)"
+        },
+        {
+          "type": "heading",
+          "text": "二、依接合部位物態之分類"
+        },
+        {
+          "type": "heading",
+          "text": "1. 固態銲 (Solid State Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "接合部位不熔化,如鍛銲、冷銲、摩擦銲、擴散銲及超音波銲。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 液態銲 (Liquid State Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "接合部位藉熔化而融合,如電弧銲及氣銲。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 固、液態銲 (Solid-liquid State Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "接合部位之母材不熔化而填料熔化,如軟銲及硬銲。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "冷銲 P246"
+        },
+        {
+          "type": "heading",
+          "text": "冷銲接是在不加溫的情況下,僅使用壓力使金"
+        },
+        {
+          "type": "paragraph",
+          "text": "屬接合的銲接法,常用於線材和電器的連接。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 201"
+        },
+        {
+          "type": "heading",
+          "text": "三、依銲接能源之分類"
+        },
+        {
+          "type": "heading",
+          "text": "1. 電磁能銲法 (Electromagnetic Energy Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "以電弧或電阻所生之熱為銲接熱源者,如電弧銲及電阻銲。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 機械能銲法 (Mechanical Energy Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "以機械振動產生摩擦熱而接合者,如摩擦銲與超音波銲;或以壓力使接合件 表面原子互相擴散鍵結而銲合者,如冷銲。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 化學反應能銲法 (Chemical Reaction Energy Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用活性金屬或易燃氣體與氧氣化合時所產生之高溫熔解接合部位而銲合 者,如氣銲及鋁熱銲。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 結晶能銲法 (Crystalline Energy Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "以熔化之填料結合固體狀態之母材,如同用膠水黏合兩張紙一般,如軟銲及 硬銲。"
+        },
+        {
+          "type": "heading",
+          "text": "四、依操作方式之分類 知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "1. 手工銲 (Manual Welding)"
+        },
+        {
+          "type": "heading",
+          "text": "超音波銲 P243"
+        },
+        {
+          "type": "heading",
+          "text": "2. 半自動銲 (Semi-automatic Welding) 超 音 波 銲 是 利 用 高 頻 率 振 動 能"
+        },
+        {
+          "type": "heading",
+          "text": "(5,000~100,000Hz),傳送到相互接"
+        },
+        {
+          "type": "heading",
+          "text": "3. 機械式銲 (Machine Welding)"
+        },
+        {
+          "type": "heading",
+          "text": "觸的母材內面,使接觸面達到很高"
+        },
+        {
+          "type": "heading",
+          "text": "4. 全自動銲 (Automatic Welding) 的塑性狀態,並在壓力下接合的銲"
+        },
+        {
+          "type": "paragraph",
+          "text": "接法。 以上四種操作法之區別,如表 5-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 5-1 各類銲接操作方式之界定"
+        },
+        {
+          "type": "heading",
+          "text": "手工 半自動 機械式 全自動"
+        },
+        {
+          "type": "heading",
+          "text": "操"
+        },
+        {
+          "type": "heading",
+          "text": "作"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "式"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "較"
+        },
+        {
+          "type": "heading",
+          "text": "項"
+        },
+        {
+          "type": "heading",
+          "text": "目"
+        },
+        {
+          "type": "heading",
+          "text": "弧長控制 人 機器 機器 機器"
+        },
+        {
+          "type": "heading",
+          "text": "填料供給 人 機器 機器 機器"
+        },
+        {
+          "type": "heading",
+          "text": "銲炬運行 人 人 機器 機器"
+        },
+        {
+          "type": "heading",
+          "text": "接頭導引 人 人 人 機器"
+        },
+        {
+          "type": "heading",
+          "text": "操作人員 技工 技工 半技工"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "202"
+        },
+        {
+          "type": "heading",
+          "text": "5-1-3 銲接法之現況與趨勢"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲接法種類甚多、發展迅速,就目前工業上的應用而言,以電弧銲、氣銲及電阻銲等 三類使用最多,其中尤以 電弧銲具有:銲接速度快、熱量密集度高、銲件變形量小及適用 材料廣泛等基本優點,因此應用最廣及最具發展潛力。 隨著工業型態的轉變,不斷朝向提高品質、效率、降低成本及改善工作環境等趨勢發 展。因此,「高能量密度化」及「自動化」乃成為上述發展的手段。 就前者而言,銲接之 能量密度 ( 指接合部位每單位面積所承受之能量與功率 ) 高,可增大滲透深度,而提高銲 接效率,且銲件接頭部位及其鄰近區域受熱源影響的範圍較窄,因而減輕銲件變形、縮小 材質變化區,故可提高銲接品質。就後者而言,採用自動化程度較高的銲接法或就原有 銲接法予以適度的自動化,往往對品質、效率、成本及工作環境均有全盤性的改變,例如 GTAW、 GMAW 與電阻銲常用機械手取代人工銲接,藉以降低人工成本。但無論「高能量 密度化」或「自動化」銲接法的開發,都需在事前就品質、效率、成本及工作環境四者, 透過經濟及非經濟效益的分析予以整體地考量。 圖 5-1 所示者為機器人自動銲接設備之施工狀況。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-1 機器人自動銲接設備"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "電阻銲 P234"
+        },
+        {
+          "type": "heading",
+          "text": "電阻銲是藉低電壓、大電流通過欲接合之金屬,對"
+        },
+        {
+          "type": "paragraph",
+          "text": "接合部分同時加壓、加熱而完成接合目的的銲接法。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 203"
+        },
+        {
+          "type": "heading",
+          "text": "5-2 軟銲與硬銲"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲料之熔點在 430 °C ( 800 °F ) 以下者,稱為「軟銲」; 430 °C以上稱為「硬銲」。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 軟銲 (Soldering)"
+        },
+        {
+          "type": "paragraph",
+          "text": "軟 銲 之 銲 料 以 錫 ─ 鉛 合 金 為 主, 又 稱 為 銲 錫, 其 熔 點 視 其 成 分 比 例 而 定。 含 錫"
+        },
+        {
+          "type": "heading",
+          "text": "61.9%,而鉛為 38.1% 時為共晶合金,熔點最低 (188 °C ),熔融後流動性最佳。"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲錫以其成分百分比來稱呼,例如: 40-60 型,表示含 Sn40%,含 Pb60%。最常用者 為 50-50 型與 60-40 型。因為鉛具有毒性,對環境有害,所以目前已發展錫─銀、錫─鉍 與錫─銦等三種不含鉛的銲料,逐漸淘汰含鉛銲料。 施銲之前,以毛刷沾銲劑塗在銲縫邊緣,銲劑藉毛細作用滲入接合面,溶解氧化物。 銲劑並可增加銲液的流動性,以及在接合完成後形成浮渣,保護接合處,避免氧化。 一般 板金作業所用的軟銲劑,是以鋅片溶於鹽酸反應而成的氯化鋅為主,也可以直接用鹽酸。"
+        },
+        {
+          "type": "heading",
+          "text": "其化學反應為:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Zn + 2HCl → ZnCl 2 + H 2 ↑ 但是 氯化鋅具有腐蝕性,若用於電子零件,相當不利。如果改用化學活性差、無腐蝕性, 且具有乾燥與不傳導等特性的松香,其去除氧化物的能力雖不如氯化鋅,可是施銲後不必 清除銲劑,且具有防止接頭受氧化之作用,特別適合用作電線接頭的銲劑。 操作時,先將電烙鐵加熱。然後置於銲縫上,同時用線狀的銲錫置於縫上,則銲錫熔 化,自動流入縫內。如圖 5-2(a) 所示。加熱方式除了前述方法,還可以用氧乙炔氣炬、感 應生熱、電阻生熱、紅外線加熱與電爐加熱。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "204"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-2 軟銲與硬銲"
+        },
+        {
+          "type": "paragraph",
+          "text": "軟銲的銲接性因銲接母材而異:銅、銀和金容易銲接;鐵與鎳不易銲接;鋁與不鏽鋼 具有強的氧化層,銲接性特別差。 軟銲在工業上的應用範圍甚廣,例如水電配管、電子儀器線路連接、將電子零件銲接 於印刷電路板上 ( 如圖 5-3 所示 )、板金、罐頭容器與汽車水箱等。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-3 軟銲印刷電路板"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 205"
+        },
+        {
+          "type": "heading",
+          "text": "二、 硬銲 (Brazing):"
+        },
+        {
+          "type": "paragraph",
+          "text": "硬銲的接合方式與軟銲相同,如圖 5-2(b) 所示,不過其銲料的熔點較高。常見硬銲銲 料有:純銅、銅合金、銀合金、鎳鉻合金,以及鋁合金等,其中以銅合金使用最多。銀合 金之抗疲勞性好,通常用於冷凍機械,以及木工帶鋸鋸條之接合,可避免因材料在低溫脆 化,或由震動所引起的疲勞破壞。 硬銲之銲劑,可以單獨使用硼砂、硼酸, 或硼砂與若干鹽類的混合物。 硬銲的加熱方式可以用氧乙炔氣炬、感應生熱、電阻生熱、電子束加熱、雷射加熱、 紅外線加熱與電爐加熱。 常見的硬銲接合方式,有搭接、對接及斜接三種,如圖 5-4 所示。其中以搭接的接合 面積最大,強度最高,兩片金屬的搭合部分,大約為母材厚度的二倍。 硬銲具有下列優點: (1) 銲接面積廣; (2) 可結合異種材料; (3) 厚度差異很大的工件也 可以施銲; (4) 可精密銲接電子零組件; (5) 接頭不需進一步修飾; (6) 銲接後比較不會影響 母材的機械性質與微觀組織。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-4 硬銲之基本接合型式"
+        },
+        {
+          "type": "paragraph",
+          "text": "硬銲常應用於將碳化鎢刀片銲接在高碳鋼的刀把上,如圖 5-5 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-5 硬銲碳化鎢車刀"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "206"
+        },
+        {
+          "type": "heading",
+          "text": "5-3 氣銲"
+        },
+        {
+          "type": "paragraph",
+          "text": "氣銲是利用 自燃氣體 ( 氫氣、乙炔氣、天然氣 ) 與助燃氣體 ( 氧氣 ), 調成適當比例後, 經燒銲器混合、點火,放出大量熱量,藉以熔化接合金屬的銲接法。"
+        },
+        {
+          "type": "heading",
+          "text": "5-3-1 氣銲的分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "氣銲依燃氣成分的不同,可分為氫氧氣銲、空氣乙炔氣銲及氧乙炔氣銲三類。 氧乙炔 氣銲是三種方法中應用最廣者,所以通常所稱的「氣銲」就是指此一銲法。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 氫氧氣銲 (Oxy-hydrogen Welding, OHW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "氫與氧的混合氣,燃燒形成的火焰溫度只有 2,000 °C,只能用來銲接薄鋼板,以及熔 點較低的非鐵金屬, 例如: 鋁、 鉛及鋅等。 且氫氣的生產成本較高, 故目前使用的機會不多。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 空氣乙炔氣銲 (Air-acetylene Welding, AAW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "空氣與乙炔的混合氣,燃燒溫度很低,僅用於軟銲及硬銲工作。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 氧乙炔氣銲 (Oxy-acetylene Welding, OAW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "乙炔與氧的混合氣,燃燒溫度達 3, 500 °C ( 6, 300 °F ), 可用來接合鐵金屬或非鐵金屬。 在大量生產的工廠,氧氣與乙炔氣分別以固定的管路輸送到工作區。一般工作採用瓶裝, 氣瓶可置於推車上任意移動,機動性很高。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 207"
+        },
+        {
+          "type": "heading",
+          "text": "5-3-2 氧、乙炔氣的性質與火焰之形成"
+        },
+        {
+          "type": "paragraph",
+          "text": "燃燒有三要素:氧、燃料及著火溫度,三者缺一不可。 氧氣是無色、無味的氣體,大氣中約含有 21%( 容積百分率 ) 的氧氣。氧氣的製造, 可用電解法將水通電分解成氫及氧。亦可將空氣液化後令其蒸發,將氮與氧分離。製妥的 氧,再加壓裝入鋼瓶內,以氣態或液態貯存。氧氣較空氣重,高壓氧氣遇油脂會起猛烈燃 燒,需特別留意。 乙炔則是一種碳氫化合物,較空氣輕,無色但帶有似蒜頭之臭味 ( 銲接用之乙炔因溶 於丙酮內貯存,氣味與純乙炔稍有不同 )。 銲接用之乙炔氣是將電石 ( 碳化鈣 ) 加水分解而"
+        },
+        {
+          "type": "heading",
+          "text": "成,其化學反應如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "CaC 2 + 2H 2 O → Ca(OH) 2 + C 2 H 2 + 熱量。"
+        },
+        {
+          "type": "heading",
+          "text": "氧乙炔的火焰,依其成分比例的不同,可分為三種:"
+        },
+        {
+          "type": "heading",
+          "text": "碳化焰 ( 還原焰 ) 乙炔氣比氧氣多時所形成"
+        },
+        {
+          "type": "heading",
+          "text": "碳"
+        },
+        {
+          "type": "paragraph",
+          "text": "的火焰,如左圖所示。 其火焰長度最長,形"
+        },
+        {
+          "type": "heading",
+          "text": "化"
+        },
+        {
+          "type": "paragraph",
+          "text": "成白色錐體,焰溫最低。可用於非鐵金屬例"
+        },
+        {
+          "type": "heading",
+          "text": "焰"
+        },
+        {
+          "type": "paragraph",
+          "text": "如蒙納合金、鎳及合金鋼的銲接。"
+        },
+        {
+          "type": "heading",
+          "text": "中性焰 ( 標準火焰 ) 氧氣與乙炔氣的混合比"
+        },
+        {
+          "type": "paragraph",
+          "text": "為 1: 1 時所形成的火焰,如左圖所示。其"
+        },
+        {
+          "type": "heading",
+          "text": "中"
+        },
+        {
+          "type": "heading",
+          "text": "火焰尖端為光亮的錐體,錐體之外,圍以光"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "paragraph",
+          "text": "亮度較弱而 微具有青藍色的火焰。若與氧化"
+        },
+        {
+          "type": "heading",
+          "text": "焰"
+        },
+        {
+          "type": "heading",
+          "text": "焰、碳化焰相比,此種火焰最接近無色,廣"
+        },
+        {
+          "type": "paragraph",
+          "text": "用於碳鋼的銲接,以及切割工作。"
+        },
+        {
+          "type": "heading",
+          "text": "氧化焰 氧氣比乙炔氣多時所形成的火焰,如"
+        },
+        {
+          "type": "paragraph",
+          "text": "氧 左圖所示。 其火焰長度最短,呈藍色,且有 化 嗤嗤之聲,焰溫最高。僅用於青銅及黃銅的 焰 銲接。 三種火焰所適用之銲料與銲接金屬, 詳細資料見圖 5-6。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "208"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-6 火焰之選擇"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: ( 1 ) 中性焰適用於上列所有金屬,為主要用法。 ( 2 ) 碳化焰及氧化焰銲接依箭頭所指金屬時較佳 ( 標示“ P ”者更佳 ),為補充用法。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 209"
+        },
+        {
+          "type": "heading",
+          "text": "5-3-3 氣銲與切割之基本裝置及附件"
+        },
+        {
+          "type": "paragraph",
+          "text": "氣銲與切割之基本裝置及附件如圖 5-7 所示,茲就主要裝置簡述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "一、氣體供應裝置"
+        },
+        {
+          "type": "heading",
+          "text": "2 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲接用氧、乙炔以採用瓶裝為主。氧氣瓶內壓力高達 154kg/cm,瓶內可儲存 2 ∼ 8.5m 之氣體。 由於氣壓高,氧氣瓶必須是鋼製之無縫瓶。 乙炔氣瓶採用銲接鋼瓶,如圖 5-7 所示。 在瓶底或肩部裝置低熔點合金製成之安全熔 塞,當溫度超過時,安全熔塞自動熔化,使瓶內乙炔氣外逸,而防止鋼瓶之爆炸。 乙炔可 溶解於水或其他液體中,其溶解度隨液體種類改變。一般採用的 丙酮 (Acetone),在 25 °C與 一大氣壓的環境下,每公斤可溶解 18 公升的乙炔。由於乙炔在毛細管中比較安定,不容易 爆炸,因此鋼瓶中通常裝有多孔物質,早期用稻草或榖殼,現時則用木炭粉粒 70% 加石棉 30% 充分攪拌均勻後灌進容器壓緊乾燥而成,比重約 0.3 ∼ 0.4,多孔度則為 70 ∼ 75%。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-7 氧乙炔氣銲與切割之基本裝置及附件"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "護目鏡"
+        },
+        {
+          "type": "heading",
+          "text": "為避免銲接時所產生之濺渣與強光傷到眼睛,應配戴如"
+        },
+        {
+          "type": "paragraph",
+          "text": "左圖所示,具有能遮蔽強光效果之護目鏡,以保護眼睛, 避免被強光直射。"
+        },
+        {
+          "type": "heading",
+          "text": "切割炬"
+        },
+        {
+          "type": "paragraph",
+          "text": "要作切割工作時應以左圖所示之切割炬替換銲炬。"
+        },
+        {
+          "type": "heading",
+          "text": "手套"
+        },
+        {
+          "type": "heading",
+          "text": "銲接過程或工作結束後拿取工件必須戴上如左圖所示之"
+        },
+        {
+          "type": "paragraph",
+          "text": "皮手套,避免高溫的工件燙傷手指。"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦火花點火器"
+        },
+        {
+          "type": "heading",
+          "text": "點火時要用左圖所示之摩擦火花點火器,若使用火柴容"
+        },
+        {
+          "type": "paragraph",
+          "text": "易燒傷手部。"
+        },
+        {
+          "type": "paragraph",
+          "text": "氣瓶之外表通常塗有不同顏色之漆,以資識別。表 5-2 所示者為 CNS 規格, 將乙炔氣 瓶塗成咖啡色 ( 褐色 ),氧氣瓶塗成黑色。 氣銲施工時,由於操作不慎、火口堵塞或其他情形,很容易造成逆火 ( 倒燃 ) 現象。 通常在壓力錶和銲炬中間加裝一個單向止回閥,使氣體形成單向流動,即可避免因逆火而 產生爆炸。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 211"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 5-2 高壓氣瓶外表之顏色"
+        },
+        {
+          "type": "heading",
+          "text": "氣體名稱 塗色"
+        },
+        {
+          "type": "heading",
+          "text": "氧氣或空氣 黑"
+        },
+        {
+          "type": "heading",
+          "text": "氫氣等可燃性氣體 硃紅"
+        },
+        {
+          "type": "heading",
+          "text": "氮、氬、氦及其他惰性氣體 銀灰"
+        },
+        {
+          "type": "heading",
+          "text": "二氧化碳 翠綠"
+        },
+        {
+          "type": "heading",
+          "text": "笑氣 孔雀藍"
+        },
+        {
+          "type": "heading",
+          "text": "氯氣 檸檬黃"
+        },
+        {
+          "type": "heading",
+          "text": "乙炔氣 咖啡色 ( 褐色 )"
+        },
+        {
+          "type": "heading",
+          "text": "註: CNS 12242 與 CNS 2724"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "212"
+        },
+        {
+          "type": "heading",
+          "text": "二、 調節器 (Requlator)"
+        },
+        {
+          "type": "paragraph",
+          "text": "氣瓶內的高壓氧氣及乙炔均需經氣壓調節器降低始能適用於銲接或氣切工作,圖 5-8 所示者為氧氣壓力調節器 ( 壓力錶 )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-8 氧氣壓力調節器"
+        },
+        {
+          "type": "paragraph",
+          "text": "調節器依降壓步驟可分為單級式及雙級式二種。前者直接一次將瓶內壓力 ( 於調節器 之高壓錶顯示 ) 降至操作者設定之工作壓力 ( 於調節器之低壓錶顯示 ),但使用中隨瓶內壓 力降低需經常重新調整以回復原設定之工作壓力;雙級式降壓分為二步,第一步將瓶內高 壓降為中壓,第二步再將中壓降為工作低壓,因此,較單級式精確且使用中不需因瓶內壓 力變化而經常重新調壓,但造價較高且售價貴,目前仍以單級式較普遍。"
+        },
+        {
+          "type": "heading",
+          "text": "三、橡皮管"
+        },
+        {
+          "type": "paragraph",
+          "text": "氧、乙炔氣之橡皮管,為配合銲接效用,須選用安全之特製橡皮,可撓曲、能耐高壓 及中溫。為便於識別, 氧氣管為綠色或黑色,且與調節器出口及銲炬入口之接頭螺帽用右 螺紋;乙炔氣管為紅色,接頭螺帽用左螺紋。 圖 5-9 所示者,為銲接氣炬與橡皮管。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-9 銲接氣炬與橡皮管"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 213"
+        },
+        {
+          "type": "heading",
+          "text": "四、銲炬"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "氧乙炔的氣炬有兩種: (1) 射吸式之乙炔壓力不到 0.5kg/cm,而氧氣的壓力約為 2 ∼"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "3kg/cm,利用氧氣高速噴出所造成的真空,將乙炔吸進混合室; (2) 等壓式之氧氣與乙炔 氣以等壓力和相同的流速進入混合室。目前使用的大都為等壓式。圖 5-10 所示者,為氣炬 的構造圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-10 氣炬"
+        },
+        {
+          "type": "heading",
+          "text": "五、火口 ( 火嘴 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "火嘴通常以導熱度高之銅合金製成,其大小應隨板厚成正比變化。 我國常用日製銲炬 火口。 1 號之孔徑為 0.7mm, 50 號之孔徑為 3.9mm。圖 5-11 所示者,為切割用火嘴。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-11 切割用火嘴"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "5-3-4 氧乙炔氣銲之基本技巧"
+        },
+        {
+          "type": "paragraph",
+          "text": "氣銲操作技巧中,依銲炬之火口指向與銲接移行方向之關係可分為前手銲 ( 推向銲 ) 及後手銲 ( 拖向銲 ),如下所示。"
+        },
+        {
+          "type": "heading",
+          "text": "前手銲之銲條在火口之前,火焰指向即將施"
+        },
+        {
+          "type": "heading",
+          "text": "前"
+        },
+        {
+          "type": "heading",
+          "text": "銲部位先行預熱,有利於小熔池 ( 銲接金屬"
+        },
+        {
+          "type": "heading",
+          "text": "手"
+        },
+        {
+          "type": "paragraph",
+          "text": "凝固前之液態區 ) 之控制。適用於厚度 3.2mm"
+        },
+        {
+          "type": "heading",
+          "text": "銲"
+        },
+        {
+          "type": "paragraph",
+          "text": "及以下之銲材,最為廣用。"
+        },
+        {
+          "type": "heading",
+          "text": "後手銲之銲條在火口之後,火焰指向熔池及"
+        },
+        {
+          "type": "heading",
+          "text": "後"
+        },
+        {
+          "type": "heading",
+          "text": "已完成之銲道,銲填率較大、根部熔合 ( 滲"
+        },
+        {
+          "type": "heading",
+          "text": "手"
+        },
+        {
+          "type": "paragraph",
+          "text": "透 ) 狀 況 較 佳, 適 用 於 厚 度 3.2mm 以 上之"
+        },
+        {
+          "type": "heading",
+          "text": "銲"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲材。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-12 氣銲銲炬及銲條角度"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 215"
+        },
+        {
+          "type": "paragraph",
+          "text": "在氣銲操作中,銲炬和銲條的角度,一般在前手銲時,銲炬為推角,銲條為拖角;在 後手銲時銲炬為拖角,銲條為推角。至於角度大小一般依板厚決定, 板厚愈大,則兩移行 角隨之減小 ( 與工件之夾角大 ) 以獲得較佳之滲透 ( 見圖 5-12)。初學者宜採較大之移行角 以便利熔池控制。圖 5-13 為各銲接位置前手銲時,銲炬及銲條移行角度之圖例──此等槽 銲之工作角皆為 90 ° ( 如圖 5-12(b) 所示平銲圖例 )。 此外,在寬銲道施銲中,銲炬火口可依圖 5-14 所示之常見圓形或半圓形織動,以均勻 分配熱源和熔融金屬。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-13 銲接位置與銲炬、銲條角度"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "216"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-14 氣銲織動法"
+        },
+        {
+          "type": "heading",
+          "text": "氣銲設備壓力調整及點火順序:"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 01 使用套筒扳手打開氧氣瓶上之氣閥。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 02 順時針方向旋轉,調整氧氣調節器之調節螺桿至工作壓力,約在 1~5kg/cm ( 實際壓力,可依板厚及其它因素決定 )。 STEP 03 將套筒扳手移至乙炔氣瓶上,緩慢打開乙炔氣瓶上氣閥。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 04 調整乙炔調節器調節螺桿調至工作壓力,約在 0.1 ~ 0.5kg/cm ( 實際壓力, 可依板厚及其它因素決定 ),最後並將套筒扳手留在乙炔氣瓶上 ( 注意: 乙炔"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "工作壓力勿超過 1kg/cm )。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 05 打開銲炬上乙炔閥約 轉,利用摩擦式點火器或專用點火器點火。"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 06 點燃火焰後,迅速打開銲炬上之氧氣閥,調整至操作之火焰,如中性焰 ( 註: 氧氣閥太晚打開,會造成黑煙產生 )。 註: 點火順序,亦有先開啟氧氣,再開啟乙炔氣後再點火者,這過程會減少黑煙產生,但 容易形成爆燃,操作不易,易形成逆火情形。"
+        },
+        {
+          "type": "heading",
+          "text": "熄火時應依下列順序操作:"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEP 01 先關閉銲炬上氧氣閥,再關閉乙炔氣閥。 STEP 02 先關閉乙炔瓶上氣閥,再關閉氧氣瓶上氣閥。 STEP 03 打開銲炬上乙炔氣閥及氧氣閥,以放除調節器及管路中之殘留氣體。 STEP 04 放鬆調節器調節螺桿至無彈簧張力之感覺。 STEP 05 關閉銲炬上乙炔氣閥及氧氣閥。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 217"
+        },
+        {
+          "type": "heading",
+          "text": "5-3-5 氣銲條"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲條 (Welding Rods) 又稱為填料或熔填金屬,可於銲接時熔填於銲接部位形成銲道。 銲條之化學成分應儘量選用與母材相近者。在銲接強度要求較高的銲件,所選用的氣銲條 強度要高於銲件本身。 軟鋼銲接時氧化情形不大,可以不加銲藥。其他材料銲接可用硼砂、硼酸、氟化物或 氯化物等銲藥。 用途最廣,用於構造用鋼、汽車板金與其他薄板的修護與銲補。此種 軟鋼氣銲條 銲條的外表通常鍍上一層紫銅 ( 純銅 ) 以避免生鏽,或預塗一層銲藥 以改善銲接條件。 不鏽鋼氣銲條 用於各類不鏽鋼之銲接。 鋁及鋁合金氣銲條 適用於純鋁或鋁合金的銲接。 銅及銅合金氣銲條 適用於銅合金、軟鋼、鑄鐵或其他合金的銲接。 鑄鐵氣銲條 適用於鑄鐵的銲補。"
+        },
+        {
+          "type": "heading",
+          "text": "5-3-6 氧乙炔氣體切割"
+        },
+        {
+          "type": "paragraph",
+          "text": "氧乙炔氣體切割簡稱氣切,如圖 5-15 所示。 氣切之火嘴構造與銲接用者不同,氣銲銲 炬的火嘴中心只有一孔,可噴出氧乙炔的混合氣, 如圖 5-16(a) 所示。 氣切氣炬的火嘴中心 有一個較大的孔,可噴出純氧,另有一同心圓孔,噴出氧乙炔的混合氣, 如圖 5-16(b) 所示。 操作時, 先以氧乙炔中性火焰將切割處加熱到暗紅色,接著由中心孔噴出純氧,利用氧與 鐵的高度親和力,瞬間將鋼料氧化成氧化鐵, 同時釋放出大量的熱熔解氧化鐵,並預熱其 餘的材料。熔融狀態的氧化鐵在純氧的吹襲下脫離母材成為切割縫。 氧乙炔氣的壓力不因 工件厚薄而改變。中心孔吹出的氧氣壓力與工件厚度成正比,工件愈厚,壓力愈大,火嘴 亦愈大。 圖 5-10(c) 所示者為切割氣炬的構造圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-15 火炬切割"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "218"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-16 火嘴構造"
+        },
+        {
+          "type": "heading",
+          "text": "5-3-6 氣銲與切割之安全規則"
+        },
+        {
+          "type": "heading",
+          "text": "1. 確認所有裝置皆為合格品,且安裝妥當、工作狀況正常。檢查接頭是否漏氣時應利"
+        },
+        {
+          "type": "paragraph",
+          "text": "用肥皂水,絕不可使用火焰檢查。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 穿戴適用於銲接或切割的防護衣物。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 保持工作場所清潔且附近無危險物品。尤其切割時火花可濺及數公尺,切勿使火花"
+        },
+        {
+          "type": "paragraph",
+          "text": "觸及橡皮管、調節器或氣瓶。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 搬運氣瓶時應特別小心,勿使撞擊,不使用時應加瓶蓋。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 使用中,務使氣瓶固持於牆、柱或其它結構體,並使氣瓶直立 ( 尤其是乙炔氣瓶 ),"
+        },
+        {
+          "type": "paragraph",
+          "text": "且遠離熱源。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 儲放氣瓶時應置於安全、通風之場所,氧、乙炔氣瓶應分開。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 絕不可將氧氣作為任何壓縮空氣之用。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 調節工作壓力及開關瓶閥時應緩慢、小心。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 安裝氧氣調節器於氧氣氣瓶之前,宜觀察接頭螺紋是否有灰塵等其他積存之污物,"
+        },
+        {
+          "type": "paragraph",
+          "text": "若有則可打開氣閥隨即關閉 ( 注意!開啟氣閥時,不可對著人操作 ),以沖除瓶口 內積存之污物,並確認所有接頭螺紋皆乾淨且能鎖緊。乙炔氣瓶則禁止打開氣閥進 行清除積存污物之動作。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 銲接或切割鉛、鎘、鉻、錳、黃銅、青銅、鋅或鍍鋅鋼材時,應在銲切處裝設強制"
+        },
+        {
+          "type": "paragraph",
+          "text": "通風,以排除有毒氣體。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 219"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 電銲"
+        },
+        {
+          "type": "paragraph",
+          "text": "電弧是在大電流 ( 直流電銲機之二次電流為 5 ~ 1500 A) 以及低電壓 ( 10 ~ 50 V) 下通 過一離子化之氣體時產生的放電現象, 如圖 5-17 所示。以電弧所產生的高溫來熔化金屬, 以達接合之目的者,稱為電弧銲接,簡稱「電銲」。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-17 直流正極性電弧示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "5-4-1 銲接電弧的形成與特色"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲接電弧 (Welding Arc) 係以一種點至面的幾何形狀存在;點為電極端,面為工件上電 弧之作用面。依電弧產生時電極消耗與否可分為兩種類型,即消耗性電極電弧與非消耗性 電極電弧:前者有 遮蔽金屬極電弧銲接 (SMAW)、 惰氣金屬極電弧銲接 (GMAW) 及 潛弧 銲接 (SAW) 等; 後者有 碳極電弧銲接 (CAW)、 惰氣鎢極電弧銲接 (GTAW) 及 電漿銲接 (PAW) 等。 電弧長度與電弧電壓成正比,但電弧增至某一長度時會突然熄滅。電弧柱之斷面通常 由兩聚集區組成,即內焰心 ( 或電離氣 ) 及外焰心。電離氣帶大量電流,溫度可達 5,000 ∼ 50,000 °C;外焰較冷,主要作用是將電離氣維持集中在內。電離氣的溫度及斷面直徑依電 流、保護氣罩、銲條大小及種類而定。 在電極與工件間的電弧分成三區:中央區、電極鄰近區與工件鄰近區。電極、工件兩 鄰近區由於電極、工件的冷卻作用、電壓突降,稱為陽極與陰極壓降;而中央區 ( 或稱電 弧柱 ) 之長度佔 99% 之弧長且長度與電壓成正比。圖 5-18 即為電弧熱與電壓在此三區之 分佈。在中央區,電流引起之圓形磁場圍繞電弧收緊電離氣形成 緊束效應 (Pinch Effect)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "220"
+        },
+        {
+          "type": "paragraph",
+          "text": "陰極壓降係電弧柱與陰極間之連結,在陰極點上有相當高之溫度與電壓降,電子由陰 極點發射至電弧柱,此電子流之平穩度可決定電弧的穩定度。 碳與鎢之熔點高,且為良好 的電子熱發射體,可用為非消耗性電極。 陽極壓降係電弧柱與陽極間之連結,其間之溫度變化不大。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-18 弧長 - 電壓與熱"
+        },
+        {
+          "type": "paragraph",
+          "text": "交流機所連接的電極與工件,因無正、負極之分,兩者所生的熱一樣多。直流機按其 極性有不同的接法。 如圖 5-19(a) 所示者,稱之為 直流正極性 (DC Straight Polarity, DCSP) 或 電極負 (DC Electrode Negative, DCEN),係將工件接正極,銲條接負極。由於電子由負極衝向正極,"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此工件所生的熱量較多 ( 佔總熱量的 ),其電弧穿透力較深,但銲條熔融率較低,適"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "合銲接厚度較大的工件。 圖 5 - 19 (b) 所示者,稱為 直流反極性 (DC Reverse Polarity, DCRP) 或 電極正 (DC Electrode Positive, DCEP),係將工件接負極,銲條接正極。則銲條生熱較多,其電弧 穿透力較淺,銲條熔得快、熔填率較高,適合銲接較薄的材料。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-19 DC 銲接機的極性"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 221"
+        },
+        {
+          "type": "heading",
+          "text": "5-4-2 電銲之基本裝置"
+        },
+        {
+          "type": "paragraph",
+          "text": "電銲之裝置線路如圖 5-20 所示,線路由電銲機開始,包括兩銲接電纜 ( 電極電纜與工 件電纜 )、一銲條手把、銲條及工件等。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-20 電銲裝置之典型線路"
+        },
+        {
+          "type": "paragraph",
+          "text": "電銲機的基本元件如圖 5-21 所示,其中 降壓裝置旨在將輸入之高電壓降為電銲適用之 低電壓、大電流。 電銲機的電源,可用直流 (DC) 或交流 (AC)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "222"
+        },
+        {
+          "type": "heading",
+          "text": "1. 價廉"
+        },
+        {
+          "type": "heading",
+          "text": "2. 重量輕"
+        },
+        {
+          "type": "heading",
+          "text": "交 3. 故障易修理"
+        },
+        {
+          "type": "heading",
+          "text": "優點"
+        },
+        {
+          "type": "heading",
+          "text": "4. 效率高"
+        },
+        {
+          "type": "heading",
+          "text": "流"
+        },
+        {
+          "type": "heading",
+          "text": "5. 使用方便"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "6. 不會發生偏弧現象"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "heading",
+          "text": "1. 電弧不穩定"
+        },
+        {
+          "type": "heading",
+          "text": "點 2. 必須使用塗料銲條"
+        },
+        {
+          "type": "heading",
+          "text": "缺點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 觸電危險性大"
+        },
+        {
+          "type": "heading",
+          "text": "4. 無極性之分"
+        },
+        {
+          "type": "heading",
+          "text": "1. 直流機具有電弧穩定"
+        },
+        {
+          "type": "heading",
+          "text": "2. 金屬熔入量大"
+        },
+        {
+          "type": "heading",
+          "text": "直 優點 3. 電壓較低"
+        },
+        {
+          "type": "heading",
+          "text": "流 4. 觸電危險性小"
+        },
+        {
+          "type": "heading",
+          "text": "機 5. 容易立銲與仰銲"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "heading",
+          "text": "1. 容易故障"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "heading",
+          "text": "2. 價格較貴"
+        },
+        {
+          "type": "heading",
+          "text": "點 缺點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 重量及體積較大"
+        },
+        {
+          "type": "heading",
+          "text": "4. 容易發生偏弧現象"
+        },
+        {
+          "type": "paragraph",
+          "text": "電銲機設定之電流約為銲條直徑之 40 倍。 電弧長度與電流、 電壓成正比, 電流愈大時, 弧長愈長且愈不易熄火。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-21 電銲機之元件"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 223"
+        },
+        {
+          "type": "heading",
+          "text": "5-4-3 電極與銲條"
+        },
+        {
+          "type": "paragraph",
+          "text": "電銲係將電流接在電極與銲件。 電極可為非消耗式,例如碳棒 ( 石墨 ) 或鎢,碳極電 弧銲接、原子氫電弧銲接、惰氣鎢極電弧銲接及電漿銲接等屬於此類; 亦可為消耗式,例 如碳鋼, 遮蔽金屬電弧銲接、潛弧銲接及惰氣金屬極電弧銲接屬之。 銲條可填補銲道,消耗式電極本身就是銲條。若使用非消耗式電極時,須另外將銲條 插入銲道上方的電弧中。 常見的電銲用塗料銲條如圖 5-22 所示,由芯線和銲劑塗層兩主要部分組成。芯線 ( 金 黃色部分 ) 旨在導電及充當填料金屬之用, 銲劑塗層 ( 灰色部分 ) 則有下列一項或多項功能:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 穩定電弧。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 產生保護性的氣層。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 減少熔融金屬的濺散。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 產生銲渣浮在銲道表面,保護已熔化的金屬。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 增加電弧的穿透深度。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 除去氧化物,以及其他雜質。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 使銲珠的形狀更美觀而均勻。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 便於作各種位置之銲接。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 可在銲道中加入其他合金成分。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 減低冷卻速度,避免材質脆化。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 增加銲珠與母材的附著效果。"
+        },
+        {
+          "type": "heading",
+          "text": "12. 可獲得精煉金屬的效果。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-22 電銲條"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "224"
+        },
+        {
+          "type": "heading",
+          "text": "被覆式銲條的 CNS 規格表示法,舉例說明如下"
+        },
+        {
+          "type": "heading",
+          "text": "CNS E 43 12"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 1 ( ) 2 ( ) 3 ( ) 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 表示 中華民國國家標準規格 (Chinese National Standard)。 (2) 表示被覆式電銲條。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 3 ) 表示銲縫的抗拉強度, 43 表示最低抗拉強度為 43 kg/mm。 (4) 表示銲接電流之種類、極性,以及銲接位置等 ( 參照表 5-3)。 ▼ 表 5-3 熔填金屬之機械性能、被覆系統、銲接位置及極性 (CNS)"
+        },
+        {
+          "type": "heading",
+          "text": "抗拉強度 降伏點 延長率 (%) 比衝擊值"
+        },
+        {
+          "type": "heading",
+          "text": "銲接種類 2 2 2 被覆系統 銲接位置及極性"
+        },
+        {
+          "type": "paragraph",
+          "text": "kg/mm kg/mm CL=50mm kg-m/cm"
+        },
+        {
+          "type": "heading",
+          "text": "F、 H、 V、 OH、 A.C"
+        },
+        {
+          "type": "heading",
+          "text": "E4300 43 35 22 3.5 未指定"
+        },
+        {
+          "type": "heading",
+          "text": "或 D.C"
+        },
+        {
+          "type": "heading",
+          "text": "F、 H、 V、 OH、 C 或"
+        },
+        {
+          "type": "heading",
+          "text": "E4301 43 35 22 ─ 鈦鐵礦系"
+        },
+        {
+          "type": "heading",
+          "text": "D.C"
+        },
+        {
+          "type": "heading",
+          "text": "F、 H、 V、 OH、 A.C"
+        },
+        {
+          "type": "heading",
+          "text": "E4303 43 35 22 ─ 鹼性鈦礦系"
+        },
+        {
+          "type": "heading",
+          "text": "或 D.C"
+        },
+        {
+          "type": "heading",
+          "text": "F、 H、 V、 O H、"
+        },
+        {
+          "type": "paragraph",
+          "text": "E4310 43 ~ 50 35 22 ─ 鈉纖維素系"
+        },
+        {
+          "type": "heading",
+          "text": "D.C(R)"
+        },
+        {
+          "type": "heading",
+          "text": "F、 H、 V、 OH、 A.C"
+        },
+        {
+          "type": "paragraph",
+          "text": "E4311 43 ~ 55 38 ~ 44 22 ~ 30 3.5 鉀纖維素系"
+        },
+        {
+          "type": "heading",
+          "text": "或 D.C(R)"
+        },
+        {
+          "type": "heading",
+          "text": "F、 H、 V、 OH、 A.C"
+        },
+        {
+          "type": "paragraph",
+          "text": "E4312 43 38 ~ 44 22 ~ 30 3.5 鈉氧化鈦系"
+        },
+        {
+          "type": "heading",
+          "text": "或 D.C(S)"
+        },
+        {
+          "type": "heading",
+          "text": "F、 H、 V、 OH、 A.C"
+        },
+        {
+          "type": "paragraph",
+          "text": "E4313 48 ~ 54 40 ~ 45 22 ~ 26 ─ 鉀氧化鈦系"
+        },
+        {
+          "type": "heading",
+          "text": "或 D.C(S)"
+        },
+        {
+          "type": "heading",
+          "text": "F、 H、 V、 O H、"
+        },
+        {
+          "type": "heading",
+          "text": "E4315 43 37 25 ─ 鹽基系"
+        },
+        {
+          "type": "heading",
+          "text": "D.C(R)"
+        },
+        {
+          "type": "heading",
+          "text": "F、 V、 H、 OH、 A.C"
+        },
+        {
+          "type": "paragraph",
+          "text": "E4316 48 ~ 56 43 ~ 46 26 ~ 35 6.0 鹽基系"
+        },
+        {
+          "type": "heading",
+          "text": "或 D.C"
+        },
+        {
+          "type": "paragraph",
+          "text": "E4320 44 ~ 48 42 ~ 48 26 ~ 32 3.5 氧化鈦系 F、 H-Fi A.C 或 D.C E4330 44 ~ 50 38 ~ 44 26 ~ 35 3.5 氧化鐵系 F、 A.C 或 D.C 註:極性: S(DCSP); R(DCRP)。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 225"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲接之位置 ( 姿勢 ),主要的有四種,即: 平銲 (Flat, F)、 橫銲 (Horizontal, H)、 立 銲 (Vertical, V) 及 仰銲 (Overhead, OH 或 O),如圖 5-23 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "平銲 (Flat, F) 橫銲 (Horizontal, H)"
+        },
+        {
+          "type": "paragraph",
+          "text": "立銲 (Vertical, V) 仰銲 (Overhead, OH 或 O)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-23 銲接位置"
+        },
+        {
+          "type": "heading",
+          "text": "5-4-4 電銲之銲接程序"
+        },
+        {
+          "type": "heading",
+          "text": "一、銲條線徑"
+        },
+        {
+          "type": "paragraph",
+          "text": "電銲時,銲條線徑之選擇應依母材厚度、銲接位置及接頭型式而定:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 母材厚度"
+        },
+        {
+          "type": "paragraph",
+          "text": "厚材料選用大銲條且用大電流,以獲得完全熔合、較佳的滲透以及較大之熔填 速率。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 銲接位置"
+        },
+        {
+          "type": "paragraph",
+          "text": "在非平銲位置時,由於重力作用使熔融金屬傾向於流開接頭,因此不宜採用大 銲條,以免造成大熔池。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 接頭型式"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲接 V 槽底部宜用小徑銲條,以便接近銲接部位並控制完全滲透,表面覆層則 用較大銲條以增大滲透深度及熔填速率。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "226"
+        },
+        {
+          "type": "heading",
+          "text": "二、銲接電流"
+        },
+        {
+          "type": "paragraph",
+          "text": "電流量與熔填速率成正比。各種銲條之最佳電流值選擇,應能使接頭獲得良好之熔合、 滲透及適當控制熔池。在立銲及仰銲時,其最佳電流值可用電流範圍之下限。 電流過大時, 易形成濺渣多、偏弧大、燒蝕及金屬銲裂等。"
+        },
+        {
+          "type": "heading",
+          "text": "三、電弧長度"
+        },
+        {
+          "type": "paragraph",
+          "text": "電銲施銲時,由於銲條端不斷熔化,以致於弧長隨時改變,欲控制妥當並不容易。 弧 長太短時電弧不穩定,且金屬轉移時易短路。弧長太長時電弧易喪失方向性與密集度,熔 融金屬轉移時易分散,致使濺渣多、熔填效率低,且塗層產生的氣罩不足以保護熔池,而 造成氣孔與氧、氮之污染。電弧長度約等於芯線直徑。"
+        },
+        {
+          "type": "heading",
+          "text": "四、移行速率"
+        },
+        {
+          "type": "paragraph",
+          "text": "電銲移行速率之控制以使電弧稍微領先熔池為準。移行速率愈快愈容易造成銲蝕、偏 弧、氣孔及不規則銲道形狀。若移行速率太慢則銲道高凸,易產生銲道龜裂。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 偏弧 (Arc Blow)"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用直流電銲機從事銲接工作時,因導電通路、電銲條、銲件及接地夾鉗之位置等因 素,當大電流通過此導體,感應產生與導體方向垂直之磁場,而使電弧偏離預定方向和路 徑,逼使熔金飄離銲縫,此種電弧不穩的現象稱為偏弧。 偏弧係由磁場密度不均勻所造成, 故也稱為 磁吹 (Magnetic Blow)。 偏弧現象只發生在直流銲接機之操作上,在交流銲接機則無此現象。 偏弧現象如圖 5-24 所示,依其偏向與銲接方向之關係,可分成前偏弧與後偏弧。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-24 銲接中熔金之磁場分佈情形"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 227"
+        },
+        {
+          "type": "heading",
+          "text": "5-4-5 電銲的種類"
+        },
+        {
+          "type": "heading",
+          "text": "一、 遮蔽金屬電弧銲接 (Shielded Metal Arc Welding, SMAW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-25 所示,利用可消耗式的金屬棒 ( 電銲條 ) 作為電極,連接在電源的一端,另 一端連接工件,電弧產生在兩者之間,將兩者熔化,並以熔化的銲條充當填料。此法是很 廣用的電弧銲接法。 遮蔽金屬電弧銲接係以銲條覆層之銲藥,隨銲條熔化時氣化與熔化而形成氣體保護層 與熔渣保護銲道,與潛弧銲接以粉粒狀銲藥預灑在銲道表面之方式不同。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-25 遮蔽金屬電弧銲接"
+        },
+        {
+          "type": "heading",
+          "text": "二、 碳極電弧銲接 (Carbon Arc Welding, CAW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-26 所示,利用碳棒為電極以產生電弧,熔化母材金屬而銲接之。若需填料金屬, 則另將獨立的銲條插入電弧中受熱而熔解。單碳棒的碳極電弧銲接必須使用直流正極性連 接法,否則電弧不穩定。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-26 碳極電弧銲接"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "228"
+        },
+        {
+          "type": "heading",
+          "text": "三、 原子氫電弧銲接 (Atomic Hydrogen Welding, AHW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "原子氫電弧銲接的原理如圖 5-27 所示, 在氫氣流中以兩支鎢棒電極引發電弧,使分子 狀態的氫氣分離成原子狀態;原子狀態的氫氣在銲接面上還原成分子狀態。此種反應可產 生 6,000 °C以上的高溫,用以熔化接合處。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 5-27 原子氫電弧銲接 ( 取材自參考書目 21) 銲接在氫氣氣流中進行,可防止氧化及氮化,銲道表面美觀、組織均勻。但因構造複 雜、成本高又會產生氫脆性 ( 銲道因氫氣因素而逐漸脆化 ),已被 P.230 五、氣體鎢極電弧 銲接 (TIG) 及 P.231 六、氣體金屬極電弧銲接 (MIG) 所取代。"
+        },
+        {
+          "type": "heading",
+          "text": "四、 潛弧銲接 (Submerged Arc Welding, SAW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "潛弧銲接又稱為埋弧銲接,是以 粉狀銲藥 (Granular Flux) 覆蓋在銲接部位,將銲線 插入銲縫中,在銲線末端與母材間產生電弧來進行銲接。 在銲接進行中,弧光並不外洩, 而且銲液亦不濺散。如圖 5-28 所示,操作時銲藥由銲藥桶落下在銲線前方,保持一定距離, 順著銲縫同速前進,整捲的銲線在銲接進行中不斷地往下補充。此法大都採用全自動或半 自動操作, 一般僅限於水平位置直線縫的銲接。此法主要用於低碳鋼或合金鋼的銲接,有 時也可用於銲接非鐵金屬。 潛弧銲接可用大電流施銲,電流值可大於手工銲接之 10 倍左右,所以效率特別高, 最適合如輪船甲板與戰車車身等之大厚度鋼板之銲接,其銲接厚度可達 650mm。由於穿透 力強,所以不適合銲接厚度小於 6mm 的鋼板。受到操作方式的限制,此法較難施銲短銲 道或構造複雜的銲件。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Ch 0 「 5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "230"
+        },
+        {
+          "type": "heading",
+          "text": "五、 氣體鎢極電弧銲接 (Gas Tungsten Arc Welding, GTAW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "GTAW 又稱為 TIG(Tungsten Inert Gas),係以非消耗性的鎢棒為電極,與工件間產 生電弧,另加銲條作為填充金屬 ( 亦可不加填充金屬 ) 加以熔合。銲接時並從氣體護罩中 噴出氬氣或氦氣等保護氣,避免銲道氧化。 其中以氬 (Ar) 氣最為廣用,故外面工廠通常稱 之為氬銲。 電源可用直流或交流,視銲接金屬的種類而選用。碳鋼與不鏽鋼通常選用 DCSP,由 於電極生熱較少,可以選用直徑較小的鎢棒。鈹與銅通常選用 DCRP,此種極性所使用的 鎢棒直徑大約為 DCSP 法的三倍,以免消耗太快。鋁、鈦與鎂通常選用 AC。 此法最大的優點是沒有銲渣。由於氬氣價格高,而且銲接速度慢,所以此法一般用於 需要高品質而厚度較薄的工件上。 圖 5-29 所示者,為 GTAW 的銲接情形及其設備。圖中所示之進水管通以冷卻水可冷 卻銲炬。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-29 氣體鎢極電弧銲接"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 231"
+        },
+        {
+          "type": "heading",
+          "text": "六、 氣體金屬極電弧銲接 (Gas Metal Arc Welding, GMAW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "GMAW 又稱為 MIG(Metal Inert Gas),係以消耗性的金屬線 ( 銲線 ) 為電極, 與工件 間產生電弧,銲線受熱熔化,直接填充於銲道上,如圖 5-30 所示。 此法所用的保護氣以二 氧化碳 (CO 2 ) 為主,俗稱 CO 2 銲。 銲線由滾輪推動自動送線,效率高,特別適合自動化銲接。同時由於使用的電流較 TIG 法大,所以在工件上產生很大的熱量,其穿透力亦大,工作迅速,是目前工業界的主 要銲接法之一。適用之銲件厚度比 TIG 法大。 GMAW 通常使用 DCRP 接法,可使電弧穩定、銲珠熔滴傳送平均且噴渣較少。此法 適用於鋁、鎂、銅及鋼的銲接。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-30 氣體金屬極電弧銲接"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "232"
+        },
+        {
+          "type": "heading",
+          "text": "七、 銲藥芯電弧銲接 (Flux-cored Arc Welding, FCAW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般 CO 2 銲接所使用之銲線為實心裸銲線,再由銲炬口吹出 CO 2 保護氣,若施工環境 之風速高於 2m/sec 時, CO 2 將被吹散而失去效用,此為 CO 2 銲法之最大缺點。如果能夠由 銲線本身自行產生保護氣體,就可以克服上述困難。 FCAW 如圖 5-31 所示,所使用之銲條為中空型,中間填充銲藥,可於銲接過程不斷產 生保護氣來保護銲道。 此法具有可承受較大之室外風力、銲接速度快、銲渣容易清除與銲 接設備輕巧簡單等優點。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-31 銲藥芯電弧銲接"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 233"
+        },
+        {
+          "type": "heading",
+          "text": "八、 電漿銲接 (Plasma Arc Welding, PAW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "PAW 又稱為電離氣電弧銲接法。氣體分子進入高 溫電弧中,會形成一種熱傳導性很高的電離氣。 PAW"
+        },
+        {
+          "type": "heading",
+          "text": "即是利用這種原理,迫使氣體流經銲鎗內,正負兩極間"
+        },
+        {
+          "type": "heading",
+          "text": "的直流電弧,使其分裂成帶電的熱離子,隨同電弧經噴"
+        },
+        {
+          "type": "paragraph",
+          "text": "嘴噴出。當熱電離氣與冷的工件接觸時,氣體離子再"
+        },
+        {
+          "type": "heading",
+          "text": "度結合為分子,放出大量的熱,產生高溫而將工件熔化"
+        },
+        {
+          "type": "paragraph",
+          "text": "接合。如圖 5-32 所示, PAW 使用兩道給氣系統,一道 供給產生電離氣之用,另一道作為保護氣。電離氣可用 氬 - 氫、氮 - 氫、或氬 - 氮混合氣;保護氣通常用氬氣。 PAW 之電離氣束徑小,熱量集中,可得較深的滲透, ▲ 圖 5-32 電漿銲接 較高的熔化率與熔化速度。 由於銲道的熱影響區小,且 電漿前端收斂,可銲極薄之板材而不虞銲穿。 此法常用於銲接鋁、鎂、鈦、鉭與不鏽鋼等較難施銲之金屬時,效果不錯。銲鎗的接 線方式如圖 5-33 所示。 (1) 傳導式 (Transferred) 如圖 (a) 所示,又稱為通電式,電極接負極,工件接正極,此種 接線方式熱效率較佳、滲透較深,常用於銲接與切割。 (2) 非傳導式 (Nontransferred) 如圖 (b) 所示, 又稱為非通電式, 電極接負極, 噴嘴接正極, 此種接線方式與前者相較,熱效率較低、滲透較淺,常用於噴銲。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-33 PAW 之接線方式"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "234"
+        },
+        {
+          "type": "heading",
+          "text": "5-5 其他銲接方法"
+        },
+        {
+          "type": "paragraph",
+          "text": "5-5-1 電阻銲接 (Resistance Welding, RW) 電阻銲是藉低電壓、大電流通過欲接合之金屬,對接合部分同時加壓、加熱而完成接 合目的的銲接法, 其原理如圖 5-34 所示,電阻銲接機利用其本身的變壓器,將 110V 或 220V 的輸入電壓,降至 4 ∼ 12V,而得一大電流 (2,000A ∼ 100,000A) 輸至兩電極。同時"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "將二次側之兩電極加壓力,其壓力在 280 ∼ 570kg/cm 之間。使電流流過兩電極間的金屬 板時,因金屬板相疊合的面上電阻最大,所以生熱最多,故當電流流過時,位於兩電極連 線上的疊合部分即生熱而銲合。"
+        },
+        {
+          "type": "heading",
+          "text": "根據焦耳定律,電路的生熱量 (H) 為:"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "H = 0.24I RT ( 卡 ) = IET ( 焦耳 )"
+        },
+        {
+          "type": "heading",
+          "text": "式中 I:電流 (A)"
+        },
+        {
+          "type": "heading",
+          "text": "R:電阻 ( Ω )"
+        },
+        {
+          "type": "heading",
+          "text": "T:通電時間 ( 秒 )"
+        },
+        {
+          "type": "heading",
+          "text": "E:電壓 (V)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-34 電阻電銲機的電路圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "從式中得知生熱量與電流平方、電阻以及通電時間成正比。由公式可知:加大電流量對生 熱的幫助最大。 電阻銲接最主要的用途是薄板金屬的搭接銲接,例如:冰箱、鐵櫃、電器外殼及汽車 車身板金等之製造。 電阻銲接可分為: (1) 點銲接; (2) 浮凸銲接; (3) 接縫銲接; (4) 端壓銲接; (5) 閃光銲接; 以及 (6) 衝擊銲接等六種。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 235"
+        },
+        {
+          "type": "heading",
+          "text": "一、 點銲接 (Resistance Spot Welding, RSW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "點銲接是將兩金屬片搭接後,置於兩電極間銲接之方法。因其銲接作用僅限於電極之 間的小面積上,故稱為點銲接。銲接點附近之溫度,因各部位的電阻而變化,如圖 5-35 所 示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-35 點銲接"
+        },
+        {
+          "type": "paragraph",
+          "text": "點銲接的操作如圖 5 - 36 所示,其步驟如下: STEP 01 擠壓 ( 圖 5-36(a))。 STEP 02 通電銲接 ( 圖 5-36(b)、 (c))。 STEP 03 維持 ( 圖 5-36(d)):電源切斷之後,電極所施之壓力,仍須保持適當時間, 以待金屬確實接合。此舉除了可以獲得應有的強度,並可免除電極端產生 電弧。 點銲接的優點是操作方便。其缺點為電極壽命短,且銲接處會有凹陷,其深度約為板 厚的 20 ~ 30 %。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "236"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-36 點銲接的操作步驟"
+        },
+        {
+          "type": "heading",
+          "text": "二、 浮凸銲接 (Resistance Projection Welding, RPW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "浮凸銲接法與點銲接法很相似。如圖 5-37 所示, 金屬板在銲接之前,先以沖床將銲接 部分沖出約為板厚 60 % 之凸點或線, 然後置於兩個電極之間。加壓通電後,只有凸出部 分加熱,產生銲接效果而使兩金屬板壓合在一起。 浮凸銲具有銲接處平整美觀,及電極壽 命長等優點。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-37 浮凸銲接"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 237"
+        },
+        {
+          "type": "heading",
+          "text": "三、 接縫銲接 (Resistance Seam Welding, RSEW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "接縫銲接是將兩片搭接的金屬,用連續不斷的方式,將整個縫銲成一線。 如圖 5-38 所 示,以兩個盤形的滾子為電極,電極轉動同時間歇式放電。工件向前進行,即可使銲點串 聯成密集而中間無間隔的銲縫。接縫銲接大都用於冰箱、汽油筒及金屬罐等之製造。此法 具有外表美觀、結合緊密、節省材料,以及費用低廉等優點。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-38 接縫銲接"
+        },
+        {
+          "type": "heading",
+          "text": "四、 端壓銲接 (Upset Welding, UW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "端壓銲接又稱為 對頭銲接 (Butt Welding)。如圖 5-39 所示,銲接時,銲件一端夾於固 定夾頭,另一端夾於活動夾頭。當銲件之接合端接觸時,大電流經由夾頭流至接合面而產 生高溫,使工件軟化。同時活動夾頭繼續施壓,使其結合在一起。銲接完成的工件接合處, 有被擠粗的現象,可於事後用滾軋或輪磨的方式除去。此法通常用於銲接截面相同的桿、 管或型鋼。 由於電流容量的限制,只適用於小截面的材料。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-39 端壓銲接"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "238"
+        },
+        {
+          "type": "heading",
+          "text": "五、 閃光銲接 (Flash Welding, FW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "閃光銲接與端壓銲接類似,如圖 5-40 所示,其不同處是在銲接之前並不施壓,兩銲件 僅輕輕接觸,接合面留有細小的空隙。 當大電流通過時,會產生電弧,將接合面加熱達半 熔化狀態,再由活動夾頭施加壓力,使其結合為一體。 此法具有操作時間短、銲接電流小、 被擠出的飛邊材料少、可銲接大截面材料及可作板片的邊對邊銲接等優點,故其用途較端 壓銲接普遍。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-40 閃光銲接"
+        },
+        {
+          "type": "heading",
+          "text": "六、 衝擊銲接 (Percussion Welding, PEW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "衝擊銲接如圖 5 - 41 所示,與閃光銲接皆以電弧加熱,而非電阻。 其與閃光銲接最大 的差別,是在活動夾頭後方加裝壓力彈簧。操作時,活動夾頭後退,擠壓彈簧,使兩工件 分開一段距離。然後釋放活動件,由於彈簧的推力,迅速移向固定件。當兩接合面接近至 1mm 之瞬間,產生放電作用,將接合面加熱到半熔化狀態,並在碰擊的壓力下,完成接合 工作。此法之優點為: (1) 作用時間短 ( 約 0.1 秒 ),接合面之鄰近處不受熱影響,已淬火 之工件,不產生退火現象; (2) 可輕易接合不同材質之材料。而其缺點為: (1) 僅能接合小 截面材料; (2) 截面形狀不能太複雜。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-41 衝擊銲接"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 239"
+        },
+        {
+          "type": "heading",
+          "text": "5-5-2 特殊銲接"
+        },
+        {
+          "type": "heading",
+          "text": "一、 電子束銲接 (Electron Beam Welding, EBW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "EBW 的原理與設備圖如圖 5-42 所示, EBW 是利用數萬伏特的高電壓在真空腔中將電 子加速,形成一束高速的電子流 ( 約為光速的一半 ),謂之電子束。此電子束碰擊工件的接 合處,將動能轉變成熱能,使工件熔化而銲接。"
+        },
+        {
+          "type": "heading",
+          "text": "10 13 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "EBW 是功率密度最高 ( 約 10 ~ 10 W/m ) 的銲接法,最大的特色是貫穿性大,其 銲道的深寬比可達 10 至 20,比傳統電銲的 1: 1 左右高出很多。且其束徑可小至 0. 01 μ m,對微細的電子,電腦零件的銲接極有利。 銲件厚度視銲接機的功率而異,約在 0.1 ∼ 300mm。 真空腔之真空度越高,電子束聚焦於工件的深度就越深,銲道的深寬比就越大。 電子"
+        },
+        {
+          "type": "heading",
+          "text": "束銲接機依真空度的高低可分為三種:"
+        },
+        {
+          "type": "paragraph",
+          "text": "高真空式 (EBW-HV) 又稱為全真空式。此法之滲透最深,熱影響區最小。 低真空式 (EBW-MV) 又稱為半真空式。能量次於高真空式,滲透較淺。 又稱為非真空式。能量最低,滲透也最淺。此法專用於大型,無法"
+        },
+        {
+          "type": "heading",
+          "text": "無真空度 (EBW-NV)"
+        },
+        {
+          "type": "paragraph",
+          "text": "放置於真空腔內之工件。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-42 EBW 之原理與設備"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "240"
+        },
+        {
+          "type": "paragraph",
+          "text": "EBW 並不使用填充金屬,而是直接使銲接邊本身熔化,或將電子束貫穿銲接之材料。 此法不但可以銲接普通金屬,也可用於耐高溫金屬如鎢,極易氧化之金屬如鋯、鈦,以及 超合金等。典型的加工例是飛機機翼、飛彈、原子武器、電子元件、汽車齒輪與軸之銲合 等。 圖 5-43 所示者,為電子束銲接機。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-43 電子束銲接機"
+        },
+        {
+          "type": "heading",
+          "text": "二、 雷射銲接 (Laser Beam Welding, LBW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Laser 乃是英文“ Light Amplification by Stimulated Emission of Radiation ”的縮寫,我國 音譯為雷射,中國大陸意譯為激光。雷射光是將普通光加以激勵擴大,並支配著光平行的 往同一個方向發射,再經透鏡聚焦成一道數 μ m 直徑的強烈光束。 LBW 就是以雷射光束投 射在工件上,以光能產生高溫加熱材料而熔化接合。雷射可分為固體雷射、液體雷射、氣 體雷射及半導體雷射, 銲接工作大都選用 CO 2 氣體雷射或紅寶石固體雷射。 LBW 之束徑 小,大多應用在汽車工業、精密工業及電子工業上的特殊工件與小零件的精密銲接,其最 大銲接厚度可達 25 mm,深寬比約 4 至 10。 LBW 能銲接兩種物理特性相差很大的金屬,其熱影響區小,不會破壞材料的機械性 質,銲件吸熱少,變形亦小,而且容易自動化操作,可在大氣或惰氣中操作。 與 EBW 相較, LBW 具有如下之優點: (1) 不需要在真空中操作; (2) 雷射光束可以變形、 操控、聚焦,所以過程很容易自動化; (3) 電子束會產生 X 光,雷射不會; (4) 銲接處只有 少量的濺渣、氣孔與扭曲變形,銲接品質優於 EBW。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 241"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 5-44 所示者,為 LBW 的原理與設備圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-44 LBW 之原理與設備"
+        },
+        {
+          "type": "heading",
+          "text": "三、 摩擦銲接 (Friction Welding, FRW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "FRW 是利用摩擦生熱的原理, 使接合面達到很高的可塑性狀態 ( 注意: 並未達到熔點 ), 立刻加以適當壓力,以形成塑性擠壓接合的銲接法。 如圖 5-45(a) ∼ (d) 所示,兩工件對頂 加壓,一端靜止,另一端高速旋轉,待生熱至暗紅色狀態後,停止轉動,活動件擠向靜止 件而接合。在界面的氧化物和其他汙染物可藉由熱金屬向外放射移動自然除去, 擠出部分 形成飛邊必須進一步去除。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "242"
+        },
+        {
+          "type": "paragraph",
+          "text": "FRW 之工件必須為圓形,圓桿或圓管皆可。 適用的金屬有碳鋼、合金鋼及鋁等。大 鑽頭的高碳鋼鑽柄與高速鋼鑽身,即為 FRW 法的典型製品。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-45 摩擦銲接"
+        },
+        {
+          "type": "heading",
+          "text": "四、 摩擦攪拌銲 (Friction Stir Welding, FSW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "FSW 如圖 5-46 所示,將直徑約 5mm,耐高溫、非消耗的攪拌頭擠入銲接縫,利用摩 擦生熱的原理,使接合處的材料軟化,並攪動使其結合的銲接法。 此法銲接時輸入的熱量不多,銲道平坦不易扭曲變形,適合鋼、鈦、銅、鋁、鎂與異 種板材之銲接。目前應用於航空、汽車、造船與軍用車輛等工業。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 243"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-46 摩擦攪拌銲"
+        },
+        {
+          "type": "heading",
+          "text": "五、 超音波銲接 (Ultrasonic Welding, USW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "USW 是利用高頻率振動能 (5,000 ∼ 100,000Hz),傳送到相互接觸的母材內面,使接 觸面達到很高的塑性狀態,並在壓力下接合的銲接法。 此法屬於固相冷銲接合方法,可銲 接金屬或塑膠。 USW 常用於薄工件的銲接工作,例如金屬箔的銲接。 接合工作極為迅速, 通常在 0.1 秒內即可完成。接合部位之金屬溫度約達熔點之三分之一到二分之一,入熱量 不多,所以銲件變形小。 圖 5-47(a) 為 USW 的示意圖, 其振動方向應與接合面平行, (b) 圖為超音波銲接機。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-47 超音波銲接"
+        },
+        {
+          "type": "paragraph",
+          "text": "04C53106-05-ne.indd 243 2023/6/6 下午 02:12:46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "244"
+        },
+        {
+          "type": "heading",
+          "text": "六、 爆炸銲接 (Explosive Welding, EXW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "EXW 又稱為加層銲接或覆面銲接。其原理如圖 5-48 所示,將兩塊金屬板以一定的角 度設置好,上面放置緩衝板及炸藥。引爆炸藥後,兩銲件接合面產生塑性變形而形成波紋 狀之接合。 此法主要用於大面積板材的加層接合。由於爆炸力甚大,且會產生高溫,故熔 點太低或強度不高的工件不能選用此法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-48 爆炸銲接"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 245"
+        },
+        {
+          "type": "heading",
+          "text": "七、 發熱銲接 (Thermit Welding, TW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "發熱銲接又稱為鋁熱料銲接,其裝置如圖 5-49 所示。 等量體積的鋁粉與氧化鐵粉 ( 重 量比約 1: 3 ) 混合均勻,然後置於坩堝中,用鎂粉或氧化鋇之發火粉,點燃加熱到 1,100 °C∼ 1,400 °C,鋁粉就會與氧化鐵開始起化學反應而釋放大量的熱,其反應如下 8Al + 3Fe 3 O 4 → 9Fe + 4Al 2 O 3 + 熱 上式反應可產生 3,600 °C之高溫,但因坩堝的吸收與對大氣的輻射損失,所以溫度約 2,500 °C,反應後的浮渣浮於鐵液上方,鐵液經坩堝下方的出口,注入於銲件接合處,待凝 固後接合為一體。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-49 發熱銲接"
+        },
+        {
+          "type": "paragraph",
+          "text": "TW 大都用於銲接大軸、鐵路鐵軌等,須在工地執行之銲接工作。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "246"
+        },
+        {
+          "type": "heading",
+          "text": "八、 電熱熔渣銲接 (Electro-slag Welding, ESW 或 EW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "ESW 係在銲縫之兩側各置一塊冷卻銅板,底部放置導電的底板,底板上敷一層粒狀的 熔渣,消耗性的電極 ( 銲線 ) 由銲縫上方插入,與熔渣保持一定距離,通電後產生電弧將 固體熔渣熔成液態。然後將電極插入液態熔渣中,繼續通電以電阻生熱,電極熔化後沉積 在底部,熔渣上浮。冷卻水流入冷卻銅板內,將導熱性較高的液態金屬冷凝,冷卻板隨著 液面上升,由下而上緩慢移動,直到填滿整個銲縫為止。整捲的銲線由導輪驅動,連續補 充至銲接處。若在銲道上方噴注保護氣,就稱為 電熱氣銲接 (EGW, Electro-gas Welding), 如圖 5-50 所示。 ESW 可得到最大厚度的銲接, 其金屬堆積率很高, 銲縫的變形很少, 應力分佈很均勻, 且少有氧化或雜質混入的可能。此法只適合立銲,其他位置之銲接無法使用。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-50 電熱氣銲接"
+        },
+        {
+          "type": "heading",
+          "text": "九、 冷銲接 (Cold Welding, CW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "冷銲接是在不加溫的情況下,僅使用壓力使金屬接合的銲接法,常用於線材和電器的 連接。 此法只適用於 Al、 Cu、 Zn、 Pb,以及 Ni 等高可塑性金屬之接合,不適用於高硬 度的金屬。 接合前應先用鋼刷或磨輪將接觸面的氧化物除去,否則不易接合。"
+        },
+        {
+          "type": "heading",
+          "text": "十、 擴散銲接 (Diffusion Welding, DFW)"
+        },
+        {
+          "type": "paragraph",
+          "text": "DFW 是在真空或惰性氣體中,利用壓力將表面光度良好,且清潔平坦的零件壓合在一 起。然後 加熱到約熔點的 0. 7 倍左右的溫度,使兩接合面彼此擴散成為一體的接合法。 此 法主要應用在高科技中,特別是核子、太空和電子工業。塗層刀片與刀把的接合通常也是 選用 DFW。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 247"
+        },
+        {
+          "type": "heading",
+          "text": "5-6 接頭形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "通常一位銲接技工必須根據鋼結構詳圖而施工,因此在該圖上必須具備全部有關之銲 接資料,諸如:銲口的接頭型式、銲接位置、銲接方法、銲道尺度、銲道表面形狀及其加 工方法等。這些資料若以文字說明太繁雜,一般用圖形及符號來表示。 接頭 (Joint) 係指兩件或兩件以上之銲件在接合部位的組合狀態,亦稱「銲口」,接頭"
+        },
+        {
+          "type": "heading",
+          "text": "型式及適用之銲接,可分為下列五種:"
+        },
+        {
+          "type": "paragraph",
+          "text": "對 對接 (Butt Joint, B) 兩構件大致位於同一平面,且 接 接合邊相互對齊的接頭。"
+        },
+        {
+          "type": "paragraph",
+          "text": "搭接 (Lap Joint, L) 兩互相重疊構件組合之接頭,"
+        },
+        {
+          "type": "heading",
+          "text": "搭"
+        },
+        {
+          "type": "paragraph",
+          "text": "亦稱「疊接」。"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "paragraph",
+          "text": "T T 接 (T-joint, T) 兩構件彼此約成直角而呈 T 字型 接 之接頭。"
+        },
+        {
+          "type": "paragraph",
+          "text": "角 角接 (Corner Joint, C) 兩構件彼此約成直角而呈 L 接 字型之接頭。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "248"
+        },
+        {
+          "type": "paragraph",
+          "text": "邊接 (Edge Joint, E) 平行或接近平行構件之接合"
+        },
+        {
+          "type": "heading",
+          "text": "邊"
+        },
+        {
+          "type": "paragraph",
+          "text": "邊所組成之接頭,亦稱「緣接」。"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "5-7 銲接符號與檢驗"
+        },
+        {
+          "type": "heading",
+          "text": "5-7-1 銲接符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "以國際標準或各國、各協會所訂定之公認的符號或代號,在銲接圖上說明工件作銲接 施工時所需的一切資料,稱為銲接符號。 銲接符號由下列五項組成,不需要之項目可視實際狀況省略。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 標示線"
+        },
+        {
+          "type": "heading",
+          "text": "2. 基本符號"
+        },
+        {
+          "type": "heading",
+          "text": "3. 輔助符號"
+        },
+        {
+          "type": "heading",
+          "text": "4. 數字或字母"
+        },
+        {
+          "type": "heading",
+          "text": "5. 註解或特殊說明"
+        },
+        {
+          "type": "heading",
+          "text": "一、標示線"
+        },
+        {
+          "type": "paragraph",
+          "text": "標示線如圖 5-51 所示,由引線、主基線、副基線及尾叉所組成。標示線皆為細線,其 中副基線為虛線,其餘為實線。引線接在主基線之一端,向上或向下與水平線成 60 度角, 末端帶一箭頭。引線箭頭可以指在銲接接頭之任一側,箭頭所指之一邊稱為箭頭邊,另一 邊稱為箭頭對邊,如圖 5-52 所示。主基線與副基線平行且等長,兩線間距約為 1.5mm。尾 叉接在主基線之另一端,對稱於主基線成 90 度之開叉,供註解或特殊說明之用,若無註 解或特殊說明,則可省略。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-51 標示線"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銲接"
+        },
+        {
+          "type": "heading",
+          "text": "箭頭對邊"
+        },
+        {
+          "type": "heading",
+          "text": "箭頭邊"
+        },
+        {
+          "type": "heading",
+          "text": "(A)"
+        },
+        {
+          "type": "heading",
+          "text": "接頭 A"
+        },
+        {
+          "type": "heading",
+          "text": "Chapter 5"
+        },
+        {
+          "type": "heading",
+          "text": "箭頭對邊"
+        },
+        {
+          "type": "heading",
+          "text": "249"
+        },
+        {
+          "type": "heading",
+          "text": "A 之箭頭對邊"
+        },
+        {
+          "type": "heading",
+          "text": "B 之箭頭邊"
+        },
+        {
+          "type": "heading",
+          "text": "A 之箭頭邊"
+        },
+        {
+          "type": "heading",
+          "text": "箭頭邊"
+        },
+        {
+          "type": "heading",
+          "text": "A 之箭頭對邊"
+        },
+        {
+          "type": "heading",
+          "text": "接頭 A"
+        },
+        {
+          "type": "heading",
+          "text": "B 之箭頭對邊"
+        },
+        {
+          "type": "heading",
+          "text": "接頭 B"
+        },
+        {
+          "type": "heading",
+          "text": "(C)"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 5 一 52"
+        },
+        {
+          "type": "heading",
+          "text": "A 之箭頭邊"
+        },
+        {
+          "type": "heading",
+          "text": "箭頭邊與箭頭對邊"
+        },
+        {
+          "type": "heading",
+          "text": "B 之箭頭邊"
+        },
+        {
+          "type": "heading",
+          "text": "接頭 B"
+        },
+        {
+          "type": "heading",
+          "text": "B 之箭頭對邊"
+        },
+        {
+          "type": "heading",
+          "text": "(D)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "250"
+        },
+        {
+          "type": "heading",
+          "text": "二、銲接符號標註位置"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 銲接處在箭頭邊"
+        },
+        {
+          "type": "paragraph",
+          "text": "在箭頭邊銲接時,應將有關符號標註在主基線上或下方,副基線不可省略。 有關符號 之標註位置如表 5-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 5-4 箭頭邊銲接符號標註位置"
+        },
+        {
+          "type": "heading",
+          "text": "說明圖 箭頭邊銲接符號標註位置範例"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 251"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 銲接處在箭頭對邊"
+        },
+        {
+          "type": "paragraph",
+          "text": "在箭頭對邊銲接時,應將有關符號標註在副基線上或下方。 有關符號之標註位置如表 5-5 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 5-5 箭頭對邊銲接符號標註位置"
+        },
+        {
+          "type": "heading",
+          "text": "說明圖 箭頭邊銲接符號標註位置範例"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "252"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 銲接處在箭頭邊與箭頭對邊"
+        },
+        {
+          "type": "paragraph",
+          "text": "在箭頭邊及箭頭對邊作相同銲接時,應將有關符號標註在主基線上與下方,只用一引 線指在銲接處的任一邊,不必加畫副基線。有關之尺度數值只標註在其中任一邊, 如表 5-6 所示。 ▼ 表 5-6 箭頭邊與箭頭對邊兩邊銲接符號標註位置"
+        },
+        {
+          "type": "heading",
+          "text": "說明圖 箭頭邊銲接符號標註位置範例"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "三、銲接基本符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲接型式係指銲件接合部位銲接金屬的組成狀態,一般可分為如表 5-7 所示之七種基"
+        },
+        {
+          "type": "heading",
+          "text": "本型式:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 凸緣銲接 (Flange Weld)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 起槽銲接 (Groove Weld)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 背後銲接 (Back Weld)"
+        },
+        {
+          "type": "heading",
+          "text": "4. 填角銲接 (Fillet Weld)"
+        },
+        {
+          "type": "heading",
+          "text": "5. 塞孔或塞槽銲接 (Plug or Slot Weld)"
+        },
+        {
+          "type": "heading",
+          "text": "6. 點或浮凸銲接 (Spot or Projection Weld)"
+        },
+        {
+          "type": "heading",
+          "text": "7. 縫銲接 (Seam Weld)"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 253"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 5-7 銲接型式"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 符號 示意圖 名稱 符號 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "凸 背"
+        },
+        {
+          "type": "heading",
+          "text": "緣 後"
+        },
+        {
+          "type": "heading",
+          "text": "銲 銲"
+        },
+        {
+          "type": "heading",
+          "text": "接 接"
+        },
+        {
+          "type": "heading",
+          "text": "填"
+        },
+        {
+          "type": "heading",
+          "text": "I 角"
+        },
+        {
+          "type": "heading",
+          "text": "形 銲"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "V 塞"
+        },
+        {
+          "type": "heading",
+          "text": "形 孔"
+        },
+        {
+          "type": "heading",
+          "text": "或"
+        },
+        {
+          "type": "heading",
+          "text": "塞"
+        },
+        {
+          "type": "heading",
+          "text": "槽"
+        },
+        {
+          "type": "heading",
+          "text": "單"
+        },
+        {
+          "type": "heading",
+          "text": "銲"
+        },
+        {
+          "type": "heading",
+          "text": "斜"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "槽 Y"
+        },
+        {
+          "type": "heading",
+          "text": "銲 形 點"
+        },
+        {
+          "type": "heading",
+          "text": "接 或"
+        },
+        {
+          "type": "heading",
+          "text": "浮"
+        },
+        {
+          "type": "heading",
+          "text": "凸"
+        },
+        {
+          "type": "heading",
+          "text": "斜 銲"
+        },
+        {
+          "type": "heading",
+          "text": "Y 接"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "U"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "縫"
+        },
+        {
+          "type": "heading",
+          "text": "銲"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "J"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "四、銲接輔助符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲接輔助符號用以輔助銲接基本符號,表達銲接時對銲接道之要求,輔助符號必須配 合基本符號使用,不可單獨使用。輔助符號如表 5-8 所示。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "254"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 5-8 銲接輔助符號"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 符號 示意圖 輔助符號應用實例"
+        },
+        {
+          "type": "heading",
+          "text": "平面"
+        },
+        {
+          "type": "heading",
+          "text": "銲"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "道"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "heading",
+          "text": "凸面"
+        },
+        {
+          "type": "heading",
+          "text": "表"
+        },
+        {
+          "type": "heading",
+          "text": "面"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "狀"
+        },
+        {
+          "type": "heading",
+          "text": "凹面"
+        },
+        {
+          "type": "heading",
+          "text": "全周銲接"
+        },
+        {
+          "type": "heading",
+          "text": "現"
+        },
+        {
+          "type": "heading",
+          "text": "場"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "全 現場銲接"
+        },
+        {
+          "type": "heading",
+          "text": "周"
+        },
+        {
+          "type": "heading",
+          "text": "銲"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "現場全周銲接"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 銲接 255"
+        },
+        {
+          "type": "heading",
+          "text": "5-7-2 銲件的檢驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲件的檢驗與第三章圖 3-66 鑄件的檢驗大同小異, 本單元僅就非破壞性檢驗詳加說明。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 液體滲透檢驗法 (Liquid Penetration Inspection)"
+        },
+        {
+          "type": "paragraph",
+          "text": "液體滲透檢驗係利用毛細現象來檢驗銲件表面缺陷的一種非破壞性檢驗法。 此法只限 於檢驗銲件的表面缺陷,可用於各種材質的銲件,但檢驗耗時較長。液體滲透檢驗機如圖 5-53 所示。此法的主要步驟如圖下所示:"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 01 清洗及乾燥物件表面"
+        },
+        {
+          "type": "paragraph",
+          "text": "以清潔劑清理物體表面污物,然後烘乾。"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 02 施加滲透液"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用噴灑、塗刷或浸漬方式施加滲透液在物體表面。"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 03 清除滲透液"
+        },
+        {
+          "type": "paragraph",
+          "text": "將物體表面之滲透液清除乾淨。"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 04 施加顯像劑"
+        },
+        {
+          "type": "paragraph",
+          "text": "於物體表面施加顯影劑。"
+        },
+        {
+          "type": "heading",
+          "text": "STEP 05 檢驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用紫外線 ( 黑光燈 ) 檢視物體表面,並加以標示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-53 液體滲透檢驗機"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "256"
+        },
+        {
+          "type": "heading",
+          "text": "二、 磁粉檢驗法 (Magnetic Particle Inspection)"
+        },
+        {
+          "type": "paragraph",
+          "text": "磁粉檢驗可用於檢查鋼鐵物體表面及表面近層的缺陷。當磁力線洩漏銲件瑕疵部位 時,磁阻增大而使磁力線洩漏,若將磁粉噴灑在銲件表面,有磁力線通過的地方就會將磁 粉吸住,而有瑕疵的部位,表面的磁粉留在瑕疵處,如此便可顯示缺陷的所在。此法只能 檢驗磁性材料。 磁化檢驗時如圖 5 - 54 所示,應使磁場方向與裂縫方向垂直方可得到最佳之檢驗效果。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-54 磁粉探傷"
+        },
+        {
+          "type": "heading",
+          "text": "三、 超音波檢驗法 (Ultrasonic Inspection)"
+        },
+        {
+          "type": "paragraph",
+          "text": "超音波檢驗係利用發射器震盪所產生的高頻率音波,在直線前進過程中,遇到空間與 物體的界面時,音波被反射而由音波接收器將銲件瑕疵的所在位置及形狀顯示在螢幕上, 如圖 5-55 所示。 超音波檢驗法主要用於檢驗內部缺陷。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-55 超音波檢驗原理"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch05/p060.jpg"
+    }
+  ]
+}

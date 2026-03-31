@@ -1,0 +1,16 @@
+{
+  "name": "academic-tycoon-data-tools",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "download:tck": "node scripts/download-tck-4g.mjs",
+    "convert:pdf": "node scripts/convert-pdfs.mjs",
+    "validate:data": "node scripts/validate-data.mjs"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.97",
+    "pdfjs-dist": "5.6.205",
+    "sharp": "0.34.5"
+  }
+}

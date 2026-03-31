@@ -1,0 +1,517 @@
+{
+  "bundle_id": "MOCK_111_2_ENG",
+  "questions": [
+    {
+      "id": "MOCK_111_2_ENG_001",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "I was lucky that I didn’t listen to my friend’s investment. Otherwise, I could have gone bankrupt.",
+      "image_url": "",
+      "options": [
+        "advice",
+        "lobby",
+        "tragedy",
+        "concert"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "很慶幸我沒聽從朋友的投資 。否則,我可能 兒子:謝謝媽。我會試圖放輕鬆。我相信我會沒事的。 早就破產了。 (A) 避免花光你的所有零用錢。 (A) 建議,忠告 (B) 大廳 (C) 悲劇 (D) 音樂會 (B) 別再和你的前女友見面了。"
+    },
+    {
+      "id": "MOCK_111_2_ENG_002",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "The is over 30°(C) I think we should turn on the air-conditioners to cool ourselves off.",
+      "image_url": "",
+      "options": [
+        "decrease",
+        "",
+        "I think we should turn on the air-conditioners to cool ourselves off. (A) decrease (B) centimeter (C) temperature",
+        "jewelry"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "現在 超過攝氏 30 度。我想我們應該開啟空 (C) 我聽說你在學校心情很差。 調涼快一下。 (D) 你從不放棄任何機會。 (A) 減少 (B) 公分 (C) 氣溫 (D) 珠寶"
+    },
+    {
+      "id": "MOCK_111_2_ENG_003",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Unless Julie completes her program in time, she cannot from this college.",
+      "image_url": "",
+      "options": [
+        "provide",
+        "graduate",
+        "research",
+        "scatter"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "為了照顧父母,彼得 (Peter) 決定搬回他的家鄉。"
+    },
+    {
+      "id": "MOCK_111_2_ENG_004",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "He filled the glass to the top with water and it all over the floor.",
+      "image_url": "",
+      "options": [
+        "swore",
+        "sweated",
+        "spilled",
+        "spoiled"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "他把水斟滿整個杯子,而 了滿地。 泰德:謝謝。 (A) 發誓 (B) 流汗 (C) 濺灑 (D) 破壞;溺愛 (A) 我開玩笑說我會留在這裡。"
+    },
+    {
+      "id": "MOCK_111_2_ENG_005",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Thank you for sharing such experiences with us. We will cherish them for sure.",
+      "image_url": "",
+      "options": [
+        "precious",
+        "protective",
+        "partial",
+        "portable"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "謝謝您與我們分享如此 經驗。我們肯定會珍 (B) 我不確定如何使用我的手機。 惜。 (C) 我不知道你會賺到多少錢。 (A) 寶貴的 (B) 保護的 (C) 部分的 (D) 攜帶式的 (D) 我會盡我所能與他們共度時光。"
+    },
+    {
+      "id": "MOCK_111_2_ENG_006",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "The ABC Fashion Manufacturer use to make clothes mostly come from nature.",
+      "image_url": "",
+      "options": [
+        "chimneys",
+        "battles",
+        "groceries",
+        "materials"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "ABC 潮流製衣廠用來做衣服的 大多來自大"
+    },
+    {
+      "id": "MOCK_111_2_ENG_007",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Don’t be tricked by the advertisements. Those food companies just want to their products to you.",
+      "image_url": "",
+      "options": [
+        "compete",
+        "gather",
+        "transform",
+        "promote"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "不要被那些廣告給騙了。那些食品公司只想 老師:我覺得他需要一些道德課程。 他們的產品給你。 山姆:我很高興有你當我的老師。 (A) 競賽 (B) 聚集 (C) 轉變 (D) 推銷 (A) 這是一個超棒的主意。"
+    },
+    {
+      "id": "MOCK_111_2_ENG_008",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "For distance learning, you must prepare proper devices before the classes start.",
+      "image_url": "",
+      "options": [
+        "efficient",
+        "cowardly",
+        "skinny",
+        "harmful"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "為了 遠距學習,你必須在課程開始之前,準 (B) 讓我來處理這個問題。 備好適當的裝置。 (C) 你慢慢來,享受它吧。 (A) 有效率的 (B) 膽怯的 (D) 請改過自新。 (C) 骨瘦如材的 (D) 有害的"
+    },
+    {
+      "id": "MOCK_111_2_ENG_009",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "There is an emergency. It would be appreciated if Dr. Huang could call me back instantly.",
+      "image_url": "",
+      "options": [
+        "immediately",
+        "eventually",
+        "occasionally",
+        "permanently"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "有個緊急事故。如果黃醫師能即刻地回撥給我,將十 顧客:我現金不夠。 分感激。 店員:沒問題。只需要在這台機器上,放上您的卡片 (A) 立即地 (B) 最終地 (C) 偶爾地 (D) 永久地 幾秒鐘。"
+    },
+    {
+      "id": "MOCK_111_2_ENG_010",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Maria is such a brilliant girl that she can always catch people’s eyes.",
+      "image_url": "",
+      "options": [
+        "dumb",
+        "talented",
+        "brutal",
+        "emotional II. 對話題 說明:第 11 至 20 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "瑪莉亞是個如此有才氣的女孩,她總能吸引眾人目 顧客:太棒了!那真的很方便耶。 光。 (A) 我可以刷卡嗎? (A) 啞口的 (B) 有才華的 (C) 殘忍的 (D) 情緒化的 (B) 請容我登記入住。 (C) 很高興在這遇見你。 II. 對話題 (D) 你有折價券嗎?"
+    },
+    {
+      "id": "MOCK_111_2_ENG_011",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Brother: Hey, dear sister. I have finished my lunch. Help me with the dishes, please. Sister: Oh no, never again. Brother: That’s because Mom always says that you are the best girl in the world. Sister: But it doesn’t mean I have to take care of all the household chores.",
+      "image_url": "",
+      "options": [
+        "We cannot make fun of our mom.",
+        "Are you going to hit the hay?",
+        "Enjoy living with junk foods.",
+        "Stop taking everything for granted."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "哥哥:嘿,親愛的妹妹,我吃完中餐了,請幫我洗碗"
+    },
+    {
+      "id": "MOCK_111_2_ENG_012",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Mom: Dear, What happened? Son: I got bad grades on my quizzes today. I felt so upset about myself. Mom: You should strike a balance between exams and life. Son: Thanks, Mom. I will try to relax. I believe I will be fine.",
+      "image_url": "",
+      "options": [
+        "avoid spending all your pocket money.",
+        "do not see your ex-girlfriend again.",
+        "I heard you were in a bad mood at school.",
+        "you never give up any chance."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：111-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_2_ENG_013",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Grace: Is that true that you are going to teach in a remote area? Ted: Yep. I believe those kids need me a lot more. Grace: I am really proud of you. I am sure that you will teach them well. Ted: Thank you.",
+      "image_url": "",
+      "options": [
+        "I am kidding that I will stay here.",
+        "I am not sure of how to use my phone.",
+        "I don’t know how much money you will earn.",
+        "I will try my best to spend time with them."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "葛瑞絲:你要去偏遠地區教書,是真的嗎?"
+    },
+    {
+      "id": "MOCK_111_2_ENG_014",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Teacher: Does anything bother you? Sam: Not a big deal. Danny dropped his trash near my desk. Teacher: I think he needs some moral lessons. Sam: I am happy to have you as my teacher.",
+      "image_url": "",
+      "options": [
+        "It is a great idea.",
+        "Let me handle this problem.",
+        "Take your time and enjoy it.",
+        "Please turn over a new leaf."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "老師:有任何事情困擾著你嗎? 自然。 山姆:不是什麼大事。丹尼把他的垃圾丟在我的桌子 (A) 煙囪 (B) 戰鬥 (C) 生活用品 (D) 材料 附近。"
+    },
+    {
+      "id": "MOCK_111_2_ENG_015",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Clerk: Thanks for buying our products. How would you like to pay? Customer: I am short of cash. Clerk: No problem. Tap your card on this machine for just a few seconds. Customer: Wonderful! That is really convenient.",
+      "image_url": "",
+      "options": [
+        "May I use my credit card?",
+        "Allow me to check in.",
+        "Glad to see you here.",
+        "Do you have coupons?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "店員:感謝您購買我們的產品。您想怎麼付款呢?"
+    },
+    {
+      "id": "MOCK_111_2_ENG_016",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Father: Honey, Daughter: Love you so much, Daddy. I always need some snacks after school. Father: Not a problem. Feed yourself well and take care. Daughter: I appreciate I have such a generous father.",
+      "image_url": "",
+      "options": [
+        "don’t be late for school again.",
+        "stop complaining about your school.",
+        "I’ve just added value to your meal card.",
+        "your card has been gone for a while."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "父親:親愛的, 盤。 女兒:超級愛你的,爸爸。放學後我總需要一些零食。 妹妹:喔不,不要再來了。 父親:沒問題。去吃吧,照顧好自己。 哥哥:那是因為媽媽都說妳是世界上最棒的女孩。 女兒:我感恩我有這樣一個慷慨的父親。 妹妹:但那不代表我必須包辦所有的家事吧。 (A) 不要又上學遲到了。 (A) 我們不能取笑我們的媽媽。 (B) 停止抱怨你的學校。 (B) 你要準備上床睡覺了嗎? (C) 我剛替你的餐點卡片儲值了。 (C) 請享受與垃圾食物共存。 (D) 你的卡片已經消失一段時間了。 (D) 別總是視一切為理所當然。 111-2 共同科目 英文 詳解"
+    },
+    {
+      "id": "MOCK_111_2_ENG_017",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Passenger: I have been waiting for you. Are you ready to pick me up? Taxi driver: Would you wait for me at the corner of HiLife? Passenger: Alright, I wear a red dress, standing in the front of the convenience store. Taxi driver: No problem. I will be there soon.",
+      "image_url": "",
+      "options": [
+        "Refill the bottle.",
+        "Just a few minutes.",
+        "Leave me alone.",
+        "Take me out."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "乘客:我一直在等你。你準備好接我了嗎? (C) 闖入 (D) 巧遇 計程車司機: 你可以在萊爾富的轉"
+    },
+    {
+      "id": "MOCK_111_2_ENG_018",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Passenger 1: Excuse me. I am packed like sardines here. Passenger 2: Certainly not. During rush hour, it is crowded everywhere. Passenger 1: I know. Thanks for your cooperation. Passenger 2: You’re welcome.",
+      "image_url": "",
+      "options": [
+        "Could you remind me of locking the door?",
+        "Would you mind giving me some space?",
+        "Say that again to double-check.",
+        "No worries about missing the bus."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "乘客 1:不好意思,我這裡擠得跟沙丁魚一樣。 升,舉起,養育」 。在此 raise ~ awareness 意為「提高 ~ 意識」 乘客 2:當然不介意。在尖峰時段,到處都很擁擠。 (C) rise-rose-risen (v.) 為不及物動詞,意思為 「 上升」 乘客 1:我知道,謝謝你的配合。 (D) arise-arose-arisen (v.) 為不及物動詞,意思為「產 乘客 2:不客氣。 生、出現」 (A) 你能提醒我鎖門嗎?"
+    },
+    {
+      "id": "MOCK_111_2_ENG_019",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Boss: Would you be able to take night shifts? Interviewee: Well, I would like to work in the daytime. Boss: If you can work at night, you will have a pay raise. Interviewee: Seriously?",
+      "image_url": "",
+      "options": [
+        "I am willing to give it a try.",
+        "You don’t need to reply to it.",
+        "Could you please let it go?",
+        "Why not stop by in the afternoon?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "老闆:你能上夜班嗎? be equipped with...kids.” 而這裡 equip 用法是「人 + be 應徵者:嗯,我想要在白天工作。 equipped with + 物」, should 可省略,所以選 (C) be 老闆:如果你能在晚上工作,你就可以加薪。 Question 26-30 應徵者:真的嗎? 在第 94 屆奧斯卡頒獎典禮上,威爾‧史密斯走上舞 (A) 我願意試試看。 台,接著,忽然地從臉頰搧了主持人,克里斯‧洛克, (B) 你不需要回覆它。 一巴掌。這驚人的攻擊 (26) 被現場轉播給全世界。不久以 (C) 你能不能不要耿耿於懷呢? 後,此事引起大量討論。有些人批評威爾的暴力; (27) (D) 何不午後順道停留一下呢? 有些人看不起克里斯嘲笑威爾老婆光頭的笑話。威爾為"
+    },
+    {
+      "id": "MOCK_111_2_ENG_020",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Neighbor: I haven’t seen your mom for a couple of days. Where has she been? Amy: She is in the middle of taking care of my grandma. They are in the hospital now. Neighbor: Oh, Let me know if you need a hand. Amy: Thanks for your kindness.",
+      "image_url": "",
+      "options": [
+        "I am excited about this news.",
+        "I am not interested in your idea.",
+        "I am sorry to hear that.",
+        "I cannot wait to see you. III. 綜合測驗 說明:以下兩篇短文,共有 10 個空格,為第 21 至 30 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 21-25 題,請依短文文意,選出一個最適合該空格的答案。 On May 24, 2022, the news of mass shooting in an elementary school of Texas, United States, shocked the whole world. According to the police investigation, the 18-year-old shooter 21 Robb Elementary School before lunchtime and started shooting door by door. Although he was shot dead by the police, 19 kids and 2 adults unfortunately died from this shooting. Many others were injured while running away. Some of the students 22 in the incident suffered from the trauma after the accident. The parents of the victims were 23 shocked 23 accept the consequences. They wished they could have taught their kids how to protect themselves from gun violence. In order to 24 people’s awareness of children’s rights, thousands of people took to the streets to push lawmakers to take action on gun control. Joe Biden, the U.S. president, called for stricter gun control than before. Donald Trump, the former U.S. president, even suggested that teachers in the U.S. 25 equipped with a gun at schools for the purpose of protecting their armless kids."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "鄰居:我好幾天都沒看到你媽媽。她最近都去哪了? 他的錯誤行為道歉了,但仍堅持認為他的意圖是為了保 艾咪:她正忙於照顧我奶奶。她們現在在醫院。 護他的家人。之後,儘管威爾沒有被要回奧斯卡獎座, 鄰居:哦, 如果需要幫助,請讓我 但在往後十年之內,他不會再被邀請出席典禮。至於克 知道。 里斯,他 (28) 被視為一位缺乏說話藝術的受害者。到目前 艾咪:謝謝你的好意。 為止,雙方原先的立場仍未改變。威爾的粉絲強烈地支 (A) 我對這個消息感到很興奮。 持他的保護行為; (29) 而克里斯的追隨者對開惡劣玩笑話 (B) 我對你的想法沒興趣。 並不以為意。從這次事件中,我們可從中學得一些教訓。 (C) 很遺憾聽到這個消息。 一是,即使我們試圖展現幽默,我們也應尊重他人。此 (D) 我等不及想見你了。 外,我們應該要知道保護行為並不 (30) 等於使用暴力。換 句話說,在我們在反應不滿之前,最好三思而後行。 III. 綜合測驗"
+    },
+    {
+      "id": "MOCK_111_2_ENG_021",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "If John spent twenty thousand New Taiwan dollars (TWD) in total, how much did he spend on food and drinks?",
+      "image_url": "",
+      "options": [
+        "6800TWD",
+        "5600TWD",
+        "4600TWD",
+        "2000TWD"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "如果約翰總共花新台幣 2 萬元,他在飲食方面花費多 規劃您的未來。如果您正考慮在澳大利亞攻讀學士學 少錢? 位,我們可以提供幫助!我們的總辦公室在臺北大學的 解析:總額 20000 元,飲食花費 28%,故答案為 校門口附近。您可以於週間早上 9 點到下午 5 點到訪。 (B) $5600 為了給您方便,我們下週三將參加貴校所舉辦的國際大"
+    },
+    {
+      "id": "MOCK_111_2_ENG_022",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Which of the following statements is TRUE?",
+      "image_url": "",
+      "options": [
+        "Little did John know about expense management.",
+        "John planned a pleasant self-driving tour in Taiwan.",
+        "John might have bought some gifts back home.",
+        "John spent the least money on accommodation. ▲ 閱讀下文,回答第 33-34 題 Ms. Li is a homeroom teacher. She writes some report card comments for each of her students. Read the report card of one student and answer the questions. REPORT CARD NAME: LING CHENG Course: General English (Grade 10) DATE: June 20, 2022 TERM: 2022 Semester 2 STUDENT’S STRENGTHS ‧ Personality: outgoing, friendly, humorous ‧ Performances: (1) active participation (2) creative hands-on crafts AREAS FOR IMPROVEMENT SUGGESTIONS ‧ Reading Comprehension Skills Ling can... ‧ Critical Thinking Skills (1) read picture books 30 minutes per day (2) train typing speed 30 minutes per day ‧ Technology Application Skills"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "下列何者敘述正確? 學博覽會,因此您可以在校園裡我們所設的攤位跟我們 (A) 約翰幾乎不知道開銷控管。 連繫獲取更詳細的資訊。屆時若您有任何的問題,我們 (B) 約翰規劃了一個愉快的自駕旅行。 都很樂意回答。然而您若是未克蒞臨我們的攤位,強烈 (C) 約翰很有可能買了些禮物回家鄉。 建議您上我們的網站獲取更多資訊。或者,您也可以透 (D) 約翰旅遊時花最少錢在住宿上。 過郵件來信 (service2022@gmail.com) 向我們索取紙本印 Question 33-34 刷品。 李老師是一名班導師。她為每位學生寫了一些成績 單評語。閱讀一名學生的成績單並回答問題。 期待與您相見。 成績單 姓名:程玲 課程:普通英文 ( 高一 ) 李梅 日期: 2022 年 6 月 20 日 學期: 2022 第 2 學期 學生的優勢 ‧個性:外向的、友善的、幽默的 ‧表現: (1) 高度參與 (2) 手藝作品具創意 進步的空間 建議 ‧閱讀技巧 玲可以... ‧批判思考技巧 (1) 閱讀繪本每日 30 分鐘 ‧科技應用技巧 (2) 訓練打字速度每日 30 分鐘 教師的話 教導玲是一件很開心的事。這學期整體來看,玲表現良 好。課堂間她總是待人有禮,樂於助人。同學們及老師 都非常喜愛她。然而,總是還有可以更進步的地方。她 似乎傾向快速地完成工作,所以她可能有時會造成一些 無心之過。當她將步調放慢下來時,謹慎小心地完成工 作,她就可以把工作做得很好。未來,我會想看到她的"
+    },
+    {
+      "id": "MOCK_111_2_ENG_023",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "According to this report card, which of the following statements about Ling Cheng is TRUE?",
+      "image_url": "",
+      "options": [
+        "She is actively engaged in school activities.",
+        "She is afraid of making crafts with hands.",
+        "She is too serious to make friends in class.",
+        "She is good at using software technology."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據這張成績單,下列關於程玲的敘述,何者為真? (B) 引導學生去海外求學。 (A) 她積極參與學校活動。 (C) 教育學生成為好學生。 (B) 她害怕製作手工藝品。 (D) 展現如何獲得高薪工作。 (C) 她太嚴肅所以無法在班上交朋友。"
+    },
+    {
+      "id": "MOCK_111_2_ENG_024",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "What can NOT be inferred from the information on this report card?",
+      "image_url": "",
+      "options": [
+        "Ms. Li advises Ling to read and practice tying every day.",
+        "Ms. Li thinks that Ling helps the class a lot.",
+        "Ling has good relationships with most people at school.",
+        "Ling always does the work not only well but also quickly. ▲ 閱讀下文,回答第 35-37 題 To: All Grade 12 students From: International Education Institute th Date: May 18, 2022 (Wednesday) Dear Grade 12 students, Hope this letter finds you well. Before you go to college, I believe you must need more educational resources for planning your coming future. If you consider getting your bachelor’s degree in Australia, we can help! Our main office is near the school gate of Taipei University. You can visit us during weekdays from 9 (A)m. to 5 p.m. For your convenience, we will take part in the International University Exposition held in your school next Wednesday. You can reach us for more details in our booth on campus. Then if you have any questions, we are pleased to answer them. But if you don’t have time to visit our booth, it is strongly suggested that you visit our website for more information. Or, you can ask for hard copies by shooting us an email (service2022@gmail.com). Look forward to seeing you. May Li"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "下列何者無法從這張成績單訊息中推論而知? (B) 在澳洲的學生團體成員 (A) 李老師建議程玲每天閱讀和練習打字。 (C) 渴望海外求學的學生 (B) 李老師認為程玲對班上幫助很大。 (D) 教育機構的代表人員 (C) 程玲在學校和大部分的人有著良好關係。"
+    },
+    {
+      "id": "MOCK_111_2_ENG_025",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "According to the poster, what is the main purpose of this school event?",
+      "image_url": "",
+      "options": [
+        "To invite students to travel aboard.",
+        "To guide students to study overseas.",
+        "To educate students to behave well.",
+        "To display how to gain a high-salary job."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：111-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_2_ENG_026",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "From this letter, we can infer that May Li could be.",
+      "image_url": "",
+      "options": [
+        "a teacher from Bilingual Elementary School",
+        "a member of student groups in Australia",
+        "a student who desires to study aboard",
+        "a representative of an educational institute"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：111-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_2_ENG_027",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "If Mike is interested in this educational program, which of the following is NOT the way that he can use to get more information?",
+      "image_url": "",
+      "options": [
+        "To go to the school educational exposition.",
+        "To visit the office in Australia during weekdays.",
+        "To browse the official website of the educational institute.",
+        "To ask for hard copies via email. ▲ 閱讀下文,回答第 38-42 題 In the history of civilization, humans have spared no effort to fight for their rights but have hardly given “human rights” a clear definition. In general, human rights are entitled to every person without any conditions. That is, no matter where you come from, what you believe in, or how you live a life, you deserve to be treated as equally as any other person in this world. The notion of human rights appeared in 539 (B)(C) when the first king of Persia, Cyrus the Great, released slaves. As for its popularization, we could trace its history back to the time when people strived for legal civil rights. The Great Charter (1215) was made to remind people that even a king cannot change laws at will. Hundreds of years later, the Petition of Rights in 1628 officially stopped kings’ abuse of power. From then on, more people were allowed to fight for their civil liberties. However, to fulfill the fundamental human rights, the above was not enough. In the 1700s, the core of human rights turned into an emphasis on one’s freedom. The basic civil rights to organize government were announced and publicized officially in the Constitution of the U.S.(A) To perfect the notion of human rights, the Bill of Rights (1791) further guaranteed liberties to an individual, such as freedom of speech, religion, assembly, and petition*. Today, people not just seek for the equality of civil rights, but focus more on the rights for individual needs. For example, Human Rights Act (1998) laid down the law to prevent personality rights from being violated. Personal data, like financial condition, contact information, or even personal photos, should not be given away without permission. Besides, we still make efforts to reveal hidden unfairness happening between genders or in family relations. Perhaps, the definitions of human rights might continue changing with time. *petition 請願"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：111-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_111_2_ENG_028",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Which of the following is the best title for this passage?",
+      "image_url": "",
+      "options": [
+        "The Definition of Civil Right",
+        "The History of Human Revolution",
+        "The Development of Human Rights",
+        "The Formation of a Government"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "下列何者為最佳標題? 標點錯誤。 (A) 民權的定義 (B) 人類革命史 (1) 多數字詞組合正確,但有拼字、字詞增減或 (C) 人權的發展 (D) 政府的組成 標點錯誤。 2"
+    },
+    {
+      "id": "MOCK_111_2_ENG_029",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "What could “ the above ” possibly mean?",
+      "image_url": "",
+      "options": [
+        "The limitation of kings’ power",
+        "The popularity of a king",
+        "The power abuse of a king",
+        "The ancient laws around 500 (B)C"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "「以上」可能是指什麼? (2) 半數字詞組合正確,且無拼字、字詞增減或 (A) 對國王權力的限制 標點錯誤。 (B) 國王受歡迎的程度 (1) 半數字詞組合正確,但有拼字、字詞增減或 (C) 國王的權力濫用 標點錯誤。 (D) 大約公元前 500 年的古代法律 1 (2) 少數字詞組合正確,且無拼字、字詞增減或"
+    },
+    {
+      "id": "MOCK_111_2_ENG_030",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "According to this article, reorder the sequence of the following events.",
+      "image_url": "",
+      "options": [
+        "stop kings from power abuse  free slaves  build gender equality  publicize one’s freedom of assembly",
+        "free slaves  stop kings from power abuse  support one’s freedom of speech  value an individual’s privacy",
+        "free slaves  build gender equality  value an individual’s privacy  stop kings from power abuse",
+        "stop kings from power abuse  value an individual’s privacy  publicize one’s freedom of assembly  build equality in a family relationship"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據本文,排列下列事件順序性。 標點錯誤。 (A) 阻止國王濫權  解放奴隸  建立性別平等  公開 (1) 少數字詞組合正確,但有拼字、字詞增減或 集會自由 標點錯誤。 (B) 解放奴隸  阻止國王濫權  支持言論自由  重視 0 (2) 所有字詞組合錯誤。 個人隱私 (3) 只抄引導文字、題目或其他試題。 (C) 解放奴隸  建立性別平等  重視個人隱私  阻止 (4) 空白 ( 未書寫文字 ) 。 國王濫權 (D) 阻止國王濫權  重視個人隱私  公開集會自由  III. 中譯英 建立平等家庭關係"
+    },
+    {
+      "id": "MOCK_111_2_ENG_031",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "Which of the following can be an example of realizing human rights?",
+      "image_url": "",
+      "options": [
+        "A king changed rules when he was not happy.",
+        "A powerful man slaved the poor to build a castle.",
+        "A father ordered his daughter to marry a wealthy man.",
+        "A lawyer criticized his government by listing the unfairness."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "以下哪項可以是人權體現的例子? 解答: Peter decided to / determined to / was determined (A) 國王可以隨意改變規則。 to move back to his hometown (in order) to take care  [ 錯誤:第二段 The Great Charter (1215)] of / look after his parents. (B) 有權勢的人仁慈地奴役窮人。 In order to / To take care of / look after his parents, Peter  [ 錯誤:第二段 Cyrus the Great, 539 B.C] decided to / determined to / was determined to move back (C) 一位父親命令他的女兒嫁給一個有錢人。 to his hometown.  [ 錯誤:第四段 gender equality, family relations] 評閱指標 (D) 一位律師透過列舉不公不義之事批評政府。 級分 說明"
+    },
+    {
+      "id": "MOCK_111_2_ENG_032",
+      "subject": "英文",
+      "unit": "111-2-四技二專-00共同科目 英文",
+      "q": "“Even though my mom was a public figure, her social activities shouldn’t be put under the spotlight. Those who tried to leak her whereabouts should be accused......” This statement is mostly likely to fight for.",
+      "image_url": "",
+      "options": [
+        "slaves’ freedom",
+        "the freedom of speech",
+        "fundamental civilization",
+        "a celebrity’s personal privacy 二、非選擇題 ( 第 I 題,每格 2 分,共 4 分;第 II 到 III 題,每題 6 分。共 16 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "「即使我母親是一位公眾人物,她的社交活動也不應 能充分表達原文題意,文法、標點正確,用字 被放在聚光燈之下。那些嘗試洩漏她行蹤的人都應該 4 遣詞沒有不當之處。 111-2 共同科目 英文 詳解 能適切表達原文題意,文法、標點、用字遣詞 3 僅有少數不當之處。 僅能部分表達原文題意,文法、標點、用字遣 2 詞有多處失當之處。 無法表達原文題意,文法、標點、用字遣詞僅 1 有少數正確之處。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    }
+  ]
+}

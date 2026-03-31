@@ -1,0 +1,8091 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_UPPER_CH06",
+  "subject": "技術型高中機械群機件原理上冊",
+  "chapter": {
+    "code": "CH06",
+    "title": "06_軸承及連接裝置"
+  },
+  "title": "技術型高中機械群機件原理上冊 CHAPTER 軸承及連接裝置",
+  "source_pdf": "技術型高中機械群機件原理上冊_PPT/06_軸承及連接裝置.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "軸承及連接裝置"
+        },
+        {
+          "type": "paragraph",
+          "text": "本籣報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 丙容來源; 108 華興機件原理上冊 / 連結影片及部分圖片取目網路。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6-1 軸 承 的 種 類"
+        },
+        {
+          "type": "heading",
+          "text": "6-1 軸承的種類"
+        },
+        {
+          "type": "heading",
+          "text": "6-2 滾 動 軸 承 的 規 格 及 應 用"
+        },
+        {
+          "type": "heading",
+          "text": "6-2 滾動軸承的規格及應用"
+        },
+        {
+          "type": "heading",
+          "text": "6-3 聯 結 器 的 種 類 及 功 用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "6-3 聯結器的種類及功用 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "6-4 離 合 器 的 種 類 及 功 用 數"
+        },
+        {
+          "type": "heading",
+          "text": "6-4 離合器的種類及功用"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "6-1 軸承的種類"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸承 ( bearing ) 俗稱培林,是機械工業的心臟,凡需要轉動的"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件都少不了它,是機械中的固定機件,主要是用來支持、引 導並限制傳動軸在一定位置運動的機件,此外軸承尚有減少磨 擦損失、增加傳動效率之功能。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "136"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "軸承的種類甚多,依軸承受力方向可分為: 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "1. 徑向軸承:其承受負載方向與軸心垂直者。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "2. 止推軸承:又稱軸向軸承,其承受負載方向與軸心平行者。"
+        },
+        {
+          "type": "heading",
+          "text": "若依軸與軸承間之接觸方式可分為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 滑動軸承:軸與軸承間以面接觸(低對),且其相對運動為"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑動者。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 滾動軸承:軸與軸承間有鋼珠或滾子,呈點或線接觸(高 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "對),且其相對運動為滾動者。"
+        },
+        {
+          "type": "heading",
+          "text": "136"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "表 6-1"
+        },
+        {
+          "type": "heading",
+          "text": "滑動軸承與滾動軸承之比較"
+        },
+        {
+          "type": "heading",
+          "text": "軸承的種類"
+        },
+        {
+          "type": "heading",
+          "text": "比較項目"
+        },
+        {
+          "type": "heading",
+          "text": "滑動軸承"
+        },
+        {
+          "type": "heading",
+          "text": "滾動軸承"
+        },
+        {
+          "type": "heading",
+          "text": "適用軸徑"
+        },
+        {
+          "type": "heading",
+          "text": "較大"
+        },
+        {
+          "type": "heading",
+          "text": "較小"
+        },
+        {
+          "type": "heading",
+          "text": "適用轉速"
+        },
+        {
+          "type": "heading",
+          "text": "低"
+        },
+        {
+          "type": "heading",
+          "text": "負載"
+        },
+        {
+          "type": "heading",
+          "text": "起動阻力"
+        },
+        {
+          "type": "heading",
+          "text": "大"
+        },
+        {
+          "type": "heading",
+          "text": "潤滑情形"
+        },
+        {
+          "type": "heading",
+          "text": "容易"
+        },
+        {
+          "type": "heading",
+          "text": "散熱情形"
+        },
+        {
+          "type": "heading",
+          "text": "容易過熱而損壞"
+        },
+        {
+          "type": "heading",
+          "text": "不易過熱, 危險性較小"
+        },
+        {
+          "type": "heading",
+          "text": "運轉時間"
+        },
+        {
+          "type": "heading",
+          "text": "不適用於長時間運轉"
+        },
+        {
+          "type": "heading",
+          "text": "可長時間運轉"
+        },
+        {
+          "type": "heading",
+          "text": "運轉噪音"
+        },
+        {
+          "type": "heading",
+          "text": "轉速低故運轉噪音較小"
+        },
+        {
+          "type": "heading",
+          "text": "磨損情形"
+        },
+        {
+          "type": "heading",
+          "text": "有磨損但可調整再使用"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "耐振 ( 耐衝擊 ) 情形"
+        },
+        {
+          "type": "heading",
+          "text": "可承受輕微振動"
+        },
+        {
+          "type": "heading",
+          "text": "受振動易損壞"
+        },
+        {
+          "type": "heading",
+          "text": "尺寸大小"
+        },
+        {
+          "type": "heading",
+          "text": "徑向小、 軸向大"
+        },
+        {
+          "type": "heading",
+          "text": "徑向大、 軸向小"
+        },
+        {
+          "type": "heading",
+          "text": "裝配精度"
+        },
+        {
+          "type": "heading",
+          "text": "低"
+        },
+        {
+          "type": "heading",
+          "text": "高"
+        },
+        {
+          "type": "heading",
+          "text": "安裝情形"
+        },
+        {
+          "type": "heading",
+          "text": "容易"
+        },
+        {
+          "type": "heading",
+          "text": "困難"
+        },
+        {
+          "type": "heading",
+          "text": "標準化"
+        },
+        {
+          "type": "heading",
+          "text": "尚未標準化"
+        },
+        {
+          "type": "heading",
+          "text": "已標準化"
+        },
+        {
+          "type": "heading",
+          "text": "互換性"
+        },
+        {
+          "type": "heading",
+          "text": "高"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "維修情形"
+        },
+        {
+          "type": "heading",
+          "text": "容易"
+        },
+        {
+          "type": "heading",
+          "text": "困難"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "一、滑動軸承 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸與軸承間係以面接觸,材料大多為鑄鐵及鑄鋼,但因質地硬, 類 易造成軸頸磨損,故通常在軸與軸承之間會加一襯套,襯套材 料的硬度須較軸材料軟,一般以青銅、白合金 ( white metal ) 及 巴比特合金 ( Babbitt metal ) 為主。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "137"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-1 襯套"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑動軸承在使用時,須特別注重潤滑情形,在兩接觸面間必須 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "加入適當潤滑劑以形成薄膜,用以吸收熱量,減少動力的損失, 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "其潤滑劑可分為氣態(空氣、氮氣等)、液態(水、油、石膏、 乳化劑及酸類等)及固態(石墨、二硫化鉬、氧化鋁、雲母、 滑石與塑膠等)三類。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "137"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑動軸承常被廣泛使用在工程機具之活動關節,例如挖土機之 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "活動關節。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "137"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-2 滑動軸承的分類"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 徑向滑動軸承 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "徑向滑動軸承負載的方向與中心軸線垂直,依型式不同,可分"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "為下列三種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 整體軸承:為最簡單的軸承,適用於低速、重負載之傳動,"
+        },
+        {
+          "type": "paragraph",
+          "text": "常配合襯套使用,以延長使用壽命。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "138"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-3 整體軸承"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "2. 對合軸承:將軸承分軸承蓋與軸承座,上、下兩部以螺栓鎖 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "緊,接合處墊以墊片,便於調整軸頸與軸承間之鬆緊度,此 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "種軸承安裝及拆卸都很方便,廣泛應用於各類機構曲柄軸上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "138"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-4 對合軸承"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "3. 四部軸承:又稱四分套軸承,軸承之襯套分為上、下、左、 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "右四部分,可以分別調整以確保鬆緊度,此種軸承常應用於 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "大型機械之主軸軸承,如發電機、電動機等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "139"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-5 四部軸承"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 滑動止推軸承 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱軸向軸承,承受的負載方向與中心軸線平行,除支持傳動"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸作迴轉運動外,且可阻止傳動軸沿軸線方向移動,其依型式"
+        },
+        {
+          "type": "heading",
+          "text": "不同,又可分為下列四種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 環止推軸承:或稱套環軸承,為構造最簡單之止推軸承,依"
+        },
+        {
+          "type": "heading",
+          "text": "類型可分為:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 單環止推軸承:可承受雙方向的軸向推力,例如虎鉗螺桿。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 多環止推軸承:可承受雙方向重負載之軸向推力,此種軸 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "139"
+        },
+        {
+          "type": "paragraph",
+          "text": "承須配合使用自動潤滑裝置。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸承的種類"
+        },
+        {
+          "type": "heading",
+          "text": "自動潤滑裝置"
+        },
+        {
+          "type": "heading",
+          "text": "軸向"
+        },
+        {
+          "type": "heading",
+          "text": "推力一"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 環止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 單環止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 多環止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6 一 6 環止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "2. 階級軸承:又稱樞軸承、端軸承、垂直式止推軸承或基柱式 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "止推軸承,通常裝置在軸端,用於支持垂直軸,軸承底部具 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "有潤滑裝置。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "140"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-7 階級軸承"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "3. 流體靜壓軸承:又稱為 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "外壓軸承,適用於軸承 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "單位負載太大,不易由"
+        },
+        {
+          "type": "paragraph",
+          "text": "靜止起動時。若外力壓"
+        },
+        {
+          "type": "heading",
+          "text": "入之流體為空氣,可稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "靜壓空氣軸承。利用軸"
+        },
+        {
+          "type": "heading",
+          "text": "本身轉動所產生的流體"
+        },
+        {
+          "type": "heading",
+          "text": "動壓力,使空氣介於軸"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "承與軸頸間,稱為動壓 數"
+        },
+        {
+          "type": "heading",
+          "text": "141"
+        },
+        {
+          "type": "paragraph",
+          "text": "空氣軸承。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-8 流體靜壓軸承"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 特殊滑動軸承 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "1. 多孔軸承:又稱含油軸承,係以粉末治金燒結 ( sintering )"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "製成,製造之公差為 0.0254mm ( 0.001 吋)左右,完成後 的軸承具有許多小孔,約占軸承之 25 %,孔隙間填充以非 膠質潤滑油,當軸旋轉時,軸承孔內之潤滑油會滲出用以潤 滑,故又稱自潤軸承;適用於輕負載的徑向軸承。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "141"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-9 多孔軸承"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "2. 無油軸承:軸承內充以石墨或其他固體潤滑劑之軸承,使用 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "時不須外加潤滑劑,適用於輕負載及不可有汙染的食品加工 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-10 無油軸承"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "二、滾動軸承 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "軸承內具有滾動體, 類"
+        },
+        {
+          "type": "heading",
+          "text": "軸旋轉時,軸承以"
+        },
+        {
+          "type": "heading",
+          "text": "點或線接觸(高對)"
+        },
+        {
+          "type": "paragraph",
+          "text": "方式傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-11 滾動軸承的分類"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 滾珠軸承 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾動體部分為鋼質圓形滾珠,以點接觸方式來傳動,其應用的"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "範圍很廣,依受力方向及功用之不同,可分為徑向滾珠軸承及 止推滾珠軸承。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 徑向滾珠軸承:由外座圈、內座圈、"
+        },
+        {
+          "type": "heading",
+          "text": "滾珠及保持器四元件所構成,主要是"
+        },
+        {
+          "type": "paragraph",
+          "text": "承受徑向(與中心軸線垂直)負載。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "143"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-12 徑向滾珠軸承"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "徑向滾珠軸承一般較常見下列五種: 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 單列深槽滾珠軸承:為使用最廣泛的滾珠軸承,除了構成"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸承四元件外,有些會在其前後加上封閉板,用以防止潤 滑劑流失及防塵之功用,主要承受徑向負載,其可承受之 負載大小與滾珠直徑、數量成正比。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "144"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-13 單列深槽滾珠軸承"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 雙列深槽滾珠軸承:由兩個單列深槽滾珠軸承並排製造而 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "成,因能裝入滾珠數較多,故能承受的負載能力亦較大。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "144"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-14 雙列深槽滾珠軸承"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 單列斜角滾珠軸承:除了可承受較高的徑向負載外,特別 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "適用於承受單一方向的軸向負載或複合負載(同時可承受 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "徑向及軸向負載)。軸承內、外座圈與滾珠接觸的中心線, 相對於徑向之夾角,稱為「接觸角」,常見的接觸角有 15 °、 30 °、 45 ° 等,其接觸角愈大,可承受之軸向負載亦愈大。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "145"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-15 單列斜角滾珠軸承"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 雙列斜角滾珠軸承:能承受兩方向的軸向負載。 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "145"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-16 雙列斜角滾珠軸承"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 自動調心滾珠軸承:又稱自動對正滾珠軸承、球面滾珠軸 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "承,外座圈的軌道為球面,則當傳動軸與內座圈帶動滾珠 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "及保持器在迴轉時,其外座圈的軸線在某種程度內可自由 傾斜(撓角),即有自動調心之作用,不適於軸向推力特 大之處所。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-17 自動調心滾珠軸承"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "2. 滾珠止推軸承:由安裝在軸承殼上的「固定座圈」、裝置在 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳動軸上的「迴轉座圈」及滾珠、保持器四元件所構成,主 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "要是承受軸向(與中心軸線平行)負載,不具有承受徑向負"
+        },
+        {
+          "type": "heading",
+          "text": "載的能力,其種類可分成下列三種:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-18 滾珠止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 單式滾珠止推軸承:僅能承受單一方向的軸向負載,不適 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "合於高速迴轉,調心座可使軸承在微小角度偏差內具自動 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "對正中心之功能。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-19 單式滾珠止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 複式滾珠止推軸承:能承受兩方向的軸向負載,不適合於 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "高速迴轉。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "147"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-20 複式滾珠止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 複式斜角滾珠止推軸承:能承受兩方向的軸向負載,軸方 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "向的剛性大,是一種適合高速迴轉的高精度軸承。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "147"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-21 複式斜角滾珠止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 滾子軸承 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱滾柱軸承,滾動體部分為鋼質之圓柱、圓錐、球面者,"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "以線接觸方式來傳動,較滾珠軸承能承受更大負載。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 徑向滾子軸承:主要承受徑向(與中心軸線垂直)負載,"
+        },
+        {
+          "type": "heading",
+          "text": "一般常見下列四種:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 筒形滾子軸承;"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 錐形滾子軸承;"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 自動調心滾子軸承; 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 針形滾子軸承。"
+        },
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸承的種類"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 斷面圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6 一 22 筒形滾子軸承"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸承的種類"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 斷面圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6 一 23 錐形滾子軸承"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸承的種類"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 斷面圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6 一 24 自動調心滾子軸承"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸承的種類"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 斷面圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6 一 25 針形滾子軸承"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動調心滾子軸承具有自動調心作用,不但耐重負載能力大, 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "也可承受兩方向的軸向負載,且能耐衝擊。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "針形滾子軸承一般為直徑在 5mm 以下的針狀體,且滾子的長度 為直徑的 6 倍或 6 倍以上,而此種軸承可節省徑向空間,適用於 小型化、輕量化、輕負載、高速運轉之機械。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "2. 滾子止推軸承:主要承受軸向(與中心軸線平行)負載, 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "一般常見種類如下三種: 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 圓筒滾子止推軸承;"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 錐形滾子止推軸承;"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 球面滾子止推軸承。 圓筒滾子止推軸承可承受極大的軸向負載。錐形滾子止推軸 承及球面滾子止推軸承可承受軸向負載外,可支撐側推力或 複合負載。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "149"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸承的種類"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 斷面圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6 一 26 圓筒滾子止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸承的種類"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 斷面圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 實物圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6 一 27 錐形滾子止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 6-28 球面滾子止推軸承( SKF 億寶軸承股份有限公司提供)"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "6-2 滾動軸承的規格及應用"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾動軸承規格已標準化,規格標準化是為了達到國際化、互換"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "paragraph",
+          "text": "性,及符合大量生產之經濟要求,國家標準 CNS 參考國際標準 格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "組織 ( ISO ) 編訂了一套滾動軸承的規格,茲說明於下: 應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "一、滾動軸承的規格 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾動軸承主要尺度有內徑、外徑及寬度,其每一標準尺度都分 的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "paragraph",
+          "text": "有特輕級 ( 100 )、輕級 ( 200 )、中級 ( 300 )、重級 ( 400 ) 及 格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "特重級 ( 500 ) 五種等級之負載級序,括弧中之數字係表示其等 應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "級的級序,通常級序愈大,所能承受的負載亦愈大,若以相同 內徑的軸承而言,級序愈大,則軸承的外徑及寬度均愈大。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-29 滾動軸承的尺度及等孔徑負載級序"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾動軸承的種類及規格繁多,故其型式及尺寸大小等皆以 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "「公稱號碼」表示,而滾動軸承的公稱號碼是由「基本記號」 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "與「輔助記號」組成,其內容及排列順序如表 6-2 所示: 規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "151"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾動軸承的規格及應用"
+        },
+        {
+          "type": "heading",
+          "text": "表 6-2 滾動軸承公稱號碼的內容及排列順序"
+        },
+        {
+          "type": "heading",
+          "text": "輔助記號"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 11"
+        },
+        {
+          "type": "heading",
+          "text": "號內徑記號"
+        },
+        {
+          "type": "heading",
+          "text": "助封閉板記號"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 11"
+        },
+        {
+          "type": "heading",
+          "text": "號"
+        },
+        {
+          "type": "heading",
+          "text": "座圈環形狀記號"
+        },
+        {
+          "type": "heading",
+          "text": "本組合記號"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 11"
+        },
+        {
+          "type": "heading",
+          "text": "亻、 己號"
+        },
+        {
+          "type": "heading",
+          "text": "冖置於基本記號之前一"
+        },
+        {
+          "type": "heading",
+          "text": "接觸角記號"
+        },
+        {
+          "type": "heading",
+          "text": "保持器記號"
+        },
+        {
+          "type": "heading",
+          "text": "等及己號"
+        },
+        {
+          "type": "heading",
+          "text": "承軸承型式記號"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 1 一"
+        },
+        {
+          "type": "heading",
+          "text": "號冖寬度及直徑記號一"
+        },
+        {
+          "type": "heading",
+          "text": "尺寸級序"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 標註於基本記號前之輔助記號 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "paragraph",
+          "text": "主要為標註軸承材質代號,其輔助記號須置於基本記號之前,"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "paragraph",
+          "text": "有時可以省略。"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "151"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 基本記號 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "heading",
+          "text": "1. 軸承系列記號:依序由「軸承型式記號」及「尺寸級序」"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "paragraph",
+          "text": "組成。"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 1 軸承型式記號:用以標註軸承的型式,通常以號碼或 應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "字母表示,如附錄表 1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "151"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "表 1 軸承型式記號"
+        },
+        {
+          "type": "heading",
+          "text": "滾動軸承的規格及應用"
+        },
+        {
+          "type": "heading",
+          "text": "己號"
+        },
+        {
+          "type": "heading",
+          "text": "軸承型式"
+        },
+        {
+          "type": "heading",
+          "text": "己號"
+        },
+        {
+          "type": "heading",
+          "text": "軸承型式"
+        },
+        {
+          "type": "heading",
+          "text": "一一 11"
+        },
+        {
+          "type": "heading",
+          "text": "一一 11n"
+        },
+        {
+          "type": "heading",
+          "text": "自動調心 ( 對正 ) 滾珠軸承"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "自動調心 ( 對正 ) 滾子軸承"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "筒形滾子軸承"
+        },
+        {
+          "type": "heading",
+          "text": "雙列斜角滾珠軸承 ( 附內槽 )"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "錐形滾子軸承"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "雙列深槽滾珠軸承"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "雙列斜角滾珠軸承 ( 無內槽 )"
+        },
+        {
+          "type": "heading",
+          "text": "UCP"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "滾珠止推軸承"
+        },
+        {
+          "type": "heading",
+          "text": "連座軸承"
+        },
+        {
+          "type": "heading",
+          "text": "UCFC"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "單列深槽滾珠軸承"
+        },
+        {
+          "type": "heading",
+          "text": "UCFL"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "超大型軸承"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        },
+        {
+          "type": "heading",
+          "text": "單列斜角滾珠軸承"
+        },
+        {
+          "type": "heading",
+          "text": "BL"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 尺寸級序:用以標註軸承的寬度(厚)及直徑(外徑) 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "大小。尺寸級序由寬度級序與直徑級序組成,通常以號 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "碼表示,寬度級序以 8、 0、 1、 2、 3、 4、 5、 6 等記號 規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "表之,排序越後者寬度越大;直徑級序以 8、 9、 0、 1、"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "2、 3、 4 等記號表之,排序越後者直徑越大。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-30 滾動軸承的尺寸級序"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺寸級序是以寬度級序在前、直徑級序在後合併組成表示, 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "例如寬度級序為 \"0\",直徑級序為 \"2\",則尺寸級序記號以 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"02\" 表之,有時可省略 \"0\",僅以 \"2\" 表示,但若直徑級序為 規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"0\" 則不可省略。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "2. 內徑記號:是用以表示軸承的內徑尺度。 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "內徑實際尺度有下列五種標註規則,說明如下: 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 內徑為 10mm 以下者:若軸承內徑尺度為 1 至 9mm,"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "則內徑記號即為軸承內徑尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 內徑為 10、 12、 15、 17mm 者: 軸承內徑尺度為 10mm 者,內徑記號以 \"00\" 表示; 軸承內徑尺度為 12mm 者,內徑記號以 \"01\" 表示;"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸承內徑尺度為 15mm 者,內徑記號以 \"02\" 表示; 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸承內徑尺度為 17mm 者,內徑記號以 \"03\" 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "heading",
+          "text": "281"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 內徑為 20mm 以上至 500 以下者:即內徑記號為 04 ~ 96, 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "其軸承內徑尺度為內徑記號乘以 5 之值,例如軸承的規格 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "為 \"6316\",則後二位號碼表示內徑記號為 \"16\",其軸承 規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "內徑尺度為 16 × 5 = 80mm。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 內徑為 500mm 以上者:其內徑記號即為軸承內徑尺度。 (5) 內徑記號有斜線者:斜線後之數字即為軸承內徑尺度, 例如軸承的規格為 \"232/520\",即表示軸承內徑尺度為"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "520mm。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "281"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "3. 接觸角記號:其詳細說明可參閱附錄表 4。 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-31 軸承的接觸角"
+        },
+        {
+          "type": "heading",
+          "text": "51"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾動軸承的規格及應用"
+        },
+        {
+          "type": "heading",
+          "text": "表 4 接觸角記號"
+        },
+        {
+          "type": "heading",
+          "text": "軸承型式"
+        },
+        {
+          "type": "heading",
+          "text": "接觸角"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 11"
+        },
+        {
+          "type": "paragraph",
+          "text": "公稱接觸角超過 10。 在 22。 以下 ( 標準 15。 )"
+        },
+        {
+          "type": "heading",
+          "text": "O O"
+        },
+        {
+          "type": "heading",
+          "text": "斜角滾珠軸承"
+        },
+        {
+          "type": "paragraph",
+          "text": "公稱接觸角超過 22。 在 32。 以下 ( 標準 30。 ) 公稱接觸角超過 32。 在 45。 以下 ( 標準 40。 ) 公稱接觸角超過 10。 在 17。 以下"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "錐形滾子軸承"
+        },
+        {
+          "type": "paragraph",
+          "text": "公稱接觸角超過 17。 在 24。 以下 公稱接觸角超過 24。 在 32。 以下"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 標註於基本記號後之輔助記號 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "paragraph",
+          "text": "內容包括保持器記號、封閉板記號、座圈環形狀記號、組合記"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "paragraph",
+          "text": "號、間隙記號、等級記號等,如附錄表 5 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "153"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "表 5"
+        },
+        {
+          "type": "heading",
+          "text": "滾動軸承的規格及應用"
+        },
+        {
+          "type": "heading",
+          "text": "名稱"
+        },
+        {
+          "type": "heading",
+          "text": "記號"
+        },
+        {
+          "type": "heading",
+          "text": "意義"
+        },
+        {
+          "type": "heading",
+          "text": "意義"
+        },
+        {
+          "type": "heading",
+          "text": "FI"
+        },
+        {
+          "type": "heading",
+          "text": "鋼 ( 機製 )"
+        },
+        {
+          "type": "heading",
+          "text": "LI"
+        },
+        {
+          "type": "heading",
+          "text": "銅合金"
+        },
+        {
+          "type": "heading",
+          "text": "背面組合"
+        },
+        {
+          "type": "heading",
+          "text": "PB"
+        },
+        {
+          "type": "heading",
+          "text": "磷青銅"
+        },
+        {
+          "type": "heading",
+          "text": "正面組合"
+        },
+        {
+          "type": "heading",
+          "text": "6 · 保持器記"
+        },
+        {
+          "type": "heading",
+          "text": "Y"
+        },
+        {
+          "type": "heading",
+          "text": "黃銅"
+        },
+        {
+          "type": "heading",
+          "text": "並列面組合"
+        },
+        {
+          "type": "heading",
+          "text": "號"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "無持器"
+        },
+        {
+          "type": "heading",
+          "text": "附間座 ( 為間座的"
+        },
+        {
+          "type": "heading",
+          "text": "TI"
+        },
+        {
+          "type": "heading",
+          "text": "合成樹脂"
+        },
+        {
+          "type": "heading",
+          "text": "標準寬度尺寸 )"
+        },
+        {
+          "type": "heading",
+          "text": "J"
+        },
+        {
+          "type": "heading",
+          "text": "鋼 ( 衝製 )"
+        },
+        {
+          "type": "heading",
+          "text": "z"
+        },
+        {
+          "type": "heading",
+          "text": "單面鋼板"
+        },
+        {
+          "type": "heading",
+          "text": "CI"
+        },
+        {
+          "type": "heading",
+          "text": "比 C2 間隙小"
+        },
+        {
+          "type": "heading",
+          "text": "兩面鋼板"
+        },
+        {
+          "type": "heading",
+          "text": "C2"
+        },
+        {
+          "type": "heading",
+          "text": "比普通間隙小"
+        },
+        {
+          "type": "heading",
+          "text": "7 · 封閉板記"
+        },
+        {
+          "type": "heading",
+          "text": "合成橡膠 ( 非接觸型 )"
+        },
+        {
+          "type": "heading",
+          "text": "C3"
+        },
+        {
+          "type": "heading",
+          "text": "比普通間隙大"
+        },
+        {
+          "type": "heading",
+          "text": "LLB"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "C4"
+        },
+        {
+          "type": "heading",
+          "text": "比 C3 間隙大"
+        },
+        {
+          "type": "heading",
+          "text": "號"
+        },
+        {
+          "type": "heading",
+          "text": "合成橡膠 ( 接觸型 )"
+        },
+        {
+          "type": "heading",
+          "text": "LLU"
+        },
+        {
+          "type": "heading",
+          "text": "F"
+        },
+        {
+          "type": "heading",
+          "text": "單面附毛毯"
+        },
+        {
+          "type": "heading",
+          "text": "無記號普通間隙"
+        },
+        {
+          "type": "heading",
+          "text": "FF"
+        },
+        {
+          "type": "heading",
+          "text": "兩面附毛毯"
+        },
+        {
+          "type": "heading",
+          "text": "預壓"
+        },
+        {
+          "type": "heading",
+          "text": "/ G00"
+        },
+        {
+          "type": "heading",
+          "text": "0 級"
+        },
+        {
+          "type": "heading",
+          "text": "K"
+        },
+        {
+          "type": "heading",
+          "text": "內徑錐度 1 / 12"
+        },
+        {
+          "type": "heading",
+          "text": "座狀"
+        },
+        {
+          "type": "heading",
+          "text": "環號"
+        },
+        {
+          "type": "heading",
+          "text": "P4"
+        },
+        {
+          "type": "heading",
+          "text": "JIS4 級"
+        },
+        {
+          "type": "heading",
+          "text": "N"
+        },
+        {
+          "type": "heading",
+          "text": "附環槽"
+        },
+        {
+          "type": "heading",
+          "text": "11 一 1"
+        },
+        {
+          "type": "heading",
+          "text": "P5"
+        },
+        {
+          "type": "heading",
+          "text": "JIS5 級"
+        },
+        {
+          "type": "heading",
+          "text": "NR"
+        },
+        {
+          "type": "heading",
+          "text": "附固定環"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "P6"
+        },
+        {
+          "type": "heading",
+          "text": "JIS6 級"
+        },
+        {
+          "type": "heading",
+          "text": "54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "二、規格標註的應用實例 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 三位數字的軸承號碼 的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "1. 數字前面有英文字母時,則最後兩位數字乘以 5 之值,即為"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "paragraph",
+          "text": "該軸承的內徑尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "153"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "55"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "2. 數字前面無英文字母時,則最後一位數字(即第三位數字), 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "即直接表示軸承內徑尺度。 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "153"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "56"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 四位數字的軸承號碼 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "heading",
+          "text": "1. 四位數字中無斜線者,則最後兩位數字(即第三、第四位數"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "paragraph",
+          "text": "字)乘以 5 之值,即為該軸承的內徑尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "154"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "2. 四位數字中有斜線者,則斜線後的數字,即為該軸承的內徑 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺度。 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "154"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p058.jpg"
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 五位或六位數字的軸承號碼 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "heading",
+          "text": "承"
+        },
+        {
+          "type": "heading",
+          "text": "1. 五位數字中無斜線者,則最後兩位數字乘以 5 之值,即為該"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸承的內徑尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "154"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾"
+        },
+        {
+          "type": "heading",
+          "text": "2. 五位或六位數字中有斜線者,則斜線後的數字,即為該軸承 動"
+        },
+        {
+          "type": "heading",
+          "text": "軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "的內徑尺度。 承"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "155"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滾動軸承的規格及應用"
+        },
+        {
+          "type": "heading",
+          "text": "例題 6-7"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "/ 560"
+        },
+        {
+          "type": "paragraph",
+          "text": "接觸角記號: 標準接觸角 40。。"
+        },
+        {
+          "type": "heading",
+          "text": "內徑記號: 軸承內徑尺度為 560mm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺寸級序: 寬度級序為 “ 3 ”, 直徑級序為 '"
+        },
+        {
+          "type": "heading",
+          "text": "' 2 ”"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸承型式記號: 自動調心滾子軸承。"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "6-3 聯結器的種類及功用"
+        },
+        {
+          "type": "heading",
+          "text": "結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸的使用以整體製造為原則,但實際上會因材料或加工限制、"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳動軸前後轉速不同、兩轉軸不在同一中心線上等因素,必須 及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "將軸分段製造,再利用軸的「連接裝置」結合後使用。 用 軸的「連接裝置」在應用上可分為兩種:直接永久結合連接者, 稱為聯結器 ( coupling );可作間歇離合連接者,稱為離合器 ( clutch )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "155"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-32 聯結器的分類"
+        },
+        {
+          "type": "heading",
+          "text": "63"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p063.jpg"
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "一、剛性聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "用於兩傳動軸需永久結合,作為軸的直線延長之處,其特性僅 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "適用於兩軸中心軸線必須完全同心且低轉速傳動,不允許有軸 及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "向偏差、角度偏差及旋轉撓曲的場合。 用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p064.jpg"
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 軸環聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱套筒聯結器或筒形聯結器,為聯結器中最簡單的一種,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "僅適用於輕負載傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-33 軸環聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "65"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 分筒聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "亦稱夾板聯結器、盒形聯結器。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "157"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-34 分筒聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "66"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p066.jpg"
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 摩擦阻環聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "亦稱環圈壓縮聯結器,藉由機件間的摩擦力來傳達動力,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "僅能傳達極輕之負載,且不適於振動較大之場合。"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "157"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-35 摩擦阻環聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p067.jpg"
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 凸緣聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "是最常用的一種聯結器,軸旋轉時螺栓受扭力作用而傳達動力,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "常用於大型軸的聯結。"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "157"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-36 凸緣聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p068.jpg"
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 賽勒氏錐形聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為壓縮聯結器,由於斜面的作用,加上螺栓加壓鎖緊,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "所以對軸產生極大的鎖緊力。"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "158"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-37 賽勒氏錐形聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "69"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p069.jpg"
+    },
+    {
+      "page": 70,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "二、撓性聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "聯結器具有適當的撓曲性,可使兩傳動軸能應用於下列傳動場 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "合: (1) 兩軸間允許有微量的中心線偏差或角度偏差; (2) 兩軸 及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "可有小量的軸向移動; (3) 兩軸間可有小量的扭矩變化; (4) 可 用 利用聯結器吸收一部分振動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "158"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "70"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p070.jpg"
+    },
+    {
+      "page": 71,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 歐丹聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "為等腰連桿機構之應用,係由三個圓盤形凸緣軸件組成,傳動"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "時三個圓盤軸件組合成一體,並連接主動軸與從動軸,可達同"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "步效果,適用於兩軸互相平行但不在同一中心線上,但只允許"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "少量偏心且兩軸的角速度須絕對相等之連接傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "159"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-38 歐丹聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "71"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p071.jpg"
+    },
+    {
+      "page": 72,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 萬向接頭聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱虎克接頭或十字接頭,為球面四連桿機構之應用,適用於"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩軸中心軸線交於一點,且兩軸角速度可任意變更之連接傳動,"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "常見於機械或汽車之傳動軸上。"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "159"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-39 萬向接頭聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "72"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p072.jpg"
+    },
+    {
+      "page": 73,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "paragraph",
+          "text": "當主動軸以等角速度旋轉,從動軸作不等角速度運動,且其角 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "速度視兩軸夾角( θ )之大小而變,而兩軸之角速比(即 ε = 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "ω"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "主"
+        },
+        {
+          "type": "paragraph",
+          "text": ")在 cosθ ~ 之間變化,角速比變化愈大會造成旋轉 及"
+        },
+        {
+          "type": "heading",
+          "text": "ω"
+        },
+        {
+          "type": "heading",
+          "text": "cosθ 功"
+        },
+        {
+          "type": "heading",
+          "text": "從"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "困難及易發生震動之現象,故兩軸夾角以不超過 30 °為宜, 5 ° 以下為最理想。汽車傳動軸上常用萬向接頭,且多以成對使用, 在兩個萬向接頭中間另加設一軸,稱為中間軸或副軸,而兩組 的軸夾角皆須相等,如此可使主動軸與從動軸之角速度完全相"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "同。"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "159"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "73"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p073.jpg"
+    },
+    {
+      "page": 74,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 鏈條聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "允許兩軸間有微量偏心或角度偏差。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-40 鏈條聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "74"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p074.jpg"
+    },
+    {
+      "page": 75,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 撓性齒輪聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "允許兩軸間有微量偏心或角度偏差。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-41 撓性齒輪聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "75"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p075.jpg"
+    },
+    {
+      "page": 76,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 撓性彈簧聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "允許兩軸間有微量偏心或角度偏差,僅適用於低速軸傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "161"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-42 撓性彈簧聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "76"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p076.jpg"
+    },
+    {
+      "page": 77,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 撓性盤聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "適用於有較大偏心、角度偏差或軸向移動的傳動連接處。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "161"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-43 撓性盤聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "77"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p077.jpg"
+    },
+    {
+      "page": 78,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 七 ) 脹縮接頭聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "藉由彈性材料具熱脹冷縮之特性,允許兩軸有小量的軸向移動"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "餘隙或扭矩變化,應用於低轉速場合為佳,特別適用於軸受熱"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "而發生膨脹時。"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-44 脹縮接頭聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "78"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p078.jpg"
+    },
+    {
+      "page": 79,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 八 ) 彈性材料膠合聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "允許兩軸有小量的軸向移動或扭矩變化,僅適用傳動小動力。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-45 彈性材料膠合聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "79"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p079.jpg"
+    },
+    {
+      "page": 80,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "聯"
+        },
+        {
+          "type": "heading",
+          "text": "( 九 ) 彈性材料凸緣聯結器 結"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳動時可緩和衝擊,適用於傳送中、低轉速,且允許兩軸間有"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "微量角度偏差或扭矩變化。"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-46 彈性材料凸緣聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "80"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p080.jpg"
+    },
+    {
+      "page": 81,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "6-4 離合器的種類及功用"
+        },
+        {
+          "type": "heading",
+          "text": "合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "離合器功用是在"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "主動軸仍在轉動 及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "狀態下,隨時分 用"
+        },
+        {
+          "type": "heading",
+          "text": "離或結合從動軸,"
+        },
+        {
+          "type": "heading",
+          "text": "達到間歇離合連"
+        },
+        {
+          "type": "paragraph",
+          "text": "接之功能。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "163"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-47 離合器的分類"
+        },
+        {
+          "type": "heading",
+          "text": "81"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p081.jpg"
+    },
+    {
+      "page": 82,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "一、確動離合器 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱爪離合器、顎夾離合器,是最簡單又有確動作用的離合器, 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "此類離合器係藉由顎爪嚙合處之扭力傳動,可承受較大的負載。 及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "82"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p082.jpg"
+    },
+    {
+      "page": 83,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 方爪離合器 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "能雙向傳動,不論正轉或反轉都能產生確實的離合作用,唯連"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "接時須待兩軸停止或兩軸同步轉動時才能操作。"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-48 方爪離合器"
+        },
+        {
+          "type": "heading",
+          "text": "83"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p083.jpg"
+    },
+    {
+      "page": 84,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 螺旋爪離合器 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱斜爪離合器、棘爪離合器,只能作單方向的動力傳遞,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "故僅適用於小負載的傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-49 螺旋爪離合器"
+        },
+        {
+          "type": "heading",
+          "text": "84"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p084.jpg"
+    },
+    {
+      "page": 85,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "二、摩擦離合器 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "係利用兩個或數個接觸面的摩擦力作動力傳遞,其優點為動力 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "接合與分離時較平穩順暢,傳動時所產生之衝擊與振動較小, 及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "且負載過大時,兩軸在接觸面處會產生打滑,而不致損壞機件, 用 具保護作用;而缺點為從動軸之轉速較不穩定。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "165"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "85"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p085.jpg"
+    },
+    {
+      "page": 86,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 軸向摩擦離合器 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "1. 錐形離合器:利用兩個圓錐面間之摩擦力以傳遞動力,其圓"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "錐之半錐角 ( α ) 與摩擦力成反比(與軸向推力成正比),但"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "若半錐角太小,則摩擦力會太大而產生分離困難,而半錐角"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "太大,摩擦力會太小而無法產生足夠的傳動力,故圓錐之半 錐角通常在 8 ° ~ 15 ° 之間,以 12.5 ° 最佳,在從動軸上裝設有 軸環 ( collar ) 及撥桿 ( shifter ),用以撥動從動軸,使其與離 合器分離,再利用彈簧之回彈力以產生連接傳動,而一般手 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "動式的離合器之操縱機構,即是藉著上述之軸環與撥桿的作 數"
+        },
+        {
+          "type": "heading",
+          "text": "165"
+        },
+        {
+          "type": "paragraph",
+          "text": "用來操縱,除此之外尚有油壓、空壓、電磁力等操縱方式。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "86"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p086.jpg"
+    },
+    {
+      "page": 87,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離合器的種類及功用"
+        },
+        {
+          "type": "heading",
+          "text": "FnSin"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 受力示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 實物照"
+        },
+        {
+          "type": "heading",
+          "text": "錐形摩擦面"
+        },
+        {
+          "type": "heading",
+          "text": "彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "撥桿"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "主動軸"
+        },
+        {
+          "type": "heading",
+          "text": "從動軸"
+        },
+        {
+          "type": "heading",
+          "text": "回. • 回"
+        },
+        {
+          "type": "heading",
+          "text": "軸環"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6 一 50 錐形離合器"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 構造傳動示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "87"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p087.jpg"
+    },
+    {
+      "page": 88,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "paragraph",
+          "text": "D:錐形離合器錐軸之大徑。 合"
+        },
+        {
+          "type": "heading",
+          "text": "o"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "D:錐形離合器錐軸之小徑。 的"
+        },
+        {
+          "type": "heading",
+          "text": "i"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "F:錐形離合器所承受的軸向推力。"
+        },
+        {
+          "type": "heading",
+          "text": "a 及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "F:接觸面切線方向的摩擦力。"
+        },
+        {
+          "type": "heading",
+          "text": "t 用"
+        },
+        {
+          "type": "paragraph",
+          "text": "F:垂直接觸面的正壓力。"
+        },
+        {
+          "type": "heading",
+          "text": "n"
+        },
+        {
+          "type": "paragraph",
+          "text": "μ:接觸面之摩擦係數。 A:兩錐形離合器之接觸面積。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "B:兩錐形離合器之接觸面寬度。"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "α:錐形離合器之半錐角。"
+        },
+        {
+          "type": "heading",
+          "text": "166"
+        },
+        {
+          "type": "paragraph",
+          "text": "P:接觸面之壓應力(即單位面積之壓力)。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "88"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p088.jpg"
+    },
+    {
+      "page": 89,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "錐形離合器接觸面的正壓力 ( F ) 與切線方向的摩擦力 ( F ),"
+        },
+        {
+          "type": "heading",
+          "text": "n t"
+        },
+        {
+          "type": "paragraph",
+          "text": "均可分成垂直中心軸之「徑向分力」與平行中心軸之「軸向分 力」,而其兩力的軸向分力之和,即為錐形離合器所承受的軸"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "向推力 ( F a ),而接觸面之摩擦力又為摩擦係數與正壓力之乘積 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "( F = μ × F ),故可得 166"
+        },
+        {
+          "type": "heading",
+          "text": "t n"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "89"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p089.jpg"
+    },
+    {
+      "page": 90,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離合器的種類及功用"
+        },
+        {
+          "type": "heading",
+          "text": "6-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fa=Fnsina+Ftcosa =Fn(sina+ gcosa)"
+        },
+        {
+          "type": "heading",
+          "text": "6-3"
+        },
+        {
+          "type": "heading",
+          "text": "Ft=g><Fn"
+        },
+        {
+          "type": "heading",
+          "text": "Sin 十 COS"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "6-4"
+        },
+        {
+          "type": "heading",
+          "text": "FaDm"
+        },
+        {
+          "type": "heading",
+          "text": "T=Ft><Rm"
+        },
+        {
+          "type": "heading",
+          "text": "2(sina+ cos )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p090.jpg"
+    },
+    {
+      "page": 91,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "F n"
+        },
+        {
+          "type": "heading",
+          "text": "合"
+        },
+        {
+          "type": "paragraph",
+          "text": "接觸面之壓應力 P =,而錐形離合器之接觸面積 A = π D B,"
+        },
+        {
+          "type": "heading",
+          "text": "m"
+        },
+        {
+          "type": "heading",
+          "text": "A 器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "再整理後可得錐形離合器所承受的軸向推力( F )為 種"
+        },
+        {
+          "type": "heading",
+          "text": "a"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "167"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "91"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p091.jpg"
+    },
+    {
+      "page": 92,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離合器的種類及功用"
+        },
+        {
+          "type": "heading",
+          "text": "例題 6-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一半錐角為 12 · 5。 之錐形離合器, 其接觸面寬度為 10cm, 錐軸的平均直徑為 50cm, 接觸面之摩擦係數為 0 · 2, 若錐面允許的工作應力為 10kPa, 試求: ( 1 ) 可承 受的軸向推力為多少牛頓? ( 2 ) 所能傳動的最大扭矩為若干 N - cm? (sin12.50= 0 · 2164, cos12.50 = 0 · 9762 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知 = 12 · 5。, B = 10cm, Dm= 50cm, = 0 · 2, P= 10kPa= 1N/cm"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 6 一 5 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "F = P × DmB(sin 十 cos )"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 1 × × 50 × 10 ( sin12 · 5。 十 0 · 2 × c0S12 · 5。 ) = 646 · 27N"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 由公式 ( 6 一 4 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "FaDm"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 2 × 646 · 27 × 50"
+        },
+        {
+          "type": "heading",
+          "text": "= 7850N 一 cm"
+        },
+        {
+          "type": "heading",
+          "text": "2(sina+ cosa)"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 ( sin12 · 5。 十 0 · 2 × cos12.50)"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "92"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p092.jpg"
+    },
+    {
+      "page": 93,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "2. 圓盤離合器:又稱片狀離合器,主要係由摩擦片、飛輪及壓 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "力板所構成,其摩擦片可視為錐形離合器之半錐角( α )成 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "90 ° 時,且為增加傳動的扭轉力矩,一般會將圓盤離合器裝 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "置多組摩擦片以增加摩擦面,此種離合器稱為多盤式離合器。"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "167"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-51 圓盤離合器"
+        },
+        {
+          "type": "heading",
+          "text": "93"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p093.jpg"
+    },
+    {
+      "page": 94,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "paragraph",
+          "text": "D:圓盤離合器之大徑。 D:圓盤離合器之小徑。 合"
+        },
+        {
+          "type": "heading",
+          "text": "o i"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "F:圓盤所承受的軸向推力。 F:圓盤上的摩擦力。"
+        },
+        {
+          "type": "heading",
+          "text": "a t 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "F:垂直接觸面的正壓力。 μ:接觸面之摩擦係數。 及"
+        },
+        {
+          "type": "heading",
+          "text": "n"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "P:接觸面之壓應力(即單位面積之壓力)。 A:圓盤離合器之接觸面積。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "168"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "94"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p094.jpg"
+    },
+    {
+      "page": 95,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "paragraph",
+          "text": "因圓盤離合器的半錐角 α = 90 °,垂直接觸面的正壓力與軸平行, 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "則 F = F,又圓盤上的摩擦力為接觸面之摩擦係數與正壓力之 的"
+        },
+        {
+          "type": "heading",
+          "text": "n a"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "乘積( F = μ F ),故可得扭矩( T )為 類"
+        },
+        {
+          "type": "heading",
+          "text": "t n"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "168"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "95"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p095.jpg"
+    },
+    {
+      "page": 96,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "paragraph",
+          "text": "若圓盤離合器超大,其接觸面很寬時,其圓盤離合器之平均直 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "徑( D )必須改以公式( 6-8 )求得 的"
+        },
+        {
+          "type": "heading",
+          "text": "m"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "168"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "96"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p096.jpg"
+    },
+    {
+      "page": 97,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "F n 離"
+        },
+        {
+          "type": "paragraph",
+          "text": "假設圓盤上的壓力為均勻分布,則接觸面之壓應力 P =, 合"
+        },
+        {
+          "type": "heading",
+          "text": "A 器"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 的"
+        },
+        {
+          "type": "paragraph",
+          "text": "因 F = F,且圓盤離合器之接觸面積 A = (D - D ),"
+        },
+        {
+          "type": "heading",
+          "text": "n a o i 種"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "故可得圓盤所承受的軸向推力( F )為 及"
+        },
+        {
+          "type": "heading",
+          "text": "a"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "169"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "97"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p097.jpg"
+    },
+    {
+      "page": 98,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離合器的種類及功用"
+        },
+        {
+          "type": "heading",
+          "text": "例題 6-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一圓盤離合器, 外徑為 12cm, 內徑為 8cm, 若圓盤面所承受的均匀的壓應力為 20kPa, 接觸面之摩擦係數為 0 · 25, 試求: ( 1 ) 圓盤離合器可承受的軸向推力為多少牛 頓? ( 2 ) 所能傳遞之扭矩為若干 N 一 cm? 已知 D。 = 12cm, DI= 8cm, P=20kPa= 2N/cm, = 0 · 25"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 6 一 9 ), 得"
+        },
+        {
+          "type": "paragraph",
+          "text": "× 2 × ( 12 」 一 8 = 125 · 6N"
+        },
+        {
+          "type": "heading",
+          "text": "一 P(D02 一 D12) ="
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 由公式 ( 6 一 6 ) 及公式 ( 6 一 7 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "DO+D"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "FaDm"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "12 十 8"
+        },
+        {
+          "type": "heading",
+          "text": "一 × 0 · 25 × 125 · 6 × ("
+        },
+        {
+          "type": "heading",
+          "text": ") = 157N-cm"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "98"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p098.jpg"
+    },
+    {
+      "page": 99,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 徑向摩擦離合器 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "1. 塊狀離合器:係利用一個或多個塊狀物(摩擦片),經由徑"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "向力( F )加壓於圓筒表面上,產生摩擦力以傳達扭矩,接"
+        },
+        {
+          "type": "heading",
+          "text": "r 及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "觸面上的壓力可視為均勻不變,塊狀物可置於圓筒的內側或"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "外側,但其接觸角( θ )不得超過 60 °,否則易受力不均。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "169"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "99"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p099.jpg"
+    },
+    {
+      "page": 100,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "170"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-52 塊狀離合器"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p100.jpg"
+    },
+    {
+      "page": 101,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "2. 帶離合器:藉由一條撓性的鋼帶,鋼帶面上覆有摩擦係數大 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "的材質,帶的一端固定於主動或從動件上,另一端繞過一輪 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "鼓後連接於操縱機構,利用操縱機構將鋼帶拉緊與輪鼓密合 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "時,主動件與從動件合而為一體,用以傳達動力,其適用於"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "重負載與衝擊之傳動,常見於礦場起重機之傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "170"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "101"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p101.jpg"
+    },
+    {
+      "page": 102,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "拉力反作用力"
+        },
+        {
+          "type": "heading",
+          "text": "離合器的種類及功用"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6 一 53 帶離合器"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 撓性鋼帶"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 實物照"
+        },
+        {
+          "type": "heading",
+          "text": "102"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p102.jpg"
+    },
+    {
+      "page": 103,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "三、其他離合器 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 流體離合器 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "以液壓油為媒介,能緩和起動或終止時之衝擊力,常見於汽車"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "之自動排檔裝置。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "171"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-54 流體離合器"
+        },
+        {
+          "type": "heading",
+          "text": "103"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p103.jpg"
+    },
+    {
+      "page": 104,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 乾流體離合器 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "乾流體材料是介於固體與液體間之媒介物,常以小鋼球、鐵粉"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "等為材料,乾流體材料,因旋轉產生的離心力作用,而將從動"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "的轉板夾緊並使之旋轉,"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "藉以傳送動力。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "171"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-55 乾流體離合器"
+        },
+        {
+          "type": "heading",
+          "text": "104"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p104.jpg"
+    },
+    {
+      "page": 105,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 電磁離合器 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "藉由電路產生磁場及吸引力,以傳送動力,其優點為不需要使"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "用離合器之操縱機構,主要以電路進行控制,操作簡單,但缺"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "點為結構複雜、價格昂貴、功率損耗大。"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "172"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-56 電磁離合器"
+        },
+        {
+          "type": "heading",
+          "text": "105"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p105.jpg"
+    },
+    {
+      "page": 106,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "離"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 超越式離合器 合"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱單向離合器或自由輪,只允許主動件朝單一方向旋轉時,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "始可傳達動力,若主動件反向轉動時,則無法帶動從動件轉動。"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "172"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 6-57 超越式離合器"
+        },
+        {
+          "type": "heading",
+          "text": "106"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p106.jpg"
+    },
+    {
+      "page": 107,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "107"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch06/p107.jpg"
+    }
+  ]
+}

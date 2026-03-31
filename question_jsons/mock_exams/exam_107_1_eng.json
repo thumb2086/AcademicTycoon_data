@@ -1,0 +1,501 @@
+{
+  "bundle_id": "MOCK_107_1_ENG",
+  "questions": [
+    {
+      "id": "MOCK_107_1_ENG_001",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "There is no need to yourself with others all the time. Just be yourself and keep working hard.",
+      "image_url": "",
+      "options": [
+        "afford",
+        "compare",
+        "separate",
+        "establish"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "不需要總是拿自己和別人做比較,只要做自己並持續 (A) 我真希望能跟你們一起去。 努力即可。 (B) 我馬上來預約。 (A) 負擔的起 (B) 比較 (C) 分開 (D) 建立 (C) 你邀請多少人呢?"
+    },
+    {
+      "id": "MOCK_107_1_ENG_002",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "In recent years, severe earthquakes have caused great to some areas on earth.",
+      "image_url": "",
+      "options": [
+        "satisfaction",
+        "religion",
+        "damage",
+        "competition"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "rain / the weather report, / According to / it / this afternoon / is likely to 解答: According to the weather report, it is likely to rain this afternoon. 評閱指標 級分 說明 所有字詞組合正確,句子通順、完整,句法結 4 構及連貫性甚佳,拼寫及標點完全正確。 多數字詞組合正確,句子通順、完整,句法結 3 構及連貫性佳,但有拼寫或標點錯誤。 僅有部分字詞組合正確,句法結構不良,且缺 2 乏連貫性,或有拼寫、標點錯誤。 多數字詞組合及語法結構錯誤甚多,且缺乏連 1 貫性,或有拼寫、標點錯誤。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 只抄引導文字。 (5) 內容完全離題或錯誤。 III. 中譯英"
+    },
+    {
+      "id": "MOCK_107_1_ENG_003",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Martin was wise enough to grab the great to work abroad and he has learned a lot.",
+      "image_url": "",
+      "options": [
+        "opportunity",
+        "protection",
+        "behavior",
+        "disease"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Andrew 每天至少花兩小時讀英文。 解 答: Andrew spends at least two hours studying English every day. 或 It takes Andrew at least two hours to study English every day. 或 Andrew takes at least two hours to study English every day. p.s. every day 也可置於 two hours 之後 例如: It takes Andrew at least two hours every day to study English. 評閱指標 級分 說明 能充分表達原文題意,對題材有絕佳的掌握, 4 句子結構及連貫性甚佳。文法及標點正確,用 字遣詞沒有或僅有極少不當之處。 能適切表達原文題意,對題材有良好的掌握, 3 句子結構及連貫性大致得當。文法及標點、用 字遣詞有少數不當之處,但不妨礙題意之表達。 僅能部分表達原文題意,句子結構不良或有 2 誤,且大多難以理解並缺乏連貫性。文法及標 點、用字遣詞有失當之處。 無法表達原文題意,句子沒有結構概念及連貫 1 性,無法理解。文法及標點、用字遣詞之錯誤 甚多。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_004",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Greg has to have physical check-ups after the surgery. He goes back to hospital every three months.",
+      "image_url": "",
+      "options": [
+        "globally",
+        "similarly",
+        "increasingly",
+        "regularly"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Greg 手術後,必須定期作身體檢查。他每三個月就 (B) 我有很多工作要做。 要回醫院。 (C) 我的體重一直困擾著我。 (A) 全球地 (B) 類似地 (C) 逐漸地 (D) 定期地 (D) 休息一下有助於減重。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_005",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "The latest model of the smartphone is not now. Those who want to buy it have to wait for a month.",
+      "image_url": "",
+      "options": [
+        "technical",
+        "satisfactory",
+        "professional",
+        "available"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "這個手機的最新款目前缺貨,想買的人還要等一個"
+    },
+    {
+      "id": "MOCK_107_1_ENG_006",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "No matter who you are, having a positive toward life is very important.",
+      "image_url": "",
+      "options": [
+        "attitude",
+        "threat",
+        "discount",
+        "distance"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "不論你是誰,對人生持著正向的態度是很重要的。 (A) 你人真好邀請我。 (A) 態度 (B) 威脅 (C) 折扣 (D) 距離 (B) 我必須加班。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_007",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Taiwanese people over 65 years old account for 14 percent of the country’s total, which means Taiwan has become an aged society.",
+      "image_url": "",
+      "options": [
+        "information",
+        "population",
+        "condition",
+        "prediction"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "臺灣 65 歲以上的人口佔了這個國家總人口的百分之 (C) 你有什麼點子? 十四,這意味著臺灣已成為一個高齡化社會。 (D) 我不確定我有沒有假期。 (A) 資訊 (B) 人口 (C) 狀況 (D) 預測"
+    },
+    {
+      "id": "MOCK_107_1_ENG_008",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Needless to say, the students in medical schools must study the of the human body.",
+      "image_url": "",
+      "options": [
+        "structure",
+        "account",
+        "violence",
+        "celebration"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "不用說,醫學院的學生必須研究人體的構造。 Mother:別擔心。妳一直都這麼用功,盡力就好,我 (A) 構造 (B) 帳戶 (C) 暴力 (D) 慶祝 對妳有信心。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_009",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Dana didn’t dare to sleep alone after seeing the scary movie last night.",
+      "image_url": "",
+      "options": [
+        "fashionable",
+        "frightening",
+        "delightful",
+        "reasonable"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Dana 昨晚看了那部恐怖的電影之後,便不敢獨自一 Debbie:好的。 我會盡力。 人睡覺。 (A) 我會盡早起床。 (A) 時髦的 (B) 嚇人的 (C) 欣喜的 (D) 合理的 (B) 謝謝妳的鼓勵。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_010",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Sam has difficulty focusing on what he should do; he always thinks about what he wants to do.",
+      "image_url": "",
+      "options": [
+        "employing",
+        "differing",
+        "concentrating",
+        "featuring"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Sam 很難專注於他應該做的事情,他總想著他想做的 (C) 妳很清楚我的秘密。 事。 (D) 我會停止看我最喜歡的節目。 (A) 雇用 (B) 與...不同 (C) 專注 (D) 以...為特色"
+    },
+    {
+      "id": "MOCK_107_1_ENG_011",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Daisy likes to cook herself, but she eats out occasionally.",
+      "image_url": "",
+      "options": [
+        "at the same time",
+        "in the first place",
+        "once in a while",
+        "in no time II. 對話題 ( 第 12-21 題,每題 2 分,共 20 分 ) 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Daisy 喜歡自己下廚,但有時她也出去外面吃。 Grace:我也是。 說不定我們可以想 (A) 同時 (B) 起初 (C) 有時候 (D) 立刻 到特別的東西。 Mark:嘿,我有個主意。我們何不一起合作,煮一頓 II. 對話題 豐盛大餐請老媽?"
+    },
+    {
+      "id": "MOCK_107_1_ENG_012",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Leo: Ben: I go jogging every day and swim on weekends. Leo: Great! I love swimming too. We can go swimming together another day.",
+      "image_url": "",
+      "options": [
+        "What type of movies do you like best?",
+        "Swimming is definitely not my cup of tea.",
+        "Giving you a ride is my pleasure.",
+        "What kinds of exercise do you usually do?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Leo: (A) 我們一起集思廣益吧! Ben:我每天慢跑,周末去游泳。 (B) 這種精神就對了。 Leo:太棒了!我也喜歡游泳。改天我們一起去。 (C) 我想先小睡一下。 (A) 你最喜歡哪種電影? (D) 花和蛋糕都適合我。 (B) 游泳肯定不適合我。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_013",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Jane: Lucy and I have planned a trip to Japan to enjoy the beautiful scenery of cherry blossoms. Would you like to join us? Betty: Really? That’s romantic! But I’m afraid my boss won’t let me take a few days off recently. Jane: What a pity!",
+      "image_url": "",
+      "options": [
+        "I wish I could go with you.",
+        "I can make a reservation right now.",
+        "How many people do you invite?",
+        "My dream finally came true!"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Jane: Lucy 和我計畫要去日本賞櫻,你要一起去嗎? 107-1 共同科目 英文 詳解 海關人員: 人。故選 (C) Patrick:兩個禮拜。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_014",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Stella: Why don’t you have lunch with us? Emily: I’m on a diet. Stella: What you should do is have a good eating habit and exercise more.",
+      "image_url": "",
+      "options": [
+        "Thanks to your help.",
+        "I have a lot of work to do.",
+        "My weight has been bothering me.",
+        "Taking a break helps lose weight."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Stella:妳為什麼不跟我們一起去吃午餐呢? (A) 滿足 (B) 宗教 (C) 災害 (D) 競爭 Emily:我在節食,"
+    },
+    {
+      "id": "MOCK_107_1_ENG_015",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Bruce: Have you had any plans for the oncoming holiday? David: Not yet. Bruce: How about camping in the mountains? David: Wonderful! I love it. Where are you planning to camp?",
+      "image_url": "",
+      "options": [
+        "It’s nice of you to invite me.",
+        "I have to work overtime.",
+        "Do you have any idea?",
+        "I’m not sure if I have holidays."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Bruce:即將到來的這個假期你有什麼計畫嗎? 月。 David:還沒耶, (A) 技術的 (B) 令人滿意的 Bruce:要不要去山區露營啊? (C) 專業的 (D) 可買到的 David:太棒了,我喜歡。你打算去哪兒露營呢?"
+    },
+    {
+      "id": "MOCK_107_1_ENG_016",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Debbie: I’m very anxious about tomorrow’s big exam. Mother: Don’t worry. You’ve been working so hard. Just do your best. I have faith in you. Debbie: OK. I’ll do my best.",
+      "image_url": "",
+      "options": [
+        "I’ll get up as early as possible.",
+        "Thanks for your encouragement.",
+        "You know my secrets well.",
+        "I’ll stop watching my favorite show."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Debbie:我很擔心明天的大考。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_017",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Mark: Mom’s birthday is just around the corner. I don’t know what to give her as a gift. Grace: Me, either. Maybe we can think of something special. Mark: Hey, I’ve got an idea. Why not work together and cook a great meal for Mom?",
+      "image_url": "",
+      "options": [
+        "Let’s put our heads together.",
+        "That’s the spirit.",
+        "I feel like taking a nap first.",
+        "Flowers and cakes are suitable for me."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Mark: 媽的生日就快到了 。 不知道該送什麼禮物給她 。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_018",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Customs Officer: What’s the purpose of your visit? On business or for pleasure? Patrick: I’m here to visit my uncle. Customs Officer: Patrick: Two weeks.",
+      "image_url": "",
+      "options": [
+        "How often do you go abroad?",
+        "No problem. I’ll put you through.",
+        "How long will you stay?",
+        "It’s time to go on vacation."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "海關人員:你這次來訪的目的是什麼?出差還是旅 (C) 我很樂意載你一程。 遊? (D) 你平常做什麼運動? Patrick:我來這裡看我叔叔。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_019",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Vivian: Hey, you know what? I began to learn Japanese three months ago. Kevin: Really? Vivian: I do love traveling in Japan. I hope I can communicate with the locals there. Kevin: Great! Then you will certainly have much more fun there.",
+      "image_url": "",
+      "options": [
+        "How much did the lesson cost you?",
+        "What do you learn it for?",
+        "Japanese is everybody’s favorite.",
+        "How many times have you been to Japan?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Vivian:嘿,你知道嗎?我三個月前開始學日語耶! 行李,就可以隨意的去任何想去的地方。有時候 (28) 迷路 Kevin:真的? 不是件壞事,反而會帶著旅行者去到比他們原本預期的 Vivian:我真的很喜歡去日本旅行。希望在那裡能夠 更棒、更令人驚喜的 (29) 目的地。而且,無計畫旅行能讓 跟當地人溝通。 他們更有信心、更勇敢、更積極正向,因而成為更有智 Kevin:太棒了!那麼妳在那裡一定會玩得更開心。 慧的 (30) 人。當然,跟人之間的溝通技巧會越來越好,尤 (A) 這課程花了妳多少錢? 其是在單獨旅行的時候。更棒的是,甚至連問個路都能 (B) 妳學日語要做什麼? 幫你收穫到終生的朋友;或者請求推薦品嘗咖啡的最佳 (C) 日語是每個人的最愛。 處所 (31) 最終也能變成和新朋友一起享受點心呢!這種 (D) 妳去過日本幾次了? 種可能真是無窮無盡啊!何不試試看呢?"
+    },
+    {
+      "id": "MOCK_107_1_ENG_020",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Cindy: Wow, you had your hair cut short. Vicky: Yeah. I’ve been thinking about having a different hairstyle for a while. Cindy: It really suits you. You look younger and more energetic.",
+      "image_url": "",
+      "options": [
+        "Would you like to have the same hairstyle?",
+        "Do you want to try a different barber for a change?",
+        "Can you introduce your hairdresser to me?",
+        "What do you think of my new hairstyle?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Cindy:哇!你把頭髮剪短了!"
+    },
+    {
+      "id": "MOCK_107_1_ENG_021",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Paul: I’ve heard there is a stall around here famous for its stinky tofu. Eric: Oh, no. I can’t stand its smell! Paul: Believe me. Once you take a bite, you will love it!",
+      "image_url": "",
+      "options": [
+        "Thanks for inviting me.",
+        "Let’s give it a try.",
+        "How did you get there?",
+        "Let’s forget about it. III. 綜合測驗 ( 第 22-31 題,每題 2 分,共 20 分 ) 說明:以下兩篇短文,共有 10 個空格,為第 22 至 31 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 22 至 26 題,請依短文文意,選出一個最適合該空格的答案。 Teenagers start to have special feelings towards the opposite sex, and therefore it is normal for male and female teenagers to make friends with each other. But how can they 22 well? Fortunately, experts provide some suggestions. First of all, 23 social values are changing, the images and roles of modern men and women are becoming more flexible. So, try to understand each other’s 24 so that there can be better communication. Next, accept the way he or she is. As everyone is unique, find out what you two have in common, such as interests and hobbies, 25 trying to change him or her. Furthermore, be sincere. That is, never cheat on or take advantage of each other. Last but not least, do avoid 26 a person by his or her appearance. As long as you act on the advice, you two will definitely get on well."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Paul:我聽說這附近有一攤臭豆腐很有名耶!"
+    },
+    {
+      "id": "MOCK_107_1_ENG_022",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "What is the best title of the passage?",
+      "image_url": "",
+      "options": [
+        "How to avoid frustration",
+        "How frustration affects the body",
+        "How to deal with frustration",
+        "When frustration will happen"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "這篇文章最好的題目是? 天開放 6 個時段,最早的時段是早上 5: 30 。如果你有興 (A) 如何避免挫折 趣的話,可以上它的網站了解更詳細的泡湯時間及相關 (B) 挫折如何影響身體 資訊。 (C) 如何處理挫折 你是否被這麼棒的戶外溫泉所吸引了呢?現在就來 (D) 挫折何時會發生 北投戶外溫泉泡湯吧! 本文提出幾個處理挫折的步驟或方法,故選 (C)"
+    },
+    {
+      "id": "MOCK_107_1_ENG_023",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Which is NOT suggested when you encounter frustration?",
+      "image_url": "",
+      "options": [
+        "Think of some beautiful melody for a while.",
+        "Get a good sleep for a whole day.",
+        "Have a conversation with your friends.",
+        "See the problem in different manners."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "當你遭遇挫折時,何者不被建議? (A) 推薦北投有名的小吃 (A) 想著美妙的旋律一會兒。 ( 第 2 段第 4 行 ) (B) 北投公園不為人知的歷史 (B) 好好的睡一整天。 ( 文中並未提到 ) (C) 北投公園戶外溫泉的介紹 (C) 和朋友聊一聊。 ( 第 3 段第 1, 2 行 ) (D) 北投公園溫泉的規定 (D) 不同的角度來看待問題。 ( 第 3 段第 2 行 ) 本文對此溫泉區做整體介紹,並未提及小吃,也沒有"
+    },
+    {
+      "id": "MOCK_107_1_ENG_024",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "What does the word “ indecisive ” mean in the third paragraph?",
+      "image_url": "",
+      "options": [
+        "Unable to make a decision.",
+        "Inactive to learn new things.",
+        "Lacking in creativity.",
+        "Unwilling to get involved."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "第 3 段的 indecisive 是什麼意思? 不為人知的歷史。而 (D) 選項只是介紹中的一小部 (A) 無法做出決定。 分,故 (C) 是最合適的 (B) 不積極學習新事物。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_025",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "According to the passage, we can infer that might make one frustrated.",
+      "image_url": "",
+      "options": [
+        "succeeding in solving a very tough problem",
+        "dating with a girl or a boy one likes a lot",
+        "receiving more pocket money from one’s parents",
+        "getting poor grades after studying very hard"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據這篇短文,我們可以推測 可能讓人感到 (B) 公園裡的溫泉池位在不同的高度。 沮喪。 (C) 這裡的溫泉,熱泉池比冷泉池多。 (A) 成功地解決一個難題 (D) 這個溫泉區有著令人愉悅的日式風格。 (B) 和所喜歡的人約會 在第 3 段第 4 行提到:隨著坡度下降,泉水溫度也逐 (C) 從爸媽那裡得到更多的零用錢 漸降低。故 (A) 是不正確的 (D) 努力讀書後成績仍然很差"
+    },
+    {
+      "id": "MOCK_107_1_ENG_026",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Which statement is TRUE based on the passage?",
+      "image_url": "",
+      "options": [
+        "There is nearly no useful way to handle frustration.",
+        "Taking a mental break can help avoid frustration in life.",
+        "Handling frustration can help learn to manage other feelings.",
+        "It does no good to try to deal with frustration. ▲ 閱讀下文,回答第 37-41 題。 How about enjoying the open-air hot spring in Beitou Park? Just walk from the park entrance toward Thermal Valley. It is only a 15-minute walk. The hot spring area opened in late 1999, right on the eve of the new millennium. Therefore, it is also known as the “Millennium Hot Spring.” Covering roughly 1,000 square meters, the area features a Japanese-style architectural design with mostly natural materials such as stone and wood. As we can see, the roofs of the ticket booth and bathhouse are made of curved black tiles, which adds to the classic Japanese atmosphere. The hot spring in the park comes from Thermal Valley, and is classified as so-called green sulfur spring. There are six public pools located at different heights on the sloping land; four of them are hot pools, and the rest of them are cold pools. The temperatures of the hot springs vary between 38°C and 42°C, decreasing progressively as one goes downhill. This design allows bathers to choose a pool with the temperature that suits them best."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據這篇短文,下列敘述何者正確? 依照文意,隨著坡度下降,泉水溫度也逐漸降低。故 (A) 幾乎沒有有用的方法可以處理挫折。 選 (B) (B) 讓思緒稍休息可以避免人生的挫折。"
+    },
+    {
+      "id": "MOCK_107_1_ENG_027",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "The passage is mainly about.",
+      "image_url": "",
+      "options": [
+        "recommendations of famous snacks in Beitou",
+        "the unknown history of Beitou Park",
+        "the introduction of the outdoor hot spring in Beitou Park",
+        "the rules of hot spring pools in Beitou Park"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：107-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_1_ENG_028",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Which statement about the pools is NOT true based on the passage?",
+      "image_url": "",
+      "options": [
+        "If one prefers hotter water, he’d better go downhill.",
+        "The pools in the park sit at different heights.",
+        "Among the pools, there are more hot pools than cold ones.",
+        "The area of hot spring has a pleasant Japanese style."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：107-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_1_ENG_029",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Which of the following is closest in meaning to the word “ progressively ” in the third paragraph?",
+      "image_url": "",
+      "options": [
+        "all of a sudden",
+        "little by little",
+        "in the end",
+        "at once"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：107-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_1_ENG_030",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "According to the passage, why is it strongly suggested to bathe in an outdoor hot spring pool?",
+      "image_url": "",
+      "options": [
+        "The outdoor pools are not as crowded as the indoor ones.",
+        "The temperature of the outdoor pools is more suitable for the body.",
+        "Bathing in the outdoor spring pools costs less than in the indoor ones.",
+        "One can enjoy the pleasant views and sounds of nature."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：107-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_107_1_ENG_031",
+      "subject": "英文",
+      "unit": "107-1-四技二專-00共同科目 英文",
+      "q": "Which statement about the rules of the hot spring area is TRUE?",
+      "image_url": "",
+      "options": [
+        "To feel more comfortable, one can soak in the spring naked.",
+        "If one is an early bird, he or she can go bathing as early as 5:30 (A)m.",
+        "The pools are open for more than six periods every day.",
+        "The pools are open only in the daytime. 第二部分:非選擇題 ( 第 I 至 III 題,每題 6 分,共 18 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：107-1-四技二專-00共同科目 英文解析.pdf"
+    }
+  ]
+}

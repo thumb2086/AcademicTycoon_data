@@ -1,0 +1,373 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH00",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH00",
+    "title": "CH0"
+  },
+  "title": "機械力學 Chapter 0",
+  "source_pdf": "機械力學/CH0PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "先備知識"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "0-1 國際單位制 (SI 制 ) 1. 能瞭解國際單位制的記號與公 0-2 代數 制基本單位。 0-3 三角函數 2. 能 應 用 代 數 來 解 析 力 學 的 問 題。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 能瞭解三角函數的定義與常用"
+        },
+        {
+          "type": "paragraph",
+          "text": "特別角。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 能結合三角函數的相互關係及"
+        },
+        {
+          "type": "paragraph",
+          "text": "輔助演算求解。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "先備知識乃是在學習一項新事物之前,於舊有學習的概念或是日常生活的經驗所建構 而來的知識。力學課程的學習就是建構在 (1) 舊有學習的概念:時間空間的定義、單位的 換算及數學的四則運算等; (2) 日常生活的經驗:積木疊疊樂、騎腳踏車、投擲飛盤及旋轉 木馬等。 研究顯示,學習者的先備知識會影響其對學習內容的記憶與理解。本章綱要整理出力 學課程經常性使用的 國際單位制 (SI 制 )、 代數 及 三角函數,讓學習者先複習舊有學習的概 念,同時結合課程的日常實例內容,相信對於學習機械力學有助益。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 阿爾伯特.愛因斯坦 (1879-1955):並不是我聰明,只是我和問題相處得比較久。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 0 先備知識 3"
+        },
+        {
+          "type": "heading",
+          "text": "0-1 國際單位制 (SI 制 )"
+        },
+        {
+          "type": "heading",
+          "text": "1. 十進位記號"
+        },
+        {
+          "type": "paragraph",
+          "text": "10 進位 10 的因數 記號 10 進位 10 的因數 記號"
+        },
+        {
+          "type": "heading",
+          "text": "1 - 1"
+        },
+        {
+          "type": "heading",
+          "text": "10 10 da 0.1 10 d"
+        },
+        {
+          "type": "heading",
+          "text": "3 - 3"
+        },
+        {
+          "type": "heading",
+          "text": "1000 10 k 0.001 10 m"
+        },
+        {
+          "type": "heading",
+          "text": "6 - 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "1000000 10 M 0.000001 10 m"
+        },
+        {
+          "type": "heading",
+          "text": "9 - 9"
+        },
+        {
+          "type": "paragraph",
+          "text": "1000000000 10 G 0.000000001 10 n"
+        },
+        {
+          "type": "heading",
+          "text": "2. 公制基本單位"
+        },
+        {
+          "type": "heading",
+          "text": "長度 (M) 質量 (K) 時間 (S)"
+        },
+        {
+          "type": "paragraph",
+          "text": "名稱 代號 單位換算 名稱 代號 單位換算 名稱 代號 單位換算 公厘 mm 1 mm 公克 g 1 g 秒 s 1 s 公分 cm 1 cm = 10 mm 公斤 kg 1 kg = 1000 g 分 min 1 min = 60 s 公尺 m 1 m = 100 cm 噸 t 1 t = 1000 kg 時 h 1 h = 60 min"
+        },
+        {
+          "type": "heading",
+          "text": "公里 km 1 km = 1000 m"
+        },
+        {
+          "type": "heading",
+          "text": "0-2 代數"
+        },
+        {
+          "type": "heading",
+          "text": "1. 分式四則運算"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 加減法 乘法 除法"
+        },
+        {
+          "type": "paragraph",
+          "text": "A C AD ± BC A C AC A C AD"
+        },
+        {
+          "type": "heading",
+          "text": "公式 ± = × = ÷ ="
+        },
+        {
+          "type": "heading",
+          "text": "B D BD B D BD B D BC"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2. 一元二次方程式 (ax + bx + c = 0)"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 因式分解 公式法解"
+        },
+        {
+          "type": "heading",
+          "text": "( x − α )( x − β ) = 0"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 − b ± b − 4 ac"
+        },
+        {
+          "type": "paragraph",
+          "text": "公式 x − ( α + β ) x + αβ = 0 x ="
+        },
+        {
+          "type": "heading",
+          "text": "2 a"
+        },
+        {
+          "type": "heading",
+          "text": "x = α 或 x = β"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "3. 二元一次方程式 (a 1 x + b 1 y = c 1, a 2 x + b 2 y = c 2 )"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 直接代入法 加減消去法"
+        },
+        {
+          "type": "paragraph",
+          "text": "其中一式的 x ( 或 y) 解出後,代入另一 消去 x,將 a 1、 a 2 的值分別相乘第二式、第"
+        },
+        {
+          "type": "heading",
+          "text": "公式"
+        },
+        {
+          "type": "paragraph",
+          "text": "式即可得 y ( 或 x)。 一式,然後相加或相減即可得到 y。"
+        },
+        {
+          "type": "heading",
+          "text": "0-3 三角函數"
+        },
+        {
+          "type": "heading",
+          "text": "1. 三角函數和反三角函數表示法"
+        },
+        {
+          "type": "heading",
+          "text": "y x y sin θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "sin θ =, cos θ =, tan θ = ="
+        },
+        {
+          "type": "heading",
+          "text": "r r x cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "1 − 1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "若 tan 30 ° =,則 30 ° = tan;"
+        },
+        {
+          "type": "heading",
+          "text": "3 3"
+        },
+        {
+          "type": "heading",
+          "text": "1 − 1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "sin 45 ° =,則 45 ° = sin。 ▲ 三角函數表示法"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2. 常用三角函數值"
+        },
+        {
+          "type": "paragraph",
+          "text": "0 ° 30 ° 37 ° 45 ° 53 ° 60 ° 90 ° 120 ° 135 ° 150 °"
+        },
+        {
+          "type": "heading",
+          "text": "1 3 1 4 3 3 1 1"
+        },
+        {
+          "type": "heading",
+          "text": "sin θ 0 1"
+        },
+        {
+          "type": "heading",
+          "text": "2 5 2 5 2 2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "3 4 1 3 1 1 1 3"
+        },
+        {
+          "type": "heading",
+          "text": "cos θ 1 0 − − −"
+        },
+        {
+          "type": "heading",
+          "text": "2 5 2 5 2 2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 3 4 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "tan θ 0 1 3 無意義 − 3 − 1 −"
+        },
+        {
+          "type": "heading",
+          "text": "3 4 3 3"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 6 1 414., 6 0 707. )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "3 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 3 6 1 732., 6 0 866., 6 0 577. )"
+        },
+        {
+          "type": "heading",
+          "text": "2 3"
+        },
+        {
+          "type": "heading",
+          "text": "3. 數學正弦定理與餘弦定理"
+        },
+        {
+          "type": "heading",
+          "text": "a b c"
+        },
+        {
+          "type": "heading",
+          "text": "正弦定理: = ="
+        },
+        {
+          "type": "heading",
+          "text": "sin θ A sin θ B sin θ C"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "餘弦定理: c = a + b − 2 ab cos θ C"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 正弦定理"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

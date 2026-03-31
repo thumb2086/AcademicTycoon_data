@@ -1,0 +1,3229 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH10",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH10",
+    "title": "CH10"
+  },
+  "title": "機械力學 Chapter 10 剪力",
+  "source_pdf": "機械力學/CH10PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH10",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "剪力"
+        },
+        {
+          "type": "heading",
+          "text": "本章網要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "10-1 剪應力、剪應變及剪力彈性 1. 能瞭解剪力、剪應力和剪應變 係數 的定義。 10-2 正交應力與剪應力的關係 2. 能明瞭比例限度內剪應力與剪 應變需符合虎克定律。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 能熟悉單軸向應力在不同角度"
+        },
+        {
+          "type": "heading",
+          "text": "上之正交應力與剪應力的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "及公式由來。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 能明瞭雙軸向應力所產生的正"
+        },
+        {
+          "type": "paragraph",
+          "text": "交應力與剪應力關係。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 能藉由純剪的觀念導出剪力彈"
+        },
+        {
+          "type": "paragraph",
+          "text": "性數和彈性係數的關係。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 能由剪力的觀念明瞭材料破壞"
+        },
+        {
+          "type": "paragraph",
+          "text": "的方式。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "52"
+        },
+        {
+          "type": "paragraph",
+          "text": "當地震時,建築物和橋樑受到剪力而產生滑動,造成破壞;當建築裝修時把牆壁打掉 對不對呢?當裝修時拆掉的是剪力牆時會對建築物造成什麼影響呢?我們鋼構橋樑用鉚釘 接合,鉚釘所受剪應力多大?會不會破壞?我們的硬幣是先沖出板材再加工壓印,那麼沖 孔需要多大的力量呢?本章將討論剪力的破壞和單軸向、雙軸向負荷之探討。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-1 烏溪橋橋柱剪力破壞 ▲ 圖 10-2 兩側開窗形成短柱剪力破壞"
+        },
+        {
+          "type": "heading",
+          "text": "10-1 剪應力、剪應變及剪力彈性係數"
+        },
+        {
+          "type": "heading",
+          "text": "一、剪應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "當材料受外力 P 作用時,材料沿著作用力方向發生滑動或剪斷的現象,同時在材料內 部會產生一大小相等之內力,此內部的抵抗力稱為剪力 V (shear force),如表 10-1 所示, 剪應力 (shear stress) 定義為單位面積所承受的剪力,稱為剪應力。剪應力的方向恆與受剪 面平行, 又稱正切應力 (tangential stress),以希臘字母“ t ”表示之。其中 V 為剪力,剪力 為內力的表現 ( 剪力與作用面平行 ), A 為受力面積。"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 τ = ( 公式 10-1)"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "單位 剪應力: t 面積: A 剪力: V"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "國際 SI 制 MPa mm N ( 牛頓 )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "重力單位 kgw/cm cm kgw ( 公斤重 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 53"
+        },
+        {
+          "type": "paragraph",
+          "text": "▼ 表 10-1 各種作用面積之剪應力 ( 剪力與作面用平行 )"
+        },
+        {
+          "type": "heading",
+          "text": "受力狀態 示意圖 公式"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "τ ="
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "1. 兩塊板子"
+        },
+        {
+          "type": "heading",
+          "text": "A = a × b"
+        },
+        {
+          "type": "heading",
+          "text": "( 剪力 V = P)"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "τ ="
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "2. 三塊板子"
+        },
+        {
+          "type": "heading",
+          "text": "A = 2( a × b )"
+        },
+        {
+          "type": "heading",
+          "text": "( 剪力 V = P)"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "τ ="
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "π d"
+        },
+        {
+          "type": "heading",
+          "text": "3. 單 剪 二 個 A = 2 ( )"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "鉚 釘 ( 搭"
+        },
+        {
+          "type": "heading",
+          "text": "( 剪力 V = P)"
+        },
+        {
+          "type": "heading",
+          "text": "接 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "π d"
+        },
+        {
+          "type": "paragraph",
+          "text": "註:每個鉚釘斷面積,有 α 2 個鉚釘。"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "( 鉚釘數量需依題目決定 )"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "τ ="
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": " π d "
+        },
+        {
+          "type": "heading",
+          "text": "A = 2 2  ( ) "
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "4. 雙 剪 二 個  "
+        },
+        {
+          "type": "heading",
+          "text": "鉚釘 ( 對接 ( 剪力 V = P)"
+        },
+        {
+          "type": "heading",
+          "text": "雙蓋板 ) π d 2"
+        },
+        {
+          "type": "heading",
+          "text": "註: 每個鉚釘斷面積為 2 ×,即斷"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "一邊即可拉走,一邊有 2 個鉚釘,"
+        },
+        {
+          "type": "paragraph",
+          "text": "每個鉚釘斷兩面。 ( 鉚釘數量需依"
+        },
+        {
+          "type": "heading",
+          "text": "題目決定 )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "54"
+        },
+        {
+          "type": "paragraph",
+          "text": "▼ 表 10-1 各種作用面積之剪應力 ( 剪力與作面用平行 )( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "受力狀態 示意圖 公式"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "τ ="
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "5. 鍵"
+        },
+        {
+          "type": "heading",
+          "text": "A = 鍵寬 × 鍵長"
+        },
+        {
+          "type": "heading",
+          "text": "( 剪力 V = P)"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "τ ="
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "6. 沖圓孔"
+        },
+        {
+          "type": "heading",
+          "text": "A = 圓周長 × 板厚 = π d × t"
+        },
+        {
+          "type": "heading",
+          "text": "( 剪力 V = P)"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "7. 沖方孔 ( 或 τ ="
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "不 規 則 形"
+        },
+        {
+          "type": "heading",
+          "text": "狀 ) A = 周長 × 板厚"
+        },
+        {
+          "type": "heading",
+          "text": "( 剪力 V = P)"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 55"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常生活中常見的剪力應用,小至剪刀剪紙與美工刀切割,大至建築物的剪力牆與鋼構的銲接,在 機械領域的應用實例更是不勝枚舉,機械加工中常見的沖床沖孔、剪床的剪斷,機械連結件的螺栓、鍵、 銷及鉚釘等,受力作用時亦會產生剪力。如圖 (a) ∼ (d) 所示為螺栓與鉚釘應用;如圖 (e)、 (f) 所示為螺 栓分別受到單剪與雙剪的破壞情形;如圖 (g) 所示為裝配於旋轉軸上的鍵受到剪力破壞。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 萬向接頭上的螺栓 (b) 凸緣聯結器上的螺栓連接件"
+        },
+        {
+          "type": "paragraph",
+          "text": "(c) 鋼構螺栓與銲接 (d) 飛機上使用鉚釘連接"
+        },
+        {
+          "type": "heading",
+          "text": "(e) 螺栓單剪破壞 (f) 螺栓雙剪破壞"
+        },
+        {
+          "type": "heading",
+          "text": "(g) 鍵受到剪力破壞"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "56"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "地震工程界有句老話: 「地震不會殺人,建築物才會。」這句話當然不是絕對,因為地震引發的山崩、 海嘯一樣會致命,但不可否認,地震時大部分的傷亡都是因建築倒塌或嚴重損毀所造成,如圖 (a) 樑柱 受地震剪力破壞。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 地震剪力破壞 (b) 框支剪力牆"
+        },
+        {
+          "type": "paragraph",
+          "text": "建築物中的牆壁可以分為很多種,其中就有剪力牆,如圖 10-4 所示,剪力牆也叫做抗震牆、結構牆 或耐震壁,房屋或建築物中主要承受風荷載或地震作用引起的水平荷載和豎向荷載 ( 重力 ) 的牆體,防 止結構受剪破壞,一般為鋼筋混凝土建造。 牆根據受力特點可分為承重牆和剪力牆,如圖 10-5、 10-6 所示,承重牆以承受豎向荷載為主,如砌 體牆;剪力牆以承受水平荷載為主。剪力牆按結構材料可以分為鋼板剪力牆、鋼筋混凝土剪力牆和配鋼 筋砌塊剪力牆。其中以鋼筋混凝土剪力牆最為常用。"
+        },
+        {
+          "type": "heading",
+          "text": "(c) 承重牆 (d) 剪力牆"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 57"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 10-1 題型:剪應力 ( 螺栓 / 鉚釘 ) 如圖所示之螺栓接頭用一顆螺栓連接,若作用力 P = 4000 π N,螺栓之直徑為"
+        },
+        {
+          "type": "heading",
+          "text": "2 cm,則螺栓剪應力為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "剪力 V = 4000 π N"
+        },
+        {
+          "type": "paragraph",
+          "text": "d = 2 cm = 20 mm,雙剪破壞一顆螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "V 4000 π"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 τ = = 2 = 20 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "A π × 20"
+        },
+        {
+          "type": "heading",
+          "text": "2 ( )"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 10-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩塊相同尺寸的鋼板,以兩根鉚釘搭接的方式連接如圖所示。當鋼板承受 20 π kN 的拉力,已知鉚釘直徑 d = 20 mm,鋼板寬度 b = 85 mm,鋼板厚度 t = 40 mm,則每根鉚釘承受的剪應力為多少 MPa?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "58"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-2 題型:剪應力 ( 沖孔 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "以沖床沖切如圖所示的板面元件,已知板料厚度為 2 mm,而板料的抗剪極限 強度為 200 MPa。如果想要順利完成沖切,則沖頭至少應施加多少 kN 的作用"
+        },
+        {
+          "type": "heading",
+          "text": "力? ( π = 3.14)"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "剪力 V = 施加之外力"
+        },
+        {
+          "type": "heading",
+          "text": "π D π D"
+        },
+        {
+          "type": "paragraph",
+          "text": "周長 = + + 75 + 75 = π × 100 + 150 = 464 mm"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "V V V"
+        },
+        {
+          "type": "paragraph",
+          "text": "剪應力 τ = = −, 200 =, V = 185600 N = 185.6 kN"
+        },
+        {
+          "type": "heading",
+          "text": "A 周長 × 板厚 464 × 2"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 10-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之沖床沖孔加工,孔直徑為 30 mm,板厚為 5 mm,板材之抗剪極限 強度為 200 MPa,試求沖頭至少應施加的力量 P 為多少 kN 始能完成沖孔加工"
+        },
+        {
+          "type": "heading",
+          "text": "作業?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 59"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-3 題型:剪應力 ( 鍵 )"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,有一長 700 mm 之搖桿,以一方"
+        },
+        {
+          "type": "heading",
+          "text": "鍵傳達扭力於直徑 40 mm 之軸上,若方鍵"
+        },
+        {
+          "type": "heading",
+          "text": "之長度為 10 mm,方鍵之剪應力不得超過"
+        },
+        {
+          "type": "paragraph",
+          "text": "70 MPa, 當搖桿之末端施加一負荷 P = 100 N,"
+        },
+        {
+          "type": "heading",
+          "text": "則方鍵之寬度尺寸 a 最小應為多少 mm?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "對圓心之力矩:"
+        },
+        {
+          "type": "heading",
+          "text": "P × 700 = V × 20"
+        },
+        {
+          "type": "heading",
+          "text": "100 × 700 = V × 20"
+        },
+        {
+          "type": "heading",
+          "text": "V = 3500 N"
+        },
+        {
+          "type": "heading",
+          "text": "鍵被剪斷破壞,鍵剪斷面積 = 鍵寬 × 鍵長"
+        },
+        {
+          "type": "heading",
+          "text": "V 3500"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 τ =, 70 ="
+        },
+        {
+          "type": "heading",
+          "text": "A 鍵寬 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "鍵寬 = 5 mm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 10-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,長 1m 之搖桿,以鍵固定於直徑 4 cm 之軸上,用鍵傳達力量, 若鍵寬為 10 mm,長 50 mm,若鍵之剪應力不得超過 60 MPa 時,則負荷 P 最"
+        },
+        {
+          "type": "heading",
+          "text": "大值為多少牛頓?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "二、剪應變"
+        },
+        {
+          "type": "paragraph",
+          "text": "若材料受到剪力時,與剪力平行的平面,受到剪力作用時會產生與作用力方向平行 之移動,如圖 10-3 所示,長方形 ABCD 當下方固定時,受到 P 作用 BC 方向會產生移動 至 B ′ C ′ 之位置,作用點由 B 移動到 B ′ 的變化量若為 d,則產生之角度變化量稱為剪應變 (shear strain),以希臘字母“ γ ” ( 音唸 gama) 表示之,其中 d 為受剪移動量, L 為原長。 剪 應變為一個角度,其單位以弳度 ( 弧度 ) 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-3 剪應變"
+        },
+        {
+          "type": "heading",
+          "text": "δ"
+        },
+        {
+          "type": "heading",
+          "text": "剪應變 γ = ( 公式 10-2)"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "δ"
+        },
+        {
+          "type": "paragraph",
+          "text": "由數學夾擠定律當 q 值很小時, tan q 6 q,因此 tan γ = 6 γ。"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "三、剪力彈性係數"
+        },
+        {
+          "type": "paragraph",
+          "text": "由虎克定律,當材料在比例限度內,則剪應力與剪應變成正比例,此比例常數稱為剪 力彈性係數 (shear modulus of elasticity) 或剛性係數 (modulus of rigidity) 以“ G ”表示之。 剪力彈性係數,隨材料種類不同而異,與材料之形狀、大小無關,其單位和剪應力相同。"
+        },
+        {
+          "type": "heading",
+          "text": "τ"
+        },
+        {
+          "type": "paragraph",
+          "text": "剪力彈性係數 G = 或 τ = G γ ( 公式 10-3)"
+        },
+        {
+          "type": "heading",
+          "text": "γ"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "τ A VL VL"
+        },
+        {
+          "type": "heading",
+          "text": "又 G = = =,∴受剪的移動量為: δ ="
+        },
+        {
+          "type": "heading",
+          "text": "γ δ A δ AG"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 61"
+        },
+        {
+          "type": "heading",
+          "text": "四、 彈性係數 (E)、剪力彈性係數 (G) 及體積彈性係數 (K),三者之關"
+        },
+        {
+          "type": "heading",
+          "text": "係: (μ 為蒲松氏比 )"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "G = ( 公式 10-4)"
+        },
+        {
+          "type": "heading",
+          "text": "2 1 ( + μ )"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "K = ( 公式 10-5)"
+        },
+        {
+          "type": "heading",
+          "text": "3 1 ( − 2 μ )"
+        },
+        {
+          "type": "heading",
+          "text": "9 3 1 9 KG"
+        },
+        {
+          "type": "paragraph",
+          "text": "由公式 10-4 和公式 10-5 兩公式刪去 μ 可得到 = + 或 E =。"
+        },
+        {
+          "type": "heading",
+          "text": "E G K G + 3 K"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般金屬材料 (0.25 < μ < 0.35) 之彈性係數 E > 體積彈性係數 K > 剪力彈性係數 G。"
+        },
+        {
+          "type": "heading",
+          "text": "1. AG 稱為材料之抗剪剛度。 AG 愈大,材料愈不易變形。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 彈性係數 E,剪力彈性係數 G,體積彈性係數 K,不因材料之形狀或應力大小而"
+        },
+        {
+          "type": "paragraph",
+          "text": "改變。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "3. E、 G、 K 的 單 位 與 應 力 σ、 剪 應 力 t 的 單 位 相 同 均 為 MPa、 GPa、 kgw/cm 或"
+        },
+        {
+          "type": "paragraph",
+          "text": "psi。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 180 ° = π 弧度。"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 夾擠定律為當 q 值很小時, tan q ≒ sin q ≒ q ( q 為單位為 rad)"
+        },
+        {
+          "type": "paragraph",
+          "text": "當 q 為 5 ° = 0.0872 rad, sin q = 0.0872 rad, tan q = 0.0875 當 q 為 3 ° = 0.0524 rad, sin q = 0.0523 rad, tan q = 0.0524"
+        },
+        {
+          "type": "heading",
+          "text": "2. 彈性係數 (E)、剪力彈性係數 (G) 及體積彈性係數 (K),三者之關係"
+        },
+        {
+          "type": "heading",
+          "text": "E E E"
+        },
+        {
+          "type": "paragraph",
+          "text": "G =,∴ 1 + μ =, μ = − 1 ⋯⋯1"
+        },
+        {
+          "type": "heading",
+          "text": "2 1 ( + μ ) 2 G 2 G"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "paragraph",
+          "text": "K =, 1 − 2 μ = E, μ = 1 − E ⋯⋯2"
+        },
+        {
+          "type": "heading",
+          "text": "3 1 ( − 2 μ ) 3 K 2 6 K"
+        },
+        {
+          "type": "heading",
+          "text": "E 1 E E E 3"
+        },
+        {
+          "type": "heading",
+          "text": "由1和2式得, − 1 = −,∴ + ="
+        },
+        {
+          "type": "heading",
+          "text": "2 G 2 6 K 2 G 6 K 2"
+        },
+        {
+          "type": "heading",
+          "text": "E E 1 1 3 K + G"
+        },
+        {
+          "type": "paragraph",
+          "text": "左右各乘以 2: + = 3 = E ( + ) = E ( )"
+        },
+        {
+          "type": "heading",
+          "text": "G 3 K G 3 K 3 KG"
+        },
+        {
+          "type": "heading",
+          "text": "9 KG"
+        },
+        {
+          "type": "heading",
+          "text": "∴ E = 或 9KG = EG + 3KE"
+        },
+        {
+          "type": "heading",
+          "text": "G + 3 K"
+        },
+        {
+          "type": "heading",
+          "text": "9 1 3 9 3 1"
+        },
+        {
+          "type": "heading",
+          "text": "左右各除約以 KGE: = + 或 = +"
+        },
+        {
+          "type": "heading",
+          "text": "E K G E G K"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-4 題型:剪應力與剪力彈性係數"
+        },
+        {
+          "type": "paragraph",
+          "text": "某一材料之剪力彈性係數為 200 GPa,一邊固定,另一邊承受一剪力 P 作用後, 產生如圖所示之變形量,求該材料所受平均剪應力為多少 MPa?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "δ"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 γ = 求出 γ,再以剪應力公式 t = G γ 求出 t"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "δ 2"
+        },
+        {
+          "type": "heading",
+          "text": "剪應變 γ = ="
+        },
+        {
+          "type": "heading",
+          "text": "L 1000"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "剪應力 τ = G γ = ( 200 × 1000 ) × = 400 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "1000"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 10-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,一平板一邊固定,另一邊受剪力 P 作用,由虛線位置產生 1 ° 的 角 度 變 形 至 實 線 位 置, 則 橫 向 移 動 量 d S 為 多 少 mm? 若 材 料 彈 性 係 數 為"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        },
+        {
+          "type": "paragraph",
+          "text": "α GPa,蒲松氏比為 0.25,求此材料所受之剪應力為多少 MPa?"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 63"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-5 題型:E、G、μ 的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "若鋁合金圓桿直徑為 2 cm,長 60 cm,其兩端承受 10 π kN 拉力後,長度增加"
+        },
+        {
+          "type": "heading",
+          "text": "0.3 mm, 直 徑 縮 減 0.0025 mm, 試 求 圓 桿 之 (1) 蒲 松 氏 比、 (2) 彈 性 係 數、"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 剪力彈性係數。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "b − 0 0025."
+        },
+        {
+          "type": "heading",
+          "text": "D 20 600 × 0 0025."
+        },
+        {
+          "type": "heading",
+          "text": "(1) 蒲松氏比 μ = = = = 0 25."
+        },
+        {
+          "type": "heading",
+          "text": "δ 0 3. 20 × 0 3."
+        },
+        {
+          "type": "heading",
+          "text": "L 600"
+        },
+        {
+          "type": "heading",
+          "text": "PL 31400 × 600 3 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 彈性係數 E = = 2 = 200 × 10 N / mm = 200 GPa"
+        },
+        {
+          "type": "heading",
+          "text": "A δ π × 20"
+        },
+        {
+          "type": "heading",
+          "text": "× 0 3."
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "E 200"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 剪力彈性係數 G = = = 80 GPa 2 1 ( + μ ) 2 1 ( + 0 25. )"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 10-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之長方形鋁塊 100 × 100 × 80 mm,其底部與鋼板相連接不會移動,上 方受 160 kN 之作用,若板材上方移動 0.4 mm,試求此鋁塊承受之 (1) 剪應力。 (2) 剪應變為多少弧度? (3) 剪力彈性係數。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 剪應變的單位為何? (A) rad ( 弧度 ) (B) mm (C) MPa (D) psi。 ( ) 2. 使用直徑為 D 的圓柱形沖頭,在厚度為 t 的鋼板上沖出圓孔。若施 加於沖頭的正向力為 P,則鋼板之沖孔所受的平均剪應力 t 等於?"
+        },
+        {
+          "type": "heading",
+          "text": "P P P 4 P"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) (D) 2。 α"
+        },
+        {
+          "type": "heading",
+          "text": "π Dt 2 π Dt Dt π D"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 如圖所示,有三塊鋼板以兩根直徑 d = 4 cm 的鉚釘接合,若拉力 P = 800 kN 時,試問鉚釘所承受的剪應力為多少 MPa?"
+        },
+        {
+          "type": "heading",
+          "text": "125 250 500 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D) α。"
+        },
+        {
+          "type": "heading",
+          "text": "π π π π"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 如圖所示,鉚釘由雙蓋板對接,承受 P = 6280 N 的作用,若鉚釘直徑 為 20 mm,板寬均為 100 mm,板厚均為 15 mm,則鉚釘承受的剪應 力為少 MPa? (A) 2.5 (B) 5 (C) 10 (D) 2。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 65"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 三片尺寸完全相同的木材用膠黏成如圖所示的形狀,並受 8000 N 的"
+        },
+        {
+          "type": "heading",
+          "text": "壓力作用,則膠黏處的平均剪應力是多少 MPa?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 10 (B) 8 (C) 6 (D) 4。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 模具科技藝競賽欲以手動沖床沖製如圖所示之料片,若料片的極限剪 應力為 100 MPa,料片厚度為 5 mm,則施予沖頭的力最小值為多少 kN? (A) 2.3 (B) 11.5 (C) 23 (D) 46。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 若材料之彈性係數為 E,蒲松氏比為 μ,剛性係數為 G,則"
+        },
+        {
+          "type": "heading",
+          "text": "E E E E"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) G = (B) G = (C) G = (D) G =。 1 + μ 3 1 ( + μ ) 2 + 2 μ 3 1 ( + 2 μ ) ( ) 8. 一圓桿件之蒲松氏比為 0.3,彈性係數為 E,則剪力彈性係數 G 等於?"
+        },
+        {
+          "type": "heading",
+          "text": "E E E E"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2. 1 4. 2 6. 4 8."
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 9. 一 材 料 的 蒲 松 氏 比 (Poisson's ratio) 為 0.25, 剪 力 彈 性 係 數 (shear modulus of elasticity) 為 48GPa, 則 其 體 積 彈 性 係 數 (modulus of elasticity of volume) 為多少 GPa? (A) 20 (B) 40 (C) 60 (D) 80。 ( ) 10. 若體積彈性係數與彈性係數之比為 2: 3,則彈性係數與剪力彈性係數 之比為? (A) 5: 2 (B) 2: 5 (C) 3: 5 (D) 4: 5。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "66"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "為什麼軍艦下方總有些像「巨大鼻子」的奇特突起設計呢?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 美國福特級航空母艦"
+        },
+        {
+          "type": "paragraph",
+          "text": "如果你曾留意過停在岸上的軍艦的話,有沒有看到軍艦水線以下的部分,就會看到在船首有個類似 大鼻子一樣的球形突起,這個東西被稱作 球鼻首,是為了船隻能抵消海波的打擊而設計的,外型為一個 突出的球般,位置在船首水線底下的突起部分。能抵消海浪所造成的衝擊,令燃料的效率及速度提高, 故常見於大型船隻。 球鼻首 又被稱 球型首,簡稱 球首,是設計水線以下首前部近似呈球狀的船首部,它能夠使推動同樣 的船所需的主機功率降低 10% 到 20%,也就是說,安裝這個裝置之後,艦船的使用成本將得到大大的 節約。如果沒有球鼻首,艦船的興波阻力會比較大,但 有了球鼻首,就能夠產生一個翻轉 180 度的波, 從而與之相抵消,除了可以提高艦船工作效率,球鼻首也是安裝聲 納 的地方之一。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 球狀船首能減少船隻在高速行駛時受到的興波阻力 ( 圖片來源:維基百科 )"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 67"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "飛機機翼內為什麼要當油箱?"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 飛機機翼做油箱 ( 圖片來源 https://www.pixpo.net/others/0IXHqWul.html) 機翼是飛機的重要部件之一,它就好比鳥兒的翅膀,飛機之所以能在天上飛靠的就是機翼產生的升 力。機翼的主要功能就是產生升力,讓飛機飛起來,那麼它為什麼能產生升力呢?這還得從飛機機翼具 有獨特的剖面說起。我們把機翼橫截面的形狀稱為翼型,翼型上下表面形狀是不對稱的,頂部彎曲,而 底部相對較平。當飛機發動機推動飛機向前運動時,機翼在空氣中穿過將氣流分隔開來。一部分空氣從 機翼上方流過,另一部分從下方流過。空氣的流動與水流其實有較大的相似性。由於機翼上下表面形狀 是不對稱的,空氣沿機翼上表面運動的距離更長,因而流速較快。而流過機翼下表面的氣流正好相反, 流速較上表面的氣流慢。根據流體力學中的伯努利原理,流動慢的大氣壓強較大,而流動快的大氣壓強 較小,這樣機翼下表面的壓強就比上表面的壓強高。換句話說,就是大氣施加於機翼下表面的壓力 ( 方 向向上 ) 比施加於機翼上表面的壓力 ( 方向向下 ) 大,二者的壓力差便形成了飛機的升力。 不過除了提供飛機升力,機翼其實還有許多協助工具,比如懸掛發動機、儲存燃油、控制飛機水平 翻轉、減速等。因此在機翼上還有很多特別的設計,像是機翼其實還是一個大油箱,利用機翼來作為飛 機的油箱還有幾個好處: (1) 油箱不占機身容積,這樣機艙可以騰出更多的空間用來裝貨物。 (2) 飛行時 機翼由於受到升力的緣故,會向上彎曲變形,從而損失升力。燃油的重量正好可以抵消一部分機翼向上 彎曲的變形。 (3) 在燃料消耗的過程中,飛機重心位置移動量較小,利於飛機的飛行平衡與安全。主流 的民航客機除了機翼油箱之外,還有位於腹艙的中央油箱,在某些遠端型號的機型中,還增加了附加油 箱。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "68"
+        },
+        {
+          "type": "heading",
+          "text": "10-2 正交應力與剪應力的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "當材料受拉力試驗時,延性材料在受拉力時斷裂面是 45 °,是何種力量破壞?當混凝 土試驗棒受壓力時 45 ° 斷裂又是何種力量之作用?為了討論力量與角度之問題,我們必須 做各種角度之力量分析。"
+        },
+        {
+          "type": "heading",
+          "text": "一、單軸向應力分析"
+        },
+        {
+          "type": "heading",
+          "text": "1. 正交應力定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 10-4 所示之桿件承受一單軸向拉力作用,在材料的橫截面 mn 截面上,"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "paragraph",
+          "text": "只會產生正交應力 σ =。此力 P 為拉力或壓力與截面 mn 垂直。"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-4 正交應力"
+        },
+        {
+          "type": "heading",
+          "text": "2. 斜截面之正交應力與剪應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "當材料承受軸向力時,材料內部在與垂直面夾 q 角如 mn 斷面上,會產生正 交應力與剪應力。如圖 10-5 所示,材料在與橫截面成 q 角的 mn 斜截面,其截面 積上,會產生垂直於斜截面之正向力 N 及平行於斜截面之剪力 V,由力的分解可"
+        },
+        {
+          "type": "heading",
+          "text": "知:"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲圖 10-5 單軸向負荷內部產生的正交應力與剪應力探討"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 69"
+        },
+        {
+          "type": "heading",
+          "text": "N = P cos q, V = P sin q"
+        },
+        {
+          "type": "heading",
+          "text": "A A"
+        },
+        {
+          "type": "heading",
+          "text": "cos θ =,∴ A ′ ="
+        },
+        {
+          "type": "heading",
+          "text": "A ′ cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "材料受軸向力作用,材料內部的應力在"
+        },
+        {
+          "type": "heading",
+          "text": "與垂直面逆時針轉 q 角 上,會產生正交應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "與剪應力。圖 10-6 ∼圖 10-8 為材料受作用 力破壞的情形。"
+        },
+        {
+          "type": "heading",
+          "text": "N P cos θ P 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "q 角之正交應力 σ θ = = = cos θ ( 公式 10-6)"
+        },
+        {
+          "type": "heading",
+          "text": "A ′ A A"
+        },
+        {
+          "type": "heading",
+          "text": "cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "V P sin θ P P P"
+        },
+        {
+          "type": "paragraph",
+          "text": "q 角之剪應力 τ θ = = = cos θ ⋅ sin θ = 2 cos θ ⋅ sin θ = sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "A ′ A A 2 A 2 A"
+        },
+        {
+          "type": "heading",
+          "text": "cos θ"
+        },
+        {
+          "type": "heading",
+          "text": "( 公式 10-7)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-7 鋼筋拉斷"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-6 混凝土壓壞"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-8 粉筆扭斷"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "70"
+        },
+        {
+          "type": "heading",
+          "text": "3. 互餘應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 10-9 所示, 兩互相垂直之斜面上所生的應力稱為互餘應力 (complementary stress)。單軸向負荷與橫斷面逆時針轉 q 角之截面 mn 互相垂直之斜面 m ′ n ′ 上之應 力 σ q ′ 與 t q ′ 稱為互餘應力與互餘剪應力。由表 10-2 所示,若 mn 截面為 q 角,則 互餘應力 m ′ n ′ 斜面之夾角為 90 ° + q。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-9 互餘應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "▼ 表 10-2 單軸向負荷之正交應力、剪應力及互餘應力與夾角 q 之關係"
+        },
+        {
+          "type": "heading",
+          "text": "單軸向負荷"
+        },
+        {
+          "type": "heading",
+          "text": "P 2 P"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ θ = cos θ τ θ = sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "A 2 A"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "paragraph",
+          "text": "q = 0 ° σ θ = σ max = ( 最大值 ) τθ = 0"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "P P"
+        },
+        {
+          "type": "paragraph",
+          "text": "q = 45 ° σθ = τ θ = = τ max ( 最大值 )"
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2 A"
+        },
+        {
+          "type": "paragraph",
+          "text": "q = 90 ° σ θ = σ min = 0 τθ = 0"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "paragraph",
+          "text": "互餘應力夾角為 90 ° + q σ θ + σ θ ′ = τ θ = − τ θ ′"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "paragraph",
+          "text": "(30o 互餘為 120o) 兩互餘剪應力大小相等方向相反"
+        },
+        {
+          "type": "heading",
+          "text": "兩互餘正交應力相加 = 原來應力值"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 71"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "P 2 P 2"
+        },
+        {
+          "type": "heading",
+          "text": "1. 互餘應力 σ θ ′ = cos ( 90 ° + θ ) = sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "A A"
+        },
+        {
+          "type": "paragraph",
+          "text": "cos( 90 ° + θ ) = − sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "P 2 P 2 P 2 2 P"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴兩互餘應力相加 σ θ + σ θ ′ = cos θ + sin θ = (cos θ + sin θ ) =,"
+        },
+        {
+          "type": "heading",
+          "text": "A A A A"
+        },
+        {
+          "type": "paragraph",
+          "text": "即兩互餘正交應力相加 = 原來應力值。"
+        },
+        {
+          "type": "heading",
+          "text": "P P P"
+        },
+        {
+          "type": "heading",
+          "text": "2. 互餘剪應力 τ θ ′ = sin[ ( 2 90 ° + θ )] = sin( 180 ° + 2 θ ) = − sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2 A 2 A"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 由 sin( 180 ° + θ ) = − sin θ )"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴兩互餘剪應力 τ θ = sin 2 θ = − τ θ ′,即兩互餘剪應力大小相等方向相反。"
+        },
+        {
+          "type": "heading",
+          "text": "2 A"
+        },
+        {
+          "type": "heading",
+          "text": "4. 討論"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當材料抗剪力較弱時 ( 如軟鋼等延性材料 ),受 拉力或壓力時,與軸 45 ° 之斜 截面破壞斷裂,即 45 ° 剪應力最大。 (2) 材料受拉力時,正交應力與剪應力均取正值;受壓力時均取負值。 剪應力以沿任何平面對於單位中心之力矩為順時針取正;逆時針取負。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-10 正交應力與剪應力的方向性"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 單軸向應力分析在 45 ° 斜截面上之剪應力為最大,其值等於最大正交應力之一 半。"
+        },
+        {
+          "type": "heading",
+          "text": "P 1 P"
+        },
+        {
+          "type": "heading",
+          "text": "τ θ = τ max = = ×"
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2 A"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "72"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 單軸向負荷 q = 45 ° 時,正交應力和剪應力大小相等: σ 45 ° = = τ 45 °。"
+        },
+        {
+          "type": "heading",
+          "text": "2 A"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 材料的破壞會發生於抵抗力最脆弱之截面,延性材料 ( 如軟鋼 ),其抗剪強度 最弱;脆性材料 ( 如鑄鐵、混凝土 ),其抗拉強度最弱。脆性材料於受較大壓 力時,與外力成 45 ° 的截面破壞為剪力破壞 ( 脆性材料:抗壓 > 抗剪 > 抗拉 )。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 主應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "當正交應力為最大或最小時,此時剪應力必為零的截面稱為主平面 (principal plane), 而 此 平 面 的 應 力 稱 為 主 應 力 (principal stress)。 由 表 10-2 得 知, 當 q = 0 ° 及 q = 90 ° 時,此二截面之剪應力 t 均為零,此受力平面為主平面,且最大 主應力為 σ x (0 ° 時 ),最小主應力 σ y 為零 (90 ° 時 )。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 莫耳圓 (Mohr's circle) 之圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "莫耳圓在 1882 年由德國工程師莫耳所創出,其繪製步驟: (1) 在平面上以正向應力 σ 為橫軸,以剪應力 t 為縱軸。 (2) 莫耳圓先在 σ 軸上標上正向應力 σ x、 σ y,再以 σ x 和 σ y 之中點當圓心,即圓心"
+        },
+        {
+          "type": "heading",
+          "text": "σ x + σ y σ x − σ y"
+        },
+        {
+          "type": "paragraph",
+          "text": "座標為 (, 0), 以 為半徑。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 角度由 σ x 開始畫,夾 q 角要畫 2 q 角,即題目逆時針轉 q 角,圖形則需逆時針 轉 2 q 角,如圖 10-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-11 莫耳圓畫法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 73"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "heading",
+          "text": "σ x =, σ y = 0"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "1 P"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 夾角 q 之應力半徑 r = × = τ max"
+        },
+        {
+          "type": "heading",
+          "text": "2 A"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "paragraph",
+          "text": "τ θ = r sin 2 θ = sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 A"
+        },
+        {
+          "type": "heading",
+          "text": "P P"
+        },
+        {
+          "type": "paragraph",
+          "text": "σθ = 圓心座標 + r cos 2 θ = + cos 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2 A"
+        },
+        {
+          "type": "heading",
+          "text": "2 互餘應力"
+        },
+        {
+          "type": "heading",
+          "text": "τ θ = − τ θ ′"
+        },
+        {
+          "type": "heading",
+          "text": "σ θ + σ θ ′ σ x + σ y"
+        },
+        {
+          "type": "heading",
+          "text": "圓心座標 = ="
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ σ x + σ y = σ θ + σ θ ′ = σ x = ( ∵ σ y = 0 )"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 10-6 題型:正交應力與剪應力 ( 單軸向負荷 ) 如圖所示,一直徑 2 cm 的圓形桿,受軸向 20 π kN 作用,則求出在傾斜斷面 A ′ B ′ 上之 (1) 正交應力 (2) 剪應力 (3) 互餘應力 (4) 互餘剪應力。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "注意 q 角, q 為 30 °"
+        },
+        {
+          "type": "heading",
+          "text": "P 20 π × 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ x = σ max = = = 200 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "A π × 20"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 正交應力"
+        },
+        {
+          "type": "heading",
+          "text": "P 2 2 3 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ θ = cos θ = 200 × cos 30 ° = 200 × ( ) = 150 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "A 2"
+        },
+        {
+          "type": "heading",
+          "text": "P 200 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 剪應力 τ θ = sin 2 θ = × sin ( 2 × 30 ° = ) 100 × = 50 3 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 互餘應力 σ θ + σ θ ′ = σ x, 150 + σθ ′ = 200, σθ ′ = 50 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "′ = −"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 互餘剪應力 τ θ = − τ θ ′, τ θ τ θ = − 50 3 MPa"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "74"
+        },
+        {
+          "type": "heading",
+          "text": "另解"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 10-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "正方形邊長 2 cm,長 40 cm,受 80 kN 拉力,試求 30 ° 斷面之正交應力 σq、 剪應力 tq、互餘應力 σq′、互餘剪應力 tq′、最大正交應力 σ max 及最大剪應力 t max。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 75"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 10-7 題型:作用力與面積的計算 ( 安全考量 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "若面積為 1000 mm 的金屬圓桿,使兩端承受軸向拉力作用,若圓桿可承受最 大拉應力為 140 MPa,最大剪應力為 80 MPa,則此材料可容許兩端最大拉力為"
+        },
+        {
+          "type": "heading",
+          "text": "多少 kN?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "考慮拉應力破壞:"
+        },
+        {
+          "type": "heading",
+          "text": "P t Pt"
+        },
+        {
+          "type": "paragraph",
+          "text": "最大拉應力 σ max =, 140 =, Pt = 140000 N = 140 kN"
+        },
+        {
+          "type": "heading",
+          "text": "A 1000"
+        },
+        {
+          "type": "heading",
+          "text": "考慮剪應力破壞:"
+        },
+        {
+          "type": "heading",
+          "text": "P s Ps"
+        },
+        {
+          "type": "paragraph",
+          "text": "最大剪應力 τ max =, 80 =, Ps = 160000 N = 160 kN"
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2 × 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "容許的最大拉力必須取較小值才安全,即在 140 kN 已斷裂,無法再承受 160 kN 的作用。故取 140 kN。"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 10-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "若有一圓桿承受軸向 P = 120 kN 之拉力作用,此圓桿材料所容許之張應力為 150 MPa,容許之剪應力為 80 MPa,試求此圓桿之可安全使用最小面積?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "76"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 所有物體對張力、壓力及剪力之強度未必相等,對混凝土材料而言, 則 (A) 抗張 > 抗壓 > 抗剪 (B) 抗剪 > 抗壓 > 抗張 (C) 抗壓 > 抗剪 > 抗張 (D) 抗壓 > 抗張 > 抗剪。 ( ) 2. 如圖所示,一正方形桿件 40 × 40 mm,二端受軸向負荷 80 kN 作用, 試求與橫斷面逆時針成 15 ° 之 ab 截面之剪應力為多少 MPa? (A) 12.5 (B) 25 (C) 125 3 (D) 50。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 如圖所示為一寬 5 cm,厚 6 cm 之矩形棒,受 P = 210 kN 之拉力時, 則傾斜面 A ′ B ′ 上之法線應力及剪應力各為多少 MPa? (A) σ n = 175, t = 30.3 (B) σ n = 35.0, t = 15.2 (C) σ n = 30.3, t = 15.2 (D) σ n = 52.5, t = 30.3。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 一圓桿所能受之最大拉應力為 80 MPa,最大剪應力為 25 MPa,若 其兩端欲承受件 80 π kN 之拉力作用,則此圓桿之最小直徑應為若干 cm? (A) 8 (B) 80 (C) 20 (D) 20 10。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 設計一橫斷面積 100 mm 的金屬圓桿,兩端承受拉力作用,已知圓桿 可承受最大拉應力 60 MPa,最大剪應力 25 MPa,則容許兩端最大拉 力為多少 N? (A) 5000 (B) 5500 (C) 6000 (D) 6500。 ( ) 6. 長度為 50 mm 的桿件,其彈性係數為 100 GPa,受到拉伸負荷作用, 當伸長量為 0.05 mm 時,桿件內的最大剪應力為多少 MPa? (A) 50 (B) 100 (C) 200 (D) 100 3。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 77"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 如 圖 所 示, 一 正 方 形 截 面 的 鐵 棒, 若 其 截 面 邊 長 為 a, 兩 端 承 受 P = 3200 N 的拉力,且其最大剪應力為 100 MPa,則邊長 a 為多少 mm? (A) 16 (B) 4 2 (C) 4 (D) 2。"
+        },
+        {
+          "type": "heading",
+          "text": "二、雙軸向應力分析"
+        },
+        {
+          "type": "heading",
+          "text": "1. 雙軸向應力之證明,有兩種方式,一種為單軸向負荷之組合式,另一種為採用剖"
+        },
+        {
+          "type": "paragraph",
+          "text": "面法,此式在此處稍難,可以背公式即可。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-12 雙軸向應力"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 單軸向負荷之組合式:"
+        },
+        {
+          "type": "heading",
+          "text": "1 只有 σ x 作用時之應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-13 雙軸向負荷 ( 只考慮 σ x 作用 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "78"
+        },
+        {
+          "type": "heading",
+          "text": "P 2 1 + cos 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "σ θ = cos θ = σ x ( )"
+        },
+        {
+          "type": "heading",
+          "text": "A 2"
+        },
+        {
+          "type": "heading",
+          "text": "P σ x"
+        },
+        {
+          "type": "heading",
+          "text": "τ θ = sin 2 θ = sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2"
+        },
+        {
+          "type": "heading",
+          "text": "互餘應力:"
+        },
+        {
+          "type": "heading",
+          "text": "P 2 1 − cos 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "σ θ ′ = sin θ = σ x ( )"
+        },
+        {
+          "type": "heading",
+          "text": "A 2"
+        },
+        {
+          "type": "heading",
+          "text": "P σ x"
+        },
+        {
+          "type": "paragraph",
+          "text": "τ θ ′ = − sin 2 θ = − sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 只考慮 σ y 作用類似互餘應力算法"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-14 雙軸向負荷 ( 只考慮 σ y 作用 )"
+        },
+        {
+          "type": "heading",
+          "text": "1 − cos 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "σ θ = σ y ( )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "σ y"
+        },
+        {
+          "type": "heading",
+          "text": "τ θ = − sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "3 利用重疊法"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 + cos 2 θ 1 − cos 2 θ ( σ x + σ y ) ( σ x − σ y ) σ θ = σ x ( ) + σ y ( ) = + cos 2 θ ( 公式 10-9)"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "σ x σ y ( σ x − σ y )"
+        },
+        {
+          "type": "paragraph",
+          "text": "τ θ = sin 2 θ − sin 2 θ = sin 2 θ ( 公式 10-10)"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 79"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 剖面法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "在一受力件取 mn 截面剖面,如圖 10-16 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 10-15 自由體圖 ▲ 圖 10-16 雙軸向應力公式證明"
+        },
+        {
+          "type": "heading",
+          "text": "F"
+        },
+        {
+          "type": "heading",
+          "text": "由應力 σ =,∴力量 F = σ. A"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "∑ Fx = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ θ ⋅ A − ( σ x cos θ )( A cos θ ) − ( σ y sin θ )( A sin θ ) = 0 2 2 1 + cos 2 θ 1 − cos 2 θ ∴ σ θ = σ x cos θ + σ y sin θ = σ x ( ) + σ y ( )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( σ x + σ y ) ( σ x − σ y )"
+        },
+        {
+          "type": "heading",
+          "text": "∴ σ θ = + cos 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "∑ Fy = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "τ θ ⋅ A + ( σ y cos θ )( A sin θ ) − ( σ x sin θ )( A cos θ ) = 0"
+        },
+        {
+          "type": "heading",
+          "text": "( σ x − σ y )"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ τ θ = ( σ x − σ y )(sin θ cos θ ) = sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "註:證明所需之數學公式"
+        },
+        {
+          "type": "paragraph",
+          "text": "sin( α + β ) = sin α cos β + cos α sin β"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "sin 2 θ = 2 sin θ cos θ, sin θ cos θ = sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "cos( α + β ) = cos α cos β − sin α sin β"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "cos 2 θ = cos θ − sin θ = 2 cos θ − 1 = 1 − 2 sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ∵ sin θ + cos θ = 1 ∴ sin θ = 1 − cos θ, cos θ = 1 − sin θ )"
+        },
+        {
+          "type": "heading",
+          "text": "2 1 − cos 2 θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 sin θ = 1 − cos 2 θ,∴ sin 2 θ ="
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 1 + cos 2 θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 cos θ = 1 + cos 2 θ,∴ cos θ ="
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "80"
+        },
+        {
+          "type": "heading",
+          "text": "2. 表 10-3 為雙軸向應力之探討"
+        },
+        {
+          "type": "paragraph",
+          "text": "▼ 表 10-3 雙軸向負荷之正交應力、剪應力及互餘應力與夾角 q 之關係"
+        },
+        {
+          "type": "heading",
+          "text": "雙軸向負荷"
+        },
+        {
+          "type": "paragraph",
+          "text": "( σ x + σ y ) ( σ x − σ y ) ( σ x − σ y ) σ θ = + cos 2 θ τ θ = sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "σ θ = σ x = σ max"
+        },
+        {
+          "type": "heading",
+          "text": "q = 0 ° τθ = 0"
+        },
+        {
+          "type": "heading",
+          "text": "( 當 σ x > σ y )"
+        },
+        {
+          "type": "paragraph",
+          "text": "( σ x + σ y ) ( σ x − σ y ) q = 45 ° σ θ = τ θ = τ max ="
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "q = 90 ° σ θ = σ y = σ min τθ = 0 互餘應力夾角為 90 ° + q σ θ + σ θ ′ = σ x + σ y τ θ = − τ θ ′ ( q 互餘為 90 ° + q ) 兩互餘剪應力大小相等方向相反"
+        },
+        {
+          "type": "heading",
+          "text": "兩互餘正交應力相加 = 原來應力相加"
+        },
+        {
+          "type": "heading",
+          "text": "( σ x − σ y )"
+        },
+        {
+          "type": "heading",
+          "text": "3. 雙軸向應力當 q = 45 ° 時,剪應力為最大值 τ 45 ° = τ max =,即最大剪應力"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "( σ x + σ y )"
+        },
+        {
+          "type": "paragraph",
+          "text": "為兩主應力相減之一半。此時之正交應力為 σ 45 ° =。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4. 兩互相垂直截面上, 正交應力之和恆與雙軸向原來應力之和相等,即"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ θ + σ θ ′ = σ x + σ y。兩互餘剪應力大小相等,方向相反, τ θ = − τ θ ′。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 純剪 (pure shear):雙軸向應力 當 σ x = − σ y 且 q = 45 ° 時,截面上只有剪應力,而正"
+        },
+        {
+          "type": "paragraph",
+          "text": "交應力均為零,此狀態為純剪。"
+        },
+        {
+          "type": "heading",
+          "text": "( σ x − σ y )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 純剪時 τ θ = sin 2 θ = σ x = − σ y。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( σ x + σ y + σ z )( 1 − 2 μ ) (2) 純剪時體積應變為零, P V = = 0。"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "paragraph",
+          "text": "∵ σ x = − σ y, σ z = 0,∴ P V = 0"
+        },
+        {
+          "type": "heading",
+          "text": "( σ x − σ y )"
+        },
+        {
+          "type": "heading",
+          "text": "6. 當兩主應力相等時 σ x = σ y,則 τ θ = sin 2 θ = 0,即 當兩主應力相等時,剪"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "應力為零。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 81"
+        },
+        {
+          "type": "heading",
+          "text": "7. 莫耳圓之圖解法:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 10-17 莫耳圓畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 在平面上 以應力 σ 為 x 軸,以剪應力 t 為 y 軸。 (2) 將承受的應力 σ x 和應力 σ y,在圖上的 x 軸標出, σ x 和 σ y 的直線距離就是莫"
+        },
+        {
+          "type": "heading",
+          "text": "σ x + σ y"
+        },
+        {
+          "type": "paragraph",
+          "text": "耳圓的直徑。以 σ x 和 σ y 之中點為莫耳圓的圓心,其圓心座標為 (, 0 ),"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "( σ x − σ y )"
+        },
+        {
+          "type": "paragraph",
+          "text": "莫耳圓半徑 R =。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 因 σ x 和 σ y 的夾角為 90 °,在莫耳圓上則以 σ x 和 σ y 的夾角為 180 ° 畫出;所以 夾角 q,在莫耳圓上畫 2 q 角,由 σ x 開始畫,若剖面與垂直方向逆時針夾角 q,莫耳圓由 σ x 開始畫逆時針轉 2 q 角;若順時針則順時針轉動。 (4) 互餘應力 σθ ′ 和互餘剪應力 τθ ′ 發生的平面 (90 ° + q ),與 q 角夾 90 °,在莫耳圓 上需旋轉 180 °,畫出時剛好在圓 q 角之對邊。 1 由圖形得知 τ θ ′ = − τ θ。即 兩互餘剪應力大小相等,方向相反。 ( σ x + σ y ) ( σ θ + σ θ ′ ) 2 圓心座標 = =,∴ σ θ + σ θ ′ = σ x + σ y。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "即 兩互餘應力相加 = 原來應力相加。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "82"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 10-8 題型:正交應力與剪應力 ( 雙軸向負荷 ) 如圖所示之雙軸向應力, σ x = 400 MPa, σ y = 200 MPa 求 q = 60 ° 時 mn 斷面之 (1) 正交應力、 剪應力及互餘應力各為多少? (2) 最大剪應力發生在 q 為多少度? 最大剪應力為多少 MPa?此最大剪應力斷面上之正交應力為多少 MPa?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) q 角之應力 ( q 用 120 ° )"
+        },
+        {
+          "type": "paragraph",
+          "text": "( σ x + σ y ) ( σ x − σ y )"
+        },
+        {
+          "type": "heading",
+          "text": "σ θ = + cos 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 400 + 200 ) ( 400 − 200 )"
+        },
+        {
+          "type": "heading",
+          "text": "= + cos ( 2 × 120 ° )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "= 250 MPa"
+        },
+        {
+          "type": "paragraph",
+          "text": "( σ x − σ y ) ( 400 − 200 ) τ θ = sin 2 θ = sin ( 2 × 120 ° )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 100 × − ( ) = − 50 3 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ θ + σ θ ′ = σ x + σ y, 250 + σθ ′ = 400 + 200, σθ ′ = 350 MPa τ θ = − τ θ ′, − 50 3 MPa = − τθ ′, τθ ′ = 50 3 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "(2) q = 45 ° 剪應力最大"
+        },
+        {
+          "type": "paragraph",
+          "text": "( σ x − σ y ) ( 400 − 200 )"
+        },
+        {
+          "type": "heading",
+          "text": "τ max = = = 100 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( σ x + σ y ) ( 400 + 200 )"
+        },
+        {
+          "type": "heading",
+          "text": "σ 45 ° = = = 300 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 83"
+        },
+        {
+          "type": "heading",
+          "text": "另解"
+        },
+        {
+          "type": "heading",
+          "text": "圖形由 σ x 順時針轉 2 q = 120 °"
+        },
+        {
+          "type": "heading",
+          "text": "σθ = 300 − 50 = 250 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "τθ = − 50 3 MPa"
+        },
+        {
+          "type": "paragraph",
+          "text": "σθ ′ = 300 + 50 = 350 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "τθ ′ = 50 3 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "τ max = 莫耳圓半徑 = 100 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "σ 45 ° = 圓心座標 = 300 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 10-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "雙軸向應力如圖所示,試求 mn 斷面上之 σq、 tq、 σq′、 tq′ 及 t max。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "84"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 一個平面應力元素,當其兩個互相垂直平面上的正交應力為主應力 時,則在這兩個平面上之剪應力的大小為何? (A) 都必為零 (B) 一 個最大,另一個最小 (C) 兩個均最大 (D) 沒有一定,可大可小。 ( ) 2. 某材料承受雙軸向應力作用,分別為 σ x = 160 MPa, σ y = - 120 MPa, 則下列敘述何者錯誤? (A) 純剪存在於 45 ° 的斜截面上 (B) 45 ° 的 斜截面上最大剪應力值為 140 MPa (C) 最大正交應力值為 160 MPa (D) 60 ° 的斜截面上的正交應力與互餘應力的和是 40 MPa。 ( ) 3. 平面應力元件如圖所示,下列敘述何者正確? (A) 最大剪應力為 70 MPa (B) 發生最大剪應力時之軸向應力為 70 MPa (C) 發生最大 剪應力時,傾斜角度為 37 ° (D) 最大剪應力為 20 MPa。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 若材料受純剪應力作用時,則體積應變 ` V 為? (A) 零 (B) 大於零 (C) 小於零 (D) 不一定。 ( ) 5. 下列雙軸向應力何者有可能會發生純剪?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B)"
+        },
+        {
+          "type": "heading",
+          "text": "(C) (D)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 剪力 85"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 當材料承受雙軸向應力作用時,分別為 σ x = 80 MPa, σ y = - 60 MPa,當"
+        },
+        {
+          "type": "heading",
+          "text": "q = 30 ° 時,下列敘述何者錯誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) σ 30 ° = 45 MPa (B) τ 30 ° = 35 3 MPa (C) σ 30 ° ′ = 25 MPa (D) τ 30 ° ′ = − 35 3 MPa。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "86"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "坦克傾斜裝甲的意義在哪?"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ M1A2 傾斜裝甲 ( 圖片來源 https://www.pixpo.net/others/0IXHqWul.html) 傾斜裝甲 (Sloped Armor) 是一種與戰車或裝甲車輛車身成傾斜角度的護甲。鋼鐵裝甲的坦克理想的 防護外形是每個面都是斜面,接近於一個鑽石或橢圓形,頂部、正面、側面共用投影面積可以節約成噸 的噸位。 對於坦克和戰艦的軍事迷們可能都知道,同等厚度和質量的傾斜裝甲相比同等厚度質量的垂直裝甲 具有以下兩個好處: (1) 增加了傾斜厚度,當一塊板材從垂直變成傾斜時,一個物體水平穿過板材所走 的距離就會比板材的厚度更長,比如說 T-34 的裝甲厚度 47mm 法線 60 度傾斜,那實際上的正面水平厚 度 = 47/cos 60 ° = 94mm。因此 傾斜的角度越大,其厚度就越大。其 (2) 增加跳彈機率,傾斜式和弧線式 的裝甲都能增加其保護性,對一塊固定厚度的裝甲鋼板來講,一顆射彈以某個角度攻擊時一定要比垂直 攻擊時還須穿透更厚的裝甲,而且有角度的表面也能夠增加射彈偏斜彈開的機會。這正是為什麼你看到 和可能駕駛的戰車不是完美的四方體,而是具有「傾斜」和 / 或「陡峭」的裝甲板了。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "10-1 1. 剪應力 ( t ):單位面積 (A) 所受的剪力 (V) 稱為剪應力 (shear stress)。剪力的方 向恆與作用面平行。"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 τ ="
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 t 剪力 V 面積 A"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "MPa N mm"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鍵受扭矩的剪力計算:"
+        },
+        {
+          "type": "heading",
+          "text": "V V"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 τ = ="
+        },
+        {
+          "type": "heading",
+          "text": "A 鍵寬 × 鍵長"
+        },
+        {
+          "type": "heading",
+          "text": "3. 平板受沖壓剪斷的剪力計算:"
+        },
+        {
+          "type": "heading",
+          "text": "V V V"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 τ = = ="
+        },
+        {
+          "type": "heading",
+          "text": "A 圓周長 × 板厚 π d × t"
+        },
+        {
+          "type": "heading",
+          "text": "87"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鉚釘剪力破壞的計算:"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "π d"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 單剪:剪力面積 A ="
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "V V"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 τ = = 2"
+        },
+        {
+          "type": "heading",
+          "text": "A π d"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "π d"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 雙剪:剪力面積 A = 2 × ( ) ( 但要注意鉚釘數 )"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "V V"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 τ = = 2"
+        },
+        {
+          "type": "heading",
+          "text": "A π d"
+        },
+        {
+          "type": "heading",
+          "text": "2 × ( )"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "5. 剪應變 ( γ ):原長 (L) 的受剪移動量 ( d ),剪應變為一個角度,其單位以弳度 ( 弧"
+        },
+        {
+          "type": "paragraph",
+          "text": "度 ) 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "δ"
+        },
+        {
+          "type": "heading",
+          "text": "剪應變 γ ="
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "6. 剪力彈性係數 (G):在比例限度內,剪應力 ( t ) 與剪應變 ( γ ) 成正比,其比值為"
+        },
+        {
+          "type": "paragraph",
+          "text": "一常數,又稱為剛性係數。"
+        },
+        {
+          "type": "heading",
+          "text": "τ"
+        },
+        {
+          "type": "heading",
+          "text": "G = 或 t = G γ"
+        },
+        {
+          "type": "heading",
+          "text": "γ"
+        },
+        {
+          "type": "heading",
+          "text": "88"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "10-2 7. 單軸向應力"
+        },
+        {
+          "type": "heading",
+          "text": "單軸向負荷"
+        },
+        {
+          "type": "heading",
+          "text": "P 2 P"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ θ = cos θ τ θ = sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "A 2 A"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "paragraph",
+          "text": "q = 0 ° σ θ = σ max = ( 最大值 ) τθ = 0"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "P P"
+        },
+        {
+          "type": "paragraph",
+          "text": "q = 45 ° σθ = τ θ = = τ max ( 最大值 )"
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2 A"
+        },
+        {
+          "type": "paragraph",
+          "text": "q = 90 ° σ θ = σ min = 0 τθ = 0"
+        },
+        {
+          "type": "heading",
+          "text": "P τ = − τ ′"
+        },
+        {
+          "type": "paragraph",
+          "text": "互餘應力夾角為 90 ° + q σ θ + σ θ ′ = θ θ"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "paragraph",
+          "text": "(30o 互餘 120o) 兩互餘剪應力大小相等方向相"
+        },
+        {
+          "type": "heading",
+          "text": "兩互餘正交應力相加 = 原來應力值 反"
+        },
+        {
+          "type": "heading",
+          "text": "8. 承受軸向力之材料在 45 ° 的斜截面上之剪應力為最大,等於最大正交應力之半。"
+        },
+        {
+          "type": "heading",
+          "text": "P σ max"
+        },
+        {
+          "type": "heading",
+          "text": "τ max = ="
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2"
+        },
+        {
+          "type": "heading",
+          "text": "9. 雙軸向負荷之應力:"
+        },
+        {
+          "type": "heading",
+          "text": "雙軸向負荷"
+        },
+        {
+          "type": "paragraph",
+          "text": "( σ x + σ y ) ( σ x − σ y ) ( σ x − σ y ) σ θ = + cos 2 θ τ θ = sin 2 θ"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "σ θ = σ x = σ max"
+        },
+        {
+          "type": "heading",
+          "text": "q = 0 ° τθ = 0"
+        },
+        {
+          "type": "heading",
+          "text": "( 當 σ x > σ y )"
+        },
+        {
+          "type": "paragraph",
+          "text": "( σ x + σ y ) ( σ x − σ y ) q = 45 ° σ θ = τ θ = τ max ="
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "q = 90 ° σ θ = σ y = σ min τθ = 0 互餘應力夾角為 90 ° + q σ θ + σ θ ′ = σ x + σ y τ θ = − τ θ ′ ( q 互餘為 90 ° + q ) 兩互餘剪應力大小相等方向相反"
+        },
+        {
+          "type": "heading",
+          "text": "兩互餘正交應力相加 = 原來應力相加"
+        },
+        {
+          "type": "heading",
+          "text": "89"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "10. 正交應力為最大值及最小值時, 稱為主應力。 主應力所作用的平面稱為主平面,"
+        },
+        {
+          "type": "paragraph",
+          "text": "在主平面上無剪應力的存在。"
+        },
+        {
+          "type": "heading",
+          "text": "( σ x − σ y )"
+        },
+        {
+          "type": "heading",
+          "text": "11. 雙軸向應力當 q = 45 ° 時,剪應力為最大值 τ max =。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "12. 兩互相垂直斜面上,正交應力之和恆與雙軸向應力之和相等,即"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ θ + σ θ ′ = σ x + σ y,兩互餘剪應力之大小相等,方向相反 τ θ = − τ θ ′。"
+        },
+        {
+          "type": "heading",
+          "text": "13. 純剪:雙軸向應力時,若 σ x = − σ y 且 q = 45 ° 時,斜截面上僅有剪應力,而無"
+        },
+        {
+          "type": "paragraph",
+          "text": "正交應力,此方位上之應力狀態稱為純剪。純剪時體積應變等於零。"
+        },
+        {
+          "type": "heading",
+          "text": "( σ x − σ y )"
+        },
+        {
+          "type": "paragraph",
+          "text": "純剪時 τ θ = sin 2 θ = σ x = − σ y"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "14. 彈性係數 (E)、剪力彈性係數 (G) 及體積彈性係數 (K) 之三者關係。"
+        },
+        {
+          "type": "heading",
+          "text": "E E 9 3 1"
+        },
+        {
+          "type": "heading",
+          "text": "G =, K =, = +"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 1 ( + μ ) 3 1 ( − 2 μ ) E G K"
+        },
+        {
+          "type": "heading",
+          "text": "15. 延性材料抗剪力最弱,所以受拉力時呈 45 ° 斷裂為剪力破壞。"
+        },
+        {
+          "type": "heading",
+          "text": "16. 脆性材料抗拉力最弱,所以受扭力時呈 45 ° 斷裂為拉力破壞。"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "10-1 ( ) 1. 若將書本自裝訂側捲起,沒有裝訂的一側成斜面突出,是因為紙張滑動, 而促成此滑動之力是 (A) 壓力 (B) 拉力 (C) 剪力 (D) 扭力。 ( ) 2. 下列有關應力與應變的敘述,何者 不正確? (A) 張應變與壓應變均為無 單位量 ( 無因次量 ) (B) 剪應力的方向與其作用面互相垂直 (C) 剪應變 的單位用弧度 ( 弳度 ) (D) 依照虎克定律,材料在比例限度內,應力與 應變成正比關係。 ( ) 3. GA 稱為材料的抗剪剛度,若 GA 值愈大代表材料有什麼特性? (A) 材 料愈重 (B) 材料愈輕 (C) 材料愈不容易變形 (D) 材料密度愈大。 ( ) 4. 一軟鋼材料承受剪力,如其剪力彈性係數為 80 GPa,剪應力為 400 MPa,"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "則其剪應變為多少弧度? (A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "5 200 50 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 使用 8 顆鉚釘,以板厚均相同的雙蓋板對接方式進行鉚接,如圖所示, 若作用力 P = 6280 N,鉚釘直徑為 10 mm,則每顆鉚釘所承受的剪應力 為多少 MPa? (A) 5 (B) 10 (C) 20 (D) 40。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 如圖所示之螺栓接合,鋼板的板寬均為 100 mm、板厚均為 25 mm,作 用力 P = 20 π kN,螺栓直徑 d = 2 cm,則螺栓所承受之剪應力為多少 MPa? (A) 12.5 (B) 25 (C) 50 (D) 100。"
+        },
+        {
+          "type": "heading",
+          "text": "91"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 如圖所示之機件, AB 長 200 cm, BC 長 150 cm,在 A 端受一垂直向下 之力 1500 N 作用,在 C 端則有一水平力 P 以保持平衡, B 銷裝置如圖右, 且 B 銷的直徑為 2 cm,則 B 銷所受之剪應力為多少 MPa?"
+        },
+        {
+          "type": "heading",
+          "text": "10 50 25 12 5."
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) α (B) α (C) α (D) α。"
+        },
+        {
+          "type": "heading",
+          "text": "π π π π"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 8. 如圖所示之凸緣聯接器,螺栓直徑為 2 cm,若螺栓 8 支平均排列在直徑"
+        },
+        {
+          "type": "heading",
+          "text": "250"
+        },
+        {
+          "type": "paragraph",
+          "text": "20 cm 的圓上,螺栓的容許剪應力為 α MPa,則此設計可承受之最大"
+        },
+        {
+          "type": "heading",
+          "text": "π"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳動軸扭矩為多少 N-m? (A) 250 (B) 2000 (C) 25000 (D) 20000。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 9. 某材料的蒲松氏比為 0.25,彈性係數為 40 GPa,一邊固定,另一邊承受 一剪力 P 作用後,產生如圖所示之變形量,求該材料所受的平均剪應力 之大小? (A) 250 MPa (B) 100 MPa (C) 125 MPa (D) 50 MPa。"
+        },
+        {
+          "type": "heading",
+          "text": "92"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch10/p042.jpg"
+    }
+  ]
+}

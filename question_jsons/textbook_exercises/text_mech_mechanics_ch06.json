@@ -1,0 +1,85 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH06",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH06_001",
+      "subject": "機械力學",
+      "unit": "CH6",
+      "q": "6 0 = 2(C) sin 0 = 4(D) cot 0 = 4 60 。",
+      "image_url": "",
+      "options": [
+        "10 m/s",
+        "",
+        "sin 0 = 4",
+        "cot 0 = 4 60 。 (A) 10 m/s(B) 20 m/s(C) 30 m/s(D) 40 m/s )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH06_002",
+      "subject": "機械力學",
+      "unit": "CH6",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "200",
+        "25",
+        "50",
+        "100 30 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH06_003",
+      "subject": "機械力學",
+      "unit": "CH6",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "50 20 40 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH06_004",
+      "subject": "機械力學",
+      "unit": "CH6",
+      "q": "866 )",
+      "image_url": "",
+      "options": [
+        "2490",
+        "3490",
+        "4490",
+        "5490 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH06_005",
+      "subject": "機械力學",
+      "unit": "CH6",
+      "q": "13 m/s 50 m 5 m/s ( g=10m/s2) m/s",
+      "image_url": "",
+      "options": [
+        "196",
+        "500 m/s (A) 1 (B)1.2",
+        "1.3",
+        "1.5 45 。 49 (C)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

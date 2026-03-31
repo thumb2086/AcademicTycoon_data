@@ -1,0 +1,37 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH05",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH05_001",
+      "subject": "機械製造",
+      "unit": "5-4",
+      "q": "6 (C)",
+      "image_url": "",
+      "options": [
+        "(A) (DCSP) (A)",
+        "",
+        "(A) (A) (DCSP) (A) (B) (B) (B) (B)",
+        "(D) (B) (D) 261 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH05_002",
+      "subject": "機械製造",
+      "unit": "5-4",
+      "q": "(D)",
+      "image_url": "",
+      "options": [
+        "",
+        "(B) Welding) (A) (EXW)",
+        "",
+        "(A) (B) (B) Welding) (A) (EXW)(C) (A) (B) (B) (D) (UW) (D) (A) (B) (D) (E SW) (SAW) (Friction (Laser Beam Welding) (Electron Beam Welding) (D) (A) (Thermit Welding) (B) (C) (D) (D) (A) (B) 262"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

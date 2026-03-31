@@ -1,0 +1,149 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH09",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH09_001",
+      "subject": "機械製造",
+      "unit": "CH9",
+      "q": "4 m/min (B) 500 (C) 750 (D) 1, 0001 ㄗ m (C) (B) (C) (D) 12 (D) (D) 5 (B)",
+      "image_url": "",
+      "options": [
+        "",
+        "500",
+        "750",
+        "1, 0001 ㄗ m (C) (B) (C) (D) 12 (D) (D) 5 (B) (A) (D) (D) 2 mm (A) 20 mm (A) 250 (A) (B) (A) (A) 100 (A) (B) (B) (B) 30 mm (A)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH09_002",
+      "subject": "機械製造",
+      "unit": "CH9",
+      "q": "(D) (C) 2 (B) (D) (B)",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "(C) 2 (B) (D) (B) (A) (B) 學後評量 (D) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH09_003",
+      "subject": "機械製造",
+      "unit": "CH9",
+      "q": "5 mm(B)8.5 mm(C) 10 mm(D)3 mm",
+      "image_url": "",
+      "options": [
+        "",
+        "8.5 mm",
+        "10 mm",
+        "3 mm (A) 9-2 152 (D) (B) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH09_004",
+      "subject": "機械製造",
+      "unit": "CH9",
+      "q": "(B)",
+      "image_url": "",
+      "options": [
+        "",
+        "(A) (D) 10 (D) (B) 13 mm",
+        "",
+        "10 (D) (B) 13 mm(C) (A) (A) (A) (A) (D) 20 mm(A) 120 mm 10 (D) (A) (B) (D) (A) (B) (B) (D) (B) (A) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH09_005",
+      "subject": "機械製造",
+      "unit": "CH9",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "100",
+        "118",
+        "125",
+        "145 學後評量 (B) 90 (D) 9-3 9-4 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH09_006",
+      "subject": "機械製造",
+      "unit": "CH9",
+      "q": "。 (B) 120 lmm (D)",
+      "image_url": "",
+      "options": [
+        "",
+        "120 lmm (D) (A) (A)T 135 。",
+        "",
+        "(A) (A)T 135 。 (C) 590 。 (D) 90 (A)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH09_007",
+      "subject": "機械製造",
+      "unit": "CH9",
+      "q": "4mm",
+      "image_url": "",
+      "options": [
+        "(D) 1 cm (A) (A) T (A)",
+        "(B) (B) (B) (D) (B) (B) (B) (A) (A) (D) (D) (D) (B) 153 學後評量 1 一 (B) 1 一",
+        "",
+        "1 cm (A) (A) T (A) (B) (B) (B) (B) (D) (B) (B) (B) (A) (A) (D) (D) (D) (B) 153 學後評量 1 一 (B) 1 一 (C) 1 一 (D) (A) (B) 27 9-5 154 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH09_008",
+      "subject": "機械製造",
+      "unit": "CH9",
+      "q": "181920",
+      "image_url": "",
+      "options": [
+        "(C) (C) 20 (A) (D) 401",
+        "",
+        "(C) 20 (A)",
+        "401 (B) 34 25 GC 200 H 4 V - IB -200 H(B)B(C)A(D) 1 (D) (D) (C) (D) (D) (C)M(D)S 32 (A) (A) GC (B) (A) 14 (D) (A) (B) (C) (A) (A) (B) (B) (B) (B) A (A) (C) (A) (B) (D) 15 1617 14 (C) (D) (C) (C) (A)E (B IV 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH09_009",
+      "subject": "機械製造",
+      "unit": "CH9",
+      "q": "",
+      "image_url": "",
+      "options": [
+        "mm",
+        "",
+        "",
+        ")"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

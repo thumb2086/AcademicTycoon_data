@@ -1,0 +1,501 @@
+{
+  "bundle_id": "MOCK_106_4_ENG",
+  "questions": [
+    {
+      "id": "MOCK_106_4_ENG_001",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "I had no idea why Kiki gave me a look as if I had done something wrong.",
+      "image_url": "",
+      "options": [
+        "suspicious",
+        "confident",
+        "grateful",
+        "sociable"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "我不知道為什麼 Kiki 給我一個懷疑的眼神,好像我 (D) 我一定是今天太累了。 做錯了什麼事。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_002",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Even though Timmy and Cindy always argue and about everything, surprisingly they are still good friends and can share every detail of their lives.",
+      "image_url": "",
+      "options": [
+        "chat",
+        "pray",
+        "prepare",
+        "disagree"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "即使 Timmy 和 Cindy 總是爭論且有不同意見,但令 人。 在你等待的同時可以填寫這份 人驚訝的是他們仍然是好朋友並分享生活中的每一 表格。 個細節。 林女士:好的。姓名、地址、出生日期、年齡。 (A) 聊天 (B) 祈禱 (C) 準備 (D) 不同意 護士:謝謝,醫生應該很快就可以看你了。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_003",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "A restaurant manager not only has to communicate with customers but also tries the best to handle their.",
+      "image_url": "",
+      "options": [
+        "diseases",
+        "materials",
+        "complaints",
+        "functions"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "我們應該一起合作保持環境整潔。 解答: We should work together to keep the environment clean. 或是 We should cooperate to keep the environment clean. 評閱指標 級分 說明 能充分表達原文題意,對題材有絕佳的掌握, 4 句子結構及連貫性甚佳。文法及標點正確,用 字遣詞沒有或僅有極少不當之處。 能適切表達原文題意,對題材有良好的掌握, 3 句子結構及連貫性大致得當。文法及標點、用 字遣詞有少數不當之處,但不妨礙題意之表達。 僅能部分表達原文題意,句子結構不良或有 2 誤,且大多難以理解並缺乏連貫性。文法及標 點、用字遣詞有失當之處。 無法表達原文題意,句子沒有結構概念及連貫 1 性,無法理解。文法及標點、用字遣詞之錯誤 甚多。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_004",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "I bought two tickets to the NBA game this Saturday evening. Would you like to me to the game?",
+      "image_url": "",
+      "options": [
+        "sympathize",
+        "accompany",
+        "persuade",
+        "interrupt"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "我買了兩張星期六晚上 NBA 球賽的票。你可以陪伴 (D) 大概是什麼問題呢? 我一起去這場比賽嗎?"
+    },
+    {
+      "id": "MOCK_106_4_ENG_005",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "It should be everybody’s responsibility to avoid warming; we need to keep reducing the greenhouse gas emission.",
+      "image_url": "",
+      "options": [
+        "global",
+        "domestic",
+        "identical",
+        "eventual"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "減少全球暖化應該是每一個人的責任;我們需要持續 Tim:好主意。但是我們應該要在 3 點搭計程車離開。 減少溫室效應氣體的排放。 到機場有點遠。 (A) 全球的 (B) 國內的 (C) 一樣的 (D) 最終的 Sonia:我覺得我們不應該搭計程車。地鐵快多了。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_006",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "For those who have no time to plan their trip in advance, taking a tour is probably the best choice for them.",
+      "image_url": "",
+      "options": [
+        "rescue",
+        "self-guided",
+        "package",
+        "lecture"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "對於那些無法事先規劃旅程的人來說,旅行社套裝行 Tim:好吧。 在你的辦公室會合哦, 程也許是最好的選擇。 然後我們可以一起走到地鐵車站。 (A) 救援 (B) 自助 (C) 套裝 (D) 演講 (A) 我們一起坐計程車。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_007",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "The discovery to curing the fatal illness such as malaria was made by years of diligent research of scientists.",
+      "image_url": "",
+      "options": [
+        "original",
+        "hardworking",
+        "expressive",
+        "historical"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "之所以能找到治療致命疾病如瘧疾的方法,是科學家 (B) 我會在 4: 30 接你。 多年努力不懈研究的結果。 (C) 飛機很快就會起飛。 (A) 原始的 (B) 努力的 (D) 這計劃聽起來很不錯。 (C) 富有表情的 (D) 歷史的"
+    },
+    {
+      "id": "MOCK_106_4_ENG_008",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Taiwan enjoys liberal democracy and freedom of speech. We really have to cherish what we have and use it wisely.",
+      "image_url": "",
+      "options": [
+        "strict",
+        "true",
+        "pure",
+        "free"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "臺灣享有自由民主和言論自由。我們真的應該要珍惜 完成。 我們所擁有的,並有智慧的運用它們。 Jasper:要我幫你從自助餐廳買午餐嗎? (A) 嚴格的 (B) 真正的 (C) 純真的 (D) 自由的 Cindy:不用了,謝謝。我從家裡帶來了三明治。我"
+    },
+    {
+      "id": "MOCK_106_4_ENG_009",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Facebook founder, Mark Zuckerberg, is optimistic about the future development of artificial intelligence.",
+      "image_url": "",
+      "options": [
+        "realistic",
+        "positive",
+        "generous",
+        "unpleasant"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "臉書創辦人 Mark Zuckerberg 對於人工智慧的未來發 會一邊做一邊吃飯。 展持有非常樂觀的看法。 Jasper: 你再這樣工作會把自己逼 (A) 務實的 (B) 正面的 (C) 慷慨的 (D) 不愉快 瘋。你會生病的。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_010",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "We should avoid making personal remarks because it is rude and impolite; also, it hurts people.",
+      "image_url": "",
+      "options": [
+        "vitamins",
+        "comments",
+        "regulations",
+        "purposes"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "我們應該避免針對個人評論,因為這行為粗魯又無 (A) 為什麼不搬到我的辦公室,讓我們一起工作? 禮。此外,它還會傷人。 (B) 你知道嗎,你真的應該停下來休息一下。 (A) 維生素 (B) 評論 (C) 規定 (D) 目的 (C) 我也沒有吃午飯,不是只有你。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_011",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "The drug company has supported the lung cancer research because it has kept searching for new treatments for this disease.",
+      "image_url": "",
+      "options": [
+        "assisted",
+        "described",
+        "suggested",
+        "contained II. 對話題 ( 第 12-21 題,每題 2 分,共 20 分 ) 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這家藥廠一直支持肺癌的研究,因為想要找到新的治 (D) 那個自助餐的食物真好吃。為什麼不試試? 療方法。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_012",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Daughter: Dad, dad, dad! Wake up! Father: Uh, what, what, uh, uh? Daughter: The movie is over. You slept through the best part. Father: Sorry for that.",
+      "image_url": "",
+      "options": [
+        "I want to know what kind of movies you like.",
+        "I would never go to a movie alone.",
+        "I won’t be late next time.",
+        "I must have been tired today."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "女兒:爸,爸,爸爸!醒醒! 始,應該會在 10: 00 之前完成。 爸爸:呃,什麼,什麼,呃呃? 女士:那沒問題,我們會在那之前把會議室準備好。 女兒:電影結束了。你在最精彩的時候睡著了。 (A) 真的?那我會找個新場地。 爸爸:真對不起, 106-4 共同科目 英文 詳解 (B) 對不起打擾你,我會試圖弄清楚。 事。許多不知名的女生開始在臉書或推特張貼「我也 (C) 他們幾點會結束? 是」, (22) 揭露她們過去可怕的經驗。那些故事湧入像臉 (D) 那應該沒問題。 書和推特那樣的社群網站, (23) 訴說著受到性侵及性騷擾"
+    },
+    {
+      "id": "MOCK_106_4_ENG_013",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Ms. Lin: Hello, I am Ms. Lin. I had an appointment at 4:30, but I am a little late. Nurse: Yes, Ms. Lin. I am sorry but the doctor has taken the next patient. You could fill out this form while you are waiting. Ms. Lin: All right. Name, address, date of birth, age. Nurse: Thanks. The doctor should be with you quite soon.",
+      "image_url": "",
+      "options": [
+        "Would you mind waiting for a few minutes?",
+        "Could you come tomorrow afternoon at 2:30?",
+        "Do you have any allergies?",
+        "What seems to be the problem?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "林女士:你好,我姓林,我 4 點半有預約但遲到了。 (A) 懷疑的 (B) 自信的 (C) 感激的 (D) 社交的 護士:好的,不過很抱歉,醫生已經在治療下一個病"
+    },
+    {
+      "id": "MOCK_106_4_ENG_014",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Sonia: Joseph’s plane is due to arrive at 4:30. I think we should go pick him up at the airport. Tim: Good idea. But we’ll need to leave here at 3:00 by taxi. It is a bit far to get there. Sonia: I don’t think we should take a taxi. The subway is much faster. Tim: Okay. I’ll meet you at your office and we can walk to the station together.",
+      "image_url": "",
+      "options": [
+        "Let’s take a taxi together.",
+        "I will pick you up at 4:30.",
+        "The plane will take off soon.",
+        "That sounds like a good plan."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Sonia: Joseph 的飛機會在 4: 30 到達。我想我們應 (A) 同情 (B) 陪伴 (C) 說服 (D) 打擾 該去機場接他。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_015",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Cindy: I have got a lot of work and I have to get it done by 5:00 this afternoon. Jasper: Do you want me to bring you something to eat from the cafeteria? Cindy: No, thanks. I brought a sandwich from home. I’ll eat it at my desk. Jasper: You’ll drive yourself crazy working like that. You’ll make yourself sick.",
+      "image_url": "",
+      "options": [
+        "Why don’t you move to my office and let’s work together?",
+        "You know something? You really should stop for a break.",
+        "Me too. I haven’t had my lunch yet. You are not alone.",
+        "The food in that cafeteria is so great. Why not have a try?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Cindy:我有很多工作,我必須在今天下午 5 點之前"
+    },
+    {
+      "id": "MOCK_106_4_ENG_016",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Man: Could I book Room 3 for a meeting next Friday morning? Woman: That depends. Will you be done before 11:00? The room has already been booked from 11:00 to 13:00. Man: Our schedule starts at 8:00 and should be finished by 10:00. Woman: Okay, we’ll get the room ready for you by then.",
+      "image_url": "",
+      "options": [
+        "Really? I will find a new place.",
+        "Sorry to bother you. I will try to figure it out.",
+        "What time will they finish their meeting?",
+        "I don’t think that will be a problem."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "男士:下週五上午我可以預訂 3 號會議室嗎? (A) 幫忙 (B) 敘述 (C) 建議 (D) 包含 女士:看情況。你們會在 11: 00 之前結束嗎?會議 室從 11: 00 到 13: 00 已經有人預訂了。 II. 對話題 男士: 我們的時程表是從 8: 00 開"
+    },
+    {
+      "id": "MOCK_106_4_ENG_017",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Mom: Hi dear, how are you doing today? Daughter: Just fine, my teacher gave us a pop quiz today. Mom: So... how was that going? Daughter: Mom: Honey, don’t worry; you’ll be fine. It’s not the end of the world. Just try harder next time.",
+      "image_url": "",
+      "options": [
+        "I screwed it up!",
+        "It’s just a piece of cake.",
+        "It was terrific!",
+        "I got a full score."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "媽媽:親愛的,你今天過得好嗎? 的人需忍受多少痛苦。一名叫 Jessica 的性侵受害者決定 女兒:是還好啦,我們老師今天突然給我們小考。 在她的臉書分享她可怕的經驗: 「我今天起床後知道該是 媽媽:那考得怎樣? 時候了。我公佈這件事因為我後悔在我十六歲時沒說出 女兒: 來」 。 (24) 另一個受害女生回應她的貼文,寫道「我也是。 媽媽:親愛的,不用擔心,沒事的。這又不是世界末 我因為這件事還被指責,我甚至不能把它給說出來」 。很 日,下次再努力一點就好了! 明顯的,還有更多受害女生。大量的回覆 #MeToo 貼文顯 (A) 我搞砸了! (B) 太小意思了。 示出在美國每 98 秒就有性侵事件 (25) 發生,且六個女生 (C) 考得太好了! (D) 我拿了滿分。 當中就有一個有被性侵的遭遇。張貼的個人故事只是冰"
+    },
+    {
+      "id": "MOCK_106_4_ENG_018",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Karen: Hi, Keith, could you please help me with my computer? Keith: Sure, what’s wrong with it? Karen: I found it difficult to get access to the Internet. Keith: Let me take a look. Karen: Thanks a lot.",
+      "image_url": "",
+      "options": [
+        "We don’t have Wifi here, so enjoy your time without a computer.",
+        "You misspelled the password. Now you’re all set.",
+        "You probably need to try again as your argument is weak.",
+        "I’m sorry, but your computer is totally broken."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Karen:嗨 Keith,你可以幫我看一下電腦嗎? 山的 (26) 一角。女生呼籲男生出面承認他們曾經騷擾或侵 Keith:當然好呀,你電腦怎麼了? 犯女生的過去。因此,很多男性在臉書或推特上,也出 Karen:我發現我電腦很難連上網路。 現了許多 #IHave 的文章。 Keith:我來看一下。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_019",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Waitress: Are you ready to order, or do you need a few minutes? Customer: I think we are ready. I’ll have the filet for 6 oz, and she will have the same. Waitress: Customer: Umm... we’d like to have medium well, please. Waitress: Is there anything else? Customer: No, we’re good. Thank you.",
+      "image_url": "",
+      "options": [
+        "What size of coke would you like?",
+        "How about our special for today?",
+        "How would you like your steak?",
+        "Do you need appetizers first?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "服務生:要點餐了嗎?還是要再過一下子? Question 27-31 顧客:我想我們可以點餐了。我要一客六盎司的腓力 你有沒有想過在太空飛翔、深海潛水或旅遊世界? 牛排,然後她也要一樣的。 如果你的答案是肯定的,那麼若是這些活動出現在課堂 服務生: 上而又 (27) 不用踏出教室呢? (28) 信不信由你, Google 已 顧客:嗯...那就要七分熟,謝謝。 經讓這些不可能變成可能。 2015 年, Google 推出了「探 服務生:還要點什麼嗎? 險先鋒計畫」,為學校提供了超過 600 個虛擬實地考察。 顧客:這樣就可以了,謝謝! 在 Google 探險先鋒計畫的幫助下,學生可以在自然科學 (A) 可樂要什麼大小的? 課堂中,到太空參訪木星和火星。這樣的學習經驗又酷 (B) 要不要來份今日特餐呢? 又真實,就像跳進手機遊戲一樣。 (29) 然而,並不是每個 (C) 牛排要幾分熟呢? 人都對這種新的學習風格感到興奮。一些學者和研究人 (D) 需要開胃菜嗎? 員擔心此計畫對學生可能造成的負面影響。例如,健康"
+    },
+    {
+      "id": "MOCK_106_4_ENG_020",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Michelle: How is your new job? Michael: Everything is new and totally different from my experience. Michelle: So what are you going to do with that? Michael: I don’t know. I guess I should be more open-minded and try to adapt to the new environment.",
+      "image_url": "",
+      "options": [
+        "I want some coffee, please.",
+        "Let me read the book for you.",
+        "I am sorry for your loss.",
+        "I need more time to get used to it."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Michelle:新的工作如何? 問題也許是 Martin Banks 博士反對兒童虛擬學習經驗的 Michael: 所有東西都是新的,而且 原因。身為 (31) 視力學科教授,他擔心學生的視力可能會 和我之前的經驗都不同。 因此受到影響。此外,有些 Google 探險先鋒計畫所需的 Michelle:所以你該怎麼辦呢? 設備像是耳機,價格相當昂貴,這意味著並不是每個學 Michael:我不知道耶。我想我該更有彈性且試著去 校都能負擔這種全新的科技。 適應新的環境。 ( 註: Expedition 遠 征 隊; 探 險 隊; 考 察 隊 。 Google (A) 請給我一杯咖啡。 Expeditions 是一款虛擬實境教學工具,使用者可以在虛 (B) 我來為你閱讀這本書。 擬實境中展開身歷其境的探索之旅。 ) (C) 對於你的損失我感到很遺憾。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_021",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Mike: I don’t understand why some students choose to cheat on the exam. Jane: I think students should know the consequence they will have. Mike: Jane: You are right. They just don’t get it. Cheaters are losers.",
+      "image_url": "",
+      "options": [
+        "I agree with you, but many students don’t understand they are doing wrong.",
+        "Come on! Everybody cheats. Do you dare to swear that you have never cheated?",
+        "I can’t agree with you more, and students who cheat always have better scores.",
+        "I don’t think so; those students are studying so hard to pass. Don’t push too hard on them."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Mike:我不了解為什麼有些學生會選擇考試作弊。 (C) 一般而言 (D) 信不信由你 Jane:我認為學生應該要知道作弊的後果。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_022",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "What is this passage mainly about?",
+      "image_url": "",
+      "options": [
+        "The effort that the government has made to prevent the damage of tornados is not enough.",
+        "The role of National Weather Service for protecting lives during tornadoes is doubtable.",
+        "Both the government and the people should take precautions against tornadoes.",
+        "Tornadoes can destroy buildings and cause millions of dollars of damage."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "本篇文章主要在討論什麼? 女性低。 (A) 政府為防止龍捲風所做的努力是不夠的。 (C) 女性開車可能會導致他們家族的崩壞。 (B) 國家氣象部門在龍捲風期間保護生命的角色是可 (D) 沙國人民認為在他們文化中女性開車不是件好 疑的。 事。 (C) 政府和人民自己都應該對龍捲風採取預防措施。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_023",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "All of the following statements are true EXCEPT:",
+      "image_url": "",
+      "options": [
+        "Theoretically, tornadoes can strike the United States anywhere anytime.",
+        "Certain areas like Texas are often faced with the threat of tornados in May.",
+        "Maintaining people’s awareness to protect their building is the first priority.",
+        "Warning sirens and broadcast can help people get aware of the danger."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "以下所有敘述皆正確,除了: (A) 快樂 (B) 悲慘 (C) 服從 (D) 古怪 (A) 龍捲風理論上可以隨時隨地襲擊美國。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_024",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "How can people protect themselves if they have no basement or storm shelter near their house, according to the passage?",
+      "image_url": "",
+      "options": [
+        "They can lie down beside the debris.",
+        "They can hide themselves in a bathtub.",
+        "They can cover their head outside the house.",
+        "They can follow the flying objects."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據本文,如果人們在家附近沒有地下室或風雨避難 (A) 頒布 (B) 說服 (C) 精進 (D) 合作 所,他們該如何保護自己? (A) 他們可以躺在碎片旁邊。 第二部分:非選擇題 (B) 他們可以藏在浴缸裡。 I. 填充 (C) 他們可以在房子外蓋住他們的頭。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_025",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Which of the following is closest in the meaning to the word “ severe ” in the first paragraph?",
+      "image_url": "",
+      "options": [
+        "calm",
+        "fair",
+        "humid",
+        "awful"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "下列哪一選項中的字最接近在第一段中「嚴峻」一詞 級分 說明 的含義? 4 2 個空格皆正確無誤。 (A) 冷靜的 (B) 晴朗的 (C) 潮濕的 (D) 可怕的 3 1 個空格正確,另 1 個空格部分正確。"
+    },
+    {
+      "id": "MOCK_106_4_ENG_026",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "Which state is the tornado most likely to strike in May?",
+      "image_url": "",
+      "options": [
+        "Iowa",
+        "California",
+        "New York",
+        "Florida ▲ 閱讀下文後,作答第 37-41 題 Absallah al-Mouallimi, the Saudi ambassador to the UN, cheerfully announced a small step toward gender equality in Saudi Arabia after a decree was issued giving women the right to drive. This change will take effect in June 2018. Before the change, women in the ultra-conservative kingdom who defied the ban in protest would often go to jail. “It is amazing,” said a Saudi university professor, who joined in the first protest against the ban in 1990. She was arrested after her driving around the Saudi capital, Riyadh. She has been waiting for the change for a long time. There were many explanations for the driving ban over the years. Some said that it was simply inappropriate for women to drive or that men didn’t know how to react when they were sitting next to a female driver. Many others believed that allowing women to drive would lead to the collapse of the Saudi family. It was hard to imagine this, yet still others explained that driving would harm women’s ovaries, the parts of female body organs that contain eggs, even though they could not find the evidence. This change is embraced by right groups and Saudi activists. Although Saudi women still need permissions from a male guardian—an official guardian, typically a father, brother, uncle or husband—to travel, get a job, marry or divorce, this is still a welcome move toward modernity."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "五月份哪個州最有可能發生龍捲風? 2 僅 1 個空格正確或 2 個空格皆部分正確。 (A) 愛荷華州 (B) 加州 (C) 紐約 (D) 佛羅里達 Question 37-41 1 1 個空格錯誤,另 1 個空格部分正確。 沙烏地阿拉伯大使 Absallah al-Mouallimi 高興地向聯 (1) 空白 ( 未書寫文字 ) 。 合國公布一項新的法令─沙國的女生可以開車了,這是 0 (2) 文字零碎、形同未答。 邁向性別平等的一小步。這項新法令將在 2018 年六月開 (3) 只抄題目或其他試題。 始執行。在這改變之前,女性在沙國這樣極度保守的國 (4) 內容完全錯誤。 家若是反抗這樣的開車禁令將面臨牢獄之災。 「太不可思議了。」一名沙國的大學教授這麼說。 II. 句子重組 這名女教授早 1990 年就參與了第一次的抗議。她在開車"
+    },
+    {
+      "id": "MOCK_106_4_ENG_027",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "What is the best title for the article?",
+      "image_url": "",
+      "options": [
+        "Same-sex Marriage in Saudi Arabia",
+        "The Fight for Universal Human Rights in Europe",
+        "The Call for a Change for Saudi Women in the UN",
+        "Time for Women to Take the Wheel in Saudi Arabia"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：106-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_106_4_ENG_028",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "According to the article, what is NOT the explanation for Saudi Arabia authorities to ban women’s driving in the past?",
+      "image_url": "",
+      "options": [
+        "Women may damage their health if they drive.",
+        "Males would feel inferior to females if they allowed women to sit next to them.",
+        "Women’s driving may lead to the collapse of their family.",
+        "People in Saudi Arabia culture just think it’s not a good idea for women to drive."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：106-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_106_4_ENG_029",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "How would the female Saudi university professor mentioned in the second paragraph feel after she learned the change?",
+      "image_url": "",
+      "options": [
+        "delighted",
+        "miserable",
+        "obedient",
+        "peculiar"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：106-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_106_4_ENG_030",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "In what kind of situation does a Saudi woman need permissions from a male guardian according to the article?",
+      "image_url": "",
+      "options": [
+        "clean the house",
+        "do the shopping",
+        "end a marriage",
+        "interact with children"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：106-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_106_4_ENG_031",
+      "subject": "英文",
+      "unit": "106-4-四技二專-00共同科目 英文",
+      "q": "What is the closest meaning to the word “ issued ” in the first paragraph?",
+      "image_url": "",
+      "options": [
+        "launched",
+        "persuaded",
+        "advanced",
+        "cooperated"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：106-4-四技二專-00共同科目 英文解析.pdf"
+    }
+  ]
+}

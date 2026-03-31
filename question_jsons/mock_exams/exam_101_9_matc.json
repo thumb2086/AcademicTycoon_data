@@ -1,0 +1,405 @@
+{
+  "bundle_id": "MOCK_101_9_MATC",
+  "questions": [
+    {
+      "id": "MOCK_101_9_MATC_001",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "設拋物線 x − 4 x + y = 10 之頂點為 A 且與直線 y = − 2 相交於 B 、 C 兩點,則 Δ ABC 的面積為何?",
+      "image_url": "",
+      "options": [
+        "16",
+        "56",
+        "64",
+        "80 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_002",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "設 a 、 b 、 c 為實數,且二次函數 y = ax + bx + c 的圖形如圖 ( 一 ) 所示, 2 則點 ( a − b + c, b − 4 ac ) 在第幾象限?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_matc/p001_386_569_870_1080.png",
+      "options": [
+        "第一象限",
+        "第二象限",
+        "第三象限",
+        "第四象限 圖 ( 一 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_003",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "設平面上一三角形之三邊中點分別為 P ( 15, − 5 ) 、 Q ( − 13, 19 ) 、 R ( − 3, − 1 ),則下列哪一點 不是 此三角形的頂點?",
+      "image_url": "",
+      "options": [
+        "( − 31, 23 )",
+        "( 9, 25 )",
+        "( 5, 15 )",
+        "( 25, − 25 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_004",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "平面上三點 A ( 4, 6 ) 、 B ( 0, 9 ) 、 C ( − 1, − 6 ),若 Δ ABC 之重心坐標為 G,則 AG =? 3 10",
+      "image_url": "",
+      "options": [
+        "3 2",
+        "10",
+        "",
+        "2 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_005",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "已知平面上二點 A ( − 1, 4 ) 及 B ( 3, − 4 ),若直線 L 上任意一點到 A 與 B 之距離皆相等,則直線 L 之方程式為何?",
+      "image_url": "",
+      "options": [
+        "2 x + y = 3",
+        "x + 2 y = 1",
+        "x − 2 y = 1",
+        "2 x − y = 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_006",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "已知 P ( a, b ) 與 Q ( 6, 9 ) 為坐標平面上兩點,且點 R ( − 2, 5 ) 在 PQ 上,又 2 PR = 3 QR,則 a + b =?",
+      "image_url": "",
+      "options": [
+        "10",
+        "− 10",
+        "15",
+        "− 15"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_007",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "設平面上一平行四邊形 OABC 中, O 為原點且 AB 所在的直線方程式為 x + 2 y = 3,而 BC 所在 的直線方程式為 x − y = 3,則 A 點坐標為何?",
+      "image_url": "",
+      "options": [
+        "( 1, 1 )",
+        "( − 1, 2 )",
+        "( 2, − 1 )",
+        "( − 1, − 1 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_008",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "設半徑為 2 的圓上有一弦 AB,若 AB = 2 3,則 AB 與劣弧 所圍之弓形區域面積為何? 2 π π 4 π 2 π",
+      "image_url": "",
+      "options": [
+        "− 2 3",
+        "− 3",
+        "− 3",
+        "− 3 3 3 3 3 16 π"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_009",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "若角 θ =,則 θ 之最小正同界角與最大負同界角之和為何? 7 4 π 10 π 4 π 10 π",
+      "image_url": "",
+      "options": [
+        "−",
+        "−",
+        "",
+        "7 7 7 7"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_010",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "設直線 L 1 之斜角為,又直線 L 2 通過原點且垂直於 L 1,則下列哪一點在 L 2 上? 6",
+      "image_url": "",
+      "options": [
+        "( 3, − 3 )",
+        "( 3, 3 )",
+        "( − 1, 3 )",
+        "( 3, 1 ) 3 4"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_011",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "如圖 ( 二 ) 所示,已知 Δ ABC 中, AC = 20, CD 垂直 AB 於 D 點,又 tan A =, tan B =,則 BC 4 3 長為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_matc/p002_303_526_745_1059.png",
+      "options": [
+        "9",
+        "12",
+        "15 圖 ( 二 )",
+        "16 3 π 5 π 3 π 7 π"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_012",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "sin + cos + cot + csc =? 2 3 4 6 3 5 7 9",
+      "image_url": "",
+      "options": [
+        "−",
+        "−",
+        "−",
+        "− 2 2 2 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_013",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "已知 tan 25 ° = k,則 cos 230 ° =? 2 − k 2 k 1 k − 1",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "2 2 2 2 k + 1 k + 1 k + 1 k + 1 2 2 2 2 2 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_014",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "sin 15 ° + sin 75 ° − sec 15 ° + sec 75 ° + tan 15 ° − tan 75 ° =?",
+      "image_url": "",
+      "options": [
+        "1",
+        "− 1",
+        "3",
+        "− 3 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_015",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "已知 cos θ − sin θ =,則 tan θ + cot θ 之值為何? 2",
+      "image_url": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_016",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "設 a = cos 1 、 b = cos 2 、 c = cos 3 、 d = cos 4,則下列何者正確?",
+      "image_url": "",
+      "options": [
+        "d > c > b > a",
+        "a > d > c > b",
+        "d > a > b > c",
+        "a > b > d > c"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_017",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "設平面上三點 A (sin θ + 1, sin θ ) 、 B (sin θ, cos θ ) 及 C ( − cos θ, cos θ − 1 ),若 0 ° ≤ θ < 180 ° 且 A 、 B 、 C 三點共線,則 θ =?",
+      "image_url": "",
+      "options": [
+        "0°",
+        "60°",
+        "90°",
+        "120° T"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_018",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "設函數 f ( x ) = sin x + cos x 之週期為 T,最大值為 M,則 2 =? M π π",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "π",
+        "2 π 4 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_019",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "已知 α + β =,則 =? 3 tan α + tan β 1 1",
+      "image_url": "",
+      "options": [
+        "",
+        "−",
+        "3",
+        "− 3 3 3 5 4"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_020",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "若 α 、 β 皆為第一象限角,且 tan α = 、 tan β =,則 cos( α + β ) =? 12 3 16 33 56 63",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "65 65 65 65"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_021",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "設四邊形 ABCD 內接於一半徑為 2 的圓中,若 ∠ A = 75 ° 且 BC = 2,則 CD =? 2",
+      "image_url": "",
+      "options": [
+        "2",
+        "2 2",
+        "2",
+        "2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_022",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "已知 Δ ABC 中, sin A: sin B: sin C = 2: 5: 4,則 cos B =? 5 37 13 13",
+      "image_url": "",
+      "options": [
+        "−",
+        "",
+        "",
+        "− 16 40 20 40 3 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_023",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "Δ ABC 中, AB = 2 、 BC = 3 且 Δ ABC 之面積為,若 ∠ B 為鈍角,則 ∠ B =? 2",
+      "image_url": "",
+      "options": [
+        "120°",
+        "135°",
+        "105°",
+        "150°"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_024",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "已知 Δ ABC 中, ∠ C = 90 °, D 在 AC 線段上,且 AD = 20, ∠ BAC = 30 °, ∠ BDC = 45 °,如圖 ( 三 ) 所示,則 BC =?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_matc/p003_873_1127_746_1079.png",
+      "options": [
+        "10 ( 3 − 1 )",
+        "10 ( 3 + 1 ) 圖 ( 三 )",
+        "20 ( 3 − 1 )",
+        "20 ( 3 + 1 ) 3"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    },
+    {
+      "id": "MOCK_101_9_MATC_025",
+      "subject": "數學(C)",
+      "unit": "14. 101-9月-四技二專複習考-數學(C)卷",
+      "q": "已知地球到太陽之距離為一天文單位,簡稱 1",
+      "image_url": "",
+      "options": [
+        "U.,某日地球與火星之距離 (A)U.,且由太 2 π 陽到地球的連線與火星到地球的連線所成之夾角為,則此時火星距離太陽多少 (A)U.? 4 3 3 5 5 (A)",
+        "",
+        "",
+        "2 2 2 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)"
+    }
+  ]
+}

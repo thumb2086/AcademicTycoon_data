@@ -1,0 +1,69 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH13",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_001",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "14 m L = 314 mm )G = 1000 MPa G = 80 GPa N-m",
+      "image_url": "",
+      "options": [
+        "4 兀",
+        "40 兀",
+        "400 兀",
+        "4000 丌 3 cm MPa AB 54 N-m (A) 2(B) 4(C) 8(D) 32 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_002",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "BC 80 GPa MPa 2 cm",
+      "image_url": "",
+      "options": [
+        "100 N - m 1 cm AB (A) 20",
+        "40",
+        "80",
+        "160 20 N 一 m B 80cm rad (A)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "238 8 cm G = 80 GPa MP a 2 cm 1.6 m 20 mm 80 MPa N-m 70 GPa N-m 2 cm 40 cm 200 兀 N-m 2 cm 鋁 3 · 14 m 10 mm MPa 2 cm 0 · 045 100 GPa 200 N - m 500 100 MPa 736 1 ㄗ m 140cm 100cm 60 兀 kW 2 500 兀 rpm 10 兀 80 兀 N-m G 80 GPa 314N - m 80 GPa 4 cm 600 MPa"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_003",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "14 冗 2 cm 1 cm 64 MPa 50 40 學後評量 G = 100 GPa 1 kW 30 20 160 MPa",
+      "image_url": "",
+      "options": [
+        "300",
+        "600",
+        "1200",
+        "1800 10 ) (A) 60 (B) 75 (C) 90 (D) 120"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_004",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "2 兀 kW rpm (D)",
+      "image_url": "",
+      "options": [
+        "(A) 64",
+        "16",
+        "",
+        "(A) (A) 64 (B) 16(C) 4(D) 1 (B) 2000 1 ㄗ m 225 MPa (A) 20 mm(B) 30 mm(C) 40 mm(D) 50 mm 20 兀 kW 8 cm 50MPa 4 cm 4 cm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

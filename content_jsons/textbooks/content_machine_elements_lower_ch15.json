@@ -1,0 +1,2939 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_LOWER_CH15",
+  "subject": "技術型高中機械群機件原理下冊",
+  "chapter": {
+    "code": "CH15",
+    "title": "15_起重滑車"
+  },
+  "title": "技術型高中機械群機件原理下冊 15 CHAPTER 起重滑車",
+  "source_pdf": "技術型高中機械群機件原理下冊_PPT/15_起重滑車.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "15"
+        },
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "paragraph",
+          "text": "本簡報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 內容來源; 108 華興機件原理 - 下冊 / 連結影片及部分圖片取自網路"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "15-1 滑 車 的 原 理"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "15-1 滑車的原理 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "15-2 起 重 滑 車 數"
+        },
+        {
+          "type": "heading",
+          "text": "15-2 起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "15-1 滑車的原理"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般工程及工廠使用起重滑車的機會很多,例如建材、原物料"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "之搬運、機械床台加工前後之搬運,滑車( pulley block )是 由輪緣刻有凹槽之滑輪、輪軸、支架及繩或鏈所組成,將繩或 鏈繞在滑輪之凹槽,一端懸以重物 W,另一端施力 F,即可升 降重物。 滑車常用於吊起及搬運重物,其可得到省力、省時或改變作用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "力方向等效果,是因為滑車為「槓桿原理」的應用。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "180"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑車的原理"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 繩索滑車"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 鋼索滑車"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 鏈條滑車"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-1 滑車"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "一、槓桿原理 ( principle of lever ) 車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "一桿件受力後,能繞一定點而轉動者,稱為槓桿 ( lever ),其 理 定點稱為支點,而受力可分為施力 ( F ) 與抗力 ( W ),其桿件 上受施力之著力點稱為施力點,施力點至支點之距離稱為施力 臂 ( R ),而施力與施力臂之積乘即為施力矩;桿件上承受負載"
+        },
+        {
+          "type": "heading",
+          "text": "F"
+        },
+        {
+          "type": "paragraph",
+          "text": "之著力點稱為抗力點,抗力點至支點之距離稱為抗力臂 ( R ),"
+        },
+        {
+          "type": "heading",
+          "text": "W"
+        },
+        {
+          "type": "paragraph",
+          "text": "而抗力與抗力臂之積乘即為抗力矩。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "180"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-2 槓桿原理"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "paragraph",
+          "text": "槓桿於平衡狀態時,其施力與抗力對支點所作之力矩必為相等, 車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "此關係則稱為「槓桿原理」,即 原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "181"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "二、槓桿的種類 車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "槓桿依支點、施力點及抗力點之位置不同,可分為下列三種型 理 式。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 第一種槓桿"
+        },
+        {
+          "type": "paragraph",
+          "text": "在槓桿中,支點位於施力點與抗力點之間者,此種槓桿的機械 利益可為任意值,常見之應用有剪刀、天平、指甲剪及定滑輪 等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "181"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 第二種槓桿 車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "在槓桿中,抗力點位於施力點與支點之間者,此種槓桿的機械"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "利益恆大於 1,具省力費時之特性,常見之應用有開瓶器、訂書 機、破果鉗及物重在軸心之動滑輪等。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 第三種槓桿"
+        },
+        {
+          "type": "paragraph",
+          "text": "在槓桿中,施力點位於抗力點與支點之間者,此種槓桿的機械 利益恆小於 1,具省時費力之特性,常見之應用有筷子、鑷子、"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "釣竿及施力在軸心之動滑輪等。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "181"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑車的原理"
+        },
+        {
+          "type": "heading",
+          "text": "施力點"
+        },
+        {
+          "type": "heading",
+          "text": "施力點"
+        },
+        {
+          "type": "heading",
+          "text": "抗力點"
+        },
+        {
+          "type": "heading",
+          "text": "支點"
+        },
+        {
+          "type": "heading",
+          "text": "施力點"
+        },
+        {
+          "type": "heading",
+          "text": "支點"
+        },
+        {
+          "type": "heading",
+          "text": "抗力點"
+        },
+        {
+          "type": "heading",
+          "text": "支點抗力點"
+        },
+        {
+          "type": "heading",
+          "text": "抗力 (w)"
+        },
+        {
+          "type": "heading",
+          "text": "施力 (F)"
+        },
+        {
+          "type": "heading",
+          "text": "抗力 (W) 施力 (F)"
+        },
+        {
+          "type": "heading",
+          "text": "施力 (F) 抗力 (w)"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "支點"
+        },
+        {
+          "type": "heading",
+          "text": "支點"
+        },
+        {
+          "type": "heading",
+          "text": "支點"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 第一種槓桿"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 第二種槓桿"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 第三種槓桿"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-3 槓桿的種類"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "三、滑車的種類 車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑車係槓桿的延伸應用,其種類依輪軸的位置是否移動,可分 理 為定滑車與動滑車。 ( 一 ) 定滑車 ( fixed pulley block )"
+        },
+        {
+          "type": "heading",
+          "text": "滑輪軸心固定不動者,可視為"
+        },
+        {
+          "type": "paragraph",
+          "text": "第一種槓桿的應用。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "182"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-4 定滑車"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "定滑車係既不省力亦不省時,僅可改變施力方向之裝置。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "182"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 動滑車 ( movable pulley block ) 車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑輪軸心不固定可移動者。"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "183"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-5 動滑車"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "1. 省力費時之動滑車 車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "抗力之重物 W 於軸心者,可視為第二種槓桿的應用。"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "W = 2F,即作用力為物重之半;而 V = 2V,即作用力的線速"
+        },
+        {
+          "type": "heading",
+          "text": "F W"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "度為物重移動速度之兩倍,故此種動滑車係省力但費時的裝置。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "183"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "2. 費力省時之動滑車 車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "原"
+        },
+        {
+          "type": "paragraph",
+          "text": "施力在中間者,可視為第三種槓桿的應用。"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "paragraph",
+          "text": "2W = F,即作用力為物重之兩倍;而 2V = V,即作用力的線"
+        },
+        {
+          "type": "heading",
+          "text": "F W"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "速度為物重移動速度之半,故此種動滑車係省時但費力的裝置。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "183"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "15-2 起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑車很少單獨使用,定滑車可改變施力方向但不能省力,動滑 車可省力或省時但不能改變施力方向,若將兩者組合使用,即 可改變方向又可得到所需的機械利益,以兼得兩者之功效,此 種組合稱為「複合滑車」,其機械利益由承受負載之繩索數量 及組合型式而定,且一般而言,起重滑車以向下施力為多,故 下列說明之常用組合方式皆為施力向下者。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "串聯"
+        },
+        {
+          "type": "heading",
+          "text": "並聯"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 依輪槽數量分類"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 依連接方式分類"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-6 滑車組合類型"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "一、一定滑車與一動滑車所組成的滑車組 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 兩滑車皆為單槽滑車時"
+        },
+        {
+          "type": "heading",
+          "text": "W 2F"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械利益為 Ma = = = 2。"
+        },
+        {
+          "type": "heading",
+          "text": "F F"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-7 兩單槽滑車組"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 一單槽滑車與一雙槽滑車時 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "由於同一條繩索上任意斷面的張"
+        },
+        {
+          "type": "heading",
+          "text": "力完全一致(不考慮摩擦阻力),"
+        },
+        {
+          "type": "heading",
+          "text": "因此由圖 15-8(b) 可得知 W = 3F,"
+        },
+        {
+          "type": "heading",
+          "text": "則此滑車組之機械利益為"
+        },
+        {
+          "type": "heading",
+          "text": "W 3F"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma = = = 3。"
+        },
+        {
+          "type": "heading",
+          "text": "F F"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "185"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-8 一單槽滑車與一雙槽滑車組"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 兩滑車皆為雙槽滑車時 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "由圖 15-9(c) 可得知 W = 4F,"
+        },
+        {
+          "type": "heading",
+          "text": "則此滑車組之機械利益為"
+        },
+        {
+          "type": "heading",
+          "text": "W 4F"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma = = = 4。"
+        },
+        {
+          "type": "heading",
+          "text": "F F"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "186"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-9 兩雙槽滑車組"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "例題 15-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 15-8 所示之滑車組, 欲吊起 3000 牛頓 (N) 之重物, 若不計摩擦損失, 試求需"
+        },
+        {
+          "type": "heading",
+          "text": "施力若干牛頓 (N)?"
+        },
+        {
+          "type": "heading",
+          "text": "W 3F"
+        },
+        {
+          "type": "paragraph",
+          "text": "解由圖 15-8 (B) 可知, 其機械利益 Ma ="
+        },
+        {
+          "type": "heading",
+          "text": "F 一 F"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "3000"
+        },
+        {
+          "type": "heading",
+          "text": "則 Ma="
+        },
+        {
+          "type": "heading",
+          "text": "= 3, 得 F = 1000 牛頓 ( N )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "二、西班牙滑車 ( Spanish burton ) 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "paragraph",
+          "text": "由一單槽定滑車 A 及一單槽動滑車 B,且使用兩條繩索組成, 由於不同繩索的張力完全不同,由圖 15-10(b) 可知,二繩索之 張力分別為 F 及 F,而 F = 2F,則 W = F + F = 2F + F = 3F,故"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1"
+        },
+        {
+          "type": "heading",
+          "text": "W 3F"
+        },
+        {
+          "type": "paragraph",
+          "text": "可得西班牙滑車之機械利益為 Ma = = = 3。"
+        },
+        {
+          "type": "heading",
+          "text": "F F"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "187"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "單槽"
+        },
+        {
+          "type": "heading",
+          "text": "定滑車 A"
+        },
+        {
+          "type": "heading",
+          "text": "定滑車 A"
+        },
+        {
+          "type": "heading",
+          "text": "單槽"
+        },
+        {
+          "type": "heading",
+          "text": "動滑車 B"
+        },
+        {
+          "type": "heading",
+          "text": "單槽"
+        },
+        {
+          "type": "heading",
+          "text": "動滑車 B"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 分析圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15 一 IO 西班牙滑車"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "例題 15-2"
+        },
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 15-11 (A) 所示為多組西班牙滑車合併使用時, 若不計摩擦損失時, 試求 ( 1 ) 機械 利益為? ( 2 ) 若作用力 F 為 200 牛頓 (N), 可吊起之重物為若干牛頓 (N)?"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 分析圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-11"
+        },
+        {
+          "type": "heading",
+          "text": "多組西班牙滑車之組合"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "paragraph",
+          "text": "I 解 ( 1 ) 由圖 15-11 (B) 可知, 三條繩索之張力分別為 F、 FI 及 F2"
+        },
+        {
+          "type": "heading",
+          "text": ", 而 FI = 2F, F2 ="
+        },
+        {
+          "type": "paragraph",
+          "text": "2F1 = 2 × 2F = 4F, 則 W=F2+F1+F=4F+2F+F=7F"
+        },
+        {
+          "type": "heading",
+          "text": ", 故可得"
+        },
+        {
+          "type": "heading",
+          "text": "W 7F"
+        },
+        {
+          "type": "heading",
+          "text": "機械利益 Ma ="
+        },
+        {
+          "type": "heading",
+          "text": "F 一 F"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 已知 F = 200 牛頓 (N) 'Ma=7' 可得"
+        },
+        {
+          "type": "heading",
+          "text": "W W"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "= 7, 則 W = 1400 牛頓 (N)"
+        },
+        {
+          "type": "heading",
+          "text": "Ma ="
+        },
+        {
+          "type": "heading",
+          "text": "F 一 200"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "三、帆滑車 ( luff pulley block ) 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱雙組滑車,係由兩組滑車組,且使用兩條繩索所組成,因 兩組滑車組的組合方式不同,會獲得不同的機械利益,故欲求 得帆滑車的機械利益,需先分別求出各滑車組之機械利益,然 後相乘即得,常見的組合方式及其機械利益說明如下。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "188"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 以兩組「單槽定滑車及單槽動滑車」所組成之帆滑車 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "由圖 15-12(b) 可知,機械利益為"
+        },
+        {
+          "type": "heading",
+          "text": "W 2F 1 2×3F 6F"
+        },
+        {
+          "type": "heading",
+          "text": "Ma = = = = = 6"
+        },
+        {
+          "type": "heading",
+          "text": "F F F F"
+        },
+        {
+          "type": "heading",
+          "text": "由圖 15-13(b) 可知,機械利益為"
+        },
+        {
+          "type": "heading",
+          "text": "W 3F 1 3×2F 6F"
+        },
+        {
+          "type": "heading",
+          "text": "Ma = = = = = 6"
+        },
+        {
+          "type": "heading",
+          "text": "F F F F"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "189"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "189"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 15-12 兩組「單槽定滑車及單槽動滑車」組成之帆滑車 (A)"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "190"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 15-13 兩組「單槽定滑車及單槽動滑車」組成之帆滑車 (B)"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 由一組「單槽定滑車 A 與雙槽動滑車 B 」 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "paragraph",
+          "text": "及一組「雙槽定滑車 C 與單槽動滑車 D 」所組成之帆滑車 車"
+        },
+        {
+          "type": "heading",
+          "text": "由圖 15-14(b) 可知,機械利益為"
+        },
+        {
+          "type": "heading",
+          "text": "W 4F 1 4×3F 12F"
+        },
+        {
+          "type": "heading",
+          "text": "Ma = = = = = 12"
+        },
+        {
+          "type": "heading",
+          "text": "F F F F"
+        },
+        {
+          "type": "heading",
+          "text": "由圖 15-15(b) 可知,機械利益為"
+        },
+        {
+          "type": "heading",
+          "text": "W 3F 1 3×4F 12F"
+        },
+        {
+          "type": "heading",
+          "text": "Ma = = = = = 12"
+        },
+        {
+          "type": "heading",
+          "text": "F F F F 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "190"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "191"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 15-14 分別由兩個單槽及雙槽之滑車所組成的帆滑車 (A)"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "191"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 15-15 分別由兩個單槽及雙槽之滑車所組成的帆滑車 (B)"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "四、惠斯頓差動滑車 ( Weston differential pulley block ) 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "paragraph",
+          "text": "是一種鏈式起重機,上端定滑車部分由兩個不同直徑的鏈輪 A、 B 並聯固定在一起,其中 A 輪直徑 D 比 B 輪直徑 D 稍大,下端"
+        },
+        {
+          "type": "heading",
+          "text": "A B"
+        },
+        {
+          "type": "paragraph",
+          "text": "動滑車部分為鏈輪 C,其直徑 D 是 A 輪與 B 輪的平均值,即"
+        },
+        {
+          "type": "heading",
+          "text": "C"
+        },
+        {
+          "type": "heading",
+          "text": "D A +D A"
+        },
+        {
+          "type": "paragraph",
+          "text": "D =,而鏈條採用閉合式鏈圈。"
+        },
+        {
+          "type": "heading",
+          "text": "C"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "192"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "口, 口"
+        },
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "鏈輪 A"
+        },
+        {
+          "type": "heading",
+          "text": "鏈輪 B"
+        },
+        {
+          "type": "heading",
+          "text": "7TDA"
+        },
+        {
+          "type": "heading",
+          "text": "—P ̄R"
+        },
+        {
+          "type": "heading",
+          "text": "Z(DA-DB)"
+        },
+        {
+          "type": "heading",
+          "text": "FDB"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "7tDB"
+        },
+        {
+          "type": "heading",
+          "text": "鏈輪 C"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 重物 w 上升距離之分析圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-16 惠斯頓差動滑車"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "paragraph",
+          "text": "惠斯頓差動滑車的機械利益與上端定滑車部分之兩鏈輪直徑差 成反比,即 D – D 值愈小, Ma 愈大,而機械利益與下端動滑"
+        },
+        {
+          "type": "heading",
+          "text": "A B"
+        },
+        {
+          "type": "paragraph",
+          "text": "車之鏈輪直徑無關。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "193"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "例題 15-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一惠斯頓差動滑車, 其定滑車之大輪直徑為 50cm, 小輪直徑為 45cm, 若不計摩 擦損失, 試求 ( 1 ) 機械利益為? ( 2 ) 欲吊起 3600 牛頓 (N) 之重物, 需施力若干牛頓 已知 DA=50cm, Ih=45cm, W = 3600 牛頓 (N)"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 15 一 5 ) 可得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "2DA"
+        },
+        {
+          "type": "heading",
+          "text": "2 × 50"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "Ma ="
+        },
+        {
+          "type": "heading",
+          "text": "= 20"
+        },
+        {
+          "type": "heading",
+          "text": "DA—DB 一 50 一 45 一"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "W"
+        },
+        {
+          "type": "heading",
+          "text": "3600"
+        },
+        {
+          "type": "heading",
+          "text": "= 20, 則 F = 180 牛頓 ( N )"
+        },
+        {
+          "type": "heading",
+          "text": "(2)Ma ̄"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "3 5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "五、中國式滑車 ( Chinese windlass ) 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "paragraph",
+          "text": "係有一手柄與固定轉軸距離為 R,其固定轉軸上裝置兩個不同 直徑 D、 D 且製成一體的鼓輪 ( drum ),將繩索一端固定於"
+        },
+        {
+          "type": "heading",
+          "text": "A B"
+        },
+        {
+          "type": "paragraph",
+          "text": "鼓輪其中一直徑端,順著某旋向繞至適當之圈數後,將繩索穿 過下方的動滑車 C,再向上在鼓輪另一直徑端上作反方向旋繞 適當圈數後固定,當轉動手柄時,即可吊起或降下動滑車 C 上 之重物 W。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "193"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "“ | ii 翮 -"
+        },
+        {
+          "type": "heading",
+          "text": "7tDBl"
+        },
+        {
+          "type": "heading",
+          "text": "7tDA"
+        },
+        {
+          "type": "heading",
+          "text": "動滑車 C"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( m- DB)"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 應用例素描圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-17 中國式滑車"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "中國式滑車之機械利益為 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "paragraph",
+          "text": "中國式滑車的機械利益與鼓輪上之兩直徑差成反比,即 D – D"
+        },
+        {
+          "type": "heading",
+          "text": "A B"
+        },
+        {
+          "type": "paragraph",
+          "text": "值愈小, Ma 愈大;且與手柄臂 R 成正比,即 R 愈大, Ma 愈大。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "194"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "例題 15-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一中國式滑車, 其鼓輪之大輪直徑為 64cm, 小輪直徑為 56cm, 手柄與轉軸距離為 20cm, 若不計摩擦損失, 試求: ( 1 ) 機械利益為? ( 2 ) 若手柄承受 900 牛頓 (N ) 作用,"
+        },
+        {
+          "type": "heading",
+          "text": "可吊起之重物為若干牛頓 (N)?"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 DA = 64cm, DB = 56cm, R = 20cm, F = 900 牛頓 (N)"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 15-6 ) 可得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "4R"
+        },
+        {
+          "type": "heading",
+          "text": "4 × 20"
+        },
+        {
+          "type": "heading",
+          "text": "80"
+        },
+        {
+          "type": "heading",
+          "text": "Ma ="
+        },
+        {
+          "type": "heading",
+          "text": "= 10"
+        },
+        {
+          "type": "heading",
+          "text": "DA—DB ̄ 64 一 56 一 8"
+        },
+        {
+          "type": "heading",
+          "text": "W W"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 10, 則 W = 9000 牛頓 ( N )"
+        },
+        {
+          "type": "heading",
+          "text": "(2)Ma="
+        },
+        {
+          "type": "heading",
+          "text": "F 一 900"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "六、齒輪系起重滑車 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "paragraph",
+          "text": "係由齒輪系與滑車組結合而成之起重機構,其總機械利益由齒 輪系之輪系值與滑車之機械利益之乘積而定,常見之種類如下。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "195"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 複式齒輪系起重滑車 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-18 複式齒輪系起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "195"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 蝸桿與蝸輪起重滑車 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-19 蝸桿與蝸輪起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "196"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "例題 15-5"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 15-20 所示之齒輪系起動滑車, 其齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "21t"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪 A"
+        },
+        {
+          "type": "paragraph",
+          "text": "A、 B、 C 及 D 之齒數標示於圖中, 已知其手 柄半徑為 40cm, 起重圓筒直徑為 40cm, 若"
+        },
+        {
+          "type": "heading",
+          "text": "25t"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪 C"
+        },
+        {
+          "type": "paragraph",
+          "text": "不計摩擦損失, 試求 ( 1 ) 機械利益為? ( 2 ) 若"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪 B"
+        },
+        {
+          "type": "paragraph",
+          "text": "手柄承受 150 牛頓 (N) 作用, 能吊起之重"
+        },
+        {
+          "type": "heading",
+          "text": "100t"
+        },
+        {
+          "type": "heading",
+          "text": "物為若干牛頓 (N)?"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪 D"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "84t"
+        },
+        {
+          "type": "heading",
+          "text": "圖 15-20 齒輪系起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 TA = 21, TB = 100, Tc = 25, TD = 84, R = 40cm, D = 40cm,"
+        },
+        {
+          "type": "heading",
+          "text": "F = 150 牛頓 (N)"
+        },
+        {
+          "type": "heading",
+          "text": "TA><Tc"
+        },
+        {
+          "type": "heading",
+          "text": "21 × 25"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 15 一 7 )"
+        },
+        {
+          "type": "heading",
+          "text": ", 可得"
+        },
+        {
+          "type": "heading",
+          "text": "TB × TD"
+        },
+        {
+          "type": "heading",
+          "text": "100 × 84"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "2R"
+        },
+        {
+          "type": "heading",
+          "text": "2 × 40"
+        },
+        {
+          "type": "heading",
+          "text": "Ma ="
+        },
+        {
+          "type": "heading",
+          "text": "= 32"
+        },
+        {
+          "type": "heading",
+          "text": "D × e"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "40 ×"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "W W"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 32, 則 W = 4800 牛頓 ( N )"
+        },
+        {
+          "type": "heading",
+          "text": "(2)Ma="
+        },
+        {
+          "type": "heading",
+          "text": "F 一 150"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起"
+        },
+        {
+          "type": "heading",
+          "text": "七、電動吊車 ( electric chain block ) 重"
+        },
+        {
+          "type": "heading",
+          "text": "滑"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般大型機械廠、電機廠、鋼鐵廠、造船廠、鑄造廠、汽車廠 及修護廠等,為了獲得適用之吊重及安全性,其起重設備大都 使用「電動吊車」,或稱「天車」。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "197"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "起重滑車"
+        },
+        {
+          "type": "heading",
+          "text": ") 鋼索式"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 架空雙軌移動吊車"
+        },
+        {
+          "type": "heading",
+          "text": "軌道型"
+        },
+        {
+          "type": "heading",
+          "text": "掛鉤型"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 鏈條式"
+        },
+        {
+          "type": "heading",
+          "text": "(D) 橋 ( 門 ) 型電動吊車"
+        },
+        {
+          "type": "heading",
+          "text": "電動吊車"
+        },
+        {
+          "type": "heading",
+          "text": "圖 1 5-21"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch15/p047.jpg"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "bundle_id": "MOCK_108_1_ENG",
+  "questions": [
+    {
+      "id": "MOCK_108_1_ENG_001",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "The Louvre Pyramid is one of the finest public buildings by the world-famous architect, I.M. Pei.",
+      "image_url": "",
+      "options": [
+        "accused",
+        "imported",
+        "combined",
+        "designed"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "long; succeed (4) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_002",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Line stickers are widely used partly because they enable people to feelings without words.",
+      "image_url": "",
+      "options": [
+        "attract",
+        "assign",
+        "express",
+        "employ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Line 貼圖被廣泛使用的部分原因是它們讓大家能夠 Antony:我會的。我等不及要開動了! 不藉由文字就可以表達情緒。 (A) 你最近在忙什麼? (B) 我會彈鋼琴。 (A) 吸引 (B) 指派 (C) 表達 (D) 雇用 (C) 今天晚上有空嗎? (D) 請自己取用食物。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_003",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Erhu, also called the “Chinese violin,” is an important Chinese musical with a history of more than 4,000 years.",
+      "image_url": "",
+      "options": [
+        "instrument",
+        "organization",
+        "colleague",
+        "accident"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "二胡又稱 「中國小提琴」,是重要的中國樂器,有 4000"
+    },
+    {
+      "id": "MOCK_108_1_ENG_004",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "The growing demand for foods results from consumer awareness toward personal health and the environment.",
+      "image_url": "",
+      "options": [
+        "social",
+        "humorous",
+        "mysterious",
+        "organic"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "有機食品的成長需求來自於消費者對個人健康及環 病人:嗯,希望只是一般感冒。 境的覺察。 (A) 現在覺得如何? (A) 社會的 (B) 幽默的 (C) 神秘的 (D) 有機的 (B) 可以請你自我介紹嗎?"
+    },
+    {
+      "id": "MOCK_108_1_ENG_005",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "To prevent Dengue Fever and control the mosquito population, make sure to dump standing water out of like buckets, flower pots, and pet dishes.",
+      "image_url": "",
+      "options": [
+        "containers",
+        "ingredients",
+        "legends",
+        "beverages"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "為了防治登革熱並控制蚊子數量,務必要把在水桶、 (C) 你多久感冒一次? 花盆、寵物食器等容器中的死水倒掉。 (D) 你有對什麼藥物過敏嗎? (A) 容器 (B) 原料 (C) 傳說 (D) 飲料"
+    },
+    {
+      "id": "MOCK_108_1_ENG_006",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Doctors suggest that people with heart problems have a healthy diet, reduce stress, and keep doctor’s appointments.",
+      "image_url": "",
+      "options": [
+        "ignore",
+        "advise",
+        "depress",
+        "resist"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "醫生建議有心臟疾病的人要吃健康飲食、減低壓力、 Louie:你知道嗎?我們反敗為勝,進了冠軍決賽! 持續回診。 Alice:太棒了! (A) 忽視 (B) 建議 (C) 使沮喪 (D) 抗拒 Louie:謝謝!我們也這麼希望。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_007",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "As an English theoretical physicist, Stephen Hawking’s contributions to physics have earned him many remarkable honors.",
+      "image_url": "",
+      "options": [
+        "rejected",
+        "won",
+        "trained",
+        "fixed"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "英國理論物理學家史蒂芬霍金對物理學的貢獻已為 (A) 什麼時候要再比賽? 他贏得了許多卓越的榮譽。 (B) 你有什麼想法? (A) 拒絕 (B) 贏得 (C) 訓練 (D) 修理 (C) 我祝你們決賽好運!"
+    },
+    {
+      "id": "MOCK_108_1_ENG_008",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "In Taiwan, the phone number 110 is for emergency only, and the police will make immediate response to the call.",
+      "image_url": "",
+      "options": [
+        "central",
+        "formal",
+        "curious",
+        "instant"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "在臺灣, 110 這個電話號碼僅供緊急使用,警方會對 (D) 另一隊應該要打敗你們的。 來電做出立即的回應。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_009",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "It is generally believed that IQ tests help people find out the level of their intelligence.",
+      "image_url": "",
+      "options": [
+        "seize",
+        "respect",
+        "discover",
+        "expect th"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "一般相信,智力測驗有助人們發現其智商的程度。 兒子:好吧!爸爸!我會試著振作的。 (A) 抓住 (B) 尊重 (C) 發現 (D) 期待 爸爸:好孩子!這種精神就對了!"
+    },
+    {
+      "id": "MOCK_108_1_ENG_010",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "On April 15, a big fire swept through Paris’ Notre Dame Cathedral, causing great harm to this historical and cultural treasure of France.",
+      "image_url": "",
+      "options": [
+        "damage",
+        "courage",
+        "priority",
+        "trend"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "4 月 15 日當天,大火橫掃了巴黎聖母院,對這個法 (A) 這是找你的零錢。 (B) 看看光明面! 國的歷史文化寶藏造成了重大傷害。 (C) 你真是令我大開眼界。 (D) 我們是天生一對。 (A) 傷害 (B) 勇氣 (C) 優先 (D) 趨勢"
+    },
+    {
+      "id": "MOCK_108_1_ENG_011",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "By staying positive, you will be able to turn obstacles into opportunities and solve problems more easily.",
+      "image_url": "",
+      "options": [
+        "industries",
+        "percentages",
+        "difficulties",
+        "residences"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "藉由保持正向,你將能夠化障礙為機會,更容易解決 Olivia: 問題。 Andrea:為何?我不懂。 (A) 產業 (B) 百分比 (C) 困難 (D) 居住地 Olivia:我的意思是,如果我因為臉上有一點小小的 改變而變得更有自信,那就值得這個價錢了。 II. 對話題 (A) 我也不是。 (B) 你說得對。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_012",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Ellen: Hi! Sharon. I’ve got two tickets for Maroon 5 rock concert. Would you like to come along? Sharon: Wow! It’s too good to be true! I’d love to! Ellen: Great! I’ll send you the details then. Sharon: I’m over the moon!",
+      "image_url": "",
+      "options": [
+        "Thanks for your invitation.",
+        "It depends on the date.",
+        "I’m not that into Maroon 5.",
+        "Don’t jump to conclusions!"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Ellen:嗨! Sharon 。我有兩張魔力紅搖滾演場會的門 (C) 不見得。 (D) 再見。 票。妳願意一起來嗎?"
+    },
+    {
+      "id": "MOCK_108_1_ENG_013",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Maggie: Antony! Welcome to my housewarming party! Antony: Congratulations on the new house! It’s really beautiful! Maggie: That’s music to my ears! Oh, Enjoy it! Antony: I will. I can’t wait to dig in!",
+      "image_url": "",
+      "options": [
+        "What have you been up to?",
+        "I can play the piano.",
+        "Are you free this evening?",
+        "Help yourself to the food."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Maggie: Antony!歡迎來我的喬遷派對。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_014",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Doctor: Patient: Awful. I have been sneezing and coughing since last night. Doctor: I see. Let me check. Patient: Well, I hope it’s only a common cold.",
+      "image_url": "",
+      "options": [
+        "How are you feeling now?",
+        "Can you introduce yourself?",
+        "How often do you have a cold?",
+        "Are you allergic to any medicine?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "醫生: 年以上的歷史。 病人:很慘。我從昨晚就一直打噴嚏、咳嗽。 (A) 樂器 (B) 組織 (C) 同事 (D) 意外 醫生:了解。我檢查看看。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_015",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Alice: Hey! Louie, how was your game? Louie: Guess what? We turned the tables and enter the championship final! Alice: That’s terrific! Louie: Thanks! We hope so.",
+      "image_url": "",
+      "options": [
+        "When are you going to play again?",
+        "What do you have in mind?",
+        "I wish you good luck in the final!",
+        "The other team should have beat yours."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Alice:嘿! Louie,比賽打得如何?"
+    },
+    {
+      "id": "MOCK_108_1_ENG_016",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Son: I didn’t get a position in the chorus. I’m hopeless. Father: Come on! Tomorrow is another day. Son: OK, Dad. I’ll try to cheer up. Father: Good boy! That’s the spirit!",
+      "image_url": "",
+      "options": [
+        "Here’s your change.",
+        "Look on the bright side!",
+        "You really opened my eyes.",
+        "We are meant for each other."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "兒子:我沒有入選合唱團。我絕望了。 (A) 中央的 (B) 正式的 (C) 好奇的 (D) 立即的 爸爸:來吧! 明天又是全新的一天。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_017",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Andrea: I think getting a plastic surgery is simply a waste of money. Olivia: Andrea: Why? I don’t get it. Olivia: I mean, if I become more confident because of a slight change in the face, it will be worth the price.",
+      "image_url": "",
+      "options": [
+        "Neither do I.",
+        "You bet.",
+        "Not really.",
+        "So long."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Andrea:我覺得整形根本就是浪費錢。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_018",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Hank: Excuse me. Is there a gas station around here? I need to refill the tank right away. Rita: I think so. Just go down the road and turn right at the first traffic lights. Hank: Thank you! Have a nice day! Rita: You, too!",
+      "image_url": "",
+      "options": [
+        "That doesn’t matter.",
+        "You won’t miss it.",
+        "What a surprise!",
+        "Sounds like fun!"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Hank:不好意思。這附近有加油站嗎?我必須馬上 Sharon:哇!好到難以置信!我願意! 加油。 Ellen:太好了!我再把細節寄給妳。 Rita:有的。這條路走下去,第一個紅綠燈右轉。 Sharon: 我真的欣喜若狂! (A) 謝謝你的邀請。 Hank:謝謝!祝妳有美好的一天。 (B) 要看日期決定。 108-1 共同科目 英文 詳解 Rita:你也是。 被宰殺之前就已經死亡的動物。穆斯林不需要成為素食 (A) 那沒有關係。 (B) 你不會錯過它的。 者。除非某食物 (31) 挑戰到伊斯蘭律法,否則他們都可以 (C) 真是驚喜! (D) 聽起來很好玩! 享用。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_019",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Kelvin: I went to Turtle Island on a whale-watching tour with my family. David: Really? I heard that it is an active volcano. Kelvin: I didn’t feel anything there. David: Believe it or not, I learned about it from TV news.",
+      "image_url": "",
+      "options": [
+        "You must be kidding!",
+        "I can’t agree more.",
+        "What’s the point of that?",
+        "For here or to go?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Kelvin:我跟家人去了龜山島賞鯨之旅。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_020",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Emma: How about some late night snacks? Victor: Emma: Good! What do you feel like eating? Victor: Anything will do.",
+      "image_url": "",
+      "options": [
+        "Count me in.",
+        "I’ll call back later.",
+        "That says it all.",
+        "Good guess!"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Emma:想不想吃點宵夜? (C) 最後 (D) 舉例來說 Victor:"
+    },
+    {
+      "id": "MOCK_108_1_ENG_021",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Customer: Excuse me. Are there extra forks? I dropped mine just now. Waitress: Customer: That’s nice. Thank you. Waitress: It’s my pleasure.",
+      "image_url": "",
+      "options": [
+        "Take your time.",
+        "Are you ready to order?",
+        "Coming right up!",
+        "Cash or plastic? III. 綜合測驗 ( 第 22-31 題,每題 2 分,共 20 分 ) 說明:以下兩篇短文,共有 10 個空格,為第 22 至 31 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 22 至 26 題,請依短文文意,選出一個最適合該空格的答案。 Hongloumeng, translated into English as “The Dream of the Red Chamber,” is written by Cao, Xue-qin in the Qing Dynasty. It is 22 to be one of the Four Great Classical Novels of China. In fact, the masterpiece of Chinese literature brought Chinese fiction to the highest point. It is of such significance 23 a new field of literature research thus generated — “the Redology,” the study specifically devoted to this great work of literature. Many people believe that Hongloumeng 24 the real life of the author. It reflects the rise and decline of Cao’s family as well as the Qing Dynasty. As the author mentions in the first chapter, it is a memorial to the young ladies he knew in his youth, 25 his friends, relatives and servants. The novel is remarkable not only for its detailed portray of a huge cast of characters 26 for its precise observation of the life and social structures of the 18th-century China."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "顧客:不好意思。有額外的叉子嗎?我的剛才掉了。 Question 32-33 女服務生: 2019 NBA 季後賽 顧客:真好。謝謝。 ( 賽程表 ) 女服務生:不客氣。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_022",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "A big fan of Golden State Warriors is most likely to watch games on.",
+      "image_url": "",
+      "options": [
+        "Tuesday and Thursday",
+        "Monday and Wednesday",
+        "Wednesday and Friday",
+        "Monday and Thursday"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：108-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_1_ENG_023",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "According to the schedule, which of the following statement is NOT true?",
+      "image_url": "",
+      "options": [
+        "Milwaukee Bucks has at least one game scheduled in the week.",
+        "Games are arranged every day during the playoffs.",
+        "All teams in the schedule are at their third round this week.",
+        "There is a recap available for every game. ▲ 閱讀下文,回答第 34-37 題。 In the predictable future, cash may be replaced by alterative options. People can pay by using credit cards, debit cards, electronic payment apps, or mobile payment services. Without cash, payments are processed electronically. That is, people transfer funds to another person or business instead of using paper currency and coins. Some supporters claim the benefits of the cashless society. First, there will be less crime; illegal deals like money laundering and drug trade will reduce because every cashless transaction leaves a paper record. Furthermore, international payments will become much easier. When the two nations are able to handle cashless transactions, people do not have to buy local currency when going abroad. While a zero-cash world seems appealing, some people are concerned about the disadvantages of it. They worry that personal information will be exposed to a high risk of abuse. Next, technology problems may cause inconvenience to people in accessing their money. Besides, those without bank accounts will have trouble paying and receiving payments. In spite of the warnings and opposition, several nations have taken action to eliminate cash with the push from both the consumers and governments. They believe that with sufficient planning and proper measures to help people of all economic status adjust to the system, it is possible to make cash history."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：108-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_1_ENG_024",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "What is the best title for this passage?",
+      "image_url": "",
+      "options": [
+        "A Guide to Apply Electronic Payments",
+        "The Things That Money Can’t Buy",
+        "The Pros and Cons of A Zero-cash World",
+        "The Role Banks Play in a Cash-free Society"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：108-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_1_ENG_025",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Which of the following is mentioned in the passage as an advantage of a cash-free world?",
+      "image_url": "",
+      "options": [
+        "It stimulates economic growth because people tend to spend more.",
+        "Paper currency bill and coins are available in all bank branches.",
+        "International payments and business rely more on foreign exchanges.",
+        "Crime rate lowers because paper trails are required for electronic transaction."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "下列何者在文章中被提及是無現金社會的優點? 評閱指標 (A) 因為大家有花更多錢的傾向,所以會刺激經濟成 級分 說明 長。 4 2 個空格皆正確。 (B) 紙幣及銅板在所有銀行分行都能取得。 2 僅 1 個空格正確。 (C) 國際支付及生意更加依賴外匯。 0 2 個空格皆錯誤。 (D) 犯罪率降低是因為電子轉帳要求紙本記錄。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_026",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Which of the following is NOT an example of “ alternative options ” shown in the first paragraph?",
+      "image_url": "",
+      "options": [
+        "debit cards",
+        "mobile payment service",
+        "electronic payment apps",
+        "paper currency"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "下列何者不是第一段所提到的「其他選擇」的例子? II. 句子重組 (A) 簽帳金融卡 (B) 行動支付服務"
+    },
+    {
+      "id": "MOCK_108_1_ENG_027",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "According to the passage, what kind of people have problems surviving in a cashless society?",
+      "image_url": "",
+      "options": [
+        "People who push the government to change.",
+        "Those who don’t have a bank account.",
+        "People who use mobile payment apps.",
+        "Those who own sufficient credit cards."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據文章,哪一種人在無現金社會生存會有困難? 解答: Family education makes a big difference in a (A) 促使政府改變的人。 child’s personality development. (B) 沒有銀行帳戶的人。 或 Family education in a child’s personality development (C) 使用行動支付應用程式的人。 makes a big difference. (D) 擁有充足的信用卡的人。 評閱指標 Question 38-41 級分 說明 凝肩的特徵是肩膀關節僵硬與疼痛。當肩關節周圍 所有字詞組合正確,且拼字、大小寫及標點均 的結締組織變厚、繃緊,使肩膀手臂的活動受限時,就 4 無誤。 會發生凝肩。你可能對這個診斷的別名「五十肩」比較 (1) 所有字詞組合正確,但有拼字、字詞增減或 熟悉,因為它最常見於 40 到 60 歲之間的病人。 標點錯誤。 凝肩的疼痛症狀依三個階段發展。一開始是漸凍 3 (2) 多數字詞組合正確,且無拼字、字詞增減或 期,這時肩膀任何活動都會引起疼痛。晚上疼痛尤為劇 標點錯誤。 烈,影響病人的睡眠。接踵而來的是冰凍期。雖然這階 (1) 多數字詞組合正確,但有拼字、字詞增減或 段疼痛開始停息並減少,肩膀卻變得更僵硬,讓病人不 標點錯誤。 能做將手高舉過頭的活動,有些人甚至摸不到另一邊的 2 (2) 半數字詞組合正確,且無拼字、字詞增減或 腋窩和背部。最後一個階段是解凍期。正如「解凍」這 標點錯誤。 個字所暗示的,肩膀的僵硬像融冰一樣舒緩了,而肩膀 (1) 半數字詞組合正確,但有拼字、字詞增減或 就能夠活動較大的範圍。 標點錯誤。 凝肩有保守療法和手術治療。多數的凝肩在包括藥 1 (2) 少數字詞組合正確,且無拼字、字詞增減或 物及物理治療師協助的保守療法之下, 18 個月內會好 標點錯誤。 轉。如果密集的保守治療一段時間之後,症狀仍舊惱人, (1) 少數字詞組合正確,但有拼字、字詞增減或 醫生可能就會建議一些手術的程序。術後的恢復過程通 標點錯誤。 常要好幾個月的時間。 0 (2) 所有字詞組合錯誤。 缺乏活動是凝肩的常見起因之一。如果你正好有受 (3) 只抄引導文字、題目或其他試題。 傷、手骨折或中風而無法活動肩膀時,你應該詢問醫生 (4) 空白 ( 未書寫文字 ) 。 你可以如何維持肩膀關節的活動範圍。這樣一來,你會 有較高的機會避免掉這個討厭的症狀。 III. 中譯英"
+    },
+    {
+      "id": "MOCK_108_1_ENG_028",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "To show medical students how to perform a surgery on the shoulder.",
+        "To offer common ways for middle-aged people to remain healthy.",
+        "To explain the causes, symptoms, and treatments of a shoulder problem.",
+        "To raise questions about the regulations of producing frozen food."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "這一段文章主要是關於什麼? (A) 向醫學生展示如何進行肩膀手術。"
+    },
+    {
+      "id": "MOCK_108_1_ENG_029",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "The word “fifty” in the phrase “ fifty shoulder ” in paragraph 1 refers to.",
+      "image_url": "",
+      "options": [
+        "age",
+        "size",
+        "weight",
+        "distance"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "第一段「五十肩」的「五十」指的是 。 級分 說明 (A) 年齡 (B) 尺寸 (C) 重量 (D) 距離 能充分表達原文題意,文法、標點正確,用字 4"
+    },
+    {
+      "id": "MOCK_108_1_ENG_030",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "Which of the following has the closest meaning to the word “ diminish ” in paragraph 2?",
+      "image_url": "",
+      "options": [
+        "celebrate",
+        "apologize",
+        "participate",
+        "decrease"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "下列何者與第二段的 diminish 一字的字義最接近? 遣詞沒有不當之處。 (A) 慶祝 (B) 道歉 (C) 參與 (D) 減少 能適切表達原文題意,文法、標點、用字遣詞 3"
+    },
+    {
+      "id": "MOCK_108_1_ENG_031",
+      "subject": "英文",
+      "unit": "108-1-四技二專-00共同科目 英文",
+      "q": "According to the passage, which of the following is true?",
+      "image_url": "",
+      "options": [
+        "Patients with frozen shoulder usually have a quick recovery within days after the surgery.",
+        "The connective tissues around the joint of a frozen shoulder are thicker and tighter.",
+        "Most frozen shoulders can only improve with a number of surgical procedures.",
+        "During the thawing stage, the patient’s shoulder is too stiff to move a bit."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據文章,下列何者正確? 僅有少數不當之處。 (A) 凝肩的病人通常手術後幾天內就會迅速復原。 僅能部分表達原文題意,文法、標點、用字遣 2 (B) 凝肩的關節附近的結締組織較厚、較緊繃。 詞有多處失當之處。 (C) 多數的凝肩唯有經過一些手術才會改善。 無法表達原文題意,文法、標點、用字遣詞僅 1 (D) 在解凍期,病人的肩膀會僵硬到不能動。 有少數正確之處。 (1) 空白 ( 未書寫文字 ) 。 第二部分:非選擇題 (2) 文字瑣碎、形同未答。 0 I. 填充 (3) 只抄題目或其他試題。"
+    }
+  ]
+}

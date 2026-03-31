@@ -1,0 +1,21 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH01",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "05gm",
+      "image_url": "",
+      "options": [
+        "1",
+        "30",
+        "10",
+        "5 (A) (B) (D) (A) (B) (D) (A) 1 mm 49 50"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

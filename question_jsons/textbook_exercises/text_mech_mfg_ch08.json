@@ -1,0 +1,53 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH08",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH08_001",
+      "subject": "機械製造",
+      "unit": "CH8",
+      "q": "66 67 % (D) (D) (D) (D) (D) n(D)",
+      "image_url": "",
+      "options": [
+        "mm/rev(C) (A) (A)",
+        "",
+        "",
+        "(D) (D) (D) (D) n(D) (A) mm/rev(C) (A) (A) (B) (B) (A)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH08_002",
+      "subject": "機械製造",
+      "unit": "CH8",
+      "q": "7 %",
+      "image_url": "",
+      "options": [
+        "(A) 60 % (C) (B ack Rake Angle)",
+        "",
+        "(B ack Rake Angle) (B) (B) (A)",
+        "Angle) (D) 87 10 mm m / min rpm(D) 1000 rpm (B) (B) (B) VTII C (Front CIearance (A) 3 (B) 13 (C) 77 63 (A) 2500 rpm(B)2000 rpm(C) 1500 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH08_003",
+      "subject": "機械製造",
+      "unit": "CH8",
+      "q": "60mm (D) 2",
+      "image_url": "",
+      "options": [
+        "1 / 4 (A)",
+        "1 / 2",
+        "",
+        "2 (A) 1 / 4 (A) (B) 1 / 2 (C)2 (B) (D) (A) (A) (D) (A)m/min(B)rpm(C)mm/min (B) (C) (B) (A)110 (B) 1 50 (C) 1100 (D) 11000 67"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

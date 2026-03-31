@@ -1,0 +1,3885 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_UPPER_CH04",
+  "subject": "技術型高中機械群機件原理上冊",
+  "chapter": {
+    "code": "CH04",
+    "title": "04_鍵與銷"
+  },
+  "title": "技術型高中機械群機件原理上冊 CHAPTER 5 一一 5",
+  "source_pdf": "技術型高中機械群機件原理上冊_PPT/04_鍵與銷.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "5 一一 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "本籣報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 丙容來源; 108 華興機件原理上冊 / 連結影片及部分圖片取目網路。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4-1 鍵 的 用 途 與 種 類"
+        },
+        {
+          "type": "heading",
+          "text": "4-1 鍵的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "4-2 鍵 的 強 度"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "4-2 鍵的強度"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "4-3 銷 的 種 類 與 用 途 數"
+        },
+        {
+          "type": "heading",
+          "text": "4-3 銷的種類與用途"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "4-1 鍵的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "一、鍵的用途 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件結合的方法有很多種,如:收縮緊固 ( shrinkage )、固定 螺釘、鍵 ( key ) 及斜銷 ( cotter ) 等。但收縮緊固配合僅用於 永久結合,而固定螺釘只適合傳送小的動力,若需傳送較大的 動力且要經常拆裝時,則使用鍵來結合最為方便。 鍵是屬於結合機件,材料大多用抗壓及抗剪強度較高的鋼。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "84"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍵的一部分嵌入軸上之槽內,其軸上之槽則稱為鍵座 ( key seat ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": ";另一部分嵌於機件的轂 ( hub ) 之凹槽中,而其轂上之凹槽稱 途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "為鍵槽 ( key way )。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "84"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-1 鍵座與鍵槽"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "二、鍵的種類 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 方鍵 ( square key ) 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "方鍵為一般最常用的鍵,斷面呈正方形,寬度等於厚度 ( w = h )"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": ",且其值約為組裝軸徑的,規格以寬度 ( w ) ×高度 ( h ) ×長"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "度 ( L ) 及端部形狀來表示,如方鍵 5 × 5 × 20 雙頭圓端。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "84"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-2 方鍵"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 平鍵 ( flat key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "與方鍵類似,唯厚度較薄,斷面呈長方形。當使用方鍵會造成"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸的強度減弱時,可以採用平鍵,其只適用於輕負載,方鍵及"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "平鍵之標準規格如表 4-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "85"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-3 平鍵"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "表 4-1 方鍵及平鍵之標準規格"
+        },
+        {
+          "type": "heading",
+          "text": "鍵的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "鍵寬"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "heading",
+          "text": "度高伍"
+        },
+        {
+          "type": "paragraph",
+          "text": "... 見 -4 冖 0 / 一 0 冖 0 8 一 0-4 8 ~ 冖 8 冖 0"
+        },
+        {
+          "type": "heading",
+          "text": "尺罙"
+        },
+        {
+          "type": "heading",
+          "text": "公稱"
+        },
+        {
+          "type": "heading",
+          "text": "長度"
+        },
+        {
+          "type": "heading",
+          "text": "尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "見 -4 冖 0 / 一 0 冖 0 8 一 0-4 8 冖 0 8 冖"
+        },
+        {
+          "type": "heading",
+          "text": "深"
+        },
+        {
+          "type": "heading",
+          "text": "(w><h)"
+        },
+        {
+          "type": "heading",
+          "text": "4 × 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "-4 一 -5 / 一 0 〕 一 - -0 8 一 0-4 8 L.n 8 一 -5 4 一 -5 / 8 8 一 0 ()D 8 一 0-4 8 L-O CO -4 一 -5 L.n L.n / 8 一 0 1 00-4 L.0 00 1-n LO LO 8 一 0 1-4"
+        },
+        {
+          "type": "heading",
+          "text": "10 45"
+        },
+        {
+          "type": "heading",
+          "text": "5 × 5"
+        },
+        {
+          "type": "heading",
+          "text": "7 × 7"
+        },
+        {
+          "type": "heading",
+          "text": "10 × 8"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1 1 00-4 一 4"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1 1 4-4"
+        },
+        {
+          "type": "heading",
+          "text": "-4-4"
+        },
+        {
+          "type": "heading",
+          "text": "18 ~ 112"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1 1 4-4"
+        },
+        {
+          "type": "heading",
+          "text": "12 × 8"
+        },
+        {
+          "type": "heading",
+          "text": "22 · 4 ~ 140"
+        },
+        {
+          "type": "heading",
+          "text": "15 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "28 ~ 160"
+        },
+        {
+          "type": "heading",
+          "text": "18 × 12"
+        },
+        {
+          "type": "heading",
+          "text": "35 · 5 ~ 200"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "20 × 13"
+        },
+        {
+          "type": "heading",
+          "text": "45 ~ 224"
+        },
+        {
+          "type": "heading",
+          "text": "24 × 16"
+        },
+        {
+          "type": "heading",
+          "text": "80 95"
+        },
+        {
+          "type": "heading",
+          "text": "56 ~ 250"
+        },
+        {
+          "type": "heading",
+          "text": "28 × 18"
+        },
+        {
+          "type": "heading",
+          "text": "63 ~ 315"
+        },
+        {
+          "type": "heading",
+          "text": "95 ~ 110"
+        },
+        {
+          "type": "heading",
+          "text": "32 × 20 110 ~ 125"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1 1 1"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1 1 1"
+        },
+        {
+          "type": "heading",
+          "text": "80 ~ 355"
+        },
+        {
+          "type": "heading",
+          "text": "35 × 22 125 ~ 140"
+        },
+        {
+          "type": "heading",
+          "text": "100 ~ 400"
+        },
+        {
+          "type": "heading",
+          "text": "38 × 24 140 ~ 160"
+        },
+        {
+          "type": "heading",
+          "text": "112 ~ 400"
+        },
+        {
+          "type": "heading",
+          "text": "42 × 26 160 ~ 180"
+        },
+        {
+          "type": "heading",
+          "text": "140 ~ 450"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "45 × 28 180 ~ 200"
+        },
+        {
+          "type": "heading",
+          "text": "160 ~ 450"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 斜鍵 ( taper key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱推拔鍵,為了增加鍵槽與鍵配合的緊密度,將方鍵或平鍵"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "之一面做成傾斜的形狀,頭端未傾斜部分約等於鍵寬 ( w )。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "斜鍵的斜度於公制為每公尺傾斜 1 公分 ( 1: 100 ),於英制則為"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "每呎傾斜 吋 ( 1: 96 )。"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "86"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-4 斜鍵"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 帶頭斜鍵 ( gib-head taper key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱鉤頭斜鍵,為了避免斜鍵因鎚擊過深而不易拆卸,將斜鍵"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "較厚一端製成鉤頭的形狀,以利拆卸,但組裝後常突凸於機件"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "外,易碰傷人或工具,故雖然方便裝卸,但不安全,需注意加 強防護措施,其規格部分如表 4-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "86"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-5 帶頭斜鍵"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "表 4-2 帶頭斜鍵之規格"
+        },
+        {
+          "type": "heading",
+          "text": "單位: mm"
+        },
+        {
+          "type": "heading",
+          "text": "鍵的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "公稱"
+        },
+        {
+          "type": "heading",
+          "text": "鍵之尺度"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍵... 見一 4 冖 0 0 / 0 冖 8 一 0-4 8 90 冖 0 8 冖"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "鍵軸"
+        },
+        {
+          "type": "paragraph",
+          "text": "... 座休冖 -4 冖 0 冖冖 0 0 / 8 0 一 1 90 00-4"
+        },
+        {
+          "type": "heading",
+          "text": "尺孔"
+        },
+        {
+          "type": "paragraph",
+          "text": "一度, 冖 Q 90 00 冖 0 冖 Q 冖 0 8-0 一 1 90 00-4"
+        },
+        {
+          "type": "heading",
+          "text": "適應之"
+        },
+        {
+          "type": "heading",
+          "text": "尺度"
+        },
+        {
+          "type": "heading",
+          "text": "軸徑"
+        },
+        {
+          "type": "heading",
+          "text": "(W)"
+        },
+        {
+          "type": "paragraph",
+          "text": "一 4 冖 0 / 0 冖 0 8 0-4 8 一冖 0 8 ~ 1 / 8 一 0 LO 8 0-4 8-0 〕 -0 2-4 LO / 8 8 0 00 C..D 8-0-4 ()D 8"
+        },
+        {
+          "type": "heading",
+          "text": "4 × 4"
+        },
+        {
+          "type": "heading",
+          "text": "10 ~ 13"
+        },
+        {
+          "type": "heading",
+          "text": "4 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "10 ~ 45"
+        },
+        {
+          "type": "heading",
+          "text": "5 × 5"
+        },
+        {
+          "type": "heading",
+          "text": "13 ~ 20"
+        },
+        {
+          "type": "heading",
+          "text": "5 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "10 ~ 56"
+        },
+        {
+          "type": "heading",
+          "text": "7 × 7"
+        },
+        {
+          "type": "heading",
+          "text": "20 30"
+        },
+        {
+          "type": "heading",
+          "text": "7 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "一 1 1 一 1 1 1 00 00-4-4"
+        },
+        {
+          "type": "heading",
+          "text": "14 ~ 90"
+        },
+        {
+          "type": "heading",
+          "text": "10 × 8"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 1 1 1 00 00-4-4"
+        },
+        {
+          "type": "heading",
+          "text": "8 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "-4-4"
+        },
+        {
+          "type": "heading",
+          "text": "18 112"
+        },
+        {
+          "type": "heading",
+          "text": "12 × 8"
+        },
+        {
+          "type": "heading",
+          "text": "8 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "15 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "10 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "18 × 12"
+        },
+        {
+          "type": "heading",
+          "text": "12 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "20 × 13"
+        },
+        {
+          "type": "heading",
+          "text": "13 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "24 × 16"
+        },
+        {
+          "type": "heading",
+          "text": "80 95"
+        },
+        {
+          "type": "heading",
+          "text": "16 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "28 × 18"
+        },
+        {
+          "type": "heading",
+          "text": "95 ~ 110"
+        },
+        {
+          "type": "heading",
+          "text": "18 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "32 × 20 110 ~ 125"
+        },
+        {
+          "type": "heading",
+          "text": "20 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 1 1-1 1"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1 一 1 1"
+        },
+        {
+          "type": "heading",
+          "text": "80 355"
+        },
+        {
+          "type": "heading",
+          "text": "35 × 22 125 ~ 140"
+        },
+        {
+          "type": "heading",
+          "text": "22 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "100 ~ 400"
+        },
+        {
+          "type": "heading",
+          "text": "38 × 24 140 ~ 160"
+        },
+        {
+          "type": "heading",
+          "text": "24 · 3"
+        },
+        {
+          "type": "heading",
+          "text": "112 ~ 400"
+        },
+        {
+          "type": "heading",
+          "text": "42 × 26 160 ~ 180"
+        },
+        {
+          "type": "heading",
+          "text": "26 · 3"
+        },
+        {
+          "type": "heading",
+          "text": "140 ~ 450"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "45 × 28 180 ~ 200"
+        },
+        {
+          "type": "heading",
+          "text": "28 · 3"
+        },
+        {
+          "type": "heading",
+          "text": "160 ~ 450"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 圓鍵 ( round key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓鍵即是以銷為鍵者,可分為直式與圓錐式兩種,圓錐式的規"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "格及錐度於公制以小端直徑為公稱直徑,錐度為 1: 50;於英"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "制則以大端直徑為公稱直徑,錐度為 1: 48。組合方式如圖 4-6"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示,通常圓鍵大端直徑 ( d ) 約為軸徑 ( D ) 的 至 倍之間。"
+        },
+        {
+          "type": "heading",
+          "text": "4 5"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "87"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-6 圓鍵"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 六 ) 半圓鍵 ( woodruff key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱半月鍵、伍德氏鍵,外形呈半圓狀,組裝時軸上之鍵座為"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "半圓凹槽,鍵的圓弧面能在軸的鍵座中活動,配合時具有自動"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "調心的作用,且能快速定位,適用於傳達扭矩小的場合,常見 於汽車的錐度軸。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "88"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-7 半圓鍵"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1 鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "選用半圓鍵時,以鍵寬 ( w ) 約等於 的軸徑 ( D ),而鍵的直 的"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "徑 ( d ) 約等於軸徑 ( D ) 之比例較佳,其規格表示法如下: 途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "1. 公制:以寬度×直徑、半圓鍵表示,例如表 4-3 中 5 × 22 半圓 類"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍵。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 英制:依序以 #、三或四位號碼、半圓鍵表示,其中號碼的"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "heading",
+          "text": "最右二位數乘以,代表半圓鍵的直徑;其餘號碼乘以,"
+        },
+        {
+          "type": "heading",
+          "text": "8 32"
+        },
+        {
+          "type": "paragraph",
+          "text": "代表半圓鍵的寬度,單位為吋。例如 #408 半圓鍵,即表示"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "半圓鍵的直徑為 08 × = 1 吋,寬度為 4 × = 吋。"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "8 32 8"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "88"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "表 4-3 公制半圓鍵的規格"
+        },
+        {
+          "type": "heading",
+          "text": "單位: mm"
+        },
+        {
+          "type": "heading",
+          "text": "鍵的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "A ( 2: 1 )"
+        },
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "公稱尺度"
+        },
+        {
+          "type": "heading",
+          "text": "適應之"
+        },
+        {
+          "type": "heading",
+          "text": "(w><h)"
+        },
+        {
+          "type": "heading",
+          "text": "軸徑 (D)"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "2 · 5 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "7 ~ 12"
+        },
+        {
+          "type": "heading",
+          "text": "9 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "3 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "8 ~ 14"
+        },
+        {
+          "type": "heading",
+          "text": "9 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "3 × 13"
+        },
+        {
+          "type": "heading",
+          "text": "9 ~ 16"
+        },
+        {
+          "type": "heading",
+          "text": "12 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "3 × 16"
+        },
+        {
+          "type": "heading",
+          "text": "11 ~ 18"
+        },
+        {
+          "type": "heading",
+          "text": "15 · 7"
+        },
+        {
+          "type": "heading",
+          "text": "4 × 13"
+        },
+        {
+          "type": "heading",
+          "text": "11 ~ 18"
+        },
+        {
+          "type": "heading",
+          "text": "12 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "4 × 16"
+        },
+        {
+          "type": "heading",
+          "text": "12 ~ 20"
+        },
+        {
+          "type": "heading",
+          "text": "一一一一 5 LO LO"
+        },
+        {
+          "type": "heading",
+          "text": "15 · 7"
+        },
+        {
+          "type": "heading",
+          "text": "4 × 19"
+        },
+        {
+          "type": "heading",
+          "text": "14 ~ 22"
+        },
+        {
+          "type": "heading",
+          "text": "18 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "5 × 16"
+        },
+        {
+          "type": "heading",
+          "text": "14 ~ 22"
+        },
+        {
+          "type": "heading",
+          "text": "15 · 7"
+        },
+        {
+          "type": "heading",
+          "text": "5 × 19"
+        },
+        {
+          "type": "heading",
+          "text": "15 ~ 24"
+        },
+        {
+          "type": "heading",
+          "text": "18 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "17 26"
+        },
+        {
+          "type": "heading",
+          "text": "21 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "6 × 22"
+        },
+        {
+          "type": "heading",
+          "text": "21 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "6 × 25"
+        },
+        {
+          "type": "heading",
+          "text": "24 · 4"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 1"
+        },
+        {
+          "type": "heading",
+          "text": "27 · 3"
+        },
+        {
+          "type": "heading",
+          "text": "6 × 28"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "6 × 32"
+        },
+        {
+          "type": "heading",
+          "text": "24 34"
+        },
+        {
+          "type": "heading",
+          "text": "31 · 4"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 七 ) 栓槽鍵 ( spline key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱裂式鍵,依形狀可分為直線式及漸開線式兩種。在軸上加"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "工數個沿圓周均布的凸齒,稱栓槽軸;輪轂孔面加工與軸鍵配"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "合的等距凹槽,稱栓槽孔。傳動時,轉軸與輪轂套合後能做旋 轉與軸向運動,且能承受極大的扭矩,常應用於汽車及重機械 的主要傳動軸上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "89"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-8 栓槽鍵"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 八 ) 鞍鍵 ( saddle key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "組裝時無需鍵座的鍵,其扭矩之傳動僅藉著徑向壓力所產生的"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦力來傳送,故只適合極輕負載之傳動。安裝時,鞍鍵下面"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "製成圓弧狀,鍵頂面製成有斜度的傾斜面,其斜度於公制為 1: 100,於英制為 1: 96。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-9 鞍鍵"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "( 九 ) 滑鍵 ( slide key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱活鍵 ( feather key ) 或埋頭鍵,在方鍵或平鍵上鑽製柱坑或"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "錐坑孔,並利用埋頭螺釘將鍵鎖固於軸上,可使從動件(輪轂)"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "在鍵上作軸向滑動,並能傳達較大動力。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-10 滑鍵"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 十 ) 斜角鍵 ( angular key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "將方鍵或平鍵的兩側製成斜面狀。主動件不論正轉或反轉時,"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "均因鍵的斜角面滑動而產生推力,使鍵的平面端與鍵槽或鍵座"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "能確實壓緊配合,以減少發生扭轉現象,故可用於傳達大扭矩。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "91"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-11 斜角鍵"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 十一 ) 路易氏鍵 ( Lewis key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱切線鍵、魯氏鍵,是用兩個相同大小的斜鍵相對組合而成。"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "安裝時,兩斜鍵之對角線必須在軸的周緣之切線方向上,以承"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "受剪力,適用於有衝擊性負載處。"
+        },
+        {
+          "type": "heading",
+          "text": "一組路易氏鍵僅可承受單方向"
+        },
+        {
+          "type": "heading",
+          "text": "的傳動,若需傳送正、反兩方"
+        },
+        {
+          "type": "heading",
+          "text": "向的動力時,則需同時裝置兩"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "組路易氏鍵,且鍵之下緣面之 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "夾角需成 120 °。"
+        },
+        {
+          "type": "heading",
+          "text": "91"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-12 路易氏鍵"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 十二 ) 甘迺迪鍵 ( Kennedy key ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "是用兩個相同大小的方形斜鍵組成。安裝時,兩個方形斜鍵之"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "對角線交於軸心成 90 °,可用以傳送正、反兩方向之動力。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "92"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-13 甘迺迪鍵"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "4-2 鍵的強度"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍵的強度即為鍵的材料在所允許的最大剪應力 ( τ, tau ) 及最大 壓應力 ( σ, sigma ) 下,所能承受的最大扭矩 ( T )。常以鍵之 最大剪應力及最大壓應力表示,或由可傳送之最大功率表示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "92"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "一、壓應力與剪應力 的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料在單位面積上所承受的內力,稱為應力 ( stress )。應力可 分為拉應力 ( tensile stress )、壓應力 ( compressive stress ) 及剪"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "應力 ( shearing stress ),應力常用單位為 MPa ( N/mm )。 軸轉動時,在鍵垂直面的兩側受到大小相等,方向相反的壓力 F 作用而帶動,此二力因在不同平面上形成力偶,使鍵產生一 扭轉力矩 T,以傳送動力。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "92"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵的強度"
+        },
+        {
+          "type": "heading",
+          "text": "受"
+        },
+        {
+          "type": "heading",
+          "text": "受剪面積"
+        },
+        {
+          "type": "heading",
+          "text": "As=W><L"
+        },
+        {
+          "type": "heading",
+          "text": "鍵鍵"
+        },
+        {
+          "type": "heading",
+          "text": "寬厚長"
+        },
+        {
+          "type": "heading",
+          "text": "扭側垂軸"
+        },
+        {
+          "type": "heading",
+          "text": "轉壓直徑"
+        },
+        {
+          "type": "heading",
+          "text": "力力壓"
+        },
+        {
+          "type": "heading",
+          "text": "矩力"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 鍵的受力情形"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 承受壓力及受壓面積"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 承受剪力及受剪面積"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4 一 14 鍵的受力情形"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "假設: T:傳動之扭轉力矩。 F:切於軸圓周之壓力。 的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "paragraph",
+          "text": "D:軸的直徑。 R:軸的半徑。 度 w:鍵的寬度。 h:鍵的厚度。 L:鍵的長度。"
+        },
+        {
+          "type": "heading",
+          "text": "可知鍵產生之扭轉力矩 T 為"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "93"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸在轉動時,鍵的兩側受到壓力 F 作用,鍵與軸接觸的平面上 的"
+        },
+        {
+          "type": "heading",
+          "text": "1 強"
+        },
+        {
+          "type": "paragraph",
+          "text": "會產生壓應力,其承受壓力的面積 A = h × L,故壓應力 σ 為 度"
+        },
+        {
+          "type": "heading",
+          "text": "C"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "93"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍵在承受壓力 F 的橫切平面上(與壓力 F 平行之面)會產生剪應 的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "paragraph",
+          "text": "力,其承受剪力的面積 A = w × L,故剪應力 τ 為 度"
+        },
+        {
+          "type": "heading",
+          "text": "S"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "94"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "壓應力與剪應力中之扭轉力矩 T 相等 的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "94"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此若選用的鍵為方鍵 ( h = w ) 時,則由公式( 4-4 )可知 的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ = 2 τ,即方鍵所承受之壓應力為剪應力的兩倍。 度"
+        },
+        {
+          "type": "heading",
+          "text": "單位為 T:牛頓 - 公尺 ( N-m );"
+        },
+        {
+          "type": "heading",
+          "text": "F:牛頓 ( N );"
+        },
+        {
+          "type": "heading",
+          "text": "D、 R:公尺 ( m );"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ、 τ:牛頓/平方公尺 ( N/m )。"
+        },
+        {
+          "type": "heading",
+          "text": "2 6 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: 1Pa = 1N/m, 1MPa = 10 Pa = 1N/mm。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "94"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵的強度"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "一鍵 5 × 5 × 20mm, 裝於一直徑 25mm 之軸上, 若軸 5N 一 m 之扭轉力矩, 求該鍵所受"
+        },
+        {
+          "type": "heading",
+          "text": "之壓應力及剪應力各為若干?"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 w=h=5mm' L=20mm, D=25mm, T=5N-m=5000N-mm"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 4 一 2 ) 得"
+        },
+        {
+          "type": "heading",
+          "text": "4T"
+        },
+        {
+          "type": "heading",
+          "text": "4 × 5000"
+        },
+        {
+          "type": "heading",
+          "text": "= 8N/mm = 8MPa"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "一 DhL 一 25 × 5 × 20"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 4 一 3 ) 得"
+        },
+        {
+          "type": "heading",
+          "text": "2T"
+        },
+        {
+          "type": "heading",
+          "text": "2 × 5000"
+        },
+        {
+          "type": "heading",
+          "text": "= 4N/mm = 4MPa"
+        },
+        {
+          "type": "heading",
+          "text": "DwL 一 25 × 5 × 20"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "二、功與功率 的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "paragraph",
+          "text": "施一力於物體上,能使物體沿著力的方向產生位移者,稱為功 ( work ),常以 W 為符號,其大小為 W = F × S,單位為焦耳 ( J = N-m )。而在單位時間內所作的功,則稱為功率,常以 P 為符號,"
+        },
+        {
+          "type": "heading",
+          "text": "F×S"
+        },
+        {
+          "type": "paragraph",
+          "text": "其大小為 P = = F × V,單位有瓦特 ( W )、公制馬力 ( PS ) 或"
+        },
+        {
+          "type": "heading",
+          "text": "t"
+        },
+        {
+          "type": "paragraph",
+          "text": "英制馬力 ( HP )。 假設: F:切於軸圓周之壓力。 V:物體受力後位移速度。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "D:軸的直徑。 R:軸的半徑。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "95"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:軸每分鐘的迴轉數 ( rpm )。 T:傳動之扭轉力矩。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 瓦特 的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 瓦特 ( W ) = 1 牛頓 - 公尺 / 秒 ( N-m/sec ), 1000W (瓦特) = 1kW (仟瓦特)。"
+        },
+        {
+          "type": "heading",
+          "text": "單位: F:牛頓 ( N );"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:公尺/秒 ( m/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "95"
+        },
+        {
+          "type": "heading",
+          "text": "D:公尺 ( m );"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "T:牛頓 - 公尺 ( N-m )。"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 公制馬力 的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 公制馬力 ( PS ) = 75 公斤力 - 公尺 / 秒 ( kgf-m/sec )。"
+        },
+        {
+          "type": "heading",
+          "text": "單位: F: 公斤力 ( kgf );"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V: 公尺 / 秒 ( m/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "95"
+        },
+        {
+          "type": "heading",
+          "text": "D: 公尺 ( m );"
+        },
+        {
+          "type": "paragraph",
+          "text": "T: 公斤力 - 公尺 ( kgf-m )。 Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 英制馬力 的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 英制馬力 ( HP ) = 550 磅 - 呎 / 秒 ( lb-ft/sec )。"
+        },
+        {
+          "type": "heading",
+          "text": "單位: F:磅 ( lb );"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:呎 / 秒 ( ft/sec );"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "D:呎 ( ft ); 96"
+        },
+        {
+          "type": "paragraph",
+          "text": "T:磅 - 呎 ( lb-ft )。 Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵"
+        },
+        {
+          "type": "heading",
+          "text": "計算時需留意其單位,三者單位間的換算如下: 的"
+        },
+        {
+          "type": "heading",
+          "text": "強"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "paragraph",
+          "text": "1PS = 75kgf-m/sec × 9.8N/kgf = 735W 1HP = 550lb-ft/sec × 4.45N/lb × 0.305m/ft = 746W"
+        },
+        {
+          "type": "heading",
+          "text": "1kW = 1.36PS = 1.34HP"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "96"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵的強度"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一齒輪, 以 10 × 8 × Lmm 的平鍵接合於直徑 40mm 之軸上, 齒輪之迴轉數為每分 鐘 500 轉, 所傳動之功率為 6 · 28kW, 若鍵的允許剪應力為 20MPa, 求所需的鍵長 L"
+        },
+        {
+          "type": "heading",
+          "text": "為若干?"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知 w=10mm'h=8mm'N=500rpm'D=40mm'"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "P = 6 · 28kW = 2000 W, = 20MPa = 20N/mm"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 4 一 5 ) 得"
+        },
+        {
+          "type": "heading",
+          "text": "T × 2 N T × 2 × 500"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Watt ="
+        },
+        {
+          "type": "heading",
+          "text": "= 2000"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "paragraph",
+          "text": "· · T = 120N - m = 120000N - mm"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 4 一 3 ) 得"
+        },
+        {
+          "type": "heading",
+          "text": "2T 2 × 120000"
+        },
+        {
+          "type": "heading",
+          "text": "= 20"
+        },
+        {
+          "type": "heading",
+          "text": "•.L=30mm"
+        },
+        {
+          "type": "heading",
+          "text": "DwL 一 40 × 10 × L"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "3 5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "鍵的強度"
+        },
+        {
+          "type": "heading",
+          "text": "例題 4-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "一帶輪以 5 × 5 × 20mm 之鍵裝於一直徑 50mm 之軸上, 帶輪之迴轉數為每分鐘 1500 轉, 承受 147N 一 m 之扭轉力矩, 求該鍵所傳送之功率為若干馬力? 解已知 w = h = 5mm, L = 20mm, N = 1500rpm, D = 50mm,"
+        },
+        {
+          "type": "heading",
+          "text": "T = 147N - m = 15kgf-m"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 4 一 6 ) 得"
+        },
+        {
+          "type": "heading",
+          "text": "T × 2 N 15 × 2 × 1500"
+        },
+        {
+          "type": "heading",
+          "text": "= 10 = 31 · 4 ( 馬力 )"
+        },
+        {
+          "type": "heading",
+          "text": "PS ="
+        },
+        {
+          "type": "heading",
+          "text": "4500"
+        },
+        {
+          "type": "heading",
+          "text": "4500"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "heading",
+          "text": "4-3 銷的種類與用途"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "銷有接合、傳動、定位、封閉及防止機件脫落等功用,當負載"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "為軸向或徑向剪力時,以銷作為連接件來傳達動力之效果良好, 途 主要用於輕負載的傳動為佳。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "97"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "heading",
+          "text": "一、機器銷 ( machine pin ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 定位銷 ( dowel pin ) 與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱直銷 ( straight pin ),是一相同直徑之圓柱體,兩端倒角或 圓角,經熱處理後研磨而成,其用途為組合機件之精密定位, 或作為活動件之短軸,如汽缸之活塞銷。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "97"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-15 定位銷"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 錐形銷 ( taper pin ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱斜銷或推拔銷,是一圓錐體兩端成圓角之圓桿,因具有錐"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "度,故可使兩機件緊密結合在一起,其錐度公制為 1: 50,規"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "格以小端直徑為公稱直徑;英制為 1: 48,公稱直徑則以大端 直徑表示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "98"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-16 錐形銷"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 )U 形鉤銷 ( clevis pin ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱 T 形銷,本身並非呈 U 形,而是與其配合的母件形狀呈 U 形"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "鉤狀而得名,主要用途為關節處之接合,常見於當連接之機件"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "需要一些可撓性或角度變化時,例如連接叉形機件及圓眼形機 件。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "98"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-17 U 形鉤銷"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 開口銷 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "以斷面呈半圓形的退火鋼或黃銅線彎製而成的銷,使用時將開"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "口銷插入配合機件之貫穿小孔內,再將銷尾端彎曲,以防脫落。"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "規格以公稱直徑 × 長度表示,例如開口銷 3 × 40。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "99"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-18 開口銷"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 )R 形銷 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "R 形銷具有結合機件、防止機件脫離及機件間定位等功用。常"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "用於軸、 U 形鉤銷的端部,應用於汽車、拖車、貨物架、農用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "等機械。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "99"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 4-19 R 形銷(高來螺絲工業有限公司提供)"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "heading",
+          "text": "二、徑向鎖緊銷 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "適用於震動及衝擊負載的場所,容易裝設且價格低廉,依其構 與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "造及使用性質的不同可分為兩類: 途"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 有槽直銷 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "銷沿圓周具有軸向均勻的裂槽,當銷受外力裝入配合孔內時,"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "裂槽膨徑部分受壓力變形,可防止裝置後鬆脫,適用於嚴重震"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "動具無需精密配合的機件上,其種類依美國標準協會規定,分 為 A ~ F 型共六種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-20 有槽直銷"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 彈簧銷 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "是由具剛性及彈性之中空圓管或彈簧鋼片材料製成,靠著本身"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈性於孔內保持結合,有鎖緊作用,其種類有「開槽型」及"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "「蝸型」兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-21 彈簧銷"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "heading",
+          "text": "三、栓接頭銷 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用銷之斷面剪應力來傳達動力,其銷上所受之剪力與其軸心 與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "垂直,用於不具撓曲性機件之連接處,因具有錐度,機件連接 途 時能保持緊密配合。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "101"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-22 栓接頭銷"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "銷"
+        },
+        {
+          "type": "heading",
+          "text": "四、快釋銷 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "銷頭部配有一環圈, 與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "目的在便於拆卸, 途"
+        },
+        {
+          "type": "heading",
+          "text": "具有快速分離及快"
+        },
+        {
+          "type": "heading",
+          "text": "速連接歸定位之功"
+        },
+        {
+          "type": "heading",
+          "text": "用,常應用於滅火"
+        },
+        {
+          "type": "paragraph",
+          "text": "器、手榴彈等處。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "101"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 4-23 快釋銷"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch04/p048.jpg"
+    }
+  ]
+}

@@ -1,0 +1,917 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH10",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH10",
+    "title": "CH10"
+  },
+  "title": "機械基礎實習全冊 Chapter 10 ዆᜗ᅼۨʘᛟᅼႡЪ",
+  "source_pdf": "機械基礎實習全冊/CH10PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "዆᜗ᅼۨʘᛟᅼႡЪ"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 瞭解鑄砂的成分與種類 10-1 鑄砂的成分與種類"
+        },
+        {
+          "type": "heading",
+          "text": "2. 認識鑄模各部位的名稱 10-2 鑄模各部位名稱與澆流道系統"
+        },
+        {
+          "type": "heading",
+          "text": "3. 能製作整體模型之鑄模 10-3 砂模製作注意事項"
+        },
+        {
+          "type": "heading",
+          "text": "4. 熟悉金屬熔解與整體模型之鑄模 10-4 熔解與澆鑄"
+        },
+        {
+          "type": "heading",
+          "text": "澆鑄 10-5 簡易整體模型鑄模製作"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "186"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "heading",
+          "text": "10-1 ᛟٙ޻Ύɦၾ၇ᗳ"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄砂或稱模砂,是形成砂模的主要材料,型態有濕模砂、乾模砂、砂心砂、水泥砂、殼模 砂等 [1]。鑄砂由基砂與其他添加物混合而成,基砂大致分為矽砂及特殊基砂兩大類,如圖 10-1 所示。矽砂又稱石英砂 (Silica sands),主要成分為二氧化矽 (SiO2),熔點約 1700 °C。 ᵺ⁋᱿中⁋ ञଅờᣅ⁋ಙŊ⁋ಙฬ⁏Ŋ≣ᢜඖฬ̈́Ȯⲿᖎඖฬ॑Ŋ̟ᵺᑁ೼ಙⰱଅȮ風˴⠧ㄇ⁏⁳ř⁋ಙ"
+        },
+        {
+          "type": "heading",
+          "text": "ฬ₳ԅוʠȯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "純矽砂不具黏性,需添加適當的「水」及「黏土」混練才能造模。 㓸߭ᆯሱᇒ⳦᱿㓸⃌ԵŊ 㓸ؐ߭⸇ฬネŊᵺᑁ೼ಙฬञŊ̟ᵺ⁋ߣش᱿ἇめ᳈ଃᛧଇŊⲿᖎඖฬదŊוʠŊ㓸ؐ߭⸇ଇŊ ⲿᖎඖ̈́Ŋ̟೼ಙⰱ೸ⳍᑁʃᆞŊɺ⎷ؐ⸇)߱ 3 Ɯ 12% ʠ⿵ [1] ȯぜɹ㓸߭कŊଋトԽҘ⳺⸇ ᱿ᖛ͐㓸߭᪀വ㓸ඖŊᖛ᱿ؐ⸇࣑ԽŊ㓸ඖらʠ࣑ԽŊ̟⳧घ᱿ᖛӠŊו≟͐㓸ඖが̥Ŋɺ⎷"
+        },
+        {
+          "type": "heading",
+          "text": "ᖛӠؐ⸇) 2 Ɯ 8% ʠ⿵ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-1 ȭࡣᵺӠㆩ [2]"
+        },
+        {
+          "type": "heading",
+          "text": "為了便於造模與獲得良好的鑄件,鑄砂的特性如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. ೼ಙ̈́:避免在造模過程發生破損,澆鑄時要能抵抗金屬熔液的衝擊力、浮力與壓力,不"
+        },
+        {
+          "type": "paragraph",
+          "text": "致產生變形或破壞。"
+        },
+        {
+          "type": "heading",
+          "text": "2. ⲿᖎඖ:因鑄模內含有水分,水分受到金屬熔液的高溫會產生大量的氣體, 風ᵺ⣬ሷ⏦॑"
+        },
+        {
+          "type": "paragraph",
+          "text": "᱿ⲿᖎඖŊ͐ᖎナ൬ⳌⳚӛᑁकŊⴍ҉風˴ᮟᮝᖎઋ。"
+        },
+        {
+          "type": "heading",
+          "text": "3. ≣ᥖඖネ:鐵系金屬澆鑄溫度約 1300 ∼ 1650 °C,鑄砂須能耐高溫,防止被燒結或熔融,以"
+        },
+        {
+          "type": "paragraph",
+          "text": "免造成清砂困難或鑄件表面不良。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 ዆᜗ᅼۨʘᛟᅼႡЪ 187"
+        },
+        {
+          "type": "heading",
+          "text": "4. ᙟՒඖ:鑄砂具有良好的流動性,造模時才能將模型的形狀與尺寸正確地顯現出來。"
+        },
+        {
+          "type": "heading",
+          "text": "5. யᄣඖ:鑄件凝固收縮時,砂模中的凸塊或砂心應隨之收縮或崩散,以免造成鑄件縮裂或"
+        },
+        {
+          "type": "paragraph",
+          "text": "熱裂發生,良好的崩散性也有助於清砂容易。"
+        },
+        {
+          "type": "heading",
+          "text": "6. ᄇඖߊר:良好的鑄砂應不易老化或崩裂成微粉狀,使模砂可以重新使用,讓鑄造工作更"
+        },
+        {
+          "type": "paragraph",
+          "text": "具經濟性。"
+        },
+        {
+          "type": "heading",
+          "text": "10-2 ᛟᅼ΢௅ЗΤ၈ၾᆏݴ༸ӻ୕"
+        },
+        {
+          "type": "paragraph",
+          "text": "風ᑁぜɹ⣬ሷᑁἂ༫࿲᥂➄᱿᚝๗⸉଼कŊⴒ⣬ሷરᄮ᱿ⳇⳬ೧଄᚝๗⸉଼౹ỻ᱿ᙟҘᑁ ἂŊᔍⳇⳬờʠᣅ៮ᙟⳬ7⃥ (Gating system) בờ៮ҭם7⃥ȯ 澆流道系統各部位名稱如圖 10-2 所示。一般而言,模穴前之流道稱為澆口 系統,主要部位包含澆池 (Pouring basin)、豎 澆道 (Sprue)、豎澆道底 (Sprue base)、橫流道 (Runner)、 橫 流 道 尾 (Runner extension)、 進 模 口 (Gate) 等;模穴以後之流道稱為冒口系統, 包含冒口 (Riser)、溢放口 \u0002\u0003\u0004\u0005\u0006\u0007\u0005㑅 等。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-2 ȭ風ᑁ׳ⵒ̤᱿׻ờ [4]"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "188"
+        },
+        {
+          "type": "heading",
+          "text": "ɓeᆏϫ"
+        },
+        {
+          "type": "paragraph",
+          "text": "位於鑄模最上方,是最先承受金屬熔液之處, ៮ᖷԼᮢሷᆞᅠ៮風Ȯぜᛮדᛧג⸉଼᥂᚝ ʁが᱿ⳌಙŊⴍ҉ᮟᮝɦᙟȯ 手工造模若在澆道上方挖出一喇叭形孔,此孔稱為澆口杯。"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeሤᆏ༸"
+        },
+        {
+          "type": "paragraph",
+          "text": "主要功用是輸送金屬熔液, ᣅʀञʁଅʠ᳅Ἴ⻧ઋŊ⭡ᑁἂ) 25mm。"
+        },
+        {
+          "type": "heading",
+          "text": "ɧeሤᆏ༸ֵ"
+        },
+        {
+          "type": "paragraph",
+          "text": "位於豎澆道底部,呈半圓形凹穴,直徑大小約與豎澆道相等,它的 Լᮢ߱ᅠᛧଇ⸉଼᥂᚝"
+        },
+        {
+          "type": "heading",
+          "text": "ᛱᙟჟՒ෼ഐŊଃര↧⸉଼᥂᚝ሷג⠢̳ᮢȯ"
+        },
+        {
+          "type": "heading",
+          "text": "̬ ༸ݴeዑ"
+        },
+        {
+          "type": "paragraph",
+          "text": "位於模穴四周,功用在於輸送及分配金屬熔液,使熔液均勻的流入模穴。"
+        },
+        {
+          "type": "heading",
+          "text": "ʞeዑݴ༸҈"
+        },
+        {
+          "type": "paragraph",
+          "text": "為橫流道的延伸部位,目的是使最先澆鑄的低溫金屬液、浮渣,以及被沖刷之砂粒留在此 處,讓高溫且質純的金屬液進入模穴。"
+        },
+        {
+          "type": "heading",
+          "text": "ʬeආᅼɹ"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱鑄口,是金屬液進入模穴的小通道,使金屬穩定且迅速的充滿模穴,得到較佳的凝固 效果。 ᙟⳬㄅⲖ風ם⚠ະⰱ₳ଅŊ˫͵風˴חӛരŊᙟ⭰ૌᆞᄬぜȯ"
+        },
+        {
+          "type": "heading",
+          "text": "ɹڽɖe"
+        },
+        {
+          "type": "paragraph",
+          "text": "ሱʙ⣬Լᮢᆯ⡵҂風˴ӐߗᄇVIII⳧Ễ໽ト᱿⸉଼᥂᚝Ŋⴒሷ࿢ᖎ⎞ぜᛮ᱿Լ⋱ȯҭם⥑⇦̤ ⇦ᆯㄅⲖ風˴ሱञᅜㄇ⚠Ŋߌ⥿ⵒ̤ᄇVIII⸇ሱञŊ⸉଼᥂᚝ሱ๨Ӑߗȯ 冒口依外觀型式可分 為明冒口與暗冒口; 明冒口貫穿上模,從鑄模外觀可看到冒口位置和形狀,澆鑄時可檢視及觀察 金屬液是否鑄滿。暗冒口從鑄模外觀看不到,當鑄件補給量少、補給距離較短時採用。"
+        },
+        {
+          "type": "heading",
+          "text": "ɞe๐׳ɹ"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱排泄口或升鐵口,一般薄鑄件或表面積較大的鑄件才有設置的必要, ʙ⣬Լᮢ߱࿢ぜ ᖎナŊ͐⸉଼᚝ദԊᙟՒŊⴍ҉ⳍໞ᝽ᙟŊ⥑⇦̤⇦ᆯ߱⭡サ៮ⳬሱ⳵໣風˴ሱἌӛʠ⚠ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "10-3 ޻ᅼႡЪءจԫධ"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂模製作是鑄件生產過程很重要的一環,要領與注意事項如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 模型位置:模型放在砂箱中需考慮模型本體與整個流路系統的位置, ᑁࠣ⎞ᵺᾼⴗM⎏ଇ"
+        },
+        {
+          "type": "heading",
+          "text": "ᮽሷ 4 ҝӠ᱿⭡サȯ"
+        },
+        {
+          "type": "heading",
+          "text": "2. ᑁࠣ ⠧ㄇ҅ ⣰╾ⰱ₳᱿ㄇᵺŊ˫᪀വ風˴ⰱ̈́ ᱿⠧ㄇ⁏⁳ಙŊʠരҪࢯҘⰱ⁏᱿⋍ᵺ"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Backing sand) Ŋ˫᪀വⰱ॑᱿ⲿᖎඖȯ"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 ዆᜗ᅼۨʘᛟᅼႡЪ 189"
+        },
+        {
+          "type": "heading",
+          "text": "3. 搗砂 ( 捶砂 ):砂模搗實程度依砂模形狀、大小及澆鑄金屬而有不同,砂模搗實強度不足,"
+        },
+        {
+          "type": "paragraph",
+          "text": "可能會有落砂情形;搗實過緊,有通氣不良之虞。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 翻轉砂模:砂模翻轉前,應先在造模板上滑動再提起,避免砂模裂開或損壞。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 撒分模砂: ᠪᵺᑁᣅɹⴍ҉ʀʁᵺᑁʻ᳈㓸⫅Ŋᄝ႔Ӡᑁᵺ ( ₞ᵹᵺ ) ⁆ࠣ໣Ӡ,分佈量要"
+        },
+        {
+          "type": "paragraph",
+          "text": "適量均勻不可過多,使上下砂模能分開即可。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 穿通氣孔:澆鑄時為了使模穴內之氣體容易排出,避免鑄件產生氣孔。 ⳍᑁᆹະ˫ⳇᖎ⸒"
+        },
+        {
+          "type": "paragraph",
+          "text": "ἊઋŊ⿵ጁ) 20 Ɯ 30mm Ȯᛖಙ)߱ᑁࠣʀᅞ 5mm Ŋ 如圖 10-3(a)、 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 穿通氣孔 (b) 通氣孔示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-3 ȭἊⳇᖎઋ"
+        },
+        {
+          "type": "heading",
+          "text": "7. 合模記號之標記:上砂箱製妥後須與下砂箱分離,以便取出模型、製作豎澆道底、進模口等,"
+        },
+        {
+          "type": "paragraph",
+          "text": "之後再合模。合模過程須對準上下砂箱,如有合模銷,對準插銷即可;若無合模銷,需在 提起分開砂箱前先做合模標記。合模記號是先用水刷在砂箱兩側潤濕,把模砂與水調成適 當濕度黏附在該處,之後以小鏝刀沿砂箱分模處橫切一刀,抹平後再豎切兩條直線做為對 準之用,如圖 10-4(a)、 (b)。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 水刷潤濕砂模: 取出模型前, 用水刷沾水潤濕模型周圍的砂面, 避免起出模型損壞砂模表面,"
+        },
+        {
+          "type": "paragraph",
+          "text": "唯需注意水份不可過多,否則易使鑄件產生氣孔。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-4 ȭ׶ᑁ⥆⚦"
+        },
+        {
+          "type": "heading",
+          "text": "9. 起模:利用起模針打入木模重心位置,前後左右輕敲起模針,使模型與模砂具有適當間隙,"
+        },
+        {
+          "type": "paragraph",
+          "text": "再垂直慢慢取出木模型,取出過程不可傾斜,以免損壞模壁。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 開設豎澆道底、橫流道與進模口:模型取出後,在下模豎澆道底挖成半球形之凹穴,緩衝"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬液流速,此凹穴稱為豎澆道底。另在豎澆道底與模穴間開設橫流道與進模口,提供金"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "190"
+        },
+        {
+          "type": "paragraph",
+          "text": "屬熔液流入,如圖 10-5(a) 所示,進模口橫截面可為三角形、梯形或半圓形等。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 模穴修補:起模後檢視模穴狀況,利用各種鏝刀、抹刀,修整砂面、剝離處或清除掉落砂塊,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 10-5(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-5 ȭ⿭⥑ᙟ⭰7⃥⎞Δᄮᵺㄇ"
+        },
+        {
+          "type": "heading",
+          "text": "12. 合模:合模時,注意雙手保持平穩,對準"
+        },
+        {
+          "type": "heading",
+          "text": "合模記號或合模銷,垂直緩慢放下合模,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 10-6 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-6 ȭ׶ᑁ"
+        },
+        {
+          "type": "heading",
+          "text": "10-4 အ༆ၾᆏᛟ"
+        },
+        {
+          "type": "heading",
+          "text": "ɓeအ༆ (melting)"
+        },
+        {
+          "type": "paragraph",
+          "text": "熔解是利用熔解爐將固體金屬加熱到熔點以上使其熔化成液態。由於各種金屬熔點與性質 不同,熔解爐的種類與適用合金如表 10-2 所示。常用設備有熔鐵爐 (Cupola)、坩堝爐 (Crucible furnace)、感應電爐 (Induction furnace)。 ▼ ⠧ 10-2 ȭ׳Ớ׶⸉⳺ᮢ᱿᥂ջ⥑Ј [5]"
+        },
+        {
+          "type": "heading",
+          "text": "風˴׶⸉ ⳺ᮢ᱿᥂ᦘỚㆩ Ј⥘"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄鐵 熔鐵爐、低週波感應電爐 包括灰口鑄鐵、白口鑄鐵、球墨鑄鐵等材質 鑄鋼 電弧爐、轉爐、平爐、高週波感應電爐 包括各種碳鋼、合金鋼等材質"
+        },
+        {
+          "type": "heading",
+          "text": "鑄銅、鑄鋁、"
+        },
+        {
+          "type": "heading",
+          "text": "坩堝爐、反射爐、低週波感應電爐 -"
+        },
+        {
+          "type": "heading",
+          "text": "鋅合金"
+        },
+        {
+          "type": "heading",
+          "text": "鎂合金 坩堝爐 -"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 ዆᜗ᅼۨʘᛟᅼႡЪ 191"
+        },
+        {
+          "type": "heading",
+          "text": "( ɓ ) အ᚛ᘟ"
+        },
+        {
+          "type": "paragraph",
+          "text": "熔鐵爐主要由爐體與鼓風機組成,如圖 10-7 所示,適宜一般灰口鑄鐵之生產,最主要特點 是設備費便宜、熔解量大、溶解速度快,規格以熔化率 (melting rate) 表示, ᥂隶ᦘञଅ˫ב⚦ 1 Ɯ 12 ⠧ḻŊ᥂ջ᪓ᕓଅᆹ 1 Ɯ 32 ތʠ⿵Ŋ⚦ᄲ⬤ञŊ᥂ջ᪓⬤ञȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-7 ȭ᥂隶ᦘʠᐉⳍ [6]"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "192"
+        },
+        {
+          "type": "heading",
+          "text": "( ɚ ) ռఞᘟ"
+        },
+        {
+          "type": "paragraph",
+          "text": "坩堝爐如圖 10-8(a) 所示, ౑ᮢᅠ᥂⤟⺁Ȯ⺭׶⸉ᾀ㄄隶⸉଼ȯ⣳ጁ˫ࡺࠐ⚦ᄲờكŊ⚦ᄲ ⬤ञŊ᥂⤟⸇⬤ञŊॖࡺࠐ 150# Ŋ⠧ḻᔍࡺࠐɺᓝ⋱᥂⤟ 150kg ʠ㓳⺁ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "( ɧ ) ชᏐཥᘟ"
+        },
+        {
+          "type": "paragraph",
+          "text": "感應電爐如圖 10-8(b) 所示,其原理是在爐體繞以導電線圈,通入交流電產生交替磁場,再 由交替磁場在原料上產生二次感應電流 ( 渦電流 ),利用感應電流在金屬材料中產生電阻所發生 的熱量使金屬熔解。感應電爐加熱效率最高、速度快,品質安定、污染少,但設備費用較高。 感應電爐規格以一次能熔滿鑄鐵或鑄鋼之總重量稱呼。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) ᦘࡺࠐ (b) ฾ະヅᦘ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-8 ȭࡺࠐᦘ⎞฾ະヅᦘ"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬熔化後,取出與澆鑄過程中會有大量的熱量損失,導致溫度下降, ៮風ᝐಙʃ⭁Ŋ ሳߌᙟՒඖʃ⏦≟ᱹᮝ᝽ᮽ᫠⩽ŊҭםȮ࿢ᗿםʬ܄दະሷԼ⋱ȯ៮風ᝐಙ⳧ネŊᆞⳍໞ風˴ VIIIઋ໣㖂⡣෼ഐȯߌᔍ⸉଼߱ᦘҙʠ᥂ջᝐಙ (melting temperature) トネᅠ៮風ᝐಙ (pouring temperature) ) 50 Ɯ 100 ƫŊ˫͵ϝᛵᝐȮぜᖎדぜᛮᾀ׳Ớ⚠᫧ȯ≟៮風ᝐಙבҪネᅠ⸉଼ ᥂㔄) 10 Ɯ 20 ŃŊᷨΎ⸉଼᚝҂ដᑁἂԊʃሳӐߗȯ 常用的金屬熔化溫度與澆鑄溫度如表 10-3 所示。 Ȝ ⠧ 10-3 ȭ⸉଼᥂ջᝐಙ⎞៮風ᝐಙ [7] ቨ⫨Ớㆩ ᥂ջᝐಙ ( ƫ ) ៮風ᝐಙ ( ƫ )"
+        },
+        {
+          "type": "heading",
+          "text": "鋁合金 720 ∼ 780 670 ∼ 740"
+        },
+        {
+          "type": "paragraph",
+          "text": "青銅 1200 ∼ 1250 1100 ∼ 1150 黃銅 1050 ∼ 1100 980 ∼ 1030 鑄鐵 1350 ∼ 1400 1300 ∼ 1350 鑄鋼 1550 ∼ 1600 1450 ∼ 1500"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 ዆᜗ᅼۨʘᛟᅼႡЪ 193"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeᆏᛟ (pouring)"
+        },
+        {
+          "type": "paragraph",
+          "text": "澆鑄是將熔融金屬液以澆桶盛裝,再移至砂模豎澆道口上方對準後注入,直到金屬液充滿 整個模穴。 澆鑄方法分為頂澆式及底澆式兩種。 頂澆式澆桶上方邊緣有一凸出的槽,稱為澆桶嘴,轉 動澆桶時,金屬液便順著澆桶嘴流入鑄模。底澆式澆桶是金屬液由澆桶底部流出,由於金屬熔 渣浮在金屬液表面,可以使乾凈的金屬液進入模穴,避免熔渣混入 [8]。 澆桶依形式有單人手提澆桶、雙人合抬澆桶、懸吊式澆桶與自動澆鑄方式,如圖 10-9(a) ∼ (d) 所示。 ܈ː༆ဏ៮ጝ ( ໣ờ៮⇄ ) ૌl⸉଼᥂᚝) 20kg Ŋ⳺׶ᅠଅ風˴;雙人合抬澆桶適合 於中小型鑄件;懸吊式澆桶是利用吊車懸吊澆桶進行澆鑄,適合於大型鑄件或小鑄件大量生產; 自動澆鑄是利用電腦控制,配合機械手臂從事澆鑄作業,適合於小鑄件大量生產。 澆鑄是一項重要且危險的工作,操作者須非常謹慎小心,個人應配戴安全護具,並注意周 圍及地面工作環境之整理,避免不必要的意外發生。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-9 ȭ៮ጝഐೣ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "194"
+        },
+        {
+          "type": "paragraph",
+          "text": "澆鑄時,澆桶嘴儘量靠近鑄模澆口,以免金屬液沖力太大造成漏鑄現象,又因金屬熔液浮 力可能導致上砂模浮起,因此,對於中大型鑄件需在鑄模上方放置適當的壓重塊,或用夾鉗夾 緊上下砂箱,如圖 10-10(a)、 (b) 所示。 澆鑄過程應使金屬熔液快速平穩流入模穴,降低亂流捲入空氣造成鑄件瑕疵。 ៮風ᆹ⿵ⳇ ౑˫ȵấȶ⠧ḻŊଅ風˴ະⲐⳌ≟ỻહ᱿៮風Ŋ˫᪀വࠀɺ᱿風˴ٴ⫨ř風˴ׂಙฬ☃Ŋ៮風 Ⳍಙฬ൬Ŋ˫҉᝽ᙟȯଔᝐಙ≟⤵Ŋ៮風ᝐಙฬネŊ៮風Ⳍಙฬ๨Ŋ˫҉風˴ᮟᮝVIIIઋדᖎઋȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-10 ȭ៮風Ԋ風ᑁߗહ"
+        },
+        {
+          "type": "paragraph",
+          "text": "澆鑄後,金屬凝固並冷卻到適當溫度,以人工或機械震動方式破壞砂模,再去除鑄件除流 路系統與冒口,如圖 10-11(a) 所示。若鑄件表面黏附砂粒或毛邊,需以各種噴砂機或滾筒設備清 之,圖 10-11(b) 為鑄件表面黏附砂粒情形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 10-11 ȭ׏ぜᙟ⭰7⃥⎞風˴⠧ㄇ㓸えᵺ⁋෼ഐ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 ዆᜗ᅼۨʘᛟᅼႡЪ 195"
+        },
+        {
+          "type": "heading",
+          "text": "൩eҦঐ௅ɦ"
+        },
+        {
+          "type": "heading",
+          "text": "10-5 ᔊ׸዆᜗ᅼۨᛟᅼႡЪ"
+        },
+        {
+          "type": "paragraph",
+          "text": "手工造模是以人力完成各種造模工作,造模順序是先做下砂模,後做上砂模,再取出模型、 開設流路系統,最後合模。 今以軸承座的單體模型為例,說明手工造模步驟,請參閱圖 10-12 ∼圖 10-14。 ɓeԱቇ຅sԷ૿Υٞ޻eᓂɺձ˥ ( ߰ ʊ૿ᇖdׁଫϤӉ᜷ )"
+        },
+        {
+          "type": "heading",
+          "text": "1. 矽砂加入適量的水均勻混合,如圖 10-12(a)、 (b)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在濕砂中,均勻灑入黏土再混合,如圖 10-12(c)、 (d)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-12 ȭᛜ׶ᵹᵺȮᖛُ㓸߭"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeႡЪɨ޻ᅼ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 選擇適當大小的砂箱 ( 上下各一個 ) 與造模板,下砂箱放在造模板上。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 模型置於砂箱內適當處並預留澆道位置, ᑁࠣሱञㄇ ( ሱ⸅⣬ㄇ ) ቄʁ,如圖 10-13(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 用「砂篩」篩一層面砂覆蓋於模型四周,以手指按緊,如圖 10-13(b)、 (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以「砂鏟」鏟背砂於砂箱內,約與砂箱等高,用尖底砂錘由外圍往中心搗實鑄砂,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "10-13(d),注意勿錘到模型。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 再次添加背砂,約高出砂箱 10 公分,用平底砂鎚再次搗實鑄砂,如圖 10-13(e)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "196"
+        },
+        {
+          "type": "heading",
+          "text": "6. 以刮尺由外往內刮除多餘鑄砂,使砂面與砂箱齊平,如圖 10-13(f)。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 雙手握持砂箱把手,輕輕移動砂箱,使砂箱底部與造模板分離。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 翻轉下砂箱,模型朝上,以鏝刀鏝平砂面,如圖 10-13(g)、 (h)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-13 ȭʁᵺᑁⳍᑁᔎ49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 ዆᜗ᅼۨʘᛟᅼႡЪ 197"
+        },
+        {
+          "type": "heading",
+          "text": "ɧeႡЪɪ޻ᅼ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 下砂箱翻轉後,均勻灑佈分型粉或分模砂。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 套置上砂箱、 ⳺ᯍ̤⇦⩲Ἴ៮ⳬ፜Ŋߥ፜ʑൔ⭡サቌᑁⴗM) 2 Ɯ 3 ҝӠ。 ( 必要時,"
+        },
+        {
+          "type": "paragraph",
+          "text": "以扁刷掃除模型上的鑄砂 ),如圖 10-14(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 覆蓋面砂,之後填加背砂,如圖 10-14(b)、 (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 如同製作下砂箱方式,先用尖底砂錘,後用平底砂錘搗實鑄砂,如圖 10-14(d)、 (e)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 以刮尺刮除鑄砂,使砂面與砂箱齊平,如圖 10-14(f)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-14 ȭʀᵺᑁⳍᑁᔎ49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "198"
+        },
+        {
+          "type": "heading",
+          "text": "̬ eႡЪΥᅼা໮e՟̈ᅼۨeකணݴ༩ӻ୕ၾΥᅼ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 以泥砂製作 3 處合模記號,如圖 10-15(a)。 ( 若有合模銷忽略此步驟 )"
+        },
+        {
+          "type": "heading",
+          "text": "2. 澆口棒輕輕搖動後拔出,製作澆口杯,如圖 10-15(b)、 (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 一手拿通氣針,另一手輕輕壓著砂面,插通氣孔,如圖 10-15(d)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 垂直提起上砂模置於旁邊, 如圖 10-15(e), 檢視模穴, 若有崩模, 用砂 鈎 或小鏝刀等工具修補。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 用鏝刀在下砂模豎澆道底挖成半球形、開設流路與鑄口,如圖 10-15(f)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 以水刷沾水潤濕模型輪廓周圍的鑄砂,如圖 10-15(g)。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 起模針釘入模型重心處,以小鐵鎚或鏝刀曲面 ( 不可用平面 ) 輕敲起模針,使模型鬆動,"
+        },
+        {
+          "type": "paragraph",
+          "text": "再次敲緊起模針,垂直取出模型,如圖 10-15(h) ∼ (j)。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 修整砂面,如圖 10-15(k)"
+        },
+        {
+          "type": "heading",
+          "text": "9. 翻轉並提起上砂模,對準下砂模合模記號,垂直緩慢放下完成合模,如圖 10-15(l)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-15 חӛᑁࠣȮ⿭⥑ᙟⳬ7⃥⎞׶ᑁ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 10 ዆᜗ᅼۨʘᛟᅼႡЪ 199"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 10-15 חӛᑁࠣȮ⿭⥑ᙟⳬ7⃥⎞׶ᑁ ( ↲ )"
+        },
+        {
+          "type": "heading",
+          "text": "ʞeအ༆ၾᆏᛟ"
+        },
+        {
+          "type": "paragraph",
+          "text": "該單元實習工場可依熔化設備採低熔點合金或熔蠟方式澆鑄,本書在此以鋁合金為澆鑄金"
+        },
+        {
+          "type": "heading",
+          "text": "屬進行說明:"
+        },
+        {
+          "type": "paragraph",
+          "text": "純鋁熔點 658 °C,一般鋁合金約 670 °C以上就可以完全熔解,熔解後保持鋁液溫度 740 °C∼ 775 °C左右 ( 鋁液溫度不宜過高,過高產生氧化鋁渣愈多、吸收氫氣也愈多。若澆缽已預熱,鋁 液溫度約在 700 °C∼ 740 °C之間 )。澆鑄溫度視鑄件大小、厚薄而變動,約在 680 °C∼ 720 °C澆鑄。 熔解與澆鑄步驟參閱圖 10-16。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 取適當量的鋁碇放入熔解爐內熔解,如圖 10-16(a)、 (b)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 穿妥防護裝備,如隔熱衣、隔熱手套、隔熱安全鞋、防護頭盔、頭罩,如圖 10-16(c)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "200"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以測溫器測溫,確定鋁液已達上述溫度。傾倒鋁水並以澆缽盛接金屬熔液,如圖 10-16(d)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以快、穩、靜的方式將金屬熔液鑄入模穴,直到鑄滿為止,如圖 10-16(e)、 (f)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 待金屬凝固,破壞砂模,取出鑄件,如圖 10-16(g)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 10-16 ȭ᥂⤟⎞៮風"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch10/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "൙ඎܝኪ"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u0002\u0003\u0004\u0002 ( ) 1. 鑄 造 用 矽 砂 的 主 要 成 份 是 (A) 三 氧 化 二 鋁 (B) 三 氧 化 二 鐵 (C) 二 氧 化 鋁 (D) 二氧化矽。 ( ) 2. 傳統鑄造所用的鑄模材料大都以 (A) 鋁金屬 (B) 石膏 (C) 聚苯乙烯 (D) 矽 砂為主。 ( ) 3. 砂 粒 太 粗, 鑄 件 易 發 生 下 列 何 種 缺 陷? (A) 結 砂 (B) 燒 結 (C) 表 面 粗 糙 (D) 氣孔。 ( ) 4. 鑄砂粒度大小的改變,主要影響鑄砂的 (A) 通氣性 (B) 搗緊度 (C) 含水量 (D) 可塑性。 ( ) 5. 濕模砂所採用的黏結劑主要是 (A) 麵粉 (B) 水玻璃 (C) 火山黏土 (D) 煤粉。 ( ) 6. 下述何者與模砂性質無關? (A) 透氣性 (B) 延展性 (C) 流動性 (D) 耐熱性。 ( ) 7. 有關砂模鑄造中透氣性之影響因素,下列敘述何者錯誤? (A) 砂粒愈粗,透 氣性愈好 (B) 砂粒愈細,透氣性愈差 (C) 錘實的程度愈密實,透氣性愈差 (D) 含水量愈多,透氣性愈好。 ( ) 8. 砂 模 通 氣 性 不 良 時, 金 屬 液 澆 鑄 時 會 發 生 (A) 沸 滾 (B) 氣 孔 (C) 燒 結 (D) 毛邊。 ( ) 9. 一 般 濕 砂 模 含 水 分 約 為 多 少? (A) 2 ∼ 8% (B) 8 ∼ 15% (C) 15 ∼ 20% (D) 20 ∼ 25%。 \u0002\u0003\u0004\u0005 ( ) 10. 澆 口 系 統 中, 金 屬 液 進 入 模 穴 前 的 小 通 道, 稱 為 (A) 進 模 口 (B) 冒 口 (C) 溢放口 (D) 橫流道。 ( ) 11. 豎澆道的功用是 (A) 補充金屬液 (B) 排除氣體與熔渣 (C) 使鑄件組織緻密 (D) 輸送金屬液。 ( ) 12. 冒口的型態為開敞式,從上模頂端可看到冒口的位置及形狀者,稱為 (A) 明冒 口 (B) 澆口 (C) 暗冒口 (D) 通氣口。 ( ) 13. 下列何者不是明冒口的功用? (A) 補充鑄件凝固收縮過程所需的金屬熔液 (B) 排氣與除渣 (C) 鑄件容易取出 (D) 檢視金屬熔液是否充滿模穴。 ( ) 14. 有關砂模鑄造之流路系統,排列順序何者正確? (A) 澆池→澆道→流道→進模 口→模穴 (B) 澆池→流道→澆道→進模口→模穴 (C) 澆道→澆池→進模口→模 穴 (D) 澆池→澆道→模穴→進模口。 \u0002\u0003\u0004\u0006 ( ) 15. 製 作 砂 模 時, 首 先 覆 蓋 於 模 型 表 面 之 砂 稱 為 (A) 面 砂 (B) 襯 砂 (C) 舊 砂 (D) 背砂。 ( ) 16. 撒分模砂或分型粉的目的為何? (A) 增加模形使用壽命 (B) 增加砂模透氣性 (C) 增加鑄件表面粗糙度 (D) 避免上下砂模互相黏貼。 ( ) 17. 砂模搗固不實時,鑄件會發生 (A) 氣孔 (B) 落砂 (C) 縮孔 (D) 鑄缺。"
+        },
+        {
+          "type": "heading",
+          "text": "201"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "൙ඎܝኪ"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 18. 無固定合模梢之砂箱,為求合模精確,造模時至少應在砂箱上做幾個記號? (A) 1 個 (B) 2 個 (C) 3 個 (D) 4 個。 \u0002\u0003\u0004\u0007 ( ) 19. 鑄 件 澆 鑄 溫 度 過 低 會 導 致 何 種 缺 陷? (A) 鑄 砂 燒 結 (B) 脹 膜 (C) 滯 流 (D) 毛邊。 ( ) 20. 下列何種金屬的熔點最低? (A) 鋁 (B) 銅 (C) 純鐵 (D) 鑄鐵。 ( ) 21. 鑄 鐵 的 熔 化 溫 度 約 為 (A) 720-780 °C (B) 1100-1150 °C (C) 1300-1350 °C (D) 1450-1500 °C。 ( ) 22. 澆鑄時,捲入空氣之主要原因是 (A) 亂流 (B) 澆鑄太慢 (C) 澆鑄溫度太低 (D) 澆口太大。 ( ) 23. 濕 砂 模 澆 鑄 鋁 合 金 之 溫 度 通 常 在 (A) 520 °C (B) 620 °C (C) 720 °C (D) 820 °C。 ( ) 24. 澆鑄時間通常以 (A) 時 (B) 分 (C) 秒 (D) 微秒 表示。 ( ) 25. 所 謂 一 號 坩 堝 係 指 每 爐 次 能 熔 解 一 公 斤 的 (A) 黃 銅 (B) 鋅 合 金 (C) 鑄 鐵 (D) 鋁合金材料。 ( ) 26.100 號的坩堝, 其號數是指坩鍋的 (A) 高度 (B) 寬度 (C) 熔化量 (D) 出廠號。 ( ) 27. 下列何種金屬的熔點最高? (A) 鑄鐵 (B) 鑄鋼 (C) 銅合金 (D) 鋁合金。 \u0002\u0003\u0004\b ( ) 28. 單 體 模 型 造 模 時, 模 型 最 大 面 宜 放 在 (A) 下 模 (B) 上 模 (C) 靠 澆 口 處 (D) 任何地方都可以。 ( ) 29. 手工造模之順序,何者正確? (A) 先作下砂模、再作上砂模、取出模型、開設 流路系統、合模 (B) 先作上砂模、再作下砂模、取出模型、再開設流路系統、 合模 (C) 先作下砂模、再作上砂模、取出模型、合模、開設流路系統 (D) 先作 上砂模、取出模型、再作下砂模、開設流路系統、合模。 ( ) 30. 分離砂模時, 提起上砂模的動作是 (A) 一邊搖晃、 一邊提起 (B) 前後移動後提起 (C) 左右移動後提起 (D) 垂直提起。"
+        },
+        {
+          "type": "heading",
+          "text": "202"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "ਞϽ˖ᘠ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 張晉昌著,鑄造學, p2-5、 p2-8,全華科技圖書公司, 2015。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 李漢彰著,砂模鑄造能力本位訓練教材 - 認識砂模鑄造用材料,行政院勞工委員會職業訓練"
+        },
+        {
+          "type": "paragraph",
+          "text": "局,民 90。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 林陽泰、林維新編譯,製造程序, p98,全華科技圖書公司,民 80。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 林英明等著,機械製造 I,全華科技圖書公司, 2014。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 張晉昌編著,鑄造學, p7-4,全華科技圖書公司,民 2015。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 王千億、王俊傑編著,機械製造,全華科技圖書公司。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 張晉昌編著,鑄造學, p7-3,全華科技圖書公司,民 2015。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 張晉昌編著,砂模鑄造能力本位訓練教材 - 鑄造工作安全事項,行政院勞工委員會職業訓練"
+        },
+        {
+          "type": "paragraph",
+          "text": "局,民 90。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 台瑋企業股份有限公司,公司產品型錄。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 蔡英宏、張晉昌編著,準備澆桶及澆鑄作業 ( 二 ),行政院勞工委員會職業訓練局,民 90。"
+        },
+        {
+          "type": "heading",
+          "text": "203"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "筆記頁 NOTE"
+        },
+        {
+          "type": "heading",
+          "text": "204"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

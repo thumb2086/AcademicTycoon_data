@@ -1,0 +1,5383 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_UPPER_CH07",
+  "subject": "技術型高中機械群機件原理上冊",
+  "chapter": {
+    "code": "CH07",
+    "title": "07_帶輪"
+  },
+  "title": "技術型高中機械群機件原理上冊 CHAPTER 帶輪",
+  "source_pdf": "技術型高中機械群機件原理上冊_PPT/07_帶輪.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "帶輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "本籣報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 丙容來源; 108 華興機件原理上冊 / 連結影片及部分圖片取目網路。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "7-1 撓 性 傳 動"
+        },
+        {
+          "type": "heading",
+          "text": "7-1 撓性傳動"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-2 帶 與 帶 輪 7-5 塔 輪 與 速 比 介 紹"
+        },
+        {
+          "type": "heading",
+          "text": "7-2 帶與帶輪 7-5 塔輪與速比介紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-3 皮 帶 的 傳 動 方 式 7-6 皮 帶 傳 動 之 功 率"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "※ 7-3 皮帶的傳動方式 ※ 7-6 皮帶傳動之功率"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-4 皮 帶 長 度 7-7 繩 輪 傳 動 數"
+        },
+        {
+          "type": "heading",
+          "text": "7-4 皮帶長度 ※ 7-7 繩輪傳動"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "撓"
+        },
+        {
+          "type": "heading",
+          "text": "7-1 撓性傳動"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "當兩軸中心距離較遠,無法使用直接接觸傳動,以具撓性之連 接物,藉由其張力來傳達兩機件間之運動或功率者,稱為撓性 傳動 ( flexible drive ),常用的撓性連接物有帶 ( belt )、繩 ( rope ) 及鏈 ( chain ) 等。 就應用場合而言,以繩與繩輪傳動之中心距為最長,可達 33m; 帶與帶輪次之,可達 9m;鏈與鏈輪最短,大都在 3m 以內。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "撓性傳動"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 帶與帶輪"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 鏈與鏈輪"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 繩與繩輪"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7 一 1 撓性傳動"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "7-2 帶與帶輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "皮帶依斷面形狀之不同,可分為平皮帶、 V 形皮帶、確動皮帶、 圓形皮帶等四種,其中僅以確動皮帶之傳動可獲得正確的轉速 比,其餘三種皮帶在傳動時,皮帶與帶輪之間難免會產生滑動 現象,而無法獲得正確的轉速比。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "一、平皮帶與平帶輪 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 平皮帶 ( flat belt )"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱平帶圈,是一帶圈斷面呈扁平狀,套於平滑之兩平帶輪上, 藉著與平帶輪之輪面間的摩擦力來傳達動力,傳動線速度可高 達 25m/s,與平帶輪面間之接觸度不得小於 120 °,否則易滑動 脫落,平皮帶在選用時,應注意其寬度約為平帶輪面寬度的"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "85% 為優,其厚度約為平帶輪直徑之 ~ 為佳。"
+        },
+        {
+          "type": "heading",
+          "text": "20 30"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-2 平皮帶"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "平皮帶依製作材料不同,可分為下列四種: 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "1. 皮革帶:由動物皮革製成,通常以牛皮、豬皮為主,單層厚"
+        },
+        {
+          "type": "paragraph",
+          "text": "度通常為 5 ~ 6mm,具有高摩擦效率及撓曲性,而且維修容 易,使用壽命長,但易受溫度與濕度影響而產生脹縮現象。 應用於低、中轉速之動力傳送。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 織物帶:由棉、麻或人造纖維編織疊合數層,斷面呈扁平狀,"
+        },
+        {
+          "type": "paragraph",
+          "text": "外用樹脂包覆而成,厚度約 5 ~ 15mm,具有高度的防潮、"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "防熱、耐油特性,且不易老化,其繞於平帶輪之緊密度較皮 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "革帶差,傳動效果較差。"
+        },
+        {
+          "type": "heading",
+          "text": "185"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "3. 橡皮帶:由天然橡膠或人造橡膠加入尼龍或棉布料壓合而成 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "paragraph",
+          "text": ",缺點是不耐高溫、油污。 輪"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鋼帶:厚度約為 0.2 ~ 1mm,其抗拉強度高,伸縮性小,不"
+        },
+        {
+          "type": "paragraph",
+          "text": "易受氣候影響,壽命長,安裝正常時不易滑動,適用於高速 轉動之精密機器,缺點為摩擦係數小、組裝接合不易,傳動 時危險性較高。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "185"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 平帶輪 ( belt pulley ) 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "平皮帶使用時必須與平帶輪配合,而平帶輪大都以鑄鐵做成, 其型式常見有球面與雙圓錐面兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "185"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-3 平帶輪"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "paragraph",
+          "text": "在運轉時,如有偏向甚至脫落的現象,其發生的原因有: 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "1. 主動輪與從動輪組裝時,輪面無完全平行,易造成皮帶兩側"
+        },
+        {
+          "type": "paragraph",
+          "text": "張力不同,使皮帶向張力較大的一側移動。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 皮帶製造時,因材料或製法使得皮帶受力後張力不均。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 皮帶本身傳動速度過高,產生跳動而有脫落之虞。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "185"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "防止皮帶脫落方法,常用的有下列三種: 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "1. 使用凸緣帶輪:皮帶之裝拆較不便,一般甚少採用。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 加裝帶叉:或稱導叉、導帶器,易使皮帶邊緣受到摩擦作用"
+        },
+        {
+          "type": "paragraph",
+          "text": "而損傷,故不常採用。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 使用輪面隆起帶輪:一對帶輪中,只允許一輪有隆起輪面,"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "其中央隆起的高度約為輪面寬之 ~ 為宜。"
+        },
+        {
+          "type": "heading",
+          "text": "50 100"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "186"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶與帶輪"
+        },
+        {
+          "type": "heading",
+          "text": "球面"
+        },
+        {
+          "type": "heading",
+          "text": "雙圓錐面"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 凸緣帶輪"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 輪面隆起帶輪"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 帶叉"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7 一 4 防止皮帶脫落之方法"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "paragraph",
+          "text": "若平帶輪輪面為隆起的雙圓錐形,輪面中央直徑最大,則皮帶 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "paragraph",
+          "text": "在 A、 B 處開始與帶輪接觸,因輪面中央隆起, A 邊所受的張力 輪 較 B 邊為大,故 A 邊應被拉長才可以保持 AFEB 的直線位置。 皮帶左右兩側張力達平衡不再移動,故皮帶即不會產生有鬆脫 情形。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "187"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "187"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-5 輪面隆起帶輪使皮帶不脫落之原理"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "二、 V 形皮帶與 V 形槽輪 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 )V 形皮帶 ( V-belt )"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱三角皮帶,其斷面呈梯形,梯形兩側面之夾角為 40 °,須 配合 V 形槽輪使用,能承受衝擊、吸收振動,兩輪軸稍有偏差 仍可正常運轉,適用於一般動力傳達,缺點為在傳達動力時, 因為有打滑現象存在,效率大約為 75% 以上,不適用於交叉帶 傳動及需要精確速比之場所。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "187"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-6 V 形皮帶"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 形皮帶內部構造有單層式及多層式,其基本構造大致包括: 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "1. 表皮層:具保護作用。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 伸展層:主要以拉伸膠材為主,具耐彎曲及耐疲勞等特性。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 緩衝層:以緩衝膠材為主,具耐振及保護抗張體之功用。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 抗張體:中間蕊帶部分,主要用於承受張力,提供皮帶之抗"
+        },
+        {
+          "type": "paragraph",
+          "text": "拉能力。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 壓縮層:以壓縮膠材為主,具耐彎曲及耐疲勞等特性。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "188"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶與帶輪"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "壓縮層"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 單層式"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 多層式"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 內部基本構造"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7 一 7 V 形皮帶的內部構造"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "V 形皮帶的種類及規格部分: 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "1. 種類:依承受負載可分為輕負載型 ( light-duty )、傳統型"
+        },
+        {
+          "type": "paragraph",
+          "text": "( conventional section )、重負載窄面型 ( heavy-duty narrow ) 三種。每種類型依斷面尺寸,由小至大依序分別為輕負載型 有 2L、 3L、 4L 及 5L 等四種型別;傳統型 M、 A、 B、 C、 D 及 E 等六種型別。其中以傳統型 V 形皮帶是常見的種類。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 規格:其表示法為「型別 × 長度」,例如: A × 600,即表示"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 形皮帶之型別為 \"A\",皮帶的全長為 600mm。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "188"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "16 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "12 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "帶與帶輪"
+        },
+        {
+          "type": "heading",
+          "text": "一一 r ̄l 一 1 1 ̄I"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 輕負載型"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        },
+        {
+          "type": "heading",
+          "text": "31 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        },
+        {
+          "type": "heading",
+          "text": "16 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "12 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 傳統型"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "9.5"
+        },
+        {
+          "type": "heading",
+          "text": "8、 丆"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 重負載窄面型"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7 一 8 V 形皮帶的種類"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶與帶輪"
+        },
+        {
+          "type": "heading",
+          "text": "表 7 一 1 傳統型 V 形皮帶之尺寸與強度"
+        },
+        {
+          "type": "heading",
+          "text": "屈曲後之"
+        },
+        {
+          "type": "heading",
+          "text": "抗張強度"
+        },
+        {
+          "type": "heading",
+          "text": "b"
+        },
+        {
+          "type": "heading",
+          "text": "面積 A"
+        },
+        {
+          "type": "heading",
+          "text": "容許張力"
+        },
+        {
+          "type": "heading",
+          "text": "型別"
+        },
+        {
+          "type": "heading",
+          "text": "引張強度"
+        },
+        {
+          "type": "heading",
+          "text": "(kg/ 條 )"
+        },
+        {
+          "type": "heading",
+          "text": "( kg / 條 )"
+        },
+        {
+          "type": "heading",
+          "text": "(mm)"
+        },
+        {
+          "type": "heading",
+          "text": "(mm)"
+        },
+        {
+          "type": "heading",
+          "text": "()m )"
+        },
+        {
+          "type": "heading",
+          "text": "(kg/ 條 )"
+        },
+        {
+          "type": "heading",
+          "text": "100 以上"
+        },
+        {
+          "type": "heading",
+          "text": "80 以上"
+        },
+        {
+          "type": "heading",
+          "text": "M"
+        },
+        {
+          "type": "heading",
+          "text": "10 · 0"
+        },
+        {
+          "type": "heading",
+          "text": "5 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "44 · 0"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "180 以上"
+        },
+        {
+          "type": "heading",
+          "text": "140 以上"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "12 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "9 · 0"
+        },
+        {
+          "type": "heading",
+          "text": "83 · 0"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        },
+        {
+          "type": "heading",
+          "text": "300 以上"
+        },
+        {
+          "type": "heading",
+          "text": "240 以上"
+        },
+        {
+          "type": "heading",
+          "text": "B"
+        },
+        {
+          "type": "heading",
+          "text": "16 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "11 · 0"
+        },
+        {
+          "type": "heading",
+          "text": "137 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 40。"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "500 以上"
+        },
+        {
+          "type": "heading",
+          "text": "400 以上"
+        },
+        {
+          "type": "heading",
+          "text": "C"
+        },
+        {
+          "type": "heading",
+          "text": "22 · 0"
+        },
+        {
+          "type": "heading",
+          "text": "14 · 0"
+        },
+        {
+          "type": "heading",
+          "text": "236 · 7"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "heading",
+          "text": "1000 以上"
+        },
+        {
+          "type": "heading",
+          "text": "800 以上"
+        },
+        {
+          "type": "heading",
+          "text": "D"
+        },
+        {
+          "type": "heading",
+          "text": "31 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "19 · 0"
+        },
+        {
+          "type": "heading",
+          "text": "467 · 1"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "1500 以上"
+        },
+        {
+          "type": "heading",
+          "text": "1200 以上"
+        },
+        {
+          "type": "heading",
+          "text": "E"
+        },
+        {
+          "type": "heading",
+          "text": "38 · 0"
+        },
+        {
+          "type": "heading",
+          "text": "25 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "732 · 3"
+        },
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 )V 形槽輪 ( sheave ) 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪外緣具有梯形凹溝之槽輪,作為引導、約束 V 形皮帶動路之 功用,其梯形槽兩側面之槽角應小於 40 °,一般約 34 ° ~ 38 ° 之 間,為皮帶磨損後變小或輪槽磨損後變大之裕度,且具有增加 夾持力之作用。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "190"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-9 V 形槽輪"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "paragraph",
+          "text": "組合時為確保 V 形皮帶與槽輪能緊密接觸,皮帶僅兩側與槽輪 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "paragraph",
+          "text": "接觸,底部並無接觸。 輪"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "190"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-10 V 形皮帶與槽輪之配合與傳動"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "其 V 形槽輪之設計尺寸, 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "paragraph",
+          "text": "如表 7-2 所示。 輪"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "191"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "paragraph",
+          "text": "在使用 V 形皮帶與 V 形槽輪時,須注意下列各點: 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "1. 選用適當之槽輪配合傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 槽輪溝面必須完整無疵,槽角應照規定製作,以減少磨損,"
+        },
+        {
+          "type": "paragraph",
+          "text": "維持正常之壽命。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 裝置槽輪時,二軸必保持平行,且兩輪槽溝中心必在同一線"
+        },
+        {
+          "type": "paragraph",
+          "text": "上,並與軸成垂直。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 皮帶之張力不可過緊,否則將影響皮帶及軸承壽命。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 安裝皮帶時,先調整軸距再裝置皮帶,切勿使用工具強拉,"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "否則皮帶易損傷。"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "6. 不得使用潤滑劑,並應防止油污,保持皮帶清潔。 191"
+        },
+        {
+          "type": "heading",
+          "text": "7. 更換皮帶時,應全套同時更換,切勿新舊一起混用。 Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "三、確動皮帶 ( positive drive belt ) 及其帶輪 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱定時皮帶 ( timing belt ) 或稱正時皮帶,皮帶內側面模壓製 成等距的齒狀,同時具有平皮帶的高速傳動優點,及鏈條之高 傳達動力的特性,故常取代汽車鋼質鏈條之傳動,如常應用於 汽車引擎之正時皮帶,及車床導螺桿之傳動皮帶。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-11 192"
+        },
+        {
+          "type": "heading",
+          "text": "確動皮帶"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "及其帶輪"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "四、圓形皮帶 ( round belt ) 及其槽輪 與"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "皮帶斷面呈圓形,外觀類似繩索,配合 V 形或凹槽輪使用,適 用於輕負載之傳動,例如輕型輸送帶、腳踏縫紉機、軌道車等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "192"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-12 圓形皮帶及其槽輪"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "heading",
+          "text": "※"
+        },
+        {
+          "type": "heading",
+          "text": "7-3 皮帶的傳動方式"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩軸在空間互成 90 °,但不相交,稱為直角迴轉皮帶,皮帶離"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "paragraph",
+          "text": "開帶輪 A 之接觸點 a,稱為皮帶之退出點,皮帶進入帶輪 B 之接"
+        },
+        {
+          "type": "heading",
+          "text": "式"
+        },
+        {
+          "type": "paragraph",
+          "text": "觸點 b,稱為皮帶之進入點,若一帶輪上的皮帶之退出點與另 一帶輪上的皮帶之進入點,兩點同在帶輪之中心面上時,則皮 帶絕不會脫落,此傳達動力的理論,稱為皮帶裝置定律。改變 迴轉方向,則皮帶即自行脫落,此謂之「不可逆傳動」,若欲 使其傳動變為可逆傳動,可增設一個或數個導輪 ( guide pulley )"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "以引導帶圈移動,只要合乎皮帶裝置定律,任何角度皆可適用。"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "193"
+        },
+        {
+          "type": "paragraph",
+          "text": "此外,若需調整皮帶張力,則可加裝惰輪(張力輪)以得到適"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "當的有效拉力,利於傳送動力。"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮帶的傳動方式"
+        },
+        {
+          "type": "heading",
+          "text": "導輪"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 直角迴轉皮帶"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 可逆傳動"
+        },
+        {
+          "type": "heading",
+          "text": "回回"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7 一 13 皮帶裝置定律"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "paragraph",
+          "text": "皮帶的傳動方式依皮帶裝置於帶輪上的狀態,可分為開口帶與 帶"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "交叉帶兩種。 傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "一、開口帶 ( open belt ) 式"
+        },
+        {
+          "type": "paragraph",
+          "text": "開口帶是應用最廣的皮帶傳動方式,用於兩軸平行且轉向相同 之場合,傳動時應使皮帶的緊邊在下方,鬆邊在上方,以增大 皮帶與帶輪的接觸角,減少滑動損失(若超載時小直徑帶輪面 易先打滑),必要時可加裝張力輪,以增加傳動拉力,張力輪"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "必須安裝於皮帶鬆邊,且須靠近直徑較小之帶輪邊,其輪面中 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "間不必隆起。 194"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "可. 回"
+        },
+        {
+          "type": "heading",
+          "text": "回 • 靣"
+        },
+        {
+          "type": "heading",
+          "text": "皮帶的傳動方式"
+        },
+        {
+          "type": "heading",
+          "text": "張力輪"
+        },
+        {
+          "type": "heading",
+          "text": "一一絞肉暨磨豆機"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 應用例"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7 一 1 4 開囗帶"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "paragraph",
+          "text": "皮帶與帶輪接觸部分的弧長,稱為「接觸弧」,接觸弧對軸心 帶"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "所成的夾角即為「接觸角」,裝配時開口帶皮帶與帶輪的接觸 傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "角,大輪恆大於 180 °,小輪恆小於 180 °,但不得小於 120 °, 方"
+        },
+        {
+          "type": "heading",
+          "text": "式"
+        },
+        {
+          "type": "paragraph",
+          "text": "否則易產生滑動,滑動損失大。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "194"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-15 開口帶之接觸角"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮帶的傳動方式"
+        },
+        {
+          "type": "heading",
+          "text": "7-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 = 180。 十 2 = 180。 十 2sin ( 2 = 180。 一 2 = 180。 一 2sin ( 1 十 2 = 360。"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "heading",
+          "text": "二、交叉帶 ( crossed belt ) 帶"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "用於兩軸平行而轉向相反之場合,皮帶與帶輪的接觸角較開口 動"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "paragraph",
+          "text": "帶大,可傳達的動力亦較大,而皮帶在交叉會合處易產生磨損, 式 會影響使用壽命。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "195"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-16 交叉帶"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "paragraph",
+          "text": "裝配時,交叉帶皮帶與兩帶輪的接觸角恆相等,且必大於 180 °。 帶"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "方"
+        },
+        {
+          "type": "heading",
+          "text": "式"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "195"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-17 交叉帶之接觸角"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮帶的傳動方式"
+        },
+        {
+          "type": "heading",
+          "text": "公式"
+        },
+        {
+          "type": "heading",
+          "text": "1 D 十 d"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 = 2 = 180。 十 2 = 180。 十 2sin- ("
+        },
+        {
+          "type": "heading",
+          "text": "2C"
+        },
+        {
+          "type": "heading",
+          "text": "(XN(ENTS"
+        },
+        {
+          "type": "heading",
+          "text": "196"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮帶的傳動方式"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩平行軸上之帶輪, 其直徑分別為 20cm 及 80cm, 若二軸間距離為 60cm, 則試求: ( 1 ) 以開口帶傳動, 其大小輪之接觸度各為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 若以交叉帶傳動, 其大小輪之接觸度為多少? ( sin56.40 ="
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 D = 80cm, d = 20cm, C = 60cm"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 開口帶: 由公式 ( 7-1 )"
+        },
+        {
+          "type": "heading",
+          "text": ", 得"
+        },
+        {
+          "type": "heading",
+          "text": "D 一 d"
+        },
+        {
+          "type": "heading",
+          "text": "1 80 一 20"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 = 180。 十 2sin- ( ) = 180。 十 2sin- ( ) = 240。"
+        },
+        {
+          "type": "heading",
+          "text": "2 × 60"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "D 一 d"
+        },
+        {
+          "type": "heading",
+          "text": "80 一 20"
+        },
+        {
+          "type": "heading",
+          "text": "1 ("
+        },
+        {
+          "type": "paragraph",
+          "text": "2 = 180。 一 2sin ( ) = 180。"
+        },
+        {
+          "type": "heading",
+          "text": "一 2Sin"
+        },
+        {
+          "type": "paragraph",
+          "text": ") = 120。"
+        },
+        {
+          "type": "heading",
+          "text": "2 × 60"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 交叉帶: 由公式 ( 7 一 2 )"
+        },
+        {
+          "type": "heading",
+          "text": ", 得"
+        },
+        {
+          "type": "heading",
+          "text": "D+d"
+        },
+        {
+          "type": "heading",
+          "text": "80 十 20"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 = 180。 十 2sin-l( ) = 180。 十 2sin- ( ) = 292 · 8。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "2 × 60"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "heading",
+          "text": "7-4 皮帶長度"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "長"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "paragraph",
+          "text": "為使主動及從動帶輪能藉由帶圈之聯動得以傳達動力,適當的 皮帶長度是動力傳達極重要的因素。"
+        },
+        {
+          "type": "heading",
+          "text": "一、直接測量"
+        },
+        {
+          "type": "paragraph",
+          "text": "用帶尺直接繞兩帶輪(外徑)以量得某一長度,再以量得之長 度每 3 公尺長減去 2.54 公分(或每 10 呎長減去 1 吋),主要作為 皮帶受力伸長之緩衝。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "197"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "heading",
+          "text": "二、公式計算 帶"
+        },
+        {
+          "type": "heading",
+          "text": "長"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "paragraph",
+          "text": "用公式計算皮帶之長度的方法,開口帶與交叉帶又有不同, 分述於下。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 開口帶"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "197"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 交叉帶 帶"
+        },
+        {
+          "type": "heading",
+          "text": "長"
+        },
+        {
+          "type": "heading",
+          "text": "度"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 交叉帶與開口帶之差"
+        },
+        {
+          "type": "paragraph",
+          "text": "若兩輪直徑及中心距皆為相同規格時,以交叉帶傳動之帶長會"
+        },
+        {
+          "type": "heading",
+          "text": "較開口帶傳動之帶長來得長,其差值為"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "198"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮帶長度"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩平行軸上之帶輪, 其主動輪之直徑為 160mm, 從動輪為 40mm, 二軸間距離為 60cm, 試求: ( 1 ) 以開口帶傳動時, 其皮帶長度應為多少 cm? ( 2 ) 以交叉帶傳動時, 其皮帶長度應為多少 cm? ( 3 ) 交叉帶較開口帶長多少 cm · 已知 D = 160mm, d = 40mm, C = 60cm = 600mm ( 1 ) 開口帶: 由公式 ( 7 一 3 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "(D 一 d)2"
+        },
+        {
+          "type": "heading",
+          "text": "一 (D 十 d) 十 2C 十"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4C"
+        },
+        {
+          "type": "heading",
+          "text": "( 160 一 40 ) 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "一 ( 160 十 40 ) 十 2 × 600 十"
+        },
+        {
+          "type": "heading",
+          "text": "4 × 600"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 314 十 1200 十 6 = 1520mm = 152cm"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮帶長度"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 交叉帶: 由公式 ( 7 一 4 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "(D 十 d)2"
+        },
+        {
+          "type": "heading",
+          "text": "一 (D 十 d) 十 2C 十"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4C"
+        },
+        {
+          "type": "heading",
+          "text": "( 160 十 40 ) 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "一 ( 160 十 40 ) 十 2 × 600 十"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4 × 600"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 314 十 1200 十 16 · 67 = 1530 · 67mm = 153 · 067cm ( 3 ) 交叉帶與開口帶之差: 由公式 ( 7 一 5 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "D × d"
+        },
+        {
+          "type": "heading",
+          "text": "160 十 40"
+        },
+        {
+          "type": "heading",
+          "text": "△ L ="
+        },
+        {
+          "type": "heading",
+          "text": "= 10 · 67mm = 1 · 067cm"
+        },
+        {
+          "type": "heading",
+          "text": "C"
+        },
+        {
+          "type": "heading",
+          "text": "600"
+        },
+        {
+          "type": "heading",
+          "text": "( 或 △ L = L"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 1530 · 67 一 1520 = 10 · 67mm = 1 · 067cm )"
+        },
+        {
+          "type": "heading",
+          "text": "交叉帶一開囗帶"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "7-5 塔輪與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "一、速比 比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "速比是兩傳動輪傳動時的轉速比,設輪 A 迴轉速為 N;輪 B 迴"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "N B"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉速為 N,則輪 A 對輪 B 的速比=。"
+        },
+        {
+          "type": "heading",
+          "text": "B"
+        },
+        {
+          "type": "heading",
+          "text": "N A"
+        },
+        {
+          "type": "heading",
+          "text": "不論傳動方式為開口帶或"
+        },
+        {
+          "type": "heading",
+          "text": "交叉帶,均可得下列相同"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "結果:"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "200"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-18 帶輪之速比"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 無滑動且考慮皮帶厚度之速比 輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 無滑動且不考慮皮帶厚度之速比"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "201"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 有滑動且考慮皮帶厚度之速比 輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "當兩帶輪旋轉時,皮帶與帶輪間或多或少,常有若干滑動,"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般允許之滑動率 ( S ) 約 2 ~ 3%。"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 有滑動且不考慮皮帶厚度之速比"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "201"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔輪與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "有兩皮帶輪, 小輪 A 之直徑為 23 · 5cm, 其轉速為 360 卬 m, 另一大輪 B 之直徑為 35 · 5cm, 若皮帶厚度為 5mm, 不計滑動時, 試求大輪 B 之迴轉數為多少 rpm 解已知 DA = 23 · 5cm, NA = 360rpm, DB = 35 · 5cm, t = 5mm = 0.5cm"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 7-6 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "NB DA+t 23 · 5 十 0 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "24 NB"
+        },
+        {
+          "type": "paragraph",
+          "text": "NA 一 DB+t 一 35 · 5 十 0 · 5 一 36 一 360"
+        },
+        {
+          "type": "heading",
+          "text": "NB = 240rpm"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔輪與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉速為 160 卬 m 之軸 A 上, 有一皮帶輪 A 直徑為 30cm, 以皮帶傳達動力至軸 B 上之皮 帶輪 B, 轉速為 200rpm, 若不計滑動, 試求皮帶輪 B 之直徑為多少 cm? 解已知 NA = 160 卭 m, DA = 30cm, NB = 200rpm"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 7-7 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "NB DA 200"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "NA 一 DB 一 160 一 DB"
+        },
+        {
+          "type": "heading",
+          "text": "DB = 24cm"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "二、塔輪 輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "由若干不同直徑且依大小順序製成一體,形成階級狀者,稱為 比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "paragraph",
+          "text": "塔輪 ( stepped pulley ),又稱階級輪,塔輪依層級數而稱之, 紹 如有三種不同直徑時,稱為三級塔輪。塔輪傳動是利用皮帶傳 動的一種變速機構,其皮帶長度及軸間距離皆為一定值,且塔 輪各級轉速間之關係,以採用等比級數者為多。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "203"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "paragraph",
+          "text": "帶輪傳動機構中以塔輪機構最常被使用,而 V 形塔輪大都使用 輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "於傳統式工作母機上,如銑床、鑽床上之變速機構。 速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "203"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-19 塔輪"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 塔輪之變速 輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉速與直徑成反比。"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "203"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-20 塔輪之變速"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "皮帶在主動軸 A 上的輪徑由小變大,在從動軸 B 上的輪徑由大 變小,主動軸之轉數維持 N,則從動軸之轉速 n 變快,故塔輪"
+        },
+        {
+          "type": "heading",
+          "text": "x"
+        },
+        {
+          "type": "paragraph",
+          "text": "隨階級直徑不同可得不同之轉速,以達到變速的目的。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "204"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 塔輪之類型 輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "塔輪依傳動方式可分為「開口帶塔輪」、「交叉帶塔輪」及"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "「相等塔輪」三種,分述於下:"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "1. 開口帶塔輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "塔輪在變速時,皮帶只是變換位置,皮帶長度恆保持相等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "204"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "51"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "解此聯立方程式,即可求得兩軸上各輪之直徑。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "205"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "2. 交叉帶塔輪 輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "heading",
+          "text": "交叉帶塔輪除了主動"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "heading",
+          "text": "軸與從動軸之轉向不"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "heading",
+          "text": "同,此特性與開口帶"
+        },
+        {
+          "type": "heading",
+          "text": "相異外,其餘解法均"
+        },
+        {
+          "type": "paragraph",
+          "text": "與開口帶類似。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "205"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-21 交叉帶塔輪"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔輪與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "7-12"
+        },
+        {
+          "type": "heading",
+          "text": "D1+d1 Dx+dx•"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "例題 7-5"
+        },
+        {
+          "type": "heading",
+          "text": "塔輪與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 7-22 所示為三級交叉帶塔"
+        },
+        {
+          "type": "heading",
+          "text": "輪, 若主動軸 A 轉速 300rpm, 從"
+        },
+        {
+          "type": "heading",
+          "text": "E89 II 一 0"
+        },
+        {
+          "type": "heading",
+          "text": "動軸 B 各階轉速分別為 900 卬 m"
+        },
+        {
+          "type": "heading",
+          "text": "N = 300 卬 m"
+        },
+        {
+          "type": "paragraph",
+          "text": "450 卬 m 及 100rpm, 兩軸中心距 C"
+        },
+        {
+          "type": "heading",
+          "text": "為 60cm, DI = 60cm, 試求各階塔"
+        },
+        {
+          "type": "heading",
+          "text": "E009 II"
+        },
+        {
+          "type": "heading",
+          "text": "輪之直徑分別為多少 cm?"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "三級交叉帶塔輪"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-22"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "5 5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "已知 N = 300rpm, nl = 900 卬 m, n2 = 450 卬 m, n3 = 100rpm, C = 60cm,"
+        },
+        {
+          "type": "heading",
+          "text": "塔輪與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "D 1 = 60cm"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 7 一 10 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "dl"
+        },
+        {
+          "type": "heading",
+          "text": "300"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "· · dl = 20cm"
+        },
+        {
+          "type": "heading",
+          "text": "nl 一 DI 一 900 一 60"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 由公式 ( 7 一 12 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "60 十 20 = D2 十 d2..."
+        },
+        {
+          "type": "heading",
+          "text": "300 d2"
+        },
+        {
+          "type": "heading",
+          "text": "450 一 D2"
+        },
+        {
+          "type": "paragraph",
+          "text": "解 O@聯立方程式, 得 D2 = 48cm, d2"
+        },
+        {
+          "type": "heading",
+          "text": "= 32cm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 3 ) 同理, 由公式 ( 7-12 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "60 十 20 = D3 十 d3..."
+        },
+        {
+          "type": "heading",
+          "text": "300 d3"
+        },
+        {
+          "type": "heading",
+          "text": "100 D3"
+        },
+        {
+          "type": "heading",
+          "text": "解聯立方程式, 得 D3 = 20cm, d3"
+        },
+        {
+          "type": "heading",
+          "text": "= 60cm"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "56"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "3. 相等塔輪 輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "速"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了製造與應用之便利性,將主動塔輪與從動塔輪製成大小"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "heading",
+          "text": "介"
+        },
+        {
+          "type": "paragraph",
+          "text": "形狀完全相同狀,唯裝置時相互倒置,稱此輪組為相等塔輪"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "( equal stepped pulley )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "207"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔輪與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "7-13"
+        },
+        {
+          "type": "heading",
+          "text": "7-14"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "7-15"
+        },
+        {
+          "type": "heading",
+          "text": "N = n3"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p058.jpg"
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "當使用一組相等塔輪時,主動軸之轉速平方 ( N ),為從動塔 輪"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪中間輪兩邊相對稱位置之轉速的乘積 (如 n × n 或 n × n ), 速"
+        },
+        {
+          "type": "heading",
+          "text": "1 5 2 4"
+        },
+        {
+          "type": "heading",
+          "text": "比"
+        },
+        {
+          "type": "paragraph",
+          "text": "或稱主動軸之轉速 ( N ) 為從動塔輪中間輪兩邊相對稱位置之 介"
+        },
+        {
+          "type": "heading",
+          "text": "紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉速的比例中項,此外從動塔輪中間輪之轉速 (如 n ),會等"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "於主動軸之轉速 ( N )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "208"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "塔輪與速比介紹"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-6"
+        },
+        {
+          "type": "heading",
+          "text": "如"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示為相對等五級塔輪, 主動軸轉速 200rpm, 從動軸最低轉速 160 卬 m, 若"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-23"
+        },
+        {
+          "type": "paragraph",
+          "text": "塔輪各階之轉速成等比級數, 試求從動軸上各階塔輪轉速為若干 rpm? 已知 N = 200rpm, n5 = 160rpm ( 1 ) 由公式 ( 7 一 13 ), 得 N2 = nl × n5 = nl × 160 = 200"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "· nl = 250rpm"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 由公式 ( 7 一 15 ), 得 N=m=200rpm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "n3 一"
+        },
+        {
+          "type": "heading",
+          "text": "( 3 ) 因從動塔輪各階之轉速成等比級數, 故"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "250 × 200 = 100、 / 卬 m"
+        },
+        {
+          "type": "heading",
+          "text": "則 n2 ="
+        },
+        {
+          "type": "heading",
+          "text": "lll ×"
+        },
+        {
+          "type": "heading",
+          "text": "200 × 160 = 80 5 rpm"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "heading",
+          "text": "※"
+        },
+        {
+          "type": "heading",
+          "text": "7-6 皮帶傳動之功率"
+        },
+        {
+          "type": "heading",
+          "text": "帶"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩帶輪靜止時,取適長皮帶以適當之拉力繞於兩帶輪上,皮帶"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "與帶輪之間產生一定的摩擦力,以防止滑動,此時帶圈各部皆 率 有一定的張力,謂之初張力。當皮帶傳動時,帶輪 A 為主動輪, 以順時針旋轉,皮帶下邊 a 為緊邊,此時皮帶產生之力稱之緊 邊張力 ( tight side tension ),主要用於傳達動力,皮帶上邊 b 為 鬆邊,其皮帶產生之力稱鬆邊張力 ( loose side tension ),僅用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "於維持皮帶運轉,並不能傳達動力。"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "209"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-24 皮帶傳動"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "paragraph",
+          "text": "若皮帶之初張力為 T,緊邊張力為 T,鬆邊張力為 T,則 T > 帶"
+        },
+        {
+          "type": "heading",
+          "text": "0 1 2 1"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "T > T,而皮帶的總拉力 ( total pull ),為緊邊張力與鬆邊張力 動"
+        },
+        {
+          "type": "heading",
+          "text": "0 2"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "paragraph",
+          "text": "之和,常以 P 表示,即 P = T + T。而皮帶的有效拉力 ( effective 功"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "paragraph",
+          "text": "pull of the belt ),則為緊邊張力與鬆邊張力之差,常以 T 表示,"
+        },
+        {
+          "type": "heading",
+          "text": "e"
+        },
+        {
+          "type": "paragraph",
+          "text": "即 T = T - T。"
+        },
+        {
+          "type": "heading",
+          "text": "e 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "皮帶傳達功率之大小與有效拉力及線速度有關,"
+        },
+        {
+          "type": "paragraph",
+          "text": "T:有效拉力。 V:皮帶線速度。"
+        },
+        {
+          "type": "heading",
+          "text": "e 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "T 1:緊邊張力。 D:主動輪之直徑。 數"
+        },
+        {
+          "type": "heading",
+          "text": "209"
+        },
+        {
+          "type": "paragraph",
+          "text": "T:鬆邊張力。 N:主動軸之轉速。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "heading",
+          "text": "一、瓦特 帶"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 瓦特 ( W ) = 1 牛頓 - 公尺 / 秒 ( N-m/sec ), 之"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "1000W (瓦特) = 1kW (仟瓦特)。 率"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位: F、 T、 T、 T:牛頓 ( N );"
+        },
+        {
+          "type": "heading",
+          "text": "e 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:公尺 / 秒 ( m/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "D:公尺 ( m );"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:每分鐘轉數 ( rpm )。"
+        },
+        {
+          "type": "heading",
+          "text": "63"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p063.jpg"
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "heading",
+          "text": "二、公制馬力 帶"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 公制馬力 ( PS ) = 75 公斤力 - 公尺 / 秒 ( kgf-m/sec )。 之"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位: F、 T、 T、 T:公斤力 ( kgf );"
+        },
+        {
+          "type": "heading",
+          "text": "e 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:公尺 / 秒 ( m/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "D:公尺 ( m );"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:每分鐘轉數 ( rpm )。"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p064.jpg"
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮"
+        },
+        {
+          "type": "paragraph",
+          "text": "皮帶傳達功率之大小,與有效拉力 T 及皮帶線速度 V 成正比, 帶"
+        },
+        {
+          "type": "heading",
+          "text": "e"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "paragraph",
+          "text": "故 T 與 T 之差值愈大,皮帶速度 V 愈快,可傳達之馬力亦愈大, 動"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "paragraph",
+          "text": "但 T、 T 之差值亦不可過大,根據實驗結果, T: T = 7: 3 為 功"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "率"
+        },
+        {
+          "type": "heading",
+          "text": "T 1"
+        },
+        {
+          "type": "heading",
+          "text": "μθ"
+        },
+        {
+          "type": "paragraph",
+          "text": "最適宜,其理論來源為 = e,其中 e 為自然對數, μ 為皮帶與"
+        },
+        {
+          "type": "heading",
+          "text": "T 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "帶輪間之摩擦係數, θ 為以弳度表示之接觸角。"
+        },
+        {
+          "type": "heading",
+          "text": "影響皮帶傳達功率大小之因素有:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 皮帶本身之強度。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "2. 皮帶與帶輪間之摩擦力。 數"
+        },
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "3. 皮帶運行之速度。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "65"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮帶傳動之功率"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一皮帶輪傳動機構, 主動輪直徑為 30cm, 轉速為 1000rpm, 緊邊張力為 300 牛頓, 鬆邊張力為 100 牛頓, 試求: ( 1 ) 有效拉力為若干牛頓? ( 2 ) 可傳遞之功率為若干仟瓦"
+        },
+        {
+          "type": "heading",
+          "text": "特?"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知 D = 30cm = 0 · 3m, N = 1000 卬 m, TI = 300N, T2 = 100N ( 1 ) = TI 一 T2 = 300 一 100 = 200N"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 由公式 ( 7 一 16 ), 得"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 300 一 100 ) × × 0 · 3 × 1000"
+        },
+        {
+          "type": "heading",
+          "text": "Watt ="
+        },
+        {
+          "type": "heading",
+          "text": "= 3 · 14kW"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "66"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p066.jpg"
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "皮帶傳動之功率"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一皮帶傳動機構, 主動輪直徑為 30cm, 轉速為 600 卬 m, 緊邊張力為 125 公斤重, 鬆邊張力為 25 公斤重, 試求: ( 1 ) 有效拉力為若干牛頓? ( 2 ) 可傳遞之功率為若干馬"
+        },
+        {
+          "type": "heading",
+          "text": "力?"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 D = 30cm = 0 · 3m, N = 600 卬 m, TI = 125kgf, T2 = 25kgf ( 1 ) = T1—T2 = 125 一 25 = 100kgf= 980N"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 由公式 ( 7 一 17 ), 得"
+        },
+        {
+          "type": "paragraph",
+          "text": "(T1—T2)>< 7tDN 一 ( 125 一 25 ) × × 0 · 3 × 600"
+        },
+        {
+          "type": "heading",
+          "text": "= 4 = 12 · 56 馬力"
+        },
+        {
+          "type": "heading",
+          "text": "PS ="
+        },
+        {
+          "type": "heading",
+          "text": "75 × 60"
+        },
+        {
+          "type": "heading",
+          "text": "75 × 60"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p067.jpg"
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩"
+        },
+        {
+          "type": "heading",
+          "text": "※"
+        },
+        {
+          "type": "heading",
+          "text": "7-7 繩輪傳動"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩軸之間以繩索為中間連接物來傳達動力的方式,稱為繩輪傳 動,或稱繩索傳動,傳達動力大小,可由增加或減少繩索數目 來控制,常用於電梯(升降梯)、纜車、採礦設備等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "211"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p068.jpg"
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩"
+        },
+        {
+          "type": "heading",
+          "text": "一、繩索種類 輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "一般常用的繩索分為下列兩類:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 纖維繩"
+        },
+        {
+          "type": "paragraph",
+          "text": "用植物之纖維或動物毛髮絞合而成,多用於動力傳達、物品綑 綁、室內或不受風雨浸蝕之處。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "212"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "69"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p069.jpg"
+    },
+    {
+      "page": 70,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 鋼絲繩 輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "或稱鋼纜,鋼絲繩繩心之材料主要為麻,由若干鋼絲扭合成股, 每股之斷面為接近圓形花瓣狀,再由若干股絞而合成。鋼絲繩 規格以股數 × 鋼絲數表示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "212"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-25 鋼絲繩"
+        },
+        {
+          "type": "heading",
+          "text": "70"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p070.jpg"
+    },
+    {
+      "page": 71,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩輪傳動"
+        },
+        {
+          "type": "heading",
+          "text": "表 7-3"
+        },
+        {
+          "type": "heading",
+          "text": "鋼絲繩的規格及表示法"
+        },
+        {
+          "type": "heading",
+          "text": "號別"
+        },
+        {
+          "type": "heading",
+          "text": "3 號"
+        },
+        {
+          "type": "heading",
+          "text": "4 號"
+        },
+        {
+          "type": "heading",
+          "text": "5 號"
+        },
+        {
+          "type": "heading",
+          "text": "橫剖圖"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "6 股 7 絲"
+        },
+        {
+          "type": "heading",
+          "text": "6 股 12 絲"
+        },
+        {
+          "type": "heading",
+          "text": "6 股 19 絲"
+        },
+        {
+          "type": "heading",
+          "text": "6 股 24 絲"
+        },
+        {
+          "type": "heading",
+          "text": "6 股 30 絲"
+        },
+        {
+          "type": "heading",
+          "text": "組織"
+        },
+        {
+          "type": "heading",
+          "text": "1 纖維心"
+        },
+        {
+          "type": "heading",
+          "text": "7 纖維心"
+        },
+        {
+          "type": "heading",
+          "text": "1 纖維心"
+        },
+        {
+          "type": "heading",
+          "text": "7 纖維心"
+        },
+        {
+          "type": "heading",
+          "text": "7 纖維心"
+        },
+        {
+          "type": "heading",
+          "text": "規格"
+        },
+        {
+          "type": "heading",
+          "text": "6 × 7"
+        },
+        {
+          "type": "heading",
+          "text": "6 × 12"
+        },
+        {
+          "type": "heading",
+          "text": "6 × 19"
+        },
+        {
+          "type": "heading",
+          "text": "6 × 24"
+        },
+        {
+          "type": "heading",
+          "text": "6 × 30"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "71"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p071.jpg"
+    },
+    {
+      "page": 72,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩"
+        },
+        {
+          "type": "heading",
+          "text": "二、繩輪的型式 輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "可分為 V 形槽、 U 形槽(或稱圓形槽),及底部嵌入形溝槽等 三種, V 形槽之夾角,英國制為 30 °,美國制為 45 °,目的在增 加繩與繩輪槽間之摩擦力,增大傳送功率。在應用上,槽輪直 徑比繩直徑須大 40 倍(鋼絲繩 100 倍)以上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "212"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-26 繩輪的型式"
+        },
+        {
+          "type": "heading",
+          "text": "72"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p072.jpg"
+    },
+    {
+      "page": 73,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩"
+        },
+        {
+          "type": "heading",
+          "text": "三、繩索纏繞方法 輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "一般常用的纏繞方法分為下列兩種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 單繩制"
+        },
+        {
+          "type": "heading",
+          "text": "又稱連續制,或稱美國制,"
+        },
+        {
+          "type": "heading",
+          "text": "可作平行軸、相交軸或不平"
+        },
+        {
+          "type": "heading",
+          "text": "行也不相交之兩軸線之傳動,"
+        },
+        {
+          "type": "heading",
+          "text": "此纏繞法之繩索張力均勻,"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用張力輪可調整繩索之張力。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "213"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-27 單繩制纏繞法"
+        },
+        {
+          "type": "heading",
+          "text": "73"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p073.jpg"
+    },
+    {
+      "page": 74,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 多繩制 輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱個體制,或稱英國制,優點為若有少數繩索斷裂,仍可繼 續運轉,且一個主動輪,可同時傳送遠、近、高、低的數個平 行軸從動輪,可傳送較大的動力。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "213"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 7-28 多繩制纏繞法"
+        },
+        {
+          "type": "heading",
+          "text": "74"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p074.jpg"
+    },
+    {
+      "page": 75,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩"
+        },
+        {
+          "type": "heading",
+          "text": "四、繩索傳動之功率 輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "繩索傳動與皮帶傳動類似,功率之計算方法亦類似,唯繩索數 量為計算要件之一。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "75"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p075.jpg"
+    },
+    {
+      "page": 76,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 瓦特 輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 瓦特 ( W ) = 1 牛頓 - 公尺 / 秒 ( N-m/sec ), 1000W (瓦特) = 1kW (仟瓦特)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位: T、 T、 T:每一繩圈之牛頓 ( N/n );"
+        },
+        {
+          "type": "heading",
+          "text": "e 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:公尺 / 秒 ( m/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "D:公尺 ( m );"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:每分鐘轉數 ( rpm )。"
+        },
+        {
+          "type": "heading",
+          "text": "76"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p076.jpg"
+    },
+    {
+      "page": 77,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 公制馬力 輪"
+        },
+        {
+          "type": "heading",
+          "text": "傳"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義: 1 公制馬力 ( PS ) = 75 公斤力 - 公尺 / 秒 ( kgf-m/sec )。"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位: T、 T、 T:每一繩圈之公斤力 ( kgf/n );"
+        },
+        {
+          "type": "heading",
+          "text": "e 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "V:公尺 / 秒 ( m/sec ); 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "D:公尺 ( m );"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:每分鐘轉數 ( rpm )。"
+        },
+        {
+          "type": "heading",
+          "text": "77"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p077.jpg"
+    },
+    {
+      "page": 78,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繩輪傳動"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一繩索傳動機構, 主動繩輪以 3 條繩圈帶動機構, 主動繩輪直徑為 50cm, 轉速為 200 卬 m, 每一繩圈之緊邊張力為 400 牛頓, 鬆邊張力為 200 牛頓, 試求: ( 1 ) 有效拉 力為若干牛頓? ( 2 ) 可傳遞之功率為若干仟瓦特? 解已知 n = 3, D = 50cm = 0 · 5m, N = 200rpm, TI = 400N, T2 = 200N ( 1 ) = TI 一 T2 = 400 一 200 = 200N"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 由公式 ( 7 一 18 ), 得"
+        },
+        {
+          "type": "paragraph",
+          "text": "(T1—T2)><n>< 7tDN 一 ( 400 一 200 ) × 3 × × 0.5 × 200"
+        },
+        {
+          "type": "heading",
+          "text": "Watt ="
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "= 3140w = 3 · 14kW"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "78"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p078.jpg"
+    },
+    {
+      "page": 79,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "79"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch07/p079.jpg"
+    }
+  ]
+}

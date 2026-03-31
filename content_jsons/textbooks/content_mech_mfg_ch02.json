@@ -1,0 +1,1249 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH02",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH02",
+    "title": "CH2"
+  },
+  "title": "機械製造 Chapter 2 材料與加工",
+  "source_pdf": "機械製造/CH2PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH02",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "材料與加工"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "2-1 材料的分類"
+        },
+        {
+          "type": "heading",
+          "text": "2-2 材料的規格"
+        },
+        {
+          "type": "heading",
+          "text": "2-3 主要機械材料的加工性"
+        },
+        {
+          "type": "heading",
+          "text": "2-4 材料的選用"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "34"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料的選用攸關產品的好壞,機械製造所用之材料種類不勝枚舉,從早期由原礦提煉 之材料如鐵、銅、鋁及鋅等金屬,到近期之綜合材料如塑膠、化學纖維等均是。人造的綜 合材料有逐漸取代金屬之趨勢,但傳統性的金屬材料已與人類有了數千年的關係,而且有 其特殊優點,如強度高、耐熱性好、價格低廉、容易切削及易成形等,故可預見的將來仍 有其重要性,而為製造工業中的主要材料。"
+        },
+        {
+          "type": "heading",
+          "text": "2-1 材料的分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "不同的材料其性質存在著相當大的差異,且加工特性亦不相同,所以從事機械製造的 人員,必須對機械材料有進一步的了解,才能在從事設計工作及選用加工方法時,做最有 利的抉擇。 機械材料大致可分為金屬材料及非金屬材料兩大類。金屬材料分為 鐵金屬 (Ferrous Metals) 及 非鐵金屬 (Nonferrous Metals)。鐵金屬因為具有強度高、耐衝擊、耐久性高、 尺度穩定不易變形、價格便宜、取得方便及容易加工處理等優點,故機械構件大都以鐵金 屬製成。 非金屬材料可分為有機材料與無機材料。有機類材料含有動植物細胞或碳元素,例如 木材、橡膠、合成樹脂、皮革、瀝青與油漆等,可溶解於酒精、四氯化碳等有機液体中, 但不溶解於水。無機類例如玻璃、陶瓷、黏土、石墨、石材、塗料與混凝土,耐熱性較有 機材料佳。 圖 2-1 為機械材料的簡易分類。 金屬材料依是否含有合金元素,可分為純金屬與合金。 純金屬具有下列通性:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 比重大於 1:比重在 1 ∼ 4 之間為輕金屬,大於 4 為重金屬,也有一些特例,像鋰、"
+        },
+        {
+          "type": "paragraph",
+          "text": "鈉與鉀之比重就小於 1。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 具有金屬的光澤。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 高溫皆能熔化,鎢的熔點最高 (3,410 °C ),普通金屬中,錫的熔點最低 (232 °C )。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 為電與熱的良導體,導電性高低依序為銀、銅、金、鋁。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 具有優異的機械性質。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 常溫除汞 ( 水銀 ) 之外皆為固體。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 一般多成鹼性反應:一般氧化物或氫氧化物材料若能溶於水中,多呈鹼性反應。鈹、"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋁、鉻等三種金屬溶於水中酸鹼兩性反應,屬於兩性元素。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch02/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2"
+        },
+        {
+          "type": "heading",
+          "text": "純鐵"
+        },
+        {
+          "type": "heading",
+          "text": "鑄鐵"
+        },
+        {
+          "type": "heading",
+          "text": "金屬材料"
+        },
+        {
+          "type": "heading",
+          "text": "白合金"
+        },
+        {
+          "type": "heading",
+          "text": "機械材料"
+        },
+        {
+          "type": "heading",
+          "text": "非金屬材料"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 2 一 1"
+        },
+        {
+          "type": "heading",
+          "text": "鐵類"
+        },
+        {
+          "type": "heading",
+          "text": "非鐵類"
+        },
+        {
+          "type": "heading",
+          "text": "有機類"
+        },
+        {
+          "type": "heading",
+          "text": "無機類"
+        },
+        {
+          "type": "heading",
+          "text": "機械材料分類"
+        },
+        {
+          "type": "heading",
+          "text": "材料與加工"
+        },
+        {
+          "type": "heading",
+          "text": "碳鋼"
+        },
+        {
+          "type": "heading",
+          "text": "合金鋼"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        },
+        {
+          "type": "heading",
+          "text": "木材"
+        },
+        {
+          "type": "heading",
+          "text": "橡膠"
+        },
+        {
+          "type": "heading",
+          "text": "合成樹脂"
+        },
+        {
+          "type": "heading",
+          "text": "皮革"
+        },
+        {
+          "type": "heading",
+          "text": "玻璃"
+        },
+        {
+          "type": "heading",
+          "text": "陶瓷材料"
+        },
+        {
+          "type": "heading",
+          "text": "黏土製品"
+        },
+        {
+          "type": "heading",
+          "text": "石墨"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch02/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "36"
+        },
+        {
+          "type": "paragraph",
+          "text": "合金是金屬與一種或多種金屬或非金屬元素所組成,具有下列通性:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 熔點比成分金屬低:伍德氏合金是鉛、錫、鉍、鎘之合金,熔點僅 60 ∼ 70 °C,又"
+        },
+        {
+          "type": "paragraph",
+          "text": "名易熔合金,常作為保險絲、可燃氣體鋼瓶與鍋爐等之安全性零件材料。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 強硬度較大。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 導電與導熱性比成分金屬低。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 除了少數合金 ( 如印刷鉛字的鉍 (Sb)) 外,體積在熔化時會增大。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 耐蝕性高,不易氧化。"
+        },
+        {
+          "type": "heading",
+          "text": "以下進一步介紹各種金屬材料:"
+        },
+        {
+          "type": "heading",
+          "text": "一、鐵金屬"
+        },
+        {
+          "type": "heading",
+          "text": "以鐵元素為主,包括純鐵和碳鋼、合金鋼及鑄鐵:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 純鐵和鋼"
+        },
+        {
+          "type": "paragraph",
+          "text": "純鐵 (Pure Iron) 含碳量低於 0.02%,可用電解法製造,但是成本昂貴。性質很軟,不 適用於在有強度需求的結構上,一般僅用於電氣材料及實驗室等場合使用。 含碳量 0. 02 % ~ 2. 0 % 之鐵碳合金稱為碳鋼。含碳量 0. 25 % 以下者稱為低碳鋼,為構 造用鋼;含碳量在 0. 3 % ~ 0. 55 % 者稱為中碳鋼,可用來製造機軸和齒輪; 含碳量在 0. 6 % 以上者稱為高碳鋼,可用來製造彈簧、模具、切削工具等。通常 抗拉強度、降伏強度和硬 度等隨著含碳量增加而增加,但延展性恰好相反,含碳量愈高,延展性愈低。 普通碳鋼的價格相當低廉,但卻有下列的缺點: (1) 被強化到 690MPa 以上時,其延展 性及耐衝擊性會明顯的降低; (2) 硬化深度有限,對於大型工件無法完全產生麻田散體組織; (3) 耐蝕性與抗氧化性欠佳; (4) 中碳鋼必須快速冷卻淬火才可獲得完全的麻田散體組織, 但是冷卻速度太快卻可能導致熱處理工作的扭曲或變形; (5) 低溫耐衝擊性極差。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "可燃氣體鋼瓶 P209"
+        },
+        {
+          "type": "paragraph",
+          "text": "乙炔氣瓶採用銲接鋼瓶,氧氣瓶採用無縫鋼瓶。在瓶底或肩部裝置低熔點合金製成之安全熔塞,當 溫度超過時,安全熔塞自動熔化,使瓶內乙炔氣外逸,而防止鋼瓶之爆炸。"
+        },
+        {
+          "type": "heading",
+          "text": "麻田散體組織 P270"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋼料由 A1 變態線上方急冷,變態後可得到麻田散體的硬化組織。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 材料與加工 37"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 合金鋼"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了克服碳鋼的缺點,通常會在碳鋼中加入合金元素成為合金鋼來改善其性質。各種 合金元素對材料性質的影響如表 2-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 2-1 鋼中合金元素的效果比較"
+        },
+        {
+          "type": "heading",
+          "text": "元素 效果"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 強的脫氧劑; (2) 抑制結晶粒成長 ( 形成分散氧化物或氮化物 ); (3) 氮化鋼的合"
+        },
+        {
+          "type": "heading",
+          "text": "Al"
+        },
+        {
+          "type": "paragraph",
+          "text": "金元素。 (1) 腐蝕及氧化抵抗性增加; (2) 硬化能增加; (3) 高溫強度增加; (4)( 高碳鋼 ) 耐磨"
+        },
+        {
+          "type": "heading",
+          "text": "Cr"
+        },
+        {
+          "type": "paragraph",
+          "text": "耗性增加。 Co (1) 硬化肥粒體使鋼具有高溫硬度; (2) 降低硬化能。 Mn (1) 防止硫造成的脆性; (2) 增加硬化能。 (1) 使沃斯田體的粗大化溫度上昇; (2) 使硬化層深入; (3) 防止回火脆性; (4) 高溫強度、"
+        },
+        {
+          "type": "heading",
+          "text": "Mo"
+        },
+        {
+          "type": "paragraph",
+          "text": "潛變溫度、高溫硬度增加; (5) 使不鏽鋼的腐蝕抵抗性增加; (6) 形成耐磨耗粒子。 (1) 使鋼之淬火回火韌性增加; (2) 使波來體及肥粒體鋼的韌性增高; (3) 使高 Cr-Fe"
+        },
+        {
+          "type": "heading",
+          "text": "Ni"
+        },
+        {
+          "type": "paragraph",
+          "text": "合金變成沃斯田體組織。 P (1) 增加低碳鋼的抗拉強度; (2) 腐蝕抵抗性增加; (3) 改良易削鋼的機械加工性。 (1) 為常用的脫氧劑; (2) 電磁鐵板用合金; (3) 使鋼氧化抵抗性優良; (4) 略使鋼的"
+        },
+        {
+          "type": "heading",
+          "text": "Si"
+        },
+        {
+          "type": "paragraph",
+          "text": "硬化能增加; (5) 使低合金鋼的強度增加。 W (1) 使工具鋼內生成硬而耐磨耗性粒子 ( 碳化鎢, WC); (2) 增進高溫硬度及強度。 (1) 使沃斯田體晶粒粗大化溫度昇高 ( 促使晶粒微細 ); (2) 增加硬化能 ( 固溶時 ); (3)"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "paragraph",
+          "text": "抵抗回火軟化及使回火時產生二次硬化。 Cu (1) 耐蝕性、強度增加; (2) 使高合金耐酸鋼的性能增強。"
+        },
+        {
+          "type": "heading",
+          "text": "例如 不鏽鋼為鐵、鉻、碳三元合金鋼,其中鉻氧化成"
+        },
+        {
+          "type": "paragraph",
+          "text": "為氧化鉻薄膜,有很好的抗蝕性,所以不鏽鋼的耐蝕性與 含鉻量成正比。含鉻 12% 以下者稱為耐蝕鋼,以上者稱為 不鏽鋼。 常見的 18-8 型不鏽鋼含約 18% 之鉻與約 8% 之鎳。 如圖 2-2 所示之不鏽鋼雕塑品,可長年保持光亮之外表。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-2 不鏽鋼雕塑"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch02/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "38"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 鑄鐵"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄鐵之含碳量為 2. 0 ~ 6. 67 %,常用者含碳量約 2.5 ∼ 4.5%。依組織之差異,可將鑄 鐵可分為白鑄鐵、灰鑄鐵、可鍛鑄鐵及延性鑄鐵。 含矽量適當且冷卻速度慢時,碳成獨立之片狀石墨存在,截面呈灰黑色,稱為灰鑄鐵。 灰鑄鐵的典型用途,如:汽車引擎體、電動馬達外殼、管路及機械磨耗面。 工具機的床座 必須具有良好的吸震能力 ( 制震能 ),以便吸收切削過程所產生的震動。石墨呈片狀的灰鑄 鐵吸震能力比球狀石墨鑄鐵高,所以是製造床座最廣用的材料,如圖 2-3 所示者為 CNC 車 床之床身鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-3 CNC 車床床身鑄件"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄鐵的冷卻速度越快,越容易得到網狀的雪明碳鐵組織 ( 碳與鐵化合成碳化鐵 ),截面 呈銀白色,硬度極高,稱為白鑄鐵。 由於白鑄鐵的硬度高,主要用來製造滾軋機的滾子及 鐵道車輛的剎車片。 將白鑄鐵退火可得展性鑄鐵,又稱為可鍛鑄鐵。 展性鑄鐵主要使用於鐵道設備與各種 型態的五金器具、配合件及電器應用元件。 普通鑄鐵中加入鎂、鈰等球化劑,可得球狀石墨鑄鐵,又稱為延性鑄鐵。 延性鑄鐵常 用來製造機械零件、外殼、齒輪、管路及汽車曲柄軸等。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch02/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 材料與加工 39"
+        },
+        {
+          "type": "heading",
+          "text": "二、非鐵金屬"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 鋁 (Aluminium,化學符號 Al) 和鋁合金 鋁占地殼總量的 7. 73 %,是蘊藏最豐富的金屬元素 ( 由多至少依序為氧、矽、鋁、鐵、 鈣、鈉、鉀及鎂 )。 比重 2. 7,熔點 660 °C。 鋁合金是非鐵金屬中應用最廣的一種,主要原"
+        },
+        {
+          "type": "heading",
+          "text": "因為其具有以下特性:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 質輕:鋁之比重僅約為鋼鐵之三分之一,在航空與運輸工具之輕量化上扮演重要之"
+        },
+        {
+          "type": "paragraph",
+          "text": "角色。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 耐蝕性: 鋁在自然環境中表面形成薄層之氧化膜可阻絕空氣中之氧氣,避免進一步"
+        },
+        {
+          "type": "paragraph",
+          "text": "氧化,具有優良之耐蝕性。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 成形性:利用完全退火可生產質軟之鋁合金,適用於各種成形加工要求。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 強度高:利用合金之添加及軋延、熱處理製程可生產強度 20 ∼ 600MPa 不同強度"
+        },
+        {
+          "type": "paragraph",
+          "text": "等級之產品以適用於各種不同強度要求之產品上。例如 杜拉鋁是鋁、銅、鎂、錳的 合金,質輕而強韌,是飛機機翼與骨架 ( 如圖 2 - 4 所示 ) 的主要材料。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 表面處理性佳:鋁具有優良之表面處理性,包括陽極處理、表面化成處理、塗覆及"
+        },
+        {
+          "type": "paragraph",
+          "text": "電鍍等,尤其陽極處理可生產各種不同色澤、硬度之皮膜,以適應各種用途。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 導電性: 鋁之導電度為銅之 60 %,但重量不到銅之三分之一,相同重量之鋁,其導"
+        },
+        {
+          "type": "paragraph",
+          "text": "電度為銅之二倍,故若以相同之導電度衡量,鋁之成本遠較銅便宜。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 導熱性:鋁之導熱性極佳,故在家庭五金、冷氣機散熱片、熱交換器之應用方面極"
+        },
+        {
+          "type": "paragraph",
+          "text": "為廣泛。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "飛機機翼蒙皮 P169"
+        },
+        {
+          "type": "heading",
+          "text": "飛機機翼之蒙皮採用珠擊法,將欲成"
+        },
+        {
+          "type": "heading",
+          "text": "形的板金貼放在模型上方,施以珠擊"
+        },
+        {
+          "type": "heading",
+          "text": "加工,金屬逐漸拉長使板金彎曲,貼"
+        },
+        {
+          "type": "paragraph",
+          "text": "緊模型而成形。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-4 飛機骨架"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch02/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 銅 (Copper,化學符號 Cu) 和銅合金 銅之熔點為 1, 084 °C,比重 8. 96。是電和熱的良導體,常用於製造電線、電纜與電子 元件。具有優良耐蝕性,對硫酸之抗蝕性尤佳。 純銅在機械上的用途有限,但製成銅合金後用途大增,主要的合金為黃銅與青銅。 黃銅是銅與鋅的合金,呈黃色,強度大,耐蝕性優,易於加工,所以使用量很多。依 用途分為鑄造黃銅、鍛造黃銅與特種黃銅。鑄造黃銅多用於製造飾品、閥體與機電零件。 鍛造黃銅可經鍛造、軋延而成為銅板、銅管與銅條。特種黃銅可依不同目的加入不同合金 元素, 其中黃銅含鋅 30 % 時,伸長率最大,稱為七三黃銅或海軍黃銅; 含鋅 40 % 時,抗 拉強度最大,稱為六四黃銅或孟慈合金。 青銅是銅與錫的合金,熔點低,熔解容易,流動性良好,凝固收縮少,為銅合金中最 容易鑄造者。 青銅含錫 10% 時,其延展性、耐蝕性與耐磨性皆佳,稱為砲銅或機械青銅。 圖 2-5 所示者為青銅鑄造之管路鑄品。 ( 三 ) 鎂 (Magnesium,化學符號 Mg) 和鎂合金 鎂屬於輕金屬,比重 1. 74,熔點 650 °C。由於比重輕,常用於製造航太機器之零件或 構架,鎂可以由海水中的氯化鎂直接電解還原。具有電磁遮蔽性,常用於手機、筆電等 3C 電腦通訊產品。由於其活性大,易燃燒等的特點,可做為 閃光彈 (Flashbang)。 圖 2-6 所示之筆電外殼就是以鎂合金製成。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "電纜 P154"
+        },
+        {
+          "type": "heading",
+          "text": "電纜通常以覆層擠製製成,將低熔點的金屬液"
+        },
+        {
+          "type": "heading",
+          "text": "注入模子上方的容器,金屬液透過活塞推動進"
+        },
+        {
+          "type": "paragraph",
+          "text": "入模孔,沿纜線周圍形成一層均勻的披覆層。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-5 青銅鑄件 ▲ 圖 2-6 筆記型電腦"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch02/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 材料與加工 41"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 鈦 (Titanium,化學符號 Ti) 和鈦合金 鈦的比重 4.5,熔點 1,668 °C。 耐蝕性極佳,能抵抗硝酸、強酸、硫化物與海水之腐蝕, 可作為良好的化工設備材料。鈦及其合金的用途主要用來配製質輕且具有高強度、耐熱性 佳、耐潛變之材料,如機身、火箭、噴射引擎等設備上。 ( 五 ) 錫 (Stannum,化學符號 Sn) 與錫合金 錫的比重 7.3,熔點 232 °C,為普通金屬中最低者。 純的錫有銀灰色的金屬光澤,它擁 有良好的伸展性能,所以常用塑性加工法製成藝術品,如圖 2-7 所示。錫在空氣中不易氧 化,因此它常被用來作為其它金屬的防蝕層,例如 鐵製罐頭鍍錫稱為馬口鐵。 於零下 33 °C時錫會變態為粉末,稱為錫瘟。錫條彎曲時會有聲響稱為錫鳴。 錫是一些重要合金的組成成分,例如鑄造用的青銅是銅、錫合金,軟銲用的銲錫是錫、 鉛合金,軸承之軸襯用的巴氏合金是錫、鉛、銻、銅合金。 ( 六 ) 鋅 (Zinc,化學符號 Zn) 和鋅合金 鋅的比重 7.14,熔點為 419.5 °C。由於形、色類似鉛,又稱為亞鉛。鋅的價格亦十分 便宜,常用來做為低碳鋼的鍍層,具有良好的防蝕性鋅在電池的製造上占有重要的地位, 如圖 2-8 所示的碳鋅乾電池就是以鋅製外殼作為負極。"
+        },
+        {
+          "type": "heading",
+          "text": "( 七 ) 超合金 (Super Alloy)"
+        },
+        {
+          "type": "paragraph",
+          "text": "超合金又稱為超耐熱合金或高溫合金,在高溫環境下具有抗氧化、抗腐蝕能力,而且 潛變限與疲勞強度高。 超合金分為鎳基、鎳鐵基與鈷基合金,其中使用最多的是鎳基合金 ( 含鎳 53% ∼ 75%)。 超合金廣泛應用於航太、船舶、機車、發電與石油化工等工業。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-7 錫製茶具 ▲ 圖 2-8 碳鋅乾電池的內部構造"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch02/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "42"
+        },
+        {
+          "type": "heading",
+          "text": "2-2 材料的規格"
+        },
+        {
+          "type": "heading",
+          "text": "2-2-1 何謂規格"
+        },
+        {
+          "type": "paragraph",
+          "text": "規格即為一種「產品需求」的敘述,又稱為規範。 此種敘述通常包含了技術與商業兩 方面的需求,一旦經購買者指定且被供料者接受後,即成為買賣合約之一部分。一個合理"
+        },
+        {
+          "type": "heading",
+          "text": "且完備的規範,一定具備有下列各項資料:"
+        },
+        {
+          "type": "paragraph",
+          "text": "此類標題敘述可包括產品的種類 ( 如鋼板、管、線及棒等 ),適用的 適用範圍 尺度,用途和其他任何有關產品製造、加工等方面,有益於材料供應 或材料使用者之陳述。"
+        },
+        {
+          "type": "paragraph",
+          "text": "化學成分 可細列各項成分元素含量範圍或指定某種公認之成分代號。"
+        },
+        {
+          "type": "paragraph",
+          "text": "此項資料包括所有適切的品質敘述及任何可能的額外需求。亦可指明"
+        },
+        {
+          "type": "heading",
+          "text": "品質敘述"
+        },
+        {
+          "type": "paragraph",
+          "text": "允許使用的冶煉方式及材料之處理狀況。"
+        },
+        {
+          "type": "paragraph",
+          "text": "必須具備明確的化學成分、容許範圍及物理、機械性質,以描述材料"
+        },
+        {
+          "type": "heading",
+          "text": "定量方面的需求"
+        },
+        {
+          "type": "paragraph",
+          "text": "的特色。同時亦須闡明決定此材料所用的測試方法。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 材料與加工 43"
+        },
+        {
+          "type": "heading",
+          "text": "2-2-2 鋼鐵材料的兩種標準規格介紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "各主要工業國家均各自制訂標準規格,以下就 CNS 及 SAE 的規格加以說明。機械製 造可用之金屬材料以鋼鐵為主,本單元只介紹鋼鐵這一部分。 表 2-2 為常見的規範名稱代號。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 2-2 常見的規範名稱的代號"
+        },
+        {
+          "type": "heading",
+          "text": "規範 ( 出版機構 ) 名稱 代號 中文名稱"
+        },
+        {
+          "type": "heading",
+          "text": "1. American Iron & Steel Institute AISI 美國鋼鐵協會"
+        },
+        {
+          "type": "heading",
+          "text": "2. American National Standards Institute ANSI 美國國家標準協會"
+        },
+        {
+          "type": "heading",
+          "text": "3. American Petroleum Institute API 美國石油協會"
+        },
+        {
+          "type": "heading",
+          "text": "4. American Society of Mechanical Engineers ASME 美國機械工程學會"
+        },
+        {
+          "type": "heading",
+          "text": "5. American Society for Testing & Materials ASTM 美國材料試驗協會"
+        },
+        {
+          "type": "heading",
+          "text": "6. Australian Standards AS 澳洲國家標準"
+        },
+        {
+          "type": "heading",
+          "text": "7. Aerospace Material Specification AMS 航空材料規範"
+        },
+        {
+          "type": "heading",
+          "text": "8. American Welding Society AWS 美國銲接協會"
+        },
+        {
+          "type": "heading",
+          "text": "9. British Standards(British Standards Institution) BS 英國國家標準"
+        },
+        {
+          "type": "heading",
+          "text": "10. Chinese National Standards CNS 中華民國國家標準"
+        },
+        {
+          "type": "heading",
+          "text": "11. Deutscher Industrie-Normen DIN 德國工業標準"
+        },
+        {
+          "type": "heading",
+          "text": "12. Komiteta Standardov Merilzmeritel Nyh Priborov Pri Sovete"
+        },
+        {
+          "type": "heading",
+          "text": "GOST 蘇聯國家標準"
+        },
+        {
+          "type": "heading",
+          "text": "Ministrov"
+        },
+        {
+          "type": "heading",
+          "text": "13. Indian Standards IS 印度國家標準"
+        },
+        {
+          "type": "heading",
+          "text": "14. International Organization for Standardization ISO 國際標準化組織"
+        },
+        {
+          "type": "heading",
+          "text": "15. Japanese Industrial Standards JIS 日本工業標準"
+        },
+        {
+          "type": "heading",
+          "text": "16. Normes Francaises NF 法國國家標準"
+        },
+        {
+          "type": "heading",
+          "text": "17. Society of Automotive Engineers SAE 美國自動工程學會"
+        },
+        {
+          "type": "heading",
+          "text": "18. Verein DEUTSCHER Eisenhttenleute VDEh 西德鋼鐵協會規格"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "44"
+        },
+        {
+          "type": "heading",
+          "text": "一、 CNS( 中華民國國家標準 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CNS109 G1001 鋼鐵符號將鋼鐵材料分為鐵與鋼兩大類。鐵再分類為生鐵、合金鐵與 鑄鐵。 鋼再分類為普通鋼、 特殊鋼、 鑄鋼及鍛鋼。 普通鋼依形狀、 用途再細分為棒鋼、 型鋼、 厚板、薄板、線料及線。特殊鋼則依特性細分為強韌鋼、工具鋼及特殊用途鋼。鋼管則依 鋼種用途細分。不鏽鋼則依形狀別加以細分。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 普通鋼鐵符號由三部分組成:"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 1 ) 前段部分表示材質之英文名稱或羅馬字之第一個字母,或元素符號。鋼鐵材料 大部分以符號 S(Steel:鋼 ) 或 F(Ferrum:鐵 ) 起頭。 例外:合金類如 SiMn 表示矽錳,金屬類如 MCr 表示金屬鉻。 ( 2 ) 中段部分表示製品名稱、主要元素及製品用途:"
+        },
+        {
+          "type": "heading",
+          "text": "製品名稱"
+        },
+        {
+          "type": "heading",
+          "text": "例:"
+        },
+        {
+          "type": "paragraph",
+          "text": "P: 薄板 (Plate) T: 管 (Tube) K:工具 (K o gu,日文 ) U: 特殊用途 (Use) C: 鑄件 (Casting) F: 鍛件 (Forging)"
+        },
+        {
+          "type": "heading",
+          "text": "W:線料, 線 (Wire Rod, Wire)"
+        },
+        {
+          "type": "heading",
+          "text": "主要元素"
+        },
+        {
+          "type": "heading",
+          "text": "例:"
+        },
+        {
+          "type": "paragraph",
+          "text": "FB( 硼鐵 ) FCr( 鉻鐵 ) FMn( 錳鐵 ) FMo( 鉬鐵 ) FP( 磷鐵 ) FV( 釩鐵 ) FW( 鎢鐵 ) FSi( 矽鐵 ) FTi( 鈦鐵 ) MMn( 金屬錳 ) MSi( 金屬矽 ) SiCr( 矽鉻 ) CaSi( 鈣矽 )"
+        },
+        {
+          "type": "heading",
+          "text": "製品用途"
+        },
+        {
+          "type": "heading",
+          "text": "例:"
+        },
+        {
+          "type": "paragraph",
+          "text": "SB( 鍋爐用鋼 ) SUP( 彈簧鋼 ) SPCC( 冷軋碳鋼鋼片 ) SS( 一般構造用鋼 ) SF( 鍛鋼 ) SWH(H 形輕型鋼 ) SUJ( 軸承鋼 ) SUM( 易削鋼 ) SKD( 模具鋼 ) SKH( 高速鋼 ) SKS( 合金工具鋼 ) MC( 鑄造成形永久磁鐵 ) MP( 粉末冶金製永久磁鐵 ) FC( 灰鑄鐵 ) FCD( 球狀石墨鑄鐵 ) FCMW( 白心展性鑄鐵 ) FCMB( 黑心展性鑄鐵 )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 材料與加工 45"
+        },
+        {
+          "type": "heading",
+          "text": "( 3 ) 後段部分表示:"
+        },
+        {
+          "type": "paragraph",
+          "text": " 材料種類號碼之數字、大寫字母或數字與大寫字母之組合,例如: 1 表示 1 種、 A 表示 A 種、 1A 表示 1 種 A 級。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": " 最低抗拉強度或降伏強度 ( 通常為三位數,單位為 N/mm = MPa)。"
+        },
+        {
+          "type": "heading",
+          "text": "例: SK3( 第三種工具鋼 )"
+        },
+        {
+          "type": "heading",
+          "text": "SKH1( 第一種高速鋼 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "SC300( 鑄鋼,最低抗拉強度 300N/mm )"
+        },
+        {
+          "type": "heading",
+          "text": "範例:"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 SS450:一般結構用軋鋼料,最低抗拉強度 450N/mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 SC450:鑄鋼,最低抗拉強度 450N/mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "3 SF550:鍛鋼,最低抗拉強度 550N/mm。 4 SK2:第 2 種工具鋼。 5 SKD11:第 11 種模具鋼。 6 SKH3:第 3 種高速鋼。 7 SUP9:第 9 種彈簧鋼。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "8 FC350:灰鑄鐵,最低抗拉強度 350N/mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "9 FCD400:球狀石墨鑄鐵,最低抗拉強度 400N/mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "10 FCMW450:白心展性鑄鐵,最低抗拉強度 450N/mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "沰 FCMB480:黑心展性鑄鐵,最低抗拉強度 480N/mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: 1 N/mm = 1 MPa。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 機械結構用鋼符號由五部分組成:"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 1 ) 字母 S 表示鋼。"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 主合金元素符號"
+        },
+        {
+          "type": "heading",
+          "text": "( 3 ) 主合金元素含量代碼"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 以 1 位數號碼表示。 2 例如錳鋼 2 號表示含錳 1.00 以上,未滿 1.30; 4 號表示含錳 1.30 以上,未 滿 1.60; 6 號表示含錳 1.60 以上。 3 各鋼種之號碼與元素含量關係並不相同,需查表得知。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "46"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 2-3 合金元素之符號"
+        },
+        {
+          "type": "heading",
+          "text": "元素 單種時符號 複合時符號"
+        },
+        {
+          "type": "heading",
+          "text": "錳 Mn Mn"
+        },
+        {
+          "type": "heading",
+          "text": "鉻 Cr C"
+        },
+        {
+          "type": "heading",
+          "text": "鉬 Mo M"
+        },
+        {
+          "type": "heading",
+          "text": "鎳 Ni N"
+        },
+        {
+          "type": "heading",
+          "text": "鋁 Al A"
+        },
+        {
+          "type": "heading",
+          "text": "硼 Bo B"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 2-4 主要合金元素符號"
+        },
+        {
+          "type": "heading",
+          "text": "區分 符號 區分 符號"
+        },
+        {
+          "type": "heading",
+          "text": "碳鋼 S ×× C 鉻鋼 SCr"
+        },
+        {
+          "type": "heading",
+          "text": "硼鋼 SBo 鉻硼鋼 SCrB"
+        },
+        {
+          "type": "heading",
+          "text": "錳鋼 SMn 鉻鉬鋼 SCM"
+        },
+        {
+          "type": "heading",
+          "text": "錳硼鋼 SMnB 鎳鉻鋼 SNC"
+        },
+        {
+          "type": "heading",
+          "text": "錳鉻鋼 SMnC 鎳鉻鉬鋼 SNCM"
+        },
+        {
+          "type": "heading",
+          "text": "錳鉻硼鋼 SMnCB 鋁鉻鉬鋼 SACM"
+        },
+        {
+          "type": "heading",
+          "text": "( 4 ) 含碳量之代表值"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 採用規定含碳量之中央值 100 倍之數值表示。 2 100 倍值非整數值時,將其零數捨去修整為整數。 3 100 倍值為 9 以下時,其第一位為 0。 4 若有主合金元素符號、主合金元素含量代碼及碳含量代碼值相同之兩種鋼出 現時,為區分其不同,將合金元素含量多者之碳含量代表值多加 1。"
+        },
+        {
+          "type": "heading",
+          "text": "( 5 ) 附加符號"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 2-5 碳含量代表值之表示例"
+        },
+        {
+          "type": "paragraph",
+          "text": "範 例 規定碳含量範圍 中央值 ×100 表示值 備考 2 項之例 S12C 0.10 ~ 0.15 12.5 12 3 項之例 S09CK 0.07 ~ 0.12 9.5 9 → 09 SCM420 0.18 ~ 0.23 20.5 20 → 20"
+        },
+        {
+          "type": "heading",
+          "text": "4 項之例"
+        },
+        {
+          "type": "paragraph",
+          "text": "SCM421 0.17 ~ 0.23 20 20 → 21 因錳量高"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 材料與加工 47"
+        },
+        {
+          "type": "heading",
+          "text": "範例:"
+        },
+        {
+          "type": "heading",
+          "text": "1. S30C:碳鋼,中間含碳量 0.30%"
+        },
+        {
+          "type": "heading",
+          "text": "2. SNC435:第 4 種鎳鉻鋼,含碳量 0.31 ∼ 0.39%( 中間含碳量為 0.35%)"
+        },
+        {
+          "type": "heading",
+          "text": "3. SMn327:第 3 種錳鋼,含碳量 0.24 ∼ 0.30%( 中間含碳量為 0.27%)"
+        },
+        {
+          "type": "heading",
+          "text": "二、 SAE ( 美國自動工程學會 ) 與 AISI ( 美國鋼鐵協會 )"
+        },
+        {
+          "type": "heading",
+          "text": "1. SAE 鋼鐵符號由四位數字 ( 少數為五位數字 ) 所組成,其表示法為"
+        },
+        {
+          "type": "heading",
+          "text": "說明:"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 1 ) 第一位數字表示鋼之種類,如表 2-6。 第一位數字用 1, 2, 3, 4, 5, 6, 7, 8, 9 等九個數字。各數字代表的意"
+        },
+        {
+          "type": "heading",
+          "text": "義如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1:表示 碳鋼 (Carbon Steel)、易切鋼及錳鋼。 2:表示 鎳鋼 (Nickel Steel)。 3:表示 鎳鉻鋼 (Nickel-chromium Steel)。 4:表示 鉬鋼 (Molybdenum Steel)。 5:表示 鉻鋼 (Chromium Steel)。 6:表示 鉻釩鋼 (Chrome-vanadium Steel)。 7:表示 鎢鋼 (Tungsten Steel)。 8:表示鎳鉻鉬鋼。 9:表示 矽錳鋼 (Silicon Manganese Steel)。 ( 2 ) 第二位數字表示主要合金元素之大約成分。 ( 3 ) 第三、四兩個數字合起來,表示平均含碳量之點數,每一點為 0.01%,含碳量 超過 1% 則在第四個數字後加第五個數字。此時末三位數表示含碳量之點數, 例如 50100 為含碳 1.00% 的高碳低鉻軸承鋼。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "paragraph",
+          "text": "▼ 表 2-6 SAE & AISI 鋼料編號分類 碳鋼.................................... 1 ××× 鉬鋼.................................... 4 ××× 一般碳鋼........................... 10 ×× Cr-Mo.............................. 41 ×× 易切鋼.............................. 11 ×× Cr-Ni-Mo........................ 43 ×× 錳鋼................................. 13 ×× Ni-Mo.............................. 46 ×× 鎳鋼.................................... 2 ××× 鉻鋼.................................... 5 ×××"
+        },
+        {
+          "type": "heading",
+          "text": "0.50%Ni........................... 20 ×× 低 Cr.............................. 50 ××"
+        },
+        {
+          "type": "heading",
+          "text": "1.50%Ni.............................. 21 ×× 中 Cr.............................. 51 ××"
+        },
+        {
+          "type": "heading",
+          "text": "3.50%Ni.............................. 23 ×× 鉻釩鋼................................. 6 ×××"
+        },
+        {
+          "type": "heading",
+          "text": "5.00%Ni.............................. 25 ×× 鎢鋼.................. 7 ××× 和 7 ××××"
+        },
+        {
+          "type": "paragraph",
+          "text": "鎳鉻鋼................................. 3 ××× 鎳鉻鉬鋼.............................. 8 ×××"
+        },
+        {
+          "type": "heading",
+          "text": "1.25%Ni 0.60%Cr.................. 31 ×× 矽錳鋼................................. 9 ×××"
+        },
+        {
+          "type": "heading",
+          "text": "1.75%Ni 1.00%Cr.................. 32 ××"
+        },
+        {
+          "type": "heading",
+          "text": "3.50%Ni 1.50%Cr.................. 33 ××"
+        },
+        {
+          "type": "paragraph",
+          "text": "耐磨耐熱鋼........................ 30 ××× (4) 字尾的 A、 B、 C 等字母,是用來表示同種鋼有三種不同成分。 例如: SAE1027:表示碳鋼含碳為 0.27%。 SAE1320:表示錳鋼含碳為 0.20%。 SAE4028:表示鉬鋼含碳為 0.28%。 SAE9254:表示矽錳鋼含碳為 0.54%。"
+        },
+        {
+          "type": "heading",
+          "text": "2. AISI 鋼鐵符號採用 SAE 之編號,唯於編號之前添置表示鋼料煉製方式之代號,例"
+        },
+        {
+          "type": "paragraph",
+          "text": "如 SAE1030 之鋼料依 AISI 之規格為 AISIC1030,意即表示此碳鋼係以鹼性平爐法 煉製。鋼料煉製代號說明如下: A:表示 鹼性平爐合金鋼 (Basic Open-hearth Alloy Steel) B:表示 酸性柏思麥爐碳鋼 (Acid Bessemer Carbon Steel) C:表示 鹼性平爐碳鋼 (Basic Open-hearth Carbon Steel) D:表示 酸性平爐碳鋼 (Acid Open-hearth Carbon Steel) E:表示 電爐鋼 (Electric Furnace Steel)"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 材料與加工 49"
+        },
+        {
+          "type": "heading",
+          "text": "2-3 主要機械材料的加工性"
+        },
+        {
+          "type": "paragraph",
+          "text": "本單元就主要金屬材料之切削性、鑄造性、鍛造性及銲接性等加以分析。 切削性是指材料容易切削的特性,與材料硬度及延展性息息相關。硬度高者容易 切削性 磨損刀具,延展性高者容易形成 刀口積屑 (Built-up Edge, BUE),兩者的切削 性都不好,好切削的材料,硬度不要太高,最好略有脆性,可避免形成 BUE。 鑄造性 鑄造性與金屬熔點及金屬液之流動性有關,熔點低、流動性高者鑄造性好。 鍛造性是指金屬材料容易鍛造成形的特性,與材料之延展性有關,延展性高、"
+        },
+        {
+          "type": "heading",
+          "text": "鍛造性"
+        },
+        {
+          "type": "paragraph",
+          "text": "硬度低者鍛造性好。 銲接性是指金屬銲接時,是否容易形成理想的銲道。雜質少、氧化性低、不易"
+        },
+        {
+          "type": "heading",
+          "text": "銲接性"
+        },
+        {
+          "type": "paragraph",
+          "text": "產生銲接應力與銲道缺陷者,表示具有良好的銲接性。"
+        },
+        {
+          "type": "heading",
+          "text": "一、碳鋼"
+        },
+        {
+          "type": "paragraph",
+          "text": "碳鋼之切削性與含碳量之關係至為密切。 含碳量低時延展性高,含碳量高則硬度大, 兩者之切削性均不良。如圖 2 - 9 所示,含碳量約 0. 3 % 之中碳鋼軟硬適中,切削性最好。 低碳鋼之切削性不良,若加入硫、磷或鉛等元素成為快削鋼 ( 易切鋼 ),可改善其切削性。 碳鋼之鍛造性,在冷鍛與熱鍛時並不相同。 冷鍛時材料之延展性很重要,故含碳量不 宜超過 0. 25 %。 含碳量在 0.25% 以下時,鍛造性與含碳量成反比。 熱鍛時材料處於高溫, 可塑性與含碳量之關係不大,但含碳量高者表面有脫碳之虞,必須小心處理。兩相同之金 屬材料,晶粒粗者,其材質較軟,因此鍛造性比晶粒細者為佳。 碳鋼之熔點比鑄鐵高,雖然可以鑄造,但是鑄造性比鑄鐵差。 碳鋼銲接時銲道所形成之碳化物對銲接不利,故銲接性與含碳量成反比。圖 2 - 10 所 示者為銲接性與含碳量的關係。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-9 碳鋼之含碳量與切削性之關係 ▲ 圖 2-10 碳鋼之含碳量與銲接性之關係"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch02/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "heading",
+          "text": "二、鑄鐵"
+        },
+        {
+          "type": "paragraph",
+          "text": "灰鑄鐵的石墨碳於切削時有潤滑作用,可防止刀口積屑之形成,切削性不錯。 白鑄鐵 之雪明碳鐵組織硬度高,容易磨損刀刃,切削性很差。 若將白鑄鐵退火成展性鑄鐵,使碳 化鐵形成石墨和純鐵,可改善其切削性。 鑄鐵之熔點低且流動性高,鑄造成形性優,故大都採用鑄造成形。 由於含碳量太高,銲接性較差。 鑄鐵太脆,缺乏可塑性,所以不能鍛造成形。"
+        },
+        {
+          "type": "heading",
+          "text": "三、合金鋼"
+        },
+        {
+          "type": "paragraph",
+          "text": "合金鋼之切削性依其合金元素而定。 例如含鉻 (Cr) 時,若形成球狀碳化鉻則切削性不 錯,如果是層狀,則切削性不好。鉬 (Mo) 和釩 (V) 鋼硬度高,經高溫退火軟化可改善切 削性。 不鏽鋼含有多量之鉻與鎳 (Ni),其切削性與其組織有關。麻田散體不鏽鋼硬度高, 304 沃斯田體不鏽鋼切削時,切削應力會誘發麻田散體變態而硬化,所以切削性均不良;肥粒 體系不鏽鋼則有不錯的切削性。 不鏽鋼加硫 (S) 或硒 (Se) 可改善切削性。 沃斯田體系不鏽鋼在高溫時會產生碳化鉻,銲接性不良。 合金鋼若加對合金元素,也可以有良好的鑄造性,鍛造性及銲接性。"
+        },
+        {
+          "type": "heading",
+          "text": "四、銅"
+        },
+        {
+          "type": "paragraph",
+          "text": "純銅質軟且黏性強,容易產生刀口積屑 (BUE),所以不易切削加工。一般都用鑽石刀 具,且用淺切深 (0.01mm 以下 ) 和小進給,作鏡面精切削。 銅加鋅 (Zn) 成黃銅, 切屑呈不連續狀, 切削性不錯, 若加鉛 (Pb) 成為快削黃銅則更好。 銅加錫 (Sn) 成青銅,熔點低且流動性好,鑄造性優,大都採用鑄造成形。 銅合金採用氧乙炔火焰銲接時,銲接性不錯,但必須依合金成分的不同,調整氧氣與 乙炔之比例,以獲得最佳之銲接效果。 純銅之可塑性高且導電性好,常以抽拉法抽製成電線。黃銅之可塑性隨含鋅量成反比 變化,故含鋅量低時採用冷作成形,含鋅量高時採用熱作成形。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "氧乙炔火焰銲接 P207"
+        },
+        {
+          "type": "paragraph",
+          "text": "乙炔與氧的混合氣,燃燒溫度達 3,500 °C,可用來接合鐵金屬或非鐵金屬。"
+        },
+        {
+          "type": "heading",
+          "text": "冷作與熱作 P136"
+        },
+        {
+          "type": "paragraph",
+          "text": "熱作是將材料加熱到再結晶溫度以上,施以加工力而成形者。冷作是材料處於再結晶溫度以下 ( 通常不加熱 ) 的成形方式。"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

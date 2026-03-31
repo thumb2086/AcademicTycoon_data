@@ -1,0 +1,2005 @@
+{
+  "content_id": "CONTENT_MECH_DRAFTING_CH02",
+  "subject": "機械製圖",
+  "chapter": {
+    "code": "CH02",
+    "title": "CH2"
+  },
+  "title": "機械製圖 Chapter 2 製圖設備與用具",
+  "source_pdf": "機械製圖/CH2PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_DRAFTING_CH02",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "製圖設備與用具"
+        },
+        {
+          "type": "heading",
+          "text": "本章學習內容"
+        },
+        {
+          "type": "heading",
+          "text": "2-1 製圖設備與使用"
+        },
+        {
+          "type": "heading",
+          "text": "2-2 製圖用具與使用"
+        },
+        {
+          "type": "heading",
+          "text": "2-3 各式模板與使用"
+        },
+        {
+          "type": "heading",
+          "text": "2-4 電腦輔助製圖軟體與硬體設備"
+        },
+        {
+          "type": "heading",
+          "text": "( 建議授課: 3 節 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 29 2022/4/13 下午 04:25:29"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "學習表現"
+        },
+        {
+          "type": "paragraph",
+          "text": "俗云:「工欲善其事,必先利其器」,一張工程圖的完成,必須要有完善的儀器和 設備。所以,為了能讓學生之學習達到事半功倍之效,本章之學習目標為:"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能了解設備與使用方法"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能了解製圖用具與使用方法"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能了解各式模板與使用方法"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能了解電腦輔助製圖軟體及硬體設備"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能在製圖設備上能正確的固定安放圖紙與使用儀器"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 能引發學習者對製圖的學習興趣與動機,並能體會美感素養、創意概念與應用"
+        },
+        {
+          "type": "heading",
+          "text": "於日常產品或感知科技產品之設計"
+        },
+        {
+          "type": "heading",
+          "text": "2-1 製圖設備與使用"
+        },
+        {
+          "type": "heading",
+          "text": "一、製圖桌椅"
+        },
+        {
+          "type": "paragraph",
+          "text": "製圖桌椅通常指製圖板、製圖架、製圖桌邊櫃及椅子所組成,如圖 2-1 所示,分述如下: ( 一 ) 製圖板 (Drafting board)"
+        },
+        {
+          "type": "heading",
+          "text": "用以安置圖紙之平板,"
+        },
+        {
+          "type": "heading",
+          "text": "以乾燥、細緻木紋且不易伸"
+        },
+        {
+          "type": "heading",
+          "text": "縮變形之板材製成,通常為"
+        },
+        {
+          "type": "paragraph",
+          "text": "檜木或松木較理想。在製圖"
+        },
+        {
+          "type": "heading",
+          "text": "板的左右兩邊鑲有直且硬的"
+        },
+        {
+          "type": "heading",
+          "text": "木條或金屬條以防製圖板變"
+        },
+        {
+          "type": "heading",
+          "text": "形,並可兼作導邊用途,上"
+        },
+        {
+          "type": "heading",
+          "text": "面可蓋以 塑膠墊布 或 磁性墊"
+        },
+        {
+          "type": "paragraph",
+          "text": "布。製圖板大小規格,有配"
+        },
+        {
+          "type": "heading",
+          "text": "合 圖 紙 A0、 A1 及 B1 大 小"
+        },
+        {
+          "type": "heading",
+          "text": "的三種較常用,亦有製成簡"
+        },
+        {
+          "type": "paragraph",
+          "text": "便的手提式 A3 圖板規格。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-1 製圖桌椅"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 30 2022/4/13 下午 04:25:29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 31"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 製圖架 (Drafting stand) 用以安裝圖板,有氣油壓型及普通 H 型,如圖 2-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-2 製圖架"
+        },
+        {
+          "type": "paragraph",
+          "text": "可作高低調整外,板面亦可作 0 ° ∼ 75 ° 之"
+        },
+        {
+          "type": "heading",
+          "text": "調整,以配合製圖員的身高、坐姿或立姿能使"
+        },
+        {
+          "type": "heading",
+          "text": "背部挺直著繪圖,如此能減少疲勞程度,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "2-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-3 製圖架調整"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 製圖桌邊櫃及椅子"
+        },
+        {
+          "type": "heading",
+          "text": "1. 桌邊櫃:通常置於製圖桌旁之輔助櫃,用於放置製圖儀器於桌面上,而且抽屜內或夾層內可"
+        },
+        {
+          "type": "paragraph",
+          "text": "放置圖紙、工具或物品,更方便製圖員的操作。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 椅子:製圖椅以實用、平穩為原則,並兼能符合坐姿時的人體工學以減少疲勞。故一般以椅"
+        },
+        {
+          "type": "paragraph",
+          "text": "腳所跨佔面積較大者較平穩,椅面能旋轉並依人體高度作上下調整者最理想。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 31 2022/4/13 下午 04:25:30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "二、萬能製圖儀"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 萬能製圖儀介紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "萬能製圖儀 (Drafting machine) 乃集 丁字尺或平行尺、 直尺、 比例尺、 三角板、 量角器 等功 能於一身之製圖設備。使用時相常簡便,可節省製圖時間;繪圖時,圖紙一般固定在圖板的中 央偏下方,是現代製圖儀器中所必備的高效率工具。 萬能製圖儀通常依形式之不同,可分為懸臂式及軌道式兩種,都是利用平行運動機構原理 設計而成,如圖 2-4 所示,圖 (a) 為軌道式,圖 (b) 為懸臂式。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-4 萬能製圖儀"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用萬能製圖儀時,如圖 2-5 可將固定在轉盤上之一對直尺 ( 成直角 ) 在圖板上任意移動至 適當位置,並可藉壓住調整角度鈕,將直尺旋轉至任意角度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-5 萬能製圖儀主要部位名稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 32 2022/4/13 下午 04:25:31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 33"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-5 萬能製圖儀主要部位名稱(續)"
+        },
+        {
+          "type": "paragraph",
+          "text": "另外,轉盤上通常設計每隔 15 ° 可自動定位,而且一般萬能製圖儀有等短距離設定功能, 用於畫平行線或剖面線,可免除用分規記號或量點劃線之困擾。鬆開角度盤固定鈕時,亦可轉 動整座轉盤。如圖 2-6 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-6 操控分度盤"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 萬能製圖儀基本使用"
+        },
+        {
+          "type": "paragraph",
+          "text": "因萬能製圖儀各廠商生產製造方式不同,機構位置與使用方式也會有些微不同,本書介紹 較常使用的規格,如與讀者使用之萬能製圖儀規格不同,請讀者斟酌參考使用方式。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 桌面角度調整 ( 即調整桌面使用角度 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 具調整把手設計:將手把往內推,如圖 2-7 和圖 2-8 所示,利用手調整桌面適當角度, 再將手把往外推固定住桌面。 ( 可參考影片 2-1)"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-7 桌面角度調整 ( 具調整把手設計 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 33 2022/4/13 下午 04:25:33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "34"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 氣油壓腳踏板設計:腳踩住下方右側踏板,如圖 2-8 所示,利用手調整桌面適當角度, 鬆開下方右側踏板固定住桌面。 ( 可參考影片 2-2)"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-8 桌面角度調整 ( 油氣壓腳踏板設計 )"
+        },
+        {
+          "type": "heading",
+          "text": "2. 桌面的升降 ( 即調整桌面使用高度 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 具調整把手設計:先將桌面調整水平,腳踩住下方踏板,如圖 2-9 所示,利用手調整桌 面適當高度,腳鬆開下方踏板即固定住桌面。 ( 可參考影片 2-3)"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-9 桌面的升降 ( 具調整把手設計 ) (2) 氣油壓腳踏板設計:先將桌面調整水平,腳踩住下方左側踏板,如圖 2-10 所示,利用手 調整桌面適當高度,腳鬆開下方左側踏板即固定住桌面。 ( 可參考影片 2-4)"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-10 桌面的升降 ( 油氣壓腳踏板設計 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 34 2022/4/13 下午 04:25:35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 35"
+        },
+        {
+          "type": "heading",
+          "text": "3. 直尺的垂直度校正"
+        },
+        {
+          "type": "paragraph",
+          "text": "首先鬆開轉盤上調整角度鈕,調整水平尺與桌面下緣對齊,完成水平尺調整後鎖緊角度 鈕。接著壓住轉盤上的調整角度鈕,然後將水平尺順時針轉 90 度,移動垂直尺至桌面下緣 觀察是否有對齊:如果垂直尺沒有對齊桌面下緣,則將垂直尺上螺絲鬆開,以便調整垂直尺 與桌面下緣對齊,完成調整後須將垂直尺上螺絲鎖緊,如圖 2-11 所示。最後,壓住調整角 度鈕,將水平尺調整回原本位置,即完成直尺的垂直度校正。 ( 可參考影片 2-5)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-11 直尺的垂直度校正"
+        },
+        {
+          "type": "heading",
+          "text": "4. 軌道固定"
+        },
+        {
+          "type": "paragraph",
+          "text": "軌道有分縱軌與橫軌,將縱向煞車桿放鬆,可調整直尺上下位置,如圖 2-12(a);將橫向 煞車放鬆,可調整直尺左右位置,如圖 2-12(b);也有不同類型的縱、橫向煞車位置提供參考, 如圖 2-12(c) 所示。 ( 可參考影片 2-6、影片 2-7)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-12 縱、橫向煞車位置"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 35 2022/4/13 下午 04:25:36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "36"
+        },
+        {
+          "type": "heading",
+          "text": "5. 畫任意角度"
+        },
+        {
+          "type": "paragraph",
+          "text": "萬能製圖儀在調整角度時,操作壓按或放鬆調整角度紐時,一般 15 ° 之倍數角時會自動 固定。如需要畫出非 15 ° 之倍數角,須先鬆開任意角固定鈕,調整欲繪製之任意角度後,將 任意角固定鈕鎖緊即可固定,如圖 2-13 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-13 萬能製圖儀角度調整"
+        },
+        {
+          "type": "heading",
+          "text": "萬能製圖儀角度盤上利用微分原理,"
+        },
+        {
+          "type": "heading",
+          "text": "最小角度之精度可達 5 ′,如圖 2-14,可參"
+        },
+        {
+          "type": "paragraph",
+          "text": "考影片 2-8。 註 1 ° ( 度 ) = 60 ′ ( 分 )、 1 ′ ( 分 ) = 60 ′′ ( 秒 )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-14 角度盤上精度可達 5 ′"
+        },
+        {
+          "type": "heading",
+          "text": "6. 桌面角度與高低"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪圖時,可用站立式或坐式來繪製圖面,依個人的喜好來調萬能製圖儀的桌面角度與高 低,建議長時間繪圖者,腰、背部盡量不要太彎曲,如圖 2-15(a)、 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 桌面回復原狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪圖完畢後,建議將萬能製圖桌之氣壓釋放,故須將桌面調整至最高,再將桌面角度調 整至近直立位置,如圖 2-15(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-15 繪圖姿勢與桌面回復原狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 36 2022/4/13 下午 04:25:38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 37"
+        },
+        {
+          "type": "heading",
+          "text": "2-2 製圖用具與使用"
+        },
+        {
+          "type": "heading",
+          "text": "一、製圖用筆"
+        },
+        {
+          "type": "heading",
+          "text": "製圖用筆一般有鉛筆與針筆,分述如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 製圖用鉛筆 (Drawing pencil)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鉛筆筆心之等級"
+        },
+        {
+          "type": "heading",
+          "text": "製圖用鉛筆與普通鉛筆有所不同,"
+        },
+        {
+          "type": "heading",
+          "text": "通常製圖用鉛筆必須質地細膩,軟硬均"
+        },
+        {
+          "type": "paragraph",
+          "text": "勻。製圖用鉛筆之筆心按等級劃分,一"
+        },
+        {
+          "type": "heading",
+          "text": "般等級記號位於鉛筆筆心的另一端,如"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 2-16 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-16 製圖用鉛筆之等級記號"
+        },
+        {
+          "type": "paragraph",
+          "text": "筆心按等級從最硬至最軟為 9H、 8H、 7H、 6H、 5H、 4H、 3H、 2H、 H、 F、 HB、 B, 2B、 3B、 4B、 5B、 6B、 7B,如圖 2-17 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-17 鉛筆等級"
+        },
+        {
+          "type": "paragraph",
+          "text": "一張工程圖通常用 3H、 2H 繪製底線,用 H、 HB 繪製原圖及描圖,而寫字用 H、 F 筆 心等級,圓規之筆心必須比畫線筆心軟至一級或二級,通常用 HB、 F。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 37 2022/4/13 下午 04:25:39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "38"
+        },
+        {
+          "type": "heading",
+          "text": "2. 製圖鉛筆種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 填心鉛筆:常用者有 0.35、 0.5、 0.7mm( 公厘 ) 三種大小,可更換各種等級筆心,如圖 2-18 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-18 填心鉛筆"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: rotring DM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 工程筆:筆心直徑為 2 mm 的鉛筆,可調換各種等級筆心,如圖 2-19 所示,使用時筆尖 要削銳。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-19 工程用鉛筆"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: STAEDTLER DM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 木削鉛筆:此種筆心為木皮包裹著,使用前需削去木皮方能使用。鉛筆之削銳,是用小 刀 在無註明筆心硬度等級的一端削去木皮,切削長度約 30 mm,使筆心露出約 10 mm。 一般錐形鉛筆尖用於徒手作圖及寫字,楔形鉛筆尖方便畫直線,如圖 2-20 所示。另外, 此類型鉛筆亦可使用磨芯器削銳,如圖 2-21 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-20 木削鉛筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 38 2022/4/13 下午 04:25:40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 39"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-21 磨芯器與削鉛筆機"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鉛筆的使用方法"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用鉛筆畫線時,輕輕握住鉛筆並儘量使筆蕊靠近尺邊緣,運筆壓力與角度須平穩,微 微旋轉筆桿以使筆蕊保持尖銳的圓錐狀,力求線條均勻結實,如圖 2-22 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲圖 2-22"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 針筆 (Technical fountain pens) 為了使圖面更清晰,複製圖形更美觀,保存更長久,往往需上墨,故常以針筆畫出圖形及 文字註解等。茲分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 針筆構造規格與運筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 針筆構造:針筆的形狀如鋼筆,為一種等線筆,目前已取代舊時的鴨嘴筆。針筆的構造, 主要由筆帽、筆尖本體、墨水管及筆桿等四部分所組成。如圖 2-23 所示。因針筆種類很 多,構造不一定相同,請各校自行參考各廠牌之說明。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-23 針筆構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 39 2022/4/13 下午 04:25:42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 針筆規格:採用等距分類,有 0.1、 0.15、 0.2、 0.3、 0.4、 0.5、 0.6、 0.8、 1.0、 1.2 mm 等, 亦有 採等比分級, 各級間比例為 1: 2,有: 0.13、 0.18、 0.25、 0.35、 0.5、 0.7、 1.0、 1.4、"
+        },
+        {
+          "type": "heading",
+          "text": "2.0 mm 等,如圖 2-24(a) 所示。市面上販售的常以三支一組,分別作為畫粗實線、中線"
+        },
+        {
+          "type": "paragraph",
+          "text": "及細線用,如圖 2-24(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-24 針筆規格"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:露天網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 運筆方法:使用針筆時,運筆方法與鉛筆不同;"
+        },
+        {
+          "type": "heading",
+          "text": "針筆運筆畫線時,應使針筆筆尖與紙面成垂直,"
+        },
+        {
+          "type": "heading",
+          "text": "以避免線條粗細不均,或因而造成筆尖磨損;但"
+        },
+        {
+          "type": "heading",
+          "text": "是往運筆移動方向可略微傾斜,一般以不超過 5 °"
+        },
+        {
+          "type": "paragraph",
+          "text": "為限,如圖 2-25 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-25 針筆使用要領"
+        },
+        {
+          "type": "heading",
+          "text": "2. 針筆之使用與保養"
+        },
+        {
+          "type": "paragraph",
+          "text": "針筆第一次使用前,必須裝填墨水,一般將墨水注入墨水管約八分滿最適當,如圖 2-26 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-26 針筆填墨"
+        },
+        {
+          "type": "paragraph",
+          "text": "若是嚴重阻塞時,可用清洗器清潔之,或可用洗濯用之超音波洗筆器,使用時將清潔液倒 入約七分滿的水於洗筆器內,然後將污垢的筆頭放入其中,再通以電流,幾分鐘後即可洗淨。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 40 2022/4/13 下午 04:25:44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 41"
+        },
+        {
+          "type": "heading",
+          "text": "二、三角板"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 三角板 (Triangles)"
+        },
+        {
+          "type": "paragraph",
+          "text": "三角板通常係由 45 ° × 45 ° × 90 ° 及 30 ° × 60 ° × 90 ° 兩 塊 組 成, 如 圖 2-27(a) 所示,通常刻度是每一小格為 1 mm。 三角板之規格, 45 ° × 45 ° × 90 ° 三角板 是以斜邊 稱之,或以 30 ° × 60 ° × 90 ° 三 角 板 的 60 ° 對 邊 長 度 為 其 規 格, 如 圖 2-27(b) 所示。三角板材質最常用者係用 壓克力或木材製成。用於配合丁字尺或"
+        },
+        {
+          "type": "heading",
+          "text": "平行尺繪製垂直線、 15 度的倍數角度斜"
+        },
+        {
+          "type": "heading",
+          "text": "線、或已知線的平行線、垂直線或特別"
+        },
+        {
+          "type": "paragraph",
+          "text": "角度的平行線、垂直線等。"
+        },
+        {
+          "type": "heading",
+          "text": "使用三角板,常需檢驗各邊是否平"
+        },
+        {
+          "type": "paragraph",
+          "text": "直及垂直。可用圖 2-27(c) 所示方法檢 查。先將三角板的直角邊與丁字尺或平"
+        },
+        {
+          "type": "heading",
+          "text": "行尺緊貼密合,然後畫一垂直細線;再"
+        },
+        {
+          "type": "heading",
+          "text": "將三角板翻轉,其直角邊仍需與丁字尺"
+        },
+        {
+          "type": "heading",
+          "text": "緊貼密合,則另一直角邊若與原垂直線"
+        },
+        {
+          "type": "heading",
+          "text": "重合,表示垂直度正確,否則表示有誤"
+        },
+        {
+          "type": "paragraph",
+          "text": "差。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-27 三角板"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 41 2022/4/13 下午 04:25:45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "42"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 配合三角板使用之器具"
+        },
+        {
+          "type": "heading",
+          "text": "1. 丁字尺 (T-square)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 用途與種類:丁字尺主要是 畫水平線,亦可配合使用三角板畫垂直線或斜線。其構造由 尺頭及尺身組成,尺頭和尺身有固定型、拆卸型,因製圖的尺度單位是公厘 (mm),故尺 身的工作邊上有刻度,每格表示 1 mm;其材質可由硬木或透明壓克力製成,選用時須 注意尺頭工作邊與尺身工作邊需保持垂直,如圖 2-28 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-28 丁字尺"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 42 2022/4/13 下午 04:25:46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 43"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 檢驗:選用丁字尺務求尺頭及尺身工作邊要絕對平直而且互為垂直,不可有凹凸缺口。 如圖 2-29 所示, 以尖銳鉛筆在丁字尺工作邊畫一直線, 並任取兩點 PP ′; 然後將尺身翻轉, 仍用同一工作邊再畫一直線與上述 PP ′ 相交,若此兩直線相吻合,則表示該丁字尺尺身 工作邊的真直度良好。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-29 丁字尺檢驗"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 使用要領:丁字尺之使用如圖 2-30 所示,左手握尺頭於製圖板左端,並使尺頭工作邊沿 製圖板左端抵緊,並可作密合滑動;若 作運行調整時, 左手按尺頭, 右手按尺身推動, 如圖 (a) 所示; 若要畫線, 則將左手輕壓在尺身上, 右手拿鉛筆從左向右畫水平線, 如圖 (b) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-30 丁字尺操作要領 ( 以右手持筆為例 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 43 2022/4/13 下午 04:25:47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "44"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 圖紙之固定安放:除了徒手繪圖不必固定圖紙外,均需將圖紙固定安放;方法有二,其 一是使用製圖用膠帶固定在一般製圖桌面上,其二是使用矽鋼片壓條固定在磁性桌面 上。使用製圖用膠帶固定圖紙在一般製圖桌面上的方法,說明如圖 2-31 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-31 圖紙之固定安放"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 將圖紙放在製圖板上的 左下方 適當位置,離圖板左邊及下邊各約 100 mm 左右。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 將丁字尺的尺頭緊靠製圖板左側邊,並使圖紙的上緣與丁字尺尺身之工作邊平行對齊。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 將丁字尺滑下少許,用製圖膠帶將圖紙上緣之兩角固定在桌面上。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 將丁字尺壓住圖紙,使圖紙平整並使丁字尺下移近圖紙下緣,然後用製圖膠帶將圖紙下緣之"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩角固定在桌面上,即完成固定安放。"
+        },
+        {
+          "type": "heading",
+          "text": "(5) 萬能製圖儀之圖紙固定安放:"
+        },
+        {
+          "type": "heading",
+          "text": "使用萬能製圖儀或平行尺製圖"
+        },
+        {
+          "type": "heading",
+          "text": "時,方法同上,但圖紙則固定"
+        },
+        {
+          "type": "heading",
+          "text": "在 圖 桌 之 中 央 偏 下 方, 如 圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "2-32 所 示。 使 用 矽 鋼 片 壓 條"
+        },
+        {
+          "type": "heading",
+          "text": "固定安放之方法同上,但需先"
+        },
+        {
+          "type": "heading",
+          "text": "將壓條壓在圖紙之上緣及下緣"
+        },
+        {
+          "type": "paragraph",
+          "text": "後,再壓左緣及右緣。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-32 使用萬能製圖儀圖紙之安放位置"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 44 2022/4/13 下午 04:25:47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 45"
+        },
+        {
+          "type": "heading",
+          "text": "2. 平行尺 (Parallel slide)"
+        },
+        {
+          "type": "paragraph",
+          "text": "平行尺 ( 如圖 2-33 所示 ) 與丁字尺之功能相同,使用時以尼龍線與導輪固定於圖板上。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-33 平行尺"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: GOODLY)"
+        },
+        {
+          "type": "paragraph",
+          "text": "平行尺乃利用平行機構原理,可畫平行線,其規格可依製圖板的大小作決定,材質以木 質及鋁質較常用。如圖 2-34 所示,放鬆調整輪,並可作斜線之畫線。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-34 平行尺畫線"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 45 2022/4/13 下午 04:25:48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "46"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 三角板與丁字尺或平行尺之配合使用"
+        },
+        {
+          "type": "heading",
+          "text": "1. 畫水平線:如上所述丁字尺使用要領,將大拇指按於圖板上,四指按於尺身,右手握鉛筆沿"
+        },
+        {
+          "type": "paragraph",
+          "text": "畫線方向與圖面成 60 °, 從左向右畫水平線,並且筆桿稍微旋轉,使筆心保持尖銳,以繪出 粗細相同、濃淡一致的鉛筆線條,如圖 2-35(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 畫直立線:將鉛筆置於三角板左側, 由下往上畫直立線,筆桿沿畫線方向與圖面成 60 °,並"
+        },
+        {
+          "type": "paragraph",
+          "text": "且稍轉鉛筆可作直立線,如圖 2-35(b) 所示,而圖 (d) 與圖 (e) 為鉛筆緊靠方法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-35 畫水平線與直立線"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 46 2022/4/13 下午 04:25:48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 47"
+        },
+        {
+          "type": "heading",
+          "text": "3. 畫 15 ° 倍數角度直線: 畫法敘述如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 使用 45 ° × 45 ° × 90 ° 三角板配合丁字尺或平行尺,可繪出 45 ° 倍數角度 的直線,如圖 2-36(a) 所示。換言之,可將圓最多 等分 8 等分。 (2) 使用 30 ° × 60 ° × 90 ° 三角板配合丁字尺或平行尺,可繪出 30 ° 倍數角度 的直線,如圖 2-36(b) 所示。換言之,可將圓最多 等分 12 等分。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-36 畫角度線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 使用 一組三角板 配合丁字尺或平行尺,可繪出 15 ° 倍數角度 的直線,如圖 2-37(a)、 (b) 所示。換言之,可將圓最多 等分 24 等分。如圖 2-38 為三角板各種角度組合情形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-37 一組三角板可畫 (15 及 75 ° 線 ) 的組合情形"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 47 2022/4/13 下午 04:25:49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 2-38 三角板可將圓作二十四等分之組合情形"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 繪正斜率之斜線,鉛筆之移動方向為由左下方,向右上方移繪。繪負斜率之直線,鉛筆 之移動方向為由左上方,向右下方移繪。"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "用三角板測量角度"
+        },
+        {
+          "type": "heading",
+          "text": "1. 用三角板直接蓋上完全重合,此類角有: 30 度、 45 度、 60 度、 90 度。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 兩個三角板組合相加,此類角有: 75 度、 105 度、 120 度、 135 度、 150 度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 兩個三角板組合相減,此類角有:如 15 度等。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 利用三角板的一條邊,與另一塊三角板的某個角互補:如 150 度、 135 度等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 48 2022/4/13 下午 04:25:50"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 49"
+        },
+        {
+          "type": "heading",
+          "text": "三、圓規與分規"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 圓規 (Compass)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 普通圓規"
+        },
+        {
+          "type": "paragraph",
+          "text": "普通圓規主要是用於畫 直徑 50 mm 至 250 mm 圓及圓弧,其構造係一腳裝鋼針,一腳 裝鉛筆或可替換成針筆,如圖 2-39 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-39 圓規"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: STAEDTLER DM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用圓規時先調整兩腳距離為欲畫圓或弧之半徑,並以左手小指導引針端至圓心位置, 再以大拇指與食指握上端作順時針方向旋轉,如圖 2-40 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-40 圓規使用例"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 49 2022/4/13 下午 04:25:51"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "paragraph",
+          "text": "畫圓時,可將圓心塑墊置於圓心上,可防止紙張破裂或圓心擴大,如圖 2-41 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-41 圓心塑墊至於圓心"
+        },
+        {
+          "type": "paragraph",
+          "text": "一支良好的圓規,其關節鬆緊要適當,兩腳合併時鉛筆的長度稍短於針尖,以方便圓規 之針尖刺於圖紙後,鉛筆心正垂直落於圖紙面上,如圖 2-42 所示。而用來裝在圓規上的鉛 筆心大都採用 HB 的筆心,並削成楔形,長度大約 10 mm 左右。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-42 圓規裝填鉛筆心"
+        },
+        {
+          "type": "paragraph",
+          "text": "當畫較大的圓或圓弧時,必須將圓規兩腳之關節處彎曲,使兩腳與紙面成垂直,若所畫 的圓尺寸 大於直徑 250 mm,則需要用 延伸桿 配合使用或使用 樑規,如圖 2-43 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 50 2022/4/13 下午 04:25:53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 51"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-43 圓規之多樣配件使用例"
+        },
+        {
+          "type": "heading",
+          "text": "2. 彈簧圓規 (Bow compass)"
+        },
+        {
+          "type": "heading",
+          "text": "彈簧圓規主要是用於畫 直徑 6 mm 至"
+        },
+        {
+          "type": "paragraph",
+          "text": "50 mm 圓及圓弧。操作時為避免彈簧螺"
+        },
+        {
+          "type": "heading",
+          "text": "釘受彈簧之壓力而受損,在調整兩腳間距"
+        },
+        {
+          "type": "heading",
+          "text": "時,宜用左手按住兩腳,再以右手手指旋"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉螺帽以調整兩腳間距。使用完後宜儘量"
+        },
+        {
+          "type": "heading",
+          "text": "打開兩腳間距,以免彈性疲乏,如圖 2-44"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-44 彈簧圓規"
+        },
+        {
+          "type": "heading",
+          "text": "3. 點圓規 (Drop compass)"
+        },
+        {
+          "type": "heading",
+          "text": "點圓規主要是用於畫 直徑 6 mm 以下"
+        },
+        {
+          "type": "paragraph",
+          "text": "之小圓及圓弧。操作時以食指按在上端,"
+        },
+        {
+          "type": "heading",
+          "text": "拇指與中指旋轉圓鈕即可,如圖 2-45 所"
+        },
+        {
+          "type": "heading",
+          "text": "示,可藉調整螺絲控制直徑大小,且另一"
+        },
+        {
+          "type": "paragraph",
+          "text": "腳可換裝鉛筆、鴨嘴筆或針筆。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-45 點圓規"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 51 2022/4/13 下午 04:25:54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "52"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 分規 (Divider)"
+        },
+        {
+          "type": "paragraph",
+          "text": "分規係用以 轉量長度、 等分長度 等用途之儀器。分規與圓規非常相似,差別在於分規兩腳 均裝置鋼針,閉合時兩腳針必須在同一直線上並緊靠一起。如圖 2-46 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-46 分規及操作"
+        },
+        {
+          "type": "paragraph",
+          "text": "分規的使用方法是以大拇指及食指和小指分置於兩針腳外側,而以無名指及中指置於內側。 欲調整兩腳距離時,以內側兩指控制其張開,以外側三指控制其閉合。如圖 2-47(a) 所示。 連續取等長線段或圓弧時,用大拇指與食指執於柄端,置針腳於線端,另一腳張開適當長 後置於線內,以分規旋半轉,然後反向旋半轉方式依順序取線段,如圖 2-47(b) 所示,可用此法 等分線段或圓弧。若分成之線段不正確,則需調整分規兩腳張開距離重新試分幾次,直至正確 為止。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-47 分規的操作"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 52 2022/4/13 下午 04:25:55"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 53"
+        },
+        {
+          "type": "heading",
+          "text": "成套製圖儀器 (Drafting"
+        },
+        {
+          "type": "heading",
+          "text": "instruments) 係由多件儀器所"
+        },
+        {
+          "type": "heading",
+          "text": "組成,但基本上包括有圓規、"
+        },
+        {
+          "type": "heading",
+          "text": "彈簧圓規、點圓規、延伸桿、"
+        },
+        {
+          "type": "heading",
+          "text": "分規及一些附件,如圖 2-48"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示為一套製圖儀器。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-48 成套製圖儀器"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: STAEDTLER DM)"
+        },
+        {
+          "type": "heading",
+          "text": "四、其他製圖用具"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 量角器 (Protractor)"
+        },
+        {
+          "type": "heading",
+          "text": "量角器的主要用途是用以量取"
+        },
+        {
+          "type": "heading",
+          "text": "已知角度或繪製所需的角度,常以塑"
+        },
+        {
+          "type": "heading",
+          "text": "膠或壓克力製成透明薄板片,形狀有"
+        },
+        {
+          "type": "heading",
+          "text": "半圓環及圓形環兩種;在環上面刻有"
+        },
+        {
+          "type": "heading",
+          "text": "刻度,每一小格代表 1 度,如圖 2-49"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-49 量角器與使用"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用要領是將環上的水平基準,與欲作角度之基準線對齊重疊,並使基準線之端點恰位於 量角器中心正交處;以鉛筆在量角器刻劃環外設定所需角度點,移開量角器並連接該點與基準 線之端點,即得所需的角度。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 橡皮擦 (Eraser)"
+        },
+        {
+          "type": "paragraph",
+          "text": "橡皮擦是用以擦去畫錯或多餘之線條與文字。通常製圖用橡皮擦有兩種,一種為軟橡皮擦, 用以擦鉛筆線;另一種為化學橡皮擦,用以擦拭墨線之用,如圖 2-50 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-50 橡皮擦"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: rotring DM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 53 2022/4/13 下午 04:25:57"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "54"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 擦線板"
+        },
+        {
+          "type": "heading",
+          "text": "擦線板通常是薄金屬或塑膠片所製成,"
+        },
+        {
+          "type": "heading",
+          "text": "有各種形狀、大小不同之缺口;使用時可用擦"
+        },
+        {
+          "type": "heading",
+          "text": "線板掩蓋欲保留之線條,把空隙對準欲擦掉之"
+        },
+        {
+          "type": "paragraph",
+          "text": "線條,再用橡皮擦擦拭即可。如圖 2-51 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-51 擦線板"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 比例尺 (Scale)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 用途、規格:比例尺主要用途是用以轉移尺寸與量度,常用於繪製與原圖大小成一適當比例"
+        },
+        {
+          "type": "paragraph",
+          "text": "的圖形。主要材質有竹材或質優塑膠或鋁合金等材料製成,目前常用者依斷面形狀有三菱尺 與扁平尺兩種,如圖 2-52(a)、 (b) 所示。 比例尺依工作情形分類為機械工程用、土木工程用、建築工程用等多種,並且每一種都 有公、英制之分,我國則採用公制的比例尺,單位為公厘 (mm)。通常機械工程用的比例尺 刻度有 1/100、 1/200、 1/300、 1/400、 1/500、 1/600 等六種比例分別記載於三菱尺的六面上。 如圖 2-52(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-52 比例尺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: PChome 商店街&痞客幫庭逸室內裝修 )"
+        },
+        {
+          "type": "heading",
+          "text": "2. 比例尺使用注意事項"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 切勿用分規之兩腳在比例尺上量尺度再移到圖上,以免損傷比例尺之尺面而且又耗時間。 (2) 在同一線上作兩個以上連續尺度之量測時,儘可能不要移動比例尺,以免產生尺度之累 積誤差。 (3) 不可將比例尺當直尺作畫線之用,以免磨損尺邊或使刻度模糊。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 54 2022/4/13 下午 04:25:58"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 55"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 比例分規 (Proportional dividers)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 用途與構造"
+        },
+        {
+          "type": "heading",
+          "text": "比例分規是用以按一定"
+        },
+        {
+          "type": "heading",
+          "text": "比例放大或縮小線段或圓周"
+        },
+        {
+          "type": "paragraph",
+          "text": "的量度工具。係由兩支兩端"
+        },
+        {
+          "type": "heading",
+          "text": "是針尖之桿,及滑動的螺釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "固定所組成。桿上刻有刻度"
+        },
+        {
+          "type": "heading",
+          "text": "及數字,將調整螺釘移至一"
+        },
+        {
+          "type": "heading",
+          "text": "刻度上,此一刻度一端所量"
+        },
+        {
+          "type": "heading",
+          "text": "即為原尺寸長度,另一端則"
+        },
+        {
+          "type": "heading",
+          "text": "為放大或縮小的尺寸長度,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-53 所示。 ▲ 圖 2-53 比例分規"
+        },
+        {
+          "type": "heading",
+          "text": "2. 比例分規使用方法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 放大或縮小線段的操作: 先將兩桿併合,調整螺釘下方的刻度對齊左側所需的比例刻度, 並設定 A 端為原尺寸, B 端則為開腳的放大尺寸。如比例刻度取 5 刻度,即表示 A 端的 原尺寸為 10 mm 時, B 端則為放大尺寸 50 mm。 (2) 圓周量度或等分操作: 如圖 2-54 所示,先將兩桿併合,調整螺釘下方刻度至右側所需的 比例刻度,並設定 B 端為等分圓周的半徑長,則 A 端之開腳尺寸即為等分長度。如將一 半徑為 50 mm 的圓作 10 等分,則將比例刻度設定在 10 刻度,並將 B 端兩腳尖打開至圓 的半徑 50 mm,則 A 端的開腳長即為等分長。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-54 比例分規"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 55 2022/4/13 下午 04:25:59"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "56"
+        },
+        {
+          "type": "heading",
+          "text": "2-3 各式模板與使用"
+        },
+        {
+          "type": "heading",
+          "text": "一、模板 (Template)"
+        },
+        {
+          "type": "paragraph",
+          "text": "模板的主要用途可增加繪圖的速度與保持圖面美觀與工整,使用時須配合鉛筆或針筆使用。 如圖 2-55(a)、 (b) 所示分別為最常用的圓模板、橢圓模板,圖 2-56 為文字符號的字規。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-55 模板"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-56 字規"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 56 2022/4/13 下午 04:26:02"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 57"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓模板上方數字代表圓之直徑,畫圓時,須注意圓模板上圓的四分點記號必須對準圓之中 心線,以確保圓心位置正確,如圖 2-57 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-57 四分點記號必須對準圓之中心線"
+        },
+        {
+          "type": "paragraph",
+          "text": "各式模板通常有凹槽式、斜角式與凸點式,如表 2-1 所示,主要目的在於使用針筆時,可避 免墨汁滲入圖紙與模板之間而污染圖面清潔及破壞美觀。繪製時,不論鉛筆或針筆,筆桿要垂 直圖面、緊靠模板,並注意視線與刻劃要垂直以準確定位尺寸,運筆方向一般由上而下,由左 往右以省時易畫。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 2-1 各式模板使用要領"
+        },
+        {
+          "type": "heading",
+          "text": "各式模板 凹槽式 斜角式 凸點式"
+        },
+        {
+          "type": "heading",
+          "text": "針筆"
+        },
+        {
+          "type": "heading",
+          "text": "鉛筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 57 2022/4/13 下午 04:26:05"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "58"
+        },
+        {
+          "type": "heading",
+          "text": "二、曲線板 (French curves) 與曲線規 (Curve rulers)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 曲線板:係用來繪製除圓弧外之各種曲線的模板工具,其外形是由漸開線、雙曲線、拋物"
+        },
+        {
+          "type": "paragraph",
+          "text": "線、擺線、橢圓、螺旋線及其他不規則曲線等所組成,常用者有三片,亦有多至十六片者, 如圖 2-58 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-58 曲線板"
+        },
+        {
+          "type": "heading",
+          "text": "2. 曲線規:為一可撓式,可摺成各種"
+        },
+        {
+          "type": "heading",
+          "text": "不規則形狀;但曲線規對於較小彎"
+        },
+        {
+          "type": "heading",
+          "text": "曲處較不易彎曲成形繪製為其缺點,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 2-59 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-59 曲線規"
+        },
+        {
+          "type": "heading",
+          "text": "3. 曲線板或曲線規之使用乃依圖形所"
+        },
+        {
+          "type": "heading",
+          "text": "需曲線,尋找曲線板上一樣曲線之"
+        },
+        {
+          "type": "heading",
+          "text": "一段連接之,其要領是取通過三點"
+        },
+        {
+          "type": "heading",
+          "text": "以上連接中間一段之曲線較圓滑,"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 2-60 所示為使用曲線板連接一"
+        },
+        {
+          "type": "paragraph",
+          "text": "曲線之情形。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-60 三點以上連接中間一段較圓滑"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 58 2022/4/13 下午 04:26:06"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 2 製圖設備與用具 59"
+        },
+        {
+          "type": "heading",
+          "text": "2-4 電腦輔助製圖軟體與硬體設備"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程圖是國際間共通的工業語言,它用以表達產品的形狀、大小、結構和加工法,可作為 產品設計與製造的標準依據。早期的工程圖使用三角板、丁字尺或萬能製圖儀等製圖工具,以 手工製圖,但因電腦科技的進步,結合電腦從事製圖,圖面可以修改或編輯、重複使用或合併、 圖檔交換使用,具可攜性和交換性,而且圖形精確度高,提昇了工作效率,因此近十幾年來逐 漸為工業界所普遍採用。 較常見的 電腦輔助繪圖 (Computer aided graphics,簡稱 CAG ) 軟體有 AutoCAD、 CADkey、 TurboCAD、 Microstation、 Solidedge、 SolidWorks、 Inventor、 Pro-Engineer ⋯⋯ 等 等, 不 同 軟 體 其功能、特性、價格皆有明顯差異。 現今的電腦輔助設計 (Computer aided design,簡稱 CAD) 係應用電腦繪圖軟體協助設計 者,藉以進行設計創造、修改或分析產品成最佳化。故除了繪圖、三度空間實體、曲面功能 外,亦提供常用機械元件及符號,並結合機械力學的質量、慣性矩等資料,除了可以顯示圖形 及顯現效果外,亦可作物件的動畫模擬,甚至將繪製完成的工程圖資料透過自動程式刀具系統 (Automatic programming tool system, APT) 轉換至 電腦輔助製造 (Computer aided manufacturing, 簡稱 CAM ),製作出電腦程式,然後透過 電腦數值控制 (Computer numerical control,簡稱 CNC ) 機械進行加工製造,故未來電腦製圖有逐漸取代傳統手工繪圖的趨勢。 CAD 的電腦基本配備有主機、鍵盤、螢幕、滑鼠及繪圖機或印表機,如圖 2-61 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 2-61 電腦繪圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 59 2022/4/13 下午 04:26:06"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch02/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "paragraph",
+          "text": "通常電腦輔助製圖軟體功能愈強,其所需的電腦硬體設備相對要提昇。其中 AutoCAD 是 目前最廣為建築、工程、機械設計業界所使用的電腦輔助製圖軟體,故其硬體需求建議如表 2-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 2-2 AutoCAD 軟硬體需求"
+        },
+        {
+          "type": "paragraph",
+          "text": "Microsoft Windows 7 /Microsoft Windows 8.1/"
+        },
+        {
+          "type": "heading",
+          "text": "作業系統"
+        },
+        {
+          "type": "heading",
+          "text": "Microsoft Windows 10"
+        },
+        {
+          "type": "heading",
+          "text": "®"
+        },
+        {
+          "type": "paragraph",
+          "text": "瀏覽器 Internet Explorer 9.0 或更高版本"
+        },
+        {
+          "type": "heading",
+          "text": "® ®"
+        },
+        {
+          "type": "paragraph",
+          "text": "中央處理器 (CPU) 最低配備為 Intel Pentium 4 或 AMD Athlon 64 處理器 記憶體 (RAM) 4 GB 以上, 8 GB 為佳 顯示解析度 1360 × 768 全彩 ( 建議使用 1600 × 1050 或更高解析度 )"
+        },
+        {
+          "type": "heading",
+          "text": "磁碟空間 完整安裝建議 6 GB 以上"
+        },
+        {
+          "type": "heading",
+          "text": "指向設備 MS 滑鼠相容"
+        },
+        {
+          "type": "heading",
+          "text": "®"
+        },
+        {
+          "type": "paragraph",
+          "text": ".NET Framework Microsoft.NET Framework 4.6 版 顯示卡 支援能顯示 1360 × 768 全彩和具備 DirectX9 的 Windows 顯示卡。 光碟機 DVD 光碟機、藍光光碟機 ( 建議安裝 AutoCAD 2017)"
+        },
+        {
+          "type": "heading",
+          "text": "出圖設備 印表機或繪圖機"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "丙級電腦輔助機械設計製圖技術士"
+        },
+        {
+          "type": "paragraph",
+          "text": "(資料來源:勞發署技能檢定中心與 learn.104 網證照中心)"
+        },
+        {
+          "type": "heading",
+          "text": "一、 工作內涵與項目:係擔任機械產品之圖面繪製與整理工作,從事應用電腦輔助設計與製圖 (Computer-"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aided Design and Drafting, CADD) 軟體及繪圖用具,繪製機械產品之零件圖、組合圖、等角立體圖 及圖面整理等工作範圍。包括基本工作、視圖、尺度、機械元件、工作圖、徒手畫、工業安全與衛生 及職業道德等工作項目。"
+        },
+        {
+          "type": "heading",
+          "text": "二、相關職務推薦: 1.CAD / CAM 工程師、 2. 機械設計/繪圖人員、 3. 工業設計、 4. 電腦繪圖人員。"
+        },
+        {
+          "type": "heading",
+          "text": "三、相關技能推薦: 1. 電腦繪圖軟體操作、 2. 電腦輔助設計軟體操作、 3. 機械相關圖表繪製、 4. 工程測量。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 60 2022/4/13 下午 04:26:07"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "heading",
+          "text": "2-1 ( )1. 下列敘述何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 製圖板通常以檜木或松木較理想"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 製圖板的上下兩邊鑲有直且硬的木條或金屬,可兼作導邊用途"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 製圖架可作上下左右調整"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 製圖桌上面板可作 90 ° 之調整。"
+        },
+        {
+          "type": "heading",
+          "text": "( )2. 萬能製圖儀乃利用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 相等曲柄機構 (B) 平行運動機構 (C) 直線運動機構 (D) 雙搖桿機構。"
+        },
+        {
+          "type": "heading",
+          "text": "( )3. 萬能製圖儀的功能不包含下列哪一項?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 丁字尺 (B) 圓規 (C) 量角器 (D) 三角板。 2-2 ( )4. 鉛筆筆桿末端有 F 字樣,表示其筆心為 (A) 軟而黑 (B) 中硬度 (C) 硬質 (D) 色淡。"
+        },
+        {
+          "type": "heading",
+          "text": "( )5. 下列鉛筆等級中畫出之線條最黑者為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A)4H (B)3B (C)HB (D)H。 ( )6. 製圖所用之鉛筆,下列何種等級筆心最硬? (A)2B (B)HB (C)F (D)2H。"
+        },
+        {
+          "type": "heading",
+          "text": "( )7. 下列哪級鉛筆屬中質類鉛筆?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A)4H (B)H (C)2B (D)3B。"
+        },
+        {
+          "type": "heading",
+          "text": "( )8. 鉛筆依其硬軟的次序為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A)B、 BH、 F、 H、 2H (B)B、 HB、 F、 H、 2H (C)2H、 H、 F、 BH、 B (D)2H、 H、 F、 HB、 B。"
+        },
+        {
+          "type": "heading",
+          "text": "( )9. 下列何種筆心不為製圖所採用?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A)2H (B)F (C)HB (D)3B。"
+        },
+        {
+          "type": "heading",
+          "text": "( )10. F 級鉛筆的硬度比 HB 級鉛筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 硬 (B) 軟 (C) 一樣 (D) 不一定。"
+        },
+        {
+          "type": "heading",
+          "text": "( )11. 繪鉛筆圖打底稿時應力求"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 細黑 (B) 粗淡 (C) 細淡 (D) 細黑。"
+        },
+        {
+          "type": "heading",
+          "text": "( )12. 下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 筆心按等級 H 比 F 硬"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 筆心按等級 H 比 B 硬"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 一張工程圖通常用 3H、 2H 繪製底線 (D) 寫字用 H、 HB 筆心等級。"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 61 2022/4/13 下午 04:26:07"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( )13. 下列敘述何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 製圖架之面板可作 135 ° 內之調整"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 鉛筆筆心之等級從 9H 至 7B 共有 18 級"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 工程筆之筆心為 0.5 mm 的鉛筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 木削鉛筆乃是用小刀在有註明筆心等級端削去木皮,使筆心露出約 2 mm。 ( )14. 30 ° × 60 ° × 90 ° 三角板之標稱大小係指哪一邊? (A)90 ° 之對邊長 (B)60 ° 之對邊長 (C)30 ° 之對邊長 (D) 三角板之斜邊。 ( )15. 利用一組三角板配合丁字尺最多可將一圓等分成幾等分? (A)12 (B)18 (C)24 (D)30。 ( )16. 一組三角板與丁字尺聯合使用,可畫出最小角度線是 (A)5 ° (B)10 ° (C)15 ° (D)20 °。"
+        },
+        {
+          "type": "heading",
+          "text": "( )17. 下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 萬能製圖儀乃利用平行運動機構原理設計而成"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 丁字尺主要是畫水平線、平行線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 三角板通常是由 45 ° × 45 ° 及 30 ° × 60 ° 兩塊組成一副 (D) 一副三角板可將圓十二等分。 ( )18. 用一組三角板與丁字尺配合畫傾斜線時,下列何種角度無法畫出? (A)15 ° (B)120 ° (C)125 ° (D)150 °。 ( )19. 樑規的主要用途是 (A) 定角度 (B) 畫大圓 (C) 定比例 (D) 畫直線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )20. 分規的用途是"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 畫圓 (B) 轉量長度與畫圓 (C) 等分與畫圓 (D) 等分與轉量長度。"
+        },
+        {
+          "type": "heading",
+          "text": "2-2 ( )21. 下列敘述成套儀器何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 分規的用途係用以轉量長度、等分長度 (B) 圓規主要用途是畫圓及圓弧 (C) 點圓規主要用於畫直徑 3 mm 以下之小圓或弧 (D) 彈簧圓規主要用於畫大圓。"
+        },
+        {
+          "type": "heading",
+          "text": "( )22. 有關製圖儀器的使用,下列何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 曲線板不可以用來描繪漸開線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 利用三角板配合丁字尺可繪製出 245 ° 的傾斜線"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 分規可用來移量長度或等分線段"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 繪圖比例為 1: 2.5,係以 1: 2 的比例尺量取實物的長度,再以 5: 1 的比例尺 之相對長度繪製於圖紙上。"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH02.indd 62 2022/4/13 下午 04:26:07"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

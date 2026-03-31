@@ -1,0 +1,565 @@
+{
+  "bundle_id": "MOCK_102_0_ENG",
+  "questions": [
+    {
+      "id": "MOCK_102_0_ENG_001",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Cheating at the game ruined the most valuable players’ ____________.",
+      "image_url": "",
+      "options": [
+        "knowledge",
+        "dishonesty",
+        "prediction",
+        "reputation ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_002",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Americans were surprised to find that their country was ____________ number thirteen in quality of life worldwide.",
+      "image_url": "",
+      "options": [
+        "deleted",
+        "chained",
+        "rated",
+        "scared ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_003",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "A Boeing 787 made an ____________ landing earlier this week because of the plane’s overcharged batteries.",
+      "image_url": "",
+      "options": [
+        "emergency",
+        "emotion",
+        "emphasis",
+        "empire ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_004",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "本試卷均為單一選擇題,每題都有",
+      "image_url": "",
+      "options": [
+        "、",
+        "、",
+        "、",
+        "四個選項,請 選一個最適當答案,在答案卡同一題號對應方格內,用 2B 鉛筆塗滿 方格,但不超出格外。 ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_005",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "The weather has recently been ____________ and this may cause illnesses.",
+      "image_url": "",
+      "options": [
+        "greedy",
+        "domestic",
+        "anxious",
+        "unstable ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_006",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "The report has to be ____________ to the board of directors next Friday for approval.",
+      "image_url": "",
+      "options": [
+        "exaggerated",
+        "screamed",
+        "submitted",
+        "equipped ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_007",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Studies have found that alcohol can cause or worsen the common ____________ of sneezing, itching, and coughing. 公告試題",
+      "image_url": "",
+      "options": [
+        "greetings",
+        "symptoms",
+        "terminals",
+        "nightmares ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_008",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "May’s mother made a quick ____________ from her sickness after taking the medicine.",
+      "image_url": "",
+      "options": [
+        "recovery",
+        "emotion",
+        "religion",
+        "energy ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_009",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "I began to learn the piano when I was at college and soon found out that I was good at it.",
+      "image_url": "",
+      "options": [
+        "decided",
+        "discovered",
+        "contained",
+        "considered ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_010",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Experts from more than 20 countries met in India to talk over climate change and food safety.",
+      "image_url": "",
+      "options": [
+        "convince",
+        "collect",
+        "discuss",
+        "deny ˉ 僅供參考"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_011",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "The Cancer Genome Atlas Project found that gene mapping identifies four different types of breast cancer.",
+      "image_url": "",
+      "options": [
+        "recognizes",
+        "contrasts",
+        "conceals",
+        "simplifies ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_012",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "According to studies, drinking one or two glasses of wine a week during pregnancy can have an impact on the baby’s brain.",
+      "image_url": "",
+      "options": [
+        "excuse",
+        "agreement",
+        "option",
+        "influence ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_013",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "John’s father was so busy that he totally ignored his own health.",
+      "image_url": "",
+      "options": [
+        "founded",
+        "persuaded",
+        "neglected",
+        "discouraged ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_014",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Over the years, her singing has given pleasure to people all over the world.",
+      "image_url": "",
+      "options": [
+        "care",
+        "light",
+        "manner",
+        "joy ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_015",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "With online dating, people learn a lot about a potential partner before meeting each other.",
+      "image_url": "",
+      "options": [
+        "humorous",
+        "real",
+        "possible",
+        "generous"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_016",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Teacher: I called your mom today, and she said you weren’t home until 10 p.m. So, where were you? Hank: Um... I’m sorry. _______________ Teacher: As long as you’re telling me the truth, it’s OK.",
+      "image_url": "",
+      "options": [
+        "I went to a concert.",
+        "Don’t make fun of me.",
+        "My mom thought I was late.",
+        "You didn’t call my mom. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_017",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Travel Agent: Now, our agency has come up with a travel package — Buy Two Get One Free. Passenger: _______________ Travel Agent: Yes, would you like to purchase this travel package?",
+      "image_url": "",
+      "options": [
+        "It sounds like a comic!",
+        "It depends on the weight.",
+        "It sounds great!",
+        "It depends on you. ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_018",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Reporter: Hello, what’s your name? Protester: My name is Emma. Reporter: _______________ Protester: Yes. I am here to speak for the animals.",
+      "image_url": "",
+      "options": [
+        "Are you afraid of animals?",
+        "How many people are here?",
+        "Are you here to protest against animal testing?",
+        "What do you say about the animal shelters? ˉ 公告試題"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_019",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Mary: John, can you do me a favor? John: Sure. What can I do for you? Mary: I’m going to my son’s music performance tomorrow morning. _______________ John: OK. I guess I can.",
+      "image_url": "",
+      "options": [
+        "Could you take my shift?",
+        "Why not ask someone else?",
+        "In case I am occupied.",
+        "It sounds like a good excuse. ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_020",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Policeman: Sir, please move your vehicle immediately. Jack: Did I do anything wrong? 僅供參考 Policeman: You parked in the space reserved for the disabled. Jack: _______________ Policeman: Thank you for your cooperation.",
+      "image_url": "",
+      "options": [
+        "But, there is no one parking here.",
+        "I’m sorry. I will move it right away.",
+        "Really? I thought you understand my situation.",
+        "I think you need to calm down. ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_021",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Jane: Thank you for stopping by. Can I get you anything? Lisa: _______________ Jane: Coming right up.",
+      "image_url": "",
+      "options": [
+        "You have nothing I want from you.",
+        "A cup of coffee would be nice.",
+        "No, I don’t drink in the daytime.",
+        "I don’t know what I have in mind."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_022",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Coffee Shop Clerk: What can I get for you? Customer: Mocha, please. Coffee Shop Clerk: ____________ Customer: Half milk and no sugar. Thank you.",
+      "image_url": "",
+      "options": [
+        "For here or to go?",
+        "How would you like it?",
+        "Cash or charge?",
+        "How would you like to pay for it? ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_023",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Lucy: You forgot to clean your room as you promised, Tom. Tom: Oh, no! It totally slipped my mind. Will you do it for me before Mom gets back? Lucy: ____________",
+      "image_url": "",
+      "options": [
+        "In your dreams!",
+        "Out of sight, out of mind!",
+        "You are welcome.",
+        "You are a boy of my dream. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_024",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Zoo Keeper: You look like you are having a good time with the kangaroos. Child: Yeah, I do! I notice that they are sensitive when someone is getting close to them. Zoo Keeper: Good observation! _______________ Child: Thank you.",
+      "image_url": "",
+      "options": [
+        "You need to feed them more.",
+        "You’re really good with animals.",
+        "You take such good care of them.",
+        "You’re going to learn how to take care of them. ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_025",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Olivia: What’s the biggest source of pollution? The answer might surprise you. Fenny: Plastic bags? Olivia: 公告試題 No, throwaway diapers. Fenny: But how come they became a source of pollution? Olivia: _______________",
+      "image_url": "",
+      "options": [
+        "About fifty years ago.",
+        "They don’t break down easily.",
+        "Cotton diapers are good for the environment.",
+        "People are using fewer throwaway diapers. ˉ III. 綜合測驗:以下三篇短文,共有 15 個空格,為第 26 至 40 題,每題有四個 僅供參考 選項,請依各篇短文文意,選出一個最適合該空格的答案。 ˉ ▲ 下篇短文共有 5 個空格,為第 26 – 30 題,請依短文文意,選出一個最適合該空格 的答案 。 In my free time, I really like surfing the Internet. When I get home from work, I turn on my computer, wait until it boots up completely, and then go online. With a broadband Internet service, webpages load faster with a high-speed 26, and I can upload and download files faster. I usually check my e-mail first and write a few messages to family and friends. I sometimes 27 the local news headlines at my favorite news website and read up on the 28 local and international news. This website often provides video news clips that I can view online. I sometimes order products online to save money and time 29 going to a store and buying what I am looking for. Whatever I do, I realize that there are problems with using the Internet, including scams, identity theft, and viruses. I am very careful not to 30 my personal information. Using the Internet can be a fun and convenient way of shopping and finding out new information, but I just need to be careful."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_026",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "What is the main idea of the passage?",
+      "image_url": "",
+      "options": [
+        "The demand for coal.",
+        "The greenhouse effect.",
+        "The use of wind energy.",
+        "The climate change. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_027",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "In line 2, what does the word “ it ” refer to? 公告試題",
+      "image_url": "",
+      "options": [
+        "Pollution.",
+        "Enemy.",
+        "Coal.",
+        "Estimate. ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_028",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "According to the passage, why does coal’s future rely on China and India?",
+      "image_url": "",
+      "options": [
+        "The two countries have not found relatively clean energy sources yet.",
+        "The two countries depend heavily upon coal to generate power.",
+        "Coal industry attracts a lot of attention in the two countries.",
+        "Coal is bright and readily available in the two countries. ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_029",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "In the passage, the word “ 僅供參考 impediment ” is closest in meaning to __________.",
+      "image_url": "",
+      "options": [
+        "advantage",
+        "benefit",
+        "convenience",
+        "obstacle ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_030",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Which of the following is NOT the advantage of coal according to the passage?",
+      "image_url": "",
+      "options": [
+        "Image.",
+        "Price.",
+        "Shipping.",
+        "Availability. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_031",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "How to treat snakebites.",
+        "A general introduction to snakes.",
+        "The eating habits of snakes.",
+        "Where to find snakes. 公告試題 ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_032",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "According to the passage, which of the following is mentioned as a symbol of good luck?",
+      "image_url": "",
+      "options": [
+        "Keeping snakes as pets.",
+        "Shoes or boots.",
+        "Decorations with snake designs.",
+        "Fallen trees. ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_033",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Which of the following reasons is NOT given in the passage to explain why people are scared of snakes?",
+      "image_url": "",
+      "options": [
+        "Their poisonous bites.",
+        "Their open and bright eyes. 僅供參考",
+        "Their lack of arms and legs.",
+        "Their ability to attack people without warning. ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_034",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "The word “ prey ” in the second paragraph refers to __________.",
+      "image_url": "",
+      "options": [
+        "screams",
+        "small vibrations",
+        "silent creatures",
+        "hunted animals ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：102四技二專英文科答案.pdf"
+    },
+    {
+      "id": "MOCK_102_0_ENG_035",
+      "subject": "英文",
+      "unit": "102四技二專英文科",
+      "q": "Which of the following is NOT a way to avoid snakebites?",
+      "image_url": "",
+      "options": [
+        "Stay in open fields.",
+        "Avoid grassy areas.",
+        "Wear heavy boots.",
+        "Scream at snakes. ˉ 【以下空白】"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：102四技二專英文科答案.pdf"
+    }
+  ]
+}

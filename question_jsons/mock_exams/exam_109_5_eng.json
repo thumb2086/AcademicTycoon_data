@@ -1,0 +1,501 @@
+{
+  "bundle_id": "MOCK_109_5_ENG",
+  "questions": [
+    {
+      "id": "MOCK_109_5_ENG_001",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Ice cream melts at room and turns into liquid within a few minutes.",
+      "image_url": "",
+      "options": [
+        "temperature",
+        "adventure",
+        "experiment",
+        "discussion"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "冰淇淋在室溫下幾分鐘之內就會融化,變成液體。 (C) 你也是。 (D) 開開玩笑而已。 (A) 溫度 (B) 冒險 (C) 實驗 (D) 討論"
+    },
+    {
+      "id": "MOCK_109_5_ENG_002",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "It takes at least four hours to fully the battery of my e-bike.",
+      "image_url": "",
+      "options": [
+        "employ",
+        "deliver",
+        "charge",
+        "arrange"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "我的電動腳踏車需要至少四個小時才能完全充飽電。 乘客: (A) 雇用 (B) 遞送 (C) 充電;收費 (D) 安排 計程車司機:沒問題。請繫上安全帶。大約要 40 分"
+    },
+    {
+      "id": "MOCK_109_5_ENG_003",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "The student’s frequent from school led to his poor grades at the end of the semester.",
+      "image_url": "",
+      "options": [
+        "comment",
+        "balance",
+        "fashion",
+        "absence"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "安迪 (Andy) 是那場爆炸的受害者之一。 解 答: Andy is one of the victims of / in the / that explosion / bombing. 評閱指標 級分 說明 能充分表達原文題意,文法、標點正確,用字 4 遣詞沒有不當之處。 能適切表達原文題意,文法、標點、用字遣詞 3 僅有少數不當之處。 僅能部分表達原文題意,文法、標點、用字遣 2 詞有多處失當之處。 無法表達原文題意,文法、標點、用字遣詞僅 1 有少數正確之處。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_109_5_ENG_004",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "While the origin of the food poisoning is still under investigation, the undercooked seafood is considered the most cause.",
+      "image_url": "",
+      "options": [
+        "suspicious",
+        "vocational",
+        "fortunate",
+        "peaceful"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "雖然這起食物中毒的源頭還在調查中,沒煮熟的海鮮 (A) 它在我的行李裡面。 (B) 我來自美國。 被認為是最有嫌疑的起因。 (C) 飛航班次是 OZ717 。 (D) 請到桃園國際機場。 (A) 有嫌疑的 (B) 職業的 (C) 幸運的 (D) 平靜的"
+    },
+    {
+      "id": "MOCK_109_5_ENG_005",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Green building is a method of which produces healthier buildings and has less impact on the environment.",
+      "image_url": "",
+      "options": [
+        "direction",
+        "construction",
+        "attraction",
+        "infection"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "綠建築是一種建築方式,能產生更健康的建築物,對 老師:好啊!珍。 環境衝擊比較小。 珍:我不知道該怎樣調整讀書計畫。 (A) 方向;指導 (B) 建築 (C) 吸引力 (D) 感染 老師:我知道了。中午帶著妳的計劃到我辦公室來,"
+    },
+    {
+      "id": "MOCK_109_5_ENG_006",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "I have booked a double room for two nights at the five-star hotel in advance.",
+      "image_url": "",
+      "options": [
+        "reserved",
+        "expressed",
+        "separated",
+        "interrupted"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "我已經事先在那家五星級飯店預訂了兩晚的雙人房。 好嗎? (A) 預訂 (B) 表達 (C) 分離 (D) 干涉;中斷 (A) 我什麼時候能再見到妳?"
+    },
+    {
+      "id": "MOCK_109_5_ENG_007",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "The two companies made a deal and developed partnership in business.",
+      "image_url": "",
+      "options": [
+        "souvenir",
+        "legend",
+        "bargain",
+        "response"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "這兩家公司做出交易,發展商業夥伴關係。 (B) 什麼事困擾著妳呢? (A) 紀念品 (B) 傳說 (C) 交易 (D) 回應,回覆 (C) 妳跟誰一起過來的?"
+    },
+    {
+      "id": "MOCK_109_5_ENG_008",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "I was disappointed that Jake failed to keep his word. It’s hard for me to put trust in him now.",
+      "image_url": "",
+      "options": [
+        "feature",
+        "opinion",
+        "distance",
+        "promise"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "我很失望傑克沒有遵守承諾。現在我很難信任他了。 (D) 妳去哪裡了? (A) 特色 (B) 看法,意見 (C) 距離 (D) 承諾"
+    },
+    {
+      "id": "MOCK_109_5_ENG_009",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "The growing crime rate in this area has caused anxiety among the residents.",
+      "image_url": "",
+      "options": [
+        "passion",
+        "concern",
+        "violence",
+        "wealth"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "這個地區上升的犯罪率已經引起了居民的焦慮。 店員: (A) 熱情 (B) 擔憂 (C) 暴力 (D) 財富 凱文:我知道了。謝謝!"
+    },
+    {
+      "id": "MOCK_109_5_ENG_010",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "It is unbelievable that the woman owns two hundred pairs of shoes.",
+      "image_url": "",
+      "options": [
+        "visible",
+        "reasonable",
+        "incredible",
+        "flexible"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "難以置信的是,這位女士擁有 200 雙鞋子。 店員:不客氣。 (A) 可看見的,顯眼的 (B) 合理的 (A) 你沒有什麼好損失的。 (B) 你似乎迷路了。 (C) 難以置信的 (D) 靈活的,可變通的 (C) 我在尋找我的背包。 (D) 在手扶梯旁邊。"
+    },
+    {
+      "id": "MOCK_109_5_ENG_011",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "The runner had been burnt out by the time he reached the finish line of the marathon.",
+      "image_url": "",
+      "options": [
+        "discovered",
+        "exhausted",
+        "respected",
+        "convinced II. 對話題 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "那位跑者在抵達馬拉松的終點線時,已經筋疲力竭了。"
+    },
+    {
+      "id": "MOCK_109_5_ENG_012",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Bruce: Hello. This is Bruce from Queen’s Bookstore. May I speak to Mr. Johnson? Operator: I’ll put you through to him. Bruce: Thank you. Operator: You’re welcome.",
+      "image_url": "",
+      "options": [
+        "Hold on a moment, please.",
+        "This is he speaking.",
+        "May I take a message for you?",
+        "Who is calling, please?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "布魯斯:嗨!我是皇后書店的布魯斯。可以跟強生先 (A) 玫瑰花對妳有什麼意義? 生通話嗎? (B) 妳比較喜歡哪種顏色? 總機: 我將為您轉接給他。 (C) 妳多久買一次玫瑰花? 布魯斯:謝謝。 (D) 妳需要多少支玫瑰花? 總機:不客氣。"
+    },
+    {
+      "id": "MOCK_109_5_ENG_013",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Tour guide: We are at the end of the guided tour. Thank you for visiting our town. Visitor: It’s a wonderful walk tour around the old streets and beautiful alleys. Tour guide: It’s great that you like it. I look forward to your next visit. Have a nice day! Visitor: Bye!",
+      "image_url": "",
+      "options": [
+        "So am I.",
+        "Not at all.",
+        "You too.",
+        "Just kidding."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "導遊:我們的導覽已經結束。謝謝您參觀我們的小鎮。 (A) 妳要一起來嗎? 觀光客:漫遊在老街跟美麗的小巷,是很棒的徒步旅 (B) 妳的學校離這裡遠嗎? 行。 (C) 是在妳的教室舉辦嗎? 導遊:您能喜歡它,真好!我期待您下一次的到訪。 109-5 共同科目 英文 詳解 (D) 幾點開始?"
+    },
+    {
+      "id": "MOCK_109_5_ENG_014",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Taxi driver: Good evening. Where is your destination? Passenger: Taxi driver: No problem. Please fasten your seat belt. It will take about 40 minutes. Passenger: Sure. I’ll buckle up right now.",
+      "image_url": "",
+      "options": [
+        "It’s somewhere in my baggage.",
+        "I come from the United States.",
+        "The flight number is OZ717.",
+        "Taoyuan International Airport, please."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "計程車司機:晚安!請問您的目的地是哪裡?"
+    },
+    {
+      "id": "MOCK_109_5_ENG_015",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Jane: Mrs. Smith. May I ask for your advice? Teacher: Yes, Jane. Jane: I have no idea how to adjust my study plans. Teacher: I see. Come to my office with your plans at noon, all right?",
+      "image_url": "",
+      "options": [
+        "When will I see you again?",
+        "What’s bothering you?",
+        "Whom did you come with?",
+        "Where have you been?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "珍:史密斯老師。我可以請問您的建議嗎?"
+    },
+    {
+      "id": "MOCK_109_5_ENG_016",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Kevin: Excuse me. Where is the lost-and-found? Clerk: Kevin: I see. Thanks. Clerk: My pleasure.",
+      "image_url": "",
+      "options": [
+        "You have nothing to lose.",
+        "You seem to be lost.",
+        "I am looking for my backpack.",
+        "It’s next to the escalator."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "凱文:不好意思。失物招領在哪裡?"
+    },
+    {
+      "id": "MOCK_109_5_ENG_017",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Nora: A bunch of roses, please. Florist: We have red, pink, yellow, and white. Nora: Hmm...Pink roses would be great. Florist: Sure. They are lovely.",
+      "image_url": "",
+      "options": [
+        "What do roses mean to you?",
+        "What color would you prefer?",
+        "How often do you buy roses?",
+        "How many roses do you need?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "諾拉:一束玫瑰花,謝謝。 (A) 被發現的 (B) 筋疲力竭的 花商: 我們有紅色、粉紅色、黃色 (C) 受尊重的 (D) 確信的 跟白色。 諾拉:嗯......粉紅色玫瑰不錯。 II. 對話題 花商:沒錯。很好看。"
+    },
+    {
+      "id": "MOCK_109_5_ENG_018",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Vicky: Mom, are you coming to the parent-teacher conference this Saturday? Mom: Sure. How can I miss the chance? Vicky: I think I’ll just stay home. Mom: All right, then.",
+      "image_url": "",
+      "options": [
+        "Are you coming along?",
+        "Is your school far from here?",
+        "Is it held in your classroom?",
+        "What time will it begin?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "薇琪:媽咪,妳這個禮拜六要來親師座談會嗎? (A) 請稍候 ( 不要掛斷電話 ) 。 媽媽:當然!我怎麼會錯過這個機會呢? (B) 我就是。 (C) 我能為您留言嗎? 薇琪:我想我待在家就好。 (D) 請問您哪裡找? 媽媽:這樣也好。"
+    },
+    {
+      "id": "MOCK_109_5_ENG_019",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Clerk: Do you need cream or sugar with your coffee? Irene: Clerk: Get it. Just a minute, please. Irene: Thanks.",
+      "image_url": "",
+      "options": [
+        "There is no extra fee for them.",
+        "Double cream without sugar.",
+        "I like coffee better than tea.",
+        "I have my own shopping bag."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "店員:您的咖啡要加糖或奶精嗎? 說明:空格前後說明鈣質的各種功能,故選擇有「此 艾琳: 外」意義的轉承語 店員:好的。請稍等。"
+    },
+    {
+      "id": "MOCK_109_5_ENG_020",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Receptionist: Good morning. Margret: Yes. With Dr. Frost at 10. Receptionist: May I have your name, please? Margret: Margret Gore. Receptionist: Yes, Mrs. Gore. Please have a seat in the waiting area.",
+      "image_url": "",
+      "options": [
+        "Do you have an appointment?",
+        "Do you have the time, please?",
+        "What’s your purpose of visit?",
+        "When is the last time you came here?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "接待員:早安!"
+    },
+    {
+      "id": "MOCK_109_5_ENG_021",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Manager: Why did you apply for the job vacancy? Timothy: The company is among the best in the country. It would be my honor to be part of it. Manager: Are you willing to work overtime on weekends? Timothy: I can even work on the night shift.",
+      "image_url": "",
+      "options": [
+        "Overworking sounds awful.",
+        "I didn’t catch the last part.",
+        "That won’t be a problem.",
+        "I’d like to, but I can’t. III. 綜合測驗 說明:以下兩篇短文,共有 10 個空格,為第 22 至 31 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 22-26 題,請依短文文意,選出一個最適合該空格的答案。 Calcium is a vital mineral in the body. Most calcium is stored in our teeth and bones, 22 it supports their hardness and structure. Calcium enables muscles to move and assists nerves to transport messages between the brain and body parts. 23, calcium helps blood vessels to move blood and release hormones that affect important functions in the body. Exactly how much calcium do we need? Generally, the more energy is needed for the body to grow, 24 calcium is recommended. In other words, it is children, teenagers, and pregnant women that require the largest amount of calcium daily. Calcium comes from many foods. We can 25 adequate calcium simply by eating various foods. One of the main food sources of calcium comes from dairy products, such as milk, yogurt, and cheese. Besides, calcium is commonly 26 to some breakfast cereals and soy beverages. By checking the product labels, it is easy to ensure whether the foods contain calcium or not."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "經理:你為什麼來應徵這個職缺? 者 (30) 故意這麼做的。或許團隊組織得不恰當,或者有某 提摩太:貴公司是全國最優秀的公司之一。如果我能 個愛指揮人的隊員做了太多,讓別人幾乎沒有事做。參 身在其中,是我的榮幸。 與度不佳可能 (31) 源自於缺少興趣、能力或團隊中的心理 經理:你願意周末加班嗎? 安全感。了解問題有助於確認正確的解決方案。接著, 提摩太: 我甚至可以上晚班。 教師就可以介入提供團隊協助。 (A) 過度工作聽起來很糟糕。"
+    },
+    {
+      "id": "MOCK_109_5_ENG_022",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Why isn’t the Alexander Art Museum open to the public?",
+      "image_url": "",
+      "options": [
+        "To limit ticket sales.",
+        "To promote online views.",
+        "To help virus prevention.",
+        "To maintain art works."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：109-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_109_5_ENG_023",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "What should you do to get a refund if you have bought a ticket to visit the Alexander Art Museum before the notice?",
+      "image_url": "",
+      "options": [
+        "Watch online videos.",
+        "Write an e-mail.",
+        "Make a phone call.",
+        "Do nothing but wait."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：109-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_109_5_ENG_024",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Which of the following is the best title for this passage?",
+      "image_url": "",
+      "options": [
+        "The History of Beyond Meat",
+        "The Secret of Impossible Foods",
+        "The New Substitute for Meat",
+        "The Solutions to Air Pollution"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "下列何者是本文最好的標題?"
+    },
+    {
+      "id": "MOCK_109_5_ENG_025",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "What does “ them ” in the second paragraph refer to?",
+      "image_url": "",
+      "options": [
+        "Animals.",
+        "Crops.",
+        "Plants.",
+        "Humans."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "第二段的 “them” 所指為何?"
+    },
+    {
+      "id": "MOCK_109_5_ENG_026",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, what ingredient do the products from Beyond Meat and Impossible Foods have in common?",
+      "image_url": "",
+      "options": [
+        "Cholesterol.",
+        "Hormones.",
+        "Antibiotics.",
+        "Protein."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據文章,超越肉類公司和不可能食品的產品有哪樣 (B) 日本的所有假期都是出於商業目的。 共同成分? (C) 全世界的人都共享白色情人節的活動。 (A) 膽固醇。 (B) 荷爾蒙。 (D) 一位男性回送給所有女性一樣的禮物是有禮貌的。 (C) 抗生素。 (D) 蛋白質。"
+    },
+    {
+      "id": "MOCK_109_5_ENG_027",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, which of the following statements is NOT true about plant-based meat?",
+      "image_url": "",
+      "options": [
+        "Consumers are able to order products from Beyond Meat and Impossible Food online.",
+        "The blood from beef is kept in the plant-based meat to make it look real and taste better.",
+        "Compared to meatless meat production, animal agriculture does more harm to the environment.",
+        "Vegans are suggested to make cautious choices when buying plant-based meat products."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據文章,關於植物肉的敘述,以下何者不正確? 二、非選擇題 (A) 消費者可以從網路上訂購超越肉類公司和不可能 I. 填充 食品的產品。"
+    },
+    {
+      "id": "MOCK_109_5_ENG_028",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "The story behind a famous sweets company.",
+        "The root and celebration of White Day.",
+        "The famous brands of chocolates in Japan.",
+        "The gender issues in Asian countries."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "正解：(B)；來源：109-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_109_5_ENG_029",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, what is a man’s best choice for a returning gift to the woman he has feelings for?",
+      "image_url": "",
+      "options": [
+        "Some marshmallows.",
+        "A cheese cake.",
+        "A box of candies.",
+        "Lots of cookies."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "正解：(C)；來源：109-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_109_5_ENG_030",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, what event inspired the invention of “White Day?”",
+      "image_url": "",
+      "options": [
+        "The declining business of chocolates.",
+        "The request from male customers.",
+        "The success of Ishimura Manseido.",
+        "The trial of “Marshmallow Day.”"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "正解：(D)；來源：109-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_109_5_ENG_031",
+      "subject": "英文",
+      "unit": "109-5-四技二專-00共同科目 英文",
+      "q": "Which of the following can be inferred from this passage?",
+      "image_url": "",
+      "options": [
+        "In Japan, the sales of sweets increase from February to March.",
+        "All holidays in Japan came into being with a business purpose.",
+        "People around the globe share the activities of White Day.",
+        "It is polite of a man to return every woman with the same gift."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "正解：(A)；來源：109-5-四技二專-00共同科目 英文解析.pdf"
+    }
+  ]
+}
