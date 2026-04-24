@@ -1,0 +1,677 @@
+{
+  "bundle_id": "MOCK_112_1_ENG",
+  "questions": [
+    {
+      "id": "MOCK_112_1_ENG_001",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "The Taiwanese government is trying hard to find a(n) to the problem of the gender pay gap.",
+      "image_url": "",
+      "options": [
+        "ambition",
+        "solution",
+        "addition",
+        "conclusion"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "different; care (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 評閱指標 0 (3) 只抄題目或其他試題。 級分 說明 (4) 內容完全離題或錯誤。 4 2 個空格皆正確。 2 僅 1 個空格正確。 0 2 個空格皆錯誤。 II. 句子重組"
+    },
+    {
+      "id": "MOCK_112_1_ENG_002",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Lots of research that the blue light from smartphones can damage people’s eyesight.",
+      "image_url": "",
+      "options": [
+        "indicates",
+        "impresses",
+        "improves",
+        "interacts"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Henry / is good at dancing / who / the lovely girl / wants to know 解答: Henry wants to know the lovely girl who is good at dancing. 評閱指標 級分 說明 所有字詞組合正確,且拼字、大小寫及標點均 4 無誤。 (1) 所有字詞組合正確,但有拼字、字詞增減或 標點錯誤。 3 (2) 多數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 多數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 2 (2) 半數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 半數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 1 (2) 少數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 少數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 0 (2) 所有字詞組合錯誤。 (3) 只抄引導文字、題目或其他試題。 (4) 空白 ( 未書寫文字 ) 。 III. 中譯英"
+    },
+    {
+      "id": "MOCK_112_1_ENG_003",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Lily couldn’t stop about her job as a secretary and even considered quitting it.",
+      "image_url": "",
+      "options": [
+        "collecting",
+        "complaining",
+        "competing",
+        "comparing"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "學會如何克服生活上的困難對學生而言是很重要的。 解答: It is (very / quite / extremely) important / significant / essential / crucial for students to learn how to overcome / get over difficulties / hardship(s) in life. 或 Learning how to overcome / get over difficulties / hardship(s) in life is (very / quite / extremely) important / significant / essential / crucial to students. 評閱指標 級分 說明 能充分表達原文題意,文法、標點正確,用字 4 遣詞沒有不當之處。 能適切表達原文題意,文法、標點、用字遣詞 3 僅有少數不當之處。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_004",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "It is truly when all my classmates found I was wearing my uniform inside out.",
+      "image_url": "",
+      "options": [
+        "inspiring",
+        "amazing",
+        "interesting",
+        "embarrassing"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "將草莓舀到每個糕點的下半部分。 到 2035 年只使用可再生能源是該國計劃的一部分。德國"
+    },
+    {
+      "id": "MOCK_112_1_ENG_005",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "We’re going to show our to Mom by giving her flowers on Mother’s Day this year.",
+      "image_url": "",
+      "options": [
+        "gratitude",
+        "sorrow",
+        "invitation",
+        "routine"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "立即享用草莓泡芙! 原本希望 2022 年關閉所有核電站;然而,由於俄烏戰爭, 注意:您也可以將草莓泡芙冷藏一會兒,讓味道融合在 該計劃被延遲。 一起,但最好在新鮮時享用。 公眾對核電站關閉的看法不一。一方面,對於那些 ‧享用美味的自製草莓泡芙! 支持將核能視為乾淨、零碳電力來源的人來說,此舉被 視為一場悲劇。德國各地的能源價格上漲和能源短缺肯"
+    },
+    {
+      "id": "MOCK_112_1_ENG_006",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "It only took Catherine a week to from the flu because she has a balanced diet and exercises regularly.",
+      "image_url": "",
+      "options": [
+        "refuse",
+        "reach",
+        "recover",
+        "react"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "凱瑟琳只用了一週就從流感中 了,因為她有"
+    },
+    {
+      "id": "MOCK_112_1_ENG_007",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Jill wanted to pass TOEIC Test with high grades, and she achieved her goal by studying hard.",
+      "image_url": "",
+      "options": [
+        "hardly",
+        "badly",
+        "finally",
+        "frequently"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "吉兒想以高分通過多益考試,她 透過努力學 習達成了自己的目標。 喬伊:嗯......好吧。 (A) 幾乎不 (B) 糟糕地 (C) 最終地 (D) 經常地 (A) 需要我的建議嗎?"
+    },
+    {
+      "id": "MOCK_112_1_ENG_008",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Anna got a full to pursue her dream of studying medicine in the U.S.",
+      "image_url": "",
+      "options": [
+        "(A) appearance",
+        "arrival",
+        "absence",
+        "scholarship"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "安娜獲得了全額 去追求她在美國學習醫學 (B) 你介意把你的預約改到同一天 8 點嗎? 的夢想。 (C) 你有沒有比較喜歡什麼來慶祝生日的? (A) 出現;外表 (B) 到達 (D) 你主餐要點什麼? (C) 缺席 (D) 獎學金"
+    },
+    {
+      "id": "MOCK_112_1_ENG_009",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Kevin’s gray hair at young age is linked to his heavy pressure at work.",
+      "image_url": "",
+      "options": [
+        "addicted",
+        "devoted",
+        "opposed",
+        "related"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "凱文年輕時就白了頭髮與工作壓力大有關。 安格斯:怎麼了? (A) 成癮 (B) 投入 (C) 反對 (D) 相關 梅根:我父親不舒服,被送往醫院。我現在必須去那"
+    },
+    {
+      "id": "MOCK_112_1_ENG_010",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Thirty-two countries joined the Qatar 2022 FIFA World Cup, and Qatar earned US$17 billion dollars from the event.",
+      "image_url": "",
+      "options": [
+        "required",
+        "attended",
+        "presented",
+        "observed II. 對話題 說明:第 11 至 20 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "32 個國家參加了卡達 2022 年世界盃,卡達從賽事中 裡。今天下午你能幫我值班嗎? 獲利了 170 億美元。 安格斯:我很樂意。 (A) 要求 (B) 出席 (C) 呈現 (D) 觀察 (A) 請幫忙我。 (B) 你又有另一通電話。 II. 對話題 (C) 團隊合作非常重要。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_011",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Clerk: How may I help you? Alec: I would like to buy a birthday gift for my sister. Clerk: Alec: Nothing special, but my sister loves necklaces. Maybe I can get one for her. Clerk: Great. We have a lot of beautiful necklaces. You can have your pick.",
+      "image_url": "",
+      "options": [
+        "Do you know her shoes size?",
+        "Is there any color she likes better?",
+        "Do you have a budget?",
+        "Do you have anything in mind?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "店員:請問有什麼可以幫您的嗎? (D) 太離譜了。 亞歷克:我想買一份生日禮物給我姐姐。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_012",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Lenson: Have you decided your major in college? Carole: Not yet. How about you? Lenson: I’m so into painting, Carole: Sounds great. Wish you could become a wonderful artist in the future.",
+      "image_url": "",
+      "options": [
+        "so art design would be my first choice.",
+        "and I have to ask my parents.",
+        "but I don’t waste time thinking about it.",
+        "or I would drop out of school."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "連森:你決定大學的主修了嗎?"
+    },
+    {
+      "id": "MOCK_112_1_ENG_013",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Shirley: What’s the matter? You look upset. Randy: I lost my EasyCard while I was shopping at the night market yesterday. Shirley: Too bad! Randy: Nothing found. And I don’t know what to do.",
+      "image_url": "",
+      "options": [
+        "Do you think the police would help?",
+        "Did you report to your teacher?",
+        "Did you go back to look for it?",
+        "Did you lose anything valuable?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "雪莉:怎麼了?你看起來很沮喪。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_014",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Receptionist: Hello, Springfield Steak House. What can I do for you? Joey: I’d like to make a reservation for 2 at six this Saturday night. Receptionist: Sorry. I am afraid we are fully booked. Joey: Um...OK then.",
+      "image_url": "",
+      "options": [
+        "Do you need my suggestion?",
+        "Would you mind changing your reservation to 8 o’clock that day?",
+        "Is there anything that you like better to celebrate your birthday?",
+        "What would you like for your main course?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "接待員:您好,春田牛排館。我能為你做什麼? 均衡的飲食和規律的運動。 喬伊:我想預訂這個星期六晚上 6 點 2 位。 (A) 拒絕 (B) 到達 (C) 恢復 (D) 反應 接待員:對不起。恐怕我們訂位已經滿了。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_015",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Megan: Hello, Angus. Angus: What’s it? Megan: My father was feeling ill and was sent to hospital. I have to be there right now. Can you cover my shift this afternoon? Angus: I would be glad to.",
+      "image_url": "",
+      "options": [
+        "Give me a hand, please.",
+        "You’ve got another call.",
+        "Teamwork is so important.",
+        "It has gone too far."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "梅根:你好,安格斯。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_016",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Danny: Bill, I need to pull over. I think there is something wrong with my car. Bill: OK, let me take a look. Danny: What is that? Bill: Fortunately, I know how to change the tire. Danny: Hope it won’t take too long. I want this round-island trip to go on smoothly.",
+      "image_url": "",
+      "options": [
+        "There must be a hospital nearby.",
+        "I think I should buy a new car.",
+        "God helps those who help themselves.",
+        "We got a flat tire. The tire needs to be replaced."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "丹尼:比爾,我需要停下來。我認為我的車有問題。 店員: 比爾:好的,讓我看看。 亞歷克:沒什麼特別的,但我姐姐喜歡項鍊。也許我 丹尼:什麼問題? 可以買一條給她。 比爾: 還好我知道怎麼換輪貽。 店員:太好了。我們有很多漂亮的項鍊。你可以選擇。 丹尼:希望不要花太長時間。我希望這次環島之旅順 (A) 你知道她鞋子是什麼尺寸嗎? 利進行。 (B) 她有沒有比較喜歡什麼顏色? 112-1 共同科目 英文 詳解 (A) 附近一定有醫院。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_017",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Jane: Why was May absent from school today? David: She caught a serious cold and had a high fever. Jane: Hope she can get well soon.",
+      "image_url": "",
+      "options": [
+        "Don’t mention it!",
+        "I feel gross.",
+        "I am sorry to hear that.",
+        "It’s beyond words."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "珍:梅今天為什麼缺席?"
+    },
+    {
+      "id": "MOCK_112_1_ENG_018",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Doctor Ho: What seems to be the problem? Alice: I get a pain in my back and knees every time when I run. Doctor Ho: Alice: About a month.",
+      "image_url": "",
+      "options": [
+        "Why didn’t you come earlier?",
+        "How much do you know about it?",
+        "How often do you exercise?",
+        "How long has this been happening?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "何醫生:請問哪裡不舒服? 怎麼來的嗎? BLACKPINK 想改變粉紅色的觀念。他們 愛麗絲:每次跑步時,我的背部和膝蓋都會疼痛。 名字中的 “BLACK” 代表自信, (26) 而 “PINK” 意為甜美。 何醫生: (27) 根據 BLACKPINK 成員之一 Lisa 的說法,粉紅色常 愛麗絲:大約一個月。 被用來形容漂亮,但 BLACKPINK 實際上意味著漂亮不 (A) 為什麼不早點來? 是一切。她也提到了她們甚至嘗試寫歌。它顯示我們是 (B) 你了解多少? 一個不僅有美麗而且有 (28) 才華的團隊。 (C) 你多久運動一次? BLACKPINK 亳無疑問是當今最走紅的女子流行韓 (D) 這種情況發生多久了? 團。 BLACKPINK 高人氣的關鍵就是出色的舞台表現。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_019",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Tom: The slide shows sales over the past quarter. Kevin: The sales fell by almost 30 percent. Tom: Yes, we did poorly. Kevin: Tom: I think it is due to the COVID-19 pandemic.",
+      "image_url": "",
+      "options": [
+        "Any idea about what caused the drop in sales?",
+        "That was a good thing.",
+        "Please don’t be too hard on yourself.",
+        "It sounds like a good excuse."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "湯姆:這張投影片顯示了過去一個季度的銷售額。 他們的音樂風格融合了各種類型的音樂, (29) 創造出清新 凱文:銷售額幾乎下降了 30% 。 獨 特 的 聲 音 。 他 們 的 歌 曲 很 快 就 會 讓 你 (30) 跳 舞 。 湯姆:是的,我們做得不好。 BLACKPINK 也以其音樂影片的風格而出名。 凱文:"
+    },
+    {
+      "id": "MOCK_112_1_ENG_020",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Timmy: I’m sorry that I missed your party yesterday. Sara: We had a lot of fun. Timmy: I really wish I could have been there, but I had to work. Sara: OK. I hope you can come next time.",
+      "image_url": "",
+      "options": [
+        "You were not welcome at the party.",
+        "It’s a pity that you didn’t come to join us.",
+        "I was not in the mood to talk about it again.",
+        "I know your parents didn’t allow you to come. III. 綜合測驗 說明:以下兩篇短文,共有 10 個空格,為第 21 至 30 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 21-25 題,請依短文文意,選出一個最適合該空格的答案。 We all know that sleep is very important to our health. When we can’t sleep well or have enough sleep, we would live shorter and have all kinds of diseases, 21 high blood pressure and heart problems. How can we sleep better at night? There are many sleep tips. First, stick to a sleep schedule; 22, going to bed and getting up at the same time every day, even on weekends. Also, pay attention to 23 we eat and drink. A light meal, such as a piece of toast or a cup of milk, is perfect. Never go to bed 24 too hungry 24 too full. A large meal within a few hours before bed time might keep us up at night. Avoiding food which contains caffeine and alcohol is necessary, too. Although alcohol might make you feel sleepy at first, it is in fact bad to your sleep later in the night. Last but not least, a restful environment is helpful in having a good sleep as well. Keep your room cool, dark and quiet. It is not difficult to follow the above-mentioned tips. However, if you often have trouble 25, contact your doctors. Hope you have a sweet dream tonight."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "蒂米:很抱歉我昨天錯過了你的聚會。 代表前面整件事;不能選 (B),因為 that 當關代時, 薩拉: 我們玩得很開心。 前面不能有逗點 蒂米:我真希望我能去那裡,但我必須工作。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_021",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": ". When we can’t sleep well or have enough sleep, we would live shorter and have all kinds of diseases, ____ high blood pressure and heart problems.",
+      "image_url": "",
+      "options": [
+        "includes",
+        "included",
+        "including",
+        "to include"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "(C) including 為介系詞,其後方接名詞作為受詞 給媽媽。以下是她從網上下載的食譜。 112-1 共同科目 英文 詳解 (B) 在 Instagram 上分享地震消息給朋友。 原料 (C) 買禮物給土耳其的倖存者。 ‧ 1 張酥皮 (D) 直接寄尿布到土耳其。 ‧ 1 杯新鮮草莓"
+    },
+    {
+      "id": "MOCK_112_1_ENG_022",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": ". First, stick to a sleep schedule; ____, going to bed and getting up at the same time every day, even on weekends.",
+      "image_url": "",
+      "options": [
+        "in addition",
+        "that is",
+        "however",
+        "in conclusion"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_023",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": ". Also, pay attention to ____ we eat and drink.",
+      "image_url": "",
+      "options": [
+        "who",
+        "where",
+        "when",
+        "what"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_024",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": ". Never go to bed ____ too hungry 24 too full.",
+      "image_url": "",
+      "options": [
+        "both...and",
+        "either...or",
+        "not...but",
+        "neither...nor"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_025",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": ". However, if you often have trouble ____, contact your doctors.",
+      "image_url": "",
+      "options": [
+        "to sleep",
+        "sleep",
+        "sleeps",
+        "sleeping"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_026",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": ". The “BLACK” in their name shows confidence, ____ the “PINK” means sweetness.",
+      "image_url": "",
+      "options": [
+        "where",
+        "because",
+        "while",
+        "although"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_027",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": ". ____ Lisa, one of the members of BLACKPINK, pink is often used to describe prettiness, but BLACKPINK actually means being pretty isn’t everything.",
+      "image_url": "",
+      "options": [
+        "Regardless of",
+        "According to",
+        "Speaking of",
+        "Owing to"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_028",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "also mentioned that they even tried writing songs, which shows they are a team that has not only beauty but also great ____.",
+      "image_url": "",
+      "options": [
+        "income",
+        "risk",
+        "talent",
+        "duty"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_029",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": ". Their music style mixes all types of music, ____ a sound that is fresh and unique.",
+      "image_url": "",
+      "options": [
+        "creating",
+        "that creates",
+        "which create",
+        "that creating"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_030",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": ". Their songs will make you ____ in no time.",
+      "image_url": "",
+      "options": [
+        "to dance",
+        "danced",
+        "dancing",
+        "dance IV. 閱讀測驗 說明:以下有四篇短文,共有 12 個題目,為第 31 至 42 題,請於閱讀短文後,選出最適當的答案 。 ▲ 閱讀下文,回答第 31-32 題 The following graph shows the number of free membership and premium membership of QQTube. Answer the questions based on the given information. 31. Which of the following statements is correct? (A) The graph shows the membership numbers over a year. (B) The number of free membership never rose above 3,000. (C) The number of premium membership was below 1,000 in June. (D) Premium membership number didn’t change greatly over 6 months. 32. In which month did the number of free membership reach its peak? (A) January (B) March (C) April (D) May ▲ 閱讀下文,回答第 33-34 題 Mother’s Day is around the corner. Jenny wants to make some strawberry puffs as a gift for her mother. The following is the recipe she downloaded from the Internet."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_031",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Which of the following statements is correct?",
+      "image_url": "",
+      "options": [
+        "The graph shows the membership numbers over a year.",
+        "The number of free membership never rose above 3,000.",
+        "The number of premium membership was below 1,000 in June.",
+        "Premium membership number didn’t change greatly over 6 months."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "下列哪項描述是正確的? 一杯牛奶就很完美,絕對不要在太 (24) 餓 (24) 或者太飽時 (A) 該圖顯示了一年中的會員數量。 上床睡覺。在睡前幾個小時內吃一頓大餐可能會讓我們 (B) 免費會員人數從未超過 3,000 人。 徹夜難眠。避免含有咖啡因和酒精的食物也很重要。雖 (C) 六月高級會員人數不足 1,000 人。 然酒精一開始可能會讓您感到想睡,但實際上它對你晚 (D) 高級會員人數在 6 個月中改變不大。 些時候的睡眠不利。最後但同樣重要的是,一個寧靜的"
+    },
+    {
+      "id": "MOCK_112_1_ENG_032",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "In which month did the number of free membership reach its peak?",
+      "image_url": "",
+      "options": [
+        "January",
+        "March",
+        "April",
+        "May ▲ 閱讀下文,回答第 33-34 題 Mother’s Day is around the corner. Jenny wants to make some strawberry puffs as a gift for her mother. The following is the recipe she downloaded from the Internet."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "哪個月份免費會員人數達到高峰? 環境也能助眠。保持房間涼爽、昏暗和安靜。遵循上述 (A) 一月 (B) 三月 (C) 四月 (D) 五月 訣竅並不難。但是,如果您經常 (25) 睡眠有困擾,請聯繫 Question 33-34 您的醫生。希望您今晚有一個甜蜜的夢。 母親節快到了。珍妮想做一些草莓泡芙作為禮物送"
+    },
+    {
+      "id": "MOCK_112_1_ENG_033",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Which of the following ingredients is NOT needed to make strawberry puffs?",
+      "image_url": "",
+      "options": [
+        "sugar",
+        "flour",
+        "cornstarch",
+        "vanilla"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "製作草莓泡芙不需要以下哪一種材料? 定會發生。另一方面,那些擔心核能事故的人認為關閉 (A) 糖 (B) 麵粉 (C) 玉米澱粉 (D) 香草 核電站是一個明智的決定,為德國決定廣泛使用再生能"
+    },
+    {
+      "id": "MOCK_112_1_ENG_034",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "How can we know that the puff pastry can be taken out from the oven based on the recipe?",
+      "image_url": "",
+      "options": [
+        "The color of the pastry would change.",
+        "The pastry would be soft.",
+        "The pastry would smell good.",
+        "The pastry would be crispy. ▲ 閱讀下文,回答第 35-37 題 Tammy watched the news about the deadly earthquakes that hit Turkey in 2023. She wanted to help survivors in the earthquake. She made fliers to remind neighbors and friends to care about those survivors. Earthquakes in Turkey On February 6, 2023, a powerful earthquake, 7.8 magnitude, hit southeast Turkey. The deadly earthquake took away the lives of more than 40,000 people. Tens of thousands were injured, and millions were left homeless. People living in the affected areas were in urgent need of basic necessities like temporary shelters, food, and clean water. Turkey and Taiwan have both been victims of earthquakes. Taiwan can help! You can help! How you can help: ■ Donate money to Red Cross, Doctors Without Borders, World Vision or Tzu Chi Taiwan. These organizations often have experience in effectively providing help for affected areas. ■ Spread the news about the earthquakes on social media. ■ Citizens can also make a donation at convenience stores through self-service machines. ■ Tents, winter clothing, and diapers are needed. Tzu Chi can help you pack the stuff and send it to Turkey. ■ Further contact information in Turkey is as below. Website: https://tzuchi.com.tr/ Facebook: https://www.facebook.com/tzuchivakfi"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據食譜如何知道泡芙糕點可以從烤箱拿出來了? 源鋪路。 2011 年日本福島事故後,德國宣布逐步清除核 (A) 糕點的顏色會發生變化。 電。核能安全是導致所有核電站關閉的主要驅動力。過 (B) 糕點會變軟。 去,核能占德國能源的三分之一。現在只有 6% 。再生能 (C) 糕點會聞起來很香。 源現在占 44% 。到 2030 年,德國的目標是 80% 的電力來 (D) 糕點會很脆。 自風力和太陽能等再生能源。然而,一些人認為,如果 Question 35-37 德國想在 2045 年之前停止使用化石燃料,它將不得不再 泰米 (Tammy) 看了有關 2023 年土耳其發生致命地震 次使用核能。麻省理工學院的科學家和研究人員給德國 的新聞。她想幫助地震中的倖存者。她製作了傳單提醒 政府寫了一封公開信,並表示「這非常令人失望,當低 鄰居和朋友關心那些倖存者。 碳核能等能源是可用的,並且可以繼續運行 40 年......應 土耳其大地震 該優先考慮快速零排碳。」這封公開信並沒有成功地讓 2023 年 2 月 6 日,一場 7.8 級的強烈地震襲擊了土耳其 核電廠保持運轉。 東南部地區。這場致命的地震奪走了 40,000 多人的生 很明顯,全世界人民都面臨著有史以來最大的氣候 命。數萬人受傷和數百萬人無家可歸。生活在受災地區 變化挑戰。處理氣候變化問題的時間所剩無幾。關閉零 的人們急需臨時住所、食物和乾淨的水等基本必需品。 碳電力來源似乎很令人沮喪。 土耳其和臺灣都是地震的受害者。臺灣可以幫忙!你可"
+    },
+    {
+      "id": "MOCK_112_1_ENG_035",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Based on the flier, what can we do to help the survivors of the Turkey earthquake?",
+      "image_url": "",
+      "options": [
+        "You could work part time for Tzu Chi Taiwan.",
+        "You could share the news of the earthquakes on Instagram.",
+        "You could buy gifts for survivors in Turkey.",
+        "You could send diapers directly to Turkey."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據傳單內容,你能做些什麼來幫助土耳其地震的倖 (A) 能源費用的增加。 存者? (B) 大眾的意見反對核電廠。 (A) 在臺灣慈濟打工。 (C) 核電廠的危險。 112-1 共同科目 英文 詳解 (D) 努力要對抗氣候變遷。 僅能部分表達原文題意,文法、標點、用字遣 2 詞有多處失當之處。 二、非選擇題 無法表達原文題意,文法、標點、用字遣詞僅 1 I. 填充 有少數正確之處。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_036",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "What item is NOT needed for the survivors of the Turkey earthquake?",
+      "image_url": "",
+      "options": [
+        "diapers",
+        "flashlights",
+        "clean water",
+        "tents"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "土耳其地震倖存者不需要下列哪些物品? ‧ 1 / 4 杯糖 (A) 尿布 (B) 手電筒 (C) 清水 (D) 帳篷 ‧ 1 湯匙玉米澱粉"
+    },
+    {
+      "id": "MOCK_112_1_ENG_037",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Which of the following information is NOT mentioned in the flier?",
+      "image_url": "",
+      "options": [
+        "The locations of Turkey.",
+        "What Taiwan and Turkey have in common.",
+        "The things that the survivors need the most.",
+        "The number of deaths in the earthquake. ▲ 閱讀下文,回答第 38-42 題 Germany stopped using its last three nuclear power stations on April 15, 2023. In other words, Germany would stop producing any electricity from nuclear power plants. The Emsland, Isar II, and Neckarwestheim II nuclear plants in Germany said goodbye to the public. It is part of the country’s plan to use only renewable energy by 2035. Germany wanted to shut down all its nuclear power stations by 2022; however, the plan was put off due to the Russia-Ukraine war. The public opinions of the shutdown of the nuclear power plants were varied. On the one hand, to those who supported nuclear energy as a clean, zero-carbon source of electricity, the move was seen as a tragedy. Increasing energy prices and energy shortage around Germany were certain to happen. On the other hand, those who feared nuclear accidents believed closing the nuclear power plants was a wise decision and paved the way for Germany’s decision to use renewable energy widely. Germany announced that it would phase out nuclear power after the Fukushima accident in Japan in 2011. The safety of nuclear energy is the major drive that led to the closure of all nuclear power plants. In the past, nuclear power made up one-third of Germany’s energy. Now it’s only 6%. Renewable energy now makes up 44%. By 2030, Germany aims to generate 80 percent of its electricity from renewable energy sources like wind and sun. Some, nevertheless, think that Germany will have to use nuclear power again if it wants to stop using fossil fuels by 2045. Scientists and researchers from MIT wrote an open letter to the German government and said that “this is very disappointing, when a low carbon source of energy such as nuclear was available and could have continued operating for another 40 years...the fast decarbonization should have priority.” The open letter didn’t succeed in keeping the plants working. It is clear that people worldwide are facing the greatest challenge of climate change of all time. There is little time left to deal with the issue of climate change. It seems upset to close down the sources of zero-carbon electric power."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "下列何項資訊在傳單中沒有提及? ‧ 1 茶匙香草精 (A) 土耳其的地理位置。 ‧鮮奶油 (B) 臺灣和土耳其相同之處。 指示 (C) 倖存者最需要的東西。"
+    },
+    {
+      "id": "MOCK_112_1_ENG_038",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "Almost all Germans agree to the government’s plan to close the nuclear power plants.",
+        "About 6% of energy will be produced by nuclear power plants in Germany after 2035.",
+        "The delay of shutting down nuclear power plants in Germany is partly because of the war.",
+        "The letter written by scientists from MIT successfully convinced the German government."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_039",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Which of the following phrases is closest in meaning to the underlined phase out?",
+      "image_url": "",
+      "options": [
+        "get rid of",
+        "look down on",
+        "catch up with",
+        "take advantage of"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_040",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "What is the author’s attitude toward nuclear power plants?",
+      "image_url": "",
+      "options": [
+        "angry",
+        "negative",
+        "supportive",
+        "shameful"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?112-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_1_ENG_041",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "Which of the following graphs best describes the plan of Germany of using renewable energy?",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "下面哪張圖最能描述德國使用再生能源的計劃? 德國逐漸提高對再生能源的使用,故選 (A)"
+    },
+    {
+      "id": "MOCK_112_1_ENG_042",
+      "subject": "英文",
+      "unit": "112-1-四技二專-00共同科目 英文",
+      "q": "What was the main reason that Germany shut down all the nuclear power plants?",
+      "image_url": "",
+      "options": [
+        "Increase of energy prices.",
+        "Public opinions against nuclear power plants.",
+        "Dangers of nuclear power plants.",
+        "Efforts to deal with climate change. 二、非選擇題 ( 第 I 題,每格 2 分,共 4 分;第 II 題 6 分;第 III 題 6 分;共 16 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "德國關閉所有核電廠的主要原因為何?"
+    }
+  ]
+}

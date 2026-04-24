@@ -1,0 +1,677 @@
+{
+  "bundle_id": "MOCK_112_5_ENG",
+  "questions": [
+    {
+      "id": "MOCK_112_5_ENG_001",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "The little boy got a sense of when he finished working on the puzzle all by himself.",
+      "image_url": "",
+      "options": [
+        "achievement",
+        "ignorance",
+        "separation",
+        "honesty"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "小男孩獨自完成拼圖時得到一種成就感。 (A) 你可以幫我嗎? (A) 成就 (B) 無知 (C) 分離 (D) 誠實 (B) 這是常見的違規嗎?"
+    },
+    {
+      "id": "MOCK_112_5_ENG_002",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "After years of hard work, Sally finally reached her goal and became the world swimming.",
+      "image_url": "",
+      "options": [
+        "composer",
+        "consumer",
+        "colleague",
+        "champion"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "where / serves / we had dinner last night / delicious Italian pasta dishes / The restaurant 解答: The restaurant where we had dinner last night serves delicious Italian pasta dishes. 評閱指標 級分 說明 所有字詞組合正確,且拼字、大小寫及標點均 4 無誤。 (1) 所有字詞組合正確,但有拼字、字詞增減或 標點錯誤。 3 (2) 多數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 多數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 2 (2) 半數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 半數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 1 (2) 少數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 少數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 0 (2) 所有字詞組合錯誤。 (3) 只抄引導文字、題目或其他試題。 (4) 空白 ( 未書寫文字 ) 。 III. 中譯英"
+    },
+    {
+      "id": "MOCK_112_5_ENG_003",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "The high school students put on masks and costumes to themselves at the Halloween party.",
+      "image_url": "",
+      "options": [
+        "insult",
+        "endure",
+        "pursue",
+        "disguise"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "以前我對不同的文化和習俗不會感到好奇。 解答: I was not curious about different cultures and customs before. 或 I didn’t use to be curious about different cultures and customs. 或 I used to not be curious about different cultures and customs. 評閱指標 級分 說明 能充分表達原文題意,文法、標點正確,用字 4 遣詞沒有不當之處。 能適切表達原文題意,文法、標點、用字遣詞 3 僅有少數不當之處。 僅能部分表達原文題意,文法、標點、用字遣 2 詞有多處失當之處。 無法表達原文題意,文法、標點、用字遣詞僅 1 有少數正確之處。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_004",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "The child’s laughter brought happiness to everyone, which created a joyful in the room.",
+      "image_url": "",
+      "options": [
+        "technique",
+        "atmosphere",
+        "efficiency",
+        "conscience"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "孩子的笑聲帶給每個人快樂,營造出房間裡的愉悅氛 史密斯先生:聽起來很完美,謝謝。 圍。 (A) 不,我沒有預約。 (A) 技巧;技藝 (B) 氣氛;氛圍 (B) 有的,是用史密斯這個名字預約的。 (C) 效率;效能 (D) 良心;良知 (C) 不,讓我和朋友確認一下。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_005",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "The traveled to different countries to meet with world leaders and build strong relationships to gain international cooperation.",
+      "image_url": "",
+      "options": [
+        "criminal",
+        "ambassador",
+        "shepherd",
+        "mechanic"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "為了與世界領導人會面,並建立堅固的關係,大使前 (D) 是的,我想訂位。 往不同的國家,以獲得國際合作。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_006",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "The library is full of books, and it provides readers with a wide range of topics to explore.",
+      "image_url": "",
+      "options": [
+        "numerous",
+        "ambiguous",
+        "jealous",
+        "gracious"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "圖書館裡藏滿了眾多的書籍,提供讀者探索廣泛的主 莎拉: 他們假扮他人,欺騙大家。 題。 湯姆:大家很容易被他們欺騙,真讓人害怕。他們經 (A) 眾多的 (B) 模稜兩可的 常使用看起來真實的假郵件和網站。 (C) 忌妒的 (D) 仁慈的;和藹的 莎拉:是的,我們需要小心,並檢查線上要求的真實"
+    },
+    {
+      "id": "MOCK_112_5_ENG_007",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Meilin’s outstanding performance any doubts about her abilities and confirmed her position as the team’s star player.",
+      "image_url": "",
+      "options": [
+        "removed",
+        "sketched",
+        "browsed",
+        "illustrated"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "美玲出色的表現消除了對她能力的任何懷疑,並確定 性。 了她在球隊中的明星球員地位。 (A) 沒有,這只是個小問題。 (A) 去除;消除 (B) 沒有,這是個流行趨勢。 (B) 畫素描;概述 (C) 有,這是個大問題。 (C) 瀏覽; ( 在商店裡 ) 隨便看看 (D) 有,沒那麼嚴重。 (D) ( 用圖、實例等 ) 說明"
+    },
+    {
+      "id": "MOCK_112_5_ENG_008",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "My classmate, Lucy, lives in an apartment just a few blocks away, so we often get together at a café.",
+      "image_url": "",
+      "options": [
+        "rough",
+        "nearby",
+        "keen",
+        "vain"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "我的同學露西住在離這裡幾個街區遠的公寓,所以我 女兒:有,我一直在想,但我還不確定。 們經常在附近的咖啡館聚會。 父親:沒關係,想清楚需要時間。 (A) 粗糙的 (B) 附近的 (C) 熱衷的 (D) 徒勞的 女兒:我對像科技和心理學有一些興趣,但在做出決"
+    },
+    {
+      "id": "MOCK_112_5_ENG_009",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "The traveler was worried about missing her flight, so she rushed to the airport to avoid any possible delays.",
+      "image_url": "",
+      "options": [
+        "cheerful",
+        "industrial",
+        "anxious",
+        "reasonable"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "這名旅客對於錯過班機感到焦慮,所以她匆忙前往機 定之前,我需要更多的資訊。 場以避免任何可能的延誤。 (A) 妳有聯繫過在這些領域工作的專業人士嗎? (A) 快樂的 (B) 工業的 (C) 焦慮的 (D) 合理的 (B) 妳向顧問或專業人士尋求過建議嗎?"
+    },
+    {
+      "id": "MOCK_112_5_ENG_010",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "The auditorium was so noisy with loud music that I could hardly hear a single word when you talked.",
+      "image_url": "",
+      "options": [
+        "deeply",
+        "barely",
+        "shortly",
+        "closely II. 對話題 說明:第 11 至 20 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "禮堂裡的音樂聲太吵了,以致於當你講話時我幾乎無 (C) 妳對就業市場進行過任何研究嗎? 法聽到任何一個字。 (D) 妳有考慮過任何領域或職業嗎? (A) 非常;深刻地 (B) 幾乎無法"
+    },
+    {
+      "id": "MOCK_112_5_ENG_011",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Sean: Hey, Ben! I’ve been watching a lot of basketball lately, but there’s something I don’t understand. Ben: Sure, Sean. What do you need help with? Sean: Well, I’m a bit confused about the three-second violation. When does it apply? Ben: It applies when an offensive player stays in the key area for more than three seconds without actively participating in the play.",
+      "image_url": "",
+      "options": [
+        "Could you help me out?",
+        "Is it a common violation?",
+        "Is there any time limit?",
+        "Any penalties for this violation?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "肖恩:嘿,阿本!最近我一直在看很多籃球比賽,但 和菲律賓。 有一個地方我不太明白。 梅伊:哇,看到我們國家如此多元真是太好了。我們 阿本:沒問題,肖恩。你需要什麼幫助? 應該永遠尊重並歡迎他們。 肖恩:嗯,我對三秒違例有點困惑。它是適用在什麼 112-5 共同科目 英文 詳解 (A) 你有跟這裡的任何外國人互動過嗎? 那份工作。 (B) 他們在適應臺灣時遇到任何困難嗎? 傑克:我完全理解。不過別擔心,會有更好的機會出 (C) 你知道他們大部分來自哪裡嗎? 現。 (D) 他們多元的背景如何使我們的社會受益? (A) 艾瑪,你應該準備得更好。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_012",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Waiter: Good evening, sir. Have you made a reservation? Mr. Smith: Waiter: Alright, let me check. Yes, Mr. Smith. We have a private table by the window with a view of the ocean. Mr. Smith: That sounds perfect, thank you.",
+      "image_url": "",
+      "options": [
+        "No, I didn’t make a reservation.",
+        "Yes, under the name Smith.",
+        "No, let me check with my friend.",
+        "Yes, I would like to book a table."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "服務員:晚安,先生。您有預約嗎?"
+    },
+    {
+      "id": "MOCK_112_5_ENG_013",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Tom: Have you heard about how bad guys use the Internet to trick people into giving away their money? Sarah: They pretend to be someone else and cheat people. Tom: It’s scary how easily people can be fooled. They often use fake emails and websites that look real. Sarah: Yeah, we need to be careful and check if online requests are genuine.",
+      "image_url": "",
+      "options": [
+        "No, it’s a minor issue.",
+        "No, it’s a popular trend.",
+        "Yeah, it’s a big problem.",
+        "Yeah, it’s not that serious."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "湯姆:你聽說過壞人怎麼利用網路騙人,讓大家交出 (A) 罪犯 (B) 大使;使節 (C) 牧羊人 (D) 技工 金錢嗎?"
+    },
+    {
+      "id": "MOCK_112_5_ENG_014",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Father: Have you thought about what you want to do for a career? Daughter: Yeah, I’ve been thinking about it, but I’m not sure yet. Father: That’s okay. It takes time to figure it out. Daughter: I have a few interests, like technology and psychology, but I need more information before making a decision.",
+      "image_url": "",
+      "options": [
+        "Have you reached out to professionals working in those fields?",
+        "Have you sought guidance from advisors or professionals?",
+        "Have you done any research on the job market?",
+        "Have you considered any fields or professions?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "父親:妳有想過未來想從事什麼職業嗎?"
+    },
+    {
+      "id": "MOCK_112_5_ENG_015",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Alice: Mei, do you know that there are a significant number of foreigners living in Taiwan? Mei: Really? Alice: According to the government, the majority are from Indonesia, Vietnam, and the Philippines. Mei: Wow, it’s great to see such diversity in our country. We should always respect and welcome them.",
+      "image_url": "",
+      "options": [
+        "Have you interacted with any foreigners here?",
+        "Did they encounter any difficulties in adapting to Taiwan?",
+        "Do you know where most of them come from?",
+        "How do their diverse backgrounds benefit our society?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "艾莉絲:梅伊,你知道居住在臺灣的外國人數量很多 (C) 立刻;不久 (D) 接近地;緊密地 嗎? 梅伊:真的嗎? II. 對話題 艾莉絲:根據政府的說法,大部分是來自印尼、越南"
+    },
+    {
+      "id": "MOCK_112_5_ENG_016",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Mr. Johnson: Ms. Lee: Absolutely! Being able to read well helps them in many ways. Mr. Johnson: It allows them to learn new things, actively engage with others, and enjoy reading for pleasure. Ms. Lee: Yes, it’s great to see their reading ability positively impact their growth.",
+      "image_url": "",
+      "options": [
+        "Does a smart student often possess problem-solving capabilities?",
+        "Does reading e-books harm kids’ eyesight and affect their concentration?",
+        "Have you ever encouraged your students to participate in writing competitions?",
+        "Have you noticed how important it is for our students to be good readers?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "強森老師: (B) 恭喜你得到那份工作,艾瑪。 李老師:當然!良好的閱讀能力對他們在許多方面都 (C) 艾瑪,我很遺憾聽到這件事。 很有幫助。 (D) 也許你缺乏所需的技能。 強森老師:良好的閱讀能力讓他們能夠學習新事物, 積極與他人互動,並享受閱讀的樂趣。 III. 綜合測驗 李老師:是的,看到他們的閱讀能力對他們的成長產 Question 21-25 生正向的影響真是太棒了。 哈利‧布達‧馬加爾是一位來自尼泊爾的勇敢退役 (A) 聰明的學生常會有解決問題的能力嗎? 士兵,他在阿富汗服役時經歷了一場可怕的事件。他在 (B) 閱讀電子書會傷害孩子們的視力並影響他們的專 一次炸彈襲擊中失去了雙腿。然而,儘管 (21) 面臨這樣的 注力嗎? 困境,他並沒有放棄夢想。在 2023 年,他取得了一個非 (C) 你有沒有鼓勵過你的學生參加寫作比賽? 凡的成就──登上了珠穆朗瑪峰的山頂。攀登始於 2023 (D) 你有注意到成為優秀的閱讀者對我們的學生來說 年 4 月 17 日,正好是他失去雙腿後的第 13 年。山上的 有多麼重要嗎? 天氣極其惡劣。 (22) 因此,哈利和他的隊伍不得不在基地"
+    },
+    {
+      "id": "MOCK_112_5_ENG_017",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "John: Kate, I just wanted to apologize for my rude behavior yesterday. Kate: Oh, that’s okay, John. It did hurt my feelings, but I understand that we all have our bad days. John: Thank you for being understanding. I promise I’ll try to control my temper in the future. Kate: I’m glad to hear that, John.",
+      "image_url": "",
+      "options": [
+        "I appreciate your apology.",
+        "I’m sorry for being rude to you.",
+        "I owe you an apology.",
+        "Please accept my apology."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "約翰:凱特,我只是想為昨天的無禮行為向你道歉。 營等了整整 18 天,直到天氣放晴。他們在整個旅途中遇 凱特:哦,約翰,沒關係。 這確實 到了許多挑戰 。然而,哈利的堅定決心和隊友的幫助, (23) 傷害了我的感情,但我理解我們都有不順的日子。 支持著他們 ( 堅持下去 ),使他們成功登上了山頂。這一成 約翰:謝謝你的體諒。我保證以後會努力控制自己的 就讓哈利成為 (24) 失去雙膝以上部位,還能征服珠穆朗瑪 脾氣。 峰的第一人。哈利的旅程對每個人產生了鼓舞的 (25) 作 凱特:約翰,我很高興聽到這段話。 用。它證明了只要付出巨大努力並擁有團結的團隊,就 (A) 對於你的道歉我很感謝。 能克服困難環境,實現驚人的目標。 (B) 我很抱歉對你沒有禮貌。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_018",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "James: I’d like to make the payment with my smartphone. It’s more convenient. Emily: Oh, I haven’t tried that before. James: You just need to use a payment app, connect it to your bank account, and scan the QR code on the bill. It’s really simple! Emily: That sounds easy. I’ll give it a try. Thanks, James!",
+      "image_url": "",
+      "options": [
+        "Can I use my credit card instead?",
+        "Are there any transaction fees?",
+        "Is there a limit on the amount?",
+        "How does it work?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "詹姆士:我想要用智慧型手機付款,這樣更方便。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_019",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Tracy: The local animal shelter requires volunteers for the next ten weeks, and I suggest we help out there. Alex: Sounds good. Volunteering at the animal shelter can make a positive impact on the community. Tracy: That’s wonderful! It’s a chance to help those adorable animals and give them love and care. Alex: I think we should find a schedule that works for both of us.",
+      "image_url": "",
+      "options": [
+        "However, it won’t be possible to volunteer every weekend.",
+        "Yet, I don’t think it’s worth our time investment.",
+        "Therefore, let’s find more meaningful things to do.",
+        "As you know, taking care of animals is not my thing."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "崔西:當地的動物收容所在接下來的十週需要志工,"
+    },
+    {
+      "id": "MOCK_112_5_ENG_020",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Emma: Jack, I want to talk to you for a while. I’m feeling really disappointed about not getting the job I interviewed for. Jack: I can understand how you must be feeling sad right now. Emma: Yeah, it’s just hard not to feel down about it. I was really counting on getting that job. Jack: I totally get it. Don’t worry, though. Something better will come along.",
+      "image_url": "",
+      "options": [
+        "You should have prepared better, Emma.",
+        "Congratulations on getting the job, Emma.",
+        "Oh, I’m sorry to hear that, Emma.",
+        "Maybe you lacked the required skills. III. 綜合測驗 說明:以下兩篇短文,共有 10 個空格,為第 21 至 30 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 21-25 題,請依短文文意,選出一個最適合該空格的答案。 Hari Budha Magar, a brave ex-soldier from Nepal, experienced a terrible incident while serving in Afghanistan. He lost both of his legs in a bomb attack. 21 this hardship, however, he didn’t give up on his dreams. In 2023, he did something remarkable—reaching the summit of Mount Everest. The climb began on April 17, 2023, exactly 13 years after he lost his legs. The weather on the mountain was extremely bad. 22, Hari and his team had to wait for clear skies at the base camp for a total of 18 days. They encountered a lot of challenges throughout their journey. Yet, Hari’s strong determination and his team’s help, 23 kept them going, led them to successfully reach the summit of the mountain. This accomplishment made Hari the first person with both legs 24 above the knees to conquer Mount Everest. Hari’s journey serves 25 an inspiration to everyone. It proves that with great effort and a united team, one can overcome difficult circumstances and accomplish amazing goals."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "艾瑪:傑克,我想跟你談一下。我對於沒能得到面試 境保護以及供應鏈的轉移也會 (29) 導致工作變動。採用更 的工作感到非常失望。 環保做法和更高環境標準的公司肯定會將自己提升到一 傑克: 我能夠理解,你現在一定覺 個新的層次,並創造更多的就業機會。 (30) 相較之下,新 得很難過。 冠疫情、供應缺口以及全球生活成本危機的影響,可能 艾瑪:是的,很難不感到沮喪。我真的很期待能得到 會導致裁員。該報告強調了早期準備的必要,並指出人 112-5 共同科目 英文 詳解 工智慧和機器學習等領域可能存在潛在的就業機會。 ✓ 僅限線上閱讀。 ✓ 儲存並分享文章。 文章。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_021",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": ". ____ this hardship, however, he didn’t give up on his dreams.",
+      "image_url": "",
+      "options": [
+        "Having been faced",
+        "Been facing",
+        "Facing",
+        "Faced"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?112-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_5_ENG_022",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": ". ____, Hari and his team had to wait for clear skies at the base camp for a total of 18 days.",
+      "image_url": "",
+      "options": [
+        "As a result",
+        "On the other hand",
+        "For instance",
+        "In the same way"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?112-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_5_ENG_023",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": ". Yet, Hari’s strong determination and his team’s help, ____ kept them going, led them to successfully reach the summit of the mountain.",
+      "image_url": "",
+      "options": [
+        "how",
+        "what",
+        "who",
+        "which"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?112-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_5_ENG_024",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": ". This accomplishment made Hari the first person with both legs ____ above the knees to conquer Mount Everest.",
+      "image_url": "",
+      "options": [
+        "missed",
+        "missing",
+        "to miss",
+        "having missed"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?112-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_5_ENG_025",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": ". Hari’s journey serves ____ an inspiration to everyone.",
+      "image_url": "",
+      "options": [
+        "as",
+        "with",
+        "to",
+        "among"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?112-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_5_ENG_026",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": ". About a quarter of jobs will ____ changes, as some positions vanish while new ones appear.",
+      "image_url": "",
+      "options": [
+        "come by",
+        "turn down",
+        "go through",
+        "get over"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "(A) ( 為看望某人 ) 作短暫拜訪 (B) 拒絕 ✓ 無廣告,閱讀我 ✓ 每週都可以取得 ✓ 儲存、分享並評論 (C) 經歷 (D) 克服 們的文章,不受 我們所有的額外 文章。 干擾。 數位內容。 ✓ 每週都可以取得我"
+    },
+    {
+      "id": "MOCK_112_5_ENG_027",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": ". The influence of artificial intelligence and technology on job losses is ____ notable in offices, factories, and business fields.",
+      "image_url": "",
+      "options": [
+        "actively",
+        "particularly",
+        "negatively",
+        "honestly"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "(A) 積極地 (B) 尤其 (C) 消極地 (D) 誠實地 ✓ 離線閱讀──下 們所有的額外數位"
+    },
+    {
+      "id": "MOCK_112_5_ENG_028",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": ". They believe that advanced data analysis and network security are expected ____ the main drivers of job growth.",
+      "image_url": "",
+      "options": [
+        "being",
+        "to be",
+        "been",
+        "will be"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "expect 有個用法是 expect sb / sth to do sth, 如果改成被 載並隨時閱讀。 內容。 動,會變成 sb / sth be expected to do sth,本題考被動 ✓ 無廣告,閱讀我 ✓ 無廣告,閱讀我們 用法,故選 (B) 們的文章,不受 的文章,不受干擾。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_029",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "addition to technology, other factors such as economic growth, environmental protection, and shifts in the supply chain ____ job changes.",
+      "image_url": "",
+      "options": [
+        "participate in",
+        "invest in",
+        "refer to",
+        "contribute to"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "(A) 參與 (B) 投資 (C) 提到 (D) 導致 干擾。 ✓ 與兩位家庭成員分"
+    },
+    {
+      "id": "MOCK_112_5_ENG_030",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": ". The effects of the COVID-19 pandemic, supply gaps, and the global cost of living crisis, ____, may cause job cuts.",
+      "image_url": "",
+      "options": [
+        "at worst",
+        "in brief",
+        "by contrast",
+        "on purpose IV. 閱讀測驗 說明:以下有四篇短文,共有 12 個題目,為第 31 至 42 題,請於閱讀短文後,選出最適當的答案 。 ▲ 閱讀下文,回答第 31-32 題 This line graph illustrates the trends of the births and deaths in Taiwan starting from the year 2011. Please answer the questions based on the given information. 31. According to the line graph, which of the following years has the largest gap between the number of births and deaths? (A) 2011. (B) 2017. (C) 2020. (D) 2023. 32. According to the line graph, which of the following statements is true? (A) The number of deaths began to go down after the year 2021. (B) The number of births did not reach its peak until the year 2015. (C) Compared to the year 2013, the number of births in 2023 has decreased by over 50,000 people. (D) The number of first-grade students in elementary school in 2027 will be around 200,000."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "(A) 最壞 (B) 簡述 (C) 相較之下 (D) 故意 享您的帳戶。 說明:本題是考表示相反的「語氣」轉承詞,前句講 新臺幣 1,800 1,600 新臺幣 2,400 2,100 新臺幣 3,600 3,000 元 job creation,後句講 job cuts,用 by contrast( 對照之下 ) 元/一年 元/一年 /一年 表示前後對比,故選 (C) 新臺幣 3,600 3,000 新臺幣 4,800 4,000 新臺幣 7,200 5,800 元 元/二年 元/二年 /二年 IV. 閱讀測驗 ✓ 您的訂閱將繼續,直到您取消為止。 Question 31-32"
+    },
+    {
+      "id": "MOCK_112_5_ENG_031",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "According to the line graph, which of the following years has the largest gap between the number of births and deaths?",
+      "image_url": "",
+      "options": [
+        "2011.",
+        "2017.",
+        "2020.",
+        "2023."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據這張折線圖,下列哪一年的出生人數和死亡人數 (B) 約瑟夫和妹妹各自訂閱《洞察今日臺灣》的數位 差距最大? 高級版。 (A) 2011 。 (B) 2017 。 (C) 2020 。 (D) 2023 。 (C) 約瑟夫訂閱《洞察今日臺灣》的數位基本版,而 說明: 2023 年死亡人數為 20 萬 5 千 3 百 68 人,出 妹妹訂閱數位 & 印刷版本。 生人數為 13 萬 5 千 5 百 71 人,差距為 6 萬 9 千 7 百 (D) 約瑟夫訂閱 《洞察今日臺灣》 的數位 & 印刷版本, 97 人,比其他三年差距更大 並和妹妹分享他的帳戶。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_032",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "According to the line graph, which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "The number of deaths began to go down after the year 2021.",
+        "The number of births did not reach its peak until the year 2015.",
+        "Compared to the year 2013, the number of births in 2023 has decreased by over 50,000 people.",
+        "The number of first-grade students in elementary school in 2027 will be around 200,000."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據這張折線圖,以下哪個敘述是正確的? 說明:根據數位 & 印刷版本的介紹,訂閱數位 & 印刷 (A) 死亡人數在 2021 年之後開始下降。 版本可以和兩位家人分享帳戶,因此訂閱數位 & 印刷 (B) 出生人數直到 2015 年才達到高峰。 版本最為經濟實惠,只要 5,800 元,故選 (D) (C) 相較於 2013 年, 2023 年的出生人數少了超過 5"
+    },
+    {
+      "id": "MOCK_112_5_ENG_033",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "If Alex subscribes to the digital premium version of Today’s Taiwan Insight, which of the following features might he be unable to use?",
+      "image_url": "",
+      "options": [
+        "Leaving comments on articles.",
+        "Sharing his account with his family.",
+        "Reading as many articles as possible.",
+        "Reading the articles at any time."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?112-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_5_ENG_034",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Joseph and his sister live in different cities. If both of them want to subscribe to Today’s Taiwan Insight for two years, what is the most economical plan for them?",
+      "image_url": "",
+      "options": [
+        "Joseph and his sister each subscribe to the digital basic version of Today’s Taiwan Insight.",
+        "Joseph and his sister each subscribe to the digital premium version of Today’s Taiwan Insight.",
+        "Joseph subscribes to the digital basic version of Today’s Taiwan Insight while his sister subscribes to the digital & print version.",
+        "Joseph subscribes to the digital & print version of Today’s Taiwan Insight and shares his account with his sister."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "約瑟夫和妹妹住在不同的城市。如果他們都想要訂購 兩年《洞察今日臺灣》雜誌,對他們來說哪個方案最 經濟實惠? (A) 約瑟夫和妹妹各自訂閱《洞察今日臺灣》的數位 基本版。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_035",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "According to the subscription plan, which of the following is true?",
+      "image_url": "",
+      "options": [
+        "If you subscribe to the digital basic version, you are able to download and read it at your convenience.",
+        "Once your subscription to the digital premium version ends, you will need to renew it.",
+        "John has to pay NT$3,000 if he subscribes to the digital & print version for one year.",
+        "Advertisements may occasionally appear if one subscribes to the digital basic version. ▲ 閱讀下文,回答第 36-37 題 The news report below is written by a school news writer. Answer the questions based on the given information. Indoor Plants: Green Superheroes for a Happier You! Hello, classmates! Let’s talk about something cool—indoor plants! 🌿 Not only do they make our homes beautiful, but they also bring fantastic health benefits. Check out what these green buddies can do for us:"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據訂閱方案,以下哪個選項是正確的? 萬人。 (A) 如果您訂閱數位基本版,您可以在自己方便時下 (D) 2027 年的小學一年級新生人數將約為 20 萬人。 載並閱讀。 說明:死亡人數在 2021 年之後持續增加,因此 (A) 有 (B) 一旦您訂閱的數位高級版結束,您將需要重新訂 誤; 2012 年出生人數達到最高峰,而非 2015 年,因 閱。 此 (B) 有誤; 2013 年的出生人數約 20 萬人,而 2023 (C) 如果約翰訂閱數位 & 印刷版本一年,他需要支付 年的出生人數是 13 萬 5 千 5 百 71 人,差距超過 5 萬 臺幣 3,000 元。 人,故選 (C);一般是 6 歲入小學, 2027 年小一學生 (D) 如果訂閱數位基本版,偶爾可能會出現廣告。 應該是在 2021 年前後出生, 2021 年新生兒人數約 15 說明:根據數位基本版的介紹,並無提供下載閱讀功 萬人, 2020 年新生兒人數約 16 多萬人,皆和 20 萬 能,因此 (A) 有誤;根據數位高級版的介紹,訂閱將 人有一段距離,因此 (D) 有誤 持續到取消為止,因此 (B) 有誤;根據數位 & 印刷版的 Question 33-35 介紹,訂閱一年要新臺幣 3,000 元,故選 (C);根據數 《洞察今日臺灣》 位基本版的介紹,閱讀時不會出現廣告干擾,因此 (D) 數位 數位 & 印刷 有誤 基本 高級 Question 36-37 包含哪些內容? 包含哪些內容? 包含哪些內容? 以下這則新聞報導是由一位學校新聞作者所撰寫 ✓ 每個月可在所有 ✓ 即時無限制地在 ✓ 收到一份印刷版的 的。請根據提供的資訊回答問題。 設備上閱讀高達 您所有的設備上 每月雜誌。 100 篇文章。 瀏覽文章。 ✓ 即時無限制地在您 室內植物:讓你更快樂的綠色超級英雄! ✓ 評論文章。 ✓ 評論文章。 所有的設備上瀏覽 大家好,同學們!讓我們來談談很酷的東西── 112-5 共同科目 英文 詳解 室內植物! 🌿 它們不僅使我們的家變得美麗,還帶來 很常見。此外,有些商店會在收據上印上洗手間的密碼。 了許多極好的健康益處。看看這些綠色小夥伴能為我 因此,如果顧客在那裡購物,他們可以多次使用洗手間。 們做些什麼: 然而,許多百貨公司和大型酒店不收費,可在必要時使 保持空氣清淨 🍃 用其廁所。付費廁所通常較為乾淨,因為有人會迅速更 室內植物充當天然空氣淨化器,清除空氣中令人 換衛生紙並在使用後立即清潔洗手間。 不舒服的東西。它們甚至可以去除家中發現的有害物 在北美,付費廁所的概念有不同的接受程度。像紐 質。所以,有了植物在身邊,我們可以呼吸到更清新 約市和舊金山等城市過去曾嘗試過付費廁所,但這一概 的空氣! 🍃 念收到了不同的回饋,導致許多州禁止公共付費廁所。 告別壓力 😌 多倫多也採用了付費公共廁所,以遏制個人未經允許使 學校可能會讓人感到有壓力,但別擔心,室內植 用商業廁所的行為。這一決定是在商家抱怨非顧客在不 物可以幫忙!研究顯示,身處在植物周圍可以使我們 購買任何商品的情況下使用其設施後作出的。 感到更鎮定,因此室內植物可以幫助減輕壓力。所以 總之,付費廁所隨著時間的推移經歷了顯著的變 下次你感到緊張時,花些時間與你的綠色朋友在一 化,仍然在全球各地存在。不同國家現今正努力維持公 起,就會感覺到壓力慢慢消失。 😌 共廁所並防止濫用。 增加正面情緒 🌈"
+    },
+    {
+      "id": "MOCK_112_5_ENG_036",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "What is one of the benefits of having indoor plants?",
+      "image_url": "",
+      "options": [
+        "They act as a secret weapon against infectious diseases.",
+        "They help in reducing stress and improving focus.",
+        "They provide a home for insects and small creatures.",
+        "They release oxygen and reduce humidity in the room."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "室內植物的好處之一是什麼? 感受是正確的? (A) 它們作為對抗傳染病的秘密武器。 (A) 北美民眾普遍支持在紐約市和舊金山等城市使用 (B) 它們有助於減輕壓力並提高注意力。 付費廁所。 (C) 它們為昆蟲和小生物提供家園。 (B) 付費廁所在北美大部分的州得到廣泛接受和讚 (D) 它們釋放氧氣並降低房間的濕度。 揚。"
+    },
+    {
+      "id": "MOCK_112_5_ENG_037",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "What are indoor plants NOT compared to in the text?",
+      "image_url": "",
+      "options": [
+        "a mini garden",
+        "brain helpers",
+        "green superheroes",
+        "super students ▲ 閱讀下文,回答第 38-42 題 Pay toilets have a long history dating back to ancient Roman times, during which individuals would pay to use public restrooms. Even today, pay toilets can be found in various places worldwide. These facilities require a small entry fee, and it helps to ensure their maintenance. Let’s see how different countries or cities deal with the issue of pay toilets. In Taiwan, public restrooms for women at railway and bus stations, as well as in traditional markets, used to charge a fee because they provided toilet paper, while men’s restrooms were free to use. This practice clearly went against sexual equality and was later stopped. Today, most public toilets in Taiwan are free of charge, and an increasing number of them are beginning to offer free toilet paper. In the Czech Republic, restrooms generally charge a fee, and this is also common in subway stations. Besides, some stores print bathroom codes on the receipt. So, if customers shop there, they can use the restroom many times. However, many department stores and large hotels do not charge, and their restrooms can be used when necessary. Pay toilets are often cleaner because they have people who quickly replace toilet paper and clean the restrooms right after they are used. In North America, the concept of pay toilets was accepted to different extents. Cities like New York City and San Francisco experimented with pay toilets in the past, but this concept received varied feedback, leading to public pay toilets being banned in many states. Toronto also adopted pay public toilets to put a damper on individuals using business restrooms without permission. This decision followed complaints from businesses about non-customers using their facilities without buying anything. In conclusion, pay toilets have experienced significant changes over time and are still found in various locations worldwide. Currently, different countries are striving to maintain public restrooms and discourage misuse."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "文中的室內植物沒有被比喻成什麼? (C) 北美某些城市對付費廁所的反應褒貶不一,導致 (A) 一座小型花園 有些州禁止使用。 (B) 大腦的幫手 (D) 多倫多採用公共付費廁所後,該市的洗手間濫用 (C) 綠色超級英雄 情況已經有所減少。 (D) 頂尖學生 說明:第四段提到紐約市和舊金山等北美城市過去曾 說明:段落中提到在書房擺放一盆植物,可以讓大腦 嘗試過付費廁所,但這一概念收到了不同的回饋,導 更靈活,可能讓人成為頂尖學生,文章沒有將室內盆 致許多州禁止了公共付費廁所的存在,並非獲得北美 栽比喻為頂尖學生,故選 (D) 民眾普遍的支持、接受、讚美,因此 (A) 和 (B) 有誤; Question 38-42 第四段也提到近年倫多也開始採用公共付費廁所,以 付費廁所擁有悠久的歷史,可追溯至古羅馬時期, 阻止人們未經允許使用商家的廁所,但沒有明確指出 當時人們需要付錢才能使用公共廁所。即便在今日,世 洗手間濫用情況已經有所減少, 因此 (D) 有誤, 故選 (C) 界各地仍可見到付費廁所。進入這些設備需要支付一小"
+    },
+    {
+      "id": "MOCK_112_5_ENG_038",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "What is the main idea of the passage?",
+      "image_url": "",
+      "options": [
+        "The history of pay toilets in ancient Roman times.",
+        "The ongoing debate about pay toilets in Europe.",
+        "The history and current status of pay toilets worldwide.",
+        "The ban on public pay toilets in North America."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?112-5-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_5_ENG_039",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "According to the passage, which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "Women’s public restrooms in Taiwan used to charge a fee.",
+        "In the Czech Republic, it is rare to come across pay toilets.",
+        "All restrooms in Taiwan are required to provide toilet paper.",
+        "In the Czech Republic, buying a code is necessary for restroom access."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據文章內容,以下哪一項敘述是真的? 提高注意力 ڴ ڵ ڶ (A) 臺灣的女性公廁曾經需要收費。 注意力集中有困難?室內植物也能幫助你!它們 (B) 在捷克共和國,很少遇到付費廁所。 釋放氧氣,增加濕度,讓我們的大腦更加靈活。它們 (C) 臺灣的所有廁所都必須提供衛生紙。 就像大腦的幫手!所以,在你的書房附近擺放一盆植 (D) 在捷克共和國,使用廁所必須購買密碼。 物可能會讓你成為頂尖的學生。 ڴ ڵ ڶ"
+    },
+    {
+      "id": "MOCK_112_5_ENG_040",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "What is the main goal of countries with pay toilets?",
+      "image_url": "",
+      "options": [
+        "To maintain public restrooms.",
+        "To charge a fee for restroom entry.",
+        "To provide free access to restrooms and essential supplies.",
+        "To attract more tourists to pay a visit."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "設有付費廁所國家的主要目的是什麼? 總結來說,室內植物就像綠色超級英雄。它們清 潔空氣,使我們鎮定下來,讓我們更快樂,並幫助我 (A) 維護公共廁所。 (B) 收取進入洗手間費用。 們更專注。這就像擁有一個對抗壓力和低落情緒的秘 (C) 提供免費洗手間和必需品。 密武器!讓我們把它們帶進生活,一起享受室內植物 (D) 吸引更多遊客來參觀。 帶來的驚人好處吧!祝你種植愉快! 💮"
+    },
+    {
+      "id": "MOCK_112_5_ENG_041",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Based on the information provided, which is true about how the public felt about pay toilets in North America?",
+      "image_url": "",
+      "options": [
+        "The public in North America generally supported the use of pay toilets in cities like New York City and San Francisco.",
+        "The use of pay toilets was widely accepted and praised in most states across North America.",
+        "The mixed responses to pay toilets in some cities of North America led some states to forbid their use.",
+        "Toronto’s adoption of pay public toilets resulted in a decrease in restroom misuse in the city."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據提供的資訊,哪一個有關北美民眾對付費廁所的"
+    },
+    {
+      "id": "MOCK_112_5_ENG_042",
+      "subject": "英文",
+      "unit": "112-5-四技二專-00共同科目 英文",
+      "q": "Which of the following is closest in meaning to “ put a damper on ” in paragraph 4?",
+      "image_url": "",
+      "options": [
+        "discourage",
+        "dominate",
+        "convince",
+        "tolerate 二、非選擇題 ( 第 I 題,每格 2 分,共 4 分;第 II 題 6 分;第 III 題 6 分;共 16 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "以下何者與第四段中的「 put a damper on 」語意最相 筆費用,這有助於確保它們的維護。讓我們看看不同的 近? 國家或城市是如何處理付費廁所的問題。 (A) 阻止 (B) 支配 (C) 說服 (D) 容忍 在臺灣,鐵路和公車站以及傳統市場的女性公廁過 去曾經要收費,因為它們提供了衛生紙,而男性廁所則 二、非選擇題 免費使用。這種做法明顯違反了性別平等原則,後來被 停止了。今天,臺灣大部分的公共廁所都免費,而且越 I. 填充 來越多的公共廁所開始提供免費衛生紙。"
+    }
+  ]
+}

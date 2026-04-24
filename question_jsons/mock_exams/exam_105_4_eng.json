@@ -1,0 +1,661 @@
+{
+  "bundle_id": "MOCK_105_4_ENG",
+  "questions": [
+    {
+      "id": "MOCK_105_4_ENG_001",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "As winter, many of the people living in the northern Europe would huddle around the fire and stay indoors to fend off freezing temperatures.",
+      "image_url": "",
+      "options": [
+        "indicates",
+        "approaches",
+        "survives",
+        "settles"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "當冬天到來,許多北歐人會縮在爐火旁邊取暖,並 (A) 我真的很願意。 留在室內來抵擋冰冷的溫度。 (B) 算我一份。 (A) 指出 (B) 到來 (C) 倖存 (D) 安頓 (C) 你之後有空嗎?"
+    },
+    {
+      "id": "MOCK_105_4_ENG_002",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Due to the constant use of smartphones, I feel pain on my neck. The pain has occurred again and again for a long time.",
+      "image_url": "",
+      "options": [
+        "functional",
+        "expressive",
+        "temporary",
+        "chronic"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "由於不斷使用智慧型手機,我感到我的脖子有慢性 (D) 趕場電影如何? 的疼痛。這樣的疼痛持續一再的發生,且有很長一"
+    },
+    {
+      "id": "MOCK_105_4_ENG_003",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "The high taxes on imported goods are meant to the domestic manufacturers. Therefore, we have to pay more for the products from foreign countries.",
+      "image_url": "",
+      "options": [
+        "protect",
+        "detect",
+        "reflect",
+        "select"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "如果他道歉,我就會原諒他。 解答: If he apologizes / says sorry, I’ll forgive him. I’ll forgive him if he apologizes / says sorry. 評閱指標 級分 說明 能充分表達原文題意,對題材有絕佳的掌握, 4 句子結構及連貫性甚佳。文法及標點正確,用 字遣詞沒有或僅有極少不當之處。 能適切表達原文題意,對題材有良好的掌握, 3 句子結構及連貫性大致得當。文法及標點、用 字遣詞有少數不當之處,但不妨礙題意之表達。 僅能部分表達原文題意,句子結構不良或有 2 誤,且大多難以理解並缺乏連貫性。文法及標 點、用字遣詞有失當之處。 無法表達原文題意,句子沒有結構概念及連貫 1 性,無法理解。文法及標點、用字遣詞之錯誤 甚多。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_004",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Michelle is very fluent in English, so she will be at a(n) in the interview if conducted in English only.",
+      "image_url": "",
+      "options": [
+        "intelligence",
+        "pressure",
+        "demand",
+        "advantage"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Michelle 的英文非常流利,因此若是面試只能用英文 (B) 我們還有些空房。 的話,她有其優勢在。 (C) 這是您的帳單。 (A) 聰慧 (B) 壓力 (C) 要求 (D) 優勢 (D) 房間的景色很棒。 【註】 be at an advantage=have an advantage 有...優勢"
+    },
+    {
+      "id": "MOCK_105_4_ENG_005",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "After the typhoons, we are a rise in food prices this week. It is said that the price of each head of cabbage has almost doubled at traditional markets.",
+      "image_url": "",
+      "options": [
+        "expecting",
+        "weighing",
+        "escaping",
+        "maintaining"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "颱風過後,我們預期這週的菜價上漲。據說一顆高 Jasper:嗯,說實話,星期六我還覺得挺好的,但星 麗菜價格在傳統市場已經漲了一倍。 期日下午開始我覺得生病了。我有些擔心,因為我 (A) 預期 (B) 秤重 (C) 逃跑 (D) 維修 明天有個報告要上台。我必須在那之前好起來。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_006",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Having hot meals is an effective way for the over 65-year-olds and those with health issues to cope with winter.",
+      "image_url": "",
+      "options": [
+        "result from",
+        "come up with",
+        "deal with",
+        "run into"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "吃熱食是個有效的方法來幫助 65 歲以上和有健康問 Carla:真可憐, 題的人來應付冬天。 Jasper:嗯,我以為我得了流感,但幸好我的醫生告 (A) 導致 (B) 想出 (C) 應付 (D) 巧遇 訴我那只是個重感冒。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_007",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "In 2011, the west coast of Australia encountered sea surface temperatures that were 2-4°C warmer than average for 10 weeks.",
+      "image_url": "",
+      "options": [
+        "exploded",
+        "experienced",
+        "expanded",
+        "existed"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "澳洲西部在 2011 年時曾遇過高於平均溫度 2~4 度達 (A) 我可以幫忙你明天的報告。 十週之久。 (B) 星期日下午沒有醫生可看。 (A) 爆炸 (B) 經歷 (C) 擴大 (D) 存在 (C) 你不再是個誠實的人了。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_008",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "You can prepare your speech in advance, making the big day a little less stressful.",
+      "image_url": "",
+      "options": [
+        "repeatedly",
+        "constantly",
+        "later",
+        "beforehand"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "你可以事先準備你的演講,讓你在這個大日子當天 (D) 是什麼問題呢? 可以不那麼有壓力。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_009",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "When asked how the dieting plan was going, Tina replied that dieting didn’t sound like much fun.",
+      "image_url": "",
+      "options": [
+        "disguised",
+        "responded",
+        "reserved",
+        "disappeared"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "當問到節食計畫進行的如何, Tina 回答說節食一點 Man:嗯,我不知道。 都不好玩。 Woman:我想到山區騎自行車。 (A) 掩飾 (B) 回覆 (C) 保留 (D) 消失 Man: 哇, 聽 起 來 還 不 錯! 就 這 麼 辦! 會 很 好 玩"
+    },
+    {
+      "id": "MOCK_105_4_ENG_010",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "The court declared that the strike action was illegal. Therefore, the employees were asked to be back to their work if they wanted to get paid.",
+      "image_url": "",
+      "options": [
+        "proved",
+        "assumed",
+        "announced",
+        "obtained"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "法院宣布這樣的罷工行為是不合法的。因此若是員 的。 工 們 想要 得 到薪 資,他 們就 得 回到 自 己的 工作 崗 (A) 你有什麼想法嗎? 位。 (B) 上次我們去過,還記得嗎? (A) 證實 (B) 假設 (C) 宣告 (D) 獲得 (C) 我們可以待在家玩桌遊。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_011",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "The 311 earthquake was one of the worst disasters in Japan, and it caused severe damage in northeastern Japan.",
+      "image_url": "",
+      "options": [
+        "led to",
+        "gave up",
+        "looked after",
+        "stood for"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "日本 311 地震是日本最慘重的災難之一,它造成日本 (D) 上次我的手斷了。 東北部嚴重的損害。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_012",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Tina: Hi, Monica, do you have anything planned for this Sunday? Monica: Why do you ask? Tina: Oh, I was wondering if you would like to get together and do something. Monica: But actually I am really going to be busy this Sunday.",
+      "image_url": "",
+      "options": [
+        "I’d love to!",
+        "Count me in.",
+        "Are you free after that?",
+        "How about catching a movie?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Tina:嗨! Monica,星期日有什麼計畫嗎? 105-4 共同科目 英文 詳解 (A) 換個新髮型可以讓你很不一樣。 聊天或瀏覽 Facebook 可能是你放鬆的方式; (23) 然而睡 (B) 你想要約哪一天呢? 前這樣做可能對你的健康沒有好處。 (C) 讓我看看那天我們有沒有空檔。 根據 JAMA 小兒科的醫學研究顯示,睡眠品質好不 (D) 我們的髮型設計師相當專業。 好和在睡前是否使用科技產品有很大的關係。科技產品"
+    },
+    {
+      "id": "MOCK_105_4_ENG_013",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Hotel Clerk: Hello, Howard Hotel. May I help you? th Tim: Yes, I’d like to reserve a room on the 28 of July. Hotel Clerk: Would you like a smoking or a non-smoking room? Tim: Non-smoking, please. Hotel Clerk: Well,, unless you want a smoking room.",
+      "image_url": "",
+      "options": [
+        "we’re full on that day",
+        "we do have some rooms available",
+        "here is the copy of your bill",
+        "the view of the room is so great"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Hotel Clerk:您好,福華大飯店。有什麼能為您服務 段時間了。 的嗎? (A) 機能的 (B) 富於表情的 Tim:我想訂 7 月 28 日的房間。 (C) 短暫的 (D) 慢性的 Hotel Clerk:您想要可吸煙或是禁煙的房間呢?"
+    },
+    {
+      "id": "MOCK_105_4_ENG_014",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Carla: How are things going, Jasper? Jasper: Well, to be honest, Carla, I was feeling great last Saturday, but I started to feel sick on Sunday afternoon. And I am really worried now because I have to give a presentation tomorrow. So, I have to get better by then. Carla: Poor you! Jasper: Well, I thought I had the flu, but luckily the doctor said it was just a bad cold.",
+      "image_url": "",
+      "options": [
+        "I can help you with your presentation tomorrow.",
+        "Doctors are not available on Sunday afternoon.",
+        "You are not an honest person anymore.",
+        "What seems to be the problem?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Carla:近來如何呀, Jasper?"
+    },
+    {
+      "id": "MOCK_105_4_ENG_015",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Woman: Hey, why don’t we do something fun next week? We have time off. Man: Well, I don’t know. Woman: I was thinking of going mountain biking. Man: Oh, that sounds great. Let’s do it. It will be fun.",
+      "image_url": "",
+      "options": [
+        "What do you have in mind?",
+        "That’s what we did last time, remember?",
+        "We could stay home and play board game.",
+        "I broke my arm last time."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Woman: 嘿, 下 星 期 我 們 做 點 有 趣 的 事 吧! 放 假 (A) 重複地 (B) 不斷地 (C) 稍後 (D) 事先 耶!"
+    },
+    {
+      "id": "MOCK_105_4_ENG_016",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Woman: Hi, how can I help you? Man: I need to get a haircut. Can I schedule an appointment? Woman: Sure! Man: Mmm, can you make it on Saturday?",
+      "image_url": "",
+      "options": [
+        "Having a new haircut can make you different.",
+        "What day would you like to make the appointment?",
+        "Let me check if we have any openings on that day.",
+        "Our hair designers are quite professional."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Woman:嗨,有什麼可以效勞的嗎? (A) 造成 (B) 放棄 (C) 照顧 (D) 代表 Man:我想剪頭髮,可以約時間嗎? Woman:當然! II. 對話題 Man:嗯,星期六好了。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_017",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Teacher: So...where were we last week? Students: Teacher: Well, well, well. I hope you’ve done the assignments. Students: Of course, we have! We are always good students, as you know it.",
+      "image_url": "",
+      "options": [
+        "We were at the McDonald’s.",
+        "Page 47, and Exercise 10.",
+        "Excuse me?",
+        "Sorry, I don’t remember the date."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "老師:我們上週上到哪? 如手機、平板、電腦等實際上可能讓我們徹夜難眠,也 學生: 因此 (24) 造成第二天無法保持清醒的麻煩。 老師:哇...希望你們有寫功課。 其實,這個問題不僅是「熬夜使用這些科技產品」 學 生:當 然 囉, 我 們有 寫! 我 們一 直 都是 好學 生 那樣簡單。即使在停止 (25) 使用後,這些影響還是可能 呀,你知道的。 會持續下去。如同調查中所指出的,這些科技產品會過 (A) 我們在麥當勞。 度刺激腦部和情緒;此外,從智慧型手機發出的亮光很 (C) 你說什麼? 優劣。 (D) 不好意思,我不記得是哪一天。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_018",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Jimmy: I would like to have a cup of coffee, please. Clerk: Jimmy: What do you have? Clerk: We have Americano, Cappuccino, and Expresso. Jimmy: Americano then, please.",
+      "image_url": "",
+      "options": [
+        "What kind of coffee would you like?",
+        "Do you want a glass of water first?",
+        "Here or to go?",
+        "Latte is my favorite."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "吉米:我想要一杯咖啡,謝謝。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_019",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Jerry: Mom asked me to invite my girlfriend Tina to her birthday party, but I don’t want to. Cherry: Really? She didn’t ask me to do so. Jerry: That’s because she doesn’t know you’ve got a boyfriend. Cherry: Jerry: Alright, I would try to hide Mom on Facebook without her knowing.",
+      "image_url": "",
+      "options": [
+        "Facebook was founded in the US.",
+        "Tell me how to befriend Mom.",
+        "I’ve told you not to friend Mom on Facebook.",
+        "Mom is actually not a friend of Tina on Facebook."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "傑 瑞:媽 要 我邀 請 我女 朋友 提 那參 加 她的 生日 派 卡的話,她們的嬰兒可能會有永久性的損害。罹患茲卡 對,但我不想要耶。 的孩童可能會有異常的小頭症,有嚴重的學習障礙,且 崔瑞:真的嗎?她沒有要我這樣做耶。 許多 (28) 孩童會夭折。 (29) 不幸的是,茲卡目前沒有任何 傑瑞:那是因為她不知道妳有男朋友呀。 治療或是疫苗能夠使用。唯一 (30) 有效遠離茲卡的方式 崔瑞: 就是撲滅妏蟲。衛生稽查員做居家檢查,呼籲大家把積 傑瑞:好吧,我要試著在 Facebook 隱藏媽,且不讓 水 (31) 擦乾以確保病媒蚊不會滋生。全球專家不斷呼籲 她知道。 希望有更多的資金挹注,讓大家能想出創新的方式來去 (A) Facebook 在美國成立。 除病媒蚊。 (B) 告訴我要如何加媽為好友。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_020",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Jane: Excuse me. I am looking for boarding Gate 22. Clerk: Jane: Thank you. Clerk: You’re welcome.",
+      "image_url": "",
+      "options": [
+        "Just go straight. You can see the sign on your right.",
+        "Can I take a look at your passport?",
+        "The counter of China Airlines is over there.",
+        "Which flight are you going to board?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "潔恩:不好意思,我在找 22 號登機門。 等連接詞 and,連絡兩個各自獨立的句子,故本格只 服務員: 需填上人稱代名詞 them,而非關係代名詞 whom 潔恩:謝謝。"
+    },
+    {
+      "id": "MOCK_105_4_ENG_021",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Lisa: The weather today is too warm in November. Vincent: You’re right. We normally would have put on our jackets already. Lisa: Why don’t we have a cup of ice cream now? Vincent: Let’s go.",
+      "image_url": "",
+      "options": [
+        "Are you crazy?",
+        "Sorry. I have to finish the assignments first.",
+        "Sure. I am always a fan of rock music.",
+        "Sounds terrific."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "麗莎:今天已十一月了,像這樣的天氣也太熱了。 是感冒的症狀,而是和即將到來的季節性過敏高度相 文生:沒錯。正常來說我們早已穿上夾克了。 關。事實上,不只在臺灣,季節性過敏在美國也相當常 麗莎:不然我們來吃冰淇淋吧? 見。根據「美國哮喘和過敏症基金會」表示,大約五分 文生: 走吧! 之一的美國人必須對抗某種過敏症。雖然這些過敏並沒 (A) 妳瘋了嗎? 有像對食品或昆蟲過敏那樣嚴重,但它們可能會造成困 (B) 抱歉,我得先寫好功課。 擾並干擾到人們的日常生活。 (C) 沒問題,我一直都是搖滾樂迷。 在美國,專家表示對抗季節性過敏最佳的方式就是 (D) 聽起來很棒。 知道它的成因,那就是─花粉。花粉,這種由植物產生 III. 綜合測驗 且由風所攜帶的粉末被視為春季過敏的主因。因此,遠 Question 22-26 離花粉在某種程度上是告別過敏的方法。訣竅如下:首 你曾經有在睡前使用手機的經驗嗎?你有沒有想過 先,芝加哥過敏和免疫學醫學副教授 Anju Peters 表示: 這個習慣 (22) 可能會影響你的睡眠品質?用 Line 與朋友 吃水果時,可以將水果清洗、去皮或烹煮,因為過敏常 105-4 共同科目 英文 詳解 發生在生吃水果 ( 含果皮 ) 時。此外,常幫寵物 ( 如狗 ) 洗澡 旅遊做決定前非常仰賴網路上的評價。但是顧客也可能 會有很大的幫助,因為寵物狗在外面回來後,可能將花 因為在沒有事先確認網站的真實性,最後毀了自己的旅 粉或其他過敏原帶入家裡。此外,在雷雨時或雷雨過後 行。因此一定要注意,要看可靠的網站、或是官網,且 要待在家中。雖然小雨可能會減少花粉量,但雷雨事實 要培養自己分辨真實資訊的能力。如此一來,你會發現 上會激起花粉翻飛,讓人覺得不舒服。 上網計畫旅遊是一個很美好的經驗。現在準備好要計畫"
+    },
+    {
+      "id": "MOCK_105_4_ENG_022",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "? Have you ever thought that this habit may ____ affect your quality of sleep?",
+      "image_url": "",
+      "options": [
+        "humorously",
+        "potentially",
+        "equally",
+        "logically"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_023",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "? Chatting with friends through Line or browsing Facebook pages can be your ways to relax; ____, doing these at bedtime may not be good for your health.",
+      "image_url": "",
+      "options": [
+        "therefore",
+        "moreover",
+        "meanwhile",
+        "however"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_024",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": ". Many devices such as cell phones, tablets and computers in fact may keep us awake at night, consequently ____ trouble staying awake the next day.",
+      "image_url": "",
+      "options": [
+        "leading to",
+        "lead to",
+        "having led to",
+        "led to"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_025",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": ".” The influence may continue even when they are not ____.",
+      "image_url": "",
+      "options": [
+        "in time",
+        "in vain",
+        "in tears",
+        "in use"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_026",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "devices can over-stimulate the mind and emotion; what’s more, the light emitted from smartphones or tablets can easily ____ the body’s natural timing.",
+      "image_url": "",
+      "options": [
+        "disturb",
+        "appear",
+        "benefit",
+        "decorate ▲ 下篇短文共有 5 個空格,為第 27 至 31 題,請依短文文意,選出一個最適合該空格的答案。 Zika, the mosquito-borne virus, originated in Africa and is now spreading fast in the world. The doctors warn that if pregnant women 27 it, their babies may be permanently damaged. Children born with Zika virus may have abnormally small heads, suffering severe learning difficulties, and many of 28 die young. 29, Zika has no cure or any vaccine available to date. The only 30 way to keep Zika out is to kill mosquitoes. Health workers pay visits to households, urging people to 31 standing waters to ensure that mosquitoes will not breed. Experts worldwide keep calling for more funding in order to conceive novel ways to kill mosquitoes."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_027",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": ". The doctors warn that if pregnant women ____ it, their babies may be permanently damaged.",
+      "image_url": "",
+      "options": [
+        "catch",
+        "deserve",
+        "join",
+        "leap"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_028",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": ". Children born with Zika virus may have abnormally small heads, suffering severe learning difficulties, and many of ____ die young.",
+      "image_url": "",
+      "options": [
+        "whom",
+        "that",
+        "them",
+        "who"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_029",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": ". ____, Zika has no cure or any vaccine available to date.",
+      "image_url": "",
+      "options": [
+        "Luckily",
+        "Eventually",
+        "Lastly",
+        "Unfortunately"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_030",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": ". The only ____ way to keep Zika out is to kill mosquitoes.",
+      "image_url": "",
+      "options": [
+        "effective",
+        "explosive",
+        "extensive",
+        "economic"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_031",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": ". Health workers pay visits to households, urging people to ____ standing waters to ensure that mosquitoes will not breed.",
+      "image_url": "",
+      "options": [
+        "start out",
+        "mop up",
+        "run out of",
+        "sum up IV. 閱讀測驗 ( 第 32-41 題,每題 2 分,共 20 分 ) 說明:以下兩篇短文,共有 10 個題目,為第 32 至 41 題,請於閱讀短文後,選出最適當的答案 。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_032",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "What is the best title for this passage?",
+      "image_url": "",
+      "options": [
+        "History of Allergy",
+        "Dangers from Pollen",
+        "The Seasonal Allergy",
+        "Fruits and Pollen"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "本篇文章的最佳標題為何? 一趟旅行了嗎? (A) 過敏的歷史"
+    },
+    {
+      "id": "MOCK_105_4_ENG_033",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Which of the following is NOT the tip to avoid symptoms of pollen-fruit allergy syndrome?",
+      "image_url": "",
+      "options": [
+        "Peel fruits before eating them.",
+        "Don’t go out during a thunderstorm.",
+        "Wash pet dogs regularly.",
+        "Learn to live with pollen."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "下列何者不是避免水果花粉過敏的訣竅? (D) 確保網路的使用安全極為重要 (A) 吃水果前先削皮"
+    },
+    {
+      "id": "MOCK_105_4_ENG_034",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Which of the following is closest in meaning to the phrase “ interfere with ” in the first paragraph?",
+      "image_url": "",
+      "options": [
+        "bother",
+        "take",
+        "spare",
+        "misunderstand"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "以下哪一個片語意思最接近「干擾」 ( 第一段 )? (C) 許多評比人員因為受到飯店的贊助,因此提供真 (A) 打擾 (B) 拿取 (C) 騰出 ( 時間 ) (D) 誤會 實且有信度的評論"
+    },
+    {
+      "id": "MOCK_105_4_ENG_035",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "The author mentions pollen a lot in the second paragraph because he wants the readers to know.",
+      "image_url": "",
+      "options": [
+        "keeping away from pollen can completely avoid allergies",
+        "light rain can decrease the pollen counts",
+        "the way to deal with allergy is to avoid the cause of it",
+        "the allergy caused by pollen is as severe as food or insect allergies"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "第 二 段中, 作者 一 直提 到「 花 粉」 是 想讓 讀者 了 (D) 善用網路平台來互相交換意見是很方便的事 解?"
+    },
+    {
+      "id": "MOCK_105_4_ENG_036",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "According to the article, which of the following statements is NOT true?",
+      "image_url": "",
+      "options": [
+        "The author provides methods to prevent allergies.",
+        "Seasonal allergies are not uncommon.",
+        "Many Americans have the problem of allergies.",
+        "People with pet dogs may suffer allergies because of a dog disease."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "以下敘述何者為非? (B) 有一個很棒的旅行計畫 (A) 作者提供了一些方法來防止過敏 (C) 在做決定前先毀了我們的旅行 (B) 季節性過敏並非不常見 (D) 培養分辨真實資訊的能力 (C) 許多美國人有過敏問題"
+    },
+    {
+      "id": "MOCK_105_4_ENG_037",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "What is the main idea of this article?",
+      "image_url": "",
+      "options": [
+        "Online reviews are gradually important and people should use them.",
+        "Online reviews have both advantages and drawbacks.",
+        "Hotels are available through online bookings.",
+        "It is overwhelmingly significant to ensure online safety."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_038",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Which of the following statements is proposed by Craig Thomas?",
+      "image_url": "",
+      "options": [
+        "Hunting information online could be tedious and troublesome.",
+        "There are too many facts online rather than opinions, so they are reliable.",
+        "Many online reviewers are sponsored by hotels, providing authentic and credible comments.",
+        "It is always convenient to make use of a platform for exchanging mutual feedbacks online."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_039",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "Alicia Klein’s perspective toward online review is.",
+      "image_url": "",
+      "options": [
+        "tricky",
+        "picky",
+        "optimistic",
+        "offensive"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_040",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "According to the article, when we use online reviews, we need to.",
+      "image_url": "",
+      "options": [
+        "give the fake ones a try",
+        "have an enjoyable plan for the trip",
+        "ruin our trip before we make a decision",
+        "develop a skill to discern authentic information"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?105-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_4_ENG_041",
+      "subject": "英文",
+      "unit": "105-4-四技二專-英文",
+      "q": "What is the closest meaning of reluctantly in paragraph one?",
+      "image_url": "",
+      "options": [
+        "unwillingly",
+        "sympathetically",
+        "apparently",
+        "scarcely 第二部分:非選擇題 ( 第 1 至 3 題,每題 6 分,共 18 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格○ 1 、○ 2 答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄○ 1 、○ 2 之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?105-4-四技二專-英文解析.pdf"
+    }
+  ]
+}

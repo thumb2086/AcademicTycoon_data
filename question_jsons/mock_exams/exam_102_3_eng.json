@@ -1,0 +1,805 @@
+{
+  "bundle_id": "MOCK_102_3_ENG",
+  "questions": [
+    {
+      "id": "MOCK_102_3_ENG_001",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "It is found by psychologists that when we feel, all we need is friends’ encouragement.",
+      "image_url": "",
+      "options": [
+        "delighted",
+        "outstanding",
+        "distressed",
+        "complex"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_002",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Taiwan is hit by 4 typhoons on average each year, which cause natural like mudslides and floods.",
+      "image_url": "",
+      "options": [
+        "resources",
+        "disasters",
+        "wounds",
+        "tsunamis"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_003",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "The accountant’s annual report shows that unless the company their expenses, they will not be able to complete the project.",
+      "image_url": "",
+      "options": [
+        "crashes",
+        "possesses",
+        "blocks",
+        "reduces"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_004",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "John plans to get a shot of flu before winter, but he has been too busy lately to do it.",
+      "image_url": "",
+      "options": [
+        "vaccine",
+        "bacteria",
+        "infection",
+        "vacancy"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_005",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "If you have a fever and a sore throat for days, you should take more rest and seek advice.",
+      "image_url": "",
+      "options": [
+        "academic",
+        "massive",
+        "media",
+        "medical"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_006",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Lots of American teenagers take Warren Buffett as their idol, because Buffett’s way of life them.",
+      "image_url": "",
+      "options": [
+        "inspires",
+        "offends",
+        "expires",
+        "intends"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_007",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Sean much of his time on the weekend to caring for stray dogs and cats.",
+      "image_url": "",
+      "options": [
+        "composes",
+        "circulates",
+        "calculates",
+        "contributes"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_008",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "A large percentage of notebook computers are and manufactured by Taiwan companies.",
+      "image_url": "",
+      "options": [
+        "measured",
+        "altered",
+        "assembled",
+        "marveled"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_009",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "One of the requirements of this job is that the applicants must speak English.",
+      "image_url": "",
+      "options": [
+        "cowardly",
+        "completely",
+        "fluently",
+        "reluctantly"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_010",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Children may be exposed to information that is not for them, so parents should choose TV programs for their kids carefully.",
+      "image_url": "",
+      "options": [
+        "destructive",
+        "influential",
+        "harmful",
+        "proper"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_011",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "All of the TV news reporters were trying to foretell who would win the presidential election.",
+      "image_url": "",
+      "options": [
+        "debate",
+        "predict",
+        "generate",
+        "design"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_012",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "On Thanksgiving Day, westerners normally have a traditional feast that consists of roast turkey with stuffing, and mashed potatoes.",
+      "image_url": "",
+      "options": [
+        "is made from",
+        "is made up of",
+        "is made over",
+        "is made of"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_013",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "It is believed that the three colors of the French flag stand for freedom, peace, and courage.",
+      "image_url": "",
+      "options": [
+        "appreciate",
+        "represent",
+        "apologize",
+        "qualify"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_014",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Westerners live mainly on bread, while Asians on rice.",
+      "image_url": "",
+      "options": [
+        "gradually",
+        "frankly",
+        "partly",
+        "chiefly"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_015",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Don’t park your car here because it is reserved for the handicapped.",
+      "image_url": "",
+      "options": [
+        "disabled",
+        "incapable",
+        "irritable",
+        "adorable 二、對話題 說明:第 16 ~ 25 題,請依對話內容,選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_016",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Clerk: Can I help you? Anna:, but I’ll be looking for appliances for my new home in the next few months. Clerk: Ok. Please feel free to look around, and if I can help out, don’t hesitate to ask. Anna: I really appreciate it.",
+      "image_url": "",
+      "options": [
+        "Leave me alone. I am busy",
+        "I’m just browsing",
+        "I don’t get a raise",
+        "Please offer me free shipment and installation"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_017",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Blake: I want chocolate cake for dessert. Tara: No. We’re going to have sugar-free yogurt. Blake: What? Being healthy is good, but it’s not always fun. Tara:",
+      "image_url": "",
+      "options": [
+        "Honesty is always the best policy.",
+        "From now on, I’ll keep good hours.",
+        "I couldn’t agree with you more.",
+        "Don’t mention it!"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_018",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Jill: Tim, tell me. How are you adjusting to life in Taiwan? Tim: I was doing OK, but Jill: Really? What’s going on? Tim: I just moved into my new apartment, but I found that right outside is a night market. Jill: Oh. It would be too noisy indeed.",
+      "image_url": "",
+      "options": [
+        "I’ve never been so happy in my life.",
+        "I don’t know what the problem is.",
+        "You are telling me!",
+        "I’ve been having a hard time lately."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_019",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Clerk: May I help you? Kenny: Clerk: Let me see. Our exchange rate today is 29.8 NT dollars to 1 U.S. dollar. Kenny: We’d like to exchange NT$10,000 to U.S. dollars, please.",
+      "image_url": "",
+      "options": [
+        "What’s the New Taiwan dollar exchange rate to U.S dollar?",
+        "Is U.S. dollar expensive?",
+        "How can I exchange U.S. dollars?",
+        "How much do you charge for your service?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_020",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Justine: Hi, I’d like to know if you serve breakfast in the hotel. Concierge: Yes. We serve continental breakfast in the second-floor restaurant. Justine: Concierge: It is served from 6:30 to 10 every morning.",
+      "image_url": "",
+      "options": [
+        "How about wake-up calls?",
+        "What are the breakfast hours?",
+        "When does the shop open?",
+        "Time really flies."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_021",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Guard: Excuse me. Didn’t you see the signs at the entrance? It reads, “Do not touch the displays.” Karen: Oh, I’m really sorry. I didn’t notice that. This statue is so beautiful that I couldn’t help myself. Guard: Well, there are certain rules in every museum. Karen: Yes, I understand. I’ll be very careful from now on.",
+      "image_url": "",
+      "options": [
+        "No food or drink is allowed.",
+        "I’ll catch up with you.",
+        "You should follow them.",
+        "Please give seats to the elderly."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_022",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Matthew: I wonder when the drinks will be served. I am so thirsty. Attendant: An attendant will come through with the drink cart in just a few minutes. Mathew: Actually, I also feel pretty cold. I’d like to have a blanket. Attendant: Just a moment, please.",
+      "image_url": "",
+      "options": [
+        "When are we about to take off?",
+        "Is there anything else I can help you with?",
+        "Please turn off your cellphone.",
+        "Fasten your seatbelt, please."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_023",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Sara: You look miserable, Kelly. What’s wrong? Kelly: I told Monica a secret, and she spread it to everyone in school. Sara: That’s awful! Last year, I also told my friend a secret, and she posted it on Facebook. Kelly: Sara: I started spreading a couple of secrets about her. Kelly: I don’t think revenge will help.",
+      "image_url": "",
+      "options": [
+        "What kind of friendship is that?",
+        "What was the secret anyway?",
+        "That seems very unlikely.",
+        "How did you do about it?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_024",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Husband: Honey, you’re the best cook that I’ve ever known. Wife: I just love cooking for my family. Husband: I want to learn cooking from you. Do you have any cooking tips for me? Wife: Sure! Cooking isn’t difficult. You can help me make my special chicken dish and learn how to do it.",
+      "image_url": "",
+      "options": [
+        "Here it is.",
+        "You bet.",
+        "I am flattered!",
+        "I came down with a cold."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_025",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Rob: Did you watch the baseball game on TV last night? Harry: It was great. The Red Sox to Orioles. Rob: I know! Harry: Then a Red Sox player hit the ball. In the end, the Red Sox won!",
+      "image_url": "",
+      "options": [
+        "It sounds that you like the Red Sox more.",
+        "How does a baseball team score?",
+        "The tickets to the game were sold out a month ago.",
+        "The score was tied for 13 innings! 三、綜合測驗 說明:以下三篇短文,共有十五格空格,為第 26 ~ 40 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 26 至 30 題,請依短文文意,選出一個最適合該空格的答案。 Does culture affect the dating of a couple? The answer to the question is certain. To our surprise, cultures play a far more significant role in dating than we think. For example, after two people start dating, the cultures they are from usually determine 26 quickly the romantic relationship can progress. In the States, physical touch, such as hugging and kissing, 27 common very early in the relationship. In Korea and Japan, 28, neither kissing nor hugging is considered appropriate for at least the first several months. Another factor that affects the relationship between the couple is parents’ attitudes. Though they might say that their children are free to date 29 they choose, parents often 30 their sons and daughters from dating someone from different cultures. That is, majority of parents prefer their kids to get married to someone sharing similar values."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_026",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". For example, after two people start dating, the cultures they are from usually determine ____ quickly the romantic relationship can progress.",
+      "image_url": "",
+      "options": [
+        "where",
+        "what",
+        "how",
+        "why"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_027",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". In the States, physical touch, such as hugging and kissing, ____ common very early in the relationship.",
+      "image_url": "",
+      "options": [
+        "is",
+        "are",
+        "have been",
+        "has been"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_028",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". In Korea and Japan, ____, neither kissing nor hugging is considered appropriate for at least the first several months.",
+      "image_url": "",
+      "options": [
+        "although",
+        "nevertheless",
+        "in addition",
+        "furthermore"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_029",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". Though they might say that their children are free to date ____ they choose, parents often 30 their sons and daughters from dating someone from different cultures.",
+      "image_url": "",
+      "options": [
+        "whenever",
+        "whatever",
+        "no matter",
+        "whomever"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_030",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". Though they might say that their children are free to date 29 they choose, parents often ____ their sons and daughters from dating someone from different cultures.",
+      "image_url": "",
+      "options": [
+        "suffer",
+        "discourage",
+        "pretend",
+        "present ▲ 下篇短文共有 5 個空格,為第 31 至 35 題,請依短文文意,選出一個最適合該空格的答案。 The Hunger Game 2 is based on the book Catching Fire by Suzanne Collins, which is the second part of the popular novel The Hunger Games. It’s showing in cinemas right now. In the movie, North America 31 a devastated continent. A new country rose from the ashes, and the strongest among the 13 districts is Capitol, which possesses the right to punish the defeated teams. 32 a punishment, the Capitol requires 33 districts to enter two persons into a survival game where anything goes—including killing. The brutal game yearly held 34 the Hunger Games. The winners are th rewarded with a bunch of money and food. In the movie, Katniss and Peeta, the winners of the 74 game, th think they could live a cozy life in the future. However, the Capitol announces that the 75 game will be a special event. It will gather the winners from the 35 years to return to the evil game. This forces Katniss and Peeta, who never give up their humanity while struggling for survival, to fight again."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_031",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". In the movie, North America ____ a devastated continent.",
+      "image_url": "",
+      "options": [
+        "turned over",
+        "turned into",
+        "turned to",
+        "turned in"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_032",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". ____ a punishment, the Capitol requires 33 districts to enter two persons into a survival game where anything goes—including killing.",
+      "image_url": "",
+      "options": [
+        "With",
+        "As",
+        "For",
+        "To"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_033",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". 32 a punishment, the Capitol requires ____ districts to enter two persons into a survival game where anything goes—including killing.",
+      "image_url": "",
+      "options": [
+        "other",
+        "another",
+        "the other",
+        "any other"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_034",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". The brutal game yearly held ____ the Hunger Games.",
+      "image_url": "",
+      "options": [
+        "called",
+        "calling",
+        "calls",
+        "is called"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_035",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". It will gather the winners from the ____ years to return to the evil game.",
+      "image_url": "",
+      "options": [
+        "later",
+        "following",
+        "previous",
+        "latest ▲ 下篇短文共有 5 個空格,為第 36 至 40 題,請依短文文意,選出一個最適合該空格的答案。 Lots of events occur around the world every single day. We’d perhaps never know about them without journalists. A journalist is the one who presents information to help us understand what’s happening around us. The field of journalism can be 36 exciting 36 dangerous. Journalists cover interesting topics and even go to war zones, such as Syria and Afghan. 37, they sometimes have to risk their lives to get the first-hand information. Journalism offers a different career path. Good journalists must release the news accurately 38 readers expect the truth. 39 their work, journalists have the power to form public opinions, influence politics and give voice to the voiceless and the lower class. It is thus a job with 40 and a sense of righteousness."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_036",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". The field of journalism can be ____ exciting 36 dangerous.",
+      "image_url": "",
+      "options": [
+        "both...and",
+        "more...than",
+        "all...but",
+        "neither...nor"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_037",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". ____, they sometimes have to risk their lives to get the first-hand information.",
+      "image_url": "",
+      "options": [
+        "To sum up",
+        "On the other hand",
+        "In other words",
+        "In contrast"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_038",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". Good journalists must release the news accurately ____ readers expect the truth.",
+      "image_url": "",
+      "options": [
+        "but",
+        "which",
+        "since",
+        "that"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_039",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". ____ their work, journalists have the power to form public opinions, influence politics and give voice to the voiceless and the lower class.",
+      "image_url": "",
+      "options": [
+        "Through",
+        "Namely",
+        "Despite",
+        "In spite of"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_040",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": ". It is thus a job with ____ and a sense of righteousness.",
+      "image_url": "",
+      "options": [
+        "guilt",
+        "comments",
+        "responsibility",
+        "innocence 四、閱讀測驗 說明:以下有二篇短文,共有 10 個題目,為第 41 ~ 50 題,請閱讀短文後,選出最適當的答案。 ▲ 閱讀下文,回答第 41-45 題。 Malala Yousafzai, born on 12 July 1997, is a little Pakistani girl and education activist. She is known for her activism for rights to education and for women especially in her home town, Swat Valley, where the Taliban bans girls from attending school. In early 2009, at the age of 11, Yousafzai wrote a blog where she detailed her life under the Taliban rule and her views on promoting education for girls. The following summer, a documentary was filmed about her life as the Pakistani military occupied her hometown. On 9 October 2012, Yousafzai was shot in an assassination attempt by Taliban while returning home from school. In the days following the attack, she remained unconscious, but later her condition improved enough for her to be sent to the Queen Elizabeth Hospital in Birmingham, England, for intensive care. A group of 50 Islamic clerics in Pakistan issued a fatwa against those who tried to kill her, but the Taliban repeated its intent to kill Yousafzai and her father. The case raised a national and international outpouring of support for Yousafzai. United Nations Special Envoy for Global Education Gordon Brown launched a petition in Yousafzai's name, demanding that all children worldwide be in school by the end of 2015. In addition, Malala was the winner of Pakistan's first National Youth Peace Prize and was nominated for the 2013 Nobel Peace Prize. On 12 July 2013, Yousafzai spoke at the UN to call for worldwide access to education. In the same year, the Government of Canada gave Honorary Canadian citizenship in honor of Malala’s perseverance and boldness."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_041",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "The bravery and courage of a Pakistani girl.",
+        "The brutality of the Taliban.",
+        "The significance of Nobel Peace Prize.",
+        "The sufferings of Pakistani people."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_042",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Which of the following statements is TRUE about the Taliban?",
+      "image_url": "",
+      "options": [
+        "They gave an award to Malala.",
+        "They will have passed an education bill by 2015.",
+        "They granted what Malala said in the interview was right.",
+        "They don’t allow girls to go to school."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_043",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Which of the following is the closest in meaning to the underlined word “ fatwa ” in Paragraph 2?",
+      "image_url": "",
+      "options": [
+        "A kind of Islamic school.",
+        "A kind of Islamic food.",
+        "A kind of Islamic costume.",
+        "A kind of Islamic religious law."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_044",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "What is the goal that Malala wants to achieve?",
+      "image_url": "",
+      "options": [
+        "She wants to overthrow the Taliban government.",
+        "She wants to get more prizes.",
+        "She wants to ask for a comprehensive education.",
+        "She wants to help her family escape from the Taliban."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_045",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "What happened to Malala after she was attacked on her way home?",
+      "image_url": "",
+      "options": [
+        "Malala was seriously injured and passed away a few days later.",
+        "Malala was put to prison by the Taliban.",
+        "Malala was taken to a hospital in England.",
+        "Malala opened a girl school with the donation of Canadian government. ▲ 閱讀下文,回答第 46-50 題。 Fans gather at the airport and scream to welcome their idols from Korea. Whenever South Korean TV stars or singers visit Taiwan, they are surrounded by huge crowds and treated like Hollywood super stars. Evidence of their popularity doesn’t stop there. After they left, the things they used at the hotel—including their toothbrushes and towels—are sold to desperate fans! Bae Young-Jun and Super Junior are the most familiar Korean stars to make it big in Taiwan. In addition, Korean soap operas are loved by the still-growing population. Thanks to the clever product endorsements in the shows, a whole range of Korean products are now fashionable among the Taiwanese market. For example, if a particular brand of cellphone is used in a popular show, the fans will be likely to buy the same kind of cellphone. Now, building on the success of those shows, Korea is exporting its food and fashion. Of course, we are loving it. The reasons that Taiwanese fans are attracted to Korean programs and stars are as follows. First, it lies in the Koreans’ ability to present Asian values with Hollywood glamour. Those actors and actresses in Korean operas are fairly fashionable. Their make-ups and clothing often lead to a new trend in Taiwan. Also, the biggest fans are Taiwanese women who identify easily with the characters. Many female viewers think that they face the same problems as the characters in the shows. The growing popularity of the Korean programs and stars in Taiwan is very good news for Korea, of course. A larger audience means they can make a small fortune. In other words, the popularity of Korean culture means increasing sales of Korean products. The message to consumers is clear: Forget Japanese; Korean is in."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_046",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "The underlined phrase “ make it big ” in the second paragraph is closest in meaning to “.”",
+      "image_url": "",
+      "options": [
+        "increasing the size",
+        "cutting down the size",
+        "becoming famous",
+        "getting rid of something"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_047",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Why have some Korean products become fashionable in Taiwan?",
+      "image_url": "",
+      "options": [
+        "Asian values are similar to Western values.",
+        "Taiwanese people want to help Korean economy.",
+        "Korean products are cheaper than those from Japan.",
+        "Korean actors or singer advertise the products in the shows."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_048",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Why are Korean shows loved by so many Taiwanese women?",
+      "image_url": "",
+      "options": [
+        "Taiwanese women are bored.",
+        "The actresses in Korean shows look beautiful.",
+        "The Taiwanese women can sympathize with the on-screen lives.",
+        "The Taiwanese women think that Korean women face more problems than Japanese women."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_049",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "Why is the success of Korean soap operas good news for Koreans?",
+      "image_url": "",
+      "options": [
+        "Their products will be able to sell more around the world.",
+        "Their values will be spread around the world.",
+        "Those Korean stars can make a small fortune.",
+        "The success offers Koreans a sense of achievement."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_102_3_ENG_050",
+      "subject": "英文",
+      "unit": "6. 102-3-四技二專-英文試題.pdf",
+      "q": "What can be inferred from the passage?",
+      "image_url": "",
+      "options": [
+        "Japanese products are more expensive than Korean ones.",
+        "Bae Young-Jun is not as popular as he used to be.",
+        "Korean cultures are getting more and more popular in Taiwan.",
+        "Japanese don’t like Koreans."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    }
+  ]
+}

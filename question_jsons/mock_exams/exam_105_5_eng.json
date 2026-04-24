@@ -1,0 +1,661 @@
+{
+  "bundle_id": "MOCK_105_5_ENG",
+  "questions": [
+    {
+      "id": "MOCK_105_5_ENG_001",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "While most Taiwanese people think stinky tofu tastes delicious, some foreigners think it smells.",
+      "image_url": "",
+      "options": [
+        "military",
+        "pleasant",
+        "suitable",
+        "disgusting"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "depends; on (2) 文字瑣碎、形同未答。 0 評閱指標 (3) 只抄題目或其他試題。 級分 說明 (4) 內容完全離題或錯誤。 4 2 個空格皆正確無誤。 3 1 個空格正確,另 1 個空格部分正確。 2 僅 1 個空格正確或 2 個空格皆部分正確。 1 1 個空格錯誤,另 1 個空格部分正確。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字零碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全錯誤。 II. 句子重組"
+    },
+    {
+      "id": "MOCK_105_5_ENG_002",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "I prefer to put plants in my living room rather than a real ones because they never wilt and stay fresh-looking year after year.",
+      "image_url": "",
+      "options": [
+        "hollow",
+        "successful",
+        "vivid",
+        "artificial"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "without saying / It / goes / health / matters / that 提示:重組上列提供的字以完成句子 解答: It goes without saying that health matters."
+    },
+    {
+      "id": "MOCK_105_5_ENG_003",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "and problems can make you stronger, so don’t be afraid to face them bravely.",
+      "image_url": "",
+      "options": [
+        "Obstacles",
+        "Resources",
+        "Capacity",
+        "Mystery"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "和問題可以使你變堅強,所以不要害怕勇敢 麗麗:我很開心我們對這電影的看法相同。 地面對它們。 (A) 我買不起票。 (A) 挫折 (B) 資源 (C) 容量 (D) 神秘 (B) 我覺得它有點無聊。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_004",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "The development of the steam engine brought forth the industrial in the eighteenth century.",
+      "image_url": "",
+      "options": [
+        "evolution",
+        "revolution",
+        "resolution",
+        "solution"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "蒸汽引擎的發展促成十八世紀的工業 。 (C) 我不想再看一次了。 (A) 演化 (B) 革命 (C) 決心 (D) 解決方法 (D) 你說得沒錯。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_005",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "The new museum has to be large enough to several huge dinosaur skeletons.",
+      "image_url": "",
+      "options": [
+        "monitor",
+        "exhibit",
+        "interpret",
+        "sacrifice"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "新的博物館必須夠大來 好多大型的恐龍骨"
+    },
+    {
+      "id": "MOCK_105_5_ENG_006",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Central banks attempt to stop severe in the hope of keeping the excessive growth of price to the minimum.",
+      "image_url": "",
+      "options": [
+        "inflation",
+        "investment",
+        "interpretation",
+        "intonation"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "中央銀行試著要抑制嚴重的通膨,希望能使得價格的 是米蘭達、林。 過度飆漲到最小化。 櫃台人員:好的,我們在前一天會打電話提醒您,並 (A) 通膨 (B) 投資 (C) 詮釋 (D) 音調 再次確認訂房。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_007",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "You can find a great of books and magazines in the library.",
+      "image_url": "",
+      "options": [
+        "fare",
+        "standard",
+        "method",
+        "variety"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "你可以在圖書館內找到很多書和雜誌。 (A) 可以給我你的班機號碼嗎? (A) 費率 (B) 標準 (C) 方法 (D) 種類 (B) 我很抱歉,所有的房間都滿了。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_008",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "For your safety, when you make a friend on the Internet, don’t reveal too much personal information in the email at the beginning stage.",
+      "image_url": "",
+      "options": [
+        "pay off",
+        "put off",
+        "let out",
+        "look after"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "為了你的安全,當你在網路交朋友的時候,在剛開始 (C) 你要待幾天? 的階段不要在郵件中透露太多個人資訊。 (D) 請告訴我你的全名和日期。 (A) 值得 (B) 拖延 (C) 顯示 (D) 照顧"
+    },
+    {
+      "id": "MOCK_105_5_ENG_009",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "I don’t feel comfortable biking on this road because it is too uneven; it is full of stones and holes.",
+      "image_url": "",
+      "options": [
+        "rough",
+        "miserable",
+        "precious",
+        "expensive"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "在這路上騎車我不太舒服因為太不平了;滿是石頭和 喬依:我還沒決定,還要幾分鐘。 坑洞。 服務生: (A) 粗糙的 (B) 悲慘的 (C) 珍貴的 (D) 昂貴的 (A) 今日特餐是什麼?"
+    },
+    {
+      "id": "MOCK_105_5_ENG_010",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Each star in the American flags represents one of the fifty states.",
+      "image_url": "",
+      "options": [
+        "takes off",
+        "takes over",
+        "stands for",
+        "gets rid of"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "在美國國旗上每個星星代表 50 州的其中一州。 (B) 好的,慢慢來。 (A) 起飛 (B) 接管 (C) 代表 (D) 除去 (C) 你有任何推薦的嗎?"
+    },
+    {
+      "id": "MOCK_105_5_ENG_011",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "The driving test calls for careful attention. Remember not to get nervous while you take the test.",
+      "image_url": "",
+      "options": [
+        "requires",
+        "permits",
+        "expresses",
+        "chooses II. 對話題 ( 第 12-21 題,每題 2 分,共 20 分 ) 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這個駕駛考試需要十分仔細注意,記得應試時不要太 (D) 我想要一份海鮮義大利麵。 緊張。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_012",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Jack: Do you see Mike’s new girlfriend? She’s so hot and gorgeous. Mary: Well, I don’t think so. I met her once. She was rude and superficial. Jack: What can I say? Mike is so much into her.",
+      "image_url": "",
+      "options": [
+        "Action speaks louder than words.",
+        "Beauty is in the eye of beholder.",
+        "I have no clue of what you want.",
+        "You do have a crush on her."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "傑克:你有看到麥克的新女友嗎?她很漂亮。 (A) 請給我看你的身份證明文件。 瑪莉:我不這麼認為,我見過她一次,她既無禮又膚 (B) 你想要提領多少? 淺。 (C) 我可以留言嗎? 傑克:我該怎麼說呢? 麥克很愛她。 (D) 你準備好要許願了嗎? (A) 說而言不如起而行。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_013",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Ben: I’m thinking about keeping a goldfish. Rosa: Well, Keeping a pet is not easy. Ben: Yeah, I think you are right. I’ll think about it carefully.",
+      "image_url": "",
+      "options": [
+        "if I were you, I would think twice before getting a pet.",
+        "have you thought of adopting a pet from animal shelters?",
+        "you shouldn’t give up so soon.",
+        "I have never raised a pet before."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "班:我正考慮想養一隻金魚。 105-5 共同科目 英文 詳解 (A) 這不是我的工作。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_014",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Nick: What do you think of the film? Lily: I liked it. I thought it was packed with passion. I was moved to tears. Nick: It’s really a touching one. Lily: I am glad we have the same opinions on the movie.",
+      "image_url": "",
+      "options": [
+        "I can’t afford the ticket.",
+        "I felt it was a bit boring.",
+        "I don’t want to watch it again.",
+        "You can say that again."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "尼克:你覺得這電影如何? 為它們不會凋謝且長年看起來新鮮。 麗麗:我喜歡,我覺得它情感豐沛,我都感動得哭了。 (A) 中空的 (B) 成功的 (C) 生動的 (D) 人工的 尼克: 這真是很感人的一部電影。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_015",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Miranda: Hello, I’d like to reserve a deluxe room. Receptionist: Certainly, lady. Miranda: Sure. We will arrive on Friday, October 31. My name is Miranda Lin. Receptionist: Ok. We’ll call you the day before to remind and confirm your reservation.",
+      "image_url": "",
+      "options": [
+        "May I have your flight number?",
+        "I am sorry. All the rooms are booked already.",
+        "How many days are you going to stay?",
+        "Please tell me your full name and the date."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "米蘭達:嗨!我想要預訂一間豪華房? 骼。 櫃台人員:沒問題, (A) 監督 (B) 展示 (C) 詮釋 (D) 犧牲 米蘭達:我們會在 10 月 31 日星期五到達,我的名字"
+    },
+    {
+      "id": "MOCK_105_5_ENG_016",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Waitress: May I take your order now? Joyce: I haven’t decided yet. I need a few more minutes. Waitress:",
+      "image_url": "",
+      "options": [
+        "What is today’s special?",
+        "Ok. Take your time.",
+        "Do you have any recommendation?",
+        "I would like a seafood spaghetti."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "服務生:我可以幫你點餐了嗎?"
+    },
+    {
+      "id": "MOCK_105_5_ENG_017",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Clerk: How may I help you? Customer: I would like to cash this check. Clerk: Customer: Here you go.",
+      "image_url": "",
+      "options": [
+        "Please show me your identification.",
+        "How much do you want to withdraw?",
+        "May I leave a message?",
+        "Are you ready to make a wish?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "櫃檯員:有什麼我可以幫你的嗎? (A) 需要 (B) 允許 (C) 表達 (D) 選擇 顧客:我想要兌換這張支票。 櫃檯員: II. 對話題 顧客:你要的在這。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_018",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Louis: How would you like it today? Winnie: Louis: That means you would like to change your hair style. Winnie: That’s right.",
+      "image_url": "",
+      "options": [
+        "It’s not part of my job.",
+        "The same as the last time.",
+        "Why don’t you wash your hair?",
+        "I want to cut it short and have it permed."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "路易士:你今天要怎麼作呢? (B) 情人眼裡出西施。 維尼: (C) 我不知道你要什麼? 路易士:意思是,你要改變你的髮型。 (D) 你真的對她著迷。 維尼:沒錯。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_019",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Lily: Hi, Louis. How was your winter vacation? Louis: I just stayed home because of the weather.",
+      "image_url": "",
+      "options": [
+        "I will go to Spain with my relatives.",
+        "It was quite boring.",
+        "Spring comes after winter.",
+        "It will last for about 20 days."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "麗麗:嗨!路易士,你的寒假過得如何?"
+    },
+    {
+      "id": "MOCK_105_5_ENG_020",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Woman: I still can’t believe it. This dress will cost me 3000 dollars. It’s a rip-off. Man: Hey. Wait a second. Here’s an on-sale sign. There’s a discount. Woman: Man: It’s 50 percent off. That’s a real bargain.",
+      "image_url": "",
+      "options": [
+        "Can I try it on?",
+        "Do you have this in stock?",
+        "Can I take a rain check?",
+        "How much is the discount?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "女生:我不敢相信,這件洋裝要花 3000 元,也太坑 社交網絡媒體。在 2012 年末他的使用人數已經到達 1 億 人了吧! 人口,而且三個月後開始股票上市。然而有些人選擇避免 男生:嘿,等一下!這裡有個拍賣的標誌,有折價耶! 開臉書,偏好不成為它的一份子,為什麼他們要抗拒呢? 女生: 有些人不想用臉書因為他們不想太多個人資訊在網 男生:五折耶!真划算。 路上。近來大部分的老闆在面試員工的時候會檢查他們 (A) 我可以試穿嗎? 的臉書。如果一個人有太多尷尬或奇怪的照片在他們的 (B) 你有新的現貨嗎? 頁面,很有可能他或她不會被雇用。有些老闆甚至要求 (C) 我可以改期嗎? 他們求職者的帳號密碼,所以他們可以在決定是否雇用 (D) 折扣多少? 他們之前檢查所有的東西。此外,大概有近十億的使用"
+    },
+    {
+      "id": "MOCK_105_5_ENG_021",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Mike: I think Joy is the best person to present the speech in the class for our team. Linda: Well, I don’t quite agree with you. Mike: Why? Joy has been working hard on the project. Linda: I like her and I know she studies hard, but she’s not really good at presenting speeches.",
+      "image_url": "",
+      "options": [
+        "I’ll give it a shot.",
+        "Don’t get me wrong.",
+        "I am not in the mood.",
+        "You’ve got to do it. III. 綜合測驗 ( 第 22-31 題,每題 2 分,共 20 分 ) 說明:以下兩篇短文,共有 10 個空格,為第 22 至 31 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案 。 ▲ 下篇短文共有 5 個空格,為第 22 至 26 題,請依短文文意,選出一個最適合該空格的答案。 The misunderstanding between men and women has come into being probably since the beginning of time. From a girl’s point of view, boys are 22 good at hiding their feelings 22 it’s not easy to tell whether they are worried, sad or happy. To fully understand the opposite sex, you have to 23 the genetic difference. The emotional centers in women’s brains are larger and more active than those in men’s. When 24 difficulties, it is not necessary for men to talk about their problems with their friends. Men want to fix problems, 25 women tend to focus more on their emotions. Women want to discover 26 they feel about the problems. With so many differences, no wonder there is so much misunderstanding between the two sexes."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "麥克:我想喬伊是最適合在課堂上中代替我們隊發表 者,臉書在世界上很盛行。沉迷使用臉書的人可能一天 報告的。 會看好幾次,造成他們不專心在工作或學校課業上。研 琳達:我不太同意耶! 究顯示常常看臉書的人比較容易覺得心情低落。臉書的 麥克:為什麼?喬伊在這方案中很努力。 活動開始干擾他們的日常生活而且變得對日常工作或上 琳達: 我喜歡她,我也知道她很努力念書, 學有害。 但是她不擅長發表演說。 所以如果你考慮加入臉書,務必要小心。如果你已 (A) 我要試一試。 加入臉書,不要常常去看,也不要放太多你未來老闆會 (B) 別誤會我。 看到的東西在網路上。 (C) 我現在沒有那個心情。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_022",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": ". From a girl’s point of view, boys are ____ good at hiding their feelings 22 it’s not easy to tell whether they are worried, sad or happy.",
+      "image_url": "",
+      "options": [
+        "not / rather than",
+        "neither / nor",
+        "either / or",
+        "so / that"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "so adj + that S + V 如此...以致於 (C) 你的健康會改善。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_023",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": ". To fully understand the opposite sex, you have to ____ the genetic difference.",
+      "image_url": "",
+      "options": [
+        "take into consideration",
+        "give a break",
+        "come up with",
+        "take advantage of"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "(A) 納入考慮 (B) 饒了我 (C) 想到 (D) 利用 (D) 你常變得難過。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_024",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": ". When ____ difficulties, it is not necessary for men to talk about their problems with their friends.",
+      "image_url": "",
+      "options": [
+        "dealt with",
+        "to encounter",
+        "they encounter",
+        "we facing"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "當面臨問題的時候..."
+    },
+    {
+      "id": "MOCK_105_5_ENG_025",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": ". Men want to fix problems, ____ women tend to focus more on their emotions.",
+      "image_url": "",
+      "options": [
+        "until",
+        "although",
+        "while",
+        "because"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "(A) 直到...為止 (B) 雖然 (C) 然而 (D) 因為 (A) 模糊的 (B) 幽默的 (C) 廣泛的 (D) 有限的"
+    },
+    {
+      "id": "MOCK_105_5_ENG_026",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": ". Women want to discover ____ they feel about the problems.",
+      "image_url": "",
+      "options": [
+        "what",
+        "which",
+        "that",
+        "how"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "how they feel 他們覺得如何"
+    },
+    {
+      "id": "MOCK_105_5_ENG_027",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "。 On March 11th, 2011, the biggest earthquake in Japan’s history ____ Japan.",
+      "image_url": "",
+      "options": [
+        "struck",
+        "marked",
+        "vanished",
+        "rescued"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?105-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_5_ENG_028",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": ". What was worse, tsunamis followed and ____ many coastal areas.",
+      "image_url": "",
+      "options": [
+        "involved in",
+        "wiped out",
+        "tracked down",
+        "stepped up"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?105-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_5_ENG_029",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": ". If there ____ those terrible tsunamis, the number of deaths might not have been so high.",
+      "image_url": "",
+      "options": [
+        "were not",
+        "were",
+        "had not be",
+        "had not been"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?105-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_5_ENG_030",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "! The th Japanese 311 tragedy ____ heated debates on the necessity of constructing the 4 nuclear power plant in Taiwan.",
+      "image_url": "",
+      "options": [
+        "preserved",
+        "raised",
+        "demanded",
+        "delivered"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?105-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_5_ENG_031",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": ". People on the island nowadays are seeking ____ resources, such as the solar energy and wind-generated electricity, to replace atomic energy so that Taiwanese people won’t live under the threat of a nuclear disaster.",
+      "image_url": "",
+      "options": [
+        "permanent",
+        "alternative",
+        "previous",
+        "efficient IV. 閱讀測驗 ( 第 32-41 題,每題 2 分,共 20 分 ) 說明:以下兩篇短文,共有 10 個題目,為第 32 至 41 題,請於閱讀短文後,選出最適當的答案 。 ▲ 閱讀下文,回答第 32-36 題。 Facebook is one of the most popular sites on the Internet, and is the most popular social network. It has reached one billion members in late 2012 and began selling stocks to the public 3 months later. Yet some people choose to avoid Facebook, preferring not to be a part of it. Why do they resist it? Some don’t want to be on Facebook because they don’t want too much of their personal information to be online. Most bosses these days check Facebook when they are interviewing people who want to work for them. If a person has embarrassing or strange pictures on their pages, chances are he or she might not get hired. Some bosses even ask job candidates for their Facebook account passwords so they can check everything out before deciding whether or not to hire them. Besides, with close to a billion users out there, Facebook has become so prevalent across the world. People indulging in using Facebook may check the site several times per day, causing them not to pay attention to school, work, or their job. Studies have also shown that those who check Facebook often are more likely to feel down. Facebook activities start interfering with their daily lives and become harmful to their daily functioning at work or at school. So if you’re thinking about using Facebook, be careful. If you have already joined, don’t check the site too often, and don’t put anything online you don’t want your future boss to see. 32. What is the main topic of this passage? (A) Some reasons why people resist using Facebook. (B) Some advantages of using Facebook. (C) The tips for making Facebook popular. (D) The qualification to join in Facebook. 33. What do some bosses do these days? (A) Ask employees to stop using Facebook. (B) Ask for employees’ Facebook passwords. (C) Ask employees to get a Facebook account. (D) Ask for a list of an applicant’s Facebook friends."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?105-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_5_ENG_032",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "What is the main topic of this passage?",
+      "image_url": "",
+      "options": [
+        "Some reasons why people resist using Facebook.",
+        "Some advantages of using Facebook.",
+        "The tips for making Facebook popular.",
+        "The qualification to join in Facebook."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?105-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_5_ENG_033",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "What do some bosses do these days?",
+      "image_url": "",
+      "options": [
+        "Ask employees to stop using Facebook.",
+        "Ask for employees’ Facebook passwords.",
+        "Ask employees to get a Facebook account.",
+        "Ask for a list of an applicant’s Facebook friends."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?105-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_5_ENG_034",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "What can happen if you check Facebook too often, according to studies?",
+      "image_url": "",
+      "options": [
+        "Your mind might get sharper.",
+        "You will become more open-minded.",
+        "Your health might improve.",
+        "You become sad more often."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?105-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_5_ENG_035",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "What does the word prevalent mean in the second paragraph?",
+      "image_url": "",
+      "options": [
+        "obscure",
+        "humorous",
+        "widespread",
+        "limited"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?105-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_5_ENG_036",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "What does the last paragraph of the article suggest?",
+      "image_url": "",
+      "options": [
+        "We had better prevent our boss from invading our privacy.",
+        "If we want to get a decent job, we should design our Facebook page well.",
+        "Checking the Facebook page constantly is crucial in finding a job.",
+        "We should be careful about how often we use Facebook and what we post on it. ▲ 閱讀下文,回答第 37-41 題。 The summer Olympic Games, first held in 1896, is an international multi-sport event that is hosted by a different city every four years. The most recent Olympics were held in Rio de Janeiro, Brazil in 2016. The International Olympic Committee organizes the games and oversees the host city’s preparations. Athletes at the games participate to win medals for their countries. They participate in hundreds of events, one of which is swimming. For short swimming races, swimmers only swim two lengths of the pool. Swimmers can choose which kind of stroke they use in the contest. In diving event, divers jump from high above the water. They twist, flip and turn while in the air and get points for how well they dive. Swimming is one of the most popular contests. When it comes to swimming sports, people never fail to think of Michael Phelps. Swimmer Michael Phelps, who was born on June 30, 1985, has set the record for winning the most medals, 28, more than those won by other Olympic athletes in history."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?105-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_5_ENG_037",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Who are athletes?",
+      "image_url": "",
+      "options": [
+        "People who take pictures during the summer Olympic Games.",
+        "People who write newspaper articles and book reviews.",
+        "People who compete in sport events, such as diving.",
+        "People who supervise a sport game based on its rules."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "「運動員」是什麼意思? (1) 空白 ( 未書寫文字 ) 。 (A) 在奧林匹克運動會上照相的人。 (2) 文字瑣碎、形同未答。 (B) 寫新聞報導和書評的人。 0 (3) 只抄題目或其他試題。 (C) 參加像是潛水等體育競賽的人。 (4) 只抄引導文字。 (D) 根據比賽規則,監督運動的人。 (5) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_038",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Which of the following is correct, based on the article?",
+      "image_url": "",
+      "options": [
+        "The summer Olympic Games is hosted by the International Olympic Committee.",
+        "Diving and swimming are the two most popular sport events in Olympic Games.",
+        "Michael Phelps is well-known for winning 28 medals in Olympic events.",
+        "In diving event, divers can choose one stroke and twist and turn in the water."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據文章,下列何者正確? (A) 夏季奧林匹克競賽是由國際奧會舉辦的。 III. 中譯英 (B) 潛水和游泳是兩個最受歡迎的奧運競賽項目。"
+    },
+    {
+      "id": "MOCK_105_5_ENG_039",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "When did the first summer Olympic Games take place?",
+      "image_url": "",
+      "options": [
+        "1896",
+        "2016",
+        "1985",
+        "we don’t know"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "第一屆夏日奧林匹克競賽何時舉行? 評閱指標 (A) 1896 (B) 2016 (C) 1985 (D) 我們不知道 級分 說明"
+    },
+    {
+      "id": "MOCK_105_5_ENG_040",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "What will the International Olympic Committee do?",
+      "image_url": "",
+      "options": [
+        "Host the game.",
+        "Choose the best referees through the game.",
+        "Overlook the planning of the game.",
+        "Sponsor the international event."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "國際奧會組織的工作是什麼? 能充分表達原文題意,對題材有絕佳的掌握, (A) 主辦比賽 4 句子結構及連貫性甚佳。文法及標點正確,用 (B) 選擇比賽中最好的評審 字遣詞沒有或僅有極少不當之處。 (C) 監督比賽的進度 能適切表達原文題意,對題材有良好的掌握, (D) 贊助這國際比賽 3 句子結構及連貫性大致得當。文法及標點、用"
+    },
+    {
+      "id": "MOCK_105_5_ENG_041",
+      "subject": "英文",
+      "unit": "105-5-四技二專-英文",
+      "q": "Where is the article most likely to be found?",
+      "image_url": "",
+      "options": [
+        "In a fashion magazine.",
+        "In the Economist.",
+        "In a book review.",
+        "In the sport column of a newspaper. 第二部分:非選擇題 ( 第 1 至 3 題,每題 6 分,共 18 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格○ 1 、○ 2 答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄○ 1 、○ 2 之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "我們可以在哪讀到這篇文章? 字遣詞有少數不當之處,但不妨礙題意之表達。 (A) 時尚雜誌 僅能部分表達原文題意,句子結構不良或有 (B) 經濟學人雜誌 2 誤,且大多難以理解並缺乏連貫性。文法及標 (C) 最近的書評 點、用字遣詞有失當之處。 (D) 報紙的運動專欄 無法表達原文題意,句子沒有結構概念及連貫 1 性,無法理解。文法及標點、用字遣詞之錯誤 第二部分:非選擇題 甚多。 I. 填充 (1) 空白 ( 未書寫文字 ) 。"
+    }
+  ]
+}

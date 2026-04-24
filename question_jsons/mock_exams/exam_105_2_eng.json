@@ -1,0 +1,661 @@
+{
+  "bundle_id": "MOCK_105_2_ENG",
+  "questions": [
+    {
+      "id": "MOCK_105_2_ENG_001",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "As we travel, we would find that other countries have different eating customs and habits from ours.",
+      "image_url": "",
+      "options": [
+        "alone",
+        "upward",
+        "aboard",
+        "overseas"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "當我們在海外旅行時,我們會發現其它國家的飲食風"
+    },
+    {
+      "id": "MOCK_105_2_ENG_002",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Animals Taiwan, founded in 2004, is a nationally registered non-profit dedicated to improving welfare of animals in Taiwan.",
+      "image_url": "",
+      "options": [
+        "reservation",
+        "cooperation",
+        "organization",
+        "contribution"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Animal Taiwan 是一個在 2004 年成立,國內登記有案 病人:大約 3 天了。 的非營利組織,致力於提升臺灣動物的福利。 (A) 多久一次? (A) 預約 (B) 合作 (C) 組織 (D) 貢獻 (B) 你說得沒錯。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_003",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Wise employers would like to look for those who are, reliable, determined, and willing to communicate with others.",
+      "image_url": "",
+      "options": [
+        "material",
+        "practical",
+        "stubborn",
+        "anxious"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "這間餐廳是我雙親第一次碰面的地方。 (C) 他們將與三等艙的乘客吃晚餐。 解答: This / It is the restaurant where my parents first met. (D) 只有他們能搭救生艇。 This / It is the restaurant in / at which my parents first met."
+    },
+    {
+      "id": "MOCK_105_2_ENG_004",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "A special concert was held in New York City’s Carnegie Hall on March 31, 2016 David Bowie, one of the world’s best-selling music artists.",
+      "image_url": "",
+      "options": [
+        "in spite of",
+        "in charge of",
+        "in honor of",
+        "in terms of"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "2016 年 3 月 31 日紐約卡內基演奏廳舉辦了一場特別 客人:我第一次來。 演唱會來紀念大衛‧鮑伊,他是全世界作品最賣座的 服務生:好的,先生。今晚的新鮮龍蝦保證棒。 音樂藝人之一。 客人:聽起來不錯。 (A) 儘管 (B) 負責 (C) 紀念 (D) 以...來說 (A) 慢慢來。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_005",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "It is important as well as hard for teenagers to learn how to deal with mistakes and overcome problems. Few teenagers can do it well.",
+      "image_url": "",
+      "options": [
+        "physically",
+        "regularly",
+        "annually",
+        "extremely"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "對青少年而言,要學會如何處理錯誤和解決問題是非 (B) 我還沒好。請 5 分鐘後再來。 常地重要且困難的。很少人能處理的好。 (C) 你可否推薦些什麼? (A) 身體上地 (B) 規律地 (C) 每年地 (D) 非常地 (D) 你認為怎樣?"
+    },
+    {
+      "id": "MOCK_105_2_ENG_006",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Lots of volunteers tried to the heart-broken victims who lost their homes after the big earthquake.",
+      "image_url": "",
+      "options": [
+        "comfort",
+        "depart",
+        "escape",
+        "explore"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "許多的志工試著安撫心碎的災民,他們在發生的大地"
+    },
+    {
+      "id": "MOCK_105_2_ENG_007",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "A pair of sunglasses not only looks great but also helps our eyes the sun.",
+      "image_url": "",
+      "options": [
+        "bring...on",
+        "turn...into",
+        "protect...from",
+        "exchange...for"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "太陽眼鏡不僅看起來美觀而且可以幫助保護我們的 媽媽:那麼, 眼睛遠離陽光。 女兒:我會餵牠、每天帶牠去散步而且每週幫牠洗一 (A) 招來 (B) 變成 (C) 保護 (D) 交換 次澡。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_008",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Cathy’s family doctor told her to quit smoking immediately and take exercise more often.",
+      "image_url": "",
+      "options": [
+        "stop",
+        "ease",
+        "erase",
+        "decrease"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "凱西的家庭醫生告訴她立即戒煙而且多運動。 (A) 告訴我,你搞什麼? (A) 停止 (B) 緩解 (C) 去除 (D) 減少 (B) 告訴我,一個好的寵物主人應該做哪些事?"
+    },
+    {
+      "id": "MOCK_105_2_ENG_009",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "I invited Sharon to my eighteenth birthday party, but she turned down my invitation.",
+      "image_url": "",
+      "options": [
+        "accepted",
+        "rejected",
+        "adjusted",
+        "disturbed"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "我邀請雪倫參加我的 18 歲生日派對,但她拒絕我的 (C) 仔細看看。 邀請。 (D) 盯住牠。 (A) 接受 (B) 拒絕 (C) 調整 (D) 干擾"
+    },
+    {
+      "id": "MOCK_105_2_ENG_010",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "My favorite pop idol is Jolin Tsai, who is known for her stylish dance and also the spirit of never-give-up.",
+      "image_url": "",
+      "options": [
+        "difficult",
+        "possible",
+        "capable",
+        "fashionable"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "我最愛的流行音樂偶像是蔡依林,她以時尚的舞蹈和 喬伊: 怎麼了? 永不放棄的精神出名。 崔西:可否借我 200 元? (A) 困難的 (B) 可能的 (C) 能夠的 (D) 時尚的 喬伊:當然可以,如果你答應明天就還我。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_011",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Christmas is one of the major festivals in the United States; families often get together and enjoy a big meal at this time.",
+      "image_url": "",
+      "options": [
+        "celebrations",
+        "taboos",
+        "inventions",
+        "notices II. 對話題 ( 第 12-21 題,每題 2 分,共 20 分 ) 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "聖誕節是美國重要的節慶之一;家人通常會於此時聚 (A) 沒有藉口。 在一起並享受一頓大餐。 (B) 別怪我。 (A) 節慶 (B) 禁忌 (C) 發明 (D) 公告 (C) 隨你便。 (D) 看情況決定。 II. 對話題"
+    },
+    {
+      "id": "MOCK_105_2_ENG_012",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "John: Hi, Angela, are you doing anything tonight? Angela: Why? John: I am thinking of going to a movie tonight. Would you like to come along? Angela: John: Maybe some other time.",
+      "image_url": "",
+      "options": [
+        "Yes, I would love to.",
+        "Sorry, but I am afraid I will be busy tonight.",
+        "What’s the name of the movie?",
+        "When will we be back?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "John: Hi,安琪拉,今晚有事嗎? 諾兒:我也是。我不想浪費我的暑假。 Angela:怎麼了? 蘇菲亞: 那我們能做什麼? John:我今晚想去看電影。要不要一起去? 諾兒:珍妮要和她的家人去露營,我們可以一起去。 Angela: (A) 早起的鳥兒有蟲吃。 John:或許下次吧! (B) 似乎我們的行程一開始就不順。 (A) 好呀,我想去。 105-2 共同科目 英文 詳解 (C) 謝天謝地,你記得。 (B) more (D) 我們應該善用它。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_013",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Doctor: How are you feeling? Patient: I am feeling awful. I feel like throwing up. Doctor: Patient: It has been around 3 days.",
+      "image_url": "",
+      "options": [
+        "How often?",
+        "You are telling me!",
+        "Where does it hurt?",
+        "How long has it been like that?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "醫生:覺得怎樣? 俗和習慣與我們的不同。 病人:我覺得不舒服、想吐。 (A) 一個人 (B) 向上的 (C) 登船 ( 機 ) (D) 在海外 醫生:"
+    },
+    {
+      "id": "MOCK_105_2_ENG_014",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Waitress: Welcome to Yummy Steak House. Are you ready to order? Customer: It’s my first time being here. Waitress: Certainly sir. The fresh lobster is absolutely good this evening. Customer: Sounds lovely.",
+      "image_url": "",
+      "options": [
+        "Take your time.",
+        "I am not ready. Please come back in 5 minutes.",
+        "Could you recommend something?",
+        "What do you think?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "服務生:歡迎來到 Yummy 牛排館。請問點什麼菜?"
+    },
+    {
+      "id": "MOCK_105_2_ENG_015",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Daughter: Mom, look! These dogs are cute. Can I have one? Mom: No way! You can’t even take care of yourself. Daughter: Please! I will try hard to be a good dog owner. Mom: So, Daughter: I will feed her, walk her every day and wash her once a week.",
+      "image_url": "",
+      "options": [
+        "tell me, what’s wrong with you?",
+        "tell me, what should a good owner do?",
+        "take a good look at it.",
+        "keep your eye on it."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "女兒:媽,看!這些狗兒好可愛。我能養一隻嗎? 震中失去了家園。 媽媽:不行。妳甚至不能把自己顧好。 (A) 安撫 (B) 離開 (C) 逃離 (D) 探險 女兒:拜託,我會努力做一個好的狗主人。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_016",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Tracy: May I ask you a favor? Joy: What is it? Tracy: Would you lend me two hundred bucks? Joy: Sure, if you promise to return the money tomorrow.",
+      "image_url": "",
+      "options": [
+        "There is no excuse.",
+        "Don’t put the blame on me.",
+        "It’s up to you.",
+        "It depends."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "崔西:能幫我個忙嗎?"
+    },
+    {
+      "id": "MOCK_105_2_ENG_017",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Sophia: I am bored out of my mind. Noir: Me too. I don’t want to waste our summer vacation. Sophia: What do you think we can do? Noir: Jenny is going camping with her family, and we can go too!",
+      "image_url": "",
+      "options": [
+        "Early birds get the worm.",
+        "It looks like our trip is off to a bad start.",
+        "Thank goodness you remember.",
+        "We should make the most of it."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "蘇菲亞:我無聊死了。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_018",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Peter: Happy birthday, Bill. Bill: Wow, this cake is so pretty. Where did you buy it? Peter: Believe it or not, Bill: Amazing! I think you can run a bakery of your own.",
+      "image_url": "",
+      "options": [
+        "I bought it from Starbucks.",
+        "green tea goes well with red bean cake.",
+        "I made it from scratch.",
+        "I think the cake is the best of all time."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "彼得:比爾,生日快樂!"
+    },
+    {
+      "id": "MOCK_105_2_ENG_019",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Restaurant Host: What time will you be joining us? Customer: Our preference is 7 p.m. Restaurant Host: Customer: Yes, I will take my daughter with me. I need a booster chair for her.",
+      "image_url": "",
+      "options": [
+        "What name would like to leave for the reservation?",
+        "Do any of the guests have requirements?",
+        "How may I help you?",
+        "Would you like to make any changes to your reservation?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "餐廳老板:您何時會來用餐? 缺陷,結弦決定要持續下去。他每天就身體能承受的範 客人:我們想 7 點。 圍盡可能練習。 餐廳老板: 2011 年,日本遭逢大地震。他的家和溜冰練習場都 客人:有的,我會帶女兒去用餐。她需要兒童專用椅。 遭到嚴重 (30) 破壞,所以結弦到橫濱練習直到家鄉的練習 (A) 您訂位大名? 場再度開張。在大地震後,結弦很認真地思考,身旁這 (B) 客人有沒有特別的需求? 麼多人正在受苦受難,他是否要繼續溜冰。但他了解到 (C) 需要幫忙嗎? 他在冰上的成功可以 (31) 激勵身旁的人。在 2014 年的冬 (D) 您的預約有什麼需要變動的嗎? 季奧運會上,結弦優美的演出為日本贏得了第一面男子"
+    },
+    {
+      "id": "MOCK_105_2_ENG_020",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Mom: Are you ready to go to the beach? Son: I can’t wait. Mom: Wait! I left my beach mats by the door. Son: Oh, no! I will get them.",
+      "image_url": "",
+      "options": [
+        "I can eat a horse.",
+        "That’s why I never lie.",
+        "I am too busy to go.",
+        "It’s time to hit the road."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "媽媽:準備出發去海邊了嗎? 滑冰的金牌。 兒子:我等不及了。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_021",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Wife: Honey, I don’t want to ride a motorcycle to work on a rainy day. Husband: You can take a taxi. Wife: I’d like to, but that’s too expensive. Husband: Wife: I think this idea is better.",
+      "image_url": "",
+      "options": [
+        "I wonder how much it is.",
+        "You bet.",
+        "Are you sure?",
+        "How about taking the MRT?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "太太:親愛的,下雨天我不想騎摩托車上班。 IV. 閱讀測驗 丈夫:妳可以搭計程車。 Question 32-36 太太:我想,但太貴了。 Lynsey Addario 是一位美國攝影記者,她的作品多在 丈夫: 關注衝突、人權議題,特別是傳統社會中婦女的角色。 太太:我想這個點子比較好。 她為紐約時報、新聞週刊和國家地理雜誌和其它知名出 (A) 我在想那要多少錢。 (B) 你說的沒錯。 版社拍攝過作品。她出生於美國康乃迪克州,雙親是義 (C) 你確定嗎? 裔理髮師,在 13 歲時父親給了她人生第一台照相機。沒 (D) 搭捷運如何? 有接受過正規訓練,她在 1996 年開始從事專業的攝影工 作,而正當世界受到 911 事件的衝擊而改變,此時她成 III. 綜合測驗 為了攝影師。 Question 22-26 她報導過阿富汗、剛果、伊拉克、敘利亞和利比亞 NEET 族通常指那些已有一陣子沒工作、沒上學和受 的戰事。在 2011 年她和 3 個男性同事在利比亞被綁架。 訓的人。很多年輕人變成尼特族 (22) 因為他們本身沒有好 9 天後她被釋放, Addario 告訴媒體她在利比亞被軍隊囚 的工作條件。在這個經濟成長緩慢的世代,工作的競爭 禁的時候, 「持續受到死亡威脅還被一群男人不斷上下其 很激烈。這些年輕人認為自己的條件不好, (23) 因此,他 手。」 們缺乏自信心。沒有了自信心,他們就沒有動力。 當她在另一個訪問中被問到「女性如何敢進入戰 根據一項研究,很多尼特族年輕人對這世界比同儕 區」, Addario 回答「這是我的人生。我自己做決定。為 (24) 更感到負面。 (25) 也就是說,他們大多時候都感到不 何發生在我身上的事比對發生在我男同事身上的事更可 快樂也不感到被愛。他們很同意下面的句子像是「我沒 怕呢?他們可是被來福槍敲擊頭部。為何沒有人說男性 什麼好期待的」和「我不被身邊的人重視」 。解決尼特族 不該報導戰爭呢?男性和女性都該做自己認為需要做的 的問題在於給予更多的工作機會。更重要的是,我們需 事。我不認為女性報導戰爭是比較危險。女性和男性面 要創造一個社會 (26) 在那裡失業不是丟臉的事。 對一樣的危險。這份工作真的很需要體力,但我一直都"
+    },
+    {
+      "id": "MOCK_105_2_ENG_022",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": ". Many young people become NEET ____ they don’t have good job qualifications.",
+      "image_url": "",
+      "options": [
+        "due to",
+        "though",
+        "let alone",
+        "because"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據上下文此處應選「因為」;而 (A) 雖意思為「因 盡我最大努力。」 為」,但這裡的 「 due to 」, to 是介系詞,故後面應加 N, 對 Addario 而言,如果女性想要做戰地攝影師,她就 所以不可選 (A),而要選 (D) + 子句 應該到戰地去。取得真相讓她活得有價值。她和其它成"
+    },
+    {
+      "id": "MOCK_105_2_ENG_023",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": ". NEET youths think they have poor qualifications; ____, they lack confidence.",
+      "image_url": "",
+      "options": [
+        "such as",
+        "as for",
+        "as a result",
+        "in contrast"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "(C) 和前一句有因果關係,意為「因此」 員拍攝「塔利班系列」贏得了普立茲獎,同年她獲得了"
+    },
+    {
+      "id": "MOCK_105_2_ENG_024",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": ". According to a study, many NEET youths feel ____ negative about the world than their peers.",
+      "image_url": "",
+      "options": [
+        "much",
+        "more",
+        "little",
+        "far"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "(B) 因為後面有 than 可知此句應用比較級,所以選 麥克阿瑟天才獎,獎金 50 萬美元。據報導,她的新書 《 It’s 105-2 共同科目 英文 詳解 what I do 》將被史蒂芬‧史匹柏拍成電影。 (A) 它的首航是要到中國去。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_025",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": ". ____, they don’t feel happy or loved most of the time.",
+      "image_url": "",
+      "options": [
+        "That is",
+        "It is",
+        "On the other hand",
+        "First of all"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?105-2-00-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_2_ENG_026",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": ". More importantly, we need to create a society ____ being out of work is not a shame.",
+      "image_url": "",
+      "options": [
+        "which",
+        "where",
+        "what",
+        "when ▲ 下篇短文共有 5 個空格,為第 27 至 31 題,請依短文文意,選出一個最適合該空格的答案。 Yuzuru Hanyu is a Japanese figure skating superstar. By only 21, the Japanese young boy has already won 13 medals and broken 10 world records. Since he was a child, Hanyu 27 asthma that makes it hard for him to breathe during exercise. 28 Hanyu showed talent for ice-skating, asthma limited his practice to only two hours a day. 29 his disadvantage, Hanyu is determined to succeed. He practiced as much as his body could endure. In 2011, a powerful earthquake hit Japan. Both his house and the skating rink 30, so Hanyu trained in Yokohama until his home rink reopened. After the disaster, Hanyu seriously wondered whether he should continue skating while so many around him were suffering. But he realized that his success on the ice could 31 people around him. In 2014 Winter Olympics, Hanyu’s graceful performance won Japan the first gold medal in men’s ice-skating event."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?105-2-00-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_2_ENG_027",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": ". Since he was a child, Hanyu ____ asthma that makes it hard for him to breathe during exercise.",
+      "image_url": "",
+      "options": [
+        "is suffered",
+        "was suffered",
+        "has suffered",
+        "suffered"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?105-2-00-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_2_ENG_028",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": ". ____ Hanyu showed talent for ice-skating, asthma limited his practice to only two hours a day.",
+      "image_url": "",
+      "options": [
+        "What",
+        "If",
+        "Through",
+        "Although"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?105-2-00-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_2_ENG_029",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": ". ____ his disadvantage, Hanyu is determined to succeed.",
+      "image_url": "",
+      "options": [
+        "In spite",
+        "Regardless",
+        "Despite",
+        "Besides"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?105-2-00-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_2_ENG_030",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": ". Both his house and the skating rink ____, so Hanyu trained in Yokohama until his home rink reopened.",
+      "image_url": "",
+      "options": [
+        "is damaging",
+        "were damaged",
+        "has damaged",
+        "had damaged"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?105-2-00-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_2_ENG_031",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": ". But he realized that his success on the ice could ____ people around him.",
+      "image_url": "",
+      "options": [
+        "inspire",
+        "secure",
+        "respect",
+        "lift"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?105-2-00-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_2_ENG_032",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "The story of a female photographer.",
+        "The stress of being a career woman and a mother.",
+        "The sufferings of war areas.",
+        "The terrorist attack by the Taliban."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "本文主要是關於什麼? (B) 人們正在製作一部關於它的電影。 (A) 一個女性攝影師的故事。 (C) 它只能載 1912 位乘客。 (B) 身為職業婦女和母親的壓力。 (D) 票有三等級。 (C) 戰區的苦痛。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_033",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Which of the following adjectives best describes Addario?",
+      "image_url": "",
+      "options": [
+        "generous",
+        "courageous",
+        "bad-tempered",
+        "cowardly"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "下列哪個形容詞最能描述 Addario?"
+    },
+    {
+      "id": "MOCK_105_2_ENG_034",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Which of the following is TRUE?",
+      "image_url": "",
+      "options": [
+        "Addario was murdered in Libya.",
+        "Addario is regretful for being a war photographer.",
+        "Addario cares about women’s right.",
+        "Addario married a Muslim."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "下列何者正確? (B) 鐵達尼 II 在亞洲國家建造。 (A) Addario 在利比亞被殺害。 (C) 鐵達尼 II 和原本的鐵達尼號完全一樣。 (B) Addario 後悔成為戰地記者。 (D) 鐵達尼 II 的船東很有錢。 (C) Addario 關注女性議題。 (D) Addario 嫁給回教徒。 第二部分:非選擇題"
+    },
+    {
+      "id": "MOCK_105_2_ENG_035",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Which of the following is NOT mentioned in the article?",
+      "image_url": "",
+      "options": [
+        "Addaior was never trained professionally as a photographer.",
+        "Addario won several prizes for her outstanding works.",
+        "Both Addario’s parents are photographers.",
+        "Addario makes effort to find out the truths."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "下列何者文章沒有提及? I. 填充 (A) Addario 沒受過專業的攝影訓練。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_036",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Which of the following can be inferred from the reading passage?",
+      "image_url": "",
+      "options": [
+        "Addario would give up her job as a journalist because of danger.",
+        "Addario’s family stopped her from doing her job.",
+        "Addario would never go back to Libya to work.",
+        "Addario’s story will be seen in the movie theater. ▲ 閱讀下文,回答第 37-41 題。 On the early morning of April 15, 1912, the British passenger liner hit an iceberg in the North Atlantic Ocean and sank on her first voyage from Southampton to New York City. This is the story of Titanic, which everyone is familiar with. Since then, books, exhibits and films about the accident have been created. Years after, many people are still interested in the story. An Australian billionaire, Clive Palmer, announced his plans to build a copy of the ship named Titanic II. It will have been completed by 2018. The construction of the ship began in a Chinese government-owned shipyard. Almost everything in the new ship matches the feature of the original, except for some differences. The new Titanic will have a helicopter landing pad, air conditioning, and far more lifeboats than those on the original. The engineering challenges would drive the construction cost approximately twice than that of a modern cruise ship. Palmer will also sell first, second and third class tickets, and, like on the real Titanic, passengers won’t be able to interact with others outside their own class. Some criticize Palmer’s idea to construct the ship. Family members of those who died in the tragedy feel that recreating an experience that had ended in so many deaths is in poor taste; Titanic II has itself been described as “insensitive” and “a mockery of the memory of those who died.” However, the CEO of the shipyard stated that they “have always been very mindful and very respectful of such a tragic event and don’t think that building a replica or a ‘II’ is inappropriate.”"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "從文章中可推論出什麼? 3 1 個空格正確,另 1 個空格部分正確。 (A) Addario 會因為危險而放棄記者工作。 2 僅 1 個空格正確或 2 個空格皆部分正確。 (B) Addario 的家人阻止她的工作。 1 (C) Addario 從此不再踏進利比亞工作。 1 個空格錯誤,另 1 個空格部分正確。 (D) Addario 的故事將能在電影院看到。 (1) 空白 ( 未書寫文字 ) 。 Question 37-41 0 (2) 文字零碎、形同未答。 在 1912 年 4 月 15 日清早,英國客輪在首航由南安 (3) 只抄題目或其他試題。 普敦到紐約的行程中,在北大西洋撞上冰山然後沉沒。 (4) 內容完全錯誤。 這是大家熟悉的鐵達尼號故事。從此,關於這個意外的 書籍、展覽和影片因應而生。多年之後,很多人仍對這 II. 句子重組 個故事深感興趣。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_037",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "What is the article mainly about?",
+      "image_url": "",
+      "options": [
+        "A copy of a famous ship.",
+        "How Titanic got her name.",
+        "What happened to Titanic in 1912.",
+        "The interior design of Titanic II."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "文章主要關於什麼? (1) 空白 ( 未書寫文字 ) 。 (A) 一艘有名船舶的複製品。 (2) 文字瑣碎、形同未答。 (B) 鐵達尼名字如何而來。 0 (3) 只抄題目或其他試題。 (C) 1912 年鐵達尼號發生了什麼事。 (4) 只抄引導文字。 (D) 鐵達尼 II 的內部裝潢。 (5) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_038",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "What is TRUE about people who buy first-class tickets?",
+      "image_url": "",
+      "options": [
+        "They will decide the destination.",
+        "They will not be able to talk to second-class passengers.",
+        "They will eat dinner with third-class passengers.",
+        "They are the ones who can take lifeboats."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "關於買頭等艙的人,下列描述何者正確? (A) 他們決定目的地。 III. 中譯英 (B) 他們不能和二等艙的乘客聊天。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_039",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "What do we know about Titanic II?",
+      "image_url": "",
+      "options": [
+        "It will sail to China on her first trip.",
+        "People are making a movie about it.",
+        "It can only hold 1912 passengers.",
+        "There are 3 classes for the tickets."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "關於鐵達尼 II 何者正確? This is the restaurant which my parents first met in / at. 105-2 共同科目 英文 詳解 It is the restaurant that my parents first met in / at. This / It is the restaurant my parents first met in / at. 評閱指標 級分 說明 能充分表達原文題意,對題材有絕佳的掌握, 4 句子結構及連貫性甚佳。文法及標點正確,用 字遣詞沒有或僅有極少不當之處。 能適切表達原文題意,對題材有良好的掌握, 3 句子結構及連貫性大致得當。文法及標點、用 字遣詞有少數不當之處,但不妨礙題意之表達。 僅能部分表達原文題意,句子結構不良或有 2 誤,且大多難以理解並缺乏連貫性。文法及標 點、用字遣詞有失當之處。 無法表達原文題意,句子沒有結構概念及連貫 1 性,無法理解。文法及標點、用字遣詞之錯誤 甚多。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_105_2_ENG_040",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Families of those who died in the tragedy in 1912 feel about making a copy of Titanic.",
+      "image_url": "",
+      "options": [
+        "thrilled",
+        "excited",
+        "frightened",
+        "unhappy"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?105-2-00-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_105_2_ENG_041",
+      "subject": "英文",
+      "unit": "105-2-00-英文",
+      "q": "Which of the following is NOT mentioned in the article?",
+      "image_url": "",
+      "options": [
+        "Titanic II costs more than most modern ships.",
+        "Titanic II was made in an Asian country.",
+        "Titanic II is completely the same as the original one.",
+        "The owner of Titanic II is quite wealthy."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?105-2-00-英文解析.pdf"
+    }
+  ]
+}

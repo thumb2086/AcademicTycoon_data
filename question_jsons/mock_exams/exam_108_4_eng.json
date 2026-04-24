@@ -1,0 +1,661 @@
+{
+  "bundle_id": "MOCK_108_4_ENG",
+  "questions": [
+    {
+      "id": "MOCK_108_4_ENG_001",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "As a in Taiwan enjoying the right to vote, I take great pride in our country’s democracy and freedom of speech.",
+      "image_url": "",
+      "options": [
+        "performer",
+        "citizen",
+        "volunteer",
+        "manufacturer"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Whether; depend 評閱指標 級分 說明 4 2 個空格皆正確。 2 僅 1 個空格正確。 0 2 個空格皆錯誤。 II. 句子重組"
+    },
+    {
+      "id": "MOCK_108_4_ENG_002",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "I really my family’s support and company when I broke up with Jimmy. Mom and Dad constantly listened to my worries and I felt really loved. I feel so grateful!",
+      "image_url": "",
+      "options": [
+        "lengthen",
+        "dislike",
+        "appreciate",
+        "drain"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "appreciation and gratitude / Those who always / stuck in life / never get / have a sense of 解答: Those who always have a sense of appreciation and gratitude never get stuck in life. 評閱指標 級分 說明 所有字詞組合正確,且拼字、大小寫及標點均 4 無誤。 (1) 所有字詞組合正確,但有拼字、字詞增減或 標點錯誤。 3 (2) 多數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 多數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 2 (2) 半數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 半數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 1 (2) 少數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 少數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 0 (2) 所有字詞組合錯誤。 (3) 只抄引導文字、題目或其他試題。 (4) 空白 ( 未書寫文字 ) 。 III. 中譯英"
+    },
+    {
+      "id": "MOCK_108_4_ENG_003",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Many doctors nowadays are trained through using reality technologies in planning upcoming operations.",
+      "image_url": "",
+      "options": [
+        "environmental",
+        "regional",
+        "active",
+        "virtual"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "閱讀不僅降低我們的壓力,還能改善我們的記憶力及"
+    },
+    {
+      "id": "MOCK_108_4_ENG_004",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "The wildfires in Australia have caused unrecoverable to the forests and wildlife habitats.",
+      "image_url": "",
+      "options": [
+        "benefit",
+        "welfare",
+        "device",
+        "damage"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "澳洲的野火已對其森林及其野生棲息地造成無法挽 咖啡師:好的,需要來點其它的當早餐嗎? 回的損害。 強森:不用了,咖啡就好。 (A) 利益/好處 (B) 福利 (C) 裝置/設備 (D) 損害 (A) 你想要加一些牛奶嗎?"
+    },
+    {
+      "id": "MOCK_108_4_ENG_005",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Although my mom has numerous handbags, she cannot buying a new one whenever she goes online shopping.",
+      "image_url": "",
+      "options": [
+        "resist",
+        "respect",
+        "regret",
+        "repeat"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "雖然我媽有為數不少的手提包,但每當她在網路購物 (B) 請問貴姓大名? 時,她還是無法抗拒買新包包的誘惑。 (C) 為什麼您喜歡濃咖啡呢? (A) 抵抗 (B) 尊重 (C) 後悔 (D) 重複 (D) 您想要多大杯?"
+    },
+    {
+      "id": "MOCK_108_4_ENG_006",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "My teacher Michelle Johnson is actually a strict and stern person; however, she always sets a and playful tone when describing the stories in the textbook.",
+      "image_url": "",
+      "options": [
+        "conscious",
+        "dangerous",
+        "religious",
+        "humorous"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "我的老師蜜雪兒‧強森事實上是個嚴格且嚴肅的人。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_007",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Jerry likes listening to classical music even though he does not reject rock music or blues.",
+      "image_url": "",
+      "options": [
+        "in vain",
+        "in short",
+        "in particular",
+        "in return"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "傑瑞特別喜歡聽古典音樂,雖然他並不排斥搖滾或是 蝠俠的服裝。 藍調音樂。 傑瑞:媽,謝謝你!現在我開始期待明年的了! (A) in vain 徒勞無功 (B) in short 簡言之 (A) 感恩節並不如我期待那樣。 (C) in particular 尤其 (D) in return 回報 (B) 我不喜歡今年的不給糖就搗蛋活動。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_008",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Donna has been looking after her father years since he had a stroke three years ago.",
+      "image_url": "",
+      "options": [
+        "searching for",
+        "running into",
+        "taking care of",
+        "giving rise to"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "自從三年前她爸爸中風以來,唐娜一直都在照顧她的 (C) 今年我讓你和爸失望了,因為我英文被當了。 父親。 (D) 我不知道耶誕節派對的禮物該選什麼。 (A) 尋找 (B) 巧遇 (C) 照顧 (D) 產生"
+    },
+    {
+      "id": "MOCK_108_4_ENG_009",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Monica was hesitant about a new job opportunity, as the new company promised to provide her with double pay, a personal driver and an assistant.",
+      "image_url": "",
+      "options": [
+        "offer",
+        "highlight",
+        "protect",
+        "emphasize"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "莫妮卡對於新的工作機會感到很猶豫,因為新的東家 祖母: 承諾提供她兩倍的薪資、私人司機以及一名助理。 凱文:傑洛米和寇比。 (A) 提供 (B) 強調 (C) 保護 (D) 重視;強調 祖母:答應我你會在晚上九點前到家。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_010",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "The TV drama— The World Between Us —deals with many complicated facets of a social killing incident.",
+      "image_url": "",
+      "options": [
+        "complex",
+        "distinguished",
+        "scenic",
+        "spiritual"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這齣電視劇—《我們與惡的距離》—處理社會殺人事 凱文:一言為定,太愛妳了阿嬤! 件中許多複雜的社會面向。 (A) 你們要去打籃球嗎? (A) 複雜的 (B) 優秀的/傑出的 (B) 不行!你得留在家準備接下來的考試! (C) 景色的 (D) 精神的 (C) 當然,你或許想幫我曬衣服還有做其它家事。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_011",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "The yoga teacher tries to have us focus on our breathing and empty our mind. However, I just keep thinking of what to eat after the yoga class!",
+      "image_url": "",
+      "options": [
+        "decide",
+        "balance",
+        "concentrate",
+        "decorate II. 對話題 ( 第 12-21 題,每題 2 分,共 20 分 ) 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "瑜珈老師試著讓我們專注在我們的呼吸並淨空我們的 (D) 你要跟誰去呢? 思緒。然而我一直在想的是瑜珈課後要吃什麼東西。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_012",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Fiona: Hey honey, would you like to go to the movie with me after work today? Strek: Of course. Fiona: No. I just feel like watching a movie without the kids. Strek: Same here. Let me call my parents to come over this late afternoon. Kids would be super excited to see Grandma and Grandpa.",
+      "image_url": "",
+      "options": [
+        "Is it our anniversary today?",
+        "What movie do you want to see?",
+        "How about the Star Wars 9?",
+        "Can I take a rain check?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "菲奧娜:嘿親愛的,今天下班後想跟我一起去看場電 108-4 共同科目 英文 詳解 吉米:嗯。學號是 S106112,然後我姓陳,耳東陳。 (C) 無法想像你全把錢給捐了! 林老師:好的,你的申請目前正在審核中。最後的結 (D) 能貢獻己力聽起來超酷的。 果會在本學期末公告於學校網頁。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_013",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Barista: What can I get for you, Sir? Johnson: I would like to have a Latte with an extra shot. Barista: Yes, of course. Johnson: Extra large, please. I need more caffeine in the morning, neither medium nor large could wake me up. Barista: Okay. Do you need anything for breakfast? Johnson: Nope. Coffee would be fine.",
+      "image_url": "",
+      "options": [
+        "Would you like to add some milk?",
+        "Could I have your name?",
+        "Why do you like strong coffee?",
+        "What size do you want?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "咖啡師:先生,請問需要來點什麼嗎? (A) 加長 (B) 討厭 (C) 感謝 (D) 排水/使疲憊 強森:我想要一杯拿鐵再加一份濃縮。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_014",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Jerry: Mom: Why? I thought you were enjoying it. Jerry: No, I felt really stupid to be a Spiderman. Mom: Okay. I could get you a Batman costume next year if you want it. Jerry: Thanks, Mom. Now, I am looking forward to it.",
+      "image_url": "",
+      "options": [
+        "Thanksgiving was not as what I expected.",
+        "I just hated the trick-or-treating this year.",
+        "I disappointed you and Dad this year as I failed my English exam.",
+        "I had trouble picking a good gift for my X’mas party."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_015",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Kevin: Grandma, could I hang out with my classmates this weekend? Grandma: Kevin: Jeremy and Kobe. Grandma: Promise me you will be home before 9 pm. Kevin: Deal! I love ya, Grandma!",
+      "image_url": "",
+      "options": [
+        "Are you playing basketball together?",
+        "No way! You have to study for the upcoming exam.",
+        "Sure, you might want to hang the clothes and do other chores for me.",
+        "Who are you going out with?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_016",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Miss Lin: Hello, Student’s Affair Office, how may I help you? Jimmy: Hello, my name is Jimmy. I am the student from Class 317. I have a couple of questions regarding the scholarship application. Miss Lin: Jimmy: Sure, it’s S106112. And C-H-E-N, Chen. Miss Lin: Ok, your application has been processed. The final results will be announced on school website by the end of this semester. Jimmy: Great, thank you.",
+      "image_url": "",
+      "options": [
+        "I might need your phone number and birthplace.",
+        "You’re not qualified for the application. I am sorry.",
+        "Your student ID number and your last name, please.",
+        "You can log into the student email account and check it for yourself."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "林老師:喂,學務處,有什麼需要幫忙的嗎? (A) 決定 (B) 使平衡 (C) 專注 (C) 裝飾 吉米:喂,我是三年 17 班的吉米。我有一些關於申 請獎學金的問題要問。 II. 對話題 林老師:"
+    },
+    {
+      "id": "MOCK_108_4_ENG_017",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Rebecca: Hey, Michelle. I am pretty curious about why you are making great progress on the mock exams. Michelle: You know what? I just temporarily removed all the apps like Facebook, Instagram and Tik Tok from my cellphone. It saves me a bunch of time. Rebecca: I kind of admire your determination. Michelle: You should. We have only a few weeks left for the upcoming exam. We really have to invest our time on the right thing now.",
+      "image_url": "",
+      "options": [
+        "I guess I should follow suit.",
+        "You’re incredibly smart.",
+        "I can’t live without those apps.",
+        "We really get distracted easily."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "芮貝卡:嘿,蜜雪兒。我很好奇妳為什麼模擬考成績 工作嗎? 可以進步那麼多呀? 查理:知道,我告訴他們我想自己負擔我自己的生活 蜜雪兒:妳知道嗎?我就只是暫時把像 FB 、 IG 還有 費用。 抖音這種 app 從手機刪掉而已。省了我很多時間耶。 飲料店老闆:那你學校功課怎麼辦? 芮貝卡:有點佩服你的決心。 查理:應該沒有問題,我的成績都是優等,我一直都 蜜雪兒:你應該要。我們離考試只剩幾個禮拜了。現 很努力在學校課業上。 在,我們真的得把時間投資在對的事情上才是。 飲料店老闆:聽起來不錯。 (A) 我猜我該跟你一樣才對。 (A) 你有任何經濟上的困難嗎? (B) 你實在太聰明了。 (B) 你有駕照嗎? (C) 沒有那些 app,我活不下去了。 (C) 你能同時兼顧學業和工作嗎? (D) 我們真的太容易分心了。 (D) 你能在週末上班嗎?"
+    },
+    {
+      "id": "MOCK_108_4_ENG_018",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Mom: Your dad and I are planning a trip to Tokyo Disney this summer with your younger sister. Justin: Really? Right after my school’s commencement? Mom: I know. I am sorry that June is the perfect month for the three of us, and we need to fly back before the Summer Olympics starts. Otherwise, the ticket price would rocket. Justin: No, don’t do this to me. I want to go with you too!! Mom: Sorry, but you spend more money on the make-up programs than on the trip. Good luck, my son!",
+      "image_url": "",
+      "options": [
+        "Wonderful. I enjoy staying home alone.",
+        "It sounds cool to me. I should tell my best friend, Jimmy.",
+        "I don’t want to miss the Tokyo Olympics.",
+        "I have to retake the courses, or I can’t get the diploma."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "媽媽:你爸跟我今年暑假要帶你妹妹去東京迪士尼。 賈斯汀:真假?就在我的畢業典禮後馬上去? III. 綜合測驗 Question 22-26 媽媽:我知道呀,但是很抱歉六月是我們三個最適合 幾場亞馬遜大火燒掉了巴西雨林的許多地方。正當 的時間點,我們得在夏季奧運開始前回來,不然票價 人們在譴責巴西總統賈爾‧博爾索納羅摧毀地球上最大 會飆得太高。 的雨林亞馬遜時,時代雜誌特約記者邁克爾‧謝倫伯格 賈斯汀:不行,你們不能這樣對我。我也想跟你們去! 則 (22) 提出不同的見解。第一,他主張把亞馬遜 (23) 當作 媽媽:很抱歉,但你花在重修課的錢多過出去玩的錢 世界之肺這觀點是不正確的。根據丹‧尼普斯塔德,世 了。祝你好運囉,我的兒子。 界領先的亞馬遜雨林專家之一,指出把亞馬遜當作是地 (A) 太棒了,我喜歡一個人在家。 球之肺是無科學根據的。他評論亞馬遜產生大量的氧 (B) 聽起來很酷耶,我得告訴我的好朋友 Jimmy 。 氣,同時也呼吸消耗同樣的氧氣 (24) 量,所以只是一種清 (C) 我不想錯過東京奧運。 潔作用。第二、許多名人、環保人士與政治人物皆在社 (D) 我得上重補修,不然我拿不到畢業證書。 群媒體分享了火燒森林的照片,這些照片並非真實或早"
+    },
+    {
+      "id": "MOCK_108_4_ENG_019",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Sandy: I have a reserved book Twilight: Breaking Dawn. Librarian: Okay, let me check it. I am sorry, but the book is not available now. Sandy: Why? I made the reservation two weeks ago. Librarian: I know. The book is torn apart and cannot be fixed. We would send you email if the new one arrives. Sandy: I see. Thank you.",
+      "image_url": "",
+      "options": [
+        "We need to buy another copy to replace it.",
+        "The book is not worth reading actually.",
+        "You might need to return it as soon as possible.",
+        "The book is currently under repair."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "珊蒂:我有一本預約書, 《暮光之城:破曉》 。 已過時但卻還 (25) 被全世界數百萬人觀看。例如,由李奧 圖書館員:好的,我確認一下。我很抱歉這本書現在 納多‧迪卡皮歐 (Leonardo Dicaprio) 所分享的照片是在 不能外借。 2013 年所拍的,且照片中的森林根本不是亞馬遜,而是 珊蒂:為什麼?我兩個禮拜之前就預約了耶! 巴西南方的一處地方。此外,由歌手瑪丹娜所分享的照 圖書館員:我知道。這本書現在已經損毀且無法被修 片已有數年的歷史了。 CNN 及紐約時報揭露這些照片及 復。 如果這本的新書到館我們會寄 其他關於這場火的 (26) 錯誤訊息。尼普斯塔德進一步宣稱 電子郵件通知妳。 國際上關於這場野火的描述實在是太兩極化且分歧了。 珊蒂:我知道了,謝謝。 現在世界所需要的是提供對氣候變遷及森林砍伐的正確 (A) 我們需要買一本新的來取代它。 訊息,並尋找有效的方式來提出火災檢測及在未來的預 (B) 這本書事實上不值得讀。 防網絡。 (C) 你可能需要儘快還書。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_020",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Daisy: What do you do with your red envelope money this year? Molly: I usually donate a small part of it to charities and save the rest in my bank account. Daisy: Charities? We are just kids. How can we make donations? Molly: Well, I just give the money to my mom, and she helps me with that. My sister and I make yearly donations to support those projects in helping promote reading in remote areas. Daisy: Wow! Molly: True. I do feel good about it.",
+      "image_url": "",
+      "options": [
+        "I guess making donations is not my thing.",
+        "How do you feel after you make donations?",
+        "Can’t believe you donate all your money!",
+        "It sounds super cool to make contribution."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "黛西:你今年的紅包錢都怎麼運用呀? world’s lungs is incorrect 的分詞片語 茉莉:我通常都會把一小部份錢捐做慈善,然後把剩"
+    },
+    {
+      "id": "MOCK_108_4_ENG_021",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Charlie: Good evening, umm...I would like to know if you’re still looking for any employees? Tea Shop Owner: Yes, we still need some more helpers for evening hours. Do you bring your resume with you? Charlie: Yes, but mine is a very simple one. Tea Shop Owner: No worries, all I need is your name, phone number and some basic information about you. By the way, do your parents or family know you are looking for a job? Charlie: Yes. I told them I wanted to cover my own daily expenses. Tea Shop Owner: How about your schoolwork? Charlie: It should be no problem. I’m a straight A’s student; I always make huge efforts on my schoolwork. Tea Shop Owner: Sounds good.",
+      "image_url": "",
+      "options": [
+        "Do you have any financial problems?",
+        "Do you have a driving license?",
+        "Can you handle school and work at the same time?",
+        "Can you work on weekends? III. 綜合測驗 ( 第 22-31 題,每題 2 分,共 20 分 ) 說明:以下兩篇短文,共有 10 個空格,為第 22 至 31 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 22 至 26 題,請依短文文意,選出一個最適合該空格的答案。 The Amazon fires rage across many parts of the rainforest in Brazil. While many people are blaming Brazilian president Jair Bolsonaro for destroying the Amazon, the largest rainforest on Earth, the Time Magazine corresponding journalist Michael Shellenberger 22 a different point of view. First, he argues that the notion 23 the Amazon as the world’s lungs is incorrect. According to Dan Nepstad, one of the world’s leading Amazon forest experts, there is no science behind the argument that the Amazon serves as the lungs of the planet. He comments that the Amazon produces a lot of oxygen but it uses the same 24 of oxygen through respiration, so it’s just a wash. Second, many celebrities, environmentalists, and politicians shared photos of flaming forests on social media. Those photos were not true or out of date but were 25 by millions of people around the world. For example, the one shared by Leonardo DiCaprio was taken in 2013, and it was not the Amazon, but another southern area in Brazil. In addition, the photo that the singer Madonna shared was over years in history. CNN and New York Times unmasked the photos and other 26 about the fires. Nepstad further claims that the international narrative about the rainforest wildfires is way too polarizing and divisive. What the world needs now is to provide correct information about climate change and deforestation, and seek an effective way to come up with a fire detection and prevention network in the future."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_022",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "estroying the Amazon, the largest rainforest on Earth, the Time Magazine corresponding journalist Michael Shellenberger ____ a different point of view.",
+      "image_url": "",
+      "options": [
+        "flatters",
+        "proposes",
+        "denies",
+        "inspires"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_023",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": ". First, he argues that the notion ____ the Amazon as the world’s lungs is incorrect.",
+      "image_url": "",
+      "options": [
+        "referring to",
+        "that referring to",
+        "refers to",
+        "which has referred"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_024",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": ". He comments that the Amazon produces a lot of oxygen but it uses the same ____ of oxygen through respiration, so it’s just a wash.",
+      "image_url": "",
+      "options": [
+        "number",
+        "cargo",
+        "quality",
+        "amount"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_025",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": ". Those photos were not true or out of date but were ____ by millions of people around the world.",
+      "image_url": "",
+      "options": [
+        "ignored",
+        "discovered",
+        "viewed",
+        "handled"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_026",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": ". CNN and New York Times unmasked the photos and other ____ about the fires.",
+      "image_url": "",
+      "options": [
+        "misinformation",
+        "mistranslation",
+        "misbehavior",
+        "mischief"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_027",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": ". A social science researcher named Michael Norton ____ a study about how undergraduate students would spend their money if they were given 5 US dollars.",
+      "image_url": "",
+      "options": [
+        "obeyed",
+        "displayed",
+        "promoted",
+        "conducted"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "(A) 遵守 (B) 顯示 (C) 促進 (D) 執行 (A) 群眾互踢彼此並大叫。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_028",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": ". The participants who spent the money on themselves made some ____ like earrings, make-up and so on; however, those people who used the money on someone else spent it 29 different ways.",
+      "image_url": "",
+      "options": [
+        "purchases",
+        "mistakes",
+        "friends",
+        "changes"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "(A) 購物 (B) 錯誤 (C) 朋友 (D) 改變 (B) 觀眾站起來發出很大聲音。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_029",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "selves made some 28 like earrings, make-up and so on; however, those people who used the money on someone else spent it ____ different ways.",
+      "image_url": "",
+      "options": [
+        "of",
+        "for",
+        "in",
+        "with"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "「用不同的方式」以 in... ways 呈現 (C) 人們跑離這個地方。"
+    },
+    {
+      "id": "MOCK_108_4_ENG_030",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": ". For instance, some of them gave the money to homeless people, while ____ bought coffee to their colleagues.",
+      "image_url": "",
+      "options": [
+        "others",
+        "the others",
+        "another",
+        "other"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "some of... the others 一些人...其餘人... (D) 大眾變得不安並翹起腳來。 這裡指把錢花在別人身上的群體,有限定範圍,故答 Question 37-41 案為 (B) the others 許多來自世界的國家都在 3 月 17 日慶祝聖派翠克"
+    },
+    {
+      "id": "MOCK_108_4_ENG_031",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": ". As the result indicated, ____ matters was not how much, but on whom the money was spent.",
+      "image_url": "",
+      "options": [
+        "how",
+        "what",
+        "why",
+        "which IV. 閱讀測驗 ( 第 32-41 題,每題 2 分,共 20 分 ) 說明:以下有兩篇短文,共有 10 個題目,為第 32 至 41 題,請於閱讀短文後,選出最適當的答案 。 ▲ 閱讀下文,回答第 32-36 題。 Have you ever encountered stage fright? Actually, everyone seems to experience butterflies in their stomachs when they are giving a speech. You might probably wonder what might be the most effective way to combat performance anxiety. There are no shortcuts actually. Preparing well and rehearsing more than enough in advance is surely the key. Let’s take a closer look at how the former US president Obama dealt with the stress before he made his first significant speech. Before his debut speech in 2004, Obama was a completely nobody. At that time, he was just a humble state legislator who had never stood in front of a big crowd. He had never used a teleprompter, and never been live on prime-time television. However, Obama was invited to give a speech before more than 15,000 people in Boston. To prepare a speech with less than 20 minutes, young Obama inhaled books, read newspapers and digested his ideas. He wrote and rewrote his remarks constantly. In addition, he made great use of his “fragmented time” between meetings and kept concentrating on his speech. He memorized every word and rehearsed it carefully. He made sure that he could deliver the speech smoothly without using the teleprompter unless his nerves got triggered and his mind went blank. The speech turned out to be a huge success. “ The crowd was on its feet and roaring. The applause booming in the rafters,” Michelle Obama recalled. Many people gave Barack Obama congratulatory hugs after the speech, but very few knew how hard he had tried to prepare for it. Nowadays, many people regard Obama as the nation’s the orator-in-chief. He surely deserves the title as he has invested incredible efforts and is always well-prepared for every occasion on stage."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "以語意判斷為 what 。 “what matters” 為「重要的是...」 節。人們穿戴著綠色衣服或戴綠色裝扮舉辦活力十足的 遊行來紀念愛爾蘭的主保聖人,聖派翠克。大多人相信 IV. 閱讀測驗 他是出生在西元大約 385 年的威爾斯,而他的本名叫茅 Question 32-36 威。在 16 歲那年,他被愛爾蘭海盜綁架並被帶到愛爾蘭 你有怯場過嗎?事實上每個人都有經歷過上臺演講 為奴。在他被囚的六年來,他是個牧羊人。他求助上帝, 時極度緊張的情況。你或許可能想知道怎麼做才能最有 接著有一天他聽到一個聲音告訴他,他可以離開愛爾蘭 效地克服上台的焦慮。其實這沒有捷徑。事先好好準備 了,應該要儘速做好準備。沒多久,他看到一艘船。他 及多一點綵排肯定是個關鍵。讓我們仔細看一下美國前 抓住那個千載難逢的機會逃離了愛爾蘭,回到了他的家 總統歐巴馬是怎麼在他第一次重要演講時面對他的壓 鄉英國。 力。 之後,他決心研究神學並自覺了自己的召喚。他之 在 2004 年,歐巴馬首次演講之前,他是個完全不為 後轉信基督教並改名為派翠克。他於西元 432 年返回愛 人知的無名小卒。在當時他只是一個微不足道且沒有在 爾蘭擔任主教並將神的信仰傳遍各地。他興建學校和教 一大群觀眾前演講過的州議員。他從來沒有用過提字 堂,因為他的努力,許多愛爾蘭人進而轉信基督教。當 機,也從來沒有上過即時電視,然而,歐巴馬受邀在波 他在西元 461 年 3 月 17 日過世時,基督教的信仰已在愛 士頓超過一萬五千人的場合講說。為了準備這不到 20 分 爾蘭紮下基礎 。 因此人們在每年 3 月 17 日紀念這位聖人 。 鐘的演講,年輕的歐巴馬大量汲取書籍、報紙及消化這 你也許會好奇為什麼在聖派翠克節這天大家都要穿 些想法。他的稿子不斷地寫了又改。此外,他善用他在 戴綠色這個顏色呢?事實上這與聖派翠克的一些傳說有 會議間的「零碎時間」,不斷專注在他的演說上。他將每 關。比較有名的一個例子就是派翠克使用三葉草來解釋 個字都背了起來並仔細演練。他確保他能在不使用提字 三位一體-聖父、聖子與聖靈。另一個關於人們穿戴綠 機的情況下流暢地發表演說,除非他突然神經緊繃然後 色的說法則是與愛爾蘭的國旗有關,因為愛爾蘭的國旗 頭腦一片空白。 中有綠色的線條。現在綠色已經廣泛地與聖派翠克節產 結果這場演講相當成功。蜜雪兒歐巴馬回想當時 「群 生關連,而這天也變成世俗的節日,不那麼帶有宗教色 眾們站了起來歡聲雷動,掌聲從屋脊雷動傳來」 。許多人 彩了。在這天,來自世界各地的人們舉辦遊行與嘉年華 都在演講後給了巴拉克‧歐巴馬恭賀的擁抱,但很少人 會,並穿著綠色衣服,暢飲著綠啤酒呢! 知道他是多麼努力準備這場演講。現今,許多人認為歐"
+    },
+    {
+      "id": "MOCK_108_4_ENG_032",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "What might be the best title for this passage?",
+      "image_url": "",
+      "options": [
+        "Obama: The Power of Swords and Prudence",
+        "The Key to Overcoming Stage Anxiety: Being Well-Prepared",
+        "Barack Obama and his Wife: Love and Support",
+        "How to Face Huge Crowds on Stage: Courage"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "本文最佳的標題為何? (D) 綠色的歷史 (A) 歐巴馬:武器與謹慎的力量"
+    },
+    {
+      "id": "MOCK_108_4_ENG_033",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "What can we infer from the passage?",
+      "image_url": "",
+      "options": [
+        "Obama was not a celebrity until he made his important speech in 2004.",
+        "Obama preferred to use the teleprompter when he was giving his first live speech.",
+        "Obama relied heavily on his wife when searching for the topics of the speech.",
+        "They gave birth to two baby daughters after Obama got elected as the President."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_034",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "What is the closest meaning to the word debut in the second paragraph?",
+      "image_url": "",
+      "options": [
+        "motivation",
+        "skillfulness",
+        "inspiration",
+        "beginning"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_035",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "According to the passage, Barack Obama did a lot of preparation for the speech EXCEPT that.",
+      "image_url": "",
+      "options": [
+        "he got many great ideas through extensive reading",
+        "he memorized each sentence by heart",
+        "he took advantage of very small amount of time rehearsing",
+        "he made sure in advance that the teleprompter could work"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_036",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "What does the sentence “ The crowd was on its feet and roaring ” in the last paragraph mean?",
+      "image_url": "",
+      "options": [
+        "The crowd was kicking each other and yelling.",
+        "The audience were standing up and making loud sounds.",
+        "The people were running and leaving the place.",
+        "The pubic were getting restless and crossing their legs. ▲ 閱讀下文,回答第 37-41 題。 Many countries around the world are celebrating St. Patrick’s Day on March 17th. People wearing green clothes or putting on green costumes hold vibrant parades in honor of the Irish patron saint, St. Patrick. Most people believe he was born in Wales around 385 (A)(D) and his given name was Maewyn. He was kidnapped and brought to Ireland as a slave by a group of Irish pirates at the age of 16. During his 6-year captivity as a shepherd, he turned to God, and then one day he heard a voice telling him that he could leave Ireland and should get himself ready. Soon, he saw a ship and took the very chance to escape Ireland, heading back home for Britain. Later, he was determined to study priesthood and then became aware of his calling. He then converted to Christianity and changed his name to Patrick. He returned to Ireland as a bishop in 432 and to spread the faith of God. He established schools and churches, and many Irish people were converted into Christianity because of his efforts. When he passed away on March 17th in 461, Christianity had already taken root in most of Ireland. Therefore, people commemorated St. Patrick on March 17th. You might be curious about why people wear color green to celebrate St. Patrick’s Day. Actually, there are a few legends regarding this patron saint. One prevalent example is about how Patrick used the shamrock, a plant with three round leaves on each stem, to explain the Trinity—the Father, the Son, and the Spirit. Another saying regarding why people wear color green is associated with the Irish Flag, as it has green stripes within. Now the color green is commonly connected with St. Patrick’s Day, and this day was later transformed into a secular holiday. People around the world hold parades and festivals, put on green clothes, and enjoy green beers on that day!"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_037",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "What should be the best title for this passage?",
+      "image_url": "",
+      "options": [
+        "Shamrock: the Plant Representing Trinity",
+        "The Secular Life of St. Patrick",
+        "The Origin of St. Patrick’s Day",
+        "The History of the Color Green"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_038",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "What did Patrick work as while he was in Ireland as a slave?",
+      "image_url": "",
+      "options": [
+        "A priest.",
+        "A pirate.",
+        "A saint.",
+        "A shepherd."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_039",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Based on the passage, what is TRUE about St. Patrick’s life?",
+      "image_url": "",
+      "options": [
+        "He was caught and taken to Britain as a slave when he was 16.",
+        "He made his escape successfully after a voice told him to do so.",
+        "He converted to Christianity when he was trapped in Ireland.",
+        "He was born on March 17th and the date later became the St. Patrick’s Day."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?108-4-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_108_4_ENG_040",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "In paragraph 2, the word commemorated is closest in meaning to.",
+      "image_url": "",
+      "options": [
+        "founded",
+        "broadcasted",
+        "lectured",
+        "remembered"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "第二段中的 commemorated 最接近哪一個字的意思? 級分 說明 (A) 建立 (B) 廣播 (C) 演講 (D) 記得 能充分表達原文題意,文法、標點正確,用字"
+    },
+    {
+      "id": "MOCK_108_4_ENG_041",
+      "subject": "英文",
+      "unit": "108-4-四技二專-00共同科目 英文",
+      "q": "Based on the passage, why are people wearing green on St. Patrick’s Day?",
+      "image_url": "",
+      "options": [
+        "Because St. Patrick used shamrock, a green plant, to teach Trinity.",
+        "Because when St. Patrick died, the river turned green on that day.",
+        "Because green beer was produced during the month of March.",
+        "Because green symbolized peace and later became one of the colors on the Irish flag. 第二部分:非選擇題 ( 第 I 至 III 題,每題 6 分,共 18 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據本文,為什麼人們要在聖派翠克節這天穿著綠色 4 遣詞沒有不當之處。 呢? 能適切表達原文題意,文法、標點、用字遣詞 (A) 因為聖派翠克使用三葉草,一種植物,來教導三 3 僅有少數不當之處。 位一體。 僅能部分表達原文題意,文法、標點、用字遣 (B) 因為當聖派翠克過世時,河川在那天都染成綠色。 2 詞有多處失當之處。 (C) 因為綠啤酒在三月那個月份製造。 無法表達原文題意,文法、標點、用字遣詞僅 (D) 因為綠色象徵和平,之後成了愛爾蘭的國旗顏色 1 有少數正確之處。 之一。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 第二部分:非選擇題 0 (3) 只抄題目或其他試題。 I. 填充 (4) 內容完全離題或錯誤。"
+    }
+  ]
+}

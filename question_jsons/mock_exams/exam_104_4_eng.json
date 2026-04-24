@@ -1,0 +1,661 @@
+{
+  "bundle_id": "MOCK_104_4_ENG",
+  "questions": [
+    {
+      "id": "MOCK_104_4_ENG_001",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Rick’s father attempted to train Rick to be a world running champion, but Rick found it hard to his father’s expectations.",
+      "image_url": "",
+      "options": [
+        "look up to",
+        "get rid of",
+        "date back to",
+        "live up to"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_002",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Scientists try hard to unveil the mystery of the universe; however, the universe where we live is too vast and complicated for us to really.",
+      "image_url": "",
+      "options": [
+        "construct",
+        "comprehend",
+        "compose",
+        "command"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_003",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Police officers in Taiwan are making great efforts to solve drug-related crimes, abuse and drunk-driving.",
+      "image_url": "",
+      "options": [
+        "domestic",
+        "imported",
+        "blocked",
+        "cautious"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_004",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "The unemployment rate and low income in Greece are making everyone, especially young people, nervous and stressed-out.",
+      "image_url": "",
+      "options": [
+        "flexible",
+        "stable",
+        "reducing",
+        "rising"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_005",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "As soon as the homeroom teacher entered the classroom, all the students sat down and took out their textbooks.",
+      "image_url": "",
+      "options": [
+        "primarily",
+        "immediately",
+        "absolutely",
+        "extremely"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_006",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "The doctor carefully the patient in the clinic to find out what caused his headache and fever.",
+      "image_url": "",
+      "options": [
+        "explored",
+        "examined",
+        "expected",
+        "exploded"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_007",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Identical twins look almost the same. Sometimes even their parents can’t one the other.",
+      "image_url": "",
+      "options": [
+        "remove...from",
+        "turn...into",
+        "tell...from",
+        "exchange...for"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_008",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Over the past few decades, World Vision, a Christian organization, has sponsored children, families and communities to fight against poverty all over the globe.",
+      "image_url": "",
+      "options": [
+        "squeezed",
+        "struggled",
+        "supported",
+        "sprained"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_009",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Tim’s boss severely warned Tim not to put off what he could do today until tomorrow; otherwise, Tim will be fired.",
+      "image_url": "",
+      "options": [
+        "postpone",
+        "deny",
+        "downsize",
+        "strengthen"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_010",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Chile was struck by a devastating earthquake, with a magnitude of 8.5 on the Richter scale, killing thousands on Feb. 27th, 2014.",
+      "image_url": "",
+      "options": [
+        "disabled",
+        "disastrous",
+        "distinctive",
+        "fictional"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_011",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "My motorcycle was broken on my way home; I thought I had better call a specialist to help me fix it as soon as possible.",
+      "image_url": "",
+      "options": [
+        "amateur",
+        "expert",
+        "athlete",
+        "terrorist"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_012",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Jean: Hello. Is Andy there? John: I am afraid he is not in at the moment. Jean: John: Of course.",
+      "image_url": "",
+      "options": [
+        "May I take a message?",
+        "What’s wrong?",
+        "May I leave a message?",
+        "When will he be back?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_013",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Doctor: What is your trouble? Patient: I’ve been feeling bad for two days. Doctor: Patient: I have a sore throat and a runny nose.",
+      "image_url": "",
+      "options": [
+        "You are telling me!",
+        "What are the symptoms?",
+        "Which one do you prefer?",
+        "I’m sorry to hear about that."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_014",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Receptionist: Hello. Really Good Seafood Restaurant. May I help you? Joy: I would like to book a table for three at seven this evening. Receptionist: OK. Joy: It’s Joy Chen. Receptionist: Joy Chen.",
+      "image_url": "",
+      "options": [
+        "How to spell it?",
+        "How would you like your steak?",
+        "Take your time.",
+        "What’s your name, please?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_015",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "(On the phone) Sally: Alice is holding a party this Saturday night. Would you like to go with me? Deny: Oh, I’d love to, Sally: Maybe next time.",
+      "image_url": "",
+      "options": [
+        "but mid-term is next Monday.",
+        "and I will think about it.",
+        "and count me in.",
+        "but I am not good at singing."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_016",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Students: I am terribly sorry for not handing in my homework on time. I worked part-time and went back home late. Teacher: Students: I am really sorry. Teacher: You could have started it earlier.",
+      "image_url": "",
+      "options": [
+        "There is no excuse.",
+        "It’s better safe than sorry.",
+        "I am really touched by your story.",
+        "Don’t put the blame on me."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_017",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Saleswoman: Are you looking for anything in particular? Megan: Yes. I’d like to buy a white dress. Saleswoman: Here it is. Megan: Saleswoman: Of course. The fitting room is over there.",
+      "image_url": "",
+      "options": [
+        "What can I get for you?",
+        "Can I try that on?",
+        "Is it one sale?",
+        "Is it a bargain?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_018",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Customer: Excuse me, I’d like to exchange the CD player. Clerk: What’s wrong with it? Customer: I bought it from your store yesterday. It doesn’t work. Clerk: No problem.",
+      "image_url": "",
+      "options": [
+        "We have no-refund policy. There is nothing I can do.",
+        "We offer refunds and exchanges within seven days of purchase.",
+        "Here is your change.",
+        "They are sold out."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_019",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Jill: Do you like water sports? Bell: Not really. Jill: That is too bad. You should give yourself a try. Bell: Teach me if you can.",
+      "image_url": "",
+      "options": [
+        "I can’t even swim.",
+        "It does good to our health.",
+        "It’s a good sport, isn’t it?",
+        "What a good sport it is!"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_020",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Lisa: Hi, you look upset. Tom: I just broke up with my girlfriend. Lisa: Everything will be alright and you must have learned something from the experience. Tom: Thank you for your encouraging words.",
+      "image_url": "",
+      "options": [
+        "How do you do?",
+        "What’s bothering you?",
+        "Would you do me a favor?",
+        "How much do you know about it?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_021",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Stranger: Excuse me. Would you please tell me where the nearest bank is? Joe: You can’t miss it. Stranger: Is it far from here? Joe: No, it’s just a ten-minute walk.",
+      "image_url": "",
+      "options": [
+        "There is a police station nearby.",
+        "Sorry. You have to ask someone else.",
+        "Walk two blocks and turn left at the bookstore.",
+        "I’d rather not."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_022",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "? It is perhaps a bride in a white wedding dress ____ vows with a groom in a church.",
+      "image_url": "",
+      "options": [
+        "that exchanging",
+        "which exchanged",
+        "exchanges",
+        "exchanging"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_023",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": ". ____, cultures differ around the world.",
+      "image_url": "",
+      "options": [
+        "Nonetheless",
+        "As a result",
+        "In addition",
+        "Besides"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_024",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": ". In Thailand, ____, a conch shell plays an important role at weddings.",
+      "image_url": "",
+      "options": [
+        "instead",
+        "for instance",
+        "such as",
+        "as least"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_025",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": ". The pronunciation of fish and chicken is ____ “abundance” and “housing” in Chinese respectively.",
+      "image_url": "",
+      "options": [
+        "named after",
+        "looked after",
+        "similar to",
+        "contrast to"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_026",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": ". A chance to attend a wedding in a foreign country is an opportunity worth ____.",
+      "image_url": "",
+      "options": [
+        "experienced",
+        "experience",
+        "experiencing",
+        "to experience ▲ 閱讀下文後,作答第 27-31 題 Every single day, new technology comes out and makes our lives safer and more comfortable. Products that 27 be seen only in sci-fi movies are in their development stage now. Scientists hope that those products will improve people’s lives in the near future. One example is that researchers and scientists are now working together to develop a special robot to 28 drivers. The small robot will improve almost every aspect of the driving experience. It will remind the driver that the gas tank should be filled up. The robot, moreover, will recommend the fastest route home. Technology is not only making life better 29 helping us extend our lives. What scientists are trying hard these days is to develop artificial body parts, such as the joints, teeth, and hearts, that can replace real ones but will never 30. No one can predict what the future looks like. 31 high-tech products that are emerging, our future is definitely looking bright."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_027",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": ". Products that ____ be seen only in sci-fi movies are in their development stage now.",
+      "image_url": "",
+      "options": [
+        "are used to",
+        "is used to",
+        "used to",
+        "use to"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_028",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": ". One example is that researchers and scientists are now working together to develop a special robot to ____ drivers.",
+      "image_url": "",
+      "options": [
+        "repair",
+        "achieve",
+        "finish",
+        "assist"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_029",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": ". Technology is not only making life better ____ helping us extend our lives.",
+      "image_url": "",
+      "options": [
+        "and",
+        "or",
+        "from",
+        "but"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_030",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "s is to develop artificial body parts, such as the joints, teeth, and hearts, that can replace real ones but will never ____.",
+      "image_url": "",
+      "options": [
+        "bring up",
+        "wear out",
+        "show off",
+        "die out"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_031",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": ". ____ high-tech products that are emerging, our future is definitely looking bright.",
+      "image_url": "",
+      "options": [
+        "With",
+        "For",
+        "To",
+        "By"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_032",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "The importance of legislation on public safety",
+        "A scandal that occurred in New Taipei County",
+        "A tragedy which took place in a water park",
+        "A warning of extreme water sports"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_033",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "In which section of the newspaper are you most likely to read this passage?",
+      "image_url": "",
+      "options": [
+        "Arts and leisure",
+        "Entertainment",
+        "Health",
+        "Society"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_034",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "The Ministry of Health and Welfare will cover all the medical expense of the burn patients.",
+        "Many of the injured were still treated in the hospital two weeks after the accident.",
+        "Victims of the accident will recover from the burn soon.",
+        "The water park is still running its business after the accident."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_035",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "What might be the major cause of the explosion that happened in the water park?",
+      "image_url": "",
+      "options": [
+        "Illegal construction of the park",
+        "The heat and humidity caused by the weather",
+        "The high temperature caused by the light on the stage",
+        "Illegal burning by attendants of the party"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_036",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "According to the article, which of the following statements is NOT the immediate response of the government?",
+      "image_url": "",
+      "options": [
+        "They commanded the water park be closed.",
+        "They looked into the case and detained the man who was in charge of the activity.",
+        "They banned the use of colored cornstarch at private events.",
+        "They founded an organization for the victims’ families. ▲ 閱讀下文後,作答第 37-41 題 The human tragedy was brought home for millions worldwide by pictures of a lifeless body of a three-year-old Syrian refugee Aylan Kurdi lying on a Turkish beach. The Turkish police officer, Mehmet Ciplak, recounted how he prayed the little boy was still alive as he walked toward him and picked up the toddler’s body. Aylan’s body was washed up to the shore in an image that shocked the world. Aylan’s father said that he tried to take hold of his children and his wife, but they slipped through his hands as their boat was taking in water on its way to Greece. Abdullan, Aylan’s father, lost his three-year-old son Aylan, four-year-old son Ghaleb and wife Rihana in the tragedy. Aylan and his family boarded a small plastic or rubber inflatable boat, which overturned about five minutes after leaving a beach resort at Bodrum in Turkey. Sixteen people were in the boat, which was designed for a maximum of eight people. The photograph of Kurdi’s lifeless body caused great concern among European nations. Some European leaders said that the picture must be a reminder of the world’s responsibility regarding refugees. British Prime Minister David Cameron said he felt deeply moved by the images of Kurdi and indicated that the British government would accept a greater number of refugees from war-torn Syria. As for other European countries, thousand more migrants swarmed into Germany and were greeted with cheers and welcome signs, as Pope Francis called on every Catholic parish in Europe to take in a refugee family. The frontline nation Hungary, which first refused refugees, later sent them on to Austria and Germany. The picture has been credited with causing a surge in donations to charities helping migrants and refugees. It is believed that more and more countries in Europe are willing to help those migrants."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_037",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Where is Kurdi’s family heading for?",
+      "image_url": "",
+      "options": [
+        "Hungary",
+        "Germany",
+        "Turkey",
+        "Greece"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_038",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "What happened to Aylan on the way to the destination?",
+      "image_url": "",
+      "options": [
+        "He was captured by Turkish police officers.",
+        "He was shot by Syrian soldiers.",
+        "He was kidnapped half way.",
+        "He was drowned."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_039",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "Why do thousands of Syrians flee from their country?",
+      "image_url": "",
+      "options": [
+        "They try to find better jobs in Europe.",
+        "Their country is at war.",
+        "There is a shortage of food in their country.",
+        "They suffer from MERS."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_040",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "What was Hungarian’s reaction toward the refugees initially?",
+      "image_url": "",
+      "options": [
+        "They welcomed the refugees.",
+        "They rejected the refugees.",
+        "They followed what Pope Francis had said.",
+        "They sent the refugees back to Syria."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_104_4_ENG_041",
+      "subject": "英文",
+      "unit": "54. 104-4-四技二專-英文",
+      "q": "According to the article, which of the followings is NOT true?",
+      "image_url": "",
+      "options": [
+        "British government would try to help refugees.",
+        "Germany welcomes the migrants from Syria.",
+        "Aylan Kurdi has a sibling.",
+        "Kurdi’s family begin a new life with the help of British government. 第二部分:非選擇題 ( 第 1 至 3 題,每題 6 分,共 18 分 ) I. 填充 說明:▲請依據中文提示,將試題內空格○ 1 、○ 2 之完整單字,分別作答於答案卷之作答欄○ 1 、○ 2 之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    }
+  ]
+}

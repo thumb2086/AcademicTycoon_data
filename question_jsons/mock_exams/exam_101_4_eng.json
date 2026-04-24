@@ -1,0 +1,805 @@
+{
+  "bundle_id": "MOCK_101_4_ENG",
+  "questions": [
+    {
+      "id": "MOCK_101_4_ENG_001",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Those children live in a condition, without housing, school, or health care.",
+      "image_url": "",
+      "options": [
+        "perfect",
+        "meaningful",
+        "precious",
+        "miserable"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "那些孩子們生活在 景況中,沒有住所,無法就學,"
+    },
+    {
+      "id": "MOCK_101_4_ENG_002",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "William Shakespeare is one of the greatest playwrights of all time.",
+      "image_url": "",
+      "options": [
+        "painfully",
+        "undoubtedly",
+        "narrowly",
+        "annually"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "威廉.莎士比亞 是古往今來最偉大的劇作家之一。 海綿寶寶:喔,她是我的一個朋友啦。她是個不錯的人喔。 (A) 痛楚地 (B) 毫無疑問地 派大星:真的喔?我等不及要見她了。 (C) 狹窄地 (D) 一年一度地 (A) 太棒了!章魚哥看到你一定會很高興的。"
+    },
+    {
+      "id": "MOCK_101_4_ENG_003",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Global warming has the lives of many animals such as polar bears and penguins.",
+      "image_url": "",
+      "options": [
+        "criticized",
+        "discovered",
+        "threatened",
+        "practiced"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "全球暖化已經 了諸如北極熊以及企鵝等許多動物們 (B) 好呀!我改天會順道去拜訪的。 的生活。 (C) 她是誰啊?我從來沒聽說過她這個人。 (A) 批評 (B) 發現 (C) 威脅到 (D) 練習 (D) 真的嗎?我很高興你喜歡它。"
+    },
+    {
+      "id": "MOCK_101_4_ENG_004",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "This king-size bed is long enough for the basketball player to his legs as he lies on it.",
+      "image_url": "",
+      "options": [
+        "stretch",
+        "broaden",
+        "recover",
+        "greet"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這張特大號床的長度夠長,讓那位籃球員躺在上面時能"
+    },
+    {
+      "id": "MOCK_101_4_ENG_005",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Your article is too, and you may need to give concrete examples to support your ideas.",
+      "image_url": "",
+      "options": [
+        "occasional",
+        "abstract",
+        "cheerful",
+        "necessary"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "你的文章是太過,因此你可能需要給一些具體的 (B) 感謝妳的詢問。 例子來支持你的觀點。 (C) 您需要尺寸大一點的嗎? (A) 偶爾的 (B) 抽象的 (C) 愉快的 (D) 必要的 (D) 妳可以算便宜一點賣嗎?"
+    },
+    {
+      "id": "MOCK_101_4_ENG_006",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "It is common sense that the Moon around the Earth once every month.",
+      "image_url": "",
+      "options": [
+        "evolves",
+        "involves",
+        "revolves",
+        "dissolves"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "月球每個月繞地球 一圈,這乃是常識。"
+    },
+    {
+      "id": "MOCK_101_4_ENG_007",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "The Eiffel Tower is a major tourist in Paris and a must-see sight for foreign visitors.",
+      "image_url": "",
+      "options": [
+        "motivation",
+        "attraction",
+        "persuasion",
+        "destruction"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "艾菲爾鐵塔是巴黎的一個主要觀光,也是外國遊 凱莉: 這位小姐,妳上個禮拜才弄丟了 客必定造訪的景點。 妳的車鑰匙咧! (A) 動機 (B) 勝地 (C) 說服 (D) 破壞 莎曼珊:我知道。我一個月前其實也弄丟了我的手機。"
+    },
+    {
+      "id": "MOCK_101_4_ENG_008",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Billy is not the man to trust! His words always turn out to be inconsistent with his.",
+      "image_url": "",
+      "options": [
+        "leaks",
+        "peaks",
+        "seeds",
+        "deeds"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "比利是個不可靠的人!他的話最後總是會和他的 (A) 這是我的錯。 不一致。 (B) 為什麼是我? (A) 漏洞 (B) 巔峰 (C) 種籽 (D) 行為 (C) 誰?米蘭達嗎?"
+    },
+    {
+      "id": "MOCK_101_4_ENG_009",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Maria Sharapova beat her rival in the final and won the championship in the tournament.",
+      "image_url": "",
+      "options": [
+        "defeated",
+        "released",
+        "assigned",
+        "launched"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "瑪莉亞.莎拉波娃在決賽中擊敗她的對手,奪得這場錦 (D) 什麼?又掉東西啦? 標賽的冠軍。"
+    },
+    {
+      "id": "MOCK_101_4_ENG_010",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "With the entrance exam around the corner, the students have been under a lot of stress.",
+      "image_url": "",
+      "options": [
+        "emphasis",
+        "pressure",
+        "analysis",
+        "leisure"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "由於升學考試即將來臨,學生們都承受很大的壓力。 店員:讓我看看...瑪麗.古德溫。是的,在這兒。 (A) 強調 (B) 壓力 (C) 分析 (D) 悠閒"
+    },
+    {
+      "id": "MOCK_101_4_ENG_011",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Lucy’s friends encourage her to be positive about life and learn to look on the bright side of things.",
+      "image_url": "",
+      "options": [
+        "anxious",
+        "punctual",
+        "optimistic",
+        "temporary"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "露茜的朋友們鼓勵她對人生要是正向積極的,並學著去 (A) 我可以留言嗎? 看事物的光明面。 (B) 您預約 5 人用餐,是嗎? (A) 焦急的 (B) 準時的 (C) 樂觀的 (D) 暫時的 (C) 這個座位有人坐了嗎?"
+    },
+    {
+      "id": "MOCK_101_4_ENG_012",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "The construction worker felt a sharp pain as a nail accidentally pierced his left foot.",
+      "image_url": "",
+      "options": [
+        "slight",
+        "severe",
+        "eager",
+        "eternal"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "當一支鐵釘意外地刺穿他的左腳時,那位建築工人感到 (D) 女廁在哪裡呢? 劇烈的疼痛。"
+    },
+    {
+      "id": "MOCK_101_4_ENG_013",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "What parents say or do may have a great impact on their children.",
+      "image_url": "",
+      "options": [
+        "safety",
+        "aspect",
+        "influence",
+        "religion"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "父母的一言一行都可能對他們的子女會有很大的影響。 老師: 你必須先算出這個,然後把你所 (A) 安全 (B) 方面 (C) 影響 (D) 宗教 得到的結果再去乘上這兩個的和。"
+    },
+    {
+      "id": "MOCK_101_4_ENG_014",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Stress may elevate your blood pressure and hence increase the risk of having a stroke.",
+      "image_url": "",
+      "options": [
+        "raise",
+        "praise",
+        "reach",
+        "preach"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "壓力可能會讓你的血壓升高,並因而增加你罹患中風的 (A) 恐怕不是唷。 風險。 (B) 我當然願意。 (A) 提升 (B) 讚賞 (C) 抵達 (D) 說教 (C) 你說的對極了。"
+    },
+    {
+      "id": "MOCK_101_4_ENG_015",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Finding himself surrounded by the swordsmen, the knight drew his sword, preparing to protect himself.",
+      "image_url": "",
+      "options": [
+        "pretend",
+        "intend",
+        "offend",
+        "defend 二、對話題 說明:第 16 ~ 25 題,請依對話內容,選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "當他發現自己被劍客們團團圍住,那位騎士拔出了他的 (D) 我想我沒問題。 劍,準備保衛自己。"
+    },
+    {
+      "id": "MOCK_101_4_ENG_016",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "SpongeBob: Hey, let’s go over there. I want you to meet Sandy Cheeks. Patrick Star: SpongeBob: Oh, she’s a friend of mine. She’s a nice person. Patrick Star: Really? I can’t wait to see her.",
+      "image_url": "",
+      "options": [
+        "Great! Squidward will be glad to see you.",
+        "Sure! I will drop by some day.",
+        "Who is she? I’ve never heard of her.",
+        "Really? I’m glad that you like it."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_017",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Clerk: How are these shoes? Alice: They’re too loose. Clerk: I’m sorry, but the shoes of your size are sold out.",
+      "image_url": "",
+      "options": [
+        "I need smaller ones.",
+        "Thank you for asking.",
+        "Do you need larger ones?",
+        "Can you make them a little cheaper?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_018",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Carrie: What’s wrong, Samantha? You look anxious. Samantha: Yeah. I just can’t find my wallet. Carrie: You lost your car keys last week, girl! Samantha: I know. I also lost my cell phone a month ago.",
+      "image_url": "",
+      "options": [
+        "It’s my fault.",
+        "Why me?",
+        "Who? Miranda?",
+        "What? Again?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_019",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Clerk: Good evening, ma’am. Do you have a reservation for dinner? Mary: Yes. My name is Mary Godwin. Clerk: Let’s see...Mary Godwin. Oh, right here.",
+      "image_url": "",
+      "options": [
+        "May I leave a message?",
+        "A table for five, right?",
+        "Is this seat taken?",
+        "Where is the ladies’ room?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_020",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Teacher: So, have you figured out this math question? Student: I think so. Is the correct answer 48? Teacher: You need to do this bit first, and then multiply what you get by the sum of these two parts.",
+      "image_url": "",
+      "options": [
+        "I’m afraid not.",
+        "Of course I do.",
+        "You can say that again.",
+        "That’s fine with me."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_021",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Clerk: May I take your order now? Peter: Yes, I think I’ll have a cheeseburger. Clerk: One cheeseburger. Peter: A large French fries and a large coke, please.",
+      "image_url": "",
+      "options": [
+        "Will that be for here or to go?",
+        "May I have your name, please?",
+        "How do you like the food here?",
+        "What else would you like to go with it?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_022",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Andy: Excuse me. Passerby: Walk up this street for three blocks, and you’ll find the night market on your right. Andy: Thank you.",
+      "image_url": "",
+      "options": [
+        "Were you at the night market last weekend?",
+        "How do I get to the night market?",
+        "Let’s go to the night market together.",
+        "There are many night markets in Taiwan."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "安迪:請問一下。 (A) 承擔;忍受、 (B) 發送;寄送、 (D) 促銷;升級, 路人:沿著這條街走三個街區,然後你就會看到夜市在 均不合題意 你右邊。 31-35 題為題組 安迪:謝謝。 日本新幹線的子彈列車不眠不休地穿梭在這個國家的 (A) 你上週末有在夜市嗎? 各大主要城市之間,以高達將近 300 公里的時速輸運旅客。 (B) 要去夜市要怎麼走? 然而,事情的進展並非總是如此地平順。在當初實施測試 (C) 我們一起去夜市吧。 運行時,每當火車從開闊的空曠地,高速駛入狹窄的隧道 (D) 臺灣有很多夜市。 時,就會產生音爆,使得大約 350 公尺之外的窗戶都為之搖"
+    },
+    {
+      "id": "MOCK_101_4_ENG_023",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Beckham: Hi. I’d like to find out your room rates. Hotel Clerk: Beckham: A standard double room. Hotel Clerk: Then, that would be NT$ 22,000 per night.",
+      "image_url": "",
+      "options": [
+        "I can help you find some roommates.",
+        "Do you have a budget in mind?",
+        "What kind of room would you like?",
+        "Would you like to pay by cash or credit card?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "貝克漢:你好。我想瞭解一下你們的住房費率。 晃震動。為了解決這個問題,工程師兼鳥類愛好者中津英 飯店人員: 治暗暗尋思,有沒有某種生物,在其日常生活當中,每天 貝克漢:標準雙人房。 都要應付空氣阻力的突然改變。他想到的是:翠鳥。這種 飯店人員:向您說明一下,每晚是新台幣 22,000 元。 鳥類在俯衝覓食之時,是從空氣,也就是阻力較低的介 (A) 我可以幫您找到一些室友。 質,進入水中,也就是高阻力的介質,但激起的水花卻非 (B) 您心中有規劃的預算嗎? 常地小。藉由將子彈列車頭的車鼻部位重新設計成翠鳥鳥 (C) 您想問的是哪種房間? 喙的形狀,工程師們減少了噪音,甚至降低了車輛運行所 (D) 您要刷卡還是付現? 使用的電量。在這個過程當中,他們也讓許多的窗戶免於"
+    },
+    {
+      "id": "MOCK_101_4_ENG_024",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Shrek: Would you like some ice cream? Fiona: I would like some, but I can’t have any. Shrek: Why? Fiona: No. My teeth are very sensitive to cold food.",
+      "image_url": "",
+      "options": [
+        "Are you on a diet or what?",
+        "What’s wrong with your teeth?",
+        "Would you like some hot coffee?",
+        "How often do you go to the dentist?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "史瑞克:妳想吃點冰淇淋嗎? 遭到震碎。 費歐娜:我想吃,但是我沒辦法吃。"
+    },
+    {
+      "id": "MOCK_101_4_ENG_025",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Harry: Why do you think I cheated? Snape: You had all the same answers as Hermione did. Harry: Snape: I caught you glancing at her paper.",
+      "image_url": "",
+      "options": [
+        "How long have you been teaching in Hogwarts?",
+        "I didn’t see Professor Dumbledore yesterday.",
+        "Why are you blaming me rather than her?",
+        "Draco Malfoy and I are good friends. 三、綜合測驗 說明:以下三篇短文,共有 15 格空格,為第 26 ~ 40 題,每題有四個選項,請依各篇短文文意,選出一個 最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 26 至 30 題,請依短文文意,選出一個最適合該空格的答案。 I was at a party hosted by my friend Alice. 26 beside her, I could sense that she was getting worried because there were too many people and not enough refreshments. Alice was pretty sure that not everyone 27, but she didn’t know how to weed out the gatecrashers. Then, her husband Robert 28 an idea. Robert turned to the guests and said, “Will all those from the bride’s side of the family please stand up?” About 20 people stood up as Robert’s 29 was made. Then, he went on to ask, “Now those from the groom’s side?” About 25 people 30 this time. Then he smiled and said, “I’m afraid that all those who are standing would have to leave. This is a birthday party.”"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "哈利:你為什麼認為我作弊?"
+    },
+    {
+      "id": "MOCK_101_4_ENG_026",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". ____ beside her, I could sense that she was getting worried because there were too many people and not enough refreshments.",
+      "image_url": "",
+      "options": [
+        "Sit",
+        "Sitting",
+        "I sat",
+        "I was sitting"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "(B) 原句為 “ As I sat beside her,... ”,此處將連接詞與主 (B) 修訂;校正、 (A) 裝備;配備、 (D) 放棄;退出,均 詞省略,並將動詞 sat 改為現在分詞 sitting,形成分詞構 不合文意所需 句"
+    },
+    {
+      "id": "MOCK_101_4_ENG_027",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". Alice was pretty sure that not everyone ____, but she didn’t know how to weed out the gatecrashers.",
+      "image_url": "",
+      "options": [
+        "has invited",
+        "is inviting",
+        "had been invited",
+        "was going to invite"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "(C) 此處的時態須用過去完成式,且要用被動語態 (B) 治療、 (C) 想像、 (D) 相配,均不合文意所需"
+    },
+    {
+      "id": "MOCK_101_4_ENG_028",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". Then, her husband Robert ____ an idea.",
+      "image_url": "",
+      "options": [
+        "occurred to",
+        "struck up",
+        "looked forward to",
+        "came up with"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "(D) 想出來。 (A) 選項的主詞必須是「事物」或虛主詞“ it ” 101-4 共同考科 英文 四、閱讀測驗 們把大部分的時間花費在評估自己所作的決定上。 41-45 題為題組 46-50 題為題組 男人跟女人購物的方式大不相同。身為以狩獵採集為 要不是因為造成洛伯最後在 1894 年喪命的那個人所寫 生的遠古老祖宗的後代子孫,男人和女人都有囤積東西的 的作品,人們對洛伯這頭野狼可能至今仍一無所知。 傾向。但他們具體的作法,則與他們的性別有著很大的關 歐尼斯特.湯普森.西頓,一位老練的獵人,欣然接受 連。《我們為什麼買東西》一書的作者派寇.安德希爾,對 了一份工作,要去獵殺在新墨西哥州的喀倫坡谷一帶掠食 購物者進行了一項長達數十年的研究,觀察他們瀏覽及購 家禽牲畜的一夥兒狼群。西頓被這份工作的挑戰性所吸 買商品的模式。這其中,安德希爾所得到的一個發現是, 引,也對於抓到狼群的狼王洛伯後,將有機會得到 1,000 美 說到購物這件事,男人是狩獵者,而女人則是採集者。 元的賞金,感到怦然心動,而他預期這項任務只要兩個星 簡單地說,男人在購物時所運用的,乃是在遠古的狩 期就可以完成。 獵採集生活環境中,為了獵取肉食所發展而來的技巧。安 但西頓萬萬沒有料到洛伯的狡猾與果決,牠就是有辦 德希爾的研究發現,在把商品買回家之前,絕大多數的女 法避開毒餌,跳過了數百個陷阱,讓自己不會被抓到。西 性會先看過其價格標示,然而男性在他們購物之時,只有 頓耗了好幾個月,到後來用牠的愛人布蘭珈的屍體為餌, 少數的人會作同樣的動作。對於天生就是狩獵者的男人來 終於成功地誘捕到洛伯。 說,忽略價格標示,直接出手把東西買下來,可說是男子 但是,由於被洛伯的英勇以及牠對其伴侶的忠誠所感 氣概的指標。此外,狩獵者必須能夠展現把獵物在肉質腐 動,西頓實在下不了手殺死這頭高貴的野狼。因此他活捉 壞之前就給帶回家裡的本領。 了洛伯,希望能馴服這頭狼王。然而,就在當天晚上,洛 另一方面,女人則通常以購物為樂。除非她們身邊有 伯便死去了 — 因為心碎的緣故,西頓如此寫道,而在洛伯 男性陪伴,否則女人會花更多時間瀏覽商品,仔細端詳她 死後,西頓就未曾再殺任何一頭狼。 們所想要的物件。採集者必須能夠判定果實或蔬菜是否已 西頓決心奉獻餘生,說服他那以征服荒野為其基石的 經成熟,這也許就解釋了為什麼比起男性來說,女性對於 國家,能拯救其僅存的珍貴遺產。在「喀倫坡的狼王洛伯」 氣味和質地,以及各種紅色、粉紅色、黃色的色調差異更 這個故事當中,西頓將自己呈現為一個惡徒,而這個故事 具有敏銳性。這也解釋了為什麼商家會在店門口放置質感 成了西頓在他 1898 年所寫的《我所知道的野生動物》這本 十分吸引人的服裝。它們是用來吸引購物者走進商店,而 書中,最廣為人知的一篇故事。這段故事觸動了許多美國 裡頭有著更多的誘惑在等待著購物者。 人的心弦,也在後來促成了新的國家公園的建立以及保育"
+    },
+    {
+      "id": "MOCK_101_4_ENG_029",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "?” About 20 people stood up as Robert’s ____ was made.",
+      "image_url": "",
+      "options": [
+        "announcement",
+        "exception",
+        "realization",
+        "satisfaction"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_030",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "?” About 25 people ____ this time.",
+      "image_url": "",
+      "options": [
+        "bore",
+        "sent",
+        "rose",
+        "promoted"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_031",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". ____, things haven’t always run so smoothly.",
+      "image_url": "",
+      "options": [
+        "As a result",
+        "For example",
+        "That is",
+        "However"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_032",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". During initial test runs, whenever the trains went from the outdoors into a narrow tunnel at a high speed, they ____ a sonic boom that rattled windows some 350 meters away.",
+      "image_url": "",
+      "options": [
+        "identified",
+        "produced",
+        "discussed",
+        "reminded"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_033",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". It dives from the air, ____ is a low-resistant medium, into water, a high-resistant one, with only a small splash.",
+      "image_url": "",
+      "options": [
+        "in which",
+        "in that",
+        "which",
+        "that"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_034",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". By redesigning the nose of the bullet train in the ____ of the kingfisher’s beak, engineers reduced noise and even cut electricity usage.",
+      "image_url": "",
+      "options": [
+        "patience",
+        "conclusion",
+        "expense",
+        "image"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_035",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". In the process, they also saved a lot of windows ____ breaking.",
+      "image_url": "",
+      "options": [
+        "from",
+        "above",
+        "with",
+        "around ▲ 下篇短文共有 5 個空格,為第 36 至 40 題,請依短文文意,選出一個最適合該空格的答案。 Being a doctor is really stressful. First of all, they need to receive 36 much medical training as possible so that they are able to be a qualified doctor. Secondly, after graduating from medical school, a medical student still needs to spend several years 37 through qualification exam, internship, and license exam before he or she can be a real doctor. Thirdly, doctors are not 38 to make any mistakes when facing patients. When a patient feels pain, doctors need to know how to 39 the pain right away. They are expected to solve problems quickly and correctly. Last but not least, although doctors earn more money than most other professions, they are at higher risk of exposure to life-threatening germs and viruses due to the fact that doctors need to deal with patients 40 from diseases of all kinds. In a word, being a doctor is not an easy job."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_036",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". First of all, they need to receive ____ much medical training as possible so that they are able to be a qualified doctor.",
+      "image_url": "",
+      "options": [
+        "very",
+        "as",
+        "even",
+        "like"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_037",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". Secondly, after graduating from medical school, a medical student still needs to spend several years ____ through qualification exam, internship, and license exam before he or she can be a real doctor.",
+      "image_url": "",
+      "options": [
+        "to get",
+        "get",
+        "to getting",
+        "getting"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_038",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". Thirdly, doctors are not ____ to make any mistakes when facing patients.",
+      "image_url": "",
+      "options": [
+        "allowed",
+        "grown",
+        "divided",
+        "fixed"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_039",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": ". When a patient feels pain, doctors need to know how to ____ the pain right away.",
+      "image_url": "",
+      "options": [
+        "equip",
+        "revise",
+        "handle",
+        "quit"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_040",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "t higher risk of exposure to life-threatening germs and viruses due to the fact that doctors need to deal with patients ____ from diseases of all kinds.",
+      "image_url": "",
+      "options": [
+        "suffering",
+        "treating",
+        "imagining",
+        "matching"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_041",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "This passage is mainly about.",
+      "image_url": "",
+      "options": [
+        "gender differences in information search strategies",
+        "the role of gender in consumer behavior",
+        "gender differences in moral values",
+        "the impact of gender preferences on fashion trends"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "這篇文章主要是關於 。 法規的制訂。 (A) 資料搜尋策略方面的性別差異"
+    },
+    {
+      "id": "MOCK_101_4_ENG_042",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "According to the passage, Paco Underhill.",
+      "image_url": "",
+      "options": [
+        "did a decades-long study on online shopping",
+        "conducted a study on consumer’s bargaining methods",
+        "attempted to shed light on consumers’ shopping patterns",
+        "wrote a book about effective marketing strategies"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據這篇文章,派寇.安德希爾 。 望。 (A) 針對線上購物的行為進行了一項長達數十年的研究 (D) 對於錢財的貪婪,以及想要建立一座國家公園的野心。 (B) 針對消費者討價還價的策略作了一項研究"
+    },
+    {
+      "id": "MOCK_101_4_ENG_043",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "We learn from the passage that stores place beautiful clothes at their entrances mainly to.",
+      "image_url": "",
+      "options": [
+        "attract female customers",
+        "appeal to trendy teenagers",
+        "impress male shoppers",
+        "satisfy senior citizens"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "從這篇文章當中,我們得知商家在店門口擺放漂亮的衣 (B) 必須單打獨鬥,因為他的工作搭檔被洛伯殺死了 服主要是為了 。 (C) 生了場病,因為他無法適應喀倫坡谷的天氣 (A) 吸引女性消費者 (D) 事先沒有預料到洛伯是個如此絕頂聰明的對手 (B) 吸引趕時髦的青少年"
+    },
+    {
+      "id": "MOCK_101_4_ENG_044",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "We may infer from the passage that when accompanied by their male partners, women would.",
+      "image_url": "",
+      "options": [
+        "shift from a gatherer mode to a hunter mode of purchasing pattern",
+        "leave the decision about what to buy entirely up to their male partners",
+        "buy more than what they originally put on their shopping lists",
+        "wrap up their shopping more quickly than they do when they shop alone"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "從這篇文章當中,我們可以推論出,當有男性陪伴在她 (B) 自己被當地的人欺騙愚弄 們身旁時,女性會 。 (C) 對他的成就感到驕傲 (A) 從採集者的購物模式轉換到狩獵者的購物模式 (D) 後悔搬家到新墨西哥州 (B) 把要買什麼東西的決定權完全交到男性的手中"
+    },
+    {
+      "id": "MOCK_101_4_ENG_045",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "According to this passage, which of the following statements is true?",
+      "image_url": "",
+      "options": [
+        "In his book Why We Buy, Paco Underhill pointed out that when it comes to shopping, women hunt, and men gather.",
+        "Most male shoppers were found by Paco Underhill to ignore price tags as they purchased.",
+        "Men and women accumulate things in patterns that differ greatly from those of their prehistoric ancestors.",
+        "Compared with males, females tend to buy fewer things because they spend most of their time evaluating their decisions."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據這篇文章,下列何者為真? (C) 洛伯對牠的伴侶保持忠誠,至死不渝。 (A) 在《我們為什麼買東西》一書當中,作者派寇.安 (D) 《喀倫坡的狼王洛伯》 是一本於 1898 年所出版的書。 德希爾指出,說到購物這件事,女人是狩獵者,而男人"
+    },
+    {
+      "id": "MOCK_101_4_ENG_046",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "According to the passage, what motivated Seton to hunt down Lobo?",
+      "image_url": "",
+      "options": [
+        "The importance of the mission and the search for a new topic in his new novel.",
+        "The challenge of the task itself and the prospect of a cash reward.",
+        "A deep hatred for wolves and a strong desire to restore peace and order.",
+        "A hunger for wealth and an ambition to establish a national park."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_047",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "According to the passage, it took longer than Seton had expected to finally capture Lobo because Seton.",
+      "image_url": "",
+      "options": [
+        "had to abide by the environmental laws laid down by the local government",
+        "had to work all by himself because his partner had been killed by Lobo",
+        "fell ill because he couldn’t adapt to the weather in the Currumpaw Valley",
+        "had not expected that Lobo was such an astonishingly intelligent adversary"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_048",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "We may infer from the passage that looking back on what he had done in the Currumpaw Valley, Seton felt.",
+      "image_url": "",
+      "options": [
+        "a sense of guilty over Lobo’s death",
+        "deceived and fooled by the locals",
+        "a sense of pride in his achievement",
+        "regretful about moving to New Mexico"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_049",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "According to this passage, which of the following statements is NOT true?",
+      "image_url": "",
+      "options": [
+        "Lobo was a wolf living in the Currumpaw Valley in New Mexico.",
+        "Lobo was good at escaping traps and eluding poisoned meat.",
+        "Lobo had remained faithful to his mate until his dying day.",
+        "Lobo the King of Currumpaw is a book published in 1898."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ENG_050",
+      "subject": "英文",
+      "unit": "101-4-四技二專-英文",
+      "q": "Which of the followings is the best title for this passage?",
+      "image_url": "",
+      "options": [
+        "Wild Animals that You Should Get to Know",
+        "A Male Wolf that Led His Group to Freedom",
+        "The Story of a Legendary Wolf",
+        "Seton the Wicked Hunter"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-4-四技二專-英文解析.pdf"
+    }
+  ]
+}

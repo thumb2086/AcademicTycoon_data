@@ -1,0 +1,805 @@
+{
+  "bundle_id": "MOCK_101_1_ENG",
+  "questions": [
+    {
+      "id": "MOCK_101_1_ENG_001",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Daniel’s parents never permit him to go on a trip by himself because it may be dangerous.",
+      "image_url": "",
+      "options": [
+        "offer",
+        "allow",
+        "demand",
+        "remind"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "丹尼爾的爸媽從不允許他獨自旅行, 因為可能有危險 。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_002",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "The university has decided on the location of the new dormitory which can house 500 students.",
+      "image_url": "",
+      "options": [
+        "occasion",
+        "tradition",
+        "site",
+        "weight"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "這所大學已決定可容納 500 名學生的新宿舍地點了。 肯:喔, 。她還好嗎? (A) 場合 (B) 傳統 (C) 地點 (D) 重量 丹尼爾:一點也不好,我真是擔心她。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_003",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "It is ridiculous that many people try to lose weight by eating meat only. This kind of diet is really not healthy.",
+      "image_url": "",
+      "options": [
+        "unavailable",
+        "unforgettable",
+        "uncomfortable",
+        "unbelievable"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "許多人為了減肥而只吃肉是很荒謬的,這種飲食實在 (A) 這沒什麼大不了的 不健康。 (B) 聽你這麼說真令人難過 (A) 難以獲得的 (B) 難忘的 (C) 你說的有道理 (C) 不舒服的 (D) 難以置信的 (D) 希望沒什麼不好的事發生"
+    },
+    {
+      "id": "MOCK_101_1_ENG_004",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "I don’t eat any kinds of red meat. Actually, I have been a vegetarian since five years ago.",
+      "image_url": "",
+      "options": [
+        "As a matter of fact",
+        "In my opinion",
+        "For example",
+        "In general"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "我不吃任何的紅肉,事實上,我從五年前就開始吃素"
+    },
+    {
+      "id": "MOCK_101_1_ENG_005",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "The shoe company manufactures at least 100,000 pairs of shoes every month.",
+      "image_url": "",
+      "options": [
+        "invents",
+        "controls",
+        "receives",
+        "produces"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "這間鞋廠每個月至少生產 100,000 雙以上的鞋子。 仁:沒關係,或許下次吧。 (A) 發明 (B) 控制 (C) 收到 (D) 製造 莉莉:無論如何謝謝你邀請我。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_006",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Henry likes night markets very much because he can always find a wide of delicious local foods.",
+      "image_url": "",
+      "options": [
+        "consideration",
+        "variety",
+        "experience",
+        "amount"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "亨利很喜歡逛夜市, 因為他總是能發現當地各類美食 。 (A) 而且我會帶一些點心去 (A) 考慮 (B) 種類 (C) 經驗 (D) 數量 (B) 我會準時到"
+    },
+    {
+      "id": "MOCK_101_1_ENG_007",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "I could hardly my history teacher when I met her at the mall last week.",
+      "image_url": "",
+      "options": [
+        "suggest",
+        "prevent",
+        "recognize",
+        "discover"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "當我上個禮拜在購物中心遇到我的歷史老師時,我幾 (C) 但是我想我沒辦法去 乎沒認出她來。 (D) 但是我不知道你介不介意 (A) 建議 (B) 預防 (C) 認出 (D) 發現"
+    },
+    {
+      "id": "MOCK_101_1_ENG_008",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "The singer was given an award in honor of her great at the competition.",
+      "image_url": "",
+      "options": [
+        "organization",
+        "arrangement",
+        "selection",
+        "performance"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "這位歌手獲頒的獎項是為了表揚她在比賽期間的極佳 爸:為什麼? 表現。 法蘭克:我想要和我朋友去看電影。 (A) 組織 (B) 安排 (C) 選擇 (D) 表現 爸: 在外逗留到很晚可能會很危險。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_009",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Young children always show great about everything that happens around them.",
+      "image_url": "",
+      "options": [
+        "frustration",
+        "curiosity",
+        "impression",
+        "determination"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "小孩子總是對他們身邊所發生的每件事情表現出很大 (A) 我認為不妥。 (B) 沒什麼不好的。 的好奇心。 (C) 這可能沒那麼困難。 (D) 那並不像預期一樣困難。 (A) 挫折 (B) 好奇心 (C) 印象 (D) 決心"
+    },
+    {
+      "id": "MOCK_101_1_ENG_010",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "The child was by his parents because he cheated on the exam.",
+      "image_url": "",
+      "options": [
+        "punished",
+        "omitted",
+        "served",
+        "compared"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這孩子因為在考試時作弊而被他的父母處罰。 女士: 我無法想像如果你不在這裡的 (A) 處罰 (B) 省略 (C) 服務 (D) 比較 話,會發生什麼事。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_011",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "The between Mike and Helen is getting worse and worse. Their friends cannot do anything about it.",
+      "image_url": "",
+      "options": [
+        "respect",
+        "support",
+        "argument",
+        "treatment"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "麥克和海倫之間的爭論越來越激烈,他們的朋友也無 警員:不客氣,我很高興能幫上忙。 可奈何。 (A) 我不太懂妳的意思。 (A) 尊敬 (B) 支持 (C) 爭論 (D) 處置 (B) 別擔心!這很常發生。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_012",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "The speaker required an letter of invitation from the school to obtain a visa to go to France.",
+      "image_url": "",
+      "options": [
+        "attractive",
+        "official",
+        "emotional",
+        "unusual"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "這名演講者需要學校的正式邀請函,才能取得到法國 (C) 我聽說過很多有關的事。 的簽證。 (D) 非常感謝你的幫忙。 (A) 吸引人的 (B) 正式的"
+    },
+    {
+      "id": "MOCK_101_1_ENG_013",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Jack sent his boss an e-mail to the exact date of their meeting.",
+      "image_url": "",
+      "options": [
+        "ignore",
+        "develop",
+        "measure",
+        "confirm"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Jack 寄了一封 e-mail 給他的老闆以確認他們會議的確 機場人員:離這兒不遠。直走,然後在妳的右手邊。 切時間。 乘客:謝謝你。 (A) 忽略 (B) 發展 (C) 測量 (D) 確認 (A) 你知道 18 號登機門在哪裡嗎?"
+    },
+    {
+      "id": "MOCK_101_1_ENG_014",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "The businessman helped establish several schools in remote areas so that children there could receive education.",
+      "image_url": "",
+      "options": [
+        "generous",
+        "painful",
+        "classic",
+        "naughty"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這個慷慨的商人協助在偏遠地區蓋了幾所學校,讓那 (B) 妳怎麼不問空服員呢? 裡的孩子可以受教育。 (C) 我應該走高速公路嗎? (A) 慷慨的 (B) 痛苦的 (C) 經典的 (D) 頑皮的 (D) 到圖書館走哪條路最好?"
+    },
+    {
+      "id": "MOCK_101_1_ENG_015",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "After graduating from college, Dora and Lucy their friendship by seeing each other once a week.",
+      "image_url": "",
+      "options": [
+        "maintained",
+        "complained",
+        "separated",
+        "operated 二、對話題 說明:第 16 ~ 25 題,請依對話內容,選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "從大學畢業以後,朵拉和露西一週見面一次以維持她"
+    },
+    {
+      "id": "MOCK_101_1_ENG_016",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Ken: Hey Daniel. Why do you look so sad? Daniel: My wife is sick and she is in the hospital now. Ken: Oh,. Is she alright? Daniel: Not at all. I’m really worried about her.",
+      "image_url": "",
+      "options": [
+        "that’s no big deal",
+        "I’m so sorry to hear that",
+        "you’ve got a point",
+        "nothing bad I hope"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_017",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Jen: I am going to hold a Christmas party on Saturday evening. Would you like to come? Lily: I’d like to,. Jen: No problem. Maybe next time. Lily: Thank you for inviting me anyway.",
+      "image_url": "",
+      "options": [
+        "and I will bring some snacks",
+        "and I will arrive on time",
+        "but I don’t think I can make it",
+        "but I don’t know if you’d mind"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_018",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Frank: Dad, can I come home around 12 o’clock tonight? Dad: Why? Frank: I’d like to go to the movies with my friends. Dad: Staying out late can be very dangerous.",
+      "image_url": "",
+      "options": [
+        "I don’t think it’s OK.",
+        "There’s nothing wrong with it.",
+        "It may not be that difficult.",
+        "That’s not as difficult as expected."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_019",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Police officer: Is everything okay, madam? Woman: I can’t imagine what might have happened if you had not been here. Police officer: Not a problem at all. I’m glad I could help.",
+      "image_url": "",
+      "options": [
+        "I didn’t quite catch that.",
+        "Don’t worry! It happens all the time.",
+        "I have heard a lot about it.",
+        "Thank you so much for your help."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_020",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Airport staff: You look lost, madam. Can I help you? Passenger: I am off to Singapore. Airport staff: It is not far away from here. Go straight and it will be on your right. Passenger: Thank you so much.",
+      "image_url": "",
+      "options": [
+        "Do you know where Gate 18 is?",
+        "Why don’t you ask a flight attendant?",
+        "Should I take the highway?",
+        "What’s the best way to go to the library?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_021",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Peter: What will we eat for dinner tonight? Tina: Peter: Why don’t we try some Thai food? Tina: That sounds like a good idea. I love spicy food very much.",
+      "image_url": "",
+      "options": [
+        "I will meet you there at 6:50 p.m.",
+        "I forgot to have lunch today.",
+        "I haven’t decided yet.",
+        "I have spent all my salary."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_022",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Isabelle: Hey Owen. Do you know Benson’s last name? Owen: Nagula. Benson Nagula. Isabelle: Owen: N-A-G-U-L-",
+      "image_url": "",
+      "options": [
+        "(A) Could you hear me clearly?",
+        "Could you spell that for me?",
+        "Could you put him on hold?",
+        "Could you tell me his number?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "伊莎貝爾:嘿,歐文,你知道班森姓什麼嗎? 為樹澆水的建議。在一棵樹被種植下去之後,它的根仍留 歐文:那古拉。班森那古拉。 在球根裡,球根會乾得非常快,所以必須將水澆在球根和 伊莎貝爾: 其周圍。就一棵已穩固的樹而言,水量通常視土壤與氣候 歐文: N-A-G-U-L-A 。 而定。有些種類的土壤較其他種類的土壤更加保水。且水 (A) 你能清楚聽見我說的話嗎? 在寒冷的季節時,能在土壤裡留存得比在炎熱季節時來得 (B) 你能拼出來嗎? 久。 (C) 你能請他等一下嗎?"
+    },
+    {
+      "id": "MOCK_101_1_ENG_023",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Man: Can I try on this jacket? Woman: But, there are several people waiting. Man: What a long line!",
+      "image_url": "",
+      "options": [
+        "Sorry! I can’t fit into this shirt.",
+        "Sorry! I don’t work at this shop.",
+        "Sure! It is on big sale today.",
+        "Sure! Our fitting room is over there."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "男士:嗨!我可以試穿這件夾克嗎? is 省略,故選 (D) 女士: 但是有幾個人正在等。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_024",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Henry: Did you enjoy David Copperfield’s magic show? Jack: Of course. His magic tricks were so exciting. Henry: I wish I were there too. I am a big fan of his.",
+      "image_url": "",
+      "options": [
+        "That was really impressive.",
+        "It depends on what you like.",
+        "It wasn’t worth the money.",
+        "I really wish him success."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "亨利:你喜歡大衛考伯菲的魔術表演嗎? 上看到它。據說吉普車是於大約 70 年前由賓西法尼亞州 傑克:當然。 他的魔術表演真令人興 的美國班譚汽車公司所發明的。 1940 年時,該公司只花 奮。 了幾天的時間就完成了第一個完整的吉普車設計。在第一 亨利:真希望我也在那裡,我是他的粉絲。 個設計完成之後,第一輛吉普車在大約 40 天之後被生產 (A) 那真是令人印象深刻。 出來。二次大戰期間,吉普車甚至被形容為最強大的武器 (B) 這取決於你喜歡什麼。 之一,不只能夠載運武器,還能運送傷兵。當時吉普車被 (C) 這不值這個金額。 大量運用在許多重要的軍事用途上。 (D) 我真希望他能成功。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_025",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Woman: Hi, sir. I’ve made a reservation. My name is Jennifer Kuan. Man: Good morning, Ms. Kuan. Do you have any room preferences? Woman: Man: No problem! There is still one room available there and you can have it.",
+      "image_url": "",
+      "options": [
+        "Would you like a window seat?",
+        "Do you know any great place to have fun?",
+        "Can I have a room by the river?",
+        "Should we make a booking earlier? 三、綜合測驗 說明:以下三篇短文,共有 15 格空格,為第 26 ~ 40 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 26 至 30 題,請依短文文意,選出一個最適合該空格的答案。 As the global population is growing, the world food production will have to rise largely to meet the global demand. The United Nations 26 that by 2050 we will need at least 70 percent more food than 27 today. In other words, human beings will need 28 meat, grains, and vegetables by then. However, a serious problem is that much of the land in the world has been highly degraded. 29 poor soil quality and limited water resources, 30 food production in these areas can be difficult. It has thus become a high priority for many countries to identify ways to solve the world food problem."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "女士:嗨,先生,我有預約,我的名字是珍妮佛.關。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_026",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". The United Nations ____ that by 2050 we will need at least 70 percent more food than 27 today.",
+      "image_url": "",
+      "options": [
+        "determine",
+        "estimate",
+        "object",
+        "doubt"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "(A) 決定 (B) 估計 (C) 反對 (D) 懷疑 引起胃出血。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_027",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". The United Nations 26 that by 2050 we will need at least 70 percent more food than ____ today.",
+      "image_url": "",
+      "options": [
+        "how much do we need",
+        "we need how much",
+        "how much we need",
+        "how we need much"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "此句為間接問句的句型:主要子句 + 疑問詞 + 主詞 +( 助 因為阿斯匹靈有副作用,了解誰應該避免服用阿斯匹 動詞 ) 動詞,故選 (C) 靈是很重要的。孕婦和有出血症狀者不應服用阿斯匹靈,"
+    },
+    {
+      "id": "MOCK_101_1_ENG_028",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". In other words, human beings will need ____ meat, grains, and vegetables by then.",
+      "image_url": "",
+      "options": [
+        "very more",
+        "very less",
+        "much less",
+        "much more"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "由文意知道應填入「更多」,又修飾形容詞的比較級 因為會對他們造成傷害。非上述兩種情形的人,可向醫生 時,應用副詞 much,故選 (D) 諮詢以了解阿斯匹靈對他們而言是否為適當的治療藥物。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_029",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". ____ poor soil quality and limited water resources, 30 food production in these areas can be difficult.",
+      "image_url": "",
+      "options": [
+        "According to",
+        "Owing to",
+        "Except for",
+        "In order to"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "(A) 根據 (B) 由於 (C) 除了...以外 (D) 為了 苷"
+    },
+    {
+      "id": "MOCK_101_1_ENG_030",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". 29 poor soil quality and limited water resources, ____ food production in these areas can be difficult.",
+      "image_url": "",
+      "options": [
+        "increasing",
+        "increase",
+        "for increasing",
+        "to increasing"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "現在分詞 (increasing) 接受詞 (food production) 做為主要 101-1 共同考科 英文 (A) 它是一種可在阿斯匹靈中發現的活性化學成份。 (D) 雪融化後能夠飲用 (B) 它存在於柳樹皮和樹葉中。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_031",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". It is a very important lesson for tree planters to learn ____ to water trees.",
+      "image_url": "",
+      "options": [
+        "what",
+        "when",
+        "how",
+        "why"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "由文意得知為「學習如何澆水」,故選 (C) (D) 你能告訴我他的電話號碼嗎?"
+    },
+    {
+      "id": "MOCK_101_1_ENG_032",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". The Vacaville Tree Foundation, a volunteer group ____ in the United States, shares some advice for watering trees.",
+      "image_url": "",
+      "options": [
+        "base",
+        "to base",
+        "basing",
+        "based"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "原句空格為 which is based, 可將關代 which 和 be 動詞"
+    },
+    {
+      "id": "MOCK_101_1_ENG_033",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". After a tree ____, its roots still stay in the root ball which may get dry very fast.",
+      "image_url": "",
+      "options": [
+        "plants",
+        "is planting",
+        "has planted",
+        "is planted"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "此空格應填入現在簡單被動式,故選 (D) 男士:好長的隊伍!"
+    },
+    {
+      "id": "MOCK_101_1_ENG_034",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". For a well-established tree, the amount of water usually ____ the soil and the climate.",
+      "image_url": "",
+      "options": [
+        "depends on",
+        "gets over",
+        "puts down",
+        "looks forward to"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "(A) 視...而定 (B) 克服 (C) 放下 (D) 期待 (A) 抱歉!這件襯衫我穿不下。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_035",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". Some soils are better ____ water than others.",
+      "image_url": "",
+      "options": [
+        "to hold",
+        "at holding",
+        "with holding",
+        "on holding ▲ 下篇短文共有 5 個空格,為第 36 至 40 題,請依短文文意,選出一個最適合該空格的答案。 Jeep is one of the most famous vehicles in the world. It can be found on the streets very often. It 36 that jeep was first invented in the state of Pennsylvania 37 the American Bantam Car Company about seventy years ago. In 1940, it only took the company a few days 38 the first complete design of jeeps. Once the first design was completed, the first jeep was produced about forty days later. In World War II, jeep was even described as one of 39 weapons that could carry 40 weapons 40 wounded soldiers. It was used largely for many important military purposes at that time."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "片語 be better at,且後面應接動名詞,故選 (B) (B) 抱歉!我不在這間店裡上班。 Question 36-40 (C) 當然!今天在大特價。 (D) 當然!我們的試衣間在那邊。 吉普車是全球最有名的車子之一,我們常常可以在路"
+    },
+    {
+      "id": "MOCK_101_1_ENG_036",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". It ____ that jeep was first invented in the state of Pennsylvania 37 the American Bantam Car Company about seventy years ago.",
+      "image_url": "",
+      "options": [
+        "says",
+        "is saying",
+        "is said",
+        "has said"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_037",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". It 36 that jeep was first invented in the state of Pennsylvania ____ the American Bantam Car Company about seventy years ago.",
+      "image_url": "",
+      "options": [
+        "by",
+        "with",
+        "on",
+        "at"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_038",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". In 1940, it only took the company a few days ____ the first complete design of jeeps.",
+      "image_url": "",
+      "options": [
+        "create",
+        "to create",
+        "creating",
+        "on creating"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_039",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". In World War II, jeep was even described as one of ____ weapons that could carry 40 weapons 40 wounded soldiers.",
+      "image_url": "",
+      "options": [
+        "very more powerful",
+        "the less powerful",
+        "most powerful",
+        "the most powerful"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_040",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": ". In World War II, jeep was even described as one of 39 weapons that could carry ____ weapons 40 wounded soldiers.",
+      "image_url": "",
+      "options": [
+        "such...that",
+        "not only...but also",
+        "so...that",
+        "neither...nor"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-1-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_1_ENG_041",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Which of the following statements about salicin is NOT true?",
+      "image_url": "",
+      "options": [
+        "It is an active chemical that can be found in aspirin.",
+        "It exists in willow barks and leaves.",
+        "It was an old name for aspirin before.",
+        "It can help lessen pain and aches."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "下列何項有關水楊 的敘述不正確?"
+    },
+    {
+      "id": "MOCK_101_1_ENG_042",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "In paragraph two, the word inhibiting can be replaced by “.”",
+      "image_url": "",
+      "options": [
+        "measuring",
+        "blocking",
+        "producing",
+        "improving"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "在第二段中, inhibiting 一字可用 來替換。 (C) 如何在雪季時保持安全 (A) 測量 (B) 阻止;限制 (C) 生產 (D) 改善 (D) 有關雪的重要事實"
+    },
+    {
+      "id": "MOCK_101_1_ENG_043",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "In paragraph three, the word it refers to.",
+      "image_url": "",
+      "options": [
+        "aspirin",
+        "one of the bleeding disorders",
+        "pregnancy",
+        "one of aspirin’s side effects"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "在第三段中, it 一字所指的是 。 (A) 阿斯匹靈 (B) 出血症狀 (C) 懷孕 (D) 副作用"
+    },
+    {
+      "id": "MOCK_101_1_ENG_044",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "According to the passage, which of the following is NOT true?",
+      "image_url": "",
+      "options": [
+        "It is important to understand when and how to take aspirin.",
+        "Prostaglandins act like chemical messengers in human body.",
+        "Doctors may advise patients to take aspirin to cure stomach bleeding.",
+        "Pregnant women should avoid any aspirin intake."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據本文,下列何者錯誤? (A) 了解何時、如何正確服用阿斯匹靈是很重要的。 (B) 前列腺素就像人體裡的化學訊息傳遞者。 (C) 醫生會建議病人服用阿斯匹靈來治療胃出血。 (D) 孕婦應該避免服用阿斯匹靈。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_045",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "The author talks about the negative effects of aspirin to.",
+      "image_url": "",
+      "options": [
+        "challenge people’s belief about aspirin",
+        "increase the sale of aspirin",
+        "discuss how aspirin is manufactured",
+        "warn about the risks of taking aspirin"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "作者提到阿斯匹靈的副作用,以 。 (A) 挑戰人們對阿斯匹靈的看法 (B) 增加阿斯匹靈的銷量 (C) 討論阿斯匹靈是如何製造的 (D) 警告服用阿斯匹靈的風險 Question 46-50 每年當冬天又回到北半球時,它也將雪帶回許多地方 去。在許多國家,雪在十一月左右開始落下,雪的返回對 住在這些地區的人而言,是既令人興奮又令人擔心的訊 息。 大人、小孩喜歡雪是因為雪常被用作諸多娛樂用途, 像是滑雪、滑雪板和做雪人。雪對我們的生活也非常重 要,因為雪是主要的水源,融雪成水後可為人類活動與農 作物所用。此外,雪對植物和野生動物也很有益處,新鮮 的雪通常含有許多空氣,因為空氣被困在雪中而移動得非 常慢,所以它可以防止土壤裡的熱量逸散出去,土壤裡的 熱量可以幫助靠近土地的動植物撐過寒冷的冬天。 雖然雪很重要,但也能造成危險。有些城市在雪季時 常常有比較多的交通事故,因為覆蓋了雪和冰的道路非常 濕滑;有心臟疾病的人容易在鏟雪時心臟病發作。此外, 當降雪量很大時,鐵路和航班會因此取消或延誤,人們要 到其他地方去會有困難。總結而言,無可否認雪是既好又 壞的自然現象。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_046",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "This passage discusses many things EXCEPT.",
+      "image_url": "",
+      "options": [
+        "why snowfalls are important",
+        "why people are worried about snowfalls",
+        "how snow is formed",
+        "how snowfalls may influence us"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "本文討論了許多東西,但不包括 。 (A) 為何降雪是重要的 (B) 為何人們會擔心降雪 (C) 雪是如何形成的 (D) 降雪會如何影響我們"
+    },
+    {
+      "id": "MOCK_101_1_ENG_047",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "According to the passage, which of the following is NOT true?",
+      "image_url": "",
+      "options": [
+        "Slippery roads lead to more traffic accidents in a snow season.",
+        "Trains and flights may be delayed during a heavy snowstorm.",
+        "Snow can help crops grow taller and better.",
+        "Heart attack may happen when people work in the snow."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據本文,下列何項錯誤? (A) 雪季時,濕滑的道路會導致更多的交通事故。 (B) 鐵路和航班可能因暴風雪而延誤。 (C) 雪能幫助作物長得更高、更好。 (D) 人們在雪中工作時可能發生心臟病。"
+    },
+    {
+      "id": "MOCK_101_1_ENG_048",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "In paragraph two, the word beneficial can be replaced by “.”",
+      "image_url": "",
+      "options": [
+        "profitable",
+        "harmful",
+        "responsible",
+        "successful"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "在第二段中, beneficial 一字可用 來替換。 (A) 有益的 (B) 有害的 (C) 有責任的 (D) 成功的"
+    },
+    {
+      "id": "MOCK_101_1_ENG_049",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "Snow can protect plants and animals because.",
+      "image_url": "",
+      "options": [
+        "it can help the heat of the soil stay much longer",
+        "it can offer them fresh air for survival",
+        "it can provide them with foods and nutrients",
+        "it can be drunk after it melts"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "雪能夠保護動、植物,因為 。 (A) 雪能讓土壤裡的熱留存得比較久 (B) 雪能提供新鮮的空氣,讓動、植物生存 (C) 雪能提供食物和養份"
+    },
+    {
+      "id": "MOCK_101_1_ENG_050",
+      "subject": "英文",
+      "unit": "101-1-四技二專-英文",
+      "q": "What is the best title of this passage?",
+      "image_url": "",
+      "options": [
+        "New Ways to Predict Snowstorms",
+        "Why Snow Appears White",
+        "How to Stay Safe in a Snow Season",
+        "Important Facts about Snow"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-1-四技二專-英文解析.pdf"
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "bundle_id": "MOCK_103_3_MATC",
+  "questions": [
+    {
+      "id": "MOCK_103_3_MATC_001",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "化簡 4  12  4  12 得其值為何? 3 2",
+      "image_url": "",
+      "options": [
+        "",
+        "2",
+        "",
+        "2 2 2 2   cot 1  cos 3 6"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_002",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "求二階行列式 的值為何?  2  1  sin tan 3 3 1 3 3 5",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "4 4 4 4 1"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_003",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "已知 x   1,求 x  2  的最小值為何? x  1",
+      "image_url": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_004",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "已知 k 為實數,若不等式 x  2 x  ( k  2)  0 的解為任意實數,則 k 的範圍為何?",
+      "image_url": "",
+      "options": [
+        "k  1",
+        "k  1",
+        "k   1",
+        "k   1"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_005",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "已知直線 L 和直線 3 x  2 y  1  0 互相垂直,且 L 的兩軸截距和為 1,則直線 L 會經過下列哪一 點?",
+      "image_url": "",
+      "options": [
+        "(3, 0)",
+        "(0, 2)",
+        "(2, 2)",
+        "(1,  1) 2 3 x  x  1 A B C"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_006",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "若   ,則 A  B  C ? 2 2 ( x  1)( x  2) x  1 x  2 ( x  2)",
+      "image_url": "",
+      "options": [
+        " 2",
+        "2",
+        "8",
+        "10 2 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_007",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "已知多項式 f ( ) x 除以 ( x  2) 所得之餘式為 x  1,則 [ f ( )] x 除以 ( x  2) 的餘式為何?",
+      "image_url": "",
+      "options": [
+        "9",
+        "4",
+        "3",
+        "2 2 x  2 x"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_008",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "設  、  為方程式 2  9 2   2 的二個相異解,求    ?",
+      "image_url": "",
+      "options": [
+        " 1",
+        "1",
+        "3",
+        " 3"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_009",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "如圖 ( 一 ) 所示為函數 y  f ( ) x  a  log b x 的部分圖形,其中 a 、 b 為常數,下列選項何者正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_103_3_matc/p001_1279_1487_859_1081.png",
+      "options": [
+        "a  0, b  1",
+        "a  0, b  1",
+        "a  0, 0  b  1",
+        "a  0, 0  b  1 圖 ( 一 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_010",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "已知 log 10 x   2.01,求 log 10 (100 ) x 的首數為何?",
+      "image_url": "",
+      "options": [
+        " 1",
+        "0",
+        "1",
+        "2 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_011",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "已知 y   x  3 x  k 的圖形和 x 軸交於 A 、 B 兩點,且 A 、 B 兩點的距離為 2,求 k ? 5 5 4 4",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        " 4 4 5 5"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_012",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "如圖 ( 二 ) 所示,  A  90 , AB  AC, D 為 AC 中點,設  DBC  , 求 cos 2  ? 1",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_103_3_matc/p002_356_537_920_1101.png",
+      "options": [
+        "2",
+        "2 4 3",
+        "",
+        "5 4 圖 ( 二 ) 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_013",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "y  f ( ) x   2 cos x  1,其中 0   x  120 ,設 y 的最大值為 M,最小值為 m,則 M  2 m ? 3",
+      "image_url": "",
+      "options": [
+        "",
+        "0",
+        " 1",
+        "1 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_014",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "如圖 ( 三 ) 所示,  BAC  90 , AB  9, AC  6, D 、 E 將 BC 等分成三等分,求?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_103_3_matc/p002_722_914_723_1103.png",
+      "options": [
+        "26",
+        "30",
+        "36 圖 ( 三 )",
+        "40 3 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_015",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "已知  1 、 1  i 為實係數方程式 x  ax  bx  c  0 的兩根,求 a  b  c ?",
+      "image_url": "",
+      "options": [
+        " 3",
+        "3",
+        " 1",
+        "1 1  i 6"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_016",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "化簡 ( ) 得其值為何? 3  i 1 1 1 1",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "i",
+        " i 8 8 8 8 1  3 i 19 1"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_017",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "已知 W ,求 W  19 ? 2 W",
+      "image_url": "",
+      "options": [
+        " 1",
+        "0",
+        "1",
+        "2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_018",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "某校高二學生有 800 人參加數學測驗,成績呈常態分配,如圖 ( 四 ) 所示。若平均成績   76 分, 測驗成績超過 82 分的同學有 20 人,則這次測驗分數的標準差  約為多少分?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_103_3_matc/p002_1354_1571_628_1105.png",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5 圖 ( 四 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_019",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "某校高一甲班英文考試的平均成績為 54 分,標準差為 16 分。因成績太差,老師依每位同學的 成績乘以 1.5 再加 6 分來調整成績,經調整後的平均成績為 ,標準差為 ,則 ( ,  ) ?",
+      "image_url": "",
+      "options": [
+        "(77, 24)",
+        "(87, 16)",
+        "(87, 30)",
+        "(87, 24)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_020",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "袋中有 6 個紅球、 4 個白球,今自袋中隨意抽出 2 個球,設每球被抽中的機會相等,求抽出的 2 個球為同色球的機率是多少? 6 7 8 9",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "15 15 15 15 4 1  cos "
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_021",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "已知 tan   且 sin   0,則 ? 3 sin  1 1",
+      "image_url": "",
+      "options": [
+        "2",
+        "",
+        " 2",
+        " 2 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_022",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "如圖 ( 五 ) 所示,  ABC 中,  B  60  、  C  45 , AD 平分  BAC 且交 BC 於 D 點,已知  ABD 面積為 6,求  ACD 面積為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_103_3_matc/p003_581_737_883_1109.png",
+      "options": [
+        "9",
+        "3",
+        "3 圖 ( 五 )",
+        "2 3 n 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_023",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "設 S n   a k  n  3 n,則下列何者正確? k  1",
+      "image_url": "",
+      "options": [
+        "a 1  3",
+        "a 2  10",
+        "a 9  a 10",
+        "a 8  a 10  2 a 9 2 a 8"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_024",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "已知 (2 x  ) 展開式中, x 項係數為 14,求 a ? x 1 1",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        " 2",
+        "2 2 2"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_103_3_MATC_025",
+      "subject": "數學(C)",
+      "unit": "38. 103-3-四技二專-數學(C)卷",
+      "q": "由 a 、 a 、 a 、 b 、 b 、 c 、 c 七個英文字母全取排成一列,其中三個 a 任兩個均不相鄰的排列 數共有多少?",
+      "image_url": "",
+      "options": [
+        "60",
+        "90",
+        "120",
+        "240"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "bundle_id": "MOCK_112_3_ENG",
+  "questions": [
+    {
+      "id": "MOCK_112_3_ENG_001",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "The new café in my neighborhood has quickly become a popular for breakfast.",
+      "image_url": "",
+      "options": [
+        "dot",
+        "cube",
+        "gulf",
+        "spot"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "camps; language"
+    },
+    {
+      "id": "MOCK_112_3_ENG_002",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Our school’s study program offers students opportunities to study in Australia and the USA.",
+      "image_url": "",
+      "options": [
+        "aboard",
+        "abroad",
+        "board",
+        "broad"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "學生需要遵守與父母相同的規則。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_003",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "On a cold evening, I love to curl up with a good magazine in my armchair by the fireplace.",
+      "image_url": "",
+      "options": [
+        "favorite",
+        "positive",
+        "sincere",
+        "careless"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "在寒冷的夜晚,我喜歡蜷縮在壁爐旁我 扶手 (C) 要不要一起去看看? 椅上看一本好雜誌。 (D) 山水畫如何? (A) 最喜愛的 (B) 積極的 (C) 真誠的 (D) 粗心的"
+    },
+    {
+      "id": "MOCK_112_3_ENG_004",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "The painting captures the lively nature of the city with its vivid colors and details.",
+      "image_url": "",
+      "options": [
+        "organic",
+        "extreme",
+        "intelligent",
+        "breathtaking"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "這幅 畫以其生動的色彩和細節捕捉了城市 溫迪:我喜歡做些瑜伽。你呢? 生機勃勃的自然風光。 琳達:我通常去跑步放鬆一下。 (A) 有機的 (B) 極端的 溫迪:跑步可以讓人精神煥發。 (C) 聰明的 (D) 極其美麗的 (A) 我應該找個時間試試。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_005",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Local governments rely on taxes such as land as their funding source for public services.",
+      "image_url": "",
+      "options": [
+        "property",
+        "mechanic",
+        "justice",
+        "landmark"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "地方政府依靠土地等 稅作為公共服務的資 (B) 這就是我喜歡瑜伽的原因。 金來源。 (C) 你已經熱身了嗎? (A) 房地產 (B) 機械師 (C) 正義 (D) 地標 (D) 壓力可能由跑步引起。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_006",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "I am excited to visit Japan in the summer break and the culture and cuisine.",
+      "image_url": "",
+      "options": [
+        "control",
+        "refund",
+        "explore",
+        "admit"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "我很興奮能在暑假去日本旅遊並 那裡的文"
+    },
+    {
+      "id": "MOCK_112_3_ENG_007",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "The doctor advised John to quit smoking for the sake of his health and well-being.",
+      "image_url": "",
+      "options": [
+        "traditionally",
+        "occasionally",
+        "immediately",
+        "frequently"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "醫生勸戒約翰為了他的健康和幸福著想要 查理: 戒菸。 梅:當然。我們國家燒太多煤了。 (A) 傳統地 (B) 偶爾地 (C) 立即地 (D) 頻繁地 (A) 心理保健可以造福子孫後代。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_008",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "I am considering a new hobby, like painting or playing an instrument.",
+      "image_url": "",
+      "options": [
+        "putting off",
+        "taking up",
+        "looking after",
+        "calling for"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "我正在考慮 一個新嗜好,比如繪畫或演奏樂 (B) 氣候變化可能是最緊迫的問題。 器。 (C) 精疲力盡意味著逐漸缺乏興趣。 (A) 推遲 (B) 開始學 (C) 照顧 (D) 呼喚 (D) 再生能源來自自然資源。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_009",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "The sun slowly sank behind the horizon, turning the sky into burning oranges and reds.",
+      "image_url": "",
+      "options": [
+        "drowned",
+        "drifted",
+        "drained",
+        "disappeared"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "太陽慢慢地落到地平線後面,把天空變成了火熱的橙"
+    },
+    {
+      "id": "MOCK_112_3_ENG_010",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "I am interested in learning how to code and build websites as a potential career.",
+      "image_url": "",
+      "options": [
+        "accusing",
+        "floating",
+        "challenging",
+        "promising II. 對話題 說明:第 11 至 20 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "我對學習如何編碼並建立網站作為潛在的職業感到 艾倫:我聽說有本關於科技女性回憶錄很鼓舞人心。 興趣。 溫妮: 我可能會讀一讀。 (A) 指責的 (B) 漂浮的 (A) 這聽起來很有趣。 (C) 具有挑戰性的 (D) 潛在的 (B) 回憶錄不是我的菜。 ( 我不喜歡回憶錄。 ) (C) 我很喜歡這個電影預告片。 II. 對話題 (D) 它是我最好的寫作。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_011",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Anna: More and more companies are adopting work-from-home policies. Belinda: Yes, but it doesn’t work for everyone. It’s not easy to stay motivated without a traditional office environment. Anna: I think it’s great. It has a flexible work schedule. Belinda: That’s true, but",
+      "image_url": "",
+      "options": [
+        "it’s on a bit of a timetable.",
+        "it’s practical for everyone.",
+        "it needs more self-discipline.",
+        "it’s conventional without a doubt."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "安娜:越來越多的公司正在採用在家工作的政策。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_012",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Alice: Have you heard about the new art exhibit at the museum? Joe: No, I haven’t. What’s it about? Alice: It’s a collection of modern abstract art from around the world. Joe: I’d love to!",
+      "image_url": "",
+      "options": [
+        "What is the new art exhibit about?",
+        "Do you enjoy historical sculptures?",
+        "Would you like to check it out together?",
+        "How about landscape paintings?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "愛麗絲:你有聽說博物院的新藝術展嗎? 。 喬:沒,我沒聽說。那是關於什麼的? (A) 圓點 (B) 立方體 (C) 海灣 (D) 地點 愛麗絲:它是來自世界各地的現代抽象藝術的收藏"
+    },
+    {
+      "id": "MOCK_112_3_ENG_013",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Linda: How do you usually de-stress after a long day at work? Wendy: I like to do some yoga. How about you? Linda: I usually go for a run to unwind. Wendy: Running can be so refreshing.",
+      "image_url": "",
+      "options": [
+        "I should try it sometime.",
+        "That’s why I love yoga.",
+        "Are you warming up already?",
+        "Stress can be caused by running."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "琳達:在漫長的一天工作後,你通常如何減壓?"
+    },
+    {
+      "id": "MOCK_112_3_ENG_014",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Charlie: Today’s assignment is to identify the biggest problem facing our country right now. May: I think the rising cost of living is a major one. What do you think of it? Charlie: May: Right. Our country is burning too much coal.",
+      "image_url": "",
+      "options": [
+        "Mental healthcare can benefit future generations.",
+        "Climate change can be the most pressing one.",
+        "Burning out involves developing a lack of interest.",
+        "Renewable energy is derived from natural resources."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "查理:今天的作業是查出我們國家目前面臨的最大問 化和美食。 題。 (A) 控制 (B) 退款 (C) 探索 (D) 承認 梅:我認為生活成本上升是主要問題。你怎麼看呢?"
+    },
+    {
+      "id": "MOCK_112_3_ENG_015",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Alan: Have you read any good books lately? Winnie: Yes, I just finished a detective fiction. The plot is tense. You? Alan: I heard that a memoir about a tech woman is inspiring. Winnie: I might give it a read.",
+      "image_url": "",
+      "options": [
+        "That sounds interesting.",
+        "Memoirs are not my cup of tea.",
+        "I’m keen on the movie trailer.",
+        "It is my best writing."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "艾倫:你最近讀過什麼好書嗎? 色和紅色。 溫妮:有啊,我剛剛讀完一本推理小說。劇情緊張。 (A) 溺斃 (B) 漂流 (C) 流掉 (D) 消失 你呢?"
+    },
+    {
+      "id": "MOCK_112_3_ENG_016",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Sam: The use of social media has been increasing. Nancy: I think it’s a powerful tool, but Sam: I can’t agree with you more. That’s why I try to limit my screen time. In fact, I mainly use it to keep in touch with my friends and family. Nancy: That’s a good approach.",
+      "image_url": "",
+      "options": [
+        "it can be time-consuming.",
+        "it helps users exchange ideas.",
+        "it should be limited to specific age groups.",
+        "it’s also a tool for connecting with others."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "山姆:社交媒體的使用一直在增加。 貝琳達:對啊,但它並不適用於所有人。如果沒有傳 南茜:我認為它是個強大工具,但是 統的辦公環境,要保持積極性並不容易。 山姆:我完全同意你的看法。這就是為什麼我試圖限 安娜:我覺得它很好。它有靈活的工作時間表。 制我看手機的時間。事實上,我主要用它來與我朋友 貝琳達:沒錯,但是 。 和家人保持聯繫。 (A) 它有時間的限制。 112-3 共同科目 英文 詳解 南茜:這是個好方法。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_017",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Sunny: Did you see the notice on the bulletin board? Olivia: Yes. It says a free English class will be available to all employees. Are you planning on signing up? Sunny: Great, but it’s on the same day as my dance class. Olivia: Wow,",
+      "image_url": "",
+      "options": [
+        "I can’t find information about the English class.",
+        "I have to grasp the opportunity to learn dancing.",
+        "I’m putting on a dance performance soon.",
+        "I’d love to see you dance some other day."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "珊妮:你看到佈告欄上的公告了嗎? Gyeongbokgung and Deoksugung),且需連接詞,故可 奧利維亞:有喔,它說,有一門給所有員工的免費英 以 in which 來連接前後二句, in which = where 關係副 語課。你打算報名嗎? 詞,故答案為 (D) 珊妮:很棒,但是它和我的舞蹈課是同一天。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_018",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Annie: The weather has been really nice these days. Belinda: Indeed. I’ve been going for long walks in the park and enjoying the sunshine. Annie: It’s amazing how good weather uplifts our mood. Belinda: Definitely!",
+      "image_url": "",
+      "options": [
+        "It has no impact on our mood.",
+        "It’s perfect for outdoor activities.",
+        "It is an outdoorsy place in summer.",
+        "It makes the moment much easier."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "安妮:這些天天氣真好。 (D) 創造 ( 過去式或過去分詞 ) 貝琳達:的確如此。我一直在公園裡散步,享受陽光。 此 句 考 分 詞 構 句, 原 應 為 Seoul presents endless 安妮:令人驚奇的是,好天氣可以提升我們的心情。 opportunities to explore something new, and Seoul 貝琳達:確實。 creates unforgettable memories that will last a lifetime. (A) 它對我們的情緒沒有影響。 分詞構句的改法:省略連接詞,省略相同主詞,主動 (B) 這天氣很適合戶外活動。 動詞改現在分詞,故選答案 (C) (C) 這是夏天的戶外場所。 Question 26-30 (D) 這讓這一刻變得更容易。 科技的快速進步和電子設備使用量的增加導致了電"
+    },
+    {
+      "id": "MOCK_112_3_ENG_019",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Peter: I’m thinking of redecorating my living room. Wendy: Well, it depends on your preference. What do you like? Peter: I like a modern style with clean lines. Wendy: In that case, you may use smooth furniture with bold pieces.",
+      "image_url": "",
+      "options": [
+        "What style is your living room?",
+        "How do you define your design style?",
+        "Do you have any interior design tips?",
+        "Does it have a modern look and clean lines?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "彼得:我正在考慮重新裝潢我的客廳。 子垃圾堆積的嚴重問題。電子廢棄物 ( 也稱為電子廢棄 溫迪:嗯,這取決於你的喜好。你喜歡什麼? 物 )(26) 是指任何不再使用的電子裝置或設備。這些物品 彼得:我喜歡線條簡潔的現代風格。 含有大量危險物質,如鉛、汞和其他有毒元素。 (27) 因此, 溫迪:在這種情況下,你可以使用有大膽配件光滑的 適當的電子廢棄物管理對於保護環境和公眾健康具有重 家具。 要意義。處理電子廢棄物的方法有多種,包括翻新、回 (A) 你的客廳是什麼風格? 收以及將其放入垃圾掩埋場。這些措施 (28) 不僅有助於減 (B) 你如何定義你的設計風格? 少危險廢棄物的數量, (28) 而且還提供經濟機會,因為它 (C) 你有什麼室內設計訣竅嗎? 們支持綠色技術的發展,鼓勵永續實踐的創新和投資。 (D) 它有現代的外觀和簡潔的線條嗎? 許多國家制定了嚴格的法律及 (29) 法規來控制電子廢棄"
+    },
+    {
+      "id": "MOCK_112_3_ENG_020",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Alice: My father is going to retire. He needs to find something new to do. Any suggestions? Jack: It’s a great way to record beautiful moments when he goes traveling. Alice: That’s a good idea. I’ll let him know. Jack: Great!",
+      "image_url": "",
+      "options": [
+        "How about skiing?",
+        "You may try cooking.",
+        "Photography?",
+        "Why not play drums? III. 綜合測驗 說明:以下兩篇短文,共有 10 個空格,為第 21 至 30 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 21-25 題,請依短文文意,選出一個最適合該空格的答案。 A stopover in Seoul can be turned into an unforgettable adventure. Seoul boasts 21 unique cultural and historic landmarks. Travelers can engage themselves in Korean history by visiting palaces such as Gyeongbokgung and Deoksugung, 22 they can wander through the grand halls and admire the beautiful gardens. The changing of the guard ceremony is a spectacle that has attracted global attention. For food lovers, bustling markets and street stalls like Myeongdong and Namdaemun 23 delicious bibimbap, tteokbokki, and Korean barbecue. Modern attractions include COEX Mall, trendy cafés and restaurants. A trip 24 Namsan Tower gives a stunning 360-degree view of the city, and a jjimjilbang Korean sauna provides a chance to relax. Seoul presents endless opportunities to find something new, 25 unforgettable memories that will last a lifetime. Seoul has the possibility to become a remarkable experience."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "愛麗絲:我父親要退休了。他需要找些新的事情來 物的收集、處置和回收。對個人和社區正確處置方法的 做。有什麼建議嗎? 教育及意識也很重要。 (30) 為了實現永續和更健康的環 傑克: 這是記錄他旅行時美好時刻 境,負責任的電子廢棄物處理需要每個人的共同努力。 的好方法。 讓我們現在就開始做吧! 愛麗絲:這是個好主意。我會讓他知道的。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_021",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": ". Seoul boasts ____ unique cultural and historic landmarks.",
+      "image_url": "",
+      "options": [
+        "a wave of",
+        "a range of",
+        "a set of",
+        "a round of"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?112-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_3_ENG_022",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": ". Travelers can engage themselves in Korean history by visiting palaces such as Gyeongbokgung and Deoksugung, ____ they can wander through the grand halls and admire the beautiful gardens.",
+      "image_url": "",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?112-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_3_ENG_023",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": ". For food lovers, bustling markets and street stalls like Myeongdong and Namdaemun ____ delicious bibimbap, tteokbokki, and Korean barbecue.",
+      "image_url": "",
+      "options": [
+        "offer",
+        "offers",
+        "offering",
+        "offered"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?112-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_3_ENG_024",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": ". A trip ____ Namsan Tower gives a stunning 360-degree view of the city, and a jjimjilbang Korean sauna provides a chance to relax.",
+      "image_url": "",
+      "options": [
+        "over",
+        "of",
+        "for",
+        "to"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?112-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_3_ENG_025",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": ". Seoul presents endless opportunities to find something new, ____ unforgettable memories that will last a lifetime.",
+      "image_url": "",
+      "options": [
+        "create",
+        "to create",
+        "creating",
+        "created ▲ 下篇短文共有 5 個空格,為第 26-30 題,請依短文文意,選出一個最適合該空格的答案。 The rapid progress of technology and the growing use of electronic devices have led to a serious problem of piling up electronic waste. Electronic waste (also known as e-waste) 26 any electronic device or equipment that is no longer of any use. These items contain a lot of dangerous materials such as lead, mercury, and other toxic elements. 27, proper e-waste management becomes significant to protect the environment and public health. Various methods exist for handling e-waste, including refurbishing, recycling, and placing it in landfills. These measures 28 help reduce the amount of dangerous waste 28 provide economic opportunities because they support the development of green technologies, encouraging innovation and investment in sustainable practices. Many countries have strict laws and 29 to control the collection, disposal, and recycling of e-waste. Education and awareness of proper disposal methods for individuals and communities are also important. 30 a sustainable and healthier environment, responsible e-waste management requires everyone to work together. Let’s start doing it right now!"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?112-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_3_ENG_026",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": ". Electronic waste (also known as e-waste) ____ any electronic device or equipment that is no longer of any use.",
+      "image_url": "",
+      "options": [
+        "refers to",
+        "belongs to",
+        "lives up to",
+        "gives rise to"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?112-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_3_ENG_027",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": ". ____, proper e-waste management becomes significant to protect the environment and public health.",
+      "image_url": "",
+      "options": [
+        "Instead",
+        "Moreover",
+        "Otherwise",
+        "Therefore"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?112-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_3_ENG_028",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": ". These measures ____ help reduce the amount of dangerous waste 28 provide economic opportunities because they support the development of green technologies, encouraging innovation and investment in sustainable practices.",
+      "image_url": "",
+      "options": [
+        "either; or",
+        "not; but",
+        "not just; but",
+        "neither; nor"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?112-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_3_ENG_029",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": ". Many countries have strict laws and ____ to control the collection, disposal, and recycling of e-waste.",
+      "image_url": "",
+      "options": [
+        "mechanics",
+        "cushions",
+        "regulations",
+        "situations"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?112-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_3_ENG_030",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": ". ____ a sustainable and healthier environment, responsible e-waste management requires everyone to work together.",
+      "image_url": "",
+      "options": [
+        "Achieving",
+        "To achieve",
+        "Achieved",
+        "Achieve IV. 閱讀測驗 說明:以下有四篇短文,共有 12 個題目,為第 31 至 42 題,請於閱讀短文後,選出最適當的答案 。 ▲ 閱讀下文,回答第 31-32 題 A recent study conducted in Britain suggests that attending live classical music performances can reduce stress levels. However, Spotify’s data reveals a diverse trend among the students at New York University (NYU), which reflects the music-loving atmosphere of the school. The results of the NYU Student Music Preference Survey below, ranked from highest to lowest, show the range of genres preferred by the students. 31. Based on the passage and the chart, which of the following is NOT true about the NYU students? (A) The students believe classical music can lower pressure than any other. (B) Both of the male and female students prefer pop music to jam bands. (C) A study shows classical music benefits people, but the students love it least. (D) The female students favor country music more than male students. 32. What are the top three music genres that the NYU female students enjoy? (A) Pop, Dance, and R&B (B) Pop, Dance, and Hip Hop (C) Pop, Hip Hop, and Country (D) Pop, Dance, and Country ▲ 閱讀下文,回答第 33-35 題 Vaccination is a preventive measure used to protect individuals or populations from infectious diseases. It stimulates the immune system to recognize and fight disease-causing pathogens more effectively. Despite overwhelming scientific evidence that being fully vaccinated can prevent viral infections such as COVID-19 infection, the anti-vaccination movement appears to remain a controversial issue. Even so, most people still believe that getting vaccinated is a safe and effective way to prevent the spread of diseases and has greatly contributed to public health improvements worldwide. What’s more, vaccines are usually available for free or at an affordable cost. In order to avoid the embarrassing situation (to be or not to be vaccinated), Campbells Bay School has created a table to help students and parents understand the vaccination requirements for various school activities."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?112-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_112_3_ENG_031",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Based on the passage and the chart, which of the following is NOT true about the NYU students?",
+      "image_url": "",
+      "options": [
+        "The students believe classical music can lower pressure than any other.",
+        "Both of the male and female students prefer pop music to jam bands.",
+        "A study shows classical music benefits people, but the students love it least.",
+        "The female students favor country music more than male students."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據短文和圖表,以下關於紐約大學學生的說法哪一 三方責任保險在許多國家或地區都是強制性的,它是一 項不正確? 種基本的保障形式,保護第三方個人免受損失或傷害。 (A) 學生們相信古典音樂比其他音樂更能減輕壓力。 而綜合保險提供更高程度的保護,涵蓋事故雙方,包括 (B) 男生和女生都更喜歡流行音樂勝過即興樂隊。 投保人的損失。 (C) 研究說明古典音樂對人有益,但學生最不喜歡它。 車輛保險的保費因多種因素而異。這些包括駕駛員 (D) 女學生比男學生更喜歡鄉村音樂。 的年齡和駕駛記錄、投保車輛的類型和車齡以及所需的"
+    },
+    {
+      "id": "MOCK_112_3_ENG_032",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "What are the top three music genres that the NYU female students enjoy?",
+      "image_url": "",
+      "options": [
+        "Pop, Dance, and R&B",
+        "Pop, Dance, and Hip Hop",
+        "Pop, Hip Hop, and Country",
+        "Pop, Dance, and Country ▲ 閱讀下文,回答第 33-35 題 Vaccination is a preventive measure used to protect individuals or populations from infectious diseases. It stimulates the immune system to recognize and fight disease-causing pathogens more effectively. Despite overwhelming scientific evidence that being fully vaccinated can prevent viral infections such as COVID-19 infection, the anti-vaccination movement appears to remain a controversial issue. Even so, most people still believe that getting vaccinated is a safe and effective way to prevent the spread of diseases and has greatly contributed to public health improvements worldwide. What’s more, vaccines are usually available for free or at an affordable cost. In order to avoid the embarrassing situation (to be or not to be vaccinated), Campbells Bay School has created a table to help students and parents understand the vaccination requirements for various school activities."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "紐約大學女學生最喜歡的三種音樂類型是什麼? 承保級別。具有良好駕駛歷史的駕駛員或在車輛中安裝 (A) 流行、舞曲和節奏藍調 安全功能的駕駛員可能有資格獲得較低的保費。 (B) 流行、舞曲和嘻哈 車輛保險可以適用於所有類型的機動車輛,例如汽 (C) 流行、嘻哈和鄉村 車、摩托車、吉普車和商用車,然而,很多國家,例如: (D) 流行、舞曲和鄉村 印度,已經見證到汽車、摩托車和速克達事故的持續發 Question 33-35 生。因此,在很多國家,這些車輛的第三方責任險是被 疫苗接種是一種預防措施,用於保護個人或群眾免 強調的。舉例來說,印度政府已做出保費調整措施,以 受傳染病的侵害。它刺激免疫系統更有效地識別和對抗 確保對潛在風險做好準備。進一步的訊息可以在隨附的 致病病原體。儘管有壓倒性的科學證據表明,充分接種 圖表中找到。 疫苗可以預防病毒感染,例如 COVID-19 感染,然而, 保險費 反疫苗接種似乎仍是爭議性的議題。即便如此,大多數 政府已宣布自 6 月 1 日起提高各類第三方車險保費。 人仍然相信接種疫苗是預防疾病傳播的安全有效方法, 車輛類型 為全球公共衛生改善做出了巨大貢獻。更重要的是,疫 苗通常是免費或價格實惠的。為了避免這種尷尬的情況 ( 接種或不接種疫苗 ),坎貝爾灣學校創建了一個表格,幫 助學生和家長了解學校各項活動的疫苗接種要求。 需要疫苗接種證明的活動 不需要疫苗接種證明的活動  家長在課堂或校園活動  參加學校集會 中 提 供 幫 助 ( 如 道 路 巡  參加親師座談會 邏、澆灌植物、夥伴讀  觀看體育賽事 書、幫助旅行 )  參加在校期間發生的露天  志願指導或管理球隊 課程活動 注意:"
+    },
+    {
+      "id": "MOCK_112_3_ENG_033",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Which of the following words is closest in meaning to the word “ pathogens ” used in the passage?",
+      "image_url": "",
+      "options": [
+        "gene",
+        "virus",
+        "medicine",
+        "tip"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "以下哪個詞的含義與文中使用的「病原體」一詞最接 近?"
+    },
+    {
+      "id": "MOCK_112_3_ENG_034",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Based on the information in the form, which of the following is correct?",
+      "image_url": "",
+      "options": [
+        "Tom, without proof of vaccination, can only participate in road patrol for a week.",
+        "Without proof of vaccination, Mary still can join the school’s Christmas parties.",
+        "To watch the school ball games, John is required to bring proof of vaccination.",
+        "Richard needs proof of vaccination before volunteering to coach a sports team."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據表格訊息,下列哪項是正確的? (B) 駕駛員的日常工作和汽車的顏色。 (A) 沒有疫苗接種證明,湯姆只能參加一週的道路巡 (C) 個人選擇的保險級別。 邏。 (D) 被保險車輛的類型和車齡。 (B) 沒有疫苗接種證明,瑪麗仍然可以參加學校的聖"
+    },
+    {
+      "id": "MOCK_112_3_ENG_035",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "What can be inferred from the passage and the table?",
+      "image_url": "",
+      "options": [
+        "Students at all events should have proof of vaccination.",
+        "Many people believe vaccination is safe and effective.",
+        "Anti-vaccinators fail to voice their opinions to the world.",
+        "Campbells Bay School forces its students to be vaccinated. ▲ 閱讀下文,回答第 36-37 題 Motor insurance, as the name suggests, is a type of insurance policy that gives financial protection to vehicle owners in the face of accidents, theft, damage, and related events. This insurance is vital for vehicle owners as it safeguards against unexpected circumstances and gives financial support for repairs, medical expenses, and third-party liabilities. There are two major types of motor insurance: third-party liability insurance and comprehensive insurance. Third-party liability insurance is required in many countries or areas, and it serves as a basic form of coverage, protecting third-party individuals from loss and harm. Comprehensive insurance, on the other hand, provides a higher degree of protection and covers damages to both parties involved in an accident, including the policyholder. Premiums for motor insurance vary based on several factors. These include the driver’s age and driving record, the type and age of the insured vehicle, and the desired level of insurance. Drivers with a positive driving history or those who install safety features in their vehicles may qualify for lower premiums. Motor insurance can be applied to all types of motor vehicles, such as cars, motorcycles, jeeps, and commercial vehicles. However, many countries, such as India, have witnessed a persistent occurrence of accidents involving cars, motorcycles, and scooters. As a result, in many countries, emphasis is placed on third-party liabilities for these vehicles. The government of India, for example, has made premium adjustments to ensure preparation for potential risks. Further information can be found in the accompanying chart. Insurance Premiums The government has announced an increase in the third-party motor insurance premium for various categories from June 1."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "從文中和表格可以推斷出什麼? 112-3 共同科目 英文 詳解 Question 38-42 評閱指標 飢餓行銷是一種圍繞產品或服務營造緊迫感和排他 級分 說明 性的行銷技巧。這種技術通常限制產品或服務的供應,產 4 2 個空格皆正確。 生稀缺感,從而鼓勵客戶迅速採取行動確保能取得產品或 2 僅 1 個空格正確。 服務。此一意圖旨在產品周圍製造話題。公司通常會用社 0 2 個空格皆錯誤。 群媒體平台和意見領袖行銷來協助宣傳。 飢餓行銷的幾個著名例子值得一提。 2011 年,臺灣 II. 句子重組 見證了義美厚奶茶的熱潮。在那期間,該產品獲得了消"
+    },
+    {
+      "id": "MOCK_112_3_ENG_036",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "What factors can NOT affect the premiums of motor insurance?",
+      "image_url": "",
+      "options": [
+        "A driver’s age and driving record.",
+        "A driver’s routines and the colors of the car.",
+        "The insurance level chosen by an individual.",
+        "The type and age of the insured vehicle."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "哪些因素不會影響車險的保費? (A) 基因 (B) 病毒 (C) 醫學 (D) 訣竅 (A) 駕駛員的年齡和駕駛記錄。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_037",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Which of the following statements is true based on the passage and table?",
+      "image_url": "",
+      "options": [
+        "One of the motor insurance purposes is to provide financial protection for one’s vehicles.",
+        "Comprehensive insurance protects householders from damage to property and cars.",
+        "The highest insurance premium for a car is around 1.5 times that of a motorcycle.",
+        "There are 3 types of two-wheelers insurance premium and 4 types of car insurance. ▲ 閱讀下文,回答第 38-42 題 Hunger marketing is a marketing technique that creates a sense of urgency and exclusivity around a product or service. This technique often limits the supply of a product or service to create a sense of scarcity, which encourages customers to act quickly to secure the product or service. The intention is to build up a buzz around the product, and often, companies will use social media platforms and influencer marketing to help spread the word. Several notable examples of hunger marketing are worth mentioning. In 2011, Taiwan witnessed the frenzy of Yi-Mei Thick Milk Tea. During that time, the product gained a significant amount of attention and popularity among consumers. Another example is the famous 2015 marketing campaign of Nestle’s KitKat. They presented 500 limited edition gold chocolate bars distributed to seven countries and prompted consumers to hunt down the bars in a treasure hunt across the globe. Hunger marketing makes good use of human psychological weakness that people desire things more when they are scarce. This shortage can generate a sense of urgency and the fear of missing out, motivating consumers to make a purchase. However, there are also some disadvantages to this approach. For example, if a company overestimates the demand for their products, they may be left with excess stock, which can be costly to handle. It can also lead to customers feeling angered or misled if they are not able to purchase the product they desire. In a nutshell, hunger marketing can be an effective marketing strategy for businesses to promote their products or services and make demand. It is still essential to use this technique with caution and carefully plan to ensure that it does not backfire."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據文章和表格,下列哪項陳述是正確的? 誕舞會。 (A) 汽車保險的目的之一是為車輛提供財務保障。 (C) 要觀看學校球賽,約翰必須攜帶疫苗接種證明。 (B) 綜合保險可保護住戶免受財產和汽車損壞。 (D) 理查在自願擔任運動隊教練之前需要疫苗接種證 (C) 汽車的最高保險費約為摩托車保險費的 1.5 倍。 明。 (D) 兩輪車保險費有 3 種,汽車保險費有 4 種。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_038",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "What is this passage mainly about?",
+      "image_url": "",
+      "options": [
+        "The history and development of hunger marketing",
+        "The global products and service of hunger marketing",
+        "The definition of hunger marketing and its pros and cons",
+        "The impacts of hunger marketing on consumers’ behavior"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "這篇文章主要有關於什麼? 標點錯誤。 (A) 飢餓行銷的歷史與發展 (B) 飢餓行銷的全球產品與服務 (1) 半數字詞組合正確,但有拼字、字詞增減或 (C) 飢餓行銷的定義及其優缺點 1 標點錯誤。 (2) 少數字詞組合正確,且無拼字、字詞增減或 (D) 飢餓行銷對消費者行為的影響 標點錯誤。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_039",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "According to the passage, which is a potential disadvantage of hunger marketing?",
+      "image_url": "",
+      "options": [
+        "Higher prices due to limited supply",
+        "Overexposure of a product or service",
+        "Excess stock because of overrated demand",
+        "Lower profit margins due to high demand"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據文章,哪一個是飢餓行銷的潛在缺點? (A) 供應有限導致價格上漲 (1) 少數字詞組合正確,但有拼字、字詞增減或 (B) 產品或服務的過度曝光 標點錯誤。 (C) 由於需求被高估而庫存過剩 0 (2) 所有字詞組合錯誤。 (D) 由於需求旺盛,利潤率下降 (3) 只抄引導文字、題目或其他試題。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_040",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "How can businesses ensure that hunger marketing does not have negative consequences?",
+      "image_url": "",
+      "options": [
+        "Plan the technique carefully and employ it with caution.",
+        "Raise the price of the product or service to enhance demand.",
+        "Increase amounts of the product to guarantee its consistent supply.",
+        "Avoid using traditional marketing techniques like print advertising."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "企業應該如何確保飢餓行銷不會產生負面後果? (4) 空白 ( 未書寫文字 ) 。 (A) 仔細規劃該技巧並謹慎執行。 III. 中譯英 (B) 提高產品或服務的價格以增加需求。 (C) 增加產品數量以保證其持續供應。"
+    },
+    {
+      "id": "MOCK_112_3_ENG_041",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Which statement is true about hunger marketing?",
+      "image_url": "",
+      "options": [
+        "Its limited product availability may annoy customers.",
+        "It relies on giveaways to promote a product or service.",
+        "It is a long-term strategy to build up customer loyalty.",
+        "It will make products easily accessible to all consumers."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "關於飢餓行銷,哪種說法是正確的? groceries on her way home from work (getting off work). (A) 其有限的產品供應可能會惹惱顧客。 (B) 它依賴贈品來推廣產品或服務。 評閱指標 (C) 它是一個用以建立客戶忠誠度的長期策略。 級分 說明 (D) 它讓所有消費者都能輕鬆獲得產品。 能充分表達原文題意,文法、標點正確,用字 4"
+    },
+    {
+      "id": "MOCK_112_3_ENG_042",
+      "subject": "英文",
+      "unit": "112-3-四技二專-00共同科目 英文",
+      "q": "Which of the following is NOT an example of hunger marketing?",
+      "image_url": "",
+      "options": [
+        "Disney’s practice of putting certain movies into the “Disney Vault” for a short time.",
+        "Nike and Adidas often release limited-edition sneakers with restricted availability.",
+        "The streetwear brand Supreme released only a narrow quantity of their products.",
+        "McDonald’s products are easily recognizable and consistent across locations. 二、非選擇題 ( 第 I 題,每格 2 分,共 4 分;第 II 題 6 分;第 III 題 6 分;共 16 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "以下哪項不是飢餓行銷的例子? 遣詞沒有不當之處。 (A) 迪士尼將某些電影限時放入「迪士尼金庫」的做 能適切表達原文題意,文法、標點、用字遣詞 3 法。 僅有少數不當之處。 (B) 耐吉和愛迪達斯經常發布限量版運動鞋,但供應 僅能部分表達原文題意,文法、標點、用字遣 2 數量有限。 詞有多處失當之處。 (C) 街頭服飾品牌 Supreme 僅發行了少量產品。 無法表達原文題意,文法、標點、用字遣詞僅 1 (D) 麥當勞的產品易於識別並且在不同地點保持一 有少數正確之處。 致。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 二、非選擇題 0 (3) 只抄題目或其他試題。 I. 填充 (4) 內容完全離題或錯誤。"
+    }
+  ]
+}

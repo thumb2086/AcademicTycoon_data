@@ -1,0 +1,677 @@
+{
+  "bundle_id": "MOCK_110_3_ENG",
+  "questions": [
+    {
+      "id": "MOCK_110_3_ENG_001",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Tom’s is to be a professional pianist, so he practices hard every day.",
+      "image_url": "",
+      "options": [
+        "emotion",
+        "exhibition",
+        "addition",
+        "ambition"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "technicians; ability 評閱指標 級分 說明 4 2 個空格皆正確。 2 僅 1 個空格正確。 0 2 個空格皆錯誤。 II. 句子重組"
+    },
+    {
+      "id": "MOCK_110_3_ENG_002",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "We have to be very and clear about what we do, think or say.",
+      "image_url": "",
+      "options": [
+        "colorful",
+        "careful",
+        "harmful",
+        "dreadful"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "sadness and a loss of / that you once enjoyed / Unhappiness causes / a feeling of / interest in activities 解答: Unhappiness causes a feeling of sadness and a loss of interest in activities that you once enjoyed. 評閱指標 級分 說明 所有字詞組合正確,且拼字、大小寫及標點均 4 無誤。 (1) 所有字詞組合正確,但有拼字、字詞增減或 標點錯誤。 3 (2) 多數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 多數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 2 (2) 半數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 半數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 1 (2) 少數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 少數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 0 (2) 所有字詞組合錯誤。 (3) 只抄引導文字、題目或其他試題。 (4) 空白 ( 未書寫文字 ) 。 III. 中譯英"
+    },
+    {
+      "id": "MOCK_110_3_ENG_003",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Urban planners continuously with the problem of how to manage the project at the meeting.",
+      "image_url": "",
+      "options": [
+        "share",
+        "discuss",
+        "struggle",
+        "compete"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "你應該走出舒適圈,面對新的挑戰。 解答: You should (ought to) get out (walk / step out) of your (the) comfort zone and face (be faced with) new challenges (a new challenge). 評閱指標 級分 說明 能充分表達原文題意,文法、標點正確,用字 4 遣詞沒有不當之處。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_004",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Professor Chang has been busy, so she has to budget her time beforehand.",
+      "image_url": "",
+      "options": [
+        "humbly",
+        "lately",
+        "terribly",
+        "barely"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "張教授一直是 忙碌,所以她都必須事前安排 麥克:好的。 好時間。 (A) 我們的議程很滿 (A) 謙卑地 (B) 最近地 (C) 非常地 (D) 勉強地 (B) 我們可以處理它"
+    },
+    {
+      "id": "MOCK_110_3_ENG_005",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "If you store personal information in an electronic, please make sure it is not hacked.",
+      "image_url": "",
+      "options": [
+        "system",
+        "mall",
+        "alarm",
+        "bowl"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "如果你將個人信息存儲在電子 中,請確保它 (C) 我們需要時間和金錢 不被駭客入侵。 (D) 我們要工具 (A) 系統 (B) 商場 (C) 警報 (D) 碗"
+    },
+    {
+      "id": "MOCK_110_3_ENG_006",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "After the meeting, each attendee can pick up a gift at the desk on the way out.",
+      "image_url": "",
+      "options": [
+        "rotten",
+        "front",
+        "medical",
+        "accurate"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "會議結束後,每位與會者離開時可以在 桌子 亨利:實際上,蔓蒂已經印了 50 份。 領取一份禮物。 蕾秋:那太好了。哦,對,還有一件事 (A) 腐爛的 (B) 前面的 (front desk 服務臺 ) 亨利:沒問題。 (C) 醫療的 (D) 準確的 (A) 我有打包袋。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_007",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Emily was and still when she found that her best friend had lied to her.",
+      "image_url": "",
+      "options": [
+        "silent",
+        "rough",
+        "raw",
+        "vacant"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "當艾蜜莉發現她最好的朋友一直都對她撒謊,她 (B) 也準備一些飲料及點心。 不語。 (C) 我都完成了。 (A) 沉默的 (B) 粗糙的 (C) 生的 (D) 空的 (D) 明天會更好。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_008",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "A good language learner does not the structures of his or her mother tongue too much to produce sentences.",
+      "image_url": "",
+      "options": [
+        "take off",
+        "make up",
+        "look after",
+        "rely on"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "好的語言學習者不會過分 他或她的母語結"
+    },
+    {
+      "id": "MOCK_110_3_ENG_009",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "After a work accident, Bach, unlike his colleague, survived another ten years after the operation.",
+      "image_url": "",
+      "options": [
+        "survivor",
+        "neighbor",
+        "co-worker",
+        "investor"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "工傷事故後,不同於他的同事,巴赫在手術後多活了 梅:哇! 十年。 (A) 我想拿到一份副本。 (A) 倖存者 (B) 鄰居 (C) 同事 (D) 投資人 (B) 我們一起來評分吧!"
+    },
+    {
+      "id": "MOCK_110_3_ENG_010",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Most people believe that the effective way to battle the flu is to get vaccinated as soon as possible.",
+      "image_url": "",
+      "options": [
+        "come across",
+        "fight against",
+        "burn out",
+        "tell apart II. 對話題 說明:第 11 至 20 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "大多數人相信對抗流感的有效方法是盡快接種疫苗。 (C) 《評論》每年出版一次。 (A) 巧遇 (B) 對抗 (C) 燒壞 (D) 分開 (D) ( 你 ) 購買前先閱讀它們。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_011",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Clerk: Welcome to Fair Electronics. What can I do for you? Customer: I bought a digital camera last Friday from your store, but it doesn’t work when I wanted to use it today. Clerk: Can I take a look at the camera? Customer:",
+      "image_url": "",
+      "options": [
+        "Thank you for asking.",
+        "I forgot to bring the receipt.",
+        "There you go.",
+        "This is for your reference."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "店員:歡迎來到美好電器行。我能為您效勞嗎? 溫蒂: 想趕上飛機,你就得快點。 顧客:我上週五在你們店裡買了一台數位相機,但是 凱特:放心啦!剛廣播我們的航班延誤了。 我今天要使用時,它不能用。 (A) 為什麼不先喝杯咖啡呢? 店員:我可以看看相機嗎? (B) 欲速則不達。 顧客: (C) 我確實帶了一件隨身行李。 (A) 謝謝你的問候。 (B) 我忘記帶收據。 (D) 好多人正在那邊排隊。 (C) 給你。 (D) 這供您參考。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_012",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Betty: Mr. Huang wants to make a reservation for two single rooms for Friday. Nancy: Oh, no. Our hotel has been all booked up except the one with a twin bed. Betty: Is it okay to suggest it to Mr. Huang? Nancy: Mr. Huang is our regular customer. I think he’ll understand. Also,.",
+      "image_url": "",
+      "options": [
+        "he can try freeing up some rooms",
+        "Wi-Fi is not available in all rooms",
+        "single rooms are better",
+        "we can serve them free breakfast"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "貝蒂:黃先生要訂週五兩間單人房。 布雷克:謝謝。接著,我們需要一起將清單縮到 10 南希:哦,不會吧。我們的飯店都已經訂滿了,除了 110-3 共同科目 英文 詳解 位名額,但是 在完成式 have / has + pp,又「世界能源理事會」所做 雪倫:這週六如何? 的事,不須用被動式,故答案選 (C) 布雷克:可以。十點在辦公室見。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_013",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Wanda: We have to do all the blood tests by the end of this month. Michael: I don’t think. Wanda: No worries. Dr. Wang has phoned the M hospital for help. Take some of the samples there. Michael: Sure thing.",
+      "image_url": "",
+      "options": [
+        "we have a tight schedule",
+        "we can handle that",
+        "we need time and money",
+        "we want tools"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "汪達:我們必須在本月底之前完成所有血液測試。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_014",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Rachael: Please make enough copies of the material for tomorrow’s meeting. Henry: Actually, Mandy has made 50 copies. Rachael: That’s great. Oh yes, one more thing. Henry: No problem.",
+      "image_url": "",
+      "options": [
+        "I have some doggy bags.",
+        "Prepare some drinks and desserts, too.",
+        "I’m all done with it.",
+        "Tomorrow will be better."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "蕾秋:明天會議資料,麻煩準備足夠份數。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_015",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Jessie: Did you read the reviews in the magazine yesterday? May: Nope. What is it about? Jessie: Our restaurant got a perfect four stars. That’s wonderful! May: Wow!",
+      "image_url": "",
+      "options": [
+        "I want to get my hands on a copy.",
+        "Let’s rate it together!",
+        "Reviews is published once a year.",
+        "Read them before a purchase."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "潔西:你看到昨天雜誌上的評論了嗎? 構來造句。 梅:沒,那是什麼? (A) 起飛 (B) 彌補 (C) 照顧 (D) 依賴 潔西:我們的餐廳得到了完美的四顆星。太棒了!"
+    },
+    {
+      "id": "MOCK_110_3_ENG_016",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Wendy: Kate, you haven’t checked in your luggage, have you? Kate: Not yet! I just finished a phone call with Thomas. Wendy: You have to hurry up if you want to catch the flight. Kate: Take it easy! It’s just broadcast our flight’s delayed.",
+      "image_url": "",
+      "options": [
+        "Why not have a cup of coffee first?",
+        "More haste, less speed.",
+        "I do bring a carry-on bag.",
+        "Many people are lining up there."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "溫蒂:凱特,你還沒托運你的行李,對吧? II. 對話題 凱特:還沒有!我剛剛和湯瑪士通完電話。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_017",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Sharon: I’ve sent you a list of candidates for the R&D positions. Black: Thank you. Next, we need to narrow the list down to 10 together, but Sharon: How about this Saturday? Black: Sure. I’ll see you in the office at 10.",
+      "image_url": "",
+      "options": [
+        "I’ll be busy all day tomorrow.",
+        "you have to finalize it.",
+        "there is only one position.",
+        "I’m calling to see when."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "雪倫:我已經寄給你一份研發職位候選人名單。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_018",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Annie: I just shot a video, but I don’t know how to add the background music onto it. Miller: Annie: For sure, but I need it to be done by Friday. Miller: Here is a business card. You may try it.",
+      "image_url": "",
+      "options": [
+        "I like the background music most.",
+        "Get someone to help you with this job.",
+        "Can you or someone do it for me?",
+        "Thank you for marketing the video."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "安妮:我剛拍了一支影片,但我不知道如何加上背景"
+    },
+    {
+      "id": "MOCK_110_3_ENG_019",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Susi: Over 170? Wow, your blood pressure is too high! You have to change your diet. Ben: Um. Susi: I know, but you have to. At least, for me! Ben: Okay, okay. Anything you say, darling.",
+      "image_url": "",
+      "options": [
+        "That won’t be easy.",
+        "A deal is a deal.",
+        "I guess you are right.",
+        "I’ll eat less and exercise more."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "蘇西:超過 170?哇,你的血壓太高了!你必須改變 體帶來很大的壓力,在大多數情況下,如果沒有繫上安 你的飲食。 全帶, (27) 此重壓就會造成嚴重的傷害。根據統計,在車 班:嗯, 禍中 (28) 喪生的人中有一半以上在事故發生時沒有受到 蘇西:我知道,但你必須這樣做。至少為了我! 束縛 ─ 就是沒有扣好安全帶。是安全帶可以將你固定 班:好,好。親愛的,都聽你的。 在 (29) 在適當的位置上,以幫助確保你的安全。此外,如 (A) 這並不容易。 果你發生車禍有繫上安全帶,你可以得到條款保護, (30) (B) 一言為定。 相反地,如果你沒有繫,你將不會獲得任何賠償金來彌 (C) 我想你是對的。 補你的損失。因此,不要因為麻煩或任何其他原因而拒 (D) 我會少吃多運動。 絕繫安全帶。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_020",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Alan: I’m planning to build a basketball court for our community, but. Denny: It is necessary to ask for donations. Alan: Right! I hope you can help me with the project. Danny: Let’s visit the local business owners first.",
+      "image_url": "",
+      "options": [
+        "we need to plant some trees",
+        "I’ve received some grants",
+        "I’m still short of funds",
+        "it is a nice community III. 綜合測驗 說明:以下兩篇短文,共有 10 個空格,為第 21 至 30 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 21-25 題,請依短文文意,選出一個最適合該空格的答案。 Energy is so important in our daily lives that its outlook is being paid close attention. In fact, the World Energy Council 21 the workable supply and use of energy for the greatest benefit of all people since 1933. The council then released a report, presenting statistics for reserves and production of 22 resources at the global level. This report focused on proven reserves that are 23 accessible, and can be extracted at economically feasible prices. It also examined the growing nature of the energy mix in countries worldwide and emphasized current energy sources and technologies. 24, World Energy Resources, the very valuable publication of the World Energy Council, records their work. This report is issued every three years and put out at each global energy meeting, that is, the World Energy Congress. It particularly offers a lot of important global views 25 twelve major resources. This highly regarded publication is a needed tool for governments, industry, investors, non-profit organizations and university circles. 註: the World Energy Council ( 世界能源理事會 )"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "艾倫:我打算為我們的社區建造個籃球場,但是"
+    },
+    {
+      "id": "MOCK_110_3_ENG_021",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": ". In fact, the World Energy Council ____ the workable supply and use of energy for the greatest benefit of all people since 1933.",
+      "image_url": "",
+      "options": [
+        "promotes",
+        "promoted",
+        "has promoted",
+        "has been promoted"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "promote (v.) 促進,句子中的 since + 時間,用來表示 (A) 李老師 (B) 艾倫 (C) 韓傑森 (D) 布拉德先生 這動作已經持續了一段時間,因此動詞部分需使用現"
+    },
+    {
+      "id": "MOCK_110_3_ENG_022",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": ". The council then released a report, presenting statistics for reserves and production of ____ resources at the global level.",
+      "image_url": "",
+      "options": [
+        "vary",
+        "various",
+        "variety",
+        "variation"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_023",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": ". This report focused on proven reserves that are ____ accessible, and can be extracted at economically feasible prices.",
+      "image_url": "",
+      "options": [
+        "spiritually",
+        "morally",
+        "physically",
+        "racially"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_024",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": ". ____, World Energy Resources, the very valuable publication of the World Energy Council, records their work.",
+      "image_url": "",
+      "options": [
+        "Actually",
+        "Likewise",
+        "Rather",
+        "Nevertheless"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_025",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": ". It particularly offers a lot of important global views ____ twelve major resources.",
+      "image_url": "",
+      "options": [
+        "within",
+        "at",
+        "on",
+        "for"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_026",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": ". The seat belt locks you up in the seat from ____ through the wind shield or hitting any objects in a car when an accident occurs.",
+      "image_url": "",
+      "options": [
+        "rushing",
+        "flashing",
+        "blowing",
+        "leaping"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_027",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": ". The G-force at levels, equivalent to many tons, puts large stresses on the body, ____ cause serious injuries in the absence of wearing the seat belts in most cases.",
+      "image_url": "",
+      "options": [
+        "but",
+        "which",
+        "who",
+        "while"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "造成嚴重傷害的是施加在身體的重壓,此空格前缺少 丹尼:有必要要求捐款。 連接詞及主詞「重壓」 (stresses),故選擇關代 which, 艾倫:沒錯!我希望你能幫我完成這個計畫。 以補充說明,所以答案選 (B) 丹尼:咱們先去拜訪當地的企業主。"
+    },
+    {
+      "id": "MOCK_110_3_ENG_028",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": ". According to statistics, more than half of the people ____ in car crashes were not restrained at the time of the crash ‒ they did not buckle their seat belts.",
+      "image_url": "",
+      "options": [
+        "to kill",
+        "kill",
+        "killing",
+        "killed"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_029",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": ". It is the seat belt that can keep you ____ to help ensure your safety.",
+      "image_url": "",
+      "options": [
+        "in place",
+        "at hand",
+        "by the time",
+        "over the top"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_030",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": ". ____, if you are not, you won’t get any claim money to cover your loss.",
+      "image_url": "",
+      "options": [
+        "From time to time",
+        "As a result",
+        "On the contrary",
+        "After all IV. 閱讀測驗 說明:以下有三篇短文,共有 12 個題目,為第 31 至 42 題,請於閱讀短文後,選出最適當的答案 。 ▲ 閱讀以下郵件,回答第 31-33 題 Upcoming English Course Jason Han <1074350@gms.tku.edu.tw> Nov 10, 2021, 1:08 PM (2 days ago) Dear Ms. Lee, This is Jason Han, a new instructor at school. Mr. Brad’s secretary, Ellen, recommended you to me for consulting your teaching experience of the after-school program. I am going to be teaching an English class opening up soon, similar to yours last semester. To be honest, I have only three days to prepare ‒ It starts on Nov. 13. I typically have been responsible for compiling content for math classes and teaching it, but not so much for English classes. I am wondering if you can spare some time to talk with me about the course. All the best, Jason 31. Who is the recipient of the email? (A) Ms. Lee (B) Ellen (C) Jason Han (D) Mr. Brad 32. Why does Jason Han ask Ms. Lee for her advice? (A) He does not want to be responsible for the program. (B) He has no experience in teaching math. (C) He thinks he needs to learn English well. (D) He does not really know how to teach English."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_031",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Who is the recipient of the email?",
+      "image_url": "",
+      "options": [
+        "Ms. Lee",
+        "Ellen",
+        "Jason Han",
+        "Mr. Brad"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_032",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Why does Jason Han ask Ms. Lee for her advice?",
+      "image_url": "",
+      "options": [
+        "He does not want to be responsible for the program.",
+        "He has no experience in teaching math.",
+        "He thinks he needs to learn English well.",
+        "He does not really know how to teach English."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_033",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "When was the email sent?",
+      "image_url": "",
+      "options": [
+        "Nov. 8, 2021",
+        "Nov. 10, 2021",
+        "Nov. 12, 2021",
+        "Nov. 13, 2021 ▲ 閱讀下文,回答第 34-38 題 When we were young, adults always said: “Do good to others and good will come back to you.” Is it true or merely a saying? Let’s see what people said. I am a Japanese college student. Few years ago, I went to Negros Island, Philippines as a “Habitat for Humanity” volunteer. I was assigned to build a house with many people from different countries, including Filipinos, Americans, Indians, and Koreans. The mission was tough! However, on the last day, when all of us stood in front of the house we had built, a sense of fulfillment just came to us. From the task, besides the “ exotic bond ” with foreign friends, I learned a sense of goodwill: the locals value everything in life; they generously offered food, space, and hearts in a way that I was unfamiliar with, and so on. These are often forgotten in a wealthy country like Japan. In this materialistic world, being good to others is dangerous sometimes. I remembered once when I kindly gave the directions to a stranger, unfortunately, in return he almost kidnapped me. From then on, I knew I might be kind to my friends or family, but not to others. I am a homemaker. Last Friday afternoon, when I was waiting for a bus, I saw a baby crying in her mother’s lap. I did not know the baby nor the young mother, but I went to them, making the baby smile. I could find the mother’s anxiety faded away instantly. She gifted me a smile with a hearty “thank you.” That moment made me content and happy. With joy, I returned home and shared the story with my family. After listening to my roadside incident, my family wore a smile as the beautiful one on the baby’s face that gave each of us the dopamine power! Doing good may give a certain degree of satisfaction and benefits to the doer, but it is not guaranteed “what goes around comes around.” Nevertheless, once we have done it, we shall make a difference to the world."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "此封電子郵件何時發送? (B) 艾曼達和但丁對做好事有不同的看法。 (A) 2021 年 11 月 8 日 (C) 但丁同意做好事會帶來滿足和好處。 (B) 2021 年 11 月 10 日 (D) 作者相信行善可以改變世界。 (C) 2021 年 11 月 12 日"
+    },
+    {
+      "id": "MOCK_110_3_ENG_034",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "What does this passage mainly discuss?",
+      "image_url": "",
+      "options": [
+        "Doing a good job at work.",
+        "Experiences of volunteering.",
+        "The value of life for modern people.",
+        "The opinions of doing good."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "這篇文章主要在討論什麼?"
+    },
+    {
+      "id": "MOCK_110_3_ENG_035",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "What does the bold expression “ exotic bond ” in the first column refer to?",
+      "image_url": "",
+      "options": [
+        "foreign friendship",
+        "life value",
+        "making goods",
+        "cultural difference"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "艾曼達言論中的粗體字「異國聯結」指的是什麼? 她們的心理健康產生負面影響的可能性比男性高出了 (A) 外國友誼 (B) 人生價值 16 個百分點,因此 53%  16%  37%,故答案選 (C) 110-3 共同科目 英文 詳解"
+    },
+    {
+      "id": "MOCK_110_3_ENG_036",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "According to the passage, which of the following statements is NOT true?",
+      "image_url": "",
+      "options": [
+        "Amanda and Jenny both believe doing good beautifies their life.",
+        "Amanda and Dante have different opinions about doing good.",
+        "Dante agrees that doing good brings satisfaction and benefits.",
+        "The author believes that doing good can change the world."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_037",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "According to the passage, what do people in Japan hardly remember?",
+      "image_url": "",
+      "options": [
+        "A well-off life.",
+        "Human kindness.",
+        "An awful environment.",
+        "Moral attitude."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_038",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Which of the following benefits of doing good is mentioned in this passage?",
+      "image_url": "",
+      "options": [
+        "Having a satisfying and joyful mood.",
+        "Building confidence in talking to strangers.",
+        "Learning the skill of showing directions.",
+        "Knowing how to protect someone. ▲ 閱讀下文,回答第 39-42 題 We are in the COVID-19 pandemic, and we have no idea when this is going to end. To understand the situation, the KFF (Kaiser Family Foundation) did a survey on March 11-15, 2020 and surprisingly found that there were some differences in how men and women respond to the pandemic. First of all, more women than men said that their lives had been bothered by the pandemic (49% vs. 40%). Next, women, compared with men, were more likely to stay home instead of going to work or other regular activities (81% vs. 69%). Women would rather choose to change or cancel their travel plans than men (72% vs. 66%) or to shelter in the current location (88% vs. 76%). In fact, when the outbreak became more severe (two weeks after the first poll taken), KFF did a second survey—one sex gap has gotten strikingly larger, particularly among parents. Women overall were 16 percentage points more likely than men to say that worry or stress related to coronavirus had a negative impact on their mental health. Among parents of children under age 18, the sex gap reached a striking 25%. In the poll taken just two weeks prior, namely, in the first survey, the sex gap among all adults was 9 percentage points (36% vs. 27%) and among parents, it was just 5 percentage points (36% vs. 31%). To conclude, women are more likely to worry about both the health and economic effects of a pandemic on their families, and the worry would become even more if they have children under 18."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_039",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "What is this passage mainly about?",
+      "image_url": "",
+      "options": [
+        "The impact of different sexes.",
+        "Parents’ reaction to a global disease.",
+        "The effective visual tool on a sickness.",
+        "A gender gap in pandemic experiences."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_040",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "According to the passage, which of the following is TRUE about the pandemic?",
+      "image_url": "",
+      "options": [
+        "Women would choose to go to their friends than men.",
+        "The epidemic situation was less serious after the first poll.",
+        "Men preferred to look for a safe location than women.",
+        "More than half of men and women chose to change their trips."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_041",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "According to the result of the second survey, if 53% of the women felt the pandemic influenced their mental health, what percentage of the men had the same feeling?",
+      "image_url": "",
+      "options": [
+        "28%",
+        "32%",
+        "37%",
+        "69%"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?110-3-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_3_ENG_042",
+      "subject": "英文",
+      "unit": "110-3-四技二專-00共同科目 英文",
+      "q": "Regarding the pandemic impact on people’s health and economy, which of the following charts is correct?",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "",
+        "二、非選擇題 ( 第 I 題,每格 2 分,共 4 分;第 II 題到第 III 題,每題 6 分。共 16 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "關於疫情對人們健康和經濟影響,下列哪張圖表是正 能適切表達原文題意,文法、標點、用字遣詞 3 確的? 僅有少數不當之處。 說明:在倒數第二句提到,第一次調查,所有成年人 僅能部分表達原文題意,文法、標點、用字遣 2 的女性與男性性別比例是 36% 對 27%, 在父母的女性 詞有多處失當之處。 與男性比例是 36% 對 31%,第二次調查,有孩子的男 無法表達原文題意,文法、標點、用字遣詞僅 1 女差距是 25%,又最後一句說女性多於男性,因此數 有少數正確之處。 字多是女性,反之亦然,用刪去法,故答案選 (B) (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 二、非選擇題 0 (3) 只抄題目或其他試題。 I. 填充 (4) 內容完全離題或錯誤。"
+    }
+  ]
+}

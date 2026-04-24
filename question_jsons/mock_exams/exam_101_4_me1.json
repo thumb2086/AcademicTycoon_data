@@ -1,0 +1,661 @@
+{
+  "bundle_id": "MOCK_101_4_ME1",
+  "questions": [
+    {
+      "id": "MOCK_101_4_ME1_001",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "有關對偶及機件在接觸傳動時之敘述,下列何者正確?",
+      "image_url": "",
+      "options": [
+        "迴轉對為滾動接觸",
+        "凸輪及尖端從動件的配合為滾動接觸",
+        "滾動接觸之接觸點上兩機件無相對運動產生",
+        "齒輪傳動在節點上為滑動接觸,節點以外為滾動接觸"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "36 × 10 × 20 ⎧ 20 g − T = 20 × a L L ○ 1 ⎪"
+    },
+    {
+      "id": "MOCK_101_4_ME1_002",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "有關螺旋在應用上,下列敘述何者 錯誤?",
+      "image_url": "",
+      "options": [
+        "要得到較大的機械利益可用複式螺旋",
+        "要得到微小的位移量可用差動螺旋",
+        "複式螺旋為兩個旋向相反的螺旋組合",
+        "差動螺旋為兩個旋向相同,但導程不同的螺旋組合"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "(A) 要得到較大的機械利益可用差動螺旋 2 π"
+    },
+    {
+      "id": "MOCK_101_4_ME1_003",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "有關螺栓規格 M 10 × 1. 5 及 M 10 × 1 的比較,下列何者正確?",
+      "image_url": "",
+      "options": [
+        "M 10 × 1. 5 外徑較 M 10 × 1 為大",
+        "M 10 × 1. 5 節徑較 M 10 × 1 為大",
+        "M 10 × 1 螺紋角較 M 10 × 1. 5 為大",
+        "M 10 × 1 螺旋角較 M 10 × 1. 5 為大"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "(A) M 10 ×"
+    },
+    {
+      "id": "MOCK_101_4_ME1_004",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "一個直徑 10 cm 的圓軸,以帶輪旋轉,並以 2 × 1 × 10 cm 的鍵連結,若帶輪在 600 rpm 的轉速下 傳達的功率為 6.28 kW,則下列何者正確?",
+      "image_url": "",
+      "options": [
+        "所受的壓應力為 4 MPa 鍵",
+        "所受的壓應力為 2 MPa 鍵",
+        "所受的剪應力為 4 MPa 鍵",
+        "所受的剪應力為 2 MPa 鍵"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "W = T × ω, 2000 π = T ×, T = 100 N-m"
+    },
+    {
+      "id": "MOCK_101_4_ME1_005",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 一 ) 所示彈簧的組合, k 1 = 10 N / mm 、 k 2 = 20 N / mm 、 k 3 = 30 N / mm, 試求總彈簧常數為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p001_995_1245_840_1120.png",
+      "options": [
+        "15 N / mm",
+        "30 N / mm",
+        "40 N / mm",
+        "60 N / mm 圖 ( 一 )"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "k 1 和 k 2 並聯後再並 k 3 800 × 10 Win = = 10000 焦耳 k = 10 + 20 + 30 = 60 N / mm"
+    },
+    {
+      "id": "MOCK_101_4_ME1_006",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "有關軸承的敘述,下列何者 錯誤?",
+      "image_url": "",
+      "options": [
+        "軸向軸承又稱為止推軸承,受力方向與軸中心線平行",
+        "多孔軸承又稱為無油軸承,使用時不需再加潤滑油",
+        "滑動軸承運轉時摩擦阻力較滾動軸承大",
+        "滾針軸承不可承受軸向推力"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "(B) 多孔軸承又稱為自潤軸承 第二部份:機械力學"
+    },
+    {
+      "id": "MOCK_101_4_ME1_007",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "交叉傳動的三階塔輪,若主動軸轉速為 200 rpm,主動塔輪最大直徑為 30 cm,從動軸的轉速 分別為 80 rpm 、 40rpm 、 20 rpm,試求從動塔輪最大直徑大約為若干?",
+      "image_url": "",
+      "options": [
+        "95.4 cm",
+        "75 cm",
+        "191.8 cm",
+        "240 cm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "30 × 200 = d 1 × 80, d1 = 75"
+    },
+    {
+      "id": "MOCK_101_4_ME1_008",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "一部腳踏車前後鏈輪齒數分別為 60 及 20 齒,後輪胎直徑為 90 cm,當騎士以每分鐘踩踏板 70 圈時,此腳踏車前進的速度為多少 km / hr?",
+      "image_url": "",
+      "options": [
+        "24.5 km / hr",
+        "30.4 km / hr",
+        "71.2 km / hr",
+        "35.6 km / hr"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "後輪每分鐘前進 × 70 × π ×"
+    },
+    {
+      "id": "MOCK_101_4_ME1_009",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "兩相同之錐形摩擦輪,組合傳動方式如圖 ( 二 ) 所示, A 輪為主動輪, B 輪為從動輪,其中主動輪以 N A 等速 運轉,若錐形摩擦輪大徑 R 1 為小徑 R 2 的 2 倍,試問 從動輪 B 的最高轉速為最低轉速的幾倍?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p002_373_603_742_1094.png",
+      "options": [
+        "2 倍",
+        "4 倍",
+        "8 倍 圖 ( 二 )",
+        "0.5 倍"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "B 輪最高轉速為 2 Na,最低轉速為 0.5 Na,最高轉 S 乙 = 100 3 − 6 × V 4 cos 30 ° − S cos 30 ° 速為最低轉速 4 倍 3"
+    },
+    {
+      "id": "MOCK_101_4_ME1_010",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "某正齒輪之齒數為 20,節圓直徑為 80 mm,則該齒輪之周節 Pc 與模數 M 各為若干?",
+      "image_url": "",
+      "options": [
+        "Pc = 8 π mm 、 M = 8 mm",
+        "Pc = 4 π mm 、 M = 8 mm",
+        "Pc = 4 π mm 、 M = 4 mm",
+        "Pc = 8 π mm 、 M = 4 mm"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "D = M × 20, 80 = M × 20, M = 4 mm = 100 3 − 6 × 10 3 − 40 × = 20 3 ( m ) 2 Pc = π × M, Pc = 4 π mm ( T + T ) × M"
+    },
+    {
+      "id": "MOCK_101_4_ME1_011",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "A 、 B 兩軸相距 300 mm,使用齒輪傳動, A 軸轉速為 400 rpm 、 B 軸轉速為 200 rpm,求 A 輪 及 B 輪使用的齒輪模數 M mm 以及 A 輪齒數 T A 、 B 輪齒數 T B 可能為多少?",
+      "image_url": "",
+      "options": [
+        "M = 10 、 T A = 40 、 T B = 20",
+        "M = 10 、 T A = 80 、 T B = 40",
+        "M = 5 、 T A = 100 、 T B = 50",
+        "M = 5 、 T A = 200 、 T B = 100"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "300 = A B, 400 × T A = 200 × T B 2 答 案 中 合 於 上 述 條 件 者 為 M = 10 、 TA = 40 、 TB = 20 4 20"
+    },
+    {
+      "id": "MOCK_101_4_ME1_012",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 三 ) 所示為一起重機輪系,手柄長 r 為 20 cm,圓筒直徑 d 為 10 cm,蝸桿為 4 線,蝸輪為 50 齒, A 輪為 20 齒, B 輪 為 40 齒,當 F 以 100 牛頓轉手柄一圈時,重物移動的距離為 何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p002_1068_1370_762_1069.png",
+      "options": [
+        "0. 4 π cm",
+        "0. 8 π cm",
+        "0. 2 π cm 圖 ( 三 )",
+        "0. 1 π cm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "圓筒轉的圈數為 × ="
+    },
+    {
+      "id": "MOCK_101_4_ME1_013",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "一公制壓力角 20° 全深齒制齒輪齒數 100,周節 15.7 mm,則其齒頂圓直徑為多少 mm?",
+      "image_url": "",
+      "options": [
+        "250 mm",
+        "505 mm",
+        "500 mm",
+        "510 mm"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Do = M × T + 2 M,又 M = = 5 π = 189 ( N ) 101-4 機械群 專業科目(一) Fy = F sin( α − β ) = F (sin α cos β − cos α sin β ) = 48 ( N ) 3 5 4 12 sin α =, sin β =, cos α =, cos β = 5 13 5 13"
+    },
+    {
+      "id": "MOCK_101_4_ME1_014",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 四 ) 所示為一雙塊制動器構造,輪轂直徑 D 為 100 cm,轉速為 300 rpm, H 為 25 cm, L 為 50 cm,摩擦塊和輪轂間摩擦係數為 0.2,若施加 力量 F 為 100 N,求制動功率為多少瓦?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p003_158_413_743_1053.png",
+      "options": [
+        "100 π 瓦",
+        "200 π 瓦",
+        "400 π 瓦",
+        "800 π 瓦 圖 ( 四 )"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_015",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "使用一個偏心 1 mm 的偏心軸做為凸輪運動的主動件,配合一個滾子做為從動件,若主動件以 ω ( rad / s ) 的角速度旋轉時,從動件上下運動的週期為何? 2 π ω",
+      "image_url": "",
+      "options": [
+        "sec",
+        "sec ω 2 ω 2",
+        "sec",
+        "sec 2 π ω"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_016",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "在周轉直線機構中,導圓 ( 固定圓 ) 的直徑為內滾圓的幾倍?",
+      "image_url": "",
+      "options": [
+        "0.5 倍",
+        "1 倍",
+        "2 倍",
+        "4 倍"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_017",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 五 ) 所示為一曲柄滑塊機構且曲柄 AB 之角速率為 ω, 和水平線 AC 的夾角為 θ,則下列敘述何者正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p003_807_943_776_1129.png",
+      "options": [
+        "θ 在 0° 時滑塊 C 之速率為最大",
+        "θ 在 45° 時滑塊 C 之速率為最大",
+        "θ 在 0° 時滑塊 C 之加速度為最大 圖 ( 五 )",
+        "θ 在 45° 時滑塊 C 之加速度為最大"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_018",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 六 ) 所示,不完全小齒輪 A 若以 600 rpm 做迴轉運動, 則齒條 B 做往復運動的頻率為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p003_992_1192_780_1108.png",
+      "options": [
+        "20 π 次/秒",
+        "10 π 次/秒",
+        "20 次/秒",
+        "10 次/秒 圖 ( 六 )"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_019",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 七 ) 所示為惠斯頓差動滑車,輪 A 半徑 15 mm 、輪 B 半徑 10 mm 、 輪 C 半徑 12 mm,若無摩擦損失時,施加 F = 200 牛頓的力量可以拉起 W 為多少牛頓?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p003_1210_1570_811_1093.png",
+      "options": [
+        "1000 N",
+        "1200 N",
+        "1400 N",
+        "1600 N 圖 ( 七 )"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_020",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 八 ) 所示之滑車組,其機械效率為 80%,若把重物 W = 800 N 吊高 10 公尺時,若不計滑輪及繩重,則 F 點需施加多少焦耳能量?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p004_116_400_723_1091.png",
+      "options": [
+        "20000 焦耳",
+        "10000 焦耳",
+        "9800 焦耳",
+        "19600 焦耳 圖 ( 八 ) 第二部份:機械力學"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_021",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 九 ) 所示,一力 F 在 ABCD 平面上,對 Y 軸產生一力 矩 M,此力矩 M 屬於何種向量?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p004_416_635_865_1066.png",
+      "options": [
+        "固定向量",
+        "拘束向量",
+        "滑動向量",
+        "自由向量 圖 ( 九 )"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_022",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "有一纜車從甲山頭到達乙山頭水平相距 100 3 m,纜車在甲山頭高 100 公尺處,從靜止以 2 5 m / sec 加速度朝向乙山頭高 200 公尺處出發,經 4 sec 後由纜車自由落下一小石頭,試問小 2 石頭落至地面時距離乙山頭水平距離為幾公尺? ( 假設重力加速度 g = 10 m / sec )",
+      "image_url": "",
+      "options": [
+        "5 3 m",
+        "10 3 m",
+        "20 3 m",
+        "已超過乙山頭"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_023",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 十 ) 所示,試求有一力 F = 195 N 分解在 X 軸向與 Y 軸 向的分力 F x 、 F y 為多少?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p004_955_1153_703_1058.png",
+      "options": [
+        "F x = 48 N 、 Fy = 39 N",
+        "F x = 99 N 、 Fy = 168 N",
+        "F x = 168 N 、 Fy = 189 N 圖 ( 十 )",
+        "F x = 189 N 、 Fy = 48 N"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_024",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 十一 ) 所示,有一長 10 m 繩索一端繫於質量 10 kg 之球,另一端繫於天花板桿件,球由水平靜止釋放,繩 索會繞過固定桿,當球到達天花板桿件正下方時,繩索 2 之張力為多少牛頓? ( 假設重力加速度 g = 10 m / sec )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p004_1188_1511_646_1089.png",
+      "options": [
+        "240 N",
+        "400 N",
+        "480 N",
+        "800 N 圖 ( 十一 )"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "V = 2 gh = 2 × 10 × 8 = 160 ( m / s ) R B = 800 ( N )( ↑ ) 2 4 V Σ Fy = 0, R A + R B − 1800 − 300 = 0 F = ma, T − mg = m × 5 r R A = 1300 ( N )( ↑ ) 2 4 V T = mg + m × 5 r 4 160 = × 10 × 10 + 10 × = 400 ( N ) 5 5"
+    },
+    {
+      "id": "MOCK_101_4_ME1_025",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 十二 ) 所示,一懸臂樑受負載及彎矩作用,樑之斷面為圓形,試求樑內最大彎曲應力為多 少? 400",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p005_188_389_428_1119.png",
+      "options": [
+        "MPa π 1200",
+        "MPa π 圖 ( 十二 ) 2400",
+        "MPa π 4400",
+        "MPa π"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "由剪力與彎矩圖得知樑內最大彎矩為 600 N-m 最大彎曲應力 3 20 600 × 10 × My 2400 σ max = = 2 = MPa 4 I π × 20 π"
+    },
+    {
+      "id": "MOCK_101_4_ME1_026",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 十三 ) 所示,如果斜線面積重心座標位於 ( 3, 0 ), 試問中空小圓重心 ( X, Y ) 座標應位於? ( 中空小圓 r = 3 之圓心與大半圓 R = 5 之圓心不在同一座標點 )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p005_438_734_694_1099.png",
+      "options": [
+        "( 3, − 1. 83 )",
+        "( 2, 1. 83 )",
+        "( 3, − 3. 86 ) 圖 ( 十三 )",
+        "( 2, 3. 86 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "由斜線面積重心座標在 (3,0),整體面積要對稱 Y = 3 之軸,故中空小圓重心要座落於 Y = 3 之軸 上,故中空小圓之 X 座標等於 3 面積 y 2 π × 5 4 × 5 同平面共點力系平衡 A 1 2 3 π T 300 = ⇒ T = 100 3 ( N ) 10 × 9 sin 30 ° sin 120 ° A 2 − 3 2 2 A 3 − π × 3 y 3 A A 1 + A 2 + A 3 0 A ⋅ y = A 1 y 1 + A 2 y 2 + A 3 y 3 2 π × 5 4 × 5 10 × 9 2 × + × ( − 3 ) + ( − π × 3 ) y 3"
+    },
+    {
+      "id": "MOCK_101_4_ME1_027",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 十四 ) 所示,試求 A 、 B 點反力, R A 、 R B 為多少?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p005_764_1028_604_1122.png",
+      "options": [
+        "R A = 1300 N 、 R B = 800 N",
+        "R A = 800 N 、 R B = 1300 N",
+        "R A = 1400 N 、 R B = 2500 N",
+        "R A = 2500 N 、 R B = 1400 N 圖 ( 十四 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Σ MA = 0, 1800 × 4 + 300 × 8 − 12 R B = 0"
+    },
+    {
+      "id": "MOCK_101_4_ME1_028",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "一輛卡車欲利用繩索及小滑輪拉倒柱子,如圖 ( 十五 ) 所示, 若 BD 繩索張力為 300 N,試求繩索 ABC 之張力為多少?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p005_1017_1308_694_1092.png",
+      "options": [
+        "50 N",
+        "50 3 N",
+        "100 N",
+        "100 3 N 圖 ( 十五 )"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_029",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "某人重 800 N,站在斜坡上,其腳與斜坡面之靜摩擦係數 μ s = 1,在使用動滑輪 A 、定滑輪 B 、 C 情況下,此人利用圖 ( 十六 ) 所示滑輪系統,所能拉起的最大物重 W 為何? ( 施力時繩索與斜坡 平行,不計滑輪與繩索重量及滑輪與繩索摩擦力 )",
+      "image_url": "",
+      "options": [
+        "320 N",
+        "400 N",
+        "640 N",
+        "800 N 圖 ( 十六 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_030",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "甲球自 150 m 高樓處自由落下, 3 秒後乙球以 25 m / sec 之初速度,由同一位置處拋下,則下列 2 敘述何者正確? ( 假設重力加速度 g = 10 m / sec )",
+      "image_url": "",
+      "options": [
+        "乙球拋下 2 秒後追上甲球",
+        "在著地前乙球未能追上甲球",
+        "甲球落地時乙球距地面高 15 m",
+        "若乙球的初速度為 30 m / sec,則甲乙會同時著地"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "∵甲球 3 秒後之速度為 V3 = gt = 10 × 3 = 30 ( m / s ) 1 2"
+    },
+    {
+      "id": "MOCK_101_4_ME1_031",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "有一物體 W 重 200 N,置於水平粗糙地面上,物體從靜止施加一力 F = 150 N,如圖 ( 十七 ) 所 示,物體與地面靜摩擦係數 μ s = 0. 55,動摩擦係數 μ k = 0. 5,則下列敘述何者正確? 2 ( 假設重力加速度 g = 10 m / sec )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p006_465_623_723_1105.png",
+      "options": [
+        "摩擦力為 60.5 N",
+        "施力 4 秒後摩擦力所作的功為 − 1573 焦耳 2",
+        "物體的加速度 a = 2. 5 m / sec 圖 ( 十七 )",
+        "施力 4 秒後物體移動 26 m"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Σ Fy = 0, N + F y − 200 = 0 100 × 10 × ( h +"
+    },
+    {
+      "id": "MOCK_101_4_ME1_032",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 十八 ) 所示,一物體重 W = 200 N,置於 37° 粗糙斜 面上,物體與斜面間摩擦係數 μ = 0. 5,物體從靜止受一 平行斜面之力 P = 300 N,試問施力 4 秒後物體上升的高度 h 2 為多少公尺? ( 假設重力加速度 g = 10 m / sec ) 圖 ( 十八 )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p006_621_789_856_1112.png",
+      "options": [
+        "0 m",
+        "24 m",
+        "32 m",
+        "45.2 m"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Σ Fy = 0, N = 160 ( N ), f = μ × N ="
+    },
+    {
+      "id": "MOCK_101_4_ME1_033",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "一個均質等向性之彈性體且為中空方形長柱體,如圖 ( 十九 ) 所示,置於深水中壓應力為 200 MPa,若此中空方形長柱 6 體之楊氏係數 E = 2. 7 × 10 MPa,蒲松氏比 μ = 0. 29,則此 物體之體積改變量為多少? 3 3",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p006_831_1049_898_1105.png",
+      "options": [
+        "9. 8 mm",
+        "11. 7 mm 圖 ( 十九 ) 3 3",
+        "19. 6 mm",
+        "23. 4 mm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "三軸向應力相同 101-4 機械群 專業科目(一)"
+    },
+    {
+      "id": "MOCK_101_4_ME1_034",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "一物體質量 100 kg,如圖 ( 二十 ) 所示,由彈簧上方高 h 處自由落下, 使彈簧產生最大壓縮量為 0.2 m,若彈簧常數為 210 kN / m,且忽略空氣 2 阻力,試問 h 之高度為多少? ( 假設重力加速度 g = 10 m / sec )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p006_1086_1289_940_1097.png",
+      "options": [
+        "2 m",
+        "2.2 m",
+        "4 m",
+        "4.2 m 圖 ( 二十 )"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "mgh = kx 而乙球此時之初速度為 25 (m / s) 拋下 2 ∴追不上甲球 1 3 2"
+    },
+    {
+      "id": "MOCK_101_4_ME1_035",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 二十一 ) 所示, A 、 B 、 G 三軸平行,且 G 軸通過此面積 2 之形心,已知此面積大小為 10 cm,而此面積對 B 軸之慣性 4 矩為 100 cm,試問面積對 A 軸之慣性矩為多少? 4",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p006_1326_1572_917_1115.png",
+      "options": [
+        "10 cm 4",
+        "40 cm 4",
+        "130 cm 4",
+        "150 cm 圖 ( 二十一 )"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_036",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 二十二 ) 所示,有一矩形材料兩端承受拉力 P = 25 kN,此斷面形狀為 50 mm × 50 mm,試 問 a - a 斷面上之剪應力為多少?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p007_218_409_631_1112.png",
+      "options": [
+        "2.5 MPa",
+        "− 2. 5 MPa 5 3",
+        "MPa 2 圖 ( 二十二 ) 5 3",
+        "− MPa 2"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_037",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 二十三 ) 所示,均質桿件懸掛於天花板垂直向下,長度分別為 L 、 2 L 及 L,斷面積分別為 A 、 2 A 及 A,重量分別為 W 、 2 W 及 W,材料彈性係數為 E,試求桿件之總伸長量? 2 WL",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p007_528_745_903_1103.png",
+      "options": [
+        "EA 7 WL",
+        "2 EA 4 WL",
+        "EA 6 WL 圖 ( 二十三 )",
+        "EA"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-4-四技二專-(01)機械群專一解析.pdf"
+    },
+    {
+      "id": "MOCK_101_4_ME1_038",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "如圖 ( 二十四 ) 所示,有一均質實心圓棒,直徑 20 mm,承受一扭矩 T = 40 π N-m,試求圓棒之最大剪應力為多少?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p007_828_998_711_1087.png",
+      "options": [
+        "80 MPa",
+        "160 MPa",
+        "320 MPa 圖 ( 二十四 )",
+        "640 MPa"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "圓棒表面之剪應力為 τ = τ max 3 16 T 16 × 40 π × 10 τ max = = = 80 ( MPa ) 3 3 π d π × 20"
+    },
+    {
+      "id": "MOCK_101_4_ME1_039",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "一簡支樑承受負載,樑之斷面為 T 字形剖面,如圖 ( 二十五 ) 所示,試 求樑內所產生之最大剪應力約為 多少?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p007_1009_1284_413_1096.png",
+      "options": [
+        "92 MPa",
+        "184 MPa",
+        "480 MPa 圖 ( 二十五 )",
+        "600 MPa"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "由剪力圖得知樑內之 最大剪力為 200 kN 再由樑承受負載時,樑 內之最大剪應力,產生 在樑斷面之中立軸, 由求面積之形心可得 知,中立軸之位置距 底邊 50mm 處 VQ τ max =, Vmax = 200 ( kN ), b = 20 ( mm ) Ib Q = A × y = ( 50 × 20 ) × 25 = 25000 1 3 2 I xx = { × 60 × 20 + [( 60 × 20 ) × 20 ]} 12 1 3 2 6 + { × 20 × 60 + [( 20 × 60 ) × 20 ]} ="
+    },
+    {
+      "id": "MOCK_101_4_ME1_040",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "有一個定滑輪及二個動滑輪組成之滑輪系統,如圖 ( 二十六 ) 所示, 分別懸掛 A 物體 20 kg 與 B 物體 40 kg,如不計繩索及滑輪重量 與摩擦力,物體從靜止開始釋放,經 3 秒後 A 物體移動多少公尺? 2 ( 假設重力加速度 g = 10 m / sec )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_4_me1/p007_1290_1582_768_1086.png",
+      "options": [
+        "5 m",
+        "10 m",
+        "15 m",
+        "20 m 圖 ( 二十六 )"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "由 F = ma, ⎨ a 2 ⎪ 4 T − 40 g = 40 × L L ○ ⎩ 4 40 2 ○ 1 ○ 2 解聯立得 a = ( m / s ) 9 1 2 1 40 2 A 物體下降距離 S = at = × × 3 = 20 ( m ) 2 2 9"
+    },
+    {
+      "id": "MOCK_101_4_ME1_041",
+      "subject": "機械群專一",
+      "unit": "101-4-四技二專-(01)機械群專一",
+      "q": "? ( 假設重力加速度 g = 10 m / sec ) (A) 240 N (B) ____ N (C) 480 N (D) 800 N 圖 ( 十一 ) 101-4 機械群 專業科目(一) 25.",
+      "image_url": "",
+      "options": [
+        "MPa π 1200",
+        "MPa π 圖 ( 十二 ) 2400",
+        "MPa π 4400",
+        "MPa π 26. 如圖 ( 十三 ) 所示,如果斜線面積重心座標位於 ( 3, 0 ), 試問中空小圓重心 ( X, Y ) 座標應位於? ( 中空小圓 r = 3 之圓心與大半圓 R = 5 之圓心不在同一座標點 ) (A) ( 3, − 1. 83 ) (B) ( 2, 1. 83 ) (C) ( 3, − 3. 86 ) 圖 ( 十三 ) (D) ( 2, 3. 86 ) 27. 如圖 ( 十四 ) 所示,試求 A 、 B 點反力, R A 、 R B 為多少? (A) R A = 1300 N 、 R B = 800 N (B) R A = 800 N 、 R B = 1300 N (C) R A = 1400 N 、 R B = 2500 N (D) R A = 2500 N 、 R B = 1400 N 圖 ( 十四 ) 28. 一輛卡車欲利用繩索及小滑輪拉倒柱子,如圖 ( 十五 ) 所示, 若 BD 繩索張力為 300 N,試求繩索 ABC 之張力為多少? (A) 50 N (B) 50 3 N (C) 100 N (D) 100 3 N 圖 ( 十五 ) 29. 某人重 800 N,站在斜坡上,其腳與斜坡面之靜摩擦係數 μ s = 1,在使用動滑輪 A 、定滑輪 B 、 C 情況下,此人利用圖 ( 十六 ) 所示滑輪系統,所能拉起的最大物重 W 為何? ( 施力時繩索與斜坡 平行,不計滑輪與繩索重量及滑輪與繩索摩擦力 ) (A) 320 N (B) 400 N (C) 640 N (D) 800 N 圖 ( 十六 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    }
+  ]
+}

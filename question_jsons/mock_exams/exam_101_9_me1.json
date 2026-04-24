@@ -1,0 +1,645 @@
+{
+  "bundle_id": "MOCK_101_9_ME1",
+  "questions": [
+    {
+      "id": "MOCK_101_9_ME1_001",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "有關對偶之敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "火車輪與鐵軌間是一種力鎖高對",
+        "低對之兩機件間必成面接觸",
+        "一機件在空間中運動,共有 6 個自由度",
+        "螺栓與螺帽間運動是屬於不完全對偶"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_002",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 一 ) 所示為何種運動鏈?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p001_414_608_775_1060.png",
+      "options": [
+        "拘束鏈",
+        "呆鏈",
+        "無拘束鏈",
+        "固定鏈 圖 ( 一 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_003",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "下列敘述何者 錯誤?",
+      "image_url": "",
+      "options": [
+        "CNC 工具機、汽車稱為「機械」",
+        "一組機件用以傳遞或改變運動方式稱為「機械」",
+        "機械廠內之起子、固定扳手等,因機件間無相對運動,稱之為「工具」",
+        "機構不一定是一部機械"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_004",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "欲成為拘束鏈,所需之機件及對偶數目關係,從機件為 4 起,每增加 2 個機件時,對偶數目必 增加幾個?",
+      "image_url": "",
+      "options": [
+        "1 個",
+        "2 個",
+        "3 個",
+        "4 個"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_005",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "可承受拉力及壓 ( 推 ) 力的機件為下列何者?",
+      "image_url": "",
+      "options": [
+        "電磁機件",
+        "撓性體機件",
+        "流體機件",
+        "剛體機件"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_006",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "螺紋之螺旋角為 α,導程角為 β,則 α + β 為下列何者?",
+      "image_url": "",
+      "options": [
+        "30°",
+        "60°",
+        "90°",
+        "120°"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_007",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "每英吋 4 牙之雙螺紋,導螺桿每轉一圈,其導程為下列何者?",
+      "image_url": "",
+      "options": [
+        "12.7 mm",
+        "6.35 mm",
+        "3.18 mm",
+        "25.4 mm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_008",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "下列敘述何者 錯誤?",
+      "image_url": "",
+      "options": [
+        "梯形螺紋公制螺紋角 (Tr) 為 30 度",
+        "統一螺紋代表美國、德國、加拿大三國通用螺紋",
+        "雙線螺紋之導程是螺紋之二倍",
+        "方螺紋能傳達之動力較梯形螺紋大"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_009",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "欲利用斜邊長 5 m 、高 4 m 、底邊 3 m 之斜面,推舉 600 N 之重物,若不計摩擦損失,則應施 力至少為若干 N?",
+      "image_url": "",
+      "options": [
+        "750 N",
+        "480 N",
+        "360 N",
+        "240 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_010",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 二 ) 所示用一螺旋起重機,舉 500 N 重之物件,螺旋之導程為 2 π cm, 假設不計摩擦力,則舉起該物件,應出之力為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p002_560_752_910_1116.png",
+      "options": [
+        "20 N",
+        "15 N",
+        "10 N",
+        "5 N 圖 ( 二 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_011",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "在 L-2N-M20 × 2 -6g5g 的標註中,其中“ 6g ”代表:",
+      "image_url": "",
+      "options": [
+        "外螺紋之節徑公差",
+        "內螺紋之節徑公差",
+        "外螺紋之外徑公差",
+        "內螺紋之大徑公差"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_012",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 三 ) 所示之複式螺旋,導程 L 1 = 10 mm 右旋螺紋, L 2 = 6 mm 左旋螺紋,若此複式螺旋迴轉一周,則螺帽移動多少 mm?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p002_977_1132_834_1095.png",
+      "options": [
+        "4 mm",
+        "8 mm",
+        "6 mm 圖 ( 三 )",
+        "16 mm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_013",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "有關螺栓的敘述,下列何者 錯誤?",
+      "image_url": "",
+      "options": [
+        "貫穿螺栓須配合螺帽鎖緊",
+        "圓桿兩端均製有螺紋之桿為螺樁",
+        "基礎螺栓使用於吊起機械之處",
+        "帶頭螺栓應用於薄件不常拆卸處"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_014",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "為防止螺帽的鬆脫,常使用螺旋彈性墊圈,此法屬於下列何種裝置?",
+      "image_url": "",
+      "options": [
+        "撓性鎖緊",
+        "確閉鎖緊",
+        "確動鎖緊",
+        "摩擦鎖緊"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_015",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "遇有直線排列的螺釘需鎖緊時,下列何種方法正確?",
+      "image_url": "",
+      "options": [
+        "由左而右鎖下去",
+        "由中央向二端鎖下去",
+        "由右而左鎖下去",
+        "由二端向中央鎖下去"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_016",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "使用墊圈的目的,下列何者 錯誤?",
+      "image_url": "",
+      "options": [
+        "螺帽有較好的承壓面積",
+        "防止螺帽鬆動",
+        "增加摩擦力",
+        "增加機械利益"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_017",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "有關於鍵的敘述,下列何者 不正確?",
+      "image_url": "",
+      "options": [
+        "鍵的功用是將齒輪、連結器等與軸結合",
+        "甘乃迪鍵是由兩個正方形斜鍵組成",
+        "斜鍵的斜度 1: 50",
+        "半圓鍵的鍵之半徑等於軸之半徑"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_018",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "一鍵 2 × 2 × 10 cm 裝於直徑 20 cm 之軸上,該軸承受 200 N-m 之扭矩,則鍵承受之壓應力及剪應 力為多少 MPa?",
+      "image_url": "",
+      "options": [
+        "σ C = 2 MPa, τ = 1 MPa",
+        "σ C = 4 MPa, τ = 1 MPa",
+        "σ C = 2 MPa, τ = 2 MPa",
+        "σ C = 4 MPa, τ = 2 MPa"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_019",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "一馬達轉速 1000 rpm,扭矩 450 N-m,則其輸出功率最接近下列何者?",
+      "image_url": "",
+      "options": [
+        "7.5 π kW",
+        "10 π kW",
+        "12.5 π kW",
+        "15 π kW"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_020",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "消防滅火器之手把與開關,使用下列何種銷形式?",
+      "image_url": "",
+      "options": [
+        "開口銷",
+        "定位銷",
+        "快釋銷",
+        "彈簧銷 第二部份:機械力學"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_021",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "下列單位表示何者 錯誤? 2",
+      "image_url": "",
+      "options": [
+        "1 Watt( 瓦特 ) = 1 N-m / sec 2",
+        "1 MPa = 1 N/mm 2",
+        "1 達因 (dyne) = 1 g-cm / sec 2",
+        "1 N( 牛頓 ) = 1 kg-m / sec"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_022",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "下列敘述何者 錯誤?",
+      "image_url": "",
+      "options": [
+        "力學的四個基本要素是時間、空間、質量與力",
+        "運動學研究物體運動狀態之改變及因素",
+        "力矩是向量,質量是純量",
+        "向量可分類為自由向量、滑動向量、拘束向量等三種"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_023",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "下列何者屬於向量?",
+      "image_url": "",
+      "options": [
+        "時間",
+        "位移",
+        "質量",
+        "速率"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_024",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "下列何者為超距力?",
+      "image_url": "",
+      "options": [
+        "汽缸中汽油引爆對活塞之推力",
+        "磁力",
+        "球與球間的撞擊力",
+        "椅子對地板之壓力"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_025",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "力的可傳性 不適用 於下列何者?",
+      "image_url": "",
+      "options": [
+        "移動",
+        "等速度運動",
+        "等加速度運動",
+        "變形"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_026",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 四 ) 所示,求 F = 100 N 之力在 x 、 y 方向之分力 為下列何者?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p004_905_1120_733_1093.png",
+      "options": [
+        "x = 19 N 、 y = 39 N",
+        "x = 39 N 、 y = 64 N",
+        "x = 39 N 、 y = 92 N 圖 ( 四 )",
+        "x = 19 N 、 y = 92 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_027",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 五 ) 所示,夾角為 60°,合力 R = 20 3 N,若 F1 = 20 N, 則 F 2 之作用力為多少 N?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p004_1155_1321_754_1068.png",
+      "options": [
+        "10 N",
+        "15 N 圖 ( 五 )",
+        "20 N",
+        "25 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_028",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "任一力偶其特性為下列何者?",
+      "image_url": "",
+      "options": [
+        "可用一力來平衡",
+        "力偶可由一平面移至另一平面,它的運動效果不變",
+        "力偶可在其作用之平面任意移動",
+        "當力偶矩不變,力偶之二力與力偶臂可任意變更"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_029",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 六 ) 所示,各力之合力距 A 點之距離為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p005_159_292_807_1066.png",
+      "options": [
+        "2 m",
+        "3 m",
+        "4 m",
+        "5 m 圖 ( 六 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_030",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 七 ) 所示,求 A 、 B 兩支點之反力 RA 與 RB 分別 為若干?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p005_356_552_663_1075.png",
+      "options": [
+        "R A = 1800 N, R B = 1500 N",
+        "R A = 1500 N, R B = 1200 N",
+        "R A = 1200 N, R B = 1800 N 圖 ( 七 )",
+        "R A = 1200 N, R B = 1500 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_031",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 八 ) 所示,利用三繩索將一重物固定,當 AB 繩張力 為 100 N 時,試求重物之重量為若干牛頓?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p005_557_737_852_1071.png",
+      "options": [
+        "50 2 N",
+        "50 ( 3 − 1 ) N",
+        "100 ( 3 + 1 ) N 圖 ( 八 )",
+        "100 ( 6 + 2 ) N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_032",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 九 ) 所示之構件中, D 點之反力為下列何者?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p005_822_1013_640_1073.png",
+      "options": [
+        "800 N",
+        "1200 N",
+        "1600 N",
+        "2000 N 圖 ( 九 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_033",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "下列敘述何者 錯誤?",
+      "image_url": "",
+      "options": [
+        "任何在同緯度且均質之物體,其重心、質心與形心必合而為一",
+        "一個均質的球體或其球面之重心,即其球心",
+        "物體重心位置之求法是應用正弦定律",
+        "將一物體懸吊空中,其重心必在重力作用線上 1"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_034",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 十 ) 所示 圓弧線之重心為下列何者? 4 2 r",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p005_1236_1462_700_1033.png",
+      "options": [
+        "x = y = π 4 r",
+        "x = y = 3 π 2 r",
+        "x = 0, y = 圖 ( 十 ) π 4 r",
+        "x = 0, y = 3 π"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_035",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 十一 ) 所示,其為一等腰直角三角形切除一 圓形, 4 試求斜線部分面積之重心 y =?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p006_168_343_808_1048.png",
+      "options": [
+        "0.6 cm",
+        "0.8 cm",
+        "1.0 cm 圖 ( 十一 )",
+        "1.2 cm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_036",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 十二 ) 所示,試求組合面積之重心 x =?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p006_442_609_651_1055.png",
+      "options": [
+        "3.06 cm",
+        "3.12 cm",
+        "3.34 cm",
+        "3.58 cm 圖 ( 十二 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_037",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "下列敘述何者 錯誤?",
+      "image_url": "",
+      "options": [
+        "兩接觸物體間之動摩擦恆比最大靜摩擦小",
+        "摩擦力及摩擦係數,與摩擦面積成正比",
+        "兩接觸物體尚未有滑動現象,作用力等於靜摩擦力",
+        "摩擦係數值依材料之粗糙度、材質不同而不同"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_038",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "一講桌重 100 N,靜止放置與水平面成 30 度之斜面上,若以平行於斜面之力 40 N 往上推,恰 可阻止其下滑,請問斜面與講桌間之最大靜摩擦係數為多少? 2 2",
+      "image_url": "",
+      "options": [
+        "",
+        "5 10 3 3",
+        "",
+        "5 15"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_039",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "如圖 ( 十三 ) 所示,一物重 100 N 在斜面上,與斜面之摩擦係數 μ = 0. 3, 若要使物體保持平衡,則 W 值之範圍為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/exam_101_9_me1/p006_1006_1226_754_1097.png",
+      "options": [
+        "12 N ≤ W ≤ 84 N",
+        "24 N ≤ W ≤ 84 N",
+        "36 N ≤ W ≤ 84 N 圖 ( 十三 )",
+        "36 N ≤ W ≤ 96 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "MOCK_101_9_ME1_040",
+      "subject": "機械群專一",
+      "unit": "15. 101-9月-四技二專複習考-機械群專一",
+      "q": "一物體重 30 N,置於水平平板上,其摩擦係數為 0.2,若施以 3 N 之水平拉力仍靜止不動,求 摩擦力為何?",
+      "image_url": "",
+      "options": [
+        "3 N",
+        "4.5 N",
+        "6 N",
+        "7.5 N"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    }
+  ]
+}

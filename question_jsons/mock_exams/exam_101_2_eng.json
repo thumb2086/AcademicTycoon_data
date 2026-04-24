@@ -1,0 +1,805 @@
+{
+  "bundle_id": "MOCK_101_2_ENG",
+  "questions": [
+    {
+      "id": "MOCK_101_2_ENG_001",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Due to drastic weather changes on earth, the dinosaurs vanished within a very short time.",
+      "image_url": "",
+      "options": [
+        "endangered",
+        "disappeared",
+        "varied",
+        "devoured"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "由於地球天氣劇變,恐龍短時間內迅速消失。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_002",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Each town and county around the island has its own particular way of celebrating the Lantern Festival.",
+      "image_url": "",
+      "options": [
+        "distinctive",
+        "direct",
+        "distant",
+        "descriptive"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "台灣的每個鄉鎮縣市都有自己獨特的方式來慶祝元宵 Lily:如果可以的話,我想要星期六早上出發。 節。 店員:沒問題。 (A) 獨特的 (B) 直接的 (A) 你何時買機票? (B) 你要在那停留多久? (C) 遠距離的 (D) 描述的 (C) 你要去那裏渡假? (D) 你要什麼日期出發?"
+    },
+    {
+      "id": "MOCK_101_2_ENG_003",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Mary felt terribly sad because her boyfriend always ignored her feelings.",
+      "image_url": "",
+      "options": [
+        "neglected",
+        "influenced",
+        "stressed",
+        "accepted"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "瑪麗覺得相當傷心,因為男朋友總是忽略她的感受。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_004",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "I refused to help Peter with his work because I was too busy to do anything else.",
+      "image_url": "",
+      "options": [
+        "approved",
+        "objected",
+        "consented",
+        "improved"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "我拒絕幫助 Peter,因為我忙得沒時間做其它的事。 侍者:那,先生。 (A) 贊成 (B) 反對 (C) 同意 (D) 增進 Mr. Li:感謝你。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_005",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Van Gogh’s paintings like S tarry Night and Sunflowers are highly appreciated by modern people.",
+      "image_url": "",
+      "options": [
+        "accomplished",
+        "installed",
+        "cooperated",
+        "cherished"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "梵谷的作品如 星空和向日葵,現代人極為欣賞。 (A) 我忘了帶信用卡來 (B) 慢慢來 (A) 完成 (B) 安裝 (C) 合作 (D) 珍視 (C) 快一點 (D) 這位子有人坐"
+    },
+    {
+      "id": "MOCK_101_2_ENG_006",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Roy didn’t reveal that he was going to quit because he didn’t want anyone to know.",
+      "image_url": "",
+      "options": [
+        "repeat",
+        "attain",
+        "disclose",
+        "replace"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Roy 沒有透露他要離職的事,因為他不想讓任何人知"
+    },
+    {
+      "id": "MOCK_101_2_ENG_007",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "The weather forecast says that the weather will be cloudy and rainy over the next week.",
+      "image_url": "",
+      "options": [
+        "prediction",
+        "protection",
+        "pollution",
+        "pretension"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "天氣預報說下星期都會多雲且下雨。 Lily:那我想我們的想法不同。 (A) 預測 (B) 保護 (C) 污染 (D) 假裝 (A) 你說的沒錯。 (B) 我想要再看一遍。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_008",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Nearly thirty thousand people are going to participate in the New Year countdown party in front of Taipei 101.",
+      "image_url": "",
+      "options": [
+        "take over",
+        "take off",
+        "take part",
+        "take after"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "大約有 3 萬人要到 101 大樓前參加跨年倒數。 (C) 我覺得電影有點無聊。 (D) 麻煩再說一次。 (A) 接手 (B) 起飛 (C) 參加 (D) 相似"
+    },
+    {
+      "id": "MOCK_101_2_ENG_009",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "My boss reminded me not to mention the matter we discussed in public.",
+      "image_url": "",
+      "options": [
+        "obviously",
+        "previously",
+        "oddly",
+        "morally"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "老板提醒我不可以公開討論 和我討論的事 Ted:我今晚想要預訂一桌。 情。 Host: (A) 明顯地 (B) 先前地 (C) 奇怪地 (D) 道德地 Ted:我們一行四個人。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_010",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "No one is; even parents and teachers sometimes make mistakes.",
+      "image_url": "",
+      "options": [
+        "passive",
+        "precious",
+        "perfect",
+        "pessimistic"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "沒有人是 的, 甚至是父母和老師有時也會犯錯 。 (A) 你們有多少人? (A) 被動的 (B) 珍貴的 (C) 完美的 (D) 悲觀的 (B) 你想要訂一個私人包廂嗎?"
+    },
+    {
+      "id": "MOCK_101_2_ENG_011",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "People are likely to make of others on the first impression, although it is unfair to do so.",
+      "image_url": "",
+      "options": [
+        "discussion",
+        "encouragement",
+        "consideration",
+        "judgment"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "人們傾向以第一印象 他人, 雖然那樣不公平 。 (C) 你們何時抵達? (A) 討論 (B) 鼓勵 (C) 認為 (D) 評斷 (D) 要花多少錢?"
+    },
+    {
+      "id": "MOCK_101_2_ENG_012",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Mary is about modern drama; she even wants to be a theater director in the future.",
+      "image_url": "",
+      "options": [
+        "essential",
+        "enthusiastic",
+        "embarrassed",
+        "exhausted"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "瑪麗對現代戲劇很; 未來還想做個劇場導演 。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_013",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Laura often wears T-shirts and jeans. She wears dresses only on some special.",
+      "image_url": "",
+      "options": [
+        "offers",
+        "offenses",
+        "outcome",
+        "occasions"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Laura 通常穿著 T 恤和牛仔褲。某些特殊, 睛嗎? 她就會穿洋裝。 Tyler:不,他是金髮碧眼。 (A) 提供 (B) 罪過 (C) 結果 (D) 場合 Hank:所以,"
+    },
+    {
+      "id": "MOCK_101_2_ENG_014",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "The police officer was seriously when he was shot by a gangster.",
+      "image_url": "",
+      "options": [
+        "wounded",
+        "awarded",
+        "survived",
+        "solved"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "警察被流氓槍擊,嚴重 。 (A) 那是說你們長得很像。 (A) 受傷 (B) 得獎 (C) 存活 (D) 解決 (B) 那樣,你應該和他相處融洽。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_015",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Wendy is a very person; she cries every time she watches a touching film.",
+      "image_url": "",
+      "options": [
+        "negative",
+        "optimistic",
+        "curious",
+        "emotional 二、對話題 說明:第 16 ~ 25 題,請依對話內容,選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Wendy 是個相當 人;每次看到感人的電影都 (C) 換句話說,你們看來不像。 會哭。 (D) 我猜你們 2 人相似。 (A) 負面的 (B) 樂觀的 (C) 好奇的 (D) 情緒化的"
+    },
+    {
+      "id": "MOCK_101_2_ENG_016",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Nathan: Do you have a minute? Tracy: Sure. What do you need me to do? Nathan: I need to move this couch upstairs, but it’s too heavy for me to move by myself.",
+      "image_url": "",
+      "options": [
+        "What time is it?",
+        "I need to ask a favor of you.",
+        "I need to buy a new sofa.",
+        "Anytime."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Nathan:有空嗎? 店員:抱歉,那是我能賣給你的最低價格了。 Tracy:當然了,需要我做什麼呢? (A) 如果是 2 倍價錢,我立刻買。 Nathan:我需要移動這張沙發到樓上,但是對我而言 (B) 如果價錢更好,我會更有興趣。 太重了 101-2 共同考科 英文 (C) 真划算。 樂高公司開始製作出有名的塑膠小方磚,而且 10 年後, (D) 價錢聽起來很合理。 設計出了出我們今天玩的 樂高。令人訝異地,今天的 樂高"
+    },
+    {
+      "id": "MOCK_101_2_ENG_017",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Lily: I would like to book a round trip ticket to Osaka. Clerk: Lily: I would like to leave on Saturday morning, if that is possible. Clerk: No problem.",
+      "image_url": "",
+      "options": [
+        "When will you buy the ticket?",
+        "How long are you going to stay there?",
+        "Where are you going to spend your vacation?",
+        "On what date do you like to depart?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_018",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Waiter: Are you ready to order? Mr. Li: Not yet. Waiter: Oh,, sir. Mr. Li: Thanks a lot.",
+      "image_url": "",
+      "options": [
+        "I forgot to bring the credit card",
+        "take your time",
+        "hurry up",
+        "the seat is taken"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_019",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Nick: What did you think of the movie? Lily: I liked it very much. It was full of action. Nick: Really? Lily: Well, I think we just had different ideas about it.",
+      "image_url": "",
+      "options": [
+        "You are telling me.",
+        "I want to watch it again.",
+        "I felt it was a little bit boring.",
+        "Pardon me."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_020",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Host: Good evening. Joy Steak House. How may I help you? Ted: Yes, I would like to reserve a table for dinner tonight. Host: Ted: There would be four of us.",
+      "image_url": "",
+      "options": [
+        "How many are there in your group?",
+        "Would you like to book a private room?",
+        "What time will you be arriving?",
+        "How much does it cost?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_021",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Tyler: Have you met my brother Thomas yet? Hank: No, what does he look like? Does he also have brown hair and eyes like you? Tyler: No, he has blond hair and blue eyes. Hank: So,",
+      "image_url": "",
+      "options": [
+        "that means you look alike.",
+        "in that case, you should get along with him.",
+        "in other words, you two don’t look alike.",
+        "I guess you guys are alike."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_022",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Mike: That’s a really nice clock. How much is it? Shopkeeper: The price is normally NT$2,000. But I will sell it to you at half price. Mike: Shopkeeper: Sorry, that is the lowest I am willing to go.",
+      "image_url": "",
+      "options": [
+        "If you double the price, I’ll buy it at once.",
+        "I’d be interested if you have a better offer.",
+        "It’s a real bargain.",
+        "The price sounds reasonable."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_023",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Ron: I think I need to lose a few pounds. I am too fat. Janice: It will not only help you lose weight, but it will make you stronger as well. Ron: You are right. I’ll start tomorrow. Janie: Hope you can make it.",
+      "image_url": "",
+      "options": [
+        "Why don’t you try to get more exercise?",
+        "I suggest you go to the pharmacy.",
+        "You should make good use of your time.",
+        "Let’s have dinner together."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Ron:我想我需要減個幾磅,我太胖了。 可以和 1950 年時製作出的第 1 批 樂高組合。 樂高有適合 Janice: 那不僅能幫你減重,也會讓你看起 所有年齡層玩的東西。現在,樂高甚至有內含程式的 樂高 來更壯。 為特色而造的機器人 樂高組供電子迷選擇。 樂高在歐美有 Ron:沒錯。我明天開始做。 主題公園。第一個亞洲的主題公園預訂於 2012 年在馬來 Janie:希望你成功。 西亞開幕。一定要去看看喔! (A) 你為何不試著做點運動?"
+    },
+    {
+      "id": "MOCK_101_2_ENG_024",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Ivy: Can I speak to Mr. Chang? Hilary: I am sorry. He is not available now. Ivy: Please tell him to call back later. My name is Ivy Chen. Hilary: No problem.",
+      "image_url": "",
+      "options": [
+        "Don’t worry. I will tell him.",
+        "Would you like to leave a message?",
+        "I will put you through.",
+        "I am so happy for you."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Ivy:請問張先生在嗎?"
+    },
+    {
+      "id": "MOCK_101_2_ENG_025",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Ella: Hi, Hebe. I am sorry to hear about your aunt. Hebe: Yeah, she was a lovely lady. We will miss her a lot. Ella: Hebe: Thank you for your kindness.",
+      "image_url": "",
+      "options": [
+        "I hope she learns her lesson from the mistake.",
+        "I would like to take the chance to congratulate her.",
+        "She really suffers a lot this year.",
+        "I want to offer my sympathy to you and your family. 三、綜合測驗 說明:以下三篇短文,共有十五格空格,為第 26 ~ 40 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 26 至 30 題,請依短文文意,選出一個最適合該空格的答案。 When we look at the world, there are colors all around. In other words, we live in a world 26 color. Experts tell us that we can better understand one’s character and nature by just paying attention to the colors a person likes. A person who has an orderly and tranquil 27 is attracted to the color blue."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Ella: Hi, Hebe 。很難過聽到你阿姨的噩耗。 創造出了許多電影的奇蹟。 Hebe: Yeah,她是個可愛的人。我們都會很懷念她的。 魏在當兵時遇到了一個超迷電影的人,之後也開始對 Ella: 電影產生興趣。在進入電影業前,做了 2 年零工。魏導就 Hebe:謝謝你的好意。 是那種人,很願意花時間和錢做出比一般電影水平更高的 (A) 希望她從錯誤中得到教訓。 東西。他關注的不是錢而是品質。他的努力由高票房得到 (B) 我要捉住這個機會恭喜她。 回報,台灣區估計票房為 8 億元左右。魏幾乎花了近 14 (C) 她今年很辛苦。 年時間將 賽德克. 巴萊的想法轉變成電影。“愈多人說那 (D) 我想對你和家人致上我的慰問之意。 不可能, 我愈渴望試試” 。 他對電影的熱愛使他勇往前進 。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_026",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". In other words, we live in a world ____ color.",
+      "image_url": "",
+      "options": [
+        "filled of",
+        "is filled with",
+        "full of",
+        "filling with"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "可用 which is full of 或者 which is filled with;關代後 載,而且有百分之三十的人還付費使用。也就是說,有約 有 be 動詞,關代和 be 動詞皆可省略 1 千 4 百萬人去蘋果電腦的 App 商店付費下載。目前為"
+    },
+    {
+      "id": "MOCK_101_2_ENG_027",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". A person who has an orderly and tranquil ____ is attracted to the color blue.",
+      "image_url": "",
+      "options": [
+        "personality",
+        "humanity",
+        "nationality",
+        "generosity"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "對照第 1 行的 character and nature,讀者知道在討論人 止, 憤怒鳥已被下載了 2 億 5 千萬次。 的性格,因此選 personality 這個遊戲的成功代表了遊戲科技的下一步 — 由電"
+    },
+    {
+      "id": "MOCK_101_2_ENG_028",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". ____, people who choose blue cars seem to be laid-back drivers.",
+      "image_url": "",
+      "options": [
+        "On the contrary",
+        "On the other hand",
+        "For one thing",
+        "That is"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "laid-back 和上句 orderly 和 tranquil 特質相同, 故用 ”that 視、電腦上玩遊戲到在智慧手機和平板電腦玩。越來越少 is” 意為“也就是說” 人會到店裏去買遊戲軟體。現在不論他們人在那裏,都可"
+    },
+    {
+      "id": "MOCK_101_2_ENG_029",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". Red, on the other hand, is a bright color which many people ____ fire and blood.",
+      "image_url": "",
+      "options": [
+        "work with",
+        "let out",
+        "figure out",
+        "associate with"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "紅色讓人聯想到火和血 以直接下載到手機裏玩。電視節目和電影也都是一樣的。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_030",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". People who drive red cars are competitive and hate to ____ by other drivers.",
+      "image_url": "",
+      "options": [
+        "overtake",
+        "be overtaken",
+        "overtaking",
+        "overtook"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "超車 (overtake) 的被動式, be overtaken by 專注於這領域的公司也要能做線上遊戲才能持續賺錢。 Question 31-35"
+    },
+    {
+      "id": "MOCK_101_2_ENG_031",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". Let’s take a look at ____ the LEGO Group has built its own toy empire.",
+      "image_url": "",
+      "options": [
+        "what",
+        "who",
+        "when",
+        "how"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_032",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". Then, a friend suggested he ____ making toys for kids.",
+      "image_url": "",
+      "options": [
+        "starting",
+        "start",
+        "started",
+        "starts"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_033",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". In 1949, LEGO began ____ its famous plastic bricks and they designed the modern LEGO brick about 10 years later.",
+      "image_url": "",
+      "options": [
+        "make",
+        "to make",
+        "to making",
+        "made"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_034",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". ____, bricks made today can still be used with the first bricks made in the late 1950s.",
+      "image_url": "",
+      "options": [
+        "Amazingly",
+        "Unfortunately",
+        "Suddenly",
+        "Luckily"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_035",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". Today, there are even robotic LEGO sets that ____ programmable bricks for all the techies out there.",
+      "image_url": "",
+      "options": [
+        "further",
+        "feather",
+        "feature",
+        "future ▲ 下篇短文共有 5 個空格,為第 36 至 40 題,請依短文文意,選出一個最適合該空格的答案。 “Don’t be afraid of taking chances when you are young,” says movie director Wei Te-Sheng. “ 36, you fail. That’s better than being trapped in a life of boredom, simply because you’re afraid to pursue your interests.” It is the thinking 37 has helped the director create many movie miracles. Wei became interested in making movies after he met a big movie fan during military service. Working odd jobs for two years, he finally found a director to bring him into the movie business. Wei was the one who 38 spend time and money making his movie better than average. What he thought was not about money, but about the quality. His efforts 39 by huge box-office returns which was estimated around 8 hundred million dollars in Taiwan. It took Wei nearly 14 years to turn the idea of Seediq Bale into a movie ready for the theaters. “ 40 everyone says it’s impossible,” says Wei, “the more eager I am to give it a shot.” His love of movies drives him on."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_036",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". “ ____, you fail.",
+      "image_url": "",
+      "options": [
+        "At large",
+        "At last",
+        "At least",
+        "At worst"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "(A) 逍遙法外 (B) 最後地 (C) 至少 (D) 最糟地 三、綜合測驗 根據文意選 (D) At worst Question 26-30"
+    },
+    {
+      "id": "MOCK_101_2_ENG_037",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ".” It is the thinking ____ has helped the director create many movie miracles.",
+      "image_url": "",
+      "options": [
+        "what",
+        "who",
+        "whenever",
+        "that"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_038",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". Wei was the one who ____ spend time and money making his movie better than average.",
+      "image_url": "",
+      "options": [
+        "was willing to",
+        "was unable to",
+        "was used to",
+        "was far from"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_039",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". His efforts ____ by huge box-office returns which was estimated around 8 hundred million dollars in Taiwan.",
+      "image_url": "",
+      "options": [
+        "rewarded",
+        "was rewarded",
+        "were rewarded",
+        "rewarding"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_040",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": ". “ ____ everyone says it’s impossible,” says Wei, “the more eager I am to give it a shot.",
+      "image_url": "",
+      "options": [
+        "Besides",
+        "In addition to",
+        "The more",
+        "The better"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_041",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "What is discussed in the passage?",
+      "image_url": "",
+      "options": [
+        "The history of iPhones.",
+        "How games evolved on TV.",
+        "The popularity of a game.",
+        "The connection between iPhones and games."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_042",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "How many years ago was Angry Birds designed?",
+      "image_url": "",
+      "options": [
+        "Ten years ago.",
+        "No more than 5 years ago.",
+        "Over twenty years ago.",
+        "One year ago."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-2-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_2_ENG_043",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "How can users get the game Angry Birds?",
+      "image_url": "",
+      "options": [
+        "They can buy it from TV commercials.",
+        "They can buy it from a store in a mall.",
+        "They can download it with a cellphone.",
+        "They can rent it from Blockbuster."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "使用者如何能夠玩憤怒鳥? (A) 從電視廣告購買。 (B) 從購物廣場的店購買。 (C) 從手機下載。 (D) 從百事達租。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_044",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "What does the success of Angry Birds indicate?",
+      "image_url": "",
+      "options": [
+        "No one would like to pay for the game.",
+        "Games have a place on cell phones.",
+        "iPhones are popular among young people.",
+        "More and more people would like to buy the game."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "憤怒鳥的成功指出何事? (A) 沒人願意付錢玩遊戲。 (B) 遊戲在手機上占有一席之地。 (C) 年輕人很瘋 iPhones 。 (D) 越來越多的人會付錢買遊戲來玩。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_045",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Which of the following is true?",
+      "image_url": "",
+      "options": [
+        "Game companies will make a fortune if they move online.",
+        "Products of App store are with low price.",
+        "You have to pay for the game, then you can play Angry Birds.",
+        "Android phones will never catch up to iPhones."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "下列哪一項是對的? (A) 遊戲軟體業者若可以做線上遊戲,會賺錢。 (B) App 商店的產品很便宜。 (C) 你要玩憤怒鳥,一定要付費。 (D) Android 的系統,永遠趕不上 iPhones 。 Question 46-50 2011 年 10 月,中國大陸廣東省 1 個 2 歲的小女孩發 生了悲劇。小女孩在家裏附近的街道上被一輛車子輾過。 她倒在地上血流不止,有很多人經過,但沒有一個人救 她。更可憐的是,又有一輛車輾過她。大約 5 分鐘之後, 終於有個善心的老太太把她送到醫院。不幸地,小女孩 8 天後死亡。 監視器錄下了這可怕的事件,畫面也被上傳到網路上 並迅速地傳到全世界。很多看過影片的人對於大陸民眾缺 乏關心別人一事,覺得困惑。社交網站也有很多人發表對 此事件的憤怒。他們認為這事件是中國大陸道德日漸淪喪 的象徵。 廣東的官員表達了對此悲劇的哀痛且召開會議來討 論可以做什麼來阻止這樣的情形再度發生。其中一個可能 就是通過法令來處罰見死不救的人。不論法令是否通過, 一定要做些事來阻止人們自私的行為"
+    },
+    {
+      "id": "MOCK_101_2_ENG_046",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Which of the following word is the closest to the underlined word ” bewildered”?",
+      "image_url": "",
+      "options": [
+        "delighted",
+        "amused",
+        "indifferent",
+        "puzzled"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "第 2 段畫底線的字“ bewildered ”和下列那個字最接 近? (A) 愉快的 (B) 開心的 (C) 冷漠的 (D) 困惑的"
+    },
+    {
+      "id": "MOCK_101_2_ENG_047",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "Who finally helped the girl?",
+      "image_url": "",
+      "options": [
+        "Officials in Guangdong",
+        "The car driver",
+        "Her neighbors",
+        "An old lady"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "誰最後幫了那位女孩? (A) 廣東的官員 (B) 司機 (C) 她的鄰居 (D) 一位老太太"
+    },
+    {
+      "id": "MOCK_101_2_ENG_048",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "What is Not true about the terrible incident?",
+      "image_url": "",
+      "options": [
+        "The girl recovered from her injuries.",
+        "Two different cars hit the girl.",
+        "The incident drew public attention.",
+        "Only a person tried to help the girl."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "以下何者為非? (A) 這個女孩康復了。 (B) 2 台不同的車輾過她。 (C) 此事件引起公眾的注意。 (D) 只有 1 個人幫助小女孩。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_049",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "What is the main point of the article?",
+      "image_url": "",
+      "options": [
+        "The incident led to new rules in China.",
+        "Bad driving in China resulted in the death of a poor girl",
+        "A lot of people were stunned by the heartless of some Chinese.",
+        "People in China uploaded the recording of the incident."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "文章的重點在於? (A) 這事件使得中國新法令通過。 (B) 大陸人的開車習慣不好才導致小女孩死亡。 (C) 很多人對於某些大陸民眾的冷血很吃驚。 (D) 大陸的民眾上傳此事件的影片 。"
+    },
+    {
+      "id": "MOCK_101_2_ENG_050",
+      "subject": "英文",
+      "unit": "101-2-四技二專-英文",
+      "q": "What did the officials in Guangdong do after the incident?",
+      "image_url": "",
+      "options": [
+        "They punished those who didn’t help the girl.",
+        "They rewarded the one who sent the poor girl to the hospital.",
+        "They held a meeting and discussed the case.",
+        "They passed a law."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "此事件之後,廣東的官員做了什麼? (A) 處罰沒有救小女孩的人。 (B) 獎賞送小女孩去醫院的人。 (C) 召開會議並討論此事。"
+    }
+  ]
+}

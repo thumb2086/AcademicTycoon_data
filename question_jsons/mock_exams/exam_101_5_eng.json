@@ -1,0 +1,805 @@
+{
+  "bundle_id": "MOCK_101_5_ENG",
+  "questions": [
+    {
+      "id": "MOCK_101_5_ENG_001",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Most stores don’t want customers to bring their pets inside, but they do people to bring in seeing-eye dogs.",
+      "image_url": "",
+      "options": [
+        "persuade",
+        "proceed",
+        "pursue",
+        "permit"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "大部分商店不想要客人帶寵物進入,但他們會 二、對話題 人們帶導盲犬。"
+    },
+    {
+      "id": "MOCK_101_5_ENG_002",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "The boxes colorful shells that I found at the seashore in Hualien.",
+      "image_url": "",
+      "options": [
+        "contain",
+        "conduct",
+        "confess",
+        "confine"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這些盒子 我在花蓮海岸邊找到的彩色貝殼。 Julia: 如果你不 介 意,我想跟你 借筆 記。 (A) 裝有 (B) 帶領 (C) 坦白 (D) 限制 Andrew:沒 問 題 。"
+    },
+    {
+      "id": "MOCK_101_5_ENG_003",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "In some circumstances, people take aspirin to headaches.",
+      "image_url": "",
+      "options": [
+        "emphasize",
+        "eliminate",
+        "encounter",
+        "evaluate"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "在某些情況下,人們會服用阿斯匹靈來 頭痛。 (A) 怎麼回 事? (B) 可以幫 我一 個忙嗎? (A) 強調 (B) 消除 (C) 遭遇 (D) 評估 (C) 我 可以改 期 嗎? (D) 一 切還順利嗎?"
+    },
+    {
+      "id": "MOCK_101_5_ENG_004",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Mrs. Anderson has been a(n) at the hospital for so many years after retirement because she thinks devoting her time and energy to providing assistance to patients makes her life meaningful.",
+      "image_url": "",
+      "options": [
+        "investor",
+        "volunteer",
+        "philosopher",
+        "scholar"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Anderson 太太退休後一直在醫院擔任 好幾年"
+    },
+    {
+      "id": "MOCK_101_5_ENG_005",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Steps are being taken to the remaining historical sites for future generations.",
+      "image_url": "",
+      "options": [
+        "exaggerate",
+        "preserve",
+        "threaten",
+        "vanish"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "為了未來的下一代,採取許多措施來 遺留的歷 (A) Jake 頭 腦真 好 /真聰明 。 史古蹟。 (B) Jake 是 個 有 點 子 /創 意的人。 (A) 誇大 (B) 保存 (C) 威脅 (D) 消失 (C) Jake 真 的 很勇敢 。"
+    },
+    {
+      "id": "MOCK_101_5_ENG_006",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Stephenie Meyer, the author of Twilight series, indicated that in her writing, she drew her from literary classics, such as Pride and Prejudice and Romeo and Juliet.",
+      "image_url": "",
+      "options": [
+        "inspiration",
+        "competition",
+        "recognition",
+        "pretention"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "《暮光之城》 系列的作者 Stephenie Meyer 指出,她的 (D) Jake 太 過 分了。 寫作 來自文學經典作品像是 《傲慢與偏見》 或"
+    },
+    {
+      "id": "MOCK_101_5_ENG_007",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Mary decided to this messy attic into a charming and cozy guestroom.",
+      "image_url": "",
+      "options": [
+        "transcribe",
+        "translate",
+        "transform",
+        "transport"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Mary 決定將這間雜亂的閣樓 成迷人舒適的客 Lisa: 好的, 先 生。 房。 Charles:六位 。 (A) 抄寫 (B) 翻譯 (C) 轉變 (D) 運輸 (A) 您較喜歡坐哪? (B) 您 想要 訂 幾 張桌 子?"
+    },
+    {
+      "id": "MOCK_101_5_ENG_008",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Out of his for my working overtime, the boss gave me an extra day of vacation.",
+      "image_url": "",
+      "options": [
+        "fatigue",
+        "damage",
+        "quarrel",
+        "gratitude"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "因為對我加班的,老闆多給我一天的假期。 (C) 您 會 什麼 時間到 達? (D) 請 問多少 位? (A) 疲勞 (B) 損害 (C) 爭吵 (D) 感激"
+    },
+    {
+      "id": "MOCK_101_5_ENG_009",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "You’d better be careful about what you say to Joanne. You know how she is to criticism—she takes everything to heart.",
+      "image_url": "",
+      "options": [
+        "sensible",
+        "sensitive",
+        "sensory",
+        "sensational"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "你跟 Joanne 說的話最好要注意,你知道她對批評有多 。,她會把每件事記在心裡。 Miranda: 但你知道我這幾天 已 有多 忙 。 (A) 睿智的 (B) 敏感的 (C) 感覺的 (D) 聳動的 Angela: 這 樣 不 公平 。"
+    },
+    {
+      "id": "MOCK_101_5_ENG_010",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Far bigger than elephants, the most enormous land animals ever to walk on Earth were dinosaurs.",
+      "image_url": "",
+      "options": [
+        "giant",
+        "ancient",
+        "urgent",
+        "permanent"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "比大象大得多,曾經在地球上行走最 陸生動物 Miranda: 好, 那 我 今 天 打掃 。 是恐龍。 (A) 輪 到你了。 (B) 我們 處境相同 。 (A) 巨大的 (B) 古老的 (C) 緊急的 (D) 永久的 (C) 你情況 很糟 。 (D) 不要 拐彎抹角 。"
+    },
+    {
+      "id": "MOCK_101_5_ENG_011",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "The minimum number of people allowed for each bus tour is eight. If fewer people sign up, the trip will be canceled.",
+      "image_url": "",
+      "options": [
+        "casual",
+        "entire",
+        "global",
+        "least"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "每趟巴士遊覽 人數是八人,如果少於八人報"
+    },
+    {
+      "id": "MOCK_101_5_ENG_012",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "We will have to endure a few more weeks of cold, gray winter before spring arrives.",
+      "image_url": "",
+      "options": [
+        "allow",
+        "delay",
+        "greet",
+        "stand"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "在春天來臨之前,我們將必須 幾週寒冷灰暗的 有好感。 冬天。 Zack: 是他 喔! 他 就 是 總 是 抓住機 會要跟 妳講 話的 那 (A) 允許 (B) 延遲 (C) 問 候 (D) 忍受 個 人。"
+    },
+    {
+      "id": "MOCK_101_5_ENG_013",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "From a backpacker’s point of view, the greatest trait of traveling in Taiwan is the hospitality of local people.",
+      "image_url": "",
+      "options": [
+        "rumor",
+        "feature",
+        "leisure",
+        "injury"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "從 一 個背包 客的 觀點 來 看,在 台灣 旅行最大的 (A) 這 還 用你說。 (B) 這 無庸置疑 。 是 當 地人的 熱 情好客。 (C) 你 還 知道些 什麼? (D) 你一定記得! (A) 謠言 (B) 特 色 (C) 閒暇 (D) 受傷"
+    },
+    {
+      "id": "MOCK_101_5_ENG_014",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "After the shower, the sun emerged from behind the clouds.",
+      "image_url": "",
+      "options": [
+        "occurred",
+        "entered",
+        "appeared",
+        "located"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "在 陣雨 之後,太 陽從雲層中 。 David: 我們 可以 在學期 初辦 一 場戲劇表演 。 (A) 發 生 (B) 進入 (C) 出 現 (D) 位 於 Vicky: 好 主 意!"
+    },
+    {
+      "id": "MOCK_101_5_ENG_015",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Many people were killed in the collision between the bus and the car on the highway.",
+      "image_url": "",
+      "options": [
+        "crash",
+        "breeze",
+        "device",
+        "muscle 二、對話題 說明:第 16 ~ 25 題,請依對話內容,選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "許多人在 高速公路 上的巴士 與汽車 車禍中喪 David:沒錯! 生。 (A) 今 天 就 到 此 為 止 。 (B) 你 胡扯 。 101-5 共同考科 英文 (C) 這 沒什麼 大不了。 (D) 那 一定會進行的 很順利 。"
+    },
+    {
+      "id": "MOCK_101_5_ENG_016",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Julia: Excuse me, I had difficulty following the lecture. Andrew: Sure. What do you need? You want to take a look at my notes? Julia: Oh! I’d like to borrow your notes if you don’t mind. Andrew: Not at all.",
+      "image_url": "",
+      "options": [
+        "What’s going on?",
+        "Could you do me a favor?",
+        "May I take a rain check?",
+        "How is everything?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_017",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Student A: I heard Jake got straight A’s last semester. Student B: Yes, that’s true. I almost flunked my chemistry class, but his notes rescued me. Student A:",
+      "image_url": "",
+      "options": [
+        "Jake is a real brain.",
+        "Jake is a man of ideas.",
+        "Jake certainly showed a lot of nerve.",
+        "Jake has gone too far."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_018",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Charles: Hello. Is this Rocha Restaurant? Lisa: Speaking. May I help you? Charles: Yes, I’d like to book a table for tonight, please. Lisa: Certainly, sir. Charles: A party of six.",
+      "image_url": "",
+      "options": [
+        "Where would you prefer to sit?",
+        "How many tables would you like?",
+        "At what time can we expect you?",
+        "For how many persons, please?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_019",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Angela: I’ve been cleaning our room for the last five days. today. Miranda: But you know how busy I have been these days. Angela: It’s not fair. Miranda: OK. I’ll do it today.",
+      "image_url": "",
+      "options": [
+        "It’s your turn",
+        "We’re in the same boat",
+        "You’re in bad shape",
+        "Don’t beat around the bush"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_020",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Lily: Guess what! I saw Nash in the class reunion yesterday. Zack: Nash? I don’t think I remember him. Lily: Nash had a crush on me in our freshman year. Zack: That’s him! He’s the one who always seized the chance to talk to you.",
+      "image_url": "",
+      "options": [
+        "You’re telling me.",
+        "That can’t be denied.",
+        "What else do you know?",
+        "Sure you do!"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_021",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Vicky: How shall we raise money for our drama club in the next semester? David: Let’s put up a play at the beginning of the semester. Vicky: Good idea! David: You bet!",
+      "image_url": "",
+      "options": [
+        "Let’s call it a day.",
+        "You’re full of it.",
+        "It’s not a big deal.",
+        "That’ll get the ball rolling."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_022",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Brittany: I have so much work to do. I don’t know where to start. Erin: Tell me what you have to do and I’ll try to help you. Brittany: I’m really lucky to have such a nice colleague like you. Erin: You owe me one.",
+      "image_url": "",
+      "options": [
+        "Knock it off.",
+        "Turn it down.",
+        "Lighten up.",
+        "Pardon me."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Brittany: 我有 很 多工作要 做,不知道要 從哪開始? (C) 儘管 (D) 除 此 之 外... 還 有 Erin: 告訴 我你要 做 的事,我會 試著"
+    },
+    {
+      "id": "MOCK_101_5_ENG_023",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Joseph: I’d like to open a saving account. Bank Teller: Yes, sir. Would you please fill out this form? Joseph: Two thousand dollars. Bank Teller: Yes, sir. Your bankbook will be ready in a few minutes.",
+      "image_url": "",
+      "options": [
+        "What’s your saving for?",
+        "How much will your withdraw be?",
+        "How much will your initial deposit be?",
+        "How many ATM cards would you like to apply for?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Joseph: 我想要 開 存 款帳戶 。 間 也 較 少, 電 玩也 被認為太 暴力, 舉例 來說,加 州 大學心 銀 行行 員: 好的, 先 生。 請您填 寫這 張表格, 理 學 教授 Patricia Greenfield 提 到, 當 她問一 個 男 生為 什麼 喜歡電 玩更勝 過 於 看電 視,他 回 答: 「 在 電 視 上,如果你 Joseph:兩千元 。 想 讓 一 個 人 死,你 沒辦法做 到。 」另 一 方面而 言, 電 玩擁 銀 行行 員: 好的, 先 生。你的存 摺 將 稍 後會為 您準備 護 者 主張 遊 戲提 供 一些 益 處, 宣稱 遊 戲可以 增 進 推理 能 好。 力 。學生為了要 應付 一些遊 戲中 呈 現 出 具 有 挑戰性 的情 (A) 你存 款 要 做什麼? 況,他們必須 發 展 出 以快速 及 有 邏輯 的 方 法 來 思考及 回 應 (B) 你將要 提款 多少 錢? 的 能 力 。 此外, 電 玩 可提 升 電腦 使用的 正 向 觀點, 喜歡 玩 (C) 你將要存多少 錢? 遊 戲 的學生,在學 校 對使用 電腦 的學 習 可能 會有 更樂 意 回 (D) 你要 申請 多少 張提款卡? 應 。"
+    },
+    {
+      "id": "MOCK_101_5_ENG_024",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "(On the phone...) Secretary: Good morning, Megan Tech. How may I help you? Johnson: May I speak to Mr. Webster, please? Secretary: I’m sorry. He is in a meeting right now. Johnson: OK. Please tell him the APA conference will be on this coming Friday.",
+      "image_url": "",
+      "options": [
+        "May I have your name, please?",
+        "May I take a message?",
+        "May I have your phone number?",
+        "May I put you on hold?"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "秘書:早安!梅根科技公司 。我 能 為 您效 勞 嗎?"
+    },
+    {
+      "id": "MOCK_101_5_ENG_025",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Customs Officer: What’s your purpose of the visit? May: I’m just traveling. Customs Officer: May: Here you are. My friend and I plan to spend three days in New York, four days in Boston, and then come back to New York for another three days. Customs Office: Sounds like a great trip. Have a nice trip!",
+      "image_url": "",
+      "options": [
+        "Do you have an itinerary?",
+        "Do you have any illegal drugs with you?",
+        "Do you have your passport?",
+        "Do you have anything to declare? 三、綜合測驗 說明:以下三篇短文,共有 15 格空格,為第 26 ~ 40 題,每題有四個選項,請依各篇短文文意, 選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 26 至 30 題,請依短文文意,選出一個最適合該空格的答案。 Susan Timberlake is a bus driver in San Francisco. Her job has few surprises, and she follows more or less the same 26 every working day. Recently, Susan found an envelope that a passenger left on her bus. At one of her stops, she walked to the seat where the envelope was lying, picked it up, and 27 it back to her seat. 28 her tight schedule, she didn’t bother to open it until later that day. When she did open it, she was 29 to find a stack of $100 bills. She found there were 146 bills in the envelope after counting them. Susan turned the money in to the lost and found office. There was no name or address on the envelope, but the passenger who had left the envelope on the bus eventually called the office looking for his envelope. The passenger offered Susan a 30 to thank her for her honorable deed, but she refused and said that returning the lost property is what every citizen should do."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "海 關官員: 你這 次拜訪 的 目 的是 什麼? Eric Erikson 將成人時期分為 三 階段,他認為在 第 一 May: 我要 去 旅行。 階段 年 輕 的成人的 主 要任 務 是 達 成 親密感, 擁 有 穩 定的身 海 關官員: 分認 同 的年 輕 人,會 渴望並也 能 夠 在 關 愛 的 關 係 中,將自 May: 有,在這裡,我 朋友 跟我 計畫 在 紐約待三 天, 己 的身分認 同與 他人的身分認 同 融合, 而 不會有自我競爭 在 波 士 頓四 天,然後 再回紐約停 留 三 天。 或自我迷失的恐 懼, 避 開 承諾 的年 輕 人會經歷 孤立 。 海 關官員:聽起 來是 很棒 的旅行, 祝您 旅 途愉快! 在 中 年時期, 個 人 與社 會的 關 注 議題 會 融合 在一 起, (A) 妳 有旅行 計畫嗎? 成人會覺得他們要 貢獻 一些有 價值 的 東西 給 社 會, 並透 過 (B) 妳 有帶 非法毒 品 嗎? 父母親 或 其 他身分的 角 色,投入 引 導下一代,這些 中 年人 (C) 妳 有帶 妳 的 護照嗎? 會經歷 傳承創新 。然 而, 凡 是 無法達 成的人,會經歷 「 停 (D) 妳 有 沒 有 什麼 要 申 報? 滯 不前 」: 一 種 不知 何去何從 之感 、並盡 是 做 些不 重 要的 事。 三、綜合測驗 傳承創新 為老年的 圓滿 ― 此 生 已 完整 地 度 過 的感覺 ― 26-30 題 奠 定 基礎 。 凡 達 成 圓滿 境 界 的老年人,會對他們 所 做 的 選 Susan Timberlake 是 個 在 舊金山 的 公車司機,她的工 擇滿 意, 並且 覺得 若 可以再從 頭 渡 過 一生,他們會 再做相 作 很 少有意 外 之事,她在每 個 工作天 循著 或多或少的 相同 同 的事,他們將 死亡視 為一趟有意旅 程 的 終 點 站 。 的 慣例 。最 近 Susan 在她的 公車 上 發現乘 客遺留的一 個信"
+    },
+    {
+      "id": "MOCK_101_5_ENG_026",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". Her job has few surprises, and she follows more or less the same ____ every working day.",
+      "image_url": "",
+      "options": [
+        "protest",
+        "routine",
+        "triumph",
+        "shelter"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "(A) 抗 議 (B) 慣例 (C) 勝 利 (D) 避難所 青 春期的年 輕 人來說是 個 惱 人的問 題, 油性 肌 膚 的 孩 子 較"
+    },
+    {
+      "id": "MOCK_101_5_ENG_027",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". At one of her stops, she walked to the seat where the envelope was lying, picked it up, and ____ it back to her seat.",
+      "image_url": "",
+      "options": [
+        "bring",
+        "brings",
+        "brought",
+        "bringing"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "主 詞 是 she,動 詞 1 為 walked,動 詞 2 為 picked,用 可能 在 臉 上 、 背 部 、 或 胸 部有 痘痘 或 黑 頭 粉刺 。 粉刺 的 造 and 連接 動 詞 3 時 態 一 致,因 此 選 過去 簡單式 成是因為 皮膚 下的 油脂腺阻塞,在 青 少年 荷爾蒙旺盛 的 影 (C) brought 101-5 共同考科 英文 響 下, 油脂腺功 能 失 常, 油脂 在 毛細孔 裡 阻塞, 皮膚 表 面 旅行時是 個停 留的好地 方; 兩 顆 星表 示廚藝 精 湛, 值 得 繞 出 現發 炎, 細菌侵 入進 而造 成感 染, 常見 的 痘痘便 是這 種 路; 三 顆 星 是指 超 凡 佳餚, 值 得一趟 特 別 的旅行。 只 有 五 過 程 的 結 果。 千 分之一的 餐廳 有 可能 得到 三 顆 星 。 雖 然 仔細清洗皮膚並 無法 預防粉刺,但 過 多的 髒污 一 根 據 《米 其 林 指 南》 的說 法,會有一 組匿 名 視 察 員根 定會使之 惡 化 。因 此,保 持皮膚清潔 很 重 要,因為 它 會 幫 據 一 組嚴謹 的 標 準 定期地評估 餐廳: 食 材 的品 質、食 物 風 助減 少 細菌量及減 輕 感 染 。你要記 住 的是,在 皮膚 上的 油 味組 合及 準備 的 技 巧、 創 意的 層次 、 物有 所值及 烹飪標 準 脂 和 乳脂 會使問 題 惡 化, 應該 一天 兩次 要用 溫水及溫 和 肥 的一 致性,為了使評分系 統 具 有 效 性, 米 其 林 全 職 的 專 業 皂 或 洗面乳 輕輕 洗淨臉 部,來 去 除 臉 部 油脂及 角 質,使用 視 察 員 不會說出自 己 的身分,他們的 餐點 均 由 米 其 林 公司 肥皂 或 洗面乳 可以 有 效去 除 皮膚油脂及減 少 細菌 在 皮膚 付 費, 同 時,他們 甚 至 被強 烈 建 議 不 可 對 揭露 他們暗 中 進 滋 生的數 量 。 至 於 洗面乳, 建 議 不要使用 去角 質洗面乳、 行的工作, 即 使 父母也 不行。 清潔泡芙、 或是 毛巾,這些 都 會 刺 激 皮膚造 成 青 春 痘產 經年 累月 下來 米 其 林 指 南 已發 展 成為 美 食 家用 餐 的 生。 蒸氣 可 助 打開 阻塞 的 毛孔, 所 以 皮膚 科 醫 師建 議熱 敷 基 準, 它 的系列有 27 本 指 南 書, 涵蓋 3 大 洲 23 國,全球 是有用的,他們 同 時 也建 議 保 持 個 人 衛 生 及藥 物的使用。 超 過四 萬 五千 家 餐廳 。 它 肯 定是在 烹飪 界 定義 完 美 、 最 令 然 而,他們 雖 沒提 到 飲食,但有一報 告 指出, 與 一 般 大 眾 人 尊敬 及 可靠 的指 南 。 認知 相 反 的是, 巧克力 與 粉刺 的 惡 化沒什麼關 係 。"
+    },
+    {
+      "id": "MOCK_101_5_ENG_028",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". ____ her tight schedule, she didn’t bother to open it until later that day.",
+      "image_url": "",
+      "options": [
+        "Owing to",
+        "Even though",
+        "Despite",
+        "Besides"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_029",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". When she did open it, she was ____ to find a stack of $100 bills.",
+      "image_url": "",
+      "options": [
+        "shock",
+        "shocks",
+        "shocked",
+        "shocking"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_030",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". The passenger offered Susan a ____ to thank her for her honorable deed, but she refused and said that returning the lost property is what every citizen should do.",
+      "image_url": "",
+      "options": [
+        "remedy",
+        "reward",
+        "reform",
+        "receipt"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_031",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". The games, they say, ____ students from reading and studying.",
+      "image_url": "",
+      "options": [
+        "distort",
+        "distract",
+        "dismiss",
+        "disguise"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "(A) 扭曲 (B) 使分心 (C) 解散 (D) 偽 裝 Johnson:麻煩請 找 Webster 先 生。"
+    },
+    {
+      "id": "MOCK_101_5_ENG_032",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". Video games are also viewed as ____ too violent.",
+      "image_url": "",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "as 為 介 係詞所 以 選 be 動 詞 的動名 詞 (D) being 秘書:很抱歉,他 現 在 正 在 開 會,"
+    },
+    {
+      "id": "MOCK_101_5_ENG_033",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ".” ____, defenders of video games maintain that the games offer certain benefits.",
+      "image_url": "",
+      "options": [
+        "On the other hand",
+        "For one thing",
+        "To be frank",
+        "On the whole"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "(A) 另 一 方面而 言 (B) 一 則 Johnson: 好, 請告訴 他 APA 會 議 將在這 星 期 五舉 行。 (C) 坦白說 (D) 整體而 言 (A) 請 問大名?"
+    },
+    {
+      "id": "MOCK_101_5_ENG_034",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". To deal with the challenging situations ____ by some games, students must develop their ability to think and respond in a quick, logical way.",
+      "image_url": "",
+      "options": [
+        "present",
+        "presents",
+        "presented",
+        "presenting"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "被動的分 詞故選 (C) presented (B) 可以幫您 留下 訊息嗎?"
+    },
+    {
+      "id": "MOCK_101_5_ENG_035",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". ____, video games promote a positive view of computers.",
+      "image_url": "",
+      "options": [
+        "In contrast",
+        "In addition",
+        "However",
+        "Therefore ▲ 下篇短文共有 5 個空格,為第 36 至 40 題,請依短文文意,選出一個最適合該空格的答案。 Eric Erikson divided adulthood into three stages. In his view, the central task of the first stage, young adulthood, is that of 36 intimacy. The young person who has a firm sense of identity is eager and able to fuse his or her identity with another person’s in a loving relationship, without fear of competition or loss of self. A young person who 37 commitment may experience isolation. In middle age, personal and social concerns merge. Adults who feel they have contributed something of value to society and who are involved in guiding the next generation as parents or in other roles 38 generativity. Those who do not, however, experience “stagnation”— a sense of going nowhere, and doing nothing important. Generativity lays the 39 for integrity in old age, a sense of a life well lived. Older people who have achieved integrity are satisfied with the 40 they made and feel that had they a second life to live, they would “do it all over again.” They see death as the final stop in a meaningful journey."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "(A) 相 反 地 (B) 此外 (C) 然 而 (D) 因 此 (C) 可以 留下 您 的 電 話 嗎? (D) 可以請您稍等嗎? 36-40 題"
+    },
+    {
+      "id": "MOCK_101_5_ENG_036",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". In his view, the central task of the first stage, young adulthood, is that of ____ intimacy.",
+      "image_url": "",
+      "options": [
+        "commenting",
+        "achieving",
+        "declining",
+        "excluding"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_037",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". A young person who ____ commitment may experience isolation.",
+      "image_url": "",
+      "options": [
+        "avoids",
+        "obtains",
+        "revises",
+        "embraces"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_038",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "tributed something of value to society and who are involved in guiding the next generation as parents or in other roles ____ generativity.",
+      "image_url": "",
+      "options": [
+        "experience",
+        "experiences",
+        "experienced",
+        "experiencing"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_039",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". Generativity lays the ____ for integrity in old age, a sense of a life well lived.",
+      "image_url": "",
+      "options": [
+        "invitation",
+        "aspiration",
+        "temptation",
+        "foundation"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_040",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": ". Older people who have achieved integrity are satisfied with the ____ they made and feel that had they a second life to live, they would “do it all over again.",
+      "image_url": "",
+      "options": [
+        "errors",
+        "cures",
+        "choices",
+        "excuses"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_041",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "Acne and pimples on oily skin.",
+        "Formation and treatment of acne.",
+        "Cleaning and hot compresses for oily skin.",
+        "Cleansing and diet for treating acne."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "本 文 主 要和 什麼 有 關? (A) 米 其 林兄弟 在 法 國 的成 就 (A) 在 油性皮膚 上的 粉刺 與 痘痘 (B) 米 其 林 視 察 員 的 美 食 家用 餐 (B) 粉刺 的 形 成 與 治 療 (C) 米 其 林 指 南 的評分系 統 (C) 油性 肌 膚 的 清潔 與熱 敷 (D) 米 其 林 指 南 的的 發 展 (D) 治 療粉刺 的 清潔 與 飲食"
+    },
+    {
+      "id": "MOCK_101_5_ENG_042",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Based on the passage, hot compresses are helpful in the treatment of acne because.",
+      "image_url": "",
+      "options": [
+        "they will clean the skin",
+        "they effectively remove skin oil",
+        "they help open the clogged pores",
+        "they can cause changes in the oily skin"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根 據 此 文, 熱 敷 在 治 療粉刺 上有 幫 助 是因為 (A) 菜餚 的 創 意 。 (B) 廚 師 的 烹飪 技 巧 (A) 它可以 清潔 肌 膚 (C) 食 材 的品 質 (B) 它 有 效去 除 皮膚油脂 (D) 餐廳 的 氣 氛 (C) 它幫 助 打開 阻塞 的 毛孔"
+    },
+    {
+      "id": "MOCK_101_5_ENG_043",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Which of the following statements is NOT true?",
+      "image_url": "",
+      "options": [
+        "The clogging of oil glands results in acne under the skin.",
+        "The common pimple results from clogging pores and infection.",
+        "Chocolate bars are closely-related to the worsening of acne.",
+        "Besides hygiene, medications can be applied to prevent acne."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "下列 哪 一 項敘述 是 錯 的? (B) 不 尋 常 的 (A) 油脂腺阻塞造 成 皮膚 下的 粉刺產 生 (C) 不 可能 地 (B) 常見 的 痘痘 是 由 於 毛孔阻塞及 感 染 (D) 不 滿 意的 (C) 巧克力 對於 粉刺 的 惡 化 有 密 切關 係"
+    },
+    {
+      "id": "MOCK_101_5_ENG_044",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "In the skin cleansing, it is suggested that.",
+      "image_url": "",
+      "options": [
+        "the face be scrubbed with an abrasive soap twice a day",
+        "the face be cleansed effectively only with lukewarm water",
+        "washcloth and cleansing puff be used to cleanse the face to prevent breakouts",
+        "mild cleanser be used to remove skin oil effectively"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "在 清潔 肌 膚 上, 建 議 應該 要 。 (B) 米 其 林 指 南 視 察 員可 由 店家 請 客在 世 界 級 的 餐廳 (A) 用 去角 質肥皂 一天 去 除 臉 部 角 質 兩次 用 餐 (B) 只 用 溫水 有 效 清洗臉 部 (C) 米 其 林 三星餐廳 在全球是少 見 的 (C) 用 毛巾 和 清潔泡芙洗臉 可 預防青 春 痘 (D) 米 其 林 指 南 就餐廳 的 歡 迎 程度授 予 一到 三星 的評 (D) 溫 和的 洗面乳 可 有 效 用來 去 除 肌 膚油脂 等"
+    },
+    {
+      "id": "MOCK_101_5_ENG_045",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "According to the passage, who would be the most likely to be annoyed with acne?",
+      "image_url": "",
+      "options": [
+        "Adolescents",
+        "Dermatologists",
+        "Psychologists",
+        "Pharmacists"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根 據 這 篇 文 章, 誰 最有 可能受 到 粉刺 的 困擾?"
+    },
+    {
+      "id": "MOCK_101_5_ENG_046",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "What is the best title of the passage?",
+      "image_url": "",
+      "options": [
+        "The Michelin Brothers’ Achievement in France",
+        "The Michelin Inspectors’ Gourmet Dining",
+        "The Rating System of the Michelin Guide",
+        "The Development of the Michelin Guide"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_047",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Which of the followings is NOT the Michelin criteria of the rating system?",
+      "image_url": "",
+      "options": [
+        "The creativity of the cuisine.",
+        "The chefs’ cooking skills.",
+        "The quality of the ingredients.",
+        "The restaurant’s atmosphere."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_048",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "The word “ anonymous ” in the third paragraph refers to.",
+      "image_url": "",
+      "options": [
+        "unknown",
+        "unusual",
+        "unlikely",
+        "unsatisfied"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_049",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "Which of the following statements is TRUE?",
+      "image_url": "",
+      "options": [
+        "The Michelin Guide was first published to promote chefs’ reputation.",
+        "The Michelin inspectors dine in world-class restaurants on the house.",
+        "The Michelin three-star restaurants are uncommon around the globe.",
+        "The Michelin Guide awards one to three stars to restaurants based on their popularity."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-5-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_5_ENG_050",
+      "subject": "英文",
+      "unit": "101-5-四技二專-英文",
+      "q": "In which of the following magazines is this passage most likely to be found?",
+      "image_url": "",
+      "options": [
+        "Vogue",
+        "Culinary World",
+        "The Economist",
+        "National Geographic"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-5-四技二專-英文解析.pdf"
+    }
+  ]
+}

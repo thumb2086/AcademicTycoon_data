@@ -1,0 +1,805 @@
+{
+  "bundle_id": "MOCK_101_3_ENG",
+  "questions": [
+    {
+      "id": "MOCK_101_3_ENG_001",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Taking exercise regularly is always considered the major secret to healthy.",
+      "image_url": "",
+      "options": [
+        "supporting",
+        "stopping",
+        "supplying",
+        "staying"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "規律地做運動一直被認為是保持健康的主要秘訣。 (A) 支持 (B) 停止 (C) 提供 (D) 保持 二、對話題"
+    },
+    {
+      "id": "MOCK_101_3_ENG_002",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "She looks to me, but I just could not remember where we have met.",
+      "image_url": "",
+      "options": [
+        "fearsome",
+        "familiar",
+        "frightened",
+        "famous"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "我覺得她看起來很面熟,但我就是記不起來我們在哪"
+    },
+    {
+      "id": "MOCK_101_3_ENG_003",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "After consideration, John’s parents gave him to go mountain climbing with his friends.",
+      "image_url": "",
+      "options": [
+        "message",
+        "permission",
+        "description",
+        "appreciation"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "約翰的父母做了考慮之後,允許他和朋友一起去爬 嗎? 山。 麥可:當然喜歡。 (A) 訊息 (B) 允許 (C) 描述 (D) 鑒賞 (A) 當然去,為什麼不呢?"
+    },
+    {
+      "id": "MOCK_101_3_ENG_004",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "College students are encouraged to take part in activities, which help them develop their skills and abilities.",
+      "image_url": "",
+      "options": [
+        "outgoing",
+        "exceptional",
+        "extracurricular",
+        "forbidden"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "大學學生被鼓勵參與課外活動,對他們的技能和能力 (B) 我對此感到遺憾。 的發展有幫助。 (C) 我恐怕不能去。 (A) 外向的 (B) 例外的 (D) 這不關你的事。 (C) 課外的 (D) 被禁止的"
+    },
+    {
+      "id": "MOCK_101_3_ENG_005",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Many people are not aware of the impact of deforestation and its serious harm to the environment.",
+      "image_url": "",
+      "options": [
+        "upgrade",
+        "underestimate",
+        "uncover",
+        "undergo"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "許多人並未意識到砍伐森林的嚴重性,而低估它對環 凱文: 境的嚴重傷害。 班:我是 Ben,我打給你是要說有關明天比賽的事。 (A) 提昇 (B) 低估 (C) 揭露 (D) 經歷 (A) 他不在家。 (B) 你有新的遊戲嗎?"
+    },
+    {
+      "id": "MOCK_101_3_ENG_006",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "This parking space is available only to the disabled. You are not to occupy it.",
+      "image_url": "",
+      "options": [
+        "linked",
+        "restricted",
+        "supposed",
+        "related"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "這個停車位只提供行動不便的人士利用,你不應該佔 (C) 我就是。 (D) 你在哪裡? 用。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_007",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "The computer industry must constantly its products to meet the needs of the market.",
+      "image_url": "",
+      "options": [
+        "innovate",
+        "wound",
+        "describe",
+        "treasure"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "電腦產業必須持續創新產品,以符合市場的需求。 (C) 人生充滿了起起伏伏。 (D) 希望你過得好。 (A) 創新 (B) 傷害 (C) 描述 (D) 珍視"
+    },
+    {
+      "id": "MOCK_101_3_ENG_008",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "I’ve called the restaurant to my reservation for a table for my family reunion on Mother’s Day.",
+      "image_url": "",
+      "options": [
+        "confirm",
+        "deny",
+        "eliminate",
+        "convert"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "我已打電話到餐廳以確定我的訂位,在母親節當日有 珍妮: 你知道嗎,他已快三十六歲 一桌可以進行家庭聚餐。 啦。 (A) 確定 (B) 否認 (C) 排除 (D) 轉變 丹尼爾:我為他感到高興,他終於找到他一直在尋覓"
+    },
+    {
+      "id": "MOCK_101_3_ENG_009",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Albert was upset because he got poor grades in the entrance exam.",
+      "image_url": "",
+      "options": [
+        "touched",
+        "worried",
+        "excited",
+        "amazed"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "亞伯特感到煩惱,因為入學考試成績不理想。 的女子。 (A) 感動的 (B) 煩惱的 (C) 興奮的 (D) 驚訝的 (A) 他昨天剛去剪頭髮。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_010",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "The bill does not include tips for the waitress. You have to make extra payment for her.",
+      "image_url": "",
+      "options": [
+        "cover",
+        "govern",
+        "tolerate",
+        "resolve"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "這帳單不含給服務生的小費,你必須額外支付。 (B) 嗯,是時候了! (A) 包含 (B) 控制 (C) 容忍 (D) 解決 (C) 是的,他終於付了帳單!"
+    },
+    {
+      "id": "MOCK_101_3_ENG_011",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "When the earthquake occurred, she ran out of the building immediately.",
+      "image_url": "",
+      "options": [
+        "absolutely",
+        "certainly",
+        "currently",
+        "instantly"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "地震發生時,她立即從建築物跑出去。 (D) 他太年輕不能結婚。 (A) 絕對地 (B) 確定地 (C) 目前 (D) 立即"
+    },
+    {
+      "id": "MOCK_101_3_ENG_012",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "It is apparent that they are twin sisters because they look the same.",
+      "image_url": "",
+      "options": [
+        "clear",
+        "interesting",
+        "offensive",
+        "beneficial"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "很明顯的,她們是雙胞胎姊妹,因為她們長得一模一 瑞塔:是啊,這是頂級產品,最先進的。 樣。 東尼: (A) 明顯的 (B) 有趣的 (C) 冒犯的 (D) 有益的 瑞塔:絕對值得,這跟其他所有品牌比起來都還優。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_013",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "With strong determination, Yani Tseng has become a world famous golf player.",
+      "image_url": "",
+      "options": [
+        "foundation",
+        "will",
+        "attitude",
+        "value"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "曾雅妮具有強烈的決心,她已成為舉世聞名的高爾夫 (A) 金錢不是萬能。 球選手。 (B) 妳在哪裡買的? (A) 基礎 (B) 意志 (C) 態度 (D) 價值 (C) 這一定花了妳一大筆錢。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_014",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "John looked so ridiculous in that hat that every classmate laughed at him.",
+      "image_url": "",
+      "options": [
+        "distinctive",
+        "humble",
+        "silly",
+        "convincing"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "約翰戴那個帽子看起來很愚蠢,每個同學都笑他。 (D) 妳不知道一旦出貨就不能再退換嗎? (A) 獨特的 (B) 謙虛的"
+    },
+    {
+      "id": "MOCK_101_3_ENG_015",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "According to the weather report, there will be lots of rain next week.",
+      "image_url": "",
+      "options": [
+        "Aside from",
+        "Except for",
+        "With regard to",
+        "Based on 二、對話題 說明:第 16 ~ 25 題,請依對話內容,選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據氣象預測,下星期將有大雨 潔西卡: 今天好累啊。 101-3 共同考科 英文 布萊恩:沒問題,這是我的榮幸。 (C) 原始的 (D) 可用的;可獲得的 (A) 謝了,真感激你,布萊恩。 (B) 讓我一個人靜一靜。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_016",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Michael: Would you like to join us for dinner tonight? Albert: Michael: Great. By the way, we’ll eat Thai food. Do you like it? Albert: Absolutely.",
+      "image_url": "",
+      "options": [
+        "Why not?",
+        "I feel very sorry for it.",
+        "I’m afraid not.",
+        "It’s none of my business."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_017",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Ben: Hello, may I speak to Kevin? Kevin: Ben: This is Ben. I’m calling to tell you about the game tomorrow.",
+      "image_url": "",
+      "options": [
+        "He’s not at home.",
+        "Do you have a new game?",
+        "This is he speaking.",
+        "Where are you?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_018",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Henry: Mrs. Chen, your daughter is the best girl I’ve ever seen. Mrs. Chen: Thank you for your compliment. You’re just being nice to say so. Henry: No, I mean it. She is kind, smart, and pretty.",
+      "image_url": "",
+      "options": [
+        "That’s true.",
+        "She is not that good.",
+        "Life is full of ups and downs.",
+        "Hope you enjoy your life."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_019",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Daniel: I can’t believe he finally tied the knot! Jenny: He’s pushing 36, you know. Daniel: I’m happy for him. He finally found the woman he’s been looking for.",
+      "image_url": "",
+      "options": [
+        "And he just got his hair cut yesterday.",
+        "Well, it’s about time!",
+        "Yes, he finally paid the bill.",
+        "He is too young to get married."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_020",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Tony: Wow, what a stereo system! Rita: Yeah, this is top of the line, state-of-the-art stuff. Tony: Rita: Well, it is definitely worth it. It’s a cut above all other brands.",
+      "image_url": "",
+      "options": [
+        "Money is not everything, you know.",
+        "Where did you buy it?",
+        "It must have cost you a fortune.",
+        "Don’t you know that all sales are final?"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_021",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Brian: That was a wonderful dinner, Jessica. Can I help you with the dishes? Jessica: It’s been a long day. Brian: Sure thing! It’s my pleasure.",
+      "image_url": "",
+      "options": [
+        "Thanks, I really appreciate it, Brian.",
+        "Leave me alone.",
+        "You’ve gone too far.",
+        "Let’s go Dutch."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_022",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Lucy: Tina: Really? I don’t think that many people would go for horror movies these days. Lucy: Oh, it’s a thriller! You’ll love it. They say it’s one of the best hits of the summer. Tina: You’re really getting me pumped up for this movie. I hope it’s as great as you say it is!",
+      "image_url": "",
+      "options": [
+        "No comment on the movie.",
+        "I really enjoyed the movie.",
+        "This movie scared me a lot.",
+        "This movie is a real box office hit in Taiwan."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_023",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Tom: I can’t believe it! I completely forgot Judith’s birthday. It just slipped my mind. Amy: Tom: That’s true. She’s been dying to go to that great new French restaurant. I’ll treat her to dinner there this Sunday. Amy: Great idea. I’m sure she’ll love it.",
+      "image_url": "",
+      "options": [
+        "That’s too bad.",
+        "What a shame!",
+        "Well, you can make it up to her.",
+        "You really have a poor memory."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "湯姆:真不敢相信!我完全忘了朱蒂絲的生日了,我 機會讓思考更有創造力。學生可以享受線上學習的各種層 就這麼把它忘了。 面而更重要的是,發展出終身學習的熱情。現在人們不論 艾咪: 身在何處,不論年齡,都可以經由虛擬世界來學習。 湯姆:這倒是真的,她很想去那間新的法式餐廳,我 31.(A) 因為 because+ 子句 (B) 由於 thanks to+n. 這個星期日帶她去吃晚餐。 (C) 在...之前 (D) 因此 艾咪:好主意,我相信她會喜歡的。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_024",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Waiter: Would you like something to drink? Mary: Coke, please. Waiter: Yes, and how about you, sir? A glass of white wine? John: Just water, please.",
+      "image_url": "",
+      "options": [
+        "I don’t drink.",
+        "Are you sure there is no M.S.G. in your food?",
+        "Yeah, I’ll order Tomato Beef Chow Mein, please.",
+        "Is Kung Pao Chicken hot and spicy?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "服務生:您想要喝點什麼嗎? (C) 如我前述 (D) 此外 in addition to + n. 瑪麗:請給我可樂。 Question 36-40 服務生:好的。您呢?要來杯白酒嗎? 約翰: 請給我一杯水就好。 我們一般沒有理由認為植物可以感受到痛楚,因為植 (A) 我不喝酒。 物缺少複雜的神經感受系統,它們無法感覺或接收人類的 (B) 你確定你們的食物裡沒有加味精嗎? 情緒和意圖。和植物相反的是,人類如果碰觸到燙的東 (C) 請給我一份蕃茄牛肉炒麵。 西,會感受到痛。植物沒有感覺,但它們會辨識環境的改 (D) 宮保雞丁會辣嗎? 變,它們會對許多刺激做出反應,像是化學物質、光線、"
+    },
+    {
+      "id": "MOCK_101_3_ENG_025",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Paul: I can’t believe that Albert accused Jane of being unfair at the meeting. Tony: That was very dramatic. It’s hard to believe he actually did that. Albert: Hi, what’s up, you guys? Paul & Tony: We were just saying that you did a wonderful job yesterday by calling Jane unfair.",
+      "image_url": "",
+      "options": [
+        "Speaking of the devil!",
+        "No way!",
+        "Be my guest!",
+        "Business is business!"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "保羅:我對艾伯特在會議上指控珍不公平這件事感到 溫度、濕度、碰觸、氧氣和二氧化碳濃度等等。它們有各 震驚。 種方法來偵測這樣的刺激,並做出各種反應。例如,植物 東尼:這真是太戲劇化了,我還是難以相信他真的那 的成長須要光, 在植物枝節 ( 莖 ) 末端會製造一種名為 auxin 麼做了。 的生長激素,當光線只從一個方向照來時,會有較多的生 艾伯特:嗨,怎麼啦,你們? 長激素流向背光面的枝節,促進此面的枝幹成長較快,這 保羅和東尼: 我們正談到你昨天說 種不平衡的成長讓植物產生向光性。 珍不公平那件事真是幹得太棒了。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_026",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". It became commercially ____ in the late 1920s.",
+      "image_url": "",
+      "options": [
+        "exclusive",
+        "sensitive",
+        "aboriginal",
+        "available"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "(A) 唯一的 (B) 敏感的 101-3 共同考科 英文 在台北已設立了數家旗艦店。門口大排長龍的人潮證明了 (B) Kola 這個字對消費者而言是比較容易發音唸出。 其行銷策略的成功。其成功之原因在於該公司聘請世界級 (C) 消費者認為字母“ K ”不吉利。 的設計師來保證其高品質的產品、他們的服飾符合顧客要 (D) 一個新的品牌名字可協助產品擴展市場。 的最新潮流,這些流行的服飾僅以合理的價格來做販售,"
+    },
+    {
+      "id": "MOCK_101_3_ENG_027",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". Since then, the television set has become commonplace in homes, businesses and institutions, ____ as a vehicle for news, advertising, and a source of entertainment.",
+      "image_url": "",
+      "options": [
+        "hurriedly",
+        "particularly",
+        "illegally",
+        "occasionally"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_028",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". Since the 1970s, the video cassettes, laserdiscs, DVDs and now Blue-ray Discs, have ____ the television set frequently used for viewing recorded material.",
+      "image_url": "",
+      "options": [
+        "resulted in",
+        "derived from",
+        "resulted from",
+        "resided in"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_029",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". In recent years, the television industry has been working with the Internet and ____ more program choices than ever before.",
+      "image_url": "",
+      "options": [
+        "defeating",
+        "offering",
+        "assisting",
+        "sharing"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_030",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". It is modern technology ____ enables TV to perform more functions and draw a much larger audience.",
+      "image_url": "",
+      "options": [
+        "that",
+        ", that",
+        ", which",
+        "in that ▲ 下篇短文共有 5 個空格,為第 31 至 35 題,請依短文文意,選出一個最適合該空格的答案。 3D virtual worlds are not just limited to video games. Virtual worlds represent a powerful new media in terms of employee training and student education. 31 the rise of the Internet, employees have been able to learn and to follow online trainings. Video Conferencing is probably the most common tool. Employees can stay in their office to 32 a live conference or a recorded meeting. In addition, the use of 3D environment allows virtual education. 33 going to school, students stay at home, receiving 3D online homeschooling. 34 traditional learning, the word “boring” is never associated with virtual education. Incorporating 3D virtual worlds into the learning process gives students, as self-learners, a chance to be creative in their thinking. Students can enjoy every aspect of their online learning and, 35, develop a lifelong love of learning. People are now being able to learn through virtual worlds, no matter where they are or how old they are."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_031",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". ____ the rise of the Internet, employees have been able to learn and to follow online trainings.",
+      "image_url": "",
+      "options": [
+        "Because",
+        "Thanks to",
+        "Prior to",
+        "As a result"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_032",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". Employees can stay in their office to ____ a live conference or a recorded meeting.",
+      "image_url": "",
+      "options": [
+        "maintain",
+        "produce",
+        "spread",
+        "attend"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "(A) 維持 (B) 製造 (C) 散播 (D) 出席 (A) 太糟糕了。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_033",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". ____ going to school, students stay at home, receiving 3D online homeschooling.",
+      "image_url": "",
+      "options": [
+        "Instead of",
+        "Being capable of",
+        "Regardless of",
+        "Upon"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "(A) 取代 (B) 能夠 (B) 真可惜! (C) 儘管 (D) Upon+V-ing..., S+V... 一..., 就... (C) 你可以補償她。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_034",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". ____ traditional learning, the word “boring” is never associated with virtual education.",
+      "image_url": "",
+      "options": [
+        "For",
+        "With",
+        "Unlike",
+        "By means of"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "(A) 為了 (B) 有 (C) 不像 (D) 藉由 (D) 你的記性真差。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_035",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". Students can enjoy every aspect of their online learning and, ____, develop a lifelong love of learning.",
+      "image_url": "",
+      "options": [
+        "more importantly",
+        "putting this another way",
+        "as I mentioned before",
+        "in addition to"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "(A) 更重要的是 (B) 換句話說"
+    },
+    {
+      "id": "MOCK_101_3_ENG_036",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". Since plants ____ a complex nervous-sensory system, they are not able to have feelings or perceive human emotions or intentions.",
+      "image_url": "",
+      "options": [
+        "lack",
+        "save",
+        "stand",
+        "notice"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_037",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". ____ plants, we humans can feel pain if we touch something hot.",
+      "image_url": "",
+      "options": [
+        "Equipped with",
+        "Similar to",
+        "Contrary to",
+        "Noted by"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_038",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". They can ____ to many stimuli such as chemicals, light, temperatures, moisture, touch, and oxygen and carbon dioxide concentrations and so on.",
+      "image_url": "",
+      "options": [
+        "belong",
+        "point",
+        "move",
+        "respond"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "(A) 屬於 (B) 指向 (C) 移動 (D) 反應 三、綜合測驗"
+    },
+    {
+      "id": "MOCK_101_3_ENG_039",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". They have a variety of ____ to detect such stimuli and make a variety of reactions.",
+      "image_url": "",
+      "options": [
+        "means",
+        "paints",
+        "marks",
+        "objects"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_040",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": ". They produce a growth hormone in their tips ____ auxin.",
+      "image_url": "",
+      "options": [
+        "is called",
+        "calling",
+        "which called",
+        "called 四、閱讀測驗 說明:以下有三篇短文,共有 10 個題目,為第 41 ~ 50 題,請閱讀短文後,選出最適當的答案。 ▲ 閱讀下文,回答第 41-43 題。 Uniqlo is a famous Japanese clothing company. It sells T-shirts, shirts, coats, socks and jeans, which are not normally considered the most exciting part of the business. However, they are found in almost everyone’s collection of clothes, and Uniqlo has successfully transformed them into a goldmine. Having conquered Japan, it is now taking the world by storm. The company owns 800 stores in Japan and 140 overseas, and it plans to open 500 new stores annually over the next three to five years. Since 2010, it has opened several flagship stores in Taipei. The long-waiting lines outside the stores prove the success of their marketing strategies. Their success lies in the fact that this company employs world-class designers to guarantee the high quality of their products. The clothes are fashionable, meeting the latest trends for the customers, and these stylish clothes are sold at reasonable prices. The stores have posed a threat to brands such as Giordano, Hang Ten, and even Gucci and Burberry. From now on, fashion does not belong to the rich only: everyone has the opportunity to wear cheap and chic. 41. What is the passage mainly about? (A) How Uniqlo’s products make a rise to popularity. (B) The expansion of Uniqlo in Japan. (C) Customers’ preference for clothes. (D) People’s need to wear cheap clothes."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_041",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "How Uniqlo’s products make a rise to popularity.",
+        "The expansion of Uniqlo in Japan.",
+        "Customers’ preference for clothes.",
+        "People’s need to wear cheap clothes."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "本文主旨為何? (C) 喬治亞州的美國人喜歡品嘗不含酒精的糖漿。 (A) 日本 Uniqlo 的服飾產品如何大受歡迎 (D) 製酒被州政府限制。 (B) Uniqlo 服飾公司在日本的擴展 Question 48-50 (C) 顧客對服飾的喜好 羅浮宮博物館一年有超過八百萬人次造訪。三十年 (D) 人們需要有便宜的服飾可穿 前,大量的訪客造成了一連串的問題,因為羅浮宮原來的"
+    },
+    {
+      "id": "MOCK_101_3_ENG_042",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "According to the passage, which of the followings is NOT the factor leading to Uniqlo’s growing market share?",
+      "image_url": "",
+      "options": [
+        "The company provides high quality casual wear at remarkably low prices.",
+        "The clothes sold in Uniqlo are cheaper than those sold in luxury brand shops.",
+        "The designers of Uniqlo design high-end clothes.",
+        "The company makes its products in Mainland China and therefore could offer lower prices."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據本文,下列何者不是造成 Uniqlo 的市佔提高的原 大門 無法應付這 麼多的遊客 。 1983 年時,法國總 統 因? François Mitterrand 提出了整修計劃,由建築師貝聿銘獲 (A) 該公司以相當低的價格,提供了高品質的休閒服 得委託。他在中庭廣場設計了一個由玻璃和鋼纜製成的金 飾。 字塔,並在其下方造了一個地下中庭來做為主要的入口。 (B) Uniqlo 所販售的服飾比奢侈品牌商店中的服飾來 此金字塔引發了相當的爭論,有些人喜歡其新與舊、 得便宜。 經典與現代之間的對比風格,然而,許多人不這麼認為。 (C) Uniqlo 的設計師設計高品質的服裝。 例如,有一反對者用國家主義的暗示字句說道: 「我很驚 (D) 該公司的產品在大陸製造,因此能提供低廉的價 訝竟然會找在美國的中國建築師來蓋位於法國首都的歷 格。 史中心。」"
+    },
+    {
+      "id": "MOCK_101_3_ENG_043",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Which of the following words is closest in meaning to the underlined word chic?",
+      "image_url": "",
+      "options": [
+        "tasty",
+        "fashionable",
+        "spicy",
+        "one of a kind ▲ 閱讀下文,回答第 44-47 題。 Coca wine is an alcoholic drink combining wine with cocaine. One popular European brand was Vin Mariani. Maybe inspired by the success of Vin Mariani, John Pemberton, an American pharmacist in Atlanta, developed a drink called Pemberton’s French Wine Coca based on Vin Mariani. It proved popular among American consumers. In 1886, Georgia state government introduced prohibition of alcohol, which is the practice of stopping the manufacture, transportation, import, export, sale, and consumption of alcohol and alcoholic drinks. Therefore, Pemberton in his drugstore had to replace the wine in his new recipe with non-alcoholic syrup. It was the prototype of Coca-Cola recipe, which included two key ingredients, cocaine and caffeine. The cocaine was derived from the coca leaf and the caffeine from kola nut, leading to the name Coca-Cola. The “K” in Kola was replaced with a “C” for marketing purposes. Cocaine is a powerful nervous system stimulant. It can be addictive and cause drug abuse problems. At the end of the 19th century, the fear of drug abuse made coca-based drinks less popular. It also led to the prohibition of cocaine in the United States. Therefore, the ingredient cocaine was removed in 1903, though coca leaf remained. Coca-Cola now uses a cocaine-free coca leaf extract."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "下列何者在字義上最接近劃底線的 chic 一字? 儘管有這些反對聲浪,貝聿銘仍認為該金字塔最適合 (A) 美味的 (B) 流行的 (C) 辛辣的 (D) 獨特的 羅浮宮。然而,很快的,貝聿銘和其團隊贏得了數個關鍵 Question 44-47 文化指標人物的支持,包括指揮家 Pierre Boulez 以及前法 Coca 酒是一種摻有古柯鹼的酒精飲料。 Vin Mariani 國總統 Georges Pompidou 的遺孀 Claude Pompidou 。貝聿 是一個受歡迎的 Coca 酒。或許是受到 Vin Mariani 的成功 銘也接受了建議,將同樣大小、用鋼纜製成的金字塔放置 所啟發,亞特蘭大的一位藥劑師 John Pemberton 發展出一 於中庭廣場,一些批評人士見到金字塔計劃的規模後,降 種以 Vin Mariani 為基礎的飲料,稱之為 Pemberton’s 低了反對的聲浪。 French Wine Coca,並在美國受到消費者的歡迎。 1886 年 新的羅浮宮中庭廣場於 1988 年 10 月 14 日對外開 時,喬治亞州政府頒布了酒的禁令,停止生產、運輸、進 放,而金字塔入口在隔年的 3 月開放。此時,對此新設置 出口、販售和消費酒及含酒精飲料。因此, Pemberton 便 的意見已趨於軟化,隨著時間過去,越來越多的人讚揚此 必須在他的藥房中,將他新配方中的酒換成不含酒精的糖 非凡的設計,羅浮宮金字塔已成為貝聿銘最知名的建築作 漿。這便是可口可樂配方的原型,其中包含了兩個關鍵的 品。 成份:古柯鹼和咖啡因。古柯鹼是來自古柯葉,而咖啡因"
+    },
+    {
+      "id": "MOCK_101_3_ENG_044",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Which of the followings can be the best title for this passage?",
+      "image_url": "",
+      "options": [
+        "Coca-Cola: Its Origin and Key Ingredients",
+        "The Influence of John Pemberton",
+        "Cocaine: the Harmful Ingredient of Coca-Cola",
+        "How Coca-Cola Became Popular"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "依據本文內容,最佳的標題為何? (C) 羅浮宮博物館是全球造訪人次最多的博物館 (A) 可口可樂:它的起源及成份。 (D) 此設計過程對貝聿銘而言,雖累人但也有價值 (B) 約翰班伯頓 (John Pemberton) 的影響。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_045",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "We can infer from the passage that.",
+      "image_url": "",
+      "options": [
+        "Coca-Cola was not very popular all the time th",
+        "at the end of the 19 century, the ingredient cocaine was also removed from coca wine",
+        "Americans liked European wine, especially the wine from French",
+        "John Pemberton finally became the boss of Coca-Cola company"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "我們可以從本文推論 (C) 他改變了他的設計理念。 (A) 可口可樂並非一直都很受歡迎。 (D) 他向許多文化界名人解釋他的設計。 (B) 十九世紀末期,古柯鹼的成份也從 Coca 酒中被移 除。 (C) 美國人喜歡歐洲酒,尤其是來自法國的酒。 (D) John Pemberton 最後變成可口可樂公司的老闆。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_046",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Why is the letter “ K ” in Kola replaced with “ C ”?",
+      "image_url": "",
+      "options": [
+        "The new word “Cola” reflects a person’s tastes, status in society, and economic background.",
+        "The word “Kola” is easier to pronounce for consumers.",
+        "Consumers think of “K” as an unlucky letter.",
+        "A new brand name helps to sell products to a wider market."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "在“ Kola ”這個字中,字母“ K ”為何被“ C ”取代? (A) 新字反映個人的品味,社會層級和經濟背景。"
+    },
+    {
+      "id": "MOCK_101_3_ENG_047",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "Which of the followings is NOT the reason why Pemberton replaced the wine with non-alcoholic syrup?",
+      "image_url": "",
+      "options": [
+        "People were not allowed to have alcoholic drinks.",
+        "Stores were banned to sell wine from foreign countries.",
+        "Americans in Georgia liked to taste the non-alcocholic syrup.",
+        "The state government limited the production of wine. ▲ 閱讀下文,回答第 48-50 題。 The Louvre Museum welcomes over 8 million visitors a year. About 30 years ago, an enormous number of visitors caused a series of problems because the Louvre’s original main entrance could not handle too many visitors. In 1983, French President François Mitterrand laid out the plan to renovate the building. Architect I. M. Pei was awarded the project. At the center of the courtyard he designed a glass and steel pyramid and created an underground lobby beneath it to serve as the main entrance. The pyramid triggered considerable controversy. Some people liked the contrasting styles between the old and the new, the classical and the ultra-modern. However, many people didn’t feel that way. For example, one opponent said in a nationalistic overtone, “I am surprised that one would go looking for a Chinese architect in America to deal with the historic heart of the capital of France.” Despite the opposition, Pei still considered the pyramid as the most suitable for the Louvre. Soon, Pei and his team won the support of several key cultural icons, including the conductor Pierre Boulez and Claude Pompidou, widow of former French President Georges Pompidou. Pei also accepted a suggestion and placed a full-sized cable model of the pyramid in the courtyard. Some critics eased their opposition after witnessing the proposed scale of the pyramid. The new Louvre courtyard was opened to the public on October 14, 1988, and the Pyramid entrance was opened the following March. By this time, public opinion had softened on the new installation. As time went by, more and more people praised the marvelous design. The Louvre Pyramid has become Pei’s most famous structure."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_048",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "The influence of the idea of designing museum entrance.",
+        "The style of the Louvre Pyramid.",
+        "The process of how the Louvre Pyramid became acceptable.",
+        "The successful career of a Chinese architect."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_049",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "We can infer from the passage that.",
+      "image_url": "",
+      "options": [
+        "the new entrance of the Louvre Museum was opened in March, 1990",
+        "the idea of the Pyramid entrance came from Egyptian architects",
+        "the Louvre Museum is the world’s most visited museum",
+        "the experience of this design was exhausting for Pei, but also rewarding"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?101-3-四技二專-英文解析.pdf"
+    },
+    {
+      "id": "MOCK_101_3_ENG_050",
+      "subject": "英文",
+      "unit": "101-3-四技二專-英文",
+      "q": "What did Pei do in an attempt to ease public anger?",
+      "image_url": "",
+      "options": [
+        "He accepted some constructive advice.",
+        "He held a press conference to make explanations.",
+        "He changed his designing idea.",
+        "He explained his design to many famous cultural celebrities."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?101-3-四技二專-英文解析.pdf"
+    }
+  ]
+}

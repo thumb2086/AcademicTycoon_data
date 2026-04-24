@@ -1,0 +1,661 @@
+{
+  "bundle_id": "MOCK_110_2_ENG",
+  "questions": [
+    {
+      "id": "MOCK_110_2_ENG_001",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "The government has established nine parks in Taiwan to protect the natural ecology, and the one in Kenting is my favorite.",
+      "image_url": "",
+      "options": [
+        "regular",
+        "national",
+        "global",
+        "joyful"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "country / countryside; experience 僅能部分表達原文題意,文法、標點、用字遣 2 評閱指標 詞有多處失當之處。 級分 說明 無法表達原文題意,文法、標點、用字遣詞僅 1 4 2 個空格皆正確。 有少數正確之處。 2 僅 1 個空格正確。 (1) 空白 ( 未書寫文字 ) 。 0 2 個空格皆錯誤。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 II. 句子重組 (4) 內容完全離題或錯誤。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_002",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "If we really want to master a skill, practice is a must.",
+      "image_url": "",
+      "options": [
+        "constant",
+        "suspicious",
+        "occasional",
+        "inexpensive"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "go to the movies / watching TV alone / with her friends / Jessica prefers to / instead of 解答: Jessica prefers to go to the movies with her friends instead of watching TV alone. 評閱指標 級分 說明 所有字詞組合正確,且拼字、大小寫及標點均 4 無誤。 (1) 所有字詞組合正確,但有拼字、字詞增減或 標點錯誤。 3 (2) 多數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 多數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 2 (2) 半數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 半數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 1 (2) 少數字詞組合正確,且無拼字、字詞增減或 標點錯誤。 (1) 少數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 0 (2) 所有字詞組合錯誤。 (3) 只抄引導文字、題目或其他試題。 (4) 空白 ( 未書寫文字 ) 。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_003",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "My company started the Work From Home (WFH) policy in May, and our working hours should be 40 hours. That is, we need to work 8 hours a day.",
+      "image_url": "",
+      "options": [
+        "yearly",
+        "monthly",
+        "daily",
+        "weekly"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "我姊姊不但漂亮且心地也非常好。 (C) 女孩及女人使用破布或稻草來取代安全的生理期 解 答: My (older) sister is not only / just / merely 用品。 beautiful (pretty / good-looking) but (also) very kind (D) 貧窮導致在特殊地區的女性無法取得生理期用品。 (kind-hearted)."
+    },
+    {
+      "id": "MOCK_110_2_ENG_004",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "I don’t think my boss is a leader with. He is too near-sighted; he only cares about the current profit and does not see the future.",
+      "image_url": "",
+      "options": [
+        "vision",
+        "ownership",
+        "density",
+        "emergency"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "我不認為我的老闆是個有遠見的領導人。他太短視近 (D) 一起在朱利安餐廳吃個聖誕節晚餐如何? 利了;他只在乎現在的利益,看不到未來。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_005",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "My grandparents are 80 years old already, but they on preparing lunch boxes for my sister and me every day.",
+      "image_url": "",
+      "options": [
+        "build",
+        "rely",
+        "insist",
+        "reflect"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "我祖父母已經 80 歲了,但他們仍每天堅持為我姊姊 肯:為什麼你突然間對財務管理有興趣? 和我準備午餐餐盒。 里歐:那是因為我爸媽在新冠肺炎期間失去工作,我 (A) 建立 (B) 仰賴 (C) 堅持 (D) 反思 想要讓自己的未來有更好的財務規劃。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_006",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "The UN has 17 Sustainable Development Goals (SDGs) to ensure peace and prosperity for people and the planet.",
+      "image_url": "",
+      "options": [
+        "competed",
+        "announced",
+        "impressed",
+        "excluded"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "聯合國已經宣布 17 項永續發展目標來確保人們和地 (A) 就只是作者在疫情期間的旅行而已。 球的和平與繁榮。 (B) 這是關於如何增加被動收入。 (A) 競爭 (B) 公佈 (C) 這主管的職稱是財務經理。 (C) 給...留下深刻印象 (D) 阻止...在外 (D) 我想要知道如何用很有限的預算訂到機票。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_007",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Please cover those leftovers with the lid; otherwise, they will flies and cockroaches.",
+      "image_url": "",
+      "options": [
+        "compose",
+        "explore",
+        "influence",
+        "attract"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "請用蓋子把那些廚餘蓋好;否則它們會引來蒼蠅和蟑"
+    },
+    {
+      "id": "MOCK_110_2_ENG_008",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "In order to reduce carbon dioxide emission, the automobile giant SUX decides to produce only electric vehicles after the year of 2030.",
+      "image_url": "",
+      "options": [
+        "set up for",
+        "cut down on",
+        "look forward to",
+        "make up for"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "為了減少二氧化碳的排放,汽車界龍頭 SUX 決定 有感覺肌肉痛嗎? 2030 年後只製造電動車。 吉米:沒有。 (A) 建立 (B) 減少 (C) 期待 (D) 補償、和好 (A) 我有喉嚨痛和發燒。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_009",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "James made an intelligent decision on how to respond to the crisis in time. He successfully prevented our company from losing an important client.",
+      "image_url": "",
+      "options": [
+        "humble",
+        "diligent",
+        "wise",
+        "awful"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "詹姆士做了一個明智的決定及時回應這場危機。他成 (B) 我不覺得我現在有任何問題。 功地阻止了公司免於失去一個重要的客戶。 (C) 強森醫師,我不知道你是指什麼意思? (A) 謙虛的 (B) 勤勉的 (C) 明智的 (D) 可怕的 (D) 你有一顆蛀牙。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_010",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "In a traditional Japanese wedding, female guests should wear one-piece dresses or kimonos because two-piece sets are considered bad luck.",
+      "image_url": "",
+      "options": [
+        "conventional",
+        "optional",
+        "cultural",
+        "mental"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "在日本傳統的婚禮上,女性賓客應要著一件式洋裝或"
+    },
+    {
+      "id": "MOCK_110_2_ENG_011",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "The talk show hostess has a warm personality. She demonstrates her caring traits to all the guests she interviews.",
+      "image_url": "",
+      "options": [
+        "estimates",
+        "exhibits",
+        "includes",
+        "converses II. 對話題 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "這位脫口秀女主持人具有溫暖的個性。她對於她所訪 地勤員工:沒問題。我需要您的身份證字號。 談的賓客皆展現了她的關心的特質。 艾爾莎: (A) 估計 (B) 展現 (C) 包含 (D) 對話 地勤員工:不,我還需要您的全名、目的地和班機編 號。 II. 對話題 (A) 我可以約你出去吃個飯嗎?"
+    },
+    {
+      "id": "MOCK_110_2_ENG_012",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Clerk: Welcome to Walk-mart. Please scan the QR code with your cellphone first to follow the registration policy. Sam: Sure, but Clerk: Don’t worry. You can still leave your name and phone number here. Sam: Sure. Thank you!",
+      "image_url": "",
+      "options": [
+        "I don’t really like this policy at all.",
+        "the QR code refers to quick response code.",
+        "my cellphone is dead now.",
+        "I forgot to bring my registration form."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "店員:歡迎光臨 Walk-mart 。為落實實名制政策請先 (B) 我要怎麼訂班機呢? 用您的手機掃描 QR 碼。 (C) 你能清楚聽到我說的話嗎? 山姆:好的,不過 (D) 你全部只要這就好了嗎? 店員:沒關係,您還是可以在這裡留下您的姓名及電 110-2 共同科目 英文 詳解"
+    },
+    {
+      "id": "MOCK_110_2_ENG_013",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Wife: Christmas is around the corner. Husband: Yeah, I know. Why? Wife: Husband: Sounds good. Let me check whether we can get a table for two.",
+      "image_url": "",
+      "options": [
+        "Do you think Christmas is always merry for all of us?",
+        "What do you think of the table we just bought?",
+        "Can you pick up my parents at the train station?",
+        "How about having a Christmas dinner at Julian Italian Restaurant together?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "老婆:聖誕節快到了。 要的。 老公:對呀,我知道。然後呢? (A) 持續的 (B) 有嫌疑的 (C) 偶爾的 (D) 不貴的 老婆:"
+    },
+    {
+      "id": "MOCK_110_2_ENG_014",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Ken: What are you reading, Leo? Leo: This book? Uh, Ken: Why are you suddenly interested in money management? Leo: It’s because my parents lost their jobs due to COVID-19, and I want to have a better financial plan for my future.",
+      "image_url": "",
+      "options": [
+        "it’s just about the writer’s journey during the pandemic.",
+        "something regarding how to increase passive income.",
+        "the supervisor’s title is financial manager.",
+        "I want to know how to book a flight with very limited budget."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "肯:里歐,你在讀什麼? (A) 遠見 (B) 所有權 (C) 密度 (D) 緊急事件 里歐:這本書嗎?喔,"
+    },
+    {
+      "id": "MOCK_110_2_ENG_015",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Dr. Johnson: Good morning, Jimmy. What’s the problem today? Jimmy: Dr. Johnson: Before I check it, let me take your temperature first. Do you have muscle pain? Jimmy: I don’t think so.",
+      "image_url": "",
+      "options": [
+        "I’ve got a sore throat and fever.",
+        "I don’t think I have any problem now.",
+        "What do you mean, Dr. Johnson?",
+        "You’ve got a tooth decay."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "強森醫師:吉米,早安。今天哪裡不舒服? 螂。 吉米: (A) 組成 (B) 探索 (C) 影響 (D) 吸引 強森醫師:在檢查之前,讓我先量一下你的體溫。你"
+    },
+    {
+      "id": "MOCK_110_2_ENG_016",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Ground staff: Kiwi Airline. How may I help you? Elsie: Yes. I don’t know how to get a refund of my ticket. My flight was cancelled due to the weather condition. Ground staff: Sure. I need your ID number. Elsie: Ground staff: No, I also need your full name, destination and the flight number.",
+      "image_url": "",
+      "options": [
+        "Can I ask you out for a meal?",
+        "How can I book the flight?",
+        "Did you hear me clearly?",
+        "Is this all you need?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "地勤員工:克威航空。有什麼能為你服務的? 是和服,因為兩件式的套裝被視為是不吉利的。 艾爾莎:是。我不知道如何辦理退票。我的班機因為 (A) 傳統的 (B) 選擇性的 (C) 文化的 (D) 心理的 天氣因素被取消了。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_017",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "William: I broke up with Tina. Brian: What? I thought you two are so much in love. William: We were, but Brian: Oh my god! Can’t believe she is a two-timer.",
+      "image_url": "",
+      "options": [
+        "I saw her kissing another guy on the street.",
+        "I don’t have any romantic feelings for her.",
+        "she bought two watches as our anniversary gifts.",
+        "her parents didn’t like me and tried to separate us."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "威廉:我跟提娜分手了。 上。這對我們來說也是個很好的大腦的練習,訓練我們 布萊恩:什麼?我以為你們倆那麼相愛。 的專注力並同時讓大腦 (26) 活躍且投入。然而,要將閱讀 威廉:我們曾經很相愛。但是, 成為生活習慣並不容易,我們需要將閱讀放在優先順位 布萊恩:我的天啊!無法相信她會腳踏兩條船。 並認真看待它。 (A) 我看到她在街上親吻另一個男生。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_018",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Ellen: Hello. This is Ellen Chen speaking. I bought three pounds of coffee beans online two weeks ago, but I didn’t receive them. Why? Staff: Hi, Ms. Chen. Please wait a moment. Oh, Ellen: All right, but you should have mentioned it on the website. Staff: We feel sorry about it. We will put on a notice about the delivery problem on our official website immediately and will send you a 20% discount coupon.",
+      "image_url": "",
+      "options": [
+        "there was something wrong with your credit card number.",
+        "the coffee beans your purchased were no longer available.",
+        "I am afraid you seemed to place the wrong order.",
+        "we have a serious delay due to the recent lockdown."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "愛倫:喂,我是陳愛倫。我兩週前在網路買了三磅的 依照文意,正解為 (D) 咖啡豆,但我還沒收到。為什麼呢?"
+    },
+    {
+      "id": "MOCK_110_2_ENG_019",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Sherlock: What are you going to do this weekend? John: I have a date with Mary. We are going to the museum for a party. Sherlock: A party in the museum? John: It’s an annual party featuring classical concerts and a Christmas market.",
+      "image_url": "",
+      "options": [
+        "I want to know more about it.",
+        "Do you need tickets to get in there?",
+        "I’m sure Mary will enjoy the ride.",
+        "How far is the museum from here?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "夏洛克:你這個週末要做什麼? 依照文意,正解為 (B) 約翰: 我要和瑪麗去約會 。我們要去博物館參加派對。 Question 27-31 夏洛克:博物館裡的派對? 你認為人之所以成功是跟學習有關,還是只是因為 約翰:那是場每年一次的派對,以古典音樂會以及聖 他們有天份?德威克博士在她的書《心態致勝》中告訴 誕市集為其特色。 我們兩種心態來能夠回應這個問題。有定型心態的人將 (A) 我想再知道多一點。 失敗 (27) 視為被拒絕,像是輸掉一場比賽、被炒魷魚或是 (B) 你們需要買票進場嗎? 成績很糟。定型心態的人相信努力意即代表 (28) 低人一 (C) 我相信瑪麗會喜歡坐你的車。 等,意味著需要努力認真的人是因為他們不夠聰明或沒 (D) 從這裡到博物館多遠? 有天份。聰明給人感覺比較酷或是高人一等的感覺。那"
+    },
+    {
+      "id": "MOCK_110_2_ENG_020",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Anna: You will never believe what just happened when I went out to the ice cream store. Michelle: What is it? Anna: When I was making an order, a young man bumped into me wearing nothing. He was totally nude! Michelle: Oh my god! Was he really nude? It’s too crazy! Anna:",
+      "image_url": "",
+      "options": [
+        "She must be out of her mind.",
+        "Is he handsome?",
+        "You are telling me.",
+        "I think you are crazy too."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "安娜:妳絕對不相信我剛才去冰淇淋店遇到什麼事。 些擁有定型心態的人認為 (29) 像是智能或是創意等個人 米雪兒:什麼事? 特質是無法被改變的。 (30) 相反的,有成長型心態的人專 安娜:我在點餐時,一個年輕男生沒穿衣服撞到我。 注在學習本身,他們享受解決問題的過程並堅持目標, 他全身光溜溜。 即使情況並沒有好轉。比起被稱讚或是獲得成功,他們 米雪兒:我的天啊!他真的一絲不掛?太扯了! 更在乎的是學習或是 (31) 解決問題。德威克博士相信人們 安娜: 不管是擁有哪一種心態都是可以被改變且擁有可能性 (A) 她一定是瘋了。 (B) 他帥嗎? 的,但是擁有成長心態的人能夠達到較高的成就。 (C) 還用你說。 (D) 我覺得你也瘋了。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_021",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Morris: What should I wear to my sister’s wedding? James: You should dress appropriately, like a dark tuxedo. Morris: True, but James: Then you might need a water-proof suit.",
+      "image_url": "",
+      "options": [
+        "I really hate to wear formal suits.",
+        "can I borrow your shirt and bow tie?",
+        "my girlfriend is going with me.",
+        "it’s a beach wedding actually."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "莫瑞:我應該要穿什麼參加我姊的婚禮? 意及搭配用法,選 (A) regard 詹姆斯:你應該要穿合適一點,像深色的燕尾服。 (A) 認為 (B) 認為 ( 必須加 to be) 莫瑞:沒錯,但 (C) 強迫 (D) 互動 詹姆斯:那你或許要一套防水的西裝。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_022",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": ". Messages, emails and social media notifications keep ____ while we are doing our tasks.",
+      "image_url": "",
+      "options": [
+        "popping up",
+        "looking at",
+        "figuring out",
+        "turning around"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_023",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": ". Multitasking makes us impatient and ____, which lowers our productivity.",
+      "image_url": "",
+      "options": [
+        "efficient",
+        "conscious",
+        "attractive",
+        "anxious"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_024",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": ". ____, reading can help us find inner peace.",
+      "image_url": "",
+      "options": [
+        "To sum up",
+        "By all means",
+        "For instance",
+        "Without question"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_025",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": ". When we are immersed in a story, all of our attention ____ focused on the story.",
+      "image_url": "",
+      "options": [
+        "have",
+        "is",
+        "does",
+        "needs"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_026",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": ". It is a good mental exercise for us to train our concentration span and to keep our brain ____ and engaged at the same time.",
+      "image_url": "",
+      "options": [
+        "selective",
+        "active",
+        "negative",
+        "native ▲ 下篇短文共有 5 個空格,為第 27-31 題,請依短文文意,選出一個最適合該空格的答案。 Do you think people’s success has something to do with their learning or simply with their talents? Dr. Dweck in her book Mindset, telling us about two different mindsets, could respond to this question. People with a fixed mindset 27 failure as being rejected, such as losing a game, getting fired or having a terrible score. People with fixed mindsets believe that being hardworking means being 28, suggesting that people need to work hard because they are not smart or talented enough. Being smart makes people feel cooler and superior. Those individuals with fixed mindsets hold the opinion 29 personal qualities like intelligence or creativity cannot be changed. 30, people with a growth mindset center on learning itself. They enjoy the process of solving problems and sticking to goals even though the situations are not going well. They care more about learning or 31 difficulties than being praised or attaining success. Dr. Dweck believes that people can be changed and have possibilities no matter what types of mindsets they have, but people with a growth mindset could reach higher levels of achievement."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_027",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": ". People with a fixed mindset ____ failure as being rejected, such as losing a game, getting fired or having a terrible score.",
+      "image_url": "",
+      "options": [
+        "regard",
+        "consider",
+        "force",
+        "interact"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_028",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": ". People with fixed mindsets believe that being hardworking means being ____, suggesting that people need to work hard because they are not smart or talented enough.",
+      "image_url": "",
+      "options": [
+        "regional",
+        "temporary",
+        "awkward",
+        "inferior"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_029",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": ". Those individuals with fixed mindsets hold the opinion ____ personal qualities like intelligence or creativity cannot be changed.",
+      "image_url": "",
+      "options": [
+        "how",
+        "where",
+        "that",
+        "which"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_030",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": ". ____, people with a growth mindset center on learning itself.",
+      "image_url": "",
+      "options": [
+        "In a nutshell",
+        "On the contrary",
+        "In other words",
+        "From now on"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_031",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": ". They care more about learning or ____ difficulties than being praised or attaining success.",
+      "image_url": "",
+      "options": [
+        "tearing down",
+        "coping with",
+        "melting away",
+        "bursting into IV. 閱讀測驗 說明:以下有三篇短文,共有 10 個題目,為第 32 至 41 題,請於閱讀短文後,選出最適當的答案 。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_032",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Based on the safety information card above, which of the following devices can be used during the whole flight journey?",
+      "image_url": "",
+      "options": [
+        "DVD players",
+        "keyboards to laptops",
+        "Bluetooth earphones",
+        "hearing aids"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "根據上述安全資訊卡,下述哪項裝置可以在整個飛行 (D) 線上預約書籍  透過電子郵件取得取書碼  攜帶 旅程中被使用? 取書碼及圖書證 (A) DVD 播放器 (B) 連上筆電之鍵盤"
+    },
+    {
+      "id": "MOCK_110_2_ENG_033",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Johnny is taking an airplane from Tokyo to Taipei. Which of the following behaviors is allowed according to the safety information card above?",
+      "image_url": "",
+      "options": [
+        "Using his phone to take photos during cruise with Airplane Mode.",
+        "Posting his photos on his Instagram with the Wi-Fi on during taxi for departure.",
+        "Talking to his parents with the Messenger App during landing.",
+        "Using his laptop connected to his Bluetooth earphone during taking off."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "強尼正坐上從東京飛臺北的班機,根據上述之安全資 (A) 所有學術活動不是被取消就是延期。 訊卡,下列哪項行為是被允許的? (B) 讀者應該在取書時佩戴口罩。 (A) 在飛機飛行時手機轉成飛航模式拍照。 (C) 原還書日被延展至 12 月 22 日。 (B) 在飛機滑行時使用 Wi-Fi 將照片上傳 Instagram 。 (D) 在圖書館閉館期間並不會發出逾期罰款。 (C) 在飛機降落時用 Messenger 應用程式和爸媽說話 。 Question 39-41 (D) 在飛機起飛時使用筆電及藍牙耳機。 現今超過 7 億人,也就是佔全球人口的 10%,生活"
+    },
+    {
+      "id": "MOCK_110_2_ENG_034",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "If the destination airport is for both military and civilian use, what should the passengers do when they are NOT allowed to use all PEDs?",
+      "image_url": "",
+      "options": [
+        "Switch off their phones or digital devices.",
+        "Switch all the PEDs to the GSM mode.",
+        "Use the Wi-Fi or Bluetooth connection only.",
+        "Hand over all the PEDs to flight attendants."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "若是抵達之機場同時為軍用及客用機場,且該機場禁 在極度貧窮下。女生或是年輕女性特別是脆弱的一群, 止旅客使用所有可攜式電子裝置,乘客該如何做呢? 需要實質幫助。比方說,在特定的區域,女人和女孩無 (A) 將手機及電子裝置關機。 法負擔得起生理期用品,像是衛生護墊或是衛生棉。然 (B) 將所有可攜式電子裝置轉為 GSM 模式。 而,很難想像她們必須得用破掉、老舊的布或是稻草而 (C) 只能使用 Wi-Fi 或藍牙連線。 不是安全的生理期用品。這現實讓開發中國家的女孩們 (D) 將所有可攜式電子裝置交予空服人員。 冒著感染、生病與其它健康的風險。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_035",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Which of the following items is NOT likely to be categorized a peripheral device?",
+      "image_url": "",
+      "options": [
+        "a computer mouse",
+        "a microphone",
+        "a laptop",
+        "a loudspeaker ▲ 閱讀下文,回答第 36-38 題 Read the following open letter by the head librarian of Riverside High School concerning the library closure. Then answer the questions based on the given information."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "下列哪項物品不屬於外接裝置? 在非洲或是南美洲某些開發中的國家,家庭已經因 (A) 電腦滑鼠 (B) 麥克風 (C) 筆電 (D) 喇叭 為貧窮在苦苦掙扎,而且他們甚至無法負擔食物或基本 Question 36-38 用品,更別說是給女性家庭成員的生理期用品了。在肯 請閱讀以下這封 Riverside 高中圖書館長寫的關於圖 亞奈羅比的 16 歲女孩妮珊拉說她之前都是從學校取得衛 書館閉館的公開信。然後請根據訊息回答下列問題。 生棉,但是因為學校因為疫情不開放,使她得使用幾塊 親愛的學生及教職員工, 布來替代,這讓她感到很不舒服。她說「我感到很沮喪 10 月 31 日 因為我無法正常地做事,像做家事或是坐下,因為我總 由於臺灣疾病管制局已將新冠肺炎之警戒升至第 3 害怕會弄髒我的衣服。」 級,為了因應新冠肺炎的傳播,圖書館將閉館至 12 月 為了處理生理期貧困的問題,許多國際及非營利組 22 日。在閉館期間,讀者仍可以在線上預約書籍。在書 織開始採取行動。他們在窮困的社區行動,分發衛生及 籍預約完成後,請記得線上預約取書時間。一旦您完成 生理期用品箱給女性員工及年輕女性。這些箱子內含衛 取書預約,您將透過電子郵件收到取書碼。您可以帶著 生棉、肥皂、洗衣產品,都是年輕女孩及女人必需品, 取書碼在指定日期與時間於圖書館前方之臨時櫃檯取 如此她們才能過著安全且更有尊嚴的生活。 預約書。在抵達前,請記得攜帶您的圖書證及取書碼。"
+    },
+    {
+      "id": "MOCK_110_2_ENG_036",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Why is the Riverside High School library closed?",
+      "image_url": "",
+      "options": [
+        "To lower the prevention of COVID-19.",
+        "To raise the COVID-19 alert restriction.",
+        "To avoid the spread of the pandemic.",
+        "To wear a mask and keep a social distance."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_037",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Based on the information above, what is the correct procedure for a student or a staff member to get the reserved books?",
+      "image_url": "",
+      "options": [
+        "Arrive at the library counter  bring the reservation code  request books online",
+        "Get a pick-up code via email  request books online  bring the code and library card",
+        "Bring the library card and pick-up code  request books online  arrive at the library counter",
+        "Request books online  get a pick-up code via email  bring the code and library card"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_038",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "Based on the announcement above, which of the following statements is INCORRECT during the library closure?",
+      "image_url": "",
+      "options": [
+        "All the academic events are either cancelled or postponed.",
+        "Readers should wear masks when picking up the reserved books.",
+        "The original book return dates will be extended to December 22nd.",
+        "There is no late-return fines during the library closure. ▲ 閱讀下文,回答第 39-41 題 More than 700 million people, or 10% of the world population live in extreme poverty today. Females and young girls are particular groups that need real help. For example, women and girls in certain areas cannot even afford their menstrual( 生理期的 ) products, such as sanitary pads or napkins. It’s hard to imagine that they have to use broken, old rags or straw rather than safe period products. This reality puts girls in developing countries at risk for infection, sickness and other health problems. In some developing countries in Africa or South America, families are struggling due to poverty, and they cannot even afford food or basic supplies, not to mention the period products for the female family members. Nisera, a 16-year-old young girl in Nairobi, Kenya, said that she used to get sanitary towels from her school, but since the schools were closed due to the pandemic, she had to use pieces of cloth, which made her very uncomfortable. She said, “I feel sad as I can’t do things normally, like household chores, nor can I sit down as I am afraid of soiling my clothes.”"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_039",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "What is the main idea of this article?",
+      "image_url": "",
+      "options": [
+        "International non-profit organizations manage to fight diseases around the world.",
+        "Lack of nutrition makes women and young ladies at risk of infection and sickness.",
+        "Girls and women use the old rags or straw to replace the safe period products.",
+        "Females in certain areas are not able to gain access to menstrual products because of poverty."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?110-2-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_2_ENG_040",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "According to the passage, how did the young females in some developing countries get their sanitary items before the spread of COVID-19?",
+      "image_url": "",
+      "options": [
+        "From the non-profit organizations",
+        "From their family members",
+        "From their schools",
+        "From the hygiene kits"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據本文,開發中國家的年輕女性在新冠肺炎之前是 My (older) sister is not only / just / merely beautiful 如何取得衛生用品? (pretty / good-looking) but she is (also) very kind (A) 從非營利組織取得 (B) 從家庭成員取得 (kind-hearted). (C) 從學校取得 (D) 從衛生箱取得 或 Not only / just / merely is my (older) sister beautiful"
+    },
+    {
+      "id": "MOCK_110_2_ENG_041",
+      "subject": "英文",
+      "unit": "110-2-四技二專-00共同科目 英文",
+      "q": "According to the passage, which statement is NOT true?",
+      "image_url": "",
+      "options": [
+        "Many girls and young women in poor families can not afford their period products.",
+        "The period products can be replaced by broken rugs or clothe without any concern.",
+        "Charities are trying to hand out hygiene products for young ladies to avoid infection.",
+        "One out of ten people around the world is living in a very poor condition. 二、非選擇題 ( 第 I 到第 III 題,每題 6 分,共 18 分 ) I. 填充 說明: ▲請依據中文提示,將試題內空格  、  答案之完整單字 ( 含提示之字首 ),分別作答於答 案卷之作答欄  、  之指定範圍內以完成句子。 ▲請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據本文,下列哪一項敘述錯誤? (pretty / good-looking), but she is (also) very kind (A) 許多貧窮家庭的女孩或年輕女性無法負擔她們的 (kind-hearted). 衛生用品。 或 My (older) sister is not only / just / merely beautiful (B) 經期用品可以用破布取代且不會有任何疑慮。 (pretty / good-looking) but very kind (kind-hearted) as (C) 慈善團體盡力分發衛生用品給年輕女性以避免感 well. 染。 評閱指標 (D) 全球每十個人當中就有一個人過著非常貧窮的生 級分 說明 活。 能充分表達原文題意,文法、標點正確,用字 4 遣詞沒有不當之處。 二、非選擇題 能適切表達原文題意,文法、標點、用字遣詞 I. 填充 3 僅有少數不當之處。"
+    }
+  ]
+}
