@@ -1,0 +1,805 @@
+{
+  "bundle_id": "TCK_103_0_ENG",
+  "questions": [
+    {
+      "id": "TCK_103_0_ENG_001",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Since food safety was repeatedly reported in the news, Mom has been more ____________ than before about choosing and buying food.",
+      "image_url": "",
+      "options": [
+        "sociable",
+        "cautious",
+        "envious",
+        "innocent ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_002",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Due to the heavy rainfall, many roads leading to the downtown area were ____________, and many people could not get to school or work.",
+      "image_url": "",
+      "options": [
+        "imported",
+        "delivered",
+        "blocked",
+        "expected ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_003",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "The new medicine seems effective because many patients claim they have ____________ a great deal from taking it.",
+      "image_url": "",
+      "options": [
+        "invented",
+        "benefited",
+        "exchanged",
+        "founded ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_004",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "It is considered a ____________ to deny a person a job because of his or her age or gender.",
+      "image_url": "",
+      "options": [
+        "retirement",
+        "statue",
+        "landscape",
+        "prejudice ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_005",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "It doesn’t matter what methods you use; the most important thing is that you complete the project before the ____________.",
+      "image_url": "",
+      "options": [
+        "distance",
+        "deadline",
+        "depth",
+        "density ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_006",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "When the sunshine is too bright, we should wear sunglasses to ____________ our eyes.",
+      "image_url": "",
+      "options": [
+        "protect",
+        "judge",
+        "greet",
+        "review ˉ 公告試題"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_007",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "We do not have any job openings ____________, but we will contact you if that changes.",
+      "image_url": "",
+      "options": [
+        "casually",
+        "culturally",
+        "currently",
+        "consciously ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_008",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Because of his hard work, my cousin finally realized his goal and entered the university he had dreamed of.",
+      "image_url": "",
+      "options": [
+        "achieved",
+        "inspired",
+        "encouraged",
+        "organized ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_009",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "A strong typhoon is nearing Taiwan, so Tom’s plan to go surfing on this weekend has been rejected by his father.",
+      "image_url": "",
+      "options": [
+        "filled out 僅供參考",
+        "brought up",
+        "put off",
+        "turned down ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?103-統測-00共同科目-英文解析.pdf"
+    },
+    {
+      "id": "TCK_103_0_ENG_010",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "The glass container has been tightly locked, so almost no air can get into it.",
+      "image_url": "",
+      "options": [
+        "firmly",
+        "mildly",
+        "hardly",
+        "softly ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_011",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "This company is very young, established only five years ago, but it made a good deal of profits this year.",
+      "image_url": "",
+      "options": [
+        "dropped out",
+        "taken after",
+        "put forward",
+        "set up ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_012",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "David’s mother asked Sally about her parents’ occupations. She wanted to know where they worked.",
+      "image_url": "",
+      "options": [
+        "locations",
+        "goals",
+        "reactions",
+        "jobs ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_013",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Identical twins look exactly the same. Sometimes even their parents cannot tell one from the other.",
+      "image_url": "",
+      "options": [
+        "completely",
+        "suddenly",
+        "naturally",
+        "partially ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_014",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "People all over the world show their basic emotions with similar facial expressions.",
+      "image_url": "",
+      "options": [
+        "feelings",
+        "positions",
+        "movements",
+        "abilities ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_015",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Scholarly books that promote mankind’s knowledge are aimed at making our lives better.",
+      "image_url": "",
+      "options": [
+        "consist of",
+        "contribute to",
+        "interfere with",
+        "originate from"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_016",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Tim: Let’s go see the Rubber Duck in Keelung City Harbor. Kelly: _______________ Tim: Why not? Kelly: I have to work on my project. It’s due tomorrow.",
+      "image_url": "",
+      "options": [
+        "I’d love to, but I can’t.",
+        "I went to Keelung last week.",
+        "Sure, when are we going?",
+        "Great! I like Rubber Duck very much. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_017",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Leo: Are you going to the countdown party this year? Dennis: Sure, the annual fireworks show is great. I don’t want to miss it. Leo: _______________ Dennis: Well, taking the bus is the best way.",
+      "image_url": "",
+      "options": [
+        "You can’t miss it.",
+        "The party is in front of the city hall.",
+        "Do you like fireworks?",
+        "How would you go there? ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_018",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Mom: Linda, take out the garbage. The garbage truck is coming. Linda: It’s Peter’s turn today. Mom: 公告試題 _______________ Linda: Then he should take out the garbage tomorrow.",
+      "image_url": "",
+      "options": [
+        "Peter doesn’t like trucks.",
+        "He’s not home yet.",
+        "The truck comes every other day.",
+        "OK, it’s a great turning point. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_019",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Kimoko: Have you ever tried stinky tofu? Ted: Of course. Kimoko: _______________ Ted: Yesterday. 僅供參考",
+      "image_url": "",
+      "options": [
+        "When did you last try it?",
+        "How did you try it?",
+        "Where did you last try it?",
+        "What did you try? ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_020",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Victor: Hi, I’m a new student here and I need a place to stay. Receptionist: Do you prefer a room in an apartment or in a house? Victor: _______________ Receptionist: Let me show you the room.",
+      "image_url": "",
+      "options": [
+        "The rent is cheap.",
+        "Thanks for your offer.",
+        "I’d like a room in a house.",
+        "Yes, many rooms are on sale. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_021",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Pin: I need to find a part-time job. Manager: _______________ Pin: I can type very well.",
+      "image_url": "",
+      "options": [
+        "What can I do for you?",
+        "Why do you need a job?",
+        "What are you good at?",
+        "How much do you ask for?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_022",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Rich: It’s really cold today. Helen: I’m having hot coffee. Do you want some? Rich: _______________",
+      "image_url": "",
+      "options": [
+        "Yes, I like hot chocolate a lot.",
+        "No, I prefer tea with milk.",
+        "No, hot coffee is better.",
+        "Yes, I’ll stay inside. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_023",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Nick: Art Café is really nice. David: Yes, it is. It’s new. Nick: When did it open? David: _______________",
+      "image_url": "",
+      "options": [
+        "Two weeks ago.",
+        "Three times a week.",
+        "Every weekend.",
+        "Next week. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_024",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Louis: I need to go to the drugstore for some vitamins. Mandy: _______________ Louis: That’s not true. Vitamins can provide most of the nutrients we need.",
+      "image_url": "",
+      "options": [
+        "I need some, too.",
+        "They’re good for you.",
+        "I cannot agree with you more.",
+        "Those pills don’t really help. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_025",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Nina: Hi, Kim. How was your trip? Kim: Great. It was fun to meet different people in different cities. Nina: _______________ Kim: Taipei is my favorite.",
+      "image_url": "",
+      "options": [
+        "Where did you visit?",
+        "How many cities have you been to? 公告試題",
+        "Which city do you like most?",
+        "How much did you spend? ˉ III. 綜合測驗:以下兩篇短文,共有 15 個空格,為第 26 至 40 題,每題有四個 選項,請依各篇短文文意,選出一個最適合該空格的答案。 ˉ ▲ 下篇短文共有 7 個空格,為第 26 – 32 題,請依短文文意,選出一個最適合該空格 的答案。 僅供參考 Distracted walking, like distracted driving, is now a cause of injuries and fatalities. A recent study shows that more and more people ended up in the hospital 26 walking while using their phones. In the United States, the number of people who 27 seriously doubled from 2004 to 2010. It also found that 28 who were guilty of distracted walking were much less likely to look before crossing streets or obey traffic signals. The problem may be caused by misguided ideas of multi-tasking. Many people think that they are able to function effectively when they are texting 29 they are walking. 30, the fact is that each task has to be given full attention. There are several 31 solutions. One way is to teach children safe texting, and 32 is to punish distracted walking. These are just some of the means of improving road safety. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_026",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". A recent study shows that more and more people ended up in the hospital ____ walking while using their phones.",
+      "image_url": "",
+      "options": [
+        "as a result of",
+        "in addition to",
+        "in the end",
+        "in order that ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_027",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". In the United States, the number of people who ____ seriously doubled from 2004 to 2010.",
+      "image_url": "",
+      "options": [
+        "injure",
+        "were injured",
+        "were injuring",
+        "injured ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_028",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". It also found that ____ who were guilty of distracted walking were much less likely to look before crossing streets or obey traffic signals.",
+      "image_url": "",
+      "options": [
+        "passengers",
+        "motorists",
+        "pedestrians",
+        "cyclists ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_029",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". Many people think that they are able to function effectively when they are texting ____ they are walking.",
+      "image_url": "",
+      "options": [
+        "so as to",
+        "such as",
+        "at the same time as",
+        "in spite of"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_030",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". ____, the fact is that each task has to be given full attention.",
+      "image_url": "",
+      "options": [
+        "However",
+        "Mostly",
+        "For example",
+        "Similarly ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_031",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". There are several ____ solutions.",
+      "image_url": "",
+      "options": [
+        "suggest",
+        "suggested",
+        "suggesting",
+        "suggestion ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_032",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". One way is to teach children safe texting, and ____ is to punish distracted walking.",
+      "image_url": "",
+      "options": [
+        "some",
+        "several",
+        "another",
+        "other ˉ ▲ 下篇短文共有 8 個空格,為第 33 – 40 題,請依短文文意,選出一個最適合該空格 的答案。 Freedom of speech is very important in many countries. It means that people should have the freedom to speak openly 33 any limitation. Despite this, in the past, many big television news stations and newspapers controlled the news to which we had 34. This permitted the news we saw to be framed to suit particular views. However, news reporting is changing every day. From the Internet and television, people can learn about the 35 news 24 hours a day. A lot of the news is provided by o rdinary people like you and me, so - called citizen reporters. Today user-generated information can easily be found 36 the Internet. Citizen reporters now upload their news stories for everyone to see. The use of digital cameras, cell phones, or webcams 37 it even easier for anyone to become a reporter. It is also possible for people to 38 the news almost as soon as it takes place. The news can be about sudden events, or it can just be about cultural festivals that 39 in their hometown. 40 kind of news it is, citizen reporting is here to stay. Why don’t you try being a citizen reporter and introduce something interesting about Taiwan? 公告試題 ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_033",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". It means that people should have the freedom to speak openly ____ any limitation.",
+      "image_url": "",
+      "options": [
+        "without",
+        "since",
+        "for",
+        "about ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_034",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". Despite this, in the past, many big television news stations and newspapers controlled the news to which we had ____.",
+      "image_url": "",
+      "options": [
+        "burden",
+        "belief",
+        "arrival",
+        "access ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_035",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". From the Internet and television, people can learn about the ____ news 24 hours a day.",
+      "image_url": "",
+      "options": [
+        "latest",
+        "less",
+        "latter",
+        "least ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_036",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". Today user-generated information can easily be found ____ the Internet.",
+      "image_url": "",
+      "options": [
+        "on",
+        "under",
+        "by",
+        "of ˉ 僅供參考"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_037",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". The use of digital cameras, cell phones, or webcams ____ it even easier for anyone to become a reporter.",
+      "image_url": "",
+      "options": [
+        "is made",
+        "make",
+        "has made",
+        "have made ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_038",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". It is also possible for people to ____ the news almost as soon as it takes place.",
+      "image_url": "",
+      "options": [
+        "resolve",
+        "receive",
+        "inform",
+        "invest ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_039",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". The news can be about sudden events, or it can just be about cultural festivals that ____ in their hometown.",
+      "image_url": "",
+      "options": [
+        "break",
+        "happens",
+        "happen",
+        "breaks ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_040",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": ". ____ kind of news it is, citizen reporting is here to stay.",
+      "image_url": "",
+      "options": [
+        "Whenever",
+        "Any",
+        "Some",
+        "Whatever ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_041",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "Video game jobs.",
+        "Computer game designers.",
+        "Computer game companies.",
+        "Video game addicts. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_042",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "According to the passage, why do some companies allow their workers to play video games? 公告試題",
+      "image_url": "",
+      "options": [
+        "Because they can improve computer skills.",
+        "Because they can feel relaxed when stressed out.",
+        "Because they can learn important gaming skills.",
+        "Because they can design more interesting games. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_043",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "According to the passage, which of the following is similar to video game addiction?",
+      "image_url": "",
+      "options": [
+        "Addiction to work.",
+        "Addiction to sports.",
+        "Addiction to drugs.",
+        "Addiction to sleep. ˉ 僅供參考"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_044",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "According to the passage, what may some companies do to their workers addicted to video games?",
+      "image_url": "",
+      "options": [
+        "To cut their pay.",
+        "To send them to the doctor.",
+        "To give them a computer that cannot play video games.",
+        "To help them find ways of playing video games. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_045",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "According to the passage, which of the following is NOT true?",
+      "image_url": "",
+      "options": [
+        "Companies may check workers’ computers to see if they play video games during work.",
+        "Video game addicts are rewarded with higher pay for playing at work.",
+        "Companies keep finding ways to stop workers from playing video games while working.",
+        "Video game addiction is a behavior which has to be treated like alcoholism. ˉ ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_046",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "What is the purpose of food banks?",
+      "image_url": "",
+      "options": [
+        "To sell food at a reasonable price to all consumers.",
+        "To provide goods for free to people in financial need.",
+        "To build a supermarket-like environment for shoppers.",
+        "To get rid of unwanted goods and foods. 公告試題 ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_047",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "How is the supermarket-like food bank different from other food banks?",
+      "image_url": "",
+      "options": [
+        "It sells all kinds of food, so nothing is wasted.",
+        "It allows recipients to choose what they need.",
+        "It receives help from the government.",
+        "It holds activities for special holidays. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_048",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "According to the passage, which of the following is true?",
+      "image_url": "",
+      "options": [
+        "Relief products are wasted if recipients choose what they want. 僅供參考",
+        "The city government buys only vitamins and diapers.",
+        "The supermarket-style food bank meets the needs of infants only.",
+        "Food banks work to improve the life of the poor. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_049",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Which of the following is closest in meaning to pick up in line 2 of the first paragraph?",
+      "image_url": "",
+      "options": [
+        "clean",
+        "understand",
+        "get",
+        "learn ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_103_0_ENG_050",
+      "subject": "英文",
+      "unit": "103-統測-00共同科目-英文",
+      "q": "Which of the following groups is NOT the beneficiaries of food banks, as mentioned in the second paragraph?",
+      "image_url": "",
+      "options": [
+        "The poor.",
+        "People in need.",
+        "Food recipients.",
+        "Business owners. ˉ 【以下空白】"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    }
+  ]
+}

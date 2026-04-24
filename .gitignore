@@ -1,0 +1,39 @@
+node_modules/
+.codex-tmp/
+conversion_report.json
+
+# Generated or helper code we do not want in the repo
+scripts/
+*.ps1
+*.py
+package.json
+package-lock.json
+
+# Analysis notes / scratch files
+*_analysis_report.txt
+*.md
+!README.md
+
+# Raw source files should stay local only
+*.pdf
+*.ppt
+*.pptx
+tck_past_exams/
+tck_mock_exams/
+mechanical_basic_practice/
+mechanical_drafting/
+mechanical_manufacturing/
+mechanical_manufacturing_workbook/
+mechanical_mechanics/
+machine_elements_lower_ppt/
+machine_elements_upper_ppt/
+
+# Keep only processed JSON data and required root files
+!assets/
+!assets/**
+!content_jsons/
+!content_jsons/**
+!question_jsons/
+!question_jsons/**
+!config.json
+!README.md

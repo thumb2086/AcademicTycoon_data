@@ -1,0 +1,677 @@
+{
+  "bundle_id": "TCK_113_0_ENG",
+  "questions": [
+    {
+      "id": "TCK_113_0_ENG_001",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Johnny is wearing a very hat that looks different from those of other people.",
+      "image_url": "",
+      "options": [
+        "common",
+        "general",
+        "regular",
+        "special ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "1 prefer 2 wallet"
+    },
+    {
+      "id": "TCK_113_0_ENG_002",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Loud noises can make it hard for me to, so I always find a quiet place to study with full attention.",
+      "image_url": "",
+      "options": [
+        "bend",
+        "focus",
+        "panic",
+        "wander ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "It is good to see that more people work on solving pollution problems. 看到越來越多的人致力於解決污染問題是件好事。"
+    },
+    {
+      "id": "TCK_113_0_ENG_003",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Here is a helpful for cooking chicken soup: add a little salt. It will make the soup tasty.",
+      "image_url": "",
+      "options": [
+        "lip",
+        "gap",
+        "tip",
+        "nap ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Some experts say this year will be hotter and more humid (或 wetter ) than last year I. 選擇建功‧ 8 ‧尊榮一生"
+    },
+    {
+      "id": "TCK_113_0_ENG_004",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "My grandpa sleeps at the same time every day. He goes to bed at about 9 pm.",
+      "image_url": "",
+      "options": [
+        "briefly",
+        "fluently",
+        "gently",
+        "roughly ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "我爺爺每天 ____ 在同一個時間睡覺。他每天晚上大約 9 點睡覺。 (A) 簡短地 (B) 流利地 (C) 溫和地 (D) 大約地"
+    },
+    {
+      "id": "TCK_113_0_ENG_005",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Being friendly with your roommates can help you stay away from with them.",
+      "image_url": "",
+      "options": [
+        "dialogues",
+        "conflicts",
+        "personality",
+        "relationship ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "與室友友好相處可以幫助你遠離與他們的 ____ 。 (A) 對話 (B) 衝突 (C) 個性 (D) 關係"
+    },
+    {
+      "id": "TCK_113_0_ENG_006",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Jack is a very person. He will never change his decisions no matter how hard you try to persuade him.",
+      "image_url": "",
+      "options": [
+        "easy-going",
+        "democratic",
+        "obedient",
+        "stubborn ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Jack 是一個非常 ____ 的人。無論你多麼努力說服他,他都不會改變自己的決定。 (A) 隨和的 (B) 民主的 (C) 順從的 (D) 固執的"
+    },
+    {
+      "id": "TCK_113_0_ENG_007",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Kuo, Hsing-chun ( 郭婞淳 ) won a gold medal in the 2020 Tokyo Olympics. I her a lot and want to be like her one day.",
+      "image_url": "",
+      "options": [
+        "admire",
+        "frighten",
+        "impress",
+        "suspect ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "郭婞淳在 2020 年東京奧運會上贏得了金牌。我 ____ 她,並希望有一天能像她一樣。 (A) 欣賞、欽佩 (B) 嚇唬 (C) 使印象深刻 (D) 懷疑"
+    },
+    {
+      "id": "TCK_113_0_ENG_008",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Though she hurt her arm last week, Amy could still play the violin as skillfully as before.",
+      "image_url": "",
+      "options": [
+        "casually",
+        "cruelly",
+        "smoothly",
+        "strictly ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "雖然上週她手臂受傷了,但 Amy 仍然可以像以前一樣熟練地拉小提琴。 (A) 隨意地 (B) 殘酷地 (C) 平穩地 (D) 嚴格地"
+    },
+    {
+      "id": "TCK_113_0_ENG_009",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "May has to conquer her fear of flying if she wants to travel by airplane.",
+      "image_url": "",
+      "options": [
+        "beat",
+        "hunt",
+        "recover",
+        "select ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "May 必須克服她對飛行的恐懼,如果她想乘飛機旅行的話。 (A) 戰勝 (B) 追求 (C) 康復 (D) 選擇"
+    },
+    {
+      "id": "TCK_113_0_ENG_010",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "It is against the law for drivers not to stop at the crosswalk and allow walkers to cross first. If drivers do so, they will be fined.",
+      "image_url": "",
+      "options": [
+        "illegal",
+        "national",
+        "political",
+        "unusual ˉ - 2 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "對於司機不在人行道停車並讓行人先過是違法的。如果司機這樣做,他們將被罰款。 (A) 違法的 (B) 國家的 (C) 政治的 (D) 不尋常的 II. 對話題:第 11 至 20 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+    },
+    {
+      "id": "TCK_113_0_ENG_011",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Customer: I’d like to have one oyster omelette and fried noodles, please. Stall owner: Ok. Your order will be ready in five minutes. Customer: I can’t use chopsticks. Can I have a fork, please? Stall owner: __________ Customer: Thank you.",
+      "image_url": "",
+      "options": [
+        "You’re very welcome.",
+        "Of course, here you go.",
+        "Oyster is also delicious.",
+        "Sure, we have instant noodles. ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "顧客:我想要一份蚵仔煎和炒麵,謝謝。 攤販:好的。您的訂單五分鐘後就會準備好。 顧客:我不會用筷子。能給我叉子嗎? 攤販: __________ 顧客:謝謝。 (A) 不客氣。 (B) 當然,這裡給你。 (C) 蠔仔也很好吃。 (D) 當然,我們有速食麵。 選擇建功‧ 2 ‧尊榮一生"
+    },
+    {
+      "id": "TCK_113_0_ENG_012",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Tina: An old friend is coming to visit me tomorrow. I haven’t seen him for ten years. Mike: An old friend? __________ Tina: He wants to tell me something about his girlfriend. They broke up! Mike: Sorry for him.",
+      "image_url": "",
+      "options": [
+        "How old is he?",
+        "Why is he coming?",
+        "When will you see him?",
+        "Who was he looking for? ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "Tina:明天一位老朋友要來拜訪我。我已經十年沒見到他了。 Mike:一位老朋友? __________ Tina:他想告訴我一些關於他女朋友的事情。他們分手了! Mike:為他感到抱歉。 (A) 他多大了? (B) 他為什麼來? (C) 你什麼時候會見到他? (D) 他在找誰?"
+    },
+    {
+      "id": "TCK_113_0_ENG_013",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Mrs. Chen: I heard that the new neighbors moved in yesterday. Mr. Chen: __________ Mrs. Chen: No, not yet. What do they look like? Mr. Chen: The lady is tall and thin and the man is kind of chubby.",
+      "image_url": "",
+      "options": [
+        "I’m glad I just met them.",
+        "The neighbors have two cats.",
+        "They ran a small business here.",
+        "I thought you’ve met them already. ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Mrs. Chen: 我聽說新鄰居昨天搬進來了。 Mr. Chen: __________ Mrs. Chen: 不是,還沒有。他們長什麼樣子? Mr. Chen: 那位女士高高瘦瘦,男士有點胖胖的。 (A) 我很高興剛剛見到他們了。 (B) 鄰居家有兩隻貓。 (C) 他們在這裡經營一個小生意。 (D) 我以為你已經見過他們了"
+    },
+    {
+      "id": "TCK_113_0_ENG_014",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Adam: We all know that the Wright brothers ( 萊特兄弟 ) flew the first airplane in 1903. But do you know which one of them flew the airplane? Jacky: The older brother did. Adam: I’m surprised you know that. OK. __________ Jacky: Only about 12 seconds. Adam: Wow, you really know a lot!",
+      "image_url": "",
+      "options": [
+        "How long was the flight?",
+        "How old was his brother?",
+        "How many times had he tried before?",
+        "How far did the airplane actually fly? ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Adam:我們都知道萊特兄弟在 1903 年飛了第一架飛機。但你知道他們兩個哪一個飛了飛 機嗎? Jacky:是哥哥飛的。 Adam:我很驚訝你知道這個。好的。 __________ Jacky:大約 12 秒。 Adam:哇,你真的知道很多! (A) 飛行時間有多長? (B) 他的兄弟多大了? (C) 他之前嘗試了多少次? (D) 飛機實際飛 了多遠?"
+    },
+    {
+      "id": "TCK_113_0_ENG_015",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Amy: Did you finish your report for the Performing Arts class? Janet: Yes. __________ Amy: Like what? Janet: For example, women were not allowed to act on stage in the past. Amy: That was really unfair, wasn’t it?",
+      "image_url": "",
+      "options": [
+        "But I haven’t given it to Professor Johnson.",
+        "And I’ve read many books about famous artists.",
+        "But I’m not sure if my mom allows me to act on stage.",
+        "And I’ve gathered a lot of information about the theater. - 3 -"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Amy:你完成了表演藝術課的報告嗎? Janet:是的。 __________ Amy:像什麼? Janet:例如,過去不允許女性在舞台上演出。 Amy:那真的很不公平,對吧? (A) 但我還沒把它交給約翰遜教授。 (B) 我已經讀了很多關於著名藝術家的書。 (C) 但我不 確定我媽媽是否允許我在舞台上表演。 (D) 我收集了很多關於劇院的資訊。"
+    },
+    {
+      "id": "TCK_113_0_ENG_016",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Rita: Why did you apply for this position? Ben: I’d like to work for a large company. Your company is the perfect fit for me. Rita: In this position, you’ll have to lead a small team. How have you shown leadership at your other jobs? Ben: __________ Rita: That’s good.",
+      "image_url": "",
+      "options": [
+        "I worked for my team leader in the past ten years.",
+        "I’d like to apply for a perfect job in a smaller team.",
+        "From now on, I’ll lead a team in this large company.",
+        "At my current position, I manage a team of ten workers. ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Rita:你為什麼申請這個職位? Ben:我想在一家大公司工作。你們公司對我來說是完美的選擇。 Rita:在這個職位上,你將不得不帶領一個小團隊。你在其他工作中如何展示領導能力? Ben: __________ Rita:那很好。 (A) 我過去十年裡一直為我的團隊長工作。 (B) 我想申請一個在小團隊中完美的工作。 (C) 從現在開始,我將在這家大公司帶領一個團隊。 (D) 在我現在的職位上,我管理著一支十人 的團隊。 選擇建功‧ 3 ‧尊榮一生"
+    },
+    {
+      "id": "TCK_113_0_ENG_017",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Sue: How’s the project going? Eric: It’s going well. Sue: Oh, good. __________ Eric: They are great, and they have a lot of creative ideas. Sue: I’m happy to hear that.",
+      "image_url": "",
+      "options": [
+        "But who is not feeling well?",
+        "But how did they come to the office?",
+        "And what are the new colleagues like?",
+        "And when will the project be created? ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Sue:這個專案進展如何? Eric:進展得很順利。 Sue:哦,太好了。 __________ Eric:他們很棒,而且他們有很多創意的想法。 Sue:聽到這個我很高興。 (A) 但是誰感覺不舒服嗎? (B) 但是他們怎麼來到辦公室的? (C) 還有新同事是什麼樣子 的? (D) 那麼專案什麼時候會完成呢?"
+    },
+    {
+      "id": "TCK_113_0_ENG_018",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Jason: Where are you? The presentation is about to begin. Susan: I’m almost there. The traffic is terrible this morning. Jason: __________ Susan: Yes, please. You can make a start, and I can handle the rest of the slides myself.",
+      "image_url": "",
+      "options": [
+        "Do you want me to cancel the presentation?",
+        "Would you like me to order snacks and drinks?",
+        "Do you want me to introduce the first few pages?",
+        "Would you like me to turn off the audio equipment? ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "Jason:你在哪裡?演示即將開始了。 Susan:我快到了。今天早上交通很糟糕。 Jason: __________ Susan:是的,請。你可以開始,我自己處理剩下的幻燈片。 (A) 你想取消演示嗎? (B) 你想讓我訂些點心和飲料嗎? (C) 你想讓我介紹前幾頁嗎? (D) 你想讓我關掉音響設備嗎?"
+    },
+    {
+      "id": "TCK_113_0_ENG_019",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Student: Sir, we are raising money to help save the rainforest. Would you like to donate some money? Man: Are you kidding? __________ It doesn’t affect me! Student: Well, sir, rainforests are very important to us. Many things we use are made from rainforest plants, such as the clothes we wear. Man: Oh, I see. Young man, I’ll donate NT$ 500.",
+      "image_url": "",
+      "options": [
+        "I’ll never save the rain!",
+        "I won’t take your money.",
+        "What is your favorite clothing style?",
+        "Why do I have to save the rainforest? ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "Student:老師,我們正在籌集資金幫助拯救雨林。您想捐一些錢嗎? Man:你在開玩笑嗎? __________ 這對我沒有影響! Student:嗯,先生,雨林對我們很重要。我們使用的許多東西都是由雨林植物製成的,比如 我們穿的衣服。 Man:哦,我明白了。年輕人,我捐 NT$500 。 (A) 我永遠不會拯救雨林! (B) 我不會收你的錢。 (C) 你最喜歡什麼服裝風格? (D) 為什麼 我要拯救雨林?"
+    },
+    {
+      "id": "TCK_113_0_ENG_020",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Jack: I got a text message from the hotel. They ask us to click on a link to confirm our reservation. Lucy: __________ This message seems strange. Jack: But could it be a new policy? I’m afraid our reservation would be cancelled. Lucy: Let me call the hotel. It’s better to be safe than sorry.",
+      "image_url": "",
+      "options": [
+        "Hey, don’t do that.",
+        "Just click on it now.",
+        "Absolutely, go ahead.",
+        "It’s a standard procedure. ˉ - 4 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Jack:我收到了酒店的短信。他們要我們點擊鏈接確認我們的預訂。 Lucy: __________ 這條消息看起來很奇怪。 Jack:但這可能是一項新政策吧?我擔心我們的預訂會被取消。 Lucy:讓我給酒店打個電話。安全第一。 (A) 喂,別這樣做。 (B) 現在就點擊它。 (C) 當然,請進。 (D) 這是標準程序。 III. 綜 合 測 驗:以 下 兩 篇 短 文,共 有 8 個 空 格,為 第 21 至 28 題,每 題 有 四 個 選項, 請依各篇短文文意,選出一個最適合該空格的答案。 ▲下篇短文共有 4 個空格,為第 21 ~ 24 題,請依短文文意,選出一個最適合該空格的 答案。 住在蘭嶼上的雅美 (達悟) 人能夠保持他們的傳統。最著名的傳統是春夏季的 “ 飛魚季節 ” 。 飛魚被視為來自天堂的禮物。在節日期間,當地人必須非常小心自己的言行,以免違背傳統。 多年來,每個飛魚季節都有數以百計甚至數以千計的遊客造訪蘭嶼。許多遊客對當地風俗缺 乏尊重。因此,居民一直提醒遊客避免粗魯的行為。遊客不應該觸摸捕魚船,尤其是在拍照 時。按照傳統,雅美(達悟)婦女和外來者是不被允許觸摸捕魚船的。另一件遊客不應該做 選擇建功‧ 4 ‧尊榮一生 的事情是進入居民晾曬飛魚的後院。根據當地漁民的說法,不尊重的行為會帶來厄運。遊客 應該記住不要干擾島上的正常生活。"
+    },
+    {
+      "id": "TCK_113_0_ENG_021",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": ". Flying fish ____ as a gift from heaven.",
+      "image_url": "",
+      "options": [
+        "regard",
+        "regarded",
+        "are regarded",
+        "are regarding ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "慣用語 be regarded as 「被視為...」"
+    },
+    {
+      "id": "TCK_113_0_ENG_022",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": ". ____ the years, hundreds and thousands of tourists have visited Orchid Island every flying fish season.",
+      "image_url": "",
+      "options": [
+        "About",
+        "Below",
+        "Over",
+        "Without ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "介係詞 over 表示「跨越」,多年來: over the years 。"
+    },
+    {
+      "id": "TCK_113_0_ENG_023",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": ". Therefore, residents keep reminding tourists to avoid ____.",
+      "image_url": "",
+      "options": [
+        "good manners",
+        "rude behaviors",
+        "spending money",
+        "showing consideration ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "(A) 良好的禮貌 (B) 粗魯的行為 (C) 花費金錢 (D) 顯示體貼"
+    },
+    {
+      "id": "TCK_113_0_ENG_024",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": ". ____ thing tourists should not do is entering the backyard of houses where local residents dry their flying fish.",
+      "image_url": "",
+      "options": [
+        "Another",
+        "Other",
+        "Any other",
+        "No other ˉ ▲ 下篇短文共有 4 個空格,為第 25 - 28 題,請依短文文意,選出一個最適合該 空格的答案。 The 3D printer is a machine that can create three-dimensional solid objects. In the printing process, the printer adds layers upon layers of materials until a solid object is completed. 25, 3D printers only made small, simple plastic objects. But now, 3D printer technology can help house builders know the exact amount of materials they need even before they start construction. Therefore, building 3D printed homes requires fewer resources and produces 26 waste than the traditional way. The 3D printer can improve the quality of the objects they create by using artificial intelligence ( AI ). One of the most exciting applications of AI in 3D printing 27 generative design. Generative design is a computer-aided design technique that uses AI to improve the design process. It helps create lighter and stronger structures. This is because AI can find the best way to reduce the weight of a structure 28 increasing its strength. In this way, better buildings can be created. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "(A)Another +單數名詞表示「另一件」 (B)Other 要接複數名詞。 ▲下篇短文共有 4 個空格,為第 25 ~ 28 題,請依短文文意,選出一個最適合該空格的答案。 三維打印機是一種能夠創建三維實體物品的機器。在打印過程中,打印機將材料一層一 層地添加,直到形成一個固體物體。最初,三維打印機只能製造小型、簡單的塑料物品。但 現在,三維打印技術可以幫助房屋建造者在開始施工之前就知道他們需要的材料確切數量。 因此,使用三維打印建造的房屋需要的資源較少,產生的浪費也較少。三維打印機可以通過 使用人工智能( AI )提高所創建物品的質量。人工智能在三維打印中最令人興奮的應用之一 是生成設計。生成設計是一種計算機輔助設計技術,利用人工智能改進設計過程。它有助於 創建更輕、更強的結構。這是因為人工智能可以找到減輕結構重量、同時增加其強度的最佳 方法。通過這種方式,可以創建更好的建築物。"
+    },
+    {
+      "id": "TCK_113_0_ENG_025",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": ". ____, 3D printers only made small, simple plastic objects.",
+      "image_url": "",
+      "options": [
+        "Finally",
+        "Soon",
+        "At first",
+        "In summary ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "(A) 最後 (B) 很快 (C) 首先 (D) 總結"
+    },
+    {
+      "id": "TCK_113_0_ENG_026",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": ". Therefore, building 3D printed homes requires fewer resources and produces ____ waste than the traditional way.",
+      "image_url": "",
+      "options": [
+        "last",
+        "less",
+        "least",
+        "little ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "後有 than 要用比較級 less; little- less - least 。"
+    },
+    {
+      "id": "TCK_113_0_ENG_027",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": ". One of the most exciting applications of AI in 3D printing ____ generative design.",
+      "image_url": "",
+      "options": [
+        "is",
+        "are",
+        "has",
+        "have ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "One of the +複數名詞+單數動詞。 is, has 表示「有」 。"
+    },
+    {
+      "id": "TCK_113_0_ENG_028",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": ". This is because AI can find the best way to reduce the weight of a structure ____ increasing its strength.",
+      "image_url": "",
+      "options": [
+        "nor",
+        "since",
+        "unless",
+        "while - 5 -"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "表示「同時」用連接詞 while 。 nor 也不, since 自從, unless 除非。 IV. 閱讀測驗:以下有四篇短文,共有 14 個題目,為第 29 至 42 題,請於閱讀短文後,選出最適當 的答案。 ▲根據以下圖表,回答第 29 ~ 30 題 根據以下時間表回答問題。 時間表 列車 運行日 台中 苗栗 新竹 桃園 板橋 臺北 南港 編號 1510 周一至周五 07: 12 07: 31 07: 45 07: 58 08: 10 08: 21 08: 30 802 每日 07: 25 07: 45 07: 58 08: 10 08: 22 08: 32 08: 40 1202 周一至周五 07: 21 — — — — 08: 07 08: 15 1602 周一至周五 07: 40 — 08: 05 08: 18 08: 31 08: 42 08: 50 1302 周一至周五 07: 53 — — 08: 27 — 08: 47 08: 55 204 每日 07: 48 — — — 08: 27 08: 37 08: 45 606 周六 08: 00 — 08: 25 08: 38 08: 51 09: 02 09: 10 選擇建功‧ 5 ‧尊榮一生"
+    },
+    {
+      "id": "TCK_113_0_ENG_029",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Which of the following is NOT true about the timetable?",
+      "image_url": "",
+      "options": [
+        "Train No. 802 operates every day of the week from Monday to Sunday.",
+        "Train No. 1510 takes longer to get from Taichung to Taipei than Train No. 1202.",
+        "If Mr. Sakula takes Train No. 606 on Saturday, he will arrive at Taoyuan at 08:30.",
+        "From Taichung to Nangang, Train No. 204 will make a stop at Banqiao and Taipei. ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "以下哪項關於時間表的敘述是不正確的? (A) 列車號 802 每週從周一至周日都運行。 (B) 列車號 1510 從台中到台北的時間比列車號 1202 長。 (C) 如果 Sakula 先生在星期六搭乘 606 號列車,他將在 08: 30 抵達桃園。 (D) 從台中到南港,列車號 204 將在板橋和台北停靠。"
+    },
+    {
+      "id": "TCK_113_0_ENG_030",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Maria is planning to take a train from Taichung to Taipei this Saturday morning. On the way, Denny will join her on the train at Hsinchu. They will be meeting Mr. Lee at Taipei station at 08:50. Which train is her best choice?",
+      "image_url": "",
+      "options": [
+        "No. 802",
+        "No. 1202",
+        "No. 1602",
+        "No. 606 ˉ - 6 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Aria 計劃在這個星期六早上從台中到台北搭火車。在途中, Denny 將在新竹站加入她的列 車。他們將在台北車站 08: 50 會見李先生。她最好選擇哪一班列車? No. 802 ▲根據以下圖表,回答第 31 ~ 32 題 亞運會結束後,民華、雅婷和福豪受到了加入大學學生運動俱樂部的啟發。根據以下海報回 答問題。 俱樂部 如何遊玩 練習時間 羽毛球 兩個或四個人在高網上打羽毛球。 週五晚上 籃球 兩隊通過將大球投進開放的籃子來得分。 週二和週六晚上 自行車 個人騎自行車。 週四早上 橄欖球 兩隊通過攜帶橢圓形球越過特定線來得分。 週六晚上 游泳 個人通過身體運動在水中移動。 週一晚上 舉重 個人舉起重物作為運動。 週二和週五晚上"
+    },
+    {
+      "id": "TCK_113_0_ENG_031",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Minhua and Yating are interested in playing a team sport, which clubs are they likely to join?",
+      "image_url": "",
+      "options": [
+        "Basketball and weightlifting",
+        "Badminton and cycling",
+        "Swimming and badminton",
+        "Rugby and basketball ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "民華和雅婷對參加團隊運動感興趣,他們可能會加入哪些俱樂部? (A) 籃球和舉重 (B) 羽毛球和自行車 (C) 游泳和羽毛球 (D) 橄欖球和籃球"
+    },
+    {
+      "id": "TCK_113_0_ENG_032",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Fuhao works in the evening on Mondays and Tuesdays. Which clubs is he likely to join?",
+      "image_url": "",
+      "options": [
+        "Badminton, Cycling, Rugby",
+        "Basketball, Swimming, Weightlifting",
+        "Rugby, Weightlifting, Swimming",
+        "Cycling, Basketball, Badminton ˉ - 7 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "福豪在周一和周二晚上工作。他可能會加入哪些俱樂部? (A) 羽毛球、自行車、橄欖球 (B) 籃球、游泳、舉重 (C) 橄欖球、舉重、游泳 (D) 自行車、 籃球、羽毛球 ▲根據以下圖表,回答第 33 ~ 35 題 麗娜正在計畫一次旅行,並比較一個旅遊景點的兩家飯店。根據以下資訊回答問題。 選擇建功‧ 6 ‧尊榮一生"
+    },
+    {
+      "id": "TCK_113_0_ENG_033",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Which facility or service is provided by both hotels?",
+      "image_url": "",
+      "options": [
+        "Outdoor pool",
+        "Business center",
+        "Free Wi-Fi",
+        "Laundry service ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "兩家飯店都提供哪種設施或服務? (A) 室外游泳池 (B) 商務中心 (C) 免費無線網路連接 (D) 洗衣服務"
+    },
+    {
+      "id": "TCK_113_0_ENG_034",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "How far does Lina have to drive to the Theme Park if she stays in the hotel closer to it?",
+      "image_url": "",
+      "options": [
+        "2 km",
+        "6 km",
+        "8 km",
+        "16 km ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "如果麗娜住在離主題公園較近的飯店,她要開車去主題公園多遠? (A)2 公里 (B)6 公里 (C)8 公里 (D)16 公里"
+    },
+    {
+      "id": "TCK_113_0_ENG_035",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Which of the following is true?",
+      "image_url": "",
+      "options": [
+        "If Lina likes to use the fitness center, she should choose Universe Hotel.",
+        "If Lina likes to swim in the pool, she should choose Universe Hotel.",
+        "Lina will have to pay NT$ 1,800 for a single room in Cruise Hotel.",
+        "Lina is able to use room service anytime in Cruise Hotel. ˉ - 8 -"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "以下哪一項是正確的? (A) 如果麗娜喜歡使用健身中心,她應該選擇環球飯店。 (B) 如果麗娜喜歡在游泳池裏游泳, 她應該選擇環球飯店。 (C) 麗娜要花新臺幣 1800 元在 Cruise 飯店買一間單人房。 (D)Lina 可以在 Cruise 飯店隨時使用客房服務。 ▲閱讀下文,回答第 36 ~ 38 題 黃仁勳是 NVIDIA 的首席執行官,該公司是一家領先的製造用於人工智慧( AI )的晶片 的公司。在 2023 年,黃被列為 AI 領域最具影響力的 100 人之一。作為許多人的榜樣,黃鼓 勵年輕人抓住 AI 將帶來的機遇。同時,他提醒他們對挑戰保持積極的態度。去年,在台灣向 大學畢業生發表演講時,黃分享了他過去三十年學到的兩個重要教訓。第一個教訓是不要因 失敗而氣餒。 1996 年,他的公司由於行業的急劇變化幾乎關閉。他們很快意識到自己犯了錯 誤,黃謙虛地向一位主要客戶尋求幫助。在客戶的支持下,公司開始發明導致未來成功的晶 片。黃的建議是始終誠實地面對自己的錯誤並尋求幫助。第二個教訓是儘管困難重重,也要 繼續前進。 2007 年,公司在產品改進上進行了昂貴的投資。新產品多年來銷售情況不佳,直 到開始用於機器學習。這個經驗教導了黃和他的同事如何應對實現他們願景所需的痛苦和苦 難。他們持續的努力幫助 NVIDIA 成為全球 AI 技術的領導者。黃的生活故事也是關於自我超 越。黃出生在台灣,九歲時移居美國。後來他獲得了兩個工程學位,然後在兩家晶片公司工 作。 1993 年,在他的 30 歲生日那一天,他和兩位朋友創立了 NVIDIA 。如今,黃經常建議學 生過有目標的生活,並且要踏踏實實地朝著目標前進,而不是蹣跚而行。"
+    },
+    {
+      "id": "TCK_113_0_ENG_036",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "What is the main idea of this passage?",
+      "image_url": "",
+      "options": [
+        "How to come up with a speech",
+        "How to succeed in chip making",
+        "How to seize opportunities in AI",
+        "How to deal with difficult situations ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "這篇文章的主要觀點是什麼? (A) 如何構思演講 (B) 如何成功製造晶片 (C) 如何把握人工智慧的機會 (D) 如何應對困難 情況"
+    },
+    {
+      "id": "TCK_113_0_ENG_037",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "According to the passage, which is NOT an example of “ pushing oneself to do better ”?",
+      "image_url": "",
+      "options": [
+        "Working for chip companies",
+        "Reaching the age of 30 in 1993",
+        "Earning two engineering degrees",
+        "Founding NVIDIA with two friends ˉ"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據文章,以下哪個不是「努力提升自己」的例子? (A) 在晶片公司工作 (B) 在 1993 年達到 30 歲 (C) 獲得兩個工程學位 (D) 與兩位朋友創立 NVIDIA"
+    },
+    {
+      "id": "TCK_113_0_ENG_038",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Based on the passage, arrange the following events in the order in which they happened.",
+      "image_url": "",
+      "options": [
+        "New products made profits when they were used for machine learning.",
+        "Huang’s company almost shut down because of challenges in the industry.",
+        "Huang became one of the most 100 influential people in artificial intelligence.",
+        "The company admitted their mistake and obtained help to develop a product. (A) b → a → c → d (B) b → d → a → c (C) c → d → b → a (D) c → a → d → b - 9 -"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "根據文章,將以下事件按發生順序排列。 a. 新產品在用於機器學習時賺取利潤。 b. 黃的公司因行業挑戰幾乎倒閉。 c. 黃成為最具影響力的 100 位人工智慧專家之一。 d. 公司承認他們的錯誤,並獲得幫助開發產品。 (B)b → d → a → c 選擇建功‧ 7 ‧尊榮一生 ▲閱讀下文,回答第 39 ~ 42 題 在 2023 年 10 月 9 日,台灣製造的首顆氣象衛星「 Triton 」成功進入太空。它也是全球第 四顆使用 GNSS-R 儀器收集氣象資料的衛星。其目的是幫助我們更準確地預測天氣。這顆衛 星以希臘古代海神特里同命名。海神統御風雨。 Triton 衛星能夠收集到浪高和海風速等數據。 Triton 利用一種從地球表面反射信號的技術。它攜帶 GNSS-R 儀器接收從海面發回的信號。海 面越平靜,信號越強,表明風力較弱。這些信息非常寶貴,因為風速數據並不容易收集。這 些信息可以提高颱風強度和移動路徑的預測準確性。 Triton 主要觀測大西洋、印度洋和太平洋 中部的天氣變化。 Triton 計劃始於 2014 年,是台灣太空總署( TASA )與當地公司之間成功的 合作成果。 TASA 開發了 GNSS-R 儀器和關鍵部件,如機載計算機和 GPS 接收器。超過 20 個 當地研究團隊和製造商參與開發地面站設備。這顆衛星的 82% 由台灣開發和生產。現在 Triton 在太空中,我們期待它能提供更準確的信息並支持災害預防。 Triton 的成功有助於全球天氣預 報,也是台灣太空工程的一個重要步驟。"
+    },
+    {
+      "id": "TCK_113_0_ENG_039",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "What is the passage mainly about?",
+      "image_url": "",
+      "options": [
+        "Challenges of space engineering in Taiwan",
+        "The description of the Greek sea god Triton",
+        "Differences in weather forecasting techniques",
+        "The introduction of a weather satellite in Taiwan ˉ"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "本文主要談論的是什麼? (A) 台灣太空工程的挑戰 (B) 希臘海神特里同的描述 (C) 天氣預報技術的差異 (D) 台灣天 氣衛星的推介"
+    },
+    {
+      "id": "TCK_113_0_ENG_040",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Which is closest in meaning to “ reflected ” in the second paragraph?",
+      "image_url": "",
+      "options": [
+        "looked into",
+        "made of",
+        "sent back",
+        "named after ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "第二段中, “reflected” 最接近哪個意思? (A) 調查 (B) 由......製成 (C) 發送回來 (D) 以......命名"
+    },
+    {
+      "id": "TCK_113_0_ENG_041",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "According to the passage, which of the following is true?",
+      "image_url": "",
+      "options": [
+        "Triton started to collect wind speed data before 2014.",
+        "All of Triton was developed and produced in Taiwan.",
+        "Triton shows the improvement in Taiwan’s space skills.",
+        "Fewer than 20 local companies worked on the Triton project. ˉ"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "根據文章,以下哪項是真實的? (A)Triton 在 2014 年之前開始收集風速數據 。 (B)Triton 的所有部分都是在台灣開發和生產的 。 (C)Triton 顯示了台灣太空技術的改進。 (D) 參與 Triton 項目的本地公司少於 20 家。"
+    },
+    {
+      "id": "TCK_113_0_ENG_042",
+      "subject": "英文",
+      "unit": "113-統測-00共同科目-英文",
+      "q": "Which of the following can be inferred from the passage about the contribution of Triton?",
+      "image_url": "",
+      "options": [
+        "It helps reduce damage caused by bad weather.",
+        "It improves the speed and strength of typhoons.",
+        "It connects the Atlantic Ocean and Indian Ocean.",
+        "It measures the heights of satellites from sea surfaces. ˉ - 10 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "關於 Triton 的貢獻,以下哪項可以從文章中推斷? (A) 它有助於減少惡劣天氣造成的損害。 (B) 它提高了颱風的速度和強度。 (C) 它將大西洋 和印度洋連接在一起。 (D) 它測量衛星離海面的高度。 二、非選擇題(第I題,每格 2 分,共 4 分;第II題 6 分;第III題 6 分;共 16 分)"
+    }
+  ]
+}

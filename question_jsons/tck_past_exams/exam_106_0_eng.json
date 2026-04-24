@@ -1,0 +1,661 @@
+{
+  "bundle_id": "TCK_106_0_ENG",
+  "questions": [
+    {
+      "id": "TCK_106_0_ENG_001",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Our summer camp is for between the ages of 10 and 16.",
+      "image_url": "",
+      "options": [
+        "adults",
+        "elders",
+        "babies",
+        "youngsters ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "哈利波特系列已經獲得國際關注,而且在很多國家出版。 The Harry Potter series has gained i 1 attention, and has also been published in many c"
+    },
+    {
+      "id": "TCK_106_0_ENG_002",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Some people online information about a product before making their purchase.",
+      "image_url": "",
+      "options": [
+        "last",
+        "carry",
+        "stand",
+        "read ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "common complaints / The employees / about poor service / to handle / were trained 【詳解】 The employees were trained to handle common complaints about poor service. 員工接受培訓以處理有關劣質服務的常見投訴。 III. 中譯英 說明: ▲ 請將以下中文句子譯成正確、通順、達意的英文,並將答案寫在「非選擇題作答區」 之指定範圍內,請勿抄題。"
+    },
+    {
+      "id": "TCK_106_0_ENG_003",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "No matter how bad things look, I try to keep an attitude. In other words, I look on the bright side.",
+      "image_url": "",
+      "options": [
+        "occasional",
+        "official",
+        "optimistic",
+        "original ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "醫生警告抽菸有害人們的健康。 【詳解】 Doctors warn that smoking is harmful to people’s health. ( is harmful to 也可用 does harm to ) 選擇建功‧ 14 ‧尊榮一生"
+    },
+    {
+      "id": "TCK_106_0_ENG_004",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Social media platforms allow us to up with multiple circles of friends.",
+      "image_url": "",
+      "options": [
+        "link",
+        "wipe",
+        "raise",
+        "look ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_005",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Every nation in the world in some way to global culture.",
+      "image_url": "",
+      "options": [
+        "displeases",
+        "invades",
+        "alternates",
+        "contributes ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_006",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Lately many people have been discussing how to ensure water, food, energy, and other natural resources for a large world population.",
+      "image_url": "",
+      "options": [
+        "extreme",
+        "individual",
+        "respective",
+        "sufficient ˉ 公告試題"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_007",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Many foreign travelers like to try various kinds of snacks in Taiwan’s night market.",
+      "image_url": "",
+      "options": [
+        "tourists",
+        "souvenirs",
+        "competitions",
+        "events ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_008",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Email miscommunication most often occurs when the receiver misunderstands the meaning of the sender’s message.",
+      "image_url": "",
+      "options": [
+        "misinterprets",
+        "misadvises",
+        "misbehaves",
+        "mischarges ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_009",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "The police freed the man after they found out the truth about what had happened.",
+      "image_url": "",
+      "options": [
+        "punished 僅供參考",
+        "released",
+        "captured",
+        "questioned ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_010",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "The teacher created vocabulary cards to assist students in learning new English words.",
+      "image_url": "",
+      "options": [
+        "support",
+        "translate",
+        "believe",
+        "sign ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_011",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "An obvious advantage of living in a city is its convenience.",
+      "image_url": "",
+      "options": [
+        "benefit",
+        "method",
+        "possibility",
+        "trouble ˉ II. 對話題:第 1 2 至 2 1 題,請依對話內容選出一個最適合的答案,使其成為有意 義 的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_012",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Gloria: What are you going to do after you graduate from high school? May: Gloria: I want to learn three foreign languages in college. May: That sounds exciting.",
+      "image_url": "",
+      "options": [
+        "To be honest, I have no idea yet.",
+        "Actually, in four years’ time.",
+        "It might be on the third floor.",
+        "After that, you’ll find the location. ˉ - 2 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_013",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Clerk: How can I help you? Customer: Yes, this desk lamp was broken when I tried to turn it on at home. Clerk: Customer: Great, thanks for your assistance.",
+      "image_url": "",
+      "options": [
+        "Believe it or not, it’s just been bought.",
+        "I’m sorry, but I can replace it for you.",
+        "It seems you’re interested in the house.",
+        "The mechanic will fix your car in no time. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_014",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Fred: Oops! I left my workbook at home! Jamie: Ms. Kim reminded us just yesterday about it. Fred: There isn’t much I can do. It’s too late for me to go back home now. Jamie: Ms. Kim will be very upset.",
+      "image_url": "",
+      "options": [
+        "Salaries have not gone up.",
+        "You are in trouble, my friend.",
+        "He left the bookstore yesterday.",
+        "Consider the assignment done. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_015",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Zax: What are today’s headlines? Claire: Super Junior canceled tomorrow’s concert. Zax: Claire: You bet. So many fans like me were very excited about seeing their show.",
+      "image_url": "",
+      "options": [
+        "It sounds like you’re not into music.",
+        "How many fans will be attending it?",
+        "Who are the members of the band?",
+        "You must feel terribly disappointed. ˉ 公告試題"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_016",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Dora: Where can I get that novel? David: I just ordered it online. Dora: David: Anyone can! It’s so easy to use online bookstores nowadays.",
+      "image_url": "",
+      "options": [
+        "I’m amazed you can do that.",
+        "How’s the store’s service quality?",
+        "It’s actually about storytelling.",
+        "The system has a virus, doesn’t it? ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_017",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Jill: When is your monthly test? Larry: Next Thursday. Oh, I’m running out of time! 僅供參考 Jill: Relax! There are still five more days to prepare. Larry: Easy for you to say. Jill: I have confidence in you.",
+      "image_url": "",
+      "options": [
+        "I can’t believe he spoke to you this way.",
+        "I’m not sure if I can be ready by that time.",
+        "But it’s kind of dangerous to run here.",
+        "The monthly treatment takes too long. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_018",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Operator: City Hall. How may I direct your call? Citizen: Operator: And the reason for your call? Citizen: Well, the park in our neighborhood looks terrible. I mean, there’s litter everywhere and nobody has picked it up. Operator: I see. One moment please.",
+      "image_url": "",
+      "options": [
+        "I’d like to speak to Environmental Services, please.",
+        "Yes, you may hand the problem to our department.",
+        "Read it before you hand it in to the director, please.",
+        "Please turn right at the next corner to find the center. ˉ - 3 - ◢"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_019",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Teacher: Chris, you need to pay more attention to your attendance. Chris: I thought students could join clubs. Teacher: Clubs are fine, but you should also concentrate on your studies. Chris: I know. I’ll try to manage my time more effectively.",
+      "image_url": "",
+      "options": [
+        "But I’m sure the payment I made was correct.",
+        "It was just because my grandmother was sick.",
+        "I was practicing with the band I’m leading.",
+        "I think it broke down a couple of days ago. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_020",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Sam: What should I wear to a school interview? Susan: I don’t think you should get overly dressed. You want to look approachable. Sam: Susan: Come on, you’re being so sensitive.",
+      "image_url": "",
+      "options": [
+        "A special welcome to all interviewees.",
+        "Of course I can wash them for you.",
+        "My appearance never pleases you.",
+        "I hope to select the best worker. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_021",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Tom: My dad loves my mom very much, even after such a long marriage. Emily: Tom: Well, he always tells her that he loves her the way she is. Emily: That sounds sweet. Tom: And he always kisses her goodbye before going out. Emily: Wow, it seems they are still very much in love after all these years.",
+      "image_url": "",
+      "options": [
+        "How can you tell that he does? 公告試題",
+        "How long ago did they meet?",
+        "What does he wish for most?",
+        "What was the wedding like? ˉ III. 綜合測驗:以下兩篇短文,共有 10 個空格,為第 2 2 至 3 1 題,每題有四個 選項,請依各篇短文文意,選出一個最適合該空格的答案。 ▲ 下篇短文共有 5 個空格,為第 2 2 - 26 題,請依短文文意,選出一個最適合該 空格的答案。 僅供參考 Do you prefer reading or watching television in your leisure time? Some people think that watching television is more 22 and relaxing than reading. Reading tends to take so much time, something which the modern person cannot easily afford. 23 these observations might be true, at least to some extent, but reading is still very popular. When you use your 24, a book can become so interesting that you can find it difficult to stop reading it. Besides, 25 different kinds of genres to choose from, so reading can become a hobby for every type of person. You can choose to read a romance, action, or historical novel. If you find it hard to choose a book for 26 enjoyment, you can read reviews or ask friends for advice. Reading can be fun. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_022",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "? Some people think that watching television is more ____ and relaxing than reading.",
+      "image_url": "",
+      "options": [
+        "entertained",
+        "entertaining",
+        "entertainment",
+        "entertainer ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_023",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": ". ____ these observations might be true, at least to some extent, but reading is still very popular.",
+      "image_url": "",
+      "options": [
+        "Each",
+        "Some",
+        "None",
+        "All ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_024",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": ". When you use your ____, a book can become so interesting that you can find it difficult to stop reading it.",
+      "image_url": "",
+      "options": [
+        "image",
+        "imagination",
+        "imagine",
+        "imagining ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": ", a book can become so interesting that you can find it difficult to stop reading it. Besides,"
+    },
+    {
+      "id": "TCK_106_0_ENG_025",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": ". Besides, ____ different kinds of genres to choose from, so reading can become a hobby for every type of person.",
+      "image_url": "",
+      "options": [
+        "they were",
+        "they had",
+        "there are",
+        "there have ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "different kinds of genres to choose from, so reading can become a hobby for every type of person. You can choose to read a romance, action, or historical novel. If you find it hard to choose a book for"
+    },
+    {
+      "id": "TCK_106_0_ENG_026",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": ". If you find it hard to choose a book for ____ enjoyment, you can read reviews or ask friends for advice.",
+      "image_url": "",
+      "options": [
+        "you",
+        "your",
+        "yours",
+        "yourself ˉ - 4 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_027",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": ". Yet, health experts say that such diets ____ not successful.",
+      "image_url": "",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "have ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_028",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": ". ____, they might not really have the expected outcomes that they promise.",
+      "image_url": "",
+      "options": [
+        "In fact",
+        "In terms of",
+        "In regard to",
+        "In contrast ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_029",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": ". Researchers ____ that 80 % of people who lose weight on extreme diets are likely to regain it all within three years.",
+      "image_url": "",
+      "options": [
+        "suggests",
+        "suggesting",
+        "suggest",
+        "suggestion ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_030",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": ". Their view could well be correct because leading nutritionists believe that permanent weight loss will only occur ____ people eat sensibly and exerc ise regularly.",
+      "image_url": "",
+      "options": [
+        "when",
+        "whereas",
+        "whom",
+        "whether ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_031",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": ". The possibility of this ____ is low, though.",
+      "image_url": "",
+      "options": [
+        "happened",
+        "happen",
+        "happening",
+        "happens ˉ ˉ IV. 閱讀測驗:以下有兩篇短文,共有 10 個題目,為第 3 2 至 4 1 題,請於閱讀短文 後, 選出最適當的答案。 公告試題 ▲ 閱讀下文,回答第 32 - 36 題 Hannah Montana is a movie about an ordinary teenager with a special secret, one that she is trying her best to hide from others. Apart from a few people, no one knows that the normal - looking Miley is actually the famous teen singer Hannah Montana. This double life can cause Miley to make mistakes; however, she is brave, smart, and also good - hearted. Sometimes, Miley has to make courageous choices. For example, when she is late for her best friend ’ s birthday party and does not have time to change into an ordinary - looking teenager, 僅供參考 she goes to the party as Hannah Montana. Unfortunately, the party turns into a big failure; everyone is more excited about seeing a great celebrity and forgets about making her friend happy. Nonetheless, we can still admire Miley for putting h erself at risk for her friend. Another reason for liking Miley is that she is smar t. Her father takes her to live in her hometown of Crowley Corners, a very rural and simple town. One morning, Miley has to get some fresh eggs for breakfast, but she encounters a problem - the hens do not want to give her their eggs. Miley thinks up a cle ver idea. She sings and dances to distract the hens. It works, but in her excitement, she breaks almost all the eggs she has collected. Once again, she fails, but there is no d oubt about how creative she is. Perhaps the most important reason to like Miley is that she has a very good heart. She wants to help her friends and family, and in the process of doing this she w ould feel sorry when something goes wrong. Particularly, she does not want to lie to Travis, a boy who likes her very much. He does not know she is a great singer, so she feels upset in her heart about no t letting him know. There is a lot to see in Hannah Montana, but viewers will definitely enjoy the main character in the movie. She is very hum orous, courageous, and kind. ˉ - 5 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_032",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Who is Hannah Montana?",
+      "image_url": "",
+      "options": [
+        "A school teacher.",
+        "A working mother.",
+        "A movie director.",
+        "A teen celebrity. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_033",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "What happens at the friend’s birthday party?",
+      "image_url": "",
+      "options": [
+        "Her friend, the birthday girl, does not come to the party.",
+        "Miley comes to the party as a normal-looking teenager.",
+        "Everybody pays more attention to Miley than to her friend.",
+        "The birthday is canceled because of a sudden power failure. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_034",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Based on the ideas of paragraph 3, where might Miley be?",
+      "image_url": "",
+      "options": [
+        "A small farm.",
+        "A city breakfast store.",
+        "A rural school.",
+        "A singing contest. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_035",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Based on the passage, what kind of movie is Hannah Montana?",
+      "image_url": "",
+      "options": [
+        "Teen sports-action.",
+        "Teen techno-thriller.",
+        "Teen science-fiction.",
+        "Teen comedy-drama. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_036",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Which of the following is NOT mentioned about Miley in the passage?",
+      "image_url": "",
+      "options": [
+        "She is not as ordinary as many people think.",
+        "She fails to collect all the eggs for breakfast.",
+        "She cares much about her friends and family.",
+        "She breaks up with Travis and has a broken heart. 公告試題 ˉ ˉ ▲ 閱讀下文,回答第 37 - 41 題 Changdong is in the north of Seoul in South Korea. Only a few hundred thousand people live there, and it has few facilities. It is not as wealthy as many other places in Seoul, but after 2021, it will be one of the most exciting places to visit. The reason for this is Korean popular music, which everybody knows as K - pop - the South Korean government wants Changdong to become the K - pop capital of the world. 僅供參考 South Korea knows that K - pop is very important. In 2015, South Korea made $ 5 billion from selling K - pop music and related TV shows, films, games, and so on. Furthermore, because of K - pop, other Korean products like Samsung smartphones, Korean - made cars, and Korean - style cl othes have become very popular. K - pop is very global today. For a long time, it has been very popular in China, Japan, Taiwan, and Hong Kong. However, Billboard magazine found a different trend between 2013 and 2016. During this time, the United States was the third biggest buyer of K - po p music. Thus, it can be said that K - pop has a lot of fans in the West today. To attract fans from around the world, there are big plans for Changdong. It will have concert halls, music schools, recording studios, art galleries, and a K - pop museum. The p lace that will be the most important venue, however, is the huge arena. About 20,000 fans will be able to enjoy K - pop events there. Since it is a very big and important project, the arena, which won ’ t be completed unti l 2021, is already being built. When e verything is finished, Changdong will be a very exciting place to visit. For K - pop fans, it will be the coolest place on earth! - 6 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_037",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Where is Changdong?",
+      "image_url": "",
+      "options": [
+        "In the north of Seoul.",
+        "In the east of Seoul.",
+        "In the south of Seoul.",
+        "In the west of Seoul. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_038",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "What does the South Korean government want to do to Changdong?",
+      "image_url": "",
+      "options": [
+        "They want to reduce the number of visitors going there.",
+        "They want to change it into the K-pop capital of the world.",
+        "They want only a few hundred thousand people to live there.",
+        "They want to protect its beautiful natural environment. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_039",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "What can be inferred from the passage about other Korean products?",
+      "image_url": "",
+      "options": [
+        "They became cheaper and smaller.",
+        "People got disinterested in them.",
+        "People bought more of them.",
+        "They were seen less often on TV. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_040",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "What happened between 2013 and 2016?",
+      "image_url": "",
+      "options": [
+        "Asian people tended to buy less K-pop than American people.",
+        "Billboard magazine was eventually founded in America by then.",
+        "K-pop unexpectedly gained a larger customer base in America.",
+        "A lot of passionate fans traveled to America to spread K-pop. ˉ 公告試題"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_106_0_ENG_041",
+      "subject": "英文",
+      "unit": "106-統測-00共同科目-英文",
+      "q": "Which of the following is NOT mentioned in the passage about the facilities?",
+      "image_url": "",
+      "options": [
+        "Fans that visit Changdong will feel excited because of them.",
+        "The main facility will take some time to build.",
+        "The facilities will include some venues for education.",
+        "20,000 people will attend the opening of the arena. ˉ 僅供參考 二、 非 選擇 題 ( 第 I 到 第 III 題,每 題 6 分,共 1 8 分 ) I. 填充 說明: ▲ 請依據中文提示,將試題內空格 1 、 2 答案之完整單字 ( 含提示之字首 ), 分別作答於答案卷之作答欄 1 、 2 之指定範圍內以完成句子。 ▲ 請勿抄題,每格限填一字,超過一字者視為錯誤,不予計分。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    }
+  ]
+}

@@ -1,27 +1,532 @@
 {
-    "app_version_required": "1.0.0",
-    "data_version": 2,
-    "bundles": [
-        {
-            "id": "MM_CH1",
-            "name": "機械製造 第一章",
-            "file_name": "mech_mfg_ch1.json",
-            "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/refs/heads/main/mech_mfg_ch1.json",
-            "updated_at": "2026-02-03"
-        },
-        {
-            "id": "MM_CH2",
-            "name": "機械製造 第二章",
-            "file_name": "mech_mfg_ch2.json",
-            "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/refs/heads/main/mech_mfg_ch2.json",
-            "updated_at": "2026-02-03"
-        },
-        {
-            "id": "MM_CH3",
-            "name": "機械製造 第三章",
-            "file_name": "mech_mfg_ch3.json",
-            "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/refs/heads/main/mech_mfg_ch3.json",
-            "updated_at": "2026-02-03"
-        }
-    ]
+  "app_version_required": "1.0.0",
+  "data_version": 64,
+  "bundles": [
+    {
+      "id": "TCK_101_0_CHI",
+      "name": "101-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_101_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_101_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_101_0_ENG",
+      "name": "101-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_101_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_101_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_101_0_MATC",
+      "name": "101-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_101_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_101_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_101_1_ME1",
+      "name": "101-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_101_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_101_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_101_1_ME2",
+      "name": "101-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_101_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_101_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_102_0_CHI",
+      "name": "102-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_102_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_102_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_102_0_ENG",
+      "name": "102-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_102_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_102_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_102_0_MATC",
+      "name": "102-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_102_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_102_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_102_1_ME1",
+      "name": "102-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_102_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_102_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_102_1_ME2",
+      "name": "102-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_102_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_102_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_103_0_CHI",
+      "name": "103-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_103_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_103_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_103_0_ENG",
+      "name": "103-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_103_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_103_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_103_0_MATC",
+      "name": "103-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_103_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_103_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_103_1_ME1",
+      "name": "103-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_103_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_103_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_103_1_ME2",
+      "name": "103-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_103_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_103_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_104_0_CHI",
+      "name": "104-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_104_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_104_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_104_0_ENG",
+      "name": "104-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_104_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_104_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_104_0_MATC",
+      "name": "104-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_104_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_104_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_104_1_ME1",
+      "name": "104-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_104_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_104_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_104_1_ME2",
+      "name": "104-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_104_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_104_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_105_0_CHI",
+      "name": "105-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_105_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_105_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_105_0_ENG",
+      "name": "105-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_105_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_105_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_105_0_MATC",
+      "name": "105-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_105_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_105_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_105_1_ME1",
+      "name": "105-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_105_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_105_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_105_1_ME2",
+      "name": "105-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_105_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_105_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_106_0_CHI",
+      "name": "106-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_106_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_106_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_106_0_ENG",
+      "name": "106-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_106_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_106_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_106_0_MATC",
+      "name": "106-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_106_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_106_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_106_1_ME1",
+      "name": "106-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_106_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_106_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_106_1_ME2",
+      "name": "106-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_106_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_106_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_107_0_CHI",
+      "name": "107-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_107_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_107_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_107_0_ENG",
+      "name": "107-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_107_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_107_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_107_0_MATC",
+      "name": "107-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_107_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_107_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_107_1_ME1",
+      "name": "107-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_107_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_107_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_107_1_ME2",
+      "name": "107-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_107_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_107_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_108_0_CHI",
+      "name": "108-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_108_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_108_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_108_0_ENG",
+      "name": "108-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_108_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_108_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_108_0_MATC",
+      "name": "108-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_108_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_108_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_108_1_ME1",
+      "name": "108-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_108_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_108_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_108_1_ME2",
+      "name": "108-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_108_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_108_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_109_0_CHI",
+      "name": "109-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_109_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_109_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_109_0_ENG",
+      "name": "109-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_109_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_109_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_109_0_MATC",
+      "name": "109-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_109_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_109_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_109_1_ME1",
+      "name": "109-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_109_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_109_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_109_1_ME2",
+      "name": "109-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_109_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_109_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_110_0_CHI_WRITING",
+      "name": "110-統測-00共同科目-國文-writing",
+      "file_name": "question_jsons/tck_past_exams/exam_110_0_chi_writing.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_110_0_chi_writing.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_110_0_CHI",
+      "name": "110-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_110_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_110_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_110_0_ENG",
+      "name": "110-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_110_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_110_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_110_0_MATC",
+      "name": "110-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_110_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_110_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_110_1_ME1",
+      "name": "110-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_110_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_110_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_110_1_ME2",
+      "name": "110-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_110_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_110_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_111_0_CHI_WRITING",
+      "name": "111-統測-00共同科目-國文-writing",
+      "file_name": "question_jsons/tck_past_exams/exam_111_0_chi_writing.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_111_0_chi_writing.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_111_0_CHI",
+      "name": "111-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_111_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_111_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_111_0_ENG",
+      "name": "111-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_111_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_111_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_111_0_MATC",
+      "name": "111-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_111_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_111_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_111_1_ME1",
+      "name": "111-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_111_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_111_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_111_1_ME2",
+      "name": "111-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_111_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_111_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_112_0_CHI_WRITING",
+      "name": "112-統測-00共同科目-國文-writing",
+      "file_name": "question_jsons/tck_past_exams/exam_112_0_chi_writing.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_112_0_chi_writing.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_112_0_CHI",
+      "name": "112-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_112_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_112_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_112_0_ENG",
+      "name": "112-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_112_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_112_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_112_0_MATC",
+      "name": "112-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_112_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_112_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_112_1_ME1",
+      "name": "112-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_112_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_112_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_112_1_ME2",
+      "name": "112-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_112_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_112_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_113_0_CHI_WRITING",
+      "name": "113-統測-00共同科目-國文-writing",
+      "file_name": "question_jsons/tck_past_exams/exam_113_0_chi_writing.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_113_0_chi_writing.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_113_0_CHI",
+      "name": "113-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_113_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_113_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_113_0_ENG",
+      "name": "113-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_113_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_113_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_113_0_MATC",
+      "name": "113-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_113_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_113_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_113_1_ME1",
+      "name": "113-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_113_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_113_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_113_1_ME2",
+      "name": "113-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_113_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_113_1_me2.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_114_0_CHI_WRITING",
+      "name": "114-統測-00共同科目-國文-writing",
+      "file_name": "question_jsons/tck_past_exams/exam_114_0_chi_writing.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_114_0_chi_writing.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_114_0_CHI",
+      "name": "114-統測-00共同科目-國文",
+      "file_name": "question_jsons/tck_past_exams/exam_114_0_chi.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_114_0_chi.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_114_0_ENG",
+      "name": "114-統測-00共同科目-英文",
+      "file_name": "question_jsons/tck_past_exams/exam_114_0_eng.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_114_0_eng.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_114_0_MATC",
+      "name": "114-統測-00共同科目-數學(C)卷",
+      "file_name": "question_jsons/tck_past_exams/exam_114_0_matc.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_114_0_matc.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_114_1_ME1",
+      "name": "114-統測-01機械群專一",
+      "file_name": "question_jsons/tck_past_exams/exam_114_1_me1.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_114_1_me1.json",
+      "updated_at": "2026-04-24"
+    },
+    {
+      "id": "TCK_114_1_ME2",
+      "name": "114-統測-01機械群專二",
+      "file_name": "question_jsons/tck_past_exams/exam_114_1_me2.json",
+      "url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/question_jsons/tck_past_exams/exam_114_1_me2.json",
+      "updated_at": "2026-04-24"
+    }
+  ],
+  "content_bundles": []
 }

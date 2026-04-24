@@ -1,0 +1,661 @@
+{
+  "bundle_id": "TCK_110_0_ENG",
+  "questions": [
+    {
+      "id": "TCK_110_0_ENG_001",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "The shy little boy spoke so that I had a hard time hearing what he said.",
+      "image_url": "",
+      "options": [
+        "bravely",
+        "clearly",
+        "openly",
+        "softly ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "為保持健康,均衡的飲食、充足的運動及避免過多的壓力是有必要的。 To stay healthy, it is necessary to have a balanced diet and s 1 exercise, and to avoid too much p"
+    },
+    {
+      "id": "TCK_110_0_ENG_002",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "I am terribly sorry. Please my sincere apology.",
+      "image_url": "",
+      "options": [
+        "accept",
+        "ignore",
+        "propose",
+        "refuse ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "in the economy / All governments / due to / predicted a decline / the COVID-19 pandemic 【詳解】 All governments predicted a decline in the economy due to the COVID-19 pandemic. 各國政府都預測,由於 COVID-19 大流行,經濟將下滑。 III. 中譯英 說明: ▲ 請將以下中文句子譯成正確、通順、達意的英文,並將答案寫在「非選擇題作答區」 之指定範圍內,請勿抄題。"
+    },
+    {
+      "id": "TCK_110_0_ENG_003",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "I am a customer at that restaurant. I eat there at least four or five times a week.",
+      "image_url": "",
+      "options": [
+        "delicious",
+        "former",
+        "negative",
+        "regular ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "有些學校將會帶他們的學生去動物園。 【詳解】 Some schools will take their students to the zoo. 選擇建功‧ 16 ‧尊榮一生"
+    },
+    {
+      "id": "TCK_110_0_ENG_004",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Eating too many potato chips makes you thirsty because chips a large amount of salt.",
+      "image_url": "",
+      "options": [
+        "contain",
+        "control",
+        "contract",
+        "contact ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_005",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "The weather is very hot in summer, while in winter it is really.",
+      "image_url": "",
+      "options": [
+        "chilly",
+        "previous",
+        "tropical",
+        "visible ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_006",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Hand washing is one of the best ways to keep healthy and stop the spread of and viruses.",
+      "image_url": "",
+      "options": [
+        "bacteria",
+        "fever",
+        "moisture",
+        "sweat ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_007",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "In the admission interview, the are often asked to explain why they want to enter the university.",
+      "image_url": "",
+      "options": [
+        "applicants",
+        "associates",
+        "receptionists",
+        "relatives ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_008",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Pets, such as cats and dogs, are humans' favorite companions.",
+      "image_url": "",
+      "options": [
+        "listeners",
+        "directors",
+        "partners",
+        "strangers ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_009",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "The weather forecast said the temperature would dip from 20 degrees during the day to 12 degrees at night.",
+      "image_url": "",
+      "options": [
+        "dim",
+        "drop",
+        "fail",
+        "leak ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_010",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Many early American Indians preferred hunting, so they lived primarily on buffalo meat.",
+      "image_url": "",
+      "options": [
+        "barely",
+        "frequently",
+        "mainly",
+        "scarcely ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_011",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Marie Curie ( 居禮夫人 ) was a magnificent scientist who was the first woman to win the Nobel Prize.",
+      "image_url": "",
+      "options": [
+        "brilliant",
+        "believable",
+        "critical",
+        "commercial II. 對話題: 第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義 的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_012",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Anderson: Why are you studying English? Wan-Ting: I hope to study abroad one day, so I need good English. Anderson: Then what is the most difficult part of learning English? Wan-Ting: _______________ Native speakers talk so fast that I have problems understanding them.",
+      "image_url": "",
+      "options": [
+        "No problem at all.",
+        "Probably listening.",
+        "The difficulties of living alone.",
+        "Speaking in my native language. - 2 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_013",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Waitress: Lotus Chinese Restaurant. Customer: Hi, could I order some take-out, please? Waitress: Sure, what do you want to order? Customer: Sweet and sour pork, please. Waitress: _______________. Customer: Um, then I'll have the barbecued duck.",
+      "image_url": "",
+      "options": [
+        "Sure, here you are.",
+        "Sorry, we’ve run out of pork.",
+        "Oh no, we don’t have any duck.",
+        "OK, I’ll place the order."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_014",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Husband: Do you like my new coat? Wife: It looks great! Husband: I’m glad you like it. Wife: _______________. Husband: It was on sale, 50 % off.",
+      "image_url": "",
+      "options": [
+        "Was it a good deal?",
+        "Would you go with me?",
+        "What was it made of?",
+        "Where will you buy it? ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_015",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Ken: Is there a drugstore nearby? Ann: Just around the corner. Why? Ken: _______________. Ann: Oh, no! What’s wrong?",
+      "image_url": "",
+      "options": [
+        "I don’t feel well.",
+        "I need a birthday cake.",
+        "It’s not too far, though.",
+        "You can pay me later. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_016",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Peter: I’d like to rent a car. Clerk: Sure. What kind of car do you want? Peter: Small, 2-door. Clerk: Here are some 2-door small cars. Peter: _______________. Clerk: It’s NT $5,000.",
+      "image_url": "",
+      "options": [
+        "How is the condition?",
+        "What's the weekly rate?",
+        "How many people does it take?",
+        "Are 2-door cars more powerful? ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_017",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Ling: Do you want me to send you some pineapple cakes? They’re terrific desserts. Holly: That’s great. I really like pineapple cakes. Ling: _______________.. Holly: I agree. So, why don’t you send me two bags of Oolong tea as well?",
+      "image_url": "",
+      "options": [
+        "I prefer coffee to tea.",
+        "It goes very well with tea.",
+        "When is pineapple season?",
+        "Do you need any other desserts? ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_018",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Ms. Chen: Pam, _______________? Pam: I work for Smart Computers. I’m a sales representative for Japan and Singapore. Ms. Chen: Oh, international sales representative. How do you like that? Pam: It’s a great job. I like to travel, and like to work with people from other countries.",
+      "image_url": "",
+      "options": [
+        "are you looking for a local job",
+        "did you compute your travel cost",
+        "would you tell us about what you do",
+        "can you tell me when you got the job ˉ - 3 - ◢"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_019",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Peter: Fanny, I got it! Fanny: What? Peter: The jewelry job! Fanny: Oh my God! I’m talking with a jewelry designer! Congratulations! Peter: _______________ Pick a restaurant. It’s my treat.",
+      "image_url": "",
+      "options": [
+        "Are you kidding?",
+        "It’s so easy for you.",
+        "Let’s go celebrate.",
+        "How did you make it?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_020",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Doctor: Good morning, Mr. Lee. How are you feeling today? Mr. Lee: Not very well. I always feel tired, but when I go to bed, I can't sleep. Doctor: That's too bad. How long have you had this problem for? Mr. Lee: _______________. I am in advertising, and work about 80 hours a week. Doctor: You are overworked! You need to relax.",
+      "image_url": "",
+      "options": [
+        "Many times.",
+        "Once in a while.",
+        "As long as you help me.",
+        "Since I started my new job. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_021",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Teacher: Why are your class scores always so bad? Johnny: Because... I always sleep in class, Sir. Teacher: _______________ Johnny: That’s right, Sir. This is something I won’t do again.",
+      "image_url": "",
+      "options": [
+        "Maybe you should sleep more at home.",
+        "You should try and fail the next test, too.",
+        "Do you stay up playing games every night?",
+        "Why don’t you try to study more at home? III. 綜合測驗:以下兩篇短文,共有 10 個空格,為第 22 至 31 題,每題有四個 選 項, 請依各篇短文文意,選出一個最適合該空格的答案。 ▲下篇短文共有 5 個空格,為第 22 - 26 題,請依短文文意,選出一個最適合 該空格的答案。 When traveling abroad, it is always important to follow the local customs. Here are some tips to make sure you don’t upset someone on your travels. For example, if you have dinner at a friend’s house in Germany, be polite enough to eat everything, 22 the host will think you didn’t enjoy the meal. In Korea, while taking public transport, passengers should always keep quiet. Being noisy 2 3 to be very rude. When visiting Saudi Arabia, be sure to eat with your right hand because most people ther e use their left hand for the bathroom. In Pakistan, you don’t want to be 2 4. This is because guests are expected to be fifteen minutes late for a meal. 2 5, if you are visiting a friend’s house in Denmark, don’t be late. People in Denmark think it is impolite to be late. With so many different customs 2 6 the world, it is impossible to know them all. If you mistakenly upset someone, make sure to say sorry. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_022",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": ". For example, if you have dinner at a friend’s house in Germany, be polite enough to eat everything, ____ the host will think you didn’t enjoy the meal.",
+      "image_url": "",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_023",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": ". Being noisy ____ to be very rude.",
+      "image_url": "",
+      "options": [
+        "considers",
+        "is considered",
+        "has considered",
+        "had been considering ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_024",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": ". In Pakistan, you don’t want to be ____.",
+      "image_url": "",
+      "options": [
+        "at a time",
+        "for all time",
+        "in time",
+        "on time ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_025",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": ". ____, if you are visiting a friend’s house in Denmark, don’t be late.",
+      "image_url": "",
+      "options": [
+        "Consequently",
+        "Similarly",
+        "By far",
+        "In contrast ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_026",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": ". With so many different customs ____ the world, it is impossible to know them all.",
+      "image_url": "",
+      "options": [
+        "around",
+        "beyond",
+        "during",
+        "under - 4 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_027",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": ". However, it is also an area ____ earthquakes occur very often.",
+      "image_url": "",
+      "options": [
+        "when",
+        "where",
+        "which",
+        "whose"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "earthquakes occur very often. The government has recently completed work on an undersea cable system to detect earthquakes and tsunamis. The system makes it possible for 選擇建功‧ 8 ‧尊榮一生 people"
+    },
+    {
+      "id": "TCK_110_0_ENG_028",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": ". The system makes it possible for people ____ about 10 seconds before an earthquake strikes.",
+      "image_url": "",
+      "options": [
+        "are warned",
+        "to warn",
+        "to be warned",
+        "will be warned"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_029",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": ". The purpose is to reduce ____ and injuries.",
+      "image_url": "",
+      "options": [
+        "dies",
+        "dead",
+        "deadly",
+        "deaths"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "and injuries. Starting in 2011, cables were put under the sea on the east coast. The location was chosen"
+    },
+    {
+      "id": "TCK_110_0_ENG_030",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": ". The location was chosen ____ most of the earthquakes happen there.",
+      "image_url": "",
+      "options": [
+        "if",
+        "till",
+        "unless",
+        "because"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_031",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": ". The undersea cable system stretches for 735 km, with nine points ____ its entire length to detect the quakes.",
+      "image_url": "",
+      "options": [
+        "along",
+        "during",
+        "except",
+        "since IV. 閱讀 測驗:以下 有四 篇 短文,共有 10 個 題目,為第 3 2 至 4 1 題, 請於閱讀短文後, 選出最 適當 的答案。 ▲ 閱讀下文,回答第 32 - 33 題 The notice below is a guideline for tourists in a national park – “Leave No Trace”. Read the notice and answer the following questions. LEAVE NO TRACE Travel Principles PLAN AHEAD Know the regulations of the places you’re visiting RESPECT WILDLIFE Do not approach wildlife LOOK WITH YOUR EYES, NOT WITH YOUR HANDS Admire cultural/historic objects at a distance and follow paths WHAT YOU FIND STAYS BEHIND Shells and sand stay on the beach; fruit, wood, and seeds should be left to keep trees healthy WASTE & RECYCLING Learn local recycling and waste laws, ask if unsure BE CONSIDERATE OF OTHER VISITORS Keep noise to a minimum; allow everyone a turn to admire the sights at viewing points or platforms - 5 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_032",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Which of the following is NOT encouraged by the travel principles?",
+      "image_url": "",
+      "options": [
+        "Collect shells on the beach.",
+        "Speak quietly to your friends.",
+        "Understand the rules and regulations.",
+        "Take pictures of birds from far away."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_033",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "What do the travel principles probably want visitors to do?",
+      "image_url": "",
+      "options": [
+        "To study law in order to reach wildlife",
+        "To allow everyone to express their views",
+        "To keep nature the same as much as possible",
+        "To clean their hands before touching anything ▲ 閱讀下文,回答第 34 - 35 題 Read the following job advertisements from the classified section of the website. Then answer the questions based on the given information. (A) Auto Mechanic (B) Hiring dependable helper Good car dealership has openings for Mature capable person to work on standard certified mechanics. Pay based on ability. bred horse farm. General maintenan ce & Range from $160 to $200 per hour. farm work. Benefits include uniforms, health care, Health care & housing provided. paid vacations. Call 06 - 5893642 Call 08 - 7769521 (C) Want a career in r eal e state? (D) Food delivery on wheels No experience needed. We offer a training No experience needed. Have mo torcycle program for employees on how to sell land with driver license. $ 160/hr. and buildings. Come in person to the main Health care provided. office of Royal Estate, 33 Lily Rd., Taipei. Email: foodonwheels111@mail 2.com Come between 11 (A)m. & 5 p.m. ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_034",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Ju-Yi is graduating from the Animal Science Department. She wants to find a job with a place to stay. Which job advertisement is she most likely to be interested in?",
+      "image_url": "",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_035",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Ming-Hua is interested in becoming a house seller. What should he do to apply for the job?",
+      "image_url": "",
+      "options": [
+        "Call 06-5893642.",
+        "Visit Royal Estate.",
+        "Email foodonwheels111@mail2.com.",
+        "Mail the resume to 33 Lily Rd., Taipei. ▲ 閱讀下文,回答第 36 - 38 題 In 2020, the United Nations World Food Program ( WFP ) was awarded the Nobel Peace Prize for its efforts to fight hunger, to help bring about peace, and to prevent the use of hunger as a weapon of war. The WFP focuses its work on hunger and food security issues. In 1962, the organization shipped wheat, sugar and tea to Ira n after an e arthquake killed 12,000 people. Since then, it has been helping victims of natural disasters. Other areas of work include the school meals program which covered about 17 million children in 2019. The WFP believes that food security and peace go hand in hand. The world cannot end hunger without putting an end to conflict. In 2010, the WFP successfully resolved a conflict situation in Central Asia. Several villages on the border of two countries were quarreling over water resources. The WF P helped to rebuild water supply systems which were shared across borders and provided food for people who joined in the construction. In 2017, millions of people in the Arab country of Yemen were close to starving i n the war between rival groups. S ome of these groups cut off food supplies to cause fear in the population. However, WFP workers managed to bring wheat flour to people in need, preventing the use of hunger as a weapon of war. About 100 million people received WFP food assistance in 202 0. By winning the Nobel Prize, the WFP hopes that it will draw attention to the problem of hunger. - 6 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_036",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Why was the 2020 Nobel Peace Prize given to the WFP?",
+      "image_url": "",
+      "options": [
+        "For putting an end to war and natural disasters",
+        "For protecting people from hunger and conflicts",
+        "For preventing the use of hunger and weapons in war",
+        "For persuading people to welcome food aid and conflicts ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_037",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Which of the following is closest in meaning to “go hand in hand” in the second paragraph?",
+      "image_url": "",
+      "options": [
+        "need hard work",
+        "need real action",
+        "are available",
+        "are connected ˉ"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_038",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "According to the passage, which statement is true?",
+      "image_url": "",
+      "options": [
+        "About 17 million children worked for their school meals.",
+        "Groups fighting in Yemen managed to receive wheat flour.",
+        "In Central Asia, the WFP ended a conflict through cooperation.",
+        "The WFP donated food to 12,000 victims in the Iran earthquake. ▲ 閱讀下文,回答第 39 - 41 題 Imagine getting into your car, speaking a location into your car’s computer, and then letting it drive you to your destination. The idea behind self - driving cars is fairly simple: build a car with a computer that is connected with many cameras which can track all the objects close to it, give the computer all the driving rules and routes, and then the computer should be able to drive to the destination. There are many benefits of self - driving cars. Research shows that using self - driving cars can greatly reduce the number of cars on the street because 80 % only have one person driving alone in a car. Self - driving cars can also lower the cost of transportation, which is 18 % of a person's income in the U.S.(A) Besides, “These cars won't get drunk, drive too fast, or take risks,” said the CEO of Fastcar, John Smith. Early estimates suggested that self - driving cars would be the standard in 2020, but instead there were only a few research vehicles on the road in 2020. As the technology is currently under research and being improved, it is likely in the near f uture that we will see self - driving cars move safely on public roads among traditional cars. When they arrive, their cost, safety and convenience will make them pa rt of our daily lives. C ompanies that research self - driving cars which plan ahead, adjust the quickest, and im agine the most will s ucceed."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_039",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "What is the main idea of this article?",
+      "image_url": "",
+      "options": [
+        "Setting up self-driving car companies",
+        "Driving rules for self-driving cars",
+        "The costing of self-driving cars",
+        "The coming of self-driving cars"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_040",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "What are the key things a self-driving car needs in order to get to your destination?",
+      "image_url": "",
+      "options": [
+        "Objects next to the car, a camera, and a road map.",
+        "Speakers, a computer, and objects next to the car.",
+        "Cameras, speakers, driving rules and a road map.",
+        "Cameras, a computer, driving rules, and a road map."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    },
+    {
+      "id": "TCK_110_0_ENG_041",
+      "subject": "英文",
+      "unit": "110-統測-00共同科目-英文",
+      "q": "Which of the following is true about self-driving cars in 2020?",
+      "image_url": "",
+      "options": [
+        "Self-driving cars were everywhere.",
+        "Self-driving cars were at the research stage.",
+        "Self-driving cars replaced all traditional cars.",
+        "Self-driving car technology was fully developed. - 7 -"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)"
+    }
+  ]
+}
