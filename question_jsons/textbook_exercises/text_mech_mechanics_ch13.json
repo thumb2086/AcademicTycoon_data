@@ -1,0 +1,85 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH13",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_001",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "14, 冗 10 )",
+      "image_url": "",
+      "options": [
+        "60",
+        "75",
+        "90",
+        "120 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_002",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "2 兀 kW, 若軸所受之最大 64 剪應力為一 MPa, 則此時傳動軸之每分鐘轉速為多少 rpm",
+      "image_url": "",
+      "options": [
+        "300",
+        "600",
+        "1200",
+        "1800 0 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_003",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "若相同材料之兩鋼軸當傳遞相同馬力時, 兩鋼軸之直徑比與轉速比之關係為",
+      "image_url": "",
+      "options": [
+        "立方成正比",
+        "立方成反比",
+        "立方根成正比",
+        "立方根成反比 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_004",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "兩材質相同之實心圓軸, 當兩軸承受相同剪應力時, A 軸的直徑為 B 軸 1 的 4 倍, 而 A 軸的轉速為 B 軸的一, 則 A 軸所能傳達的功率為 B 軸的多 4 少倍?",
+      "image_url": "",
+      "options": [
+        "64",
+        "16",
+        "4",
+        "1 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_005",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "欲設計一實心圓軸, 以 2000 rpm 的轉速來傳遞 20 兀 kW 的動力, 若圓軸 225 之材料降伏剪應力為一一 MPa, 安全因數為 3, 則軸的直徑至少為多少?",
+      "image_url": "",
+      "options": [
+        "20 mm",
+        "30 mm",
+        "40 mm",
+        "50 mm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

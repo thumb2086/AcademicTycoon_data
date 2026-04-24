@@ -1,0 +1,277 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH09",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH9",
+      "q": "鏝刀 (Trowe1): 有大 、 小鏝刀之分, 用於鏝平砂模面 、 接合面, 或修補砂模 、 開設澆口杯 、 流路系統或製作合模記號等 。 大小鏝刀與握持方式及使用情形如圖 9-16",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch09/p011_0_50_0_r.png",
+      "options": [
+        "~ (D) 所示 。 (A) 大小鏝刀",
+        "鏝刀握持方式",
+        "",
+        "所示 。 (A) 大小鏝刀 (B) 鏝刀握持方式 (C) 大鏝刀使用情形 (D) 小鏝刀使用情形 A 圖 9 一 16 大小鏝刀與握持方式及使用情形"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH9",
+      "q": "水刷: 水刷又稱水筆, 用於潤濕砂面 。 水刷沾水後, 藉手指力量把水擠出, 潤濕模型周圍的砂面, 以免模型取出損傷砂模, 使用情形如圖 9-19",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch09/p012_0_50_0_r.png",
+      "options": [
+        "、",
+        "所示 。 (A) 水刷與握持方式 A 圖 9-19 水刷與使用情形 (B) 水刷使用情形 16 刮尺 · 刮尺為 - 平整直尺, 用刮尺刮除砂箱上的模砂, 使模砂與砂箱頂面齊平, 刮除方式由外而内, 使用情形如圖 9-20 所示 。 刮尺使用情形 A 圖 9 一 20 刮尺使用情形學後量丶選擇題 「 鑄造 」 業界俗稱 (A) 打鐵 (B) 翻砂",
+        "西工",
+        "衝壓 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_003",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH9",
+      "q": "工作母機之本體基座, 通常以何種方法製造?",
+      "image_url": "",
+      "options": [
+        "銲接",
+        "鑄造 (D) 粉末冶金 。 (A) 鑄造",
+        "",
+        "粉末冶金 。 (A) 鑄造 (C) 鍛造 9-2 9-3 182"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_004",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "下列何者丕砂模鑄造的流程",
+      "image_url": "",
+      "options": [
+        "模型設計與製作",
+        "鑄模製作",
+        "金屬熔化與澆鑄",
+        "售後服務 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_005",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "澆口棒之形狀常使用",
+      "image_url": "",
+      "options": [
+        "圓形等直徑",
+        "圓形上大下小",
+        "圓形上小下大",
+        "方型上大下小 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_006",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "用於篩選較細模砂或篩除砂中雜質的工具是",
+      "image_url": "",
+      "options": [
+        "砂篩",
+        "砂鏟",
+        "提砂鉤",
+        "鏝刀"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_007",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "熔煉非鐵金屬應使用",
+      "image_url": "",
+      "options": [
+        "熔鐵爐",
+        "電弧爐",
+        "平爐",
+        "坩鍋爐 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_008",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "有關熔煉作業及澆鑄安全規則, 何者?",
+      "image_url": "",
+      "options": [
+        "穿戴安全防護用具",
+        "地面四周保持乾燥",
+        "手提澆桶可向前走或後退走",
+        "金屬液倒在之地面上可覆蓋乾的砂料防止流散 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_009",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "有關鑄件清理安全規則, 何者?",
+      "image_url": "",
+      "options": [
+        "澆鑄完後, 拆模清箱應注意鑄件溫度, 以免灼傷",
+        "切除冒口戴上安全護目鏡及口罩",
+        "機械上的安全護罩非必要時可移除, 方便工作",
+        "使用迴轉機器時, 不可穿戴手套 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_010",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "下列何者丕鑄造之安全配備?",
+      "image_url": "",
+      "options": [
+        "安全護目鏡",
+        "棉質手套",
+        "安全鞋",
+        "隔熱衣 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_011",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "製作砂模時, 為使氣體易於排出應使用何種工具?",
+      "image_url": "",
+      "options": [
+        "通氣針",
+        "澆口棒",
+        "搗砂鎚",
+        "扁刷 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_012",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "起模針的用途為何?",
+      "image_url": "",
+      "options": [
+        "將模型自砂模中取出",
+        "使氣體易於排出",
+        "放置模型及砂箱",
+        "便金屬液進入鑄模 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_013",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "造模時刮除多餘模砂並刮平砂面應使用",
+      "image_url": "",
+      "options": [
+        "刮尺",
+        "鋼尺",
+        "抹刀",
+        "砂鏟 。 9-4 學後量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_014",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "搗砂錘之使用, 何者正確?",
+      "image_url": "",
+      "options": [
+        "先用平底砂錘 、 後用尖底砂錘",
+        "先用尖底砂錘 、 後用平底砂錘",
+        "平底與尖底砂錘交互使用",
+        "小面積用尖底砂錘 、 大面積用平底砂錘 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_015",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "砂篩用於篩除砂中雜質或篩出分模砂, 其篩目大小約",
+      "image_url": "",
+      "options": [
+        "8 ~ 12 目",
+        "20 ~ 22 目",
+        "30 ~ 36 目",
+        "64 ~ 80 目 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_016",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "用於掃勻分模面之分型粉 、 分模砂, 應使用",
+      "image_url": "",
+      "options": [
+        "砂錘",
+        "扁刷",
+        "水刷",
+        "吹管 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH09_017",
+      "subject": "機械基礎實習全冊",
+      "unit": "9-3",
+      "q": "在鑄造實習工廠安全注意事項中, 何者?",
+      "image_url": "",
+      "options": [
+        "不可追逐嬉戲",
+        "在吊車之懸吊物下方走動",
+        "熔鑄高溫金屬穿防護衣 、 防護安全帽 、 防護手套",
+        "設備用畢依規定清潔與保養 。 183"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

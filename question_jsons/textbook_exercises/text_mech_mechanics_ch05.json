@@ -1,0 +1,261 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH05",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_001",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "下列何者運動不是直線運動?",
+      "image_url": "",
+      "options": [
+        "等速度運動",
+        "簡諧運動",
+        "自由落體",
+        "拋射體運動 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_002",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "下列敘述何者正確",
+      "image_url": "",
+      "options": [
+        "平拋不是等加速度運動",
+        "等速率一定為等速度運動",
+        "等速度一定為等速率運動",
+        "有等速度圓周運動, 沒有等速率圓周運動 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_003",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "開車上高速公路匝道時, 小智看到汽車儀表板上正顯示車速為 40 公里 / 時, 試問此車速 40 公里 / 時指的是",
+      "image_url": "",
+      "options": [
+        "平均速度",
+        "平均速率",
+        "瞬時加速度",
+        "瞬時速率 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_004",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "有關 < 速度 > 和 < 加速度 > 的比較, 下列何者正確?",
+      "image_url": "",
+      "options": [
+        "物體速度為零的瞬間, 加速度亦為零",
+        "加速度的方向和速度的方向必相同",
+        "加速度的方向和速度變化的方向相同",
+        "速度愈大, 加速度愈大 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_005",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "有關 < 速率 > 的敘述, 下列何者正確?",
+      "image_url": "",
+      "options": [
+        "單位時間內所走的路徑長稱為速率",
+        "s I 制速率的單位與速度不同",
+        "速度和速率為相同的物理量",
+        "平均速度的量值必等於平均速率 。 VI 公尺 / 分 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "6 ·"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_006",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "某人騎乘一輛機車, 由甲地直行至乙地的 30 速度 V 與時間 t 的關係如圖, 已知甲乙兩地間的距離為 825 公尺, 則總騎乘時間 X 多少分鐘?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch05/p032_0_50_0_r.png",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_007",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "一質點作直線運動, 若其速度與時間關係如圖所示, 則此質點從 0 s 至 40 s 期間之位移向量的大小為多少 m?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch05/p032_0_50_0_r.png",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "120 。 0 10 30 5 4 3 2 1 0 0 30 t ( 分 ) 40 10 20 時間 ( s ) 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_008",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "質點作直線運動, 其加速度與時間的關係如 a(m/s2) 圖, 若質點的初速度為 20 公尺 / 秒, 則質點在第 35 秒末時的速度為多少 m/s?",
+      "image_url": "",
+      "options": [
+        "110",
+        "130",
+        "120",
+        "140 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_009",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "如圖為某機車之加速度 a 對時間 t 的關係圖, 若物體靜止開始運動, 則下列敘述何者正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch05/p032_0_50_0_r.png",
+      "options": [
+        "4 秒末的瞬時加速度為一 3 m/s2",
+        "4 秒內的平均加速度為 6 m/s2",
+        "6 秒末的瞬時加速度為一 3 m/s2",
+        "6 秒內的平均加速度為 1 m/s2 。 4 2 0 20 a(m /s2) 6 0 2 4 t(s) 40 t(s)"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "10 · 在機械力學中, 研究物體運動的科學, 只討論位移 、 速度 、 加速度與時間的關 係, 並不討論影響運動之因素者, 稱為運動學 。 物體運動的種類, 可依不同之性質分為: ( 1 ) 以運動路徑分直線運動 、 曲線運動 。 ( 2 ) 以運動速度分等速度運動 、 變速度運動 。 位移為始點指向終點的直線長度, 路徑表示走過的軌跡 。 位移為向量, 路徑為純量, 速度為向量, 速率為純量 。 速度單位時間內, 位移的變化量公式為: AS 速度 v = At 加速度單位時間內, 速度的變化量, 公式為: △ V 加速度 a = △ t dS 瞬時速度 v 一 , 瞬時加速度 dt dt 等加速度運動之三大運動公式 V = Vo 十 at S=Vot+—at 2 V2 = V 02 +2aS 物體由靜止開始作等加速度運動或自由落體則在相同時距內所走之位移為等 差級數 。 ( △ SI: △ S2: △ S3: △ S4: △ S5 = 1: 3: 5: 7: 9 ) 。 重力加速度 g = 9 · 8 m/s2 = 980 cm/s2 = 32 · 2 ft/s2 。 自由落體: ( V 0 = 0, a = g), 公式為: v=gt( 自由落體初速為零 ) 1 2 2h ( 著地時間 t = V2=2gh( 末速 v= 2gh )"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_010",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "一汽車由靜止作等加速度運動, 若第 1 秒走了 8 公尺, 最後 1 秒走了全 9 程的一, 則全程總共走多少 m? 25",
+      "image_url": "",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "400 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_011",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "如圖所示, 某人以 10 公尺 / 秒等速追趕前方靜止之公車, 當距離公車 40 公尺時, 公車突然以 2 公尺 / 秒 2 等加速度起動, 則公車在速度為多少公尺 / 秒時, 人仍趕不上公車, 就再也趕不上?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch05/p033_0_50_0_r.png",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12 。 10 公尺 / 秒 40 公尺 2 公尺 / 秒 2 ○ ○ )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_012",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "同上題, 則此人與公車之最短距離為多少公尺?",
+      "image_url": "",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "25 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_013",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "自由落體運動初速為零, 則下降時間與下降距離的關係為",
+      "image_url": "",
+      "options": [
+        "兩者成正比",
+        "兩者成反比",
+        "時間與距離平方根成正比",
+        "時間與距離平方成正比 。 195 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_014",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "一物體自由落下, 設第 1 秒內位移為 △ SI, 第 2 秒內位移為 △ S2, 第 3 秒內位移為 △ S3, 則 △ SI: △ S2: △ S3 為",
+      "image_url": "",
+      "options": [
+        "1: 1: 1",
+        "1: 2: 3",
+        "1: 3: 5",
+        "1: 4: 9 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_015",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "鉛直向上拋體運動, 若上拋及落下在同一高度時, 其速度",
+      "image_url": "",
+      "options": [
+        "大小相等, 方向相同",
+        "大小相等, 方向相反",
+        "大小不等, 方向相同",
+        "大小不等, 方向相反 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH05_016",
+      "subject": "機械力學",
+      "unit": "CH5",
+      "q": "熱氣球以 20 公尺 / 秒等速鉛直上升, 當其距地面 25 公尺時, 有一螺絲釘鬆脫掉落, 若 g = 10 公尺 / 秒 2, 則螺絲釘從鬆脫掉落到落地全程之平均速率為若干?",
+      "image_url": "",
+      "options": [
+        "5 公尺 / 秒",
+        "30 公尺 / 秒",
+        "13 公尺 / 秒",
+        "14 公尺 / 秒 。 196 學後評量"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

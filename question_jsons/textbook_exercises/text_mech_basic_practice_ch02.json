@@ -1,0 +1,325 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH02",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "虎鉗的規格是以何種方式表示?",
+      "image_url": "",
+      "options": [
+        "鉗口寬度",
+        "虎鉗長度",
+        "虎鉗寬度",
+        "虎鉗高度 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Sandvik's ABC on files, P2, 乙太行有限公司 。 2 · 陳義國 、 丁云寶主編, 鉗工基礎技能, P5, 機械工業出版社, 1999 。 3 · Bacho 銼刀型錄, MF-SSEAI-ENG, P5, 乙太行有限公司, 1992 。 4 · http://www.cooperhandtools.com/ 5 · 台灣三豐儀器股份有限公司 https://www.mitutoyo.com/tw/product/category.php?id=n 6 · http://jp.misumi-ec.com/vona2/detai//223000850943 。 39"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "虎鉗的安裝高度約在操作者的何處?",
+      "image_url": "",
+      "options": [
+        "膝高",
+        "肩高",
+        "胸高",
+        "腰高 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_003",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "鉗工虎鉗加裝鉗口罩之目的在保護已加工面, 該鉗口罩以何種材質製成為宜?",
+      "image_url": "",
+      "options": [
+        "銅合金",
+        "合金鋼",
+        "不鏽鋼",
+        "高速鋼 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_004",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "銼刀依長度分類, 規格從 100 公厘到 400 公厘, 規格間距為多少公厘?",
+      "image_url": "",
+      "options": [
+        "10 公厘",
+        "25 公厘",
+        "40 公厘",
+        "50 公厘 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_005",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "什錦銼刀是由下列何種類型的銼刀組成?",
+      "image_url": "",
+      "options": [
+        "大小不同",
+        "斷面形狀不同",
+        "長短不同",
+        "銼齒不同 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_006",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "有關銼刀的銼齒 ( 或稱為切齒 ) 形式與選用之敘述, 下列何者正確?",
+      "image_url": "",
+      "options": [
+        "單銼齒銼刀之銼齒角度一般與銼刀邊緣成 45 。 ~ 55 。",
+        "雙銼齒銼刀, 適用於精銼削加工",
+        "曲銼齒較適合於硬金屬材料銼削",
+        "雙銼齒中的主銼齒, 其銼齒較深具有切削作用 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_007",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "在銼削工作中, 易產生中間較頭尾兩端高的銼削方法為",
+      "image_url": "",
+      "options": [
+        "旋轉銼法",
+        "橫銼法",
+        "直銼法",
+        "推銼法 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_008",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "將銼刀橫壓在工件上方, 來回進行銼削, 稱為",
+      "image_url": "",
+      "options": [
+        "平銼法",
+        "圓銼法",
+        "推銼法",
+        "斜銼法 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_009",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "要採推銼法銼削, 應選用何種銼齒之銼刀?",
+      "image_url": "",
+      "options": [
+        "單銼齒銼刀",
+        "雙銼齒銼刀",
+        "曲銼齒銼刀",
+        "棘銼齒銼刀 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_010",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "銼刀的木柄前端加套一個金屬環有何功用?",
+      "image_url": "",
+      "options": [
+        "較易握持",
+        "美觀",
+        "防止木柄破裂",
+        "增加銼削速度 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_011",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "銼削時, 使用粉筆塗在銼刀面上的主要作用為何?",
+      "image_url": "",
+      "options": [
+        "有利排屑",
+        "保護銼齒免於崩裂",
+        "避免打滑",
+        "增加摩擦力 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_012",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "進行銼削工作時, 鑄鐵工件的胚面應該",
+      "image_url": "",
+      "options": [
+        "不必去除",
+        "留到最後再去除",
+        "用新的銼刀銼削去除",
+        "先去除再銼削 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_013",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "表面粗糙度有多種表示方式, 中心線平均粗糙度以",
+      "image_url": "",
+      "options": [
+        "Ra",
+        "Rz",
+        "Rt",
+        "RMS 表示 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_014",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "表面粗糙度的單位是",
+      "image_url": "",
+      "options": [
+        "厘米 cm",
+        "毫米 mm",
+        "微米",
+        "奈米 nm 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_015",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "進行銼削工作時, 握持銼刀柄姆指應放在銼刀何處?",
+      "image_url": "",
+      "options": [
+        "右側",
+        "左側",
+        "下面",
+        "上面 。 37 學量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_016",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "有關平面銼削之敘述, 下列何者不正確?",
+      "image_url": "",
+      "options": [
+        "工件表面若有黑皮, 可以用銼刀邊或銼刀端先銼除",
+        "正確的銼削姿勢, 必須使手肘 、 銼刀 、 與工件被銼削位置成一直線並保持水平",
+        "右手銼削姿勢: 右手肘緊貼身體右側, 當銼刀逐漸向前推進, 左手施加的壓力必須隨之降低",
+        "右手銼削姿勢: 當銼刀向前推進, 右腳的膝蓋部位必須向前彎曲, 左腳則仍然保持伸直 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_017",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "檢查銼削面之平面度最簡易 、 快速的量具是",
+      "image_url": "",
+      "options": [
+        "刀口角尺",
+        "平行塊",
+        "銼刀邊",
+        "光學尺 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_018",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "圖面標註 「 丄 」 符號, 表示加工面須注意",
+      "image_url": "",
+      "options": [
+        "平行度",
+        "垂直度",
+        "平面度",
+        "傾斜度 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_019",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "有關銼削工件之測量, 下列敘述何者正確?",
+      "image_url": "",
+      "options": [
+        "以角尺檢查工件的平面度, 光處表示工件在該處凸出",
+        "以紅丹油塗抹在平板上做工件平面度檢查, 沾有紅丹油的地方表示工件凸出的部位",
+        "以紅丹油塗抹在平板上, 利用角板可以檢測工件的平行度",
+        "以指示量表在平板上檢查工件的平行度, 指針擺動愈大則平行度愈佳 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH02_020",
+      "subject": "機械基礎實習全冊",
+      "unit": "2-6",
+      "q": "下列有關銼削相關知識的敘述, 何者不正確?",
+      "image_url": "",
+      "options": [
+        "垂直面銼削與量測需先有一個基準面",
+        "角尺內 、 外測定面均可用於檢查垂直面",
+        "工件銼削完畢, 可不需修除毛邊",
+        "銼刀用畢, 以銅刷刷乾淨, 不可上油 。 38"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

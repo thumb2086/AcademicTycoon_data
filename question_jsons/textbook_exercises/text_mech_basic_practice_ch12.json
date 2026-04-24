@@ -1,0 +1,405 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH12",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "在接合方法中, 母材靠熔化而接合的方法稱為",
+      "image_url": "",
+      "options": [
+        "鑞銲",
+        "熔接",
+        "壓接",
+        "鉚接 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "李隆盛著, 銲接實習, pl -2, 全華圖書股份有限公司, 2016 。 2 · 統筌機械有限公司 http://www.ctm-welder.com/tw/, 產品型錄 3 · 陳志鵬銲接實習, p36, 全華圖書股份有限公司 。 4 · 吳啟瑞等, 電銲安全作業技術手冊, 行政院勞工委員會勞工安全衛生研究所, 民 89 5 · 鄭慶明編著, 手工電銲, 汽車板金能力本位訓練教材, 行政院勞工委員會職業訓練局, 民 90 6 · 陳燦錫編著, 選用電銲條, 手工電銲能力本位訓練教材, 行政院勞工委員會職業訓練局, 民 90 。 7 · 陳志鵬著, 銲接學 I, p120, 全華圖書股份有限公司, 2006 。 235"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "一般手工電銲是屬於",
+      "image_url": "",
+      "options": [
+        "熔銲法",
+        "鑞銲法",
+        "壓銲法",
+        "銅銲法 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_003",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "交流電銲機的主要構造部份是",
+      "image_url": "",
+      "options": [
+        "電流調整器",
+        "變壓器",
+        "整流器",
+        "電源開關 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_004",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "一般手工電銲中消耗性電極是指",
+      "image_url": "",
+      "options": [
+        "母材",
+        "電銲條",
+        "銲渣",
+        "電線 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_005",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "電銲機輸出端是",
+      "image_url": "",
+      "options": [
+        "電壓低 、 電流大",
+        "電壓高 、 電流大",
+        "電壓低 、 電流小",
+        "電壓高 、 電流小 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_006",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "構造簡單 、 故障排除容易 、 價格便宜之電銲機是",
+      "image_url": "",
+      "options": [
+        "直流電銲機",
+        "交流電銲機",
+        "交直流二用電銲機",
+        "內燃機式電銲機 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_007",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "電弧銲接時, 其電弧溫度最高可達攝氏",
+      "image_url": "",
+      "options": [
+        "1000 ~ 1500 度",
+        "2000 ~ 2500 度",
+        "2500 ~ 3000 度",
+        "3500 度以上 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_008",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "一般而言銲接在施工上較鉚接",
+      "image_url": "",
+      "options": [
+        "省時省料",
+        "費時費料",
+        "省時費料",
+        "省料費時 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_009",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "交流電銲機之二次端負載電壓約是",
+      "image_url": "",
+      "options": [
+        "220 ~ 440",
+        "110 ~ 220",
+        "70 ~ 80",
+        "20 ~ 40 伏特 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_010",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "交流電銲機二次端的接線方法",
+      "image_url": "",
+      "options": [
+        "沒有正負極之分",
+        "有正負極之分",
+        "銲條應接正極",
+        "銲條應接負極 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_011",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "手工電銲中, 電流大小約為銲條直徑的",
+      "image_url": "",
+      "options": [
+        "10 倍",
+        "20 倍",
+        "30 倍",
+        "40 倍 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_012",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "一般軟鋼電銲條乾燥的目的是",
+      "image_url": "",
+      "options": [
+        "防止生銹",
+        "消除濕氣",
+        "可減少銲蝕",
+        "防止銲藥脫落 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_013",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "電銲條 CNSE4301 之銲藥為",
+      "image_url": "",
+      "options": [
+        "鈦鐵礦型",
+        "高纖維素型",
+        "低氫素型",
+        "高氧化鈦型 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_014",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "下列哪一種銲條銲藥外表呈黑褐色",
+      "image_url": "",
+      "options": [
+        "E4301",
+        "E4303",
+        "E4313",
+        "E4316 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_015",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "電銲條 CNS E4313 乾燥之溫度為",
+      "image_url": "",
+      "options": [
+        "20 ~ 50",
+        "70 ~ 100",
+        "200 ~ 300",
+        "300 ~ 400 °C 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_016",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "手工電銲條 CNS E4301 乾燥之適當時間是",
+      "image_url": "",
+      "options": [
+        "5 ~ 10 分",
+        "10 ~ 20 分",
+        "30 ~ 60 分",
+        "1 ~ 2 小時 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_017",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "CNS E4301 電銲條之銲藥種類是",
+      "image_url": "",
+      "options": [
+        "鈦鐵礦系",
+        "高氧化鐵系",
+        "纖維素系",
+        "低氫系 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_018",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "CNSE4311 電銲條中的 \" E \" 字代表",
+      "image_url": "",
+      "options": [
+        "電銲條",
+        "抗拉強度",
+        "衝擊值",
+        "伸長率 。 233 學後量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_019",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "CNS E4301 電銲條規格中, 43 係表示",
+      "image_url": "",
+      "options": [
+        "銲藥種類",
+        "伸長率",
+        "衝擊值",
+        "抗拉強度 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_020",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "CNSE4316 電銲條, \" 1 \" 是表示",
+      "image_url": "",
+      "options": [
+        "只能平銲",
+        "只能立銲",
+        "只能橫銲",
+        "全位置銲接 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_021",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "下列何者丕電銲安全防護裝備?",
+      "image_url": "",
+      "options": [
+        "面罩",
+        "皮手套",
+        "袖套與腳套",
+        "領帶 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_022",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "清除銲渣所用之工具, 一般均為",
+      "image_url": "",
+      "options": [
+        "塑膠錘",
+        "木鎚",
+        "敲渣錘",
+        "圓頭鋼錘 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_023",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "有關電銲之安全事項, 何者?",
+      "image_url": "",
+      "options": [
+        "銲接時, 應穿長袖工作服, 遮蓋身體露出部分",
+        "清除銲渣時, 須使用防護器具",
+        "銲接時, 應以適當銲條與電流大小",
+        "下雨天, 可穿著雨衣繼續銲接工作 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_024",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "交流電銲機內部構造簡單, 內部",
+      "image_url": "",
+      "options": [
+        "可不必保養",
+        "使用時才保養",
+        "應不定期保養",
+        "應定期檢查保養 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH12_025",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH12",
+      "q": "按下自動電擊防止裝置測試按鈕, 若功能正常則",
+      "image_url": "",
+      "options": [
+        "發出 「 卡 」 的聲音, 紅色指示燈亮起",
+        "無聲音, 紅色指示燈亮起",
+        "發出 「 卡 」 的聲音, 且紅色指示燈熄滅",
+        "發出 「 卡 」 的聲音, 綠色指示燈亮起 。 234"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

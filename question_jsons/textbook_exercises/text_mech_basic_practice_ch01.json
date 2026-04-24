@@ -1,0 +1,213 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH01",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "鉗工工作需具備的技能是",
+      "image_url": "",
+      "options": [
+        "設備組立安裝",
+        "機台調整校正",
+        "設備修護保養",
+        "以上皆是 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "安展貿易公司產品型錄 2 · 台灣山域股份有限公司 (Sandvik), 產品型錄, 1996 / 97 。 3 · 寶工實業股份有限公司, 產品型錄, vol. 17c 。 4 · 台灣三豐儀器股份有限公司, 五週年紀念, 產品型錄 E70 。 5 · 建大貿易股份有限公司三豐產品型錄, P13, 2004 。 20"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "鋼鎚規格的表示方法是依",
+      "image_url": "",
+      "options": [
+        "鎚頭重量",
+        "錘頭尺寸",
+        "柄部長短",
+        "木柄材質 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_003",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "活動扳手規格以下列何者來表示",
+      "image_url": "",
+      "options": [
+        "總長度",
+        "柄部長度",
+        "最大開口尺寸",
+        "總重量 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_004",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "開口扳手之標稱尺寸, 通常以",
+      "image_url": "",
+      "options": [
+        "開口",
+        "長短",
+        "重量",
+        "厚薄大小表示 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "用畢, 磁性座桿臂收至平行狀態 。 量錶長時間不用應置於盒內後歸位, 如圖 1 一 34 所示 。 A 圖 1-34 使用後將量錶收至與桿臂成平行狀態, 長時間不用應置於盒内後歸位 。"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_005",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "關於手工具的種類與應用, 下列敘述何者正確?",
+      "image_url": "",
+      "options": [
+        "六角扳手應用於外六角頭螺栓或螺帽的裝卸工作",
+        "開口扳手是用於內六角沉頭螺栓的鎖固與鬆退",
+        "使用梅花扳手時, 每隔 30 。 就可以換角度繼續施力",
+        "活動扳手的施力方向應讓活動鉗口承受主要作用力 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_006",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "一般外分厘卡的最小量測範圍是",
+      "image_url": "",
+      "options": [
+        "0 ~ 10 mm",
+        "0 ~ 15 mm",
+        "0 ~ 20 mm",
+        "0 ~ 25 mm 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_007",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "指示量錶丕可用於下列何項量測工作?",
+      "image_url": "",
+      "options": [
+        "量測階級圓桿的同心度",
+        "量測內孔直徑",
+        "檢測兩平面的平行度",
+        "量測兩配合件的段差 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_008",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "下列量具中, 哪一項的精密度最高?",
+      "image_url": "",
+      "options": [
+        "游標卡尺",
+        "分厘卡",
+        "量錶",
+        "塊規 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_009",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "有關塊規的說明, 下列敘述何者不正確?",
+      "image_url": "",
+      "options": [
+        "塊規是機械加工的長度標準",
+        "塊規依精度與用途分成 AA 、 A 、 B 、 c 四級",
+        "工作現場用 A 級",
+        "AA 級每 25mm 的誤差為士"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_010",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "萬能量角器之精確度可達到",
+      "image_url": "",
+      "options": [
+        "1 度的角度",
+        "30 分的角度",
+        "10 分的角度的角度",
+        "5 分的角度 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_011",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "有關量具保養與維護, 下列敘述何者不正確?",
+      "image_url": "",
+      "options": [
+        "測量壓力愈大愈好",
+        "避免與其它工具堆疊 、 碰撞",
+        "存放時應盡量放置在陰涼處",
+        "長時間不用, 應做防鏽保養 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_012",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "有關螺栓或螺帽之拆裝敘述, 下列何者正確?",
+      "image_url": "",
+      "options": [
+        "使用扳手拆裝時, 應以推力較安全",
+        "以開口扳手優先使用, 其次為梅花扳手",
+        "為使扳手拆裝時扭力增加, 應增加套管於柄部",
+        "使用活動扳手時, 施力應向活動邊 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH01_013",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH1",
+      "q": "分厘卡正確使用方法是",
+      "image_url": "",
+      "options": [
+        "量測旋轉中的工件",
+        "握住套筒旋轉使主軸前後移動",
+        "收藏時, 將砧座面與量測面留有間隙",
+        "25 ~ 50mm 之砧座面與量測面可直接閉合做歸零檢查 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

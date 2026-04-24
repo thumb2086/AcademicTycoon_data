@@ -1,0 +1,501 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH10",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "待金屬凝固, 破壞砂模, 取出鑄件, 如圖 10-16 ( g ) 。 111",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch10/p016_0_50_0_r.png",
+      "options": [
+        "鋁碇放入熔解爐",
+        "進行熔解",
+        "穿妥防護裝備",
+        "澆缽盛接金屬熔液 (e) 金屬熔液鑄入模穴 (f) 確認金屬熔液充滿模穴 A 圖 10-16 熔解與澆鑄學後量丶選擇題"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "鑄造用矽砂的主要成份是",
+      "image_url": "",
+      "options": [
+        "三氧化二鋁",
+        "三氧化二鐵",
+        "二氧化鋁",
+        "二氧化矽 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "張晉昌著, 鑄造學, p2-5 、 p2-8, 全華科技圖書公司, 2015 。 2 · 李漢彰著, 砂模鑄造能力本位訓練教材一認識砂模鑄造用材料, 行政院勞工委員會職業訓練 局, 民 90 0 3 · 林陽泰 、 林維新編譯, 製造程序, p98, 全華科技圖書公司, 民 80 0 4 · 林英明等著, 機械製造 I, 全華科技圖書公司, 2014 。 5 · 張晉昌編著, 鑄造學, p7-4, 全華科技圖書公司, 民 2015 。 6 · 王千億 、 王俊傑編著, 機械製造, 全華科技圖書公司 。 7 · 張晉昌編著, 鑄造學, p7-3, 全華科技圖書公司, 民 2015 。 8 · 張晉昌編著, 砂模鑄造能力本位訓練教材一鑄造工作安全事項, 行政院勞工委員會職業訓練 局, 民 90 0 9 · 台瑋企業股份有限公司, 公司產品型錄 。 10 · 蔡英宏 、 張晉昌編著, 準備澆桶及澆鑄作業 ( 二 ), 行政院勞工委員會職業訓練局, 民 90 0 203"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_003",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "傳統鑄造所用的鑄模材料大都以",
+      "image_url": "",
+      "options": [
+        "鋁金屬",
+        "石膏",
+        "聚苯乙烯",
+        "矽砂為主 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_004",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "砂粒太粗, 鑄件易發生下列何種缺陷?",
+      "image_url": "",
+      "options": [
+        "結砂",
+        "燒結",
+        "表面粗糙",
+        "氣孔 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_005",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "鑄砂粒度大小的改變, 主要影響鑄砂的",
+      "image_url": "",
+      "options": [
+        "通氣性",
+        "搗緊度",
+        "含水量",
+        "可塑性 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_006",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "濕模砂所採用的黏結劑主要是",
+      "image_url": "",
+      "options": [
+        "麵粉",
+        "水玻璃",
+        "火山黏土",
+        "煤粉 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_007",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "下述何者與模砂性質鼮闞?",
+      "image_url": "",
+      "options": [
+        "透氣性",
+        "延展性",
+        "流動性",
+        "耐熱性 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_008",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "有關砂模鑄造中透氣性之影響因素, 下列敘述何者?",
+      "image_url": "",
+      "options": [
+        "砂粒愈粗, 透氣性愈好",
+        "砂粒愈細, 透氣性愈差",
+        "錘實的程度愈密實, 透氣性愈差",
+        "含水量愈多, 透氣性愈好 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_009",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "砂模通氣性不良時, 金屬液澆鑄時會發生",
+      "image_url": "",
+      "options": [
+        "沸滾",
+        "氣孔",
+        "燒結",
+        "毛邊 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_010",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "一般濕砂模含水分約為多少?",
+      "image_url": "",
+      "options": [
+        "2 ~ 8 %",
+        "8 ~ 15 %",
+        "15 ~ 20 %",
+        "20 ~ 25 % 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_011",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "澆口系統中, 金屬液進入模穴前的小通道, 稱為",
+      "image_url": "",
+      "options": [
+        "進模口",
+        "冒口",
+        "溢放口",
+        "橫流道 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_012",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "豎澆道的功用是",
+      "image_url": "",
+      "options": [
+        "補充金屬液",
+        "排除氣體與熔渣",
+        "使鑄件組織緻密",
+        "輸送金屬液 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_013",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "冒口的型態為開敞式, 從上模頂端可看到冒口的位置及形狀者, 稱為",
+      "image_url": "",
+      "options": [
+        "明冒口",
+        "澆口",
+        "暗冒口",
+        "通氣口 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_014",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "下列何者丕明冒口的功用?",
+      "image_url": "",
+      "options": [
+        "補充鑄件凝固收縮過程所需的金屬熔液",
+        "排氣與除渣",
+        "鑄件容易取出",
+        "檢視金屬熔液是否充滿模穴 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_015",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "有關砂模鑄造之流路系統, 排列順序何者正確?",
+      "image_url": "",
+      "options": [
+        "澆池一澆道一流道一進模口一模穴",
+        "澆池一流道一澆道一進模口一模穴",
+        "澆道一澆池一進模口一模穴",
+        "澆池一澆道一模穴一進模口 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_016",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "製作砂模時, 首先覆蓋於模型表面之砂稱為",
+      "image_url": "",
+      "options": [
+        "面砂",
+        "襯砂",
+        "舊砂",
+        "背砂 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_017",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "撒分模砂或分型粉的目的為何?",
+      "image_url": "",
+      "options": [
+        "增加模形使用壽命",
+        "增加砂模透氣性",
+        "增加鑄件表面粗糙度",
+        "避免上下砂模互相黏貼 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_018",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "砂模搗固不實時, 鑄件會發生",
+      "image_url": "",
+      "options": [
+        "氣孔",
+        "落砂",
+        "縮孔",
+        "鑄缺 。 201 學更 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_019",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "無固定合模梢之砂箱, 為求合模精確, 造模時至少應在砂箱上做幾個記號?",
+      "image_url": "",
+      "options": [
+        "1 個",
+        "2 個",
+        "3 個",
+        "4 個 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_020",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "鑄件澆鑄溫度過低會導致何種缺陷?",
+      "image_url": "",
+      "options": [
+        "鑄砂燒結",
+        "脹膜",
+        "滯流 104",
+        "毛邊 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_021",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "下列何種金屬的熔點最低?",
+      "image_url": "",
+      "options": [
+        "鋁",
+        "銅",
+        "純鐵",
+        "鑄鐵 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_022",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "鑄鐵的熔化溫度約為",
+      "image_url": "",
+      "options": [
+        "720-780 °C",
+        "1100-1150 °C",
+        "1300 一 1350 °C",
+        "1450 一 1500 °C 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_023",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "澆鑄時, 捲入空氣之主要原因是",
+      "image_url": "",
+      "options": [
+        "亂流",
+        "澆鑄太慢",
+        "澆鑄溫度太低",
+        "澆口太大 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_024",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "濕砂模澆鑄鋁合金之溫度通常在",
+      "image_url": "",
+      "options": [
+        "520 °C",
+        "620 °C",
+        "720 °C",
+        "820 °C 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_025",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "澆鑄時間通常以",
+      "image_url": "",
+      "options": [
+        "時",
+        "分",
+        "秒",
+        "微秒表示 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_026",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "所謂一號坩堝係指每爐次能熔解一公斤的",
+      "image_url": "",
+      "options": [
+        "黃銅",
+        "鋅合金",
+        "鑄鐵",
+        "鋁合金材料 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_027",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "100 號的坩堝, 其號數是指坩鍋的",
+      "image_url": "",
+      "options": [
+        "高度",
+        "寬度",
+        "熔化量",
+        "出廠號 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_028",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "下列何種金屬的熔點最高?",
+      "image_url": "",
+      "options": [
+        "鑄鐵",
+        "鑄鋼",
+        "銅合金",
+        "鋁合金 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_029",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "單體模型造模時, 模型最大面宜放在",
+      "image_url": "",
+      "options": [
+        "下模",
+        "上模",
+        "靠澆口處 1 0-5",
+        "任何地方都可以 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_030",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "手工造模之順序, 何者正確?",
+      "image_url": "",
+      "options": [
+        "先作下砂模 、 再作上砂模 、 取出模型 、 開設流路系統 、 合模",
+        "先作上砂模 、 再作下砂模 、 取出模型 、 再開設流路系統 、 合模",
+        "先作下砂模 、 再作上砂模 、 取出模型 、 合模 、 開設流路系統",
+        "先作上砂模 、 取出模型 、 再作下砂模 、 開設流路系統 、 合模 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH10_031",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH10",
+      "q": "分離砂模時, 提起上砂模的動作是",
+      "image_url": "",
+      "options": [
+        "一邊搖晃 、 一邊提起",
+        "前後移動後提起",
+        "左右移動後提起",
+        "垂直提起 。 202"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

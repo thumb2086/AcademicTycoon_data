@@ -1,0 +1,309 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH05",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床規格表示, 一般係以",
+      "image_url": "",
+      "options": [
+        "刀具溜座移動",
+        "橫向進刀移動",
+        "複式刀座移動",
+        "二頂心間之最大距離 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "馬敬業, 廖清碧譯, 工具機及機製實習 ( 上 ), P509 ~ P510, 徐氏基金會, 1989 。 2 · D.A. Stephenson, J.S. Agapiou, MetaI cutting theory and practice, Third Edition, CRC Press, P8, 2016 · 106"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "使尾座和刀具溜座保持平行的機件是",
+      "image_url": "",
+      "options": [
+        "倒 v 形床軌",
+        "導螺桿",
+        "進刀桿",
+        "複式刀座 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "調整 「 尾座固定把手 」, 放鬆尾座, 並推至床台適當處, 再鎖固尾座 。"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_003",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "下列何者丕車床空心主軸的目的",
+      "image_url": "",
+      "options": [
+        "減輕重量",
+        "方便觀察",
+        "方便排屑",
+        "加工長工件 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "熟識手輪刻度環之讀數值及心軸刻度值之讀數值 。 每一刻度值 = 工件軸向深度的增減量 。"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_004",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床主軸的方向稱為",
+      "image_url": "",
+      "options": [
+        "縱向",
+        "橫向",
+        "徑向",
+        "周向 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_005",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "自動進給及車削螺紋機構裝置於",
+      "image_url": "",
+      "options": [
+        "床鞍內部",
+        "床鞍外部",
+        "床帷內部",
+        "床帷外部 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "調變 「 進給率調整把手 」, 並以右手轉動手輪, 以熟識心軸之進給速率 。 重覆上述步驟, 熟悉尾座各項操作 。"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_006",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床電器設備絕緣不良, 可能造成之現象為",
+      "image_url": "",
+      "options": [
+        "漏電",
+        "正 、 反轉不靈",
+        "電磁開關會跳脫",
+        "馬達不轉動 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "將 「 正逆轉啟動把手 」 歸回原位, 再採煞車, 使主軸停止 。 重覆上述步驟, 以熟悉車床主軸的正逆轉操作 。"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_007",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床工作中, 橫向進給是指",
+      "image_url": "",
+      "options": [
+        "圓形工件的直徑方向",
+        "車床的中心軸方向",
+        "與尾座心軸平行的方向",
+        "與 v 型床軌平行的方向 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_008",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床工作中, 利用煞車的目的是",
+      "image_url": "",
+      "options": [
+        "防止刀尖破裂",
+        "保護工件",
+        "防止頂心鬆脫",
+        "緊急停車 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_009",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床主軸箱加注潤滑油時, 油面應在",
+      "image_url": "",
+      "options": [
+        "油窗頂端",
+        "油窗頂端至中心線間",
+        "油窗中心線",
+        "油窗下端 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_010",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "選用車床齒輪箱內之潤滑油, 最重要的特性是",
+      "image_url": "",
+      "options": [
+        "揮發性",
+        "黏度",
+        "著火點",
+        "絕緣性 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_011",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床在使用後, 最須採行的維護工作為",
+      "image_url": "",
+      "options": [
+        "調整",
+        "擦拭及注油",
+        "暖機",
+        "拆下夾頭 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_012",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床工作, 嚴禁使用",
+      "image_url": "",
+      "options": [
+        "安全鞋",
+        "安全眼鏡",
+        "手套",
+        "耳塞 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_013",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "一般高速車床變速時, 正確操作是",
+      "image_url": "",
+      "options": [
+        "主軸停止後變速",
+        "轉動間變速",
+        "主軸停止動前變速",
+        "車床起動後瞬間變速 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_014",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床起動後, 主軸不轉, 可能原因是",
+      "image_url": "",
+      "options": [
+        "主軸變速桿未定位",
+        "進給車牙變換桿未定位",
+        "換向操作桿未定位",
+        "縱 、 橫自動進給操作桿未定位 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_015",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床複式刀座的主要用途是車削",
+      "image_url": "",
+      "options": [
+        "較長工件",
+        "較薄工件端面",
+        "長桿錐度工件",
+        "短桿錐度工件 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_016",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車削工作中, 若發覺車床有異狀或有不正常之聲音時, 首先要",
+      "image_url": "",
+      "options": [
+        "切斷電源",
+        "退出刀具",
+        "踩煞車",
+        "加速車削 。 學後更 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_017",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床煞車後, 主軸無法立即停止, 煞車放開後, 主軸又恢復轉動, 可能原因是",
+      "image_url": "",
+      "options": [
+        "煞車帶太鬆",
+        "煞車帶斷裂",
+        "煞車來令片已磨損",
+        "煞車微動開關失靈 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_018",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "校正車床主軸孔中心之偏擺度, 以下列何者較為精確",
+      "image_url": "",
+      "options": [
+        "對正車頭及尾座頂心",
+        "試車削工件",
+        "以量錶及標準桿檢查",
+        "校對尾座記號 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH05_019",
+      "subject": "機械基礎實習全冊",
+      "unit": "5-6",
+      "q": "車床上切削低碳鋼材料, 理想的切屑是",
+      "image_url": "",
+      "options": [
+        "捲曲之小段",
+        "捲曲而源源不斷",
+        "粉狀",
+        "直條狀 。 105"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

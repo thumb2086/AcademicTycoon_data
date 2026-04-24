@@ -1,0 +1,293 @@
+{
+  "bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH03",
+  "questions": [
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_001",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH3",
+      "q": "與鑄鐵平板相較, 何者丕星花崗岩平板的特性?",
+      "image_url": "",
+      "options": [
+        "表面鏟花處理",
+        "不起毛邊",
+        "耐酸 、 鹼侵蝕",
+        "硬度高 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "http://www.czjcc.com/sdp/231671 / 。 2 · 建大貿易股份有限公司三豐產品型錄 E2004, P13, 2004 3 · 精展精機股份有限公司, 產品型錄, P29 ~ P34, 2005 。 4 · 皆全研磨股份有限公司, P11, 2004 。 5 · 璟龍企業有限公司, starret precision t001s 產品型錄, 2005 。 6 · 璟龍企業有限公司, starret Tools&Rules for Precision Measuring 產品型錄 。 7 · 台灣三豐儀器股份有限公司, 五週年紀念, 產品型錄 E70, P185 ~ P193 。 8 · http://www.wuging.com/tw/new_page 15.htm 9 · 洪德良, 切削刀具學, 全華圖書公司, P2-7, 民 92 。 60"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_002",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH3",
+      "q": "圓柱形的端面劃線, 應以何種輔助工具固定較適宜?",
+      "image_url": "",
+      "options": [
+        "角板",
+        "量角器",
+        "正弦桿",
+        "V 形枕 。"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "轉動微調裝置, 如圖 3-26 (C) 所示, 微調至正確高 度, 鎖緊游尺固定螺絲 。"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_003",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH3",
+      "q": "游標高度規除劃線外, 也可用來測量",
+      "image_url": "",
+      "options": [
+        "高度",
+        "孔徑",
+        "角度",
+        "螺紋角 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_004",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH3",
+      "q": "平板上丕可放",
+      "image_url": "",
+      "options": [
+        "V 形枕",
+        "角尺",
+        "手錘",
+        "劃線台 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_005",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH3",
+      "q": "有關劃線工具的使用與保養何者正確?",
+      "image_url": "",
+      "options": [
+        "可在平板上做敲打中心衝之工作",
+        "鑄鐵平板有汙垢應以肥皀水清洗",
+        "平板用畢應蓋上木板, 保護平面",
+        "劃線工具的尖端應略鈍, 確保操作者安全 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_006",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH3",
+      "q": "劃線工作時選用基準面, 下列何者為宜?",
+      "image_url": "",
+      "options": [
+        "取已加工面",
+        "取圓的中心面",
+        "取未加工面",
+        "取孔的中心面 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_007",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH3",
+      "q": "通常高速鋼手弓鋸鋸條表面漆上",
+      "image_url": "",
+      "options": [
+        "黑色",
+        "紅色",
+        "藍色",
+        "白色 3-3 保護漆 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_008",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "薄金屬板的鋸切應保持每斷面至少有",
+      "image_url": "",
+      "options": [
+        "I 齒",
+        "2 齒",
+        "3 齒",
+        "4 齒以上接觸, 否則鋸齒易卡於工件崩斷 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_009",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "手弓鋸鋸切圓棒工件時, 鋸切面呈現的紋路何者較佳?",
+      "image_url": "",
+      "options": [
+        "成一直線狀",
+        "成方 3-4 形",
+        "成三角形",
+        "成菱形 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_010",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "受限於鋸架高度而無法鋸切時, 可改橫鋸方式繼續鋸切時, 此時鋸片裝置方向應與鋸架成",
+      "image_url": "",
+      "options": [
+        "30 度",
+        "60 度",
+        "90 度",
+        "180 度 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_011",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "鋸切薄金屬板, 應",
+      "image_url": "",
+      "options": [
+        "用手握持",
+        "橫向鋸切",
+        "縱向鋸切",
+        "夾於兩木板或塑膠材料間 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_012",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "有關手弓鋸鋸切金屬工件, 下列敘述何者不正確?",
+      "image_url": "",
+      "options": [
+        "鋸切前應先畫出鋸切線",
+        "為提高鋸切品質, 鋸切時加入少許潤滑油比較不會震動",
+        "較薄的金屬工件鋸切時應選用齒數多的鋸條",
+        "手弓鋸切時向前推才有切削作用 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_013",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "使用游標高度規劃線, 應先檢查",
+      "image_url": "",
+      "options": [
+        "是否歸零",
+        "平板是否擦拭乾淨 3-5",
+        "刀尖是否尖銳",
+        "以上皆需要 。 58 孓 6 學後量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_014",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "有關劃線工作之敘述, 何者?",
+      "image_url": "",
+      "options": [
+        "工件劃線前應先去除毛邊",
+        "分規可做尺寸轉移及等分線段",
+        "為求線條清晰, 劃線針應在工件表面上應來回多次",
+        "高度規刀尖崩裂會影響劃線精度 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_015",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "有關使用高度規畫線, 下列敘述何者不正確?",
+      "image_url": "",
+      "options": [
+        "高度規的劃線刀伸出較長, 畫的線較平整",
+        "高度規底座與工件參考面必須保持平行",
+        "使用高度規畫線前, 應先清潔平板並檢查平板面是否平整",
+        "讀取高度規刻度時, 視線應和讀取之刻度等高 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_016",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "安裝手弓鋸鋸條應使鋸齒",
+      "image_url": "",
+      "options": [
+        "朝後",
+        "朝前",
+        "朝上",
+        "都可以 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_017",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "手弓鋸鋸切材料, 眼睛應注視",
+      "image_url": "",
+      "options": [
+        "鋸切處",
+        "鋸架前端",
+        "鋸架把手",
+        "鋸架上方 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH03_018",
+      "subject": "機械基礎實習全冊",
+      "unit": "3-3",
+      "q": "鋸切金屬材料時, 手弓鋸向前與拉回的情況是",
+      "image_url": "",
+      "options": [
+        "向前鋸切, 拉回也鋸切",
+        "向前施加壓力 、 拉回也須施加壓力",
+        "向前施加壓力, 拉回不施加壓力",
+        "視鋸削金屬而定 。 59"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

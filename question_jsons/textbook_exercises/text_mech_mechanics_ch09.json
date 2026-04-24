@@ -1,0 +1,133 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH09",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH09_001",
+      "subject": "機械力學",
+      "unit": "CH9",
+      "q": "一根空心短銅桿, 如圖所示, 上下斷面承受均匀壓力時, 依蒲松氏比的概念, 則銅管受壓力變形時, 會如何變形?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch09/p044_0_50_0_r.png",
+      "options": [
+        "外徑變小, 內徑變小",
+        "外徑變小, 內徑變大",
+        "外徑變大, 內徑變小",
+        "外徑變大, 內徑變大 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH09_002",
+      "subject": "機械力學",
+      "unit": "9-2",
+      "q": "3 。 今欲以一 x 軸應力來取代此雙軸向應力, 使其產生的 x 軸應變量相等, 試求此 x 軸向的應力為多少 MPa?",
+      "image_url": "",
+      "options": [
+        "80",
+        "82",
+        "140",
+        "280 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH09_003",
+      "subject": "機械力學",
+      "unit": "9-2",
+      "q": "2, 僅受到 。 丶與 。 雙軸向應力作用後, 得到 x 軸向的應變為 = 90 / E 以及 y 軸向的應變為 = 30 / E, 則下列有關應力或應變的敘述何者正確?",
+      "image_url": "",
+      "options": [
+        "x 軸向的應力為 。 丶 = 100MPa",
+        "y 軸向的應力為 。 y = 30MPa",
+        "z 軸向的應力為 。 ∕ = 50MPa",
+        "z 軸向的應變為 = 20 / E 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH09_004",
+      "subject": "機械力學",
+      "unit": "9-2",
+      "q": "5, 則此圓管的最大容許負荷為多少 kN?",
+      "image_url": "",
+      "options": [
+        "9 兀",
+        "25 兀",
+        "90 兀",
+        "360 兀 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH09_005",
+      "subject": "機械力學",
+      "unit": "9-2",
+      "q": "有關應力或應變的相關敘述, 下列何者正確?",
+      "image_url": "",
+      "options": [
+        "正方形截面的桿件受 100 N 拉力作用, 截面每邊長 20 mm, 則桿件所受的張應力為 250 kPa",
+        "就延性材料而言, 安全因數為極限應力與容許應力的比值",
+        "原始長度為 200 mm 的圓桿, 受軸向壓力作用後, 長度變為 198 mm, 則此桿的軸向應變為 -0 · 01 mm",
+        "蒲松氏比為橫向應變與縱向應變的比值, 其值介於"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH09_006",
+      "subject": "機械力學",
+      "unit": "9-2",
+      "q": "升降機使用單一鋼索連結, 總質量為 2000 kg, 以 2 m/s2 的加速度上升, 已知鋼索的降伏強度為 600 MPa, 安全因數取 5, 則鋼索的斷面積最小為何? ( 假設重力加速度 g= 10m / s2 )",
+      "image_url": "",
+      "options": [
+        "50 mm2",
+        "100 mm",
+        "150 mm",
+        "200 mm )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH09_007",
+      "subject": "機械力學",
+      "unit": "9-5",
+      "q": "04 mm, 試求此軟鋼的體積彈性係數為多少 GPa?",
+      "image_url": "",
+      "options": [
+        "210",
+        "120",
+        "90",
+        "75 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH09_008",
+      "subject": "機械力學",
+      "unit": "9-5",
+      "q": "如圖所示之桿件, 一端為固定端, 另一端為自由端, 於自由端拉力作用, 在微小變形及彈性範圍內, 若系統將桿件假設為一彈簧, 則其彈力係數 ( 即彈簧常數 K) 為多少? E, A, L 蒲松氏比",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch09/p046_0_50_0_r.png",
+      "options": [
+        "",
+        "1",
+        "EA",
+        "EA"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

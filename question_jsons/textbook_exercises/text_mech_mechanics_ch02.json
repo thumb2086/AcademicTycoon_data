@@ -1,0 +1,101 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH02",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_001",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "如圖所示的鋼架, 承受均佈載重, 若鋼架本身重量和變形可忽略不計, 試求 A 點之 20kN/m 6m 反力為多少 kN?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p064_0_50_0_r.png",
+      "options": [
+        "90",
+        "150 4m",
+        "120",
+        "200 。 88 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_002",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "如圖所示的結構, 若樑 ACD 與繩索 BC 的重量均可忽略不計, 則繩索所承受的 B 張力大小為多少 N?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p064_0_50_0_r.png",
+      "options": [
+        "2650",
+        "3500",
+        "5300",
+        "7000 。 3 4 4m 400N / m 4m )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_003",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "如圖所示, 梯重 48 N, 斜靠於一光滑的牆壁上, 梯子剛好保持平衡, 若地面有摩擦, 則梯子在 A 點之反作用力為何? ( 梯子為均匀材質 )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p064_0_50_0_r.png",
+      "options": [
+        "20 N",
+        "48 N",
+        "52 N",
+        "26 N 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_004",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "如圖所示之架構, 不計桿件重量, 則何者不正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p065_0_50_0_r.png",
+      "options": [
+        "銷件 A 與銷件 B 所受的反作用力大小相等",
+        "AB 桿所受的作用力為壓力",
+        "銷件 A 的反作用力大小約為 100 N",
+        "AB 桿為二力構件 。 60N 0 60 A 0 30 89 學後評量 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_005",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "如圖所示, 試求 A 支座的反力為多少牛頓?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p065_0_50_0_r.png",
+      "options": [
+        "90",
+        "120",
+        "150",
+        "150 150N 300N 2m 4m 150N 2m 2m )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_006",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "5 m 與 1 m, 而當 w = 15000 N, 在保持所有輪胎均貼地的狀況下, 該堆高機所能起重負載貨物的最大重量 F 為多少 N?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p065_0_50_0_r.png",
+      "options": [
+        "10000",
+        "15000",
+        "22500",
+        "32500 。 2-2 90 丶計算題如圖所示, 一力 100N 作用於 c 點, 若桿重不計體圖 。, 畫出 AB 、 CD 桿件的自由 100N 2m 6m 3m 4m 2-5-3"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}
