@@ -64,6 +64,38 @@
       "a": 0,
       "reward": 15,
       "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH04_005",
+      "subject": "機械力學",
+      "unit": "CH4",
+      "q": "9 · 8 m/s2)?",
+      "image_url": "",
+      "options": [
+        "10",
+        "30",
+        "49",
+        "98 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "如圖所示, A 物體重 100 N, B 物體重 200 N, c 物體重 300 N, A 與 B 間之靜 摩擦係數為 0 · 5, B 與 c 間靜摩擦係數為 0 · 1, 地面為光滑表面, 則欲使方塊 c 移動之最小力 p 為多少牛頓? 160"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH04_006",
+      "subject": "機械力學",
+      "unit": "CH4",
+      "q": "22 · 一物體重量為 w 置於平面, 受一水平力 F 作用, 在水平接觸面, 作用於物體的正向反作用力為 N, 摩擦力為 f, 水平面作用力 F 與摩擦力 f 之關係如下圖所示, 下列敘述何者正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch04/p032_0_0_0_r.png",
+      "options": [
+        "當物體呈現靜止狀態時, 物體的摩擦力 f=0",
+        "在水平面接觸面, 作用於物體的正向反作用力 N 的大小, 會隨水平作用力 F 變化",
+        "當水平作用力 F 在 c 點的摩擦力, 是最大靜摩擦力",
+        "當水平作用力 F 大於 c 點時, 物體所受的摩擦力, 稱為靜摩擦力 。 fs 0 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
     }
   ]
 }

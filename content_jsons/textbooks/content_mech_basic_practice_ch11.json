@@ -1,0 +1,465 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH11",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH11",
+    "title": "CH11"
+  },
+  "title": "機械基礎實習全冊 Chapter 11 ɦۨᅼۨʘᛟᅼႡЪ",
+  "source_pdf": "mechanical_basic_practice/CH11PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH11",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        },
+        {
+          "type": "heading",
+          "text": "ɦۨᅼۨʘᛟᅼႡЪ"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 瞭解砂心的功能與種類 11-1 砂心的功能與種類"
+        },
+        {
+          "type": "heading",
+          "text": "2. 瞭解砂心的製作 11-2 砂心的製作"
+        },
+        {
+          "type": "heading",
+          "text": "3. 學會分型模型鑄模製作 11-3 分型模型鑄模製作"
+        },
+        {
+          "type": "heading",
+          "text": "4. 熟悉熔解與澆鑄技能 11-4 三通管砂心製作 ( 含安置砂心骨 )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "206"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "heading",
+          "text": "11-1 ޻ːٙ̌ঐၾ၇ᗳ"
+        },
+        {
+          "type": "paragraph",
+          "text": "ᵺൔבờൔࠣŊʙ⣬Լ⋱ᆯぁᔋ⸉଼᥂᚝ᙟҘŊഩҽִരחӛ風˴ŊҪ૽ᵺൔⵒ̤ᄬ᷊ח ӛŊഐໞઋᙀ໣कⵒӚど᱿風˴Ŋᄑᵺൔહ∑ᣅȵ˶̬әӛᅠᵺᑁʑ᱿ⵒ˷ȶ,砂心使用示意 圖如圖 11-1 所示。砂心除了形成孔洞外,也可用來製造外形複雜的鑄件,當無法或不易使用濕 砂模造模,可以利用砂心組合成砂心砂模 (Core mold),再進行澆鑄,砂心與使用情形如圖 11-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-1 ȭᵺൔ͐ᮢḻาߧ [1]"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-2 ȭᵺൔ⎞͐ᮢ෼ഐ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch11/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 ɦۨᅼۨʘᛟᅼႡЪ 207"
+        },
+        {
+          "type": "heading",
+          "text": "砂心依使用情形分成六大類,如圖 11-3 所示:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 濕砂心:由實體模型造模而成,與砂模結合"
+        },
+        {
+          "type": "paragraph",
+          "text": "為一體,屬砂模的一部分,如圖 11-3(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 水平式乾砂心:砂心水平擺放,如圖 11-3(b)"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示,是圓筒形鑄件最常見的裝置方式。該"
+        },
+        {
+          "type": "heading",
+          "text": "模型兩端各有一段伸出部分,砂模製成後該"
+        },
+        {
+          "type": "paragraph",
+          "text": "部位會形成砂心座,用來支撐砂心及定位。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 垂直式乾砂心:砂心垂直放置在砂心座內,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-3(c) 所示,砂心上端製成適當錐狀, 目的是避免合模損壞上砂箱中的砂。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 平衡式砂心:砂心水平放置,僅單邊支撐,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-3(d) 所示,唯支撐端需有足夠的長度 支撐懸空端的重量。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 懸吊式砂心:砂心由模穴上方承托,下方懸"
+        },
+        {
+          "type": "paragraph",
+          "text": "空,如圖 11-3(e) 所示,砂心中間需有一孔洞, 以利金屬熔液進行澆鑄。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 下落式砂心:當鑄件內孔無法位在分模面位"
+        },
+        {
+          "type": "paragraph",
+          "text": "置時可採用下落式砂心,如 11-3(f) 所示,唯 砂模內須預留砂心座以放置砂心。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-3 ȭᵺൔ᱿Ớㆩ [3]"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch11/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "208"
+        },
+        {
+          "type": "heading",
+          "text": "11-2 ޻ːٙႡЪ"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂心可用手工或機器製作,手工製作的速度較慢,生產力較低,但適合任何形狀及大小 的砂心。機器製作是利用砂心吹製機將砂心砂吹入盒內,在短時間內硬化成型,適合小件、 大量生產。 黏土系砂心有濕砂心與乾砂心之分,濕砂心是在製造砂模時一起完成,乾砂心是以砂心 盒或以刮板模型另外製作,再經 100 °C∼ 320 °C之溫度烘乾處理,避免鑄件產生氣孔,砂心製 作如圖 11-4(a)、 (b) 所示。 製作砂心的砂一般用可硬化的材料,且大都以新砂再添加黏結劑和因特殊目的而加入 的添加劑混練而成,如添加 ᤄᢻ⁆ 或 ቌଫ 可增進砂心收縮並使清砂容易。目前業界常以熱匣 法 (Hot box process) 製作砂心,所謂 ᥖօᘍଔᆯ૽ ᕄᑁᵺ ( ᵹᵺ + ⶴⷝᑋ⋵ ) ࢯҘ఩Խᥖӷ 300 Ɯ 350 ƫ᱿⸉଼ ⢌ᵺൔᲬҙŊᵺൔकߣⳢᥖⳀិ 㓸⃌ʉջŊᯍʉջׂ ಙ⭁चᆹŊ૽ ᵺൔ Წʑൔଋቍʉջ᱿ᕄᑁᵺΪӛŊᮽ߱ᑁңҙ᱿ᵺൔҙଶ↧↲טᥖ≟ʉջⳭӷ᳈ᯍ᱿ʉջỄಙ രŊ་⿭ᵺൔᲬחӛʑἇ᱿ᕄᑁᵺൔ,如圖 11-4(c) 所示。因製造砂心時間短,廣用於水龍頭 及管接頭鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-4 ȭᵺൔ⢌̳"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch11/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 ɦۨᅼۨʘᛟᅼႡЪ 209"
+        },
+        {
+          "type": "paragraph",
+          "text": "在澆鑄過程,砂心被高溫金屬液包圍,需具備良好的 ⲿᖎඖ 與 ≣ᥖඖ,以及 ⳺ᯍ᱿೼ಙ 承 受金屬液的浮力。在金屬凝固收縮過程,砂心也應立刻潰散,才不會對鑄件產生抵抗作用,避 免發生熱裂現象。為了得到良好的表面粗糙度,砂心表面也須光滑平整。 在強度方面,小型砂心常以 φ 3mm 以上的鐵絲做成 ᵺൔ10月 (core bar) મ⇦߱ᵺൔҙ࣑Խ೼ ಙŊ 如圖 11-5(a) 所示。砂心骨的外形視砂心而定,大型砂心則採多孔管或心軸做為砂心骨抵抗 金屬熔液的靜力作用,同時兼具通氣功能,小型砂心則以通氣針在中心穿製透氣孔增加透氣性。 有些模穴缺乏足夠的結構支撐砂心,為了避免合模時壓壞砂心或澆鑄時發生偏移,常用 ᵺ ൔ႓ (chaplets) 撐托與定位砂心,砂心撐以金屬墊片製成,形狀各異,使用情形如圖 11-5(b)、 (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 砂心骨使用情形"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-5 ȭᵺൔ10月⎞ᵺൔ႓ʠ͐ᮢ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch11/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "൩eҦঐ௅ɦ"
+        },
+        {
+          "type": "heading",
+          "text": "11-3 ɦۨᅼۨᛟᅼႡЪ"
+        },
+        {
+          "type": "paragraph",
+          "text": "此分型模型鑄模製作以連桿鑄件為例,說明鑄模製作流程,分型模型與砂心盒如圖 11-6 所 示,造模流程與澆鑄過程請參閱圖 11-7 ∼圖 11-14。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-6 ȭⳐጥӠࠣᑁࠣ⎞ᵺൔᲬ"
+        },
+        {
+          "type": "heading",
+          "text": "ɓeႡЪɨ޻ᅼ"
+        },
+        {
+          "type": "paragraph",
+          "text": "下砂模造模步驟請參閱第 10 章整體模型之鑄模製作程序,在此僅簡略概述:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 造模板上放置砂箱,無定位銷之半邊模型放入砂箱內適當位置,用面砂覆蓋於模型四周,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 11-7(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以手指壓緊面砂、加背砂、搗實鑄砂。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 刮平砂面, 180° 翻轉砂箱,使模型朝上,如圖 11-7(b) ∼ (d)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-7 ȭʁᵺᑁ⢌̳Ễ಍"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch11/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 ɦۨᅼۨʘᛟᅼႡЪ 211"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeႡЪɪ޻ᅼ"
+        },
+        {
+          "type": "heading",
+          "text": "上砂模造模步驟參閱圖 11-8:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 取有定位銷之半邊模型與下砂箱的半邊模型組合、均勻撒佈分型粉、放置上砂箱與豎立"
+        },
+        {
+          "type": "paragraph",
+          "text": "澆口棒,如圖 11-8(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 如同製作下砂模步驟:覆蓋面砂、填加背砂、錘實模砂與刮平砂面,如圖 11-8(b) ∼ (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 取出澆口棒,製作澆口杯,如圖 11-8(d)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 製作合模記號、垂直提起上砂模,如圖 11-8(e)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 下砂模在豎澆道底挖半球形凹穴、開設進模口,如圖 11-8(f)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 潤濕模型周圍的鑄砂,以拔模針分別取出上下砂模之半邊模型,如圖 11-8(g) ∼ (i)。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 以鏝刀修整砂面,使其平整,如圖 11-8(j)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-8 ȭʀᵺᑁ⢌̳Ễ಍"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch11/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "212"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-8 ȭʀᵺᑁ⢌̳Ễ಍ ( ↲ )"
+        },
+        {
+          "type": "heading",
+          "text": "ɧe޻ːႡЪ"
+        },
+        {
+          "type": "heading",
+          "text": "砂心製作程序參閱圖 11-9:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 以砂篩備妥一些較細的模砂 ( 或使用砂心砂 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在造模板上,合攏砂心盒,填入已篩過之細砂 ( 或砂心砂 ) 並以搗棒錘實,如圖 11-"
+        },
+        {
+          "type": "paragraph",
+          "text": "9(a)、 (b)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鏝刀抹平砂心兩端面,如圖 11-9(c)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以通氣針在砂心中心穿製通氣孔,如圖 11-9(d)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 輕敲砂心盒,使砂心與砂心盒分離,如圖 11-9(e)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 砂心放進烘乾機內烘烤,如圖 11-9(f),烘烤溫度愈低、時間愈長。 ( 是否烘乾視砂心種"
+        },
+        {
+          "type": "heading",
+          "text": "類與製作方式而定 )"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-9 ȭᵺൔ⢌̳Ễ಍"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch11/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 11 ɦۨᅼۨʘᛟᅼႡЪ 213"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-9 ȭᵺൔ⢌̳Ễ಍ ( ↲ )"
+        },
+        {
+          "type": "heading",
+          "text": "̬ e޻ːτໄၾΥᅼ"
+        },
+        {
+          "type": "paragraph",
+          "text": "砂心安置與合模步驟請參閱圖 11-10。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 砂心烘烤後取出,直立安置在下砂模之砂心座內,如圖 11-10(a)。放置過程要特別留意,"
+        },
+        {
+          "type": "paragraph",
+          "text": "以免砂心受損。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 提起上砂模,對準合模記號、垂直緩慢放下進行合模,如圖 11-10(b)、 (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 通氣針在上砂模插通氣孔,如圖 11-10(d)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-10 ȭᵺൔમ⇦⎞׶ᑁ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch11/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-10 ȭᵺൔમ⇦⎞׶ᑁ ( ↲ )"
+        },
+        {
+          "type": "heading",
+          "text": "ʞeအ༆ၾᆏᛟ"
+        },
+        {
+          "type": "paragraph",
+          "text": "此章以鋁合金為澆鑄金屬,熔解與澆鑄相關知識與技能請參閱第 10 章技能部分,在此簡略"
+        },
+        {
+          "type": "heading",
+          "text": "說明步驟:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 以熔解爐熔化鋁錠,如圖 11-11(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 穿妥防護裝備。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 待鋁液溫度達到熔解溫度,以澆缽盛接金屬熔液,如圖 11-11(b)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 將金屬熔液鑄入模穴,直到充滿整個模穴為止,如圖 11-11(c)、 (d)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 金屬熔液凝固後,破壞砂模,取出鑄件,如圖 11-11(e)、 (f)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 敲除砂心與流路系統。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 清理鑄件。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 11-11 ȭ᥂⤟⎞៮風"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch11/p010.jpg"
+    }
+  ]
+}

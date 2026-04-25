@@ -1,0 +1,85 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH12",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH12_001",
+      "subject": "機械力學",
+      "unit": "CH12",
+      "q": "25 · 如圖所示之矩形截面的簡支樑, 樑的長度為 4 m, 若樑重不計, 承受 w 的均佈負荷作用, 安全因數取 2, 若樑的降伏應力為 800 MPa, 則樑可承受 w 的最大值為多少 N/m?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch12/p067_0_0_0_r.png",
+      "options": [
+        "320",
+        "160",
+        "80",
+        "40 。 4m 20mm 12mm )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH12_002",
+      "subject": "機械力學",
+      "unit": "CH12",
+      "q": "26 · 有一水平簡支樑承受垂直荷重後, 在其矩形橫斷面上會產生彎曲應力與剪應力, 則下列敘述何者正確?",
+      "image_url": "",
+      "options": [
+        "中立軸上彎曲應力與剪應力均為零",
+        "上下表面的彎曲應力最大 、 剪應力不為零",
+        "在橫斷面上的剪應力呈均匀分佈且不為零",
+        "中立軸的長度不會改變 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH12_003",
+      "subject": "機械力學",
+      "unit": "CH12",
+      "q": "27 · 如圖所示之懸臂樑, 樑重不計, 在 B 端承受 4500 N 的負荷, 樑的橫截面為 15 mmx 30mm 的矩形, 試求樑內的最大剪應力為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch12/p067_0_0_0_r.png",
+      "options": [
+        "10MPa",
+        "15 MPa",
+        "20 MPa",
+        "25 MPa 。 4500N 30mm 15mm 5m )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH12_004",
+      "subject": "機械力學",
+      "unit": "CH12",
+      "q": "28 · 橫截面為矩形且長度為 L 的簡支樑, 受到均佈負荷作用而彎曲時, 在一 4 處的橫截面上, 最大彎曲應力和最大剪應力的分佈情況, 下列何者正確?",
+      "image_url": "",
+      "options": [
+        "最大彎曲應力點的剪應力一定為零, 最大剪應力點的彎曲應力不一定為零",
+        "最大彎曲應力點的剪應力一定為零, 最大剪應力點的彎曲應力也一定為零",
+        "最大彎曲應力點的剪應力不一定為零, 最大剪應力點的彎曲應力一定為零",
+        "最大彎曲應力點的剪應力不一定為零, 最大剪應力點的彎曲應力也不一定為零 。 207"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH12_005",
+      "subject": "機械力學",
+      "unit": "CH12",
+      "q": "29 · 如圖所示之樑, 承受均佈力 w = 12 kN / m 和集中力 p = 32 kN, 若樑重不計, 樑之剖面為 50 mm × 100 mm 的矩形, 試求樑中之最大剪應力為多少 MPa?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch12/p068_0_0_0_r.png",
+      "options": [
+        "12",
+        "24",
+        "6",
+        "18 。 2m 4m )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

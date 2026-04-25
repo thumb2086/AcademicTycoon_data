@@ -1,0 +1,1797 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH12",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH12",
+    "title": "CH12"
+  },
+  "title": "機械製造 Chapter 12 電腦輔助製造",
+  "source_pdf": "mechanical_manufacturing/CH12PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH12",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "電腦輔助製造"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "12-1 數值控制機械"
+        },
+        {
+          "type": "heading",
+          "text": "12-2 五軸加工機械與車銑複合機"
+        },
+        {
+          "type": "heading",
+          "text": "12-3 生產自動化"
+        },
+        {
+          "type": "heading",
+          "text": "12-4 智慧製造與先進技術"
+        },
+        {
+          "type": "heading",
+          "text": "12-5 機械製造之展望"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "252"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動化的生產,是近年來機械製造的新趨勢。在二十一世紀的今天,自動化乃是產業 維持高度競爭力所必須具備的基本條件。自動化的範圍很廣,幾乎各行各業都有它的存在, 例如辦公室自動化、農業自動化、工業自動化、商業自動化、漁牧業自動化等。 而數值控制系統的應用,在自動化中扮演極吃重的角色,足以影響其成效。早期硬體 式自動化工作效率雖然高,但是欠缺工作彈性,無法適應近代產業的快速變化。數值控制 系統則具備高度的彈性,最適合現今以批量生產為主的加工型態。 五軸加工機集計算機控制、高性能伺服驅動和精密加工技術於一體, 可加工連續、平 滑、複雜的曲面。廣泛應用於航太引擎構件加工、模具加工、渦輪葉片加工。 車銑複合機是在車床上,設置了銑削刀具軸,使得車床在原來的切削操作外,再加上 一些銑削的操作。 智慧製造是將物聯網技術融入製造,藉以降低勞力成本,迎接未來的挑戰。核心概念 是利用虛實整合系統,將製造業、甚至整個產業供應鏈互聯網化。 人工智慧顧名思義就是人造的智慧,是將大量的人類知識及經驗儲存在電腦的資料庫 中,配合軟體程式,可展現與人類智慧有關的學習、推理、問題解決與語言了解的一種電 腦科技。 奈米科技指的是控制長寬高至少有一邊小於 100nm 的物質結構和功能的相關技術。 工業 3.0 資訊化之後,到目前的工業 4.0,所依賴的就是積體電路技術不斷進化的結果。"
+        },
+        {
+          "type": "heading",
+          "text": "12-1 數值控制機械"
+        },
+        {
+          "type": "paragraph",
+          "text": "數值控制簡稱 NC (Numerical Control),係指利用數值資料組成之程式,來控制機器執 行的操作方式。早期的 NC 係將程式資料儲存在紙帶、磁帶或卡片上,再由讀取裝置 ( 例 如讀帶機 ) 讀取之。 近年來的 NC 已全部改由電腦控制, 程式由鍵盤直接鍵入, 無論方便性、 儲存容量、資料處理速度與能力,均非早期的 NC 所可比擬。用電腦控制的 NC 稱為 CNC (Computer Numerical Control)。"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-1 CNC 機器的構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "CNC 機器的所有動作,包括:刀具或工作台的進給量、切削速度、主軸的轉動與停止, 刀具或工作台的移動路徑、切削液的供給或停止,刀具更換等,均由程式直接控制。故其 機器的設計,有別於傳統之工具機,以下就應用最普遍之 CNC 車床,做概念性之介紹。 CNC 車床係由機械本體 ( 硬體部分 ) 及 NC 裝置 ( 軟體及硬體部分 ) 所組成,如圖 12-1 所示。包含機械本體、伺服驅動系統、量測系統與數值控制系統。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 253"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 12-1 CNC 車床 ( 圖片取自三鋒機器公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、夾頭"
+        },
+        {
+          "type": "paragraph",
+          "text": "CNC 車床採用如圖 12 - 2 所示的中空式油壓夾頭,可利用自動送料方式加工圓棒。其 壓力可依工件的形狀、材質而加以調整,以克服高速迴轉所產生之離心力,確保安全。夾 爪之夾放動作可用程式指令、按鈕或腳踏方式控制。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-2 油壓夾頭"
+        },
+        {
+          "type": "heading",
+          "text": "二、變速箱及主軸馬達"
+        },
+        {
+          "type": "paragraph",
+          "text": "CNC 車床的強力進給變速箱結構採用單體式,以使維護工作更簡便。 主軸馬達採用高 馬力的伺服馬達,可行周速一定的無段變速功能。 以便隨時設定最佳運轉速度,使加工時 間縮短,刀具壽命延長,工件表面光度更良好。"
+        },
+        {
+          "type": "heading",
+          "text": "三、床台"
+        },
+        {
+          "type": "paragraph",
+          "text": "床台大都設計成傾斜式。 此種設計之優點為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 操作時,工件、刀具的裝卸和量測接近性佳。"
+        },
+        {
+          "type": "heading",
+          "text": "2. X 軸及 Z 軸的滾珠導螺桿設定在共同斜面中央,可保驅動之安定性。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 床台摺合片與主軸中心距離短,可增高切削的穩定性。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 切屑容易自動滑落排除,而不會堆積在滑道上。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 切削液易於排放。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "254"
+        },
+        {
+          "type": "heading",
+          "text": "四、自動拉料裝置"
+        },
+        {
+          "type": "paragraph",
+          "text": "CNC 車床通常裝置一自動拉料器,可依程式控制將工件拉出至所需的尺寸,進行連續 加工,達到自動生產之要求。"
+        },
+        {
+          "type": "heading",
+          "text": "五、滾珠導螺桿"
+        },
+        {
+          "type": "paragraph",
+          "text": "CNC 車床的定位精度是依靠導螺桿的精密度來維持的,現時大都選用如圖 12 - 3 所示"
+        },
+        {
+          "type": "heading",
+          "text": "之滾珠導螺桿,其特性如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 不會產生滑動。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 高傳動效率及可逆性。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 高定位精密度。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 磨損少,壽命長。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 適當預壓,可使軸向間隙消除。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-3 滾珠導螺桿"
+        },
+        {
+          "type": "heading",
+          "text": "六、數控系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "數控系統為數值控制機械之大腦,與操作人員藉輸出入介面進行加工資料與訊息之交 換與溝通,主要工作為程式之分析、判斷與指令之傳輸,以驅動伺服系統並作加工路徑之 計算。 數控系統一般分為硬體結構與軟體功能兩大部分。硬體結構有中央處理機、記憶體與 輸入介面三個主要部分。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 255"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-2 座標系與運動軸"
+        },
+        {
+          "type": "heading",
+          "text": "一、直角座標"
+        },
+        {
+          "type": "paragraph",
+          "text": "在 NC 機械上加工,每一刀具移動的位置為空間上的一個點,此點的位置通常以直角 座標 ( 笛卡爾座標 ) 系統標稱。直角座標有平面座標系及立體座標系兩種:平面座標系只 有 X 與 Y 兩軸,如圖 12-4 所示。立體座標系有 X、 Y 及 Z 三軸,如圖 12-5 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 12-4 平面座標系 ▲ 圖 12-5 立體座標系 CNC 之標準座標系如圖 12 - 6 (a) 所示,令右手之拇指、食指及中指互成直角,分別指 向+ X、+ Y 及+ Z。三個迴轉軸 A、 B 及 C 分別繞 X、 Y 及 Z 三軸 ( 如圖 12-6(b) 所示 ), 其旋向如圖 12-6(c) 所示,以拇指指向+ X,則另四指彎曲之旋向即為+ A。各軸在機械上"
+        },
+        {
+          "type": "heading",
+          "text": "之應用特徵為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. X 軸:用於長方向的運動軸,如銑床的床台方向。"
+        },
+        {
+          "type": "heading",
+          "text": "2. Y 軸:用於短方向的運動軸,如銑床的床鞍方向。"
+        },
+        {
+          "type": "heading",
+          "text": "3. Z 軸:平行於主軸方向的運動軸。如立式銑床的床架升降方向。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-6 標準座標系"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "256"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 12-7 所示者為常見的工具機運動軸的規定。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-7 常用 NC 工具機的軸向"
+        },
+        {
+          "type": "heading",
+          "text": "二、絕對值與增量值"
+        },
+        {
+          "type": "paragraph",
+          "text": "在程式上指令刀具或床台的移動時,此二種方式均可使用,茲以 CNC 車床的指令說 明之。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 絕對值"
+        },
+        {
+          "type": "paragraph",
+          "text": "在絕對值指令方式裡,刀具移動之各點均以座標軸設定之原點為基準,移動至指令點, 其軸向以 X、 Z 表示。如圖 12-8 所示,其 P 1 至 P 4 之座標值如下:"
+        },
+        {
+          "type": "heading",
+          "text": "P 1 點 X10.0 Z40.0"
+        },
+        {
+          "type": "heading",
+          "text": "P 2 點 X10.0 Z20.0"
+        },
+        {
+          "type": "heading",
+          "text": "P 3 點 X20.0 Z20.0"
+        },
+        {
+          "type": "heading",
+          "text": "P 4 點 X20.0 Z10.0"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 增量值"
+        },
+        {
+          "type": "paragraph",
+          "text": "在增量值指令方式裡,刀具從現在位置移至下一指令點之位置,係以現在位置為基準, 移動至指令點,其軸向以 U、 W 表示。如圖 12-8 所示,各點之座標值如下:"
+        },
+        {
+          "type": "heading",
+          "text": "P 1 ∼ P 2 U0.0 W-20.0"
+        },
+        {
+          "type": "heading",
+          "text": "P 2 ∼ P 3 U10.0 W0.0"
+        },
+        {
+          "type": "heading",
+          "text": "P 3 ∼ P 4 U0.0 W-10.0"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 257"
+        },
+        {
+          "type": "heading",
+          "text": "上面之說明係以車床為例,故其 X 軸及"
+        },
+        {
+          "type": "heading",
+          "text": "U 軸均以直徑值指令;即指令值為刀具移動"
+        },
+        {
+          "type": "paragraph",
+          "text": "量之兩倍。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-8 絕對值指令"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-3 控制系統的分類"
+        },
+        {
+          "type": "heading",
+          "text": "一、以控制系統元件分類"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 硬體 NC 系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "早期讀帶式的 NC,其控制系統均由邏輯電路的硬體元件所組成,再與記憶元件結合 成理想的電子迴路,以執行解碼、排序、邏輯、語碼轉換乃至程式儲存等功能,所以稱之 為硬體 NC。此種 NC 系統早已被軟體化 NC 所取代。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 軟體化 NC 系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "目前的 NC 系統均為 電腦化 NC 系統 (Computerized NC)。工具機上之一切控制程式, 作動機能,都交由微電腦的記憶軟體加以處理執行,故稱之為軟體化 NC 系統。"
+        },
+        {
+          "type": "heading",
+          "text": "二、以伺服系統分類"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 開環式 (Open Loop)"
+        },
+        {
+          "type": "paragraph",
+          "text": "開環式又名開迴路式,如圖 12 - 9 所示,其程式指令傳出之後,沒有回饋裝置將床台 移動資料傳回,無法獲知移動量是否達到輸入之要求,故其精密度較低。尤其在負載變化 大且有干擾情況時,會變成不可靠的系統。此系統之優點在於結構簡單、便宜,如用在負 載恆定的情況下,不失為便宜且簡單的方式。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-9 開環系統"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "258"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 閉環式 (Closed Loop)"
+        },
+        {
+          "type": "paragraph",
+          "text": "閉環式又名閉迴路式,如圖 12 - 10 所示,其程式指令傳出之後,可由床台上的檢出裝 置 ( 轉換器,或稱為 感測器 (Transducer)),將移動量反饋至控制中心,與輸入信號作比較, 若有誤差,再將補正指令傳出。此系統由於有回饋裝置,能自動將誤差補正,精密度自然 大為提高。目前的 CNC 大都採用此種系統。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-10 閉環系統"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-4 數值控制機械的資料媒體"
+        },
+        {
+          "type": "heading",
+          "text": "一、命令的方式"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 的命令方式有點至點式與連續式兩種。 ( 一 ) 點至點式 (Point-to-Point, PTP) 點至點式又稱為定位切削式,這種方式是命令工件或刀具由起點移動至目標點,由於 刀具移動過程並沒有切削作用,所以可不理會其路徑,只要目標點之位置準確即可。這種 控制系統最大之優點是價格低。 PTP 系統對有斜線或曲線切削需要者較不方便,通常只用 於定位加工,例如:鑽床、搪床、沖床、點銲機及攻牙機等。 ( 二 ) 連續式 (Continuous Path Programming, CPP) 連續式又稱為輪廓切削式,這種命令方式是於同一時間同時命令兩軸,各依需要之速 度移動。故其工件或刀具可按照指令的路徑,直接作斜向或曲線的移動,其切削路徑與規 定輪廓極相似。 CPP 系統較適用於有斜線或曲線切削需要之機器,例如:車床、銑床、磨 床、線切割放電加工機 (WEDM)、火焰切割機、切削中心機 (MC) 及繪圖機等。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 259"
+        },
+        {
+          "type": "heading",
+          "text": "二、命令的儲存方式"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 機械之資料輸入方式,在早期是利用打孔、磁性及成音等方式,將資料記錄於孔 帶 ( 或卡片 )、磁性帶或錄音帶上,再由讀取設備來讀取。圖 12-11 所示者為二字碼十進位 的打孔帶。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-11 二字碼十進位孔帶"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "260"
+        },
+        {
+          "type": "paragraph",
+          "text": "目前所生產的 NC 機械皆是由電腦控制之電腦 NC(CNC),其基本架構如圖 12-12 所示。 程式由控制面板直接鍵入,而顯示於顯示器上;亦可由預製好之磁碟直接輸入,極為方便 而快速。以磁碟儲存命令信號就是現今通用的方式。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-12 CNC 系統的一般構架"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-5 CNC 車床程式設計簡介"
+        },
+        {
+          "type": "heading",
+          "text": "一、程式機能"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 12-1 程式機能"
+        },
+        {
+          "type": "heading",
+          "text": "機能 位址 意義"
+        },
+        {
+          "type": "heading",
+          "text": "程式號碼: (ISO)/O(EIA) 程式號碼"
+        },
+        {
+          "type": "heading",
+          "text": "序號 N 序號"
+        },
+        {
+          "type": "heading",
+          "text": "準備機能 G 機能模式指定 ( 如直線等 )"
+        },
+        {
+          "type": "heading",
+          "text": "X, Z, U, W 座標軸移動指令"
+        },
+        {
+          "type": "heading",
+          "text": "尺寸字 R 圓弧半徑,轉角 R"
+        },
+        {
+          "type": "heading",
+          "text": "I, K 圓弧中心座標"
+        },
+        {
+          "type": "heading",
+          "text": "近給機能 F 進給速度指定,螺紋導程指定"
+        },
+        {
+          "type": "heading",
+          "text": "主軸機能 S 主軸速度指定"
+        },
+        {
+          "type": "heading",
+          "text": "刀具機能 T 刀具號碼指定,刀具補正號碼指定"
+        },
+        {
+          "type": "heading",
+          "text": "M 機械 ON/OFF 控制指定"
+        },
+        {
+          "type": "heading",
+          "text": "輔助機能"
+        },
+        {
+          "type": "heading",
+          "text": "C 倒角量"
+        },
+        {
+          "type": "heading",
+          "text": "暫停 P, X, U 暫停時間指定"
+        },
+        {
+          "type": "heading",
+          "text": "程式號碼指定 P 副程式號碼指定"
+        },
+        {
+          "type": "heading",
+          "text": "重複次數 P 副程式重複次數 (0T)"
+        },
+        {
+          "type": "heading",
+          "text": "序號指定 P, Q 程式重複部分之序號指定"
+        },
+        {
+          "type": "paragraph",
+          "text": "04C54106-12.indd 260 2024/11/25 下午 04:59:48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 261"
+        },
+        {
+          "type": "heading",
+          "text": "二、準備機能 (G)"
+        },
+        {
+          "type": "paragraph",
+          "text": "指定刀具動作。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 12-2 準備機能"
+        },
+        {
+          "type": "heading",
+          "text": "標準 G 語碼 組群 機能"
+        },
+        {
+          "type": "heading",
+          "text": "G00 01 定位 ( 快速定位 )"
+        },
+        {
+          "type": "heading",
+          "text": "G01 01 直線切削 ( 進給 )"
+        },
+        {
+          "type": "heading",
+          "text": "G02 01 圓弧切削 ( 順時針 )"
+        },
+        {
+          "type": "heading",
+          "text": "G03 01 圓弧切削 ( 逆時針 )"
+        },
+        {
+          "type": "heading",
+          "text": "G04 00 暫停"
+        },
+        {
+          "type": "heading",
+          "text": "G28 00 原點復歸"
+        },
+        {
+          "type": "heading",
+          "text": "G32 01 螺紋切削"
+        },
+        {
+          "type": "heading",
+          "text": "G40 07 刀鼻半徑補正取消"
+        },
+        {
+          "type": "heading",
+          "text": "G41 07 刀鼻半徑左補正"
+        },
+        {
+          "type": "heading",
+          "text": "G42 07 刀鼻半徑右補正"
+        },
+        {
+          "type": "heading",
+          "text": "G50 00 座標系統設定,最大主軸轉速設定"
+        },
+        {
+          "type": "heading",
+          "text": "G76 00 螺紋切削複循環"
+        },
+        {
+          "type": "heading",
+          "text": "G92 01 螺紋單一切削循環"
+        },
+        {
+          "type": "heading",
+          "text": "G96 02 周速一定控制"
+        },
+        {
+          "type": "heading",
+          "text": "G97 02 周速一定控制取消 ( 轉速一定 )"
+        },
+        {
+          "type": "heading",
+          "text": "G98 05 每分鐘進給率"
+        },
+        {
+          "type": "heading",
+          "text": "G99 05 每轉進給率"
+        },
+        {
+          "type": "heading",
+          "text": "三、進給機能 (F)"
+        },
+        {
+          "type": "paragraph",
+          "text": "每轉進給 ( fr ),每分進給 ( fm ) 及每分轉數 ( N ) 的關係為:"
+        },
+        {
+          "type": "heading",
+          "text": "fm = fr × N"
+        },
+        {
+          "type": "heading",
+          "text": "1. 每分進給: G98F _______ 表 fm = _______ mm/min。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 每轉進給: G99F _______ 表 fr = _______ mm/rev。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "262"
+        },
+        {
+          "type": "heading",
+          "text": "四、主軸機能 (S)"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削速度 ( V ),每分轉數 ( N ) 與工件直徑 ( D ) 的關係為:"
+        },
+        {
+          "type": "heading",
+          "text": "1, 000 V"
+        },
+        {
+          "type": "heading",
+          "text": "N ="
+        },
+        {
+          "type": "heading",
+          "text": "π D"
+        },
+        {
+          "type": "heading",
+          "text": "1. 切削速度固定: G96S _______ 表 V = _______ m/min。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 每分轉數固定: G97S _______ 表 N = _______ rpm。"
+        },
+        {
+          "type": "heading",
+          "text": "五、刀具機能 (T)"
+        },
+        {
+          "type": "heading",
+          "text": "T ×× ××"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "1. 刀具編號: 01 ∼ 16。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 補正編號: 00 ∼ 16。"
+        },
+        {
+          "type": "heading",
+          "text": "六、輔助機能 (M)"
+        },
+        {
+          "type": "paragraph",
+          "text": "主司機械元件的開與關。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 12-3 輔助機能"
+        },
+        {
+          "type": "heading",
+          "text": "M 碼 機能 M 碼 機能"
+        },
+        {
+          "type": "heading",
+          "text": "M00 程式停止 M05 主軸停止"
+        },
+        {
+          "type": "heading",
+          "text": "M01 選擇性之程式停止 M06 自動換刀"
+        },
+        {
+          "type": "heading",
+          "text": "M02 程式結束 M30 程式結束,記憶回原"
+        },
+        {
+          "type": "heading",
+          "text": "M03 主軸正轉 M98 副程式呼叫"
+        },
+        {
+          "type": "heading",
+          "text": "M04 主軸反轉 M99 副程式結束"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 263"
+        },
+        {
+          "type": "paragraph",
+          "text": "以下舉一個車削加工例,如圖 12-13 所示,簡單說明 CNC 車床的加工程式,內容包括 車削端面、外徑、肩角、倒角與錐度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-13 車床加工例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "264"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-6 數值控制的特點"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 機械所加工之產品,品質之可靠性佳,生產變化之適應性良好,但購置之成本偏 高,必須依其特性妥為選用,方能得到最高之經濟效益。茲將最適用於 NC 機械的一些加"
+        },
+        {
+          "type": "heading",
+          "text": "工特性及 NC 機械之優缺點,分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "一、最適用於 NC 機械的一般特性"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工件須經常處理而且數量少。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 工件之幾何形狀複雜。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 在工件加工程序中,要執行很多種操作。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 需要修改工件之設計。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 工件要求公差要小。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 工件很貴重,不允許處理程序錯誤而造成大量之損失。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 工件要求經過 100% 之檢視。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 NC 機械之優點"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 減少非生產時間"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 機械對於基本金屬之切削過程,與一般工作母機相比並無太大之不同,但卻可提 高機器從事真正生產所佔之時間比例;因為使用 NC 機械可以減少工件裝卸的次數及時間, 並可自動換刀。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 減少工模與夾具的用量"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 機械的工件或刀具之定位,是以程式直接指令,不需設計特別的工模 ( 鑽模 ),只 要使用較便宜的通用夾具即可,因此可減少工模與夾具的購置費。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 減少製造的前置時間"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於使用 NC 機械可使工件裝卸時間和次數減少,與普通工作母機相比,其前置時間 約可節省 26 ∼ 44% 之間。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 更強的製造彈性 ( 加工適應性 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 機械以程式控制加工,對於適應工程設計的修改、生產時間的改變和臨時訂單而 改變工作等等事情,並不會造成很大的困擾。"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 增強品質管制"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般工具機對於複雜形狀工件之生產,失敗率偏高。而 NC 機械之刀具路徑可用程式 控制得很精確,對於複雜形狀工件之生產,可確保其品質。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 265"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 減少庫存量"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於使用 NC 機械可以減少非生產時間及製造前置時間,且製造彈性好,產品之製程 時間縮短。故可減少材料及產品的庫存量,減少資金的積壓。"
+        },
+        {
+          "type": "heading",
+          "text": "( 七 ) 刀具壽命增加"
+        },
+        {
+          "type": "paragraph",
+          "text": "程式設計者將最理想的切削條件,輸入控制單元,因此切削所考慮的參數,均在理想 狀況下來進行。此時加工所引起的材料變形與振動,遠比傳統工具機小,所以對刀具的壽 命有顯著的提升。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 NC 機械之缺點"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 機器價格偏高"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 機械代表複雜的技術,這些技術的成本比普通工具機高出很多。由於成本高,所 以需要使用各種製造管理方法,使 NC 機械充分利用,以發揮最大之效益;例如以 2 班或 3 班制的生產方式,來提高 NC 機器的使用率。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 維護費用高"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 是非常複雜的技術, 而且 NC 機械的使用率很高, 所以維護的問題就變得較為重要。 雖然近年來 NC 機械的信賴度已有顯著的提升,但與非 NC 機械相比,其維護費用仍高約 50%。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 需要專業人才"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 機械的操作方式、程式設計與維護技術,均與傳統之工具機不同,需要聘用專業 人員,增加成本的支出。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 對環境的要求較高"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 設備對於環境的溫度、濕度、空氣的品質及振動等,均有一定的限制。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "266"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-7 數值控制的發展與應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "NC 機械於 1952 年由美國麻省理工學院開發成功迄今,短短六十年,已經經過數次革 命性的改變。起初控制裝置之主體為真空管,體積相當龐大,後因電晶體的誕生、積體電 路之發展及電腦之普及等,控制裝置之硬體大為縮小,價格亦逐漸降低;而軟體功能 ( 程 式處理 ) 則越來越強,且程式寫作方式越來越簡單。 最早商業化的 NC 機械是以讀帶機來控制,所佔的空間大,且程式處理能力亦差。 1968 年,電腦首度代替讀帶機,成為 NC 機械的控制者,然由於價格昂貴,體積亦不小, 故 採用一部電腦控制多部機器的方式,以降低成本;這種控制方式,稱之為 直接數值控制 (Directed Numerical Control, DNC),如圖 12 - 14 所示。 1970 年, 電腦數值控制 (Computerized Numerical Control, CNC) 問市,由一部電 腦控制一部機器;發展至今,控制單元已變成機器的一小部分,且直接附著在機器之上, 其程式處理能力很強。 CNC 機械若配置刀具庫與 自動刀具交換器 (Automatic Tool Changer, ATC),即成 為集數種工具機功能於一身的 切削中心機 (Machine Center, MC),一部 MC 即可代替鑽 床、搪床及銑床等之全部工作項目。 MC 之後,工具機再進化為五軸加工機與複合機。 以 NC 機器 ( 包括 CNC 與 MC) 為主,結合機器人、自動輸送裝置與自動倉庫而成 的一套極具彈性的加工系統,名之為 彈性製造系統 (Flexible Manufacturing System, FMS),將 NC 之發展帶入一個嶄新的領域,彈性製造系統具有提高加工設備使用率、適 合中量至小批量生產、以及改善產品品質之優點;以此系統為基礎,而邁向 工廠自動化 (Factory Automation, FA) 及無人化,則是 NC 加工發展的最終目標。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-14 直接數值控制 (DNC)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 267"
+        },
+        {
+          "type": "heading",
+          "text": "12-2 五軸加工機械與車銑複合機"
+        },
+        {
+          "type": "paragraph",
+          "text": "12-2-1 五軸加工機 (5 Axis Machining) 切削中心機 (Machine Center, MC) 就是在 CNC 銑床上配置刀具庫與 自動刀具交換器 (Automatic Tool Changer, ATC),大幅提高工作效能。工件於 MC 上加工時,僅需裝卸一次, 即可在底面除外的另五面上,完成數十道工程之加工。 MC 原則上以二軸加工為主,床台在 X、 Y 二個方向的線性插補運動,作圓弧切削很 方便。如果配合 CAM 軟體,則可以作如圖 12-15(a) 所示的 3 軸向複雜曲面加工。 五軸加工機的五軸是指 3 個直線移動軸 (X 軸, Y 軸和 Z 軸 ) 和 2 個旋轉移動軸 (A 軸、 B 軸和 C 軸中任兩軸 )。 3 個線性軸決定刀具位置, 2 個旋轉軸決定刀具方向, 5 軸可以同 時達到指定位置及方向。 3D 空間中,任意位置的曲面或平面均可加工,無論工件輪廓曲率 如何變化,刀具均能保持與工件表面垂直或特定角度,如圖 12-15(b) 所示。 五軸加工機採用連續式控制,集計算機控制、高性能伺服驅動和精密加工技術於一體, 可加工連續、平滑、複雜的曲面。廣泛應用於航太引擎構件加工、模具加工、渦輪葉片加 工。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-15 曲面加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "五軸加工機設計成立式、臥式與立臥式三種軸向,圖 12-16 所示者為立式五軸加工機。 五軸加工機與一般工具機相較,可大量減少工件搬運及裝卸的時間,減少定位夾具與 工模的用量,減少換刀的時間,避免因更換工具機之重複定位而影響精密度,提高加工質 量和效率,擴大加工範圍,滿足複合化發展新方向。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "268"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 12-16 立式五軸加工機 ( 圖片取自中興電工 ) 12-2-2 車銑複合機 (Turning and Milling Center) 高速高效率、高精度與複合化為國際工具機三大發展趨勢,在這樣的要求下,傳統單 一功能的工具機已經無法滿足需求,複合機的發展乃應運而生。在複合機的發展方面,已 經有車銑複合機、銑磨複合機、車磨複合機、車銑磨複合機與鑽銑複合機等工具機問世, 其中如圖 12-17 所示的車銑複合機是近年來該領域發展最快與應用最廣的的加工方式。 車銑複合機是在車床上,設置了銑削刀具軸,使得車床在原來的切削操作外,再加上 一些銑削的操作。此種工具機的設計主要還是車削,如果是需要大量銑削加工的工件,還 是 MC 或五軸加工機來加工比較合適。 與傳統的加工設備相比較,一台車銑複合機實際上相當於一條包含多部機器、機器人、 與輸送帶的生產線。 與一般的 CNC 車床相比較,車銑複合機具有下列優點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 車、銑在一次裝夾下完成,縮短產品製造程序,提高生產效率。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 減少工件裝夾次數,避免了由於定位基準轉化而導致的誤差累積,提高加工精度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 減少佔地面積和機器設備,降低生產成本。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 12-17 車銑複合機 ( 圖片取自中興電工 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 269"
+        },
+        {
+          "type": "heading",
+          "text": "12-3 生產自動化"
+        },
+        {
+          "type": "heading",
+          "text": "12-3-1 自動化的定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂 自動化 (Automation),廣義的說,是指不用人力,而利用動物以外的能源,來執 行人類希望完成的工作。換言之,自動化是以機械、油壓、電力及汽力之設計,來替代 人為之勞力與決策的現象。因此,自動化的定義可說是綜合 電腦 (Computer)、應用 軟體 (Software)、 感測器 (Sensor) 及控制與通訊技術,以操作機械取代人力或節省人工。"
+        },
+        {
+          "type": "heading",
+          "text": "自動化的目的如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 減少直接人工成本"
+        },
+        {
+          "type": "paragraph",
+          "text": "這一項是自動化的主要目的。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 保證產品的品質"
+        },
+        {
+          "type": "paragraph",
+          "text": "減少操作人員因疲勞、疏忽與其他人為的缺點所造成的產品不良率。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 安全"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動化能減少工業意外傷害。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 提高 工廠效率 (Shop Efficiency)"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用裝載機、卸載機、進給機、自動檢驗機及其他自動裝置等,零件從一部機 器送至另一部機器的分配更有效率。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 使人類有更多時間從事有益於身心健康的休閒活動。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 產品多樣化、產品零件標準化與提高作業環境安全。"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動化的主要內容如圖 12 - 18 所示,包括: 生產自動化 (Production Automation, PA)、 設 計 自 動 化 (Design Automation, DA)、 辦 公 室 自 動 化 (Office Automation, OA)、 實 驗 室 ( 程 序 ) 自 動 化 (Laboratory Automation, LA)、 家 庭 自 動 化 (Home Automation, HA) 與 服務自動化 (Service Automation, SA) 等六大類,其中又以生產 自動化對國家社會經濟影響最大。本單元僅簡介生產自動化。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "270"
+        },
+        {
+          "type": "heading",
+          "text": "辦公室自動化 ( OA )"
+        },
+        {
+          "type": "heading",
+          "text": "生產自動化 ( PA )"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 12-18"
+        },
+        {
+          "type": "heading",
+          "text": "電腦"
+        },
+        {
+          "type": "heading",
+          "text": "自動化"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "程序 ( 實驗室 ) 自動亻匕 ( LA )"
+        },
+        {
+          "type": "heading",
+          "text": "設計自動亻匕 ( DA )"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動化的内容 ( 取材自參考書目 ( 20 ) )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 271"
+        },
+        {
+          "type": "heading",
+          "text": "12-3-2 應用於自動化的元件及設備"
+        },
+        {
+          "type": "heading",
+          "text": "一、傳統機械"
+        },
+        {
+          "type": "heading",
+          "text": "1. 凸輪:"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 12-19 所示,原動件以迴轉運"
+        },
+        {
+          "type": "paragraph",
+          "text": "動驅動從動件作往復運動。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 齒輪及齒輪系。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 滾珠導螺桿。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 無段變速運動機構:"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 12-20 所示,利用圓錐形摩擦"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪產生不同的轉速。當變速軸往 A 方"
+        },
+        {
+          "type": "heading",
+          "text": "向調整時,從動軸的轉速加快,往 B"
+        },
+        {
+          "type": "paragraph",
+          "text": "方向調整則轉速減慢。 ▲ 圖 12-19 板形凸輪 ( 取材自參考書目 (20))"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 12-20 無段變速機構 ( 取材自參考書目 (20))"
+        },
+        {
+          "type": "heading",
+          "text": "二、油壓與氣壓"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用油壓與氣壓為動力,可輕易地使傳統手動、腳動的工作變為半自動的省力化,或 會自動的高速化與精確化,甚至達到無人化的境界。"
+        },
+        {
+          "type": "heading",
+          "text": "三、積體電路 (IC)"
+        },
+        {
+          "type": "paragraph",
+          "text": "積體電路 (Integrated Circuit) 是將兩個或兩個以上的電路元件 ( 如電晶體、二極體、電 阻及電容等 ),積集在一基板上而成一單位元件,為自動化不可或缺的利器。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "272"
+        },
+        {
+          "type": "heading",
+          "text": "四、電腦"
+        },
+        {
+          "type": "paragraph",
+          "text": "電腦的超強計算、記憶功能,使自動化更具加工彈性。"
+        },
+        {
+          "type": "heading",
+          "text": "12-3-3 彈性整合製造系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈性整合製造系統如圖 12-21 所示,是以批量加工為主的生產系統,一般由 CNC 工 具機及自動搬運裝置所構成,並應用電腦控制及管理技術將全部生產活動結合成一體的系 統。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 12-21 彈性整合製造系統 ( 取材自參考書目 (20))"
+        },
+        {
+          "type": "heading",
+          "text": "彈性整合製造系統所利用到的技術包括:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 電腦輔助設計 (Computer Aided Design, CAD)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 電腦輔助製造 (Computer Aided Manufacturing, CAM)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電腦整合製造 (Computer Integrated Manufacturing, CIM)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 群組技術 (Group Technology, GT)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 適應控制 (Adaptive Control, AC)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 無人搬運車 (Automated Guided Vehicle, AGV)。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 機器人 (Robot)。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 自動倉儲 (Automated Warehouse)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 273"
+        },
+        {
+          "type": "heading",
+          "text": "一、電腦輔助設計 (CAD)"
+        },
+        {
+          "type": "paragraph",
+          "text": "CAD 乃應用電腦繪圖設備、繪圖軟體及其他工程應用軟體等,來進行設計、創造與修 改產品及工作圖,以提高設計的效率,並擴大工作成效。 CAD 可協助設計者在產品未製造 前,先設計、模擬、分析並測試其特性與品質,大大地縮短產品初次設計時的嘗試錯誤期。"
+        },
+        {
+          "type": "heading",
+          "text": "二、電腦輔助製造 (CAM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "以 CAD 設計所得的工作圖,經選定刀具、決定刀具路徑、設定切削深度、進給量與 設定座標點等參數後,即可利用其軟體功能,自動轉換成 CNC 機器的加工程式,稱之為 CAM。 時下的 CAM 事實上已涵蓋 CAD 的功能。"
+        },
+        {
+          "type": "heading",
+          "text": "三、電腦整合製造 (CIM)"
+        },
+        {
+          "type": "paragraph",
+          "text": "CIM 乃是以電腦為工具,藉著電腦網路,將所有自動化設備,以資料庫為中心,結合 成一整體且完整的自動化生產系統。"
+        },
+        {
+          "type": "heading",
+          "text": "四、群組技術 (GT)"
+        },
+        {
+          "type": "paragraph",
+          "text": "GT 就是以一套數字編碼系統,將零件依幾何外形的相似性,及製程特性的相同性予 以分類為零件族群。並將機器各別的功能,依工件族群組合成機器族群,以期簡化管理、 縮短工時、提高品質與生產力,使批量生產也可獲得與大量生產相似的經濟效益的技術。"
+        },
+        {
+          "type": "heading",
+          "text": "五、適應控制 (AC)"
+        },
+        {
+          "type": "paragraph",
+          "text": "AC 是在切削過程中,利用感測器探測切削力、扭矩、溫度、刀具損耗率及表面粗糙 度等操作變數,藉著調整每分鐘的轉速、進給,或切削深度等,做為因應之道,而將製造 加工即時依設定範圍調整在最佳化的工作狀態。 AC 的線上偵測及即時調整,可大為提高 生產效率,並減少刀具的損壞。"
+        },
+        {
+          "type": "heading",
+          "text": "六、無人搬運車 (AGV)"
+        },
+        {
+          "type": "paragraph",
+          "text": "AGV 如圖 12-22 所示,乃是利用聲光、電磁、紅外線⋯等自導引設備的無人駕駛搬運 車。 AGV 用於搬運量小、距離長,且工作站數目很多時,比輸送帶、堆高機或人工搬運更 合乎經濟原則。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "274"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-22 各種不同之 AGV 型式"
+        },
+        {
+          "type": "heading",
+          "text": "七、機器人"
+        },
+        {
+          "type": "paragraph",
+          "text": "機器人如圖 12-23 所示,是一種可程式化的多種機能操作臂,由可變程式的運動來完 成移動材料、零件及工具等任務。機器人可以取代人力,做人類所不能做的工作,且能處 於惡劣、危險的環境下,永不倦怠,同時具有強大的負荷能力與高度的可靠性,所以應用 範圍日益擴大。"
+        },
+        {
+          "type": "heading",
+          "text": "八、自動倉儲"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動倉儲乃是一種結合儲存設備與控制技術,能自動儲存或提取物料並記錄的倉庫, 它結合了機械、 電子、 電機及電腦管理科技, 使物料儲存立體化、 自動化、 省時化、 省力化, 以達到物料存取快速、有效及精確之目的。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 12-23 機器人 ( 圖片取自艾波比公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 275"
+        },
+        {
+          "type": "heading",
+          "text": "12-4 智慧製造與先進技術"
+        },
+        {
+          "type": "paragraph",
+          "text": "12-4-1 智慧製造 (Smart Manufacturing) 近代人類歷經三次工業革命,進入第四次革命 ( 工業 4.0)。工業 1.0 的主軸是機械化、 工業 2.0 是電氣化、工業 3.0 是資訊化與自動化、工業 4.0 是智慧化。工業 4.0 活用大數據 讓工廠效率大幅提升。 工業 4.0 一詞最早由德國於 2013 年正式於漢諾威工業博覽會中提出,並收納於德國政 府推出的《高技術戰略 2020 》。繼德國之後,英國提出了「英國製造 2050 」的概念,美 國提出「工業互聯網」,中國對應的是「中國製造 2025 」,日本則是「機器人新戰略」。 智慧製造如圖 12-24 所示,是將物聯網技術融入製造,藉以降低勞力成本,迎接未來 的挑戰。核心概念是利用虛實整合系統,將製造業、甚至整個產業供應鏈互聯網化。讓工 業、工業產品和服務全面交叉滲透,借助系統、互聯網和其他網路上實現產品及服務的網 絡化。大數據構成新一代智能工廠,由智慧設備進行分析、決策、調整控制並繼續開展智 慧生產,產出高品質的客製化產品,實現生產智慧化、設備智慧化、能源管理智慧化、供 應鏈管理智慧化的目標。 當產品上市後,消費者使用時如果有任何意見反映,可以從生產領域去追蹤該產品出 現的問題,是在時麼時候,在哪一個工廠的哪個生產線的哪個設備上發生的,當時的生產 條件又是如何,而將這些資訊有效地串連。透過上述的模式,智慧製造能確實達到管理更 及時、品質更提高,而使客戶更滿意,為企業帶來強力的競爭力。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-24 智慧製造"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "276"
+        },
+        {
+          "type": "paragraph",
+          "text": "12-4-2 先進技術 (Advaced Technology) 進入第四次工業革命後,各種先進技術不斷推出,以下選擇幾項簡介。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 人因工程 (Human-factors Engineering)"
+        },
+        {
+          "type": "paragraph",
+          "text": "人因工程又稱為 人體工學 (Ergonomics),是研究人和機器、環境的相互作用及其合理 結合,使設計的機器和環境系統適合人的生理及心理等特點,達到在生產中提高效率、安 全、健康和舒適目的的一門科學。"
+        },
+        {
+          "type": "heading",
+          "text": "人因工程有兩個主要目標:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 使工作的品質及效率最大化。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 使人類的價值最大化。"
+        },
+        {
+          "type": "paragraph",
+          "text": "換言之,就是要使操作者擁有即安全、舒適、滿意,又能使疲勞及壓力降至最低的工 作狀態。所以,人因工程涉及人類生理、心理各方面的特性與能力的知識應用;這些特性 與能力包含身高、體重、姿勢、力量、視覺、聽覺、年齡、智力、教育水準與反應時間等。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 人工智慧 (Artificial Intelligence, AI)"
+        },
+        {
+          "type": "paragraph",
+          "text": "人工智慧、基因工程與奈米科學並稱為 21 世紀三大尖端技術。人工智慧顧名思義就 是人造的智慧,是將大量的人類知識及經驗儲存在電腦的資料庫中,配合軟體程式,可展 現與人類智慧有關的學習、推理、問題解決與語言了解的一種電腦科技。在台灣以外的其 他亞洲國家,大都稱之為人工智能。 人工智慧有兩條發展路徑:第一種是傳統路徑,以類比人類大腦的方式來建構人工智 慧系統,經過半世紀來進步緩慢;第二種是以大數據及深度學習演算法為基礎的人工智慧 系統,充分利用機器本身最強大的計算能力與數理處理能力的優勢來進行機器學習,這條 路徑是目前谷歌、臉書、微軟、亞馬遜、百度、 IBM 等科技巨頭所走的路徑。 1997 年, IBM 研製的「深藍」擊敗國際象棋大師卡斯帕羅夫,經過 20 年,谷歌推出的「 AlphaGo 」 打敗圍棋冠軍柯潔,都並不是依靠邏輯及對人腦的模仿能力,而是依靠超強的計算能力。 人工智慧的應用領域很廣,如圖 12-25 所示,包括:智慧製造-在控制、機械、工業 工程方面與機器人結合;智慧生科-人類基因圖譜的完成與生物科技所需的資料解碼、分 類等;智慧管理-在企管、財經等管理科學上決策模式的研究;智慧醫療-醫學上診斷模 式的研究;智慧社科-在經濟、政治等社會科學方面用來建構社會互動的理論模型;智慧 科學-在心理學及認知科學方面,用來模擬人類的行為,以驗證理論的正確性。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 277"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-25 人工智慧領域"
+        },
+        {
+          "type": "heading",
+          "text": "三、 奈米技術 (Nanotechnology)"
+        },
+        {
+          "type": "paragraph",
+          "text": "介紹奈米科技之前要先了解什麼是奈米。 ( 十億分之一 ) 的英文名稱為 Nano,以英文"
+        },
+        {
+          "type": "heading",
+          "text": "− 9 − 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "字母 n 為代號,所以 nm 就是 10 m,讀為奈米;如果寫成 10 μ m,也可以讀為毫微米。 一奈米大概是原子的十倍大,一奈米與一米大小的比就好像乒乓球與地球的大小比例。圖"
+        },
+        {
+          "type": "heading",
+          "text": "− 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "12-26 表示奈米尺度的示意圖,由圖示可知原子的大小約為 10 nm,人類的 DNA 大約 2 nm。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-26 奈米尺度示意圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "根據美國政府所公佈的嚴格定義,奈米科技指的是控制長寬高至少有一邊小於 100nm 的物質結構和功能的相關技術。 當微粒尺度與光波的波長接近時會產生小尺度效應,導致微粒的聲、光、電、磁、熱 與力學等特性改變。 例如, 光吸收顯著增加; 磁有序態變為磁無序態; 超導相變為正常相等。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "278"
+        },
+        {
+          "type": "paragraph",
+          "text": "另外由於微粒的尺度小則表面積大,表面能高,位於表面的原子所佔的比例大增,因 而活性極高,極不穩定而容易氧化燃燒,而且容易與其他原子結合,產生一些新的物性。 奈米尺度下的材料會展現許多與目前認知不同的特性和功能,以下列出數個實例說明 之 ( 取材自五南出版社 ‧ 尹邦耀著 ‧ 奈米時代 ):"
+        },
+        {
+          "type": "heading",
+          "text": "1. 普通塊狀銅的熔點為 1085 °C,而 20 nm 奈米銅的熔點降為 39 °C。"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "2. 10 nm 大小的奈米陶瓷粉末的燒結速度為 10 μ m 粉末的 10 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 常規的氧化鋁粉末燒結溫度高達 1800 °C,但奈米微粒的燒結溫度可降至 1150 °C,"
+        },
+        {
+          "type": "paragraph",
+          "text": "且燒結後之密度可高達 99.7%。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 奈米晶體銅的強度是普通銅的 5 倍;作冷滾軋時會出現超塑性,延伸率提高 50 倍,"
+        },
+        {
+          "type": "paragraph",
+          "text": "而且不會產生應變硬化。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 普通陶瓷質硬而脆,但是奈米陶瓷在室溫下就具有可塑性。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 在高分子材料中加入奈米微粒材料所作成的切削刀具,比鑽石還堅硬。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 將 3% 的氧化鈦奈米微粒加入環氧樹脂中,抗衝擊韌性增加 8 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 普通金屬通常是電的良導體,但是奈米金屬微粒卻趨向電中性,例如奈米銅就不導"
+        },
+        {
+          "type": "paragraph",
+          "text": "電。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 鐵磁性物質達到奈米尺度時會出現極強的順磁性,奈米鐵的磁化率是常規鐵的 20"
+        },
+        {
+          "type": "paragraph",
+          "text": "倍。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 奈米矽在靠近可見光的範圍內,會產生發光的現象。"
+        },
+        {
+          "type": "paragraph",
+          "text": "以奈米技術製造而成的石墨烯是目前世上最薄、最堅硬的奈米材料。是由碳原子組成 的六角型呈蜂巢晶格的二維平面薄膜,單層厚度只有 0.334 奈米。可用在複合材料、儲能 電池、觸控式螢幕、顯示器、半導體、感測器⋯等領域。用矽材料製造的積體電路電晶體, 晶片線寬小於 7 奈米時,穩定度明顯下降,且成本大幅提升。石墨烯比晶體矽有更好的導 電性及導熱性,效率可比矽高 100 倍,更有利於 7 奈米以下的製程,可望成為未來微型積 體電路的新型材料。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 279"
+        },
+        {
+          "type": "heading",
+          "text": "四、 微機電系統 (Micro Electro Mechanical System, MEMS)"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於半導體製程技術的成熟,以此製程技術為基礎而發展出微機電系統。微機電系統 所涵蓋的尺度從數厘米至奈米。前述的半導體製程所製造的是靜態的晶粒,而微機電所生 產的是能作動的微小化機器或機構。 微機電系統的三個主要元件是微致動器,微感測器與積體電路。以微流量控制系統為 例,當微感測器檢測到系統之流量改變時所產生之壓力或速度變化數據時,可將此訊號回 傳給積體電路,經分析運算後作出決定而送出控制訊號給微致動器,對管路中的控制閥進 行開關或調整,使流量達到設定的數值。三個元件通常經由封裝而結合成一個系統。 微機電系統最主要的特徵就是微小化,微小化的第一個優點是可以使用在高精確度與 高穩定度的機構中,例如硬碟讀取頭的驅動系統。第二個優點是可以將多個相同的元件製 作在一個小區域內,藉以提升功能,例如紅外線偵測陣列。第三個優點則是具備批量生產 的能力,可以有效的降低生產成本,提升競爭力。 微機電的微小化途徑有四個。第一個方法是沿用半導體製程,將不同功能的元件整合 製作在一個晶粒上。第二個方法是利用電子束、雷射束或離子束等能量束進行切割或刻痕 加工。第三個方法是以微放電加工的熱來移除微量材料。第四個方法是 LIGA 製程, 利用 微影、電鑄與射出成形製作微米尺度的精密模具。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "280"
+        },
+        {
+          "type": "paragraph",
+          "text": "LIGA 為德文光刻、電鑄與模造字首之縮寫,如圖 12-27 所示。如同上一單元之 IC 製 程所述,基板加光阻劑再以製作好之光罩作圖案曝光 ( 圖 (a)) 與顯影 ( 圖 (b)),其次將基板 置入電解槽中接陰極作電鑄 ( 圖 (c)),待電鑄層達所需厚度即與基板脫離而得微細結構的 機件 ( 圖 (d)),若要以此機件當模具製作陰陽形狀相反的機件,可將塑膠注入模穴內 ( 圖 (e)),移除模具 ( 圖 (f)),以此塑膠結構當模子再作一次電鑄 ( 圖 (g)) 即可。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 12-27 LIGA 製程 ( 取材自參考書目 (2))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 281"
+        },
+        {
+          "type": "heading",
+          "text": "五、 半導體 (Semiconductor) 製造"
+        },
+        {
+          "type": "paragraph",
+          "text": "根據大不列顛百科全書的定義,所謂半導體就是導電能力介於導電體與絕緣體之間的 物體。自導半導體 ( 本質半導體 ) 中,由於電子無法在固體內自由運動,所以導電性並不好。 為了提高導電能力,可摻入適當的雜質原子就變成他導半導體 ( 外賦半導體 )。他導半導體 用於電晶體和為不同目的而使用小電流的有關電子零件。 元素矽是最常見的半導體實例。每個矽有四個外層電子,它與鄰近的原子相吸,電子 不能在固體中自由運動,所以純的矽是電的不良導體。如果選用有五個外層電子的銻或磷 原子作為雜質取代一些矽原子,它的第五個電子就不再用來成鍵而受拘束,所以可以在固 體中自由運動,是為 n 型半導體。若摻雜具有三個外層電子的硼或鎵,由於比矽少一個外 層電子,當他們取代某些矽原子時,就會從鄰近的矽原子擄獲一個電子而形成電洞。電洞 相當於一個帶正電的粒子,這個電洞的存在也增加了矽的導電能力,是為 p 型半導體。 製造半導體時,首先以種晶浸入矽熔液中,一面旋轉一面往上抽,拉出晶柱。晶柱以 鑽石磨輪將外徑磨削準確後,依需要將晶柱切成厚度約 0.1 ∼ 0.5 mm 的晶圓。晶圓切割下 來之後必須用 化學機械拋光 (Chemical Mechanical Polishing, CMP) 法將切割刀痕完全磨除 至表面光亮如鏡。接著進行如圖 12-28 所示之製程:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 薄膜沉積 (Film Deposition) 或 氧化 (Oxidation)"
+        },
+        {
+          "type": "paragraph",
+          "text": "薄膜沉積是以 化學氣相沉積法 (Chemical Vapor Deposition, CVD) 在晶圓上面 沉積一層二氧化矽、氮化矽、多晶矽或導電金屬,以便在此沉積層上製造電路元件。 氧化法是利用氧與矽高度的親和力,在高溫下令氧氣直接與矽晶圓產生氧化反 應而在基板上生成二氧化矽 (SiO 2 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 微影 (Lithography)"
+        },
+        {
+          "type": "paragraph",
+          "text": "微影就是經由 光罩 (Mask) 將元件的幾何圖案傳遞到晶圓表面的製程。在晶圓 上塗一層對光敏感的 光阻液 (Photo-resist, PR),然後在光罩上方照射紫外光 (UV), 光阻受到曝光的區域即可以顯影劑脫除,將光罩上圖案複製在 PR 層上。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 蝕刻 (Etching)"
+        },
+        {
+          "type": "paragraph",
+          "text": "蝕刻是將晶圓上未受光阻保護的沉積或氧化薄膜除去的製程,可分為濕式蝕刻 與乾式蝕刻。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 摻雜 (Doping)"
+        },
+        {
+          "type": "paragraph",
+          "text": "蝕刻之後接下來要在不受保護的矽基板上加入適當的摻雜原子以便產生 n 型或 p 型外賦半導體。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "282"
+        },
+        {
+          "type": "heading",
+          "text": "5. 金屬化與測試 (Metallization and Testing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "由上述製程所製造之電路元件必須以低電阻且與絕緣的二氧化矽層有良好附著 力之金屬導線 ( 鋁或鎢 ) 作內部連接,才能使積體電路發揮正常的功能。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 連接與封裝 (Bonding and Packaging)"
+        },
+        {
+          "type": "paragraph",
+          "text": "晶粒製造完成後為確保使用的可靠度,必須以環氧樹脂進行封裝,以便與外部 導線連接並隔絕外在環境的影響。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-28 半導體製程"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch12/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 電腦輔助製造 283"
+        },
+        {
+          "type": "heading",
+          "text": "12-5 機械製造之展望"
+        },
+        {
+          "type": "paragraph",
+          "text": "早期的機械製造是由設計工程師依其原始構想將產品的形狀設計出來,再交給製造工 程師將此設計的構想化為實際的產品。製造工程師的任務就是選用適當的加工設備與製程 將產品以最經濟、最快速的方法製造出來。只需要考慮到人、機器與原料間的關係,其想 法是單純的。二十一世紀的機械製造已經不再是單純的人與機器的互動,而必須與相關的 領域作縱向與橫的連結。以下就這種趨勢提出幾個觀點:"
+        },
+        {
+          "type": "heading",
+          "text": "一、機械製造必須與設計結合"
+        },
+        {
+          "type": "paragraph",
+          "text": "設計工程師從事設計時若與外界隔絕,與製造工程師欠缺溝通,則閉門造車的結果所 設計的產品會與實際需要有落差,同時也會因為不易選用低價製程而增加成本。現今的設 計與製造必須結合為 同步工程 (Concurrent Engineering),也就是製造與設計是同時發生的, 在設計的時候就必須考慮到製造,而在製造時發現問題又可以立即更改設計。當然這必須 利用電腦技術才能順利進行。"
+        },
+        {
+          "type": "heading",
+          "text": "二、機械製造必須與管理結合"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳統的製造模式是加工後再作量測與檢驗進行品管,這種模式在發現缺陷到解決問題 之前會繼續製造許多廢品造成更多浪費。現在的製造則可藉著彈性製造系統、電腦整合製 造與適應控制等進行 全面的品質管制 (Total Quality Control),也就是從進料開始到產品製 造出來的每一流程都作品管,發現問題立即修正。"
+        },
+        {
+          "type": "heading",
+          "text": "三、機械製造必須善用電腦科技"
+        },
+        {
+          "type": "paragraph",
+          "text": "以電腦控制機械可減少人為的錯誤、增加製造彈性與方便大量資料的儲存,所以現代 的機械製造必須善用電腦科技才會有競爭力。"
+        },
+        {
+          "type": "heading",
+          "text": "四、機械製造必須機電整合"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械用於加工,電機用於控制。早年學機械的可以不懂電機,學電機的可以不懂機械, 現代則必須將兩者合而為一。"
+        },
+        {
+          "type": "heading",
+          "text": "相關知識"
+        },
+        {
+          "type": "paragraph",
+          "text": "因為低成本、高性能的電腦系統與日俱增,以及先進軟體的發展,已經令工廠規模之製造系統可以進 行模擬工作,進一步可以達成製造與組裝作業的最佳化。 例如 Delmia 公司所出產的 Envision 軟體可以進行 3D 製造程序之模擬 ( 包括人體模擬 ),以確定操作 危險性、製造問題或瓶頸;增進工作精度;或切削組織之最佳化。因為可以在建置組裝線之前先進行 模擬工作,這樣可以大大地降低發展時間與成本。例如在汽車工廠中利用機器人銲接生產線的模擬, 其中機器人與汽車間的碰撞將被偵測出來,可以在生產線正式操作前修改程式以避免這樣的碰撞。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "一、數值控制機械"
+        },
+        {
+          "type": "heading",
+          "text": "1. CNC 機器的構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 夾頭: CNC 車床採用中空式油壓夾頭,可利用自動送料方式加工圓棒。 (2) 變速箱及主軸馬達:主軸馬達採用高馬力的伺服馬達,可行周速一定的無段 變速功能。 (3) CNC 車床之床台:大都設計成傾斜式。 (4) 滾珠導螺桿: CNC 車床的定位精度依靠滾珠導螺桿的精密度來維持。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 座標系與運動軸"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 直角座標"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 令右手之拇指、食指及中指互成直角,分別指向+ X、+ Y 及+ Z。三 個迴轉軸 A、 B 及 C 分別繞 X、 Y 及 Z 三軸。 2 X 軸用於長方向的運動軸, 如銑床的床台方向; Y 軸用於短方向的運動軸, 如銑床的床鞍方向; Z 軸為平行於主軸方向的運動軸,如立式銑床的床 架升降方向。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 絕對值與增量值"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 絕對值:在絕對值指令方式裡,刀具移動之各點均以座標軸設定之原點 為基準,移動至指令點,其軸向以 X、 Z 表示。 2 增量值:在增量值指令方式裡,刀具從現在位置移至下一指令點之位置, 係以現在位置為基準,移動至指令點,其軸向以 U、 W 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 控制系統元件"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 硬體 NC 系統:早期讀帶式的 NC。 (2) 軟體化 NC 系統:電腦化 NC 系統 (Computer NC)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 伺服系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 開環式:程式指令傳出之後,沒有回饋裝置將床台移動資料傳回,無法獲知 移動量是否達到輸入之要求,故其精密度較低。 (2) 閉環式:程式指令傳出之後,可由床台上的檢出裝置,將移動量反饋至控制 中心,與輸入信號作比較,若有誤差,再將補正指令傳出。此系統由於有回 饋裝置,能自動將誤差補正,精密度自然大為提高。目前的 CNC 大都使用 此種系統。"
+        },
+        {
+          "type": "heading",
+          "text": "284"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

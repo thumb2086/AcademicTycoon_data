@@ -1,0 +1,6417 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_LOWER_CH14",
+  "subject": "技術型高中機械群機件原理下冊_PPT",
+  "chapter": {
+    "code": "CH14",
+    "title": "14_連桿機構"
+  },
+  "title": "技術型高中機械群機件原理下冊_PPT 14 CHAPTER 資源",
+  "source_pdf": "machine_elements_lower_ppt/14_連桿機構.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "資源"
+        },
+        {
+          "type": "heading",
+          "text": "本內"
+        },
+        {
+          "type": "heading",
+          "text": "簡容"
+        },
+        {
+          "type": "heading",
+          "text": "學華"
+        },
+        {
+          "type": "heading",
+          "text": "校興"
+        },
+        {
+          "type": "heading",
+          "text": "之冊"
+        },
+        {
+          "type": "heading",
+          "text": "報來"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "14-1 連 桿 機 構"
+        },
+        {
+          "type": "heading",
+          "text": "14-1 連桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "14-2 連 桿 機 構 的 種 類 及 應 用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "14-2 連桿機構的種類及應用 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "14-3 近 似 直 線 運 動 機 構 數"
+        },
+        {
+          "type": "heading",
+          "text": "14-3 近似直線運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "14-1 連桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "由多個連桿所組成的一種運動連鎖系統,則稱為「連桿組」 ( linkage ) 或「連桿裝置」,亦可稱為「運動鏈」。 主動件與從動件之間,以連桿作為連接機件,用以傳達運動之 裝置,稱為「連桿機構」。最基本的連桿機構至少需由四個連 桿組成,各連桿間才能產生預期之相對運動,則稱此機構為 「四連桿機構」。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "140"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "一、連桿機構各部名稱 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "140"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-1 四連桿機構之各部名稱"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "1. 曲柄 ( crank ):能繞固定軸作 360 ° 旋轉運動之連桿。 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "2. 搖桿 ( rocker ):僅能繞固定軸作一定角度搖擺運動之連桿。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 浮桿 ( floating link ):又稱連接桿 ( connecting rod ),用來連"
+        },
+        {
+          "type": "paragraph",
+          "text": "接主動桿與從動桿,以傳達相互運動之連桿。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 連心線 ( line of center ):又稱固定桿 ( fixed link ),或稱機架"
+        },
+        {
+          "type": "paragraph",
+          "text": "( frame ),用以支持或限制各機件連動之機件,或兩固定銷 中心不作任何運動之連線部分。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "5. 滑塊 ( slide block ):在滑槽中作滑動之機件。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "141"
+        },
+        {
+          "type": "heading",
+          "text": "6. 滑槽 ( slide way ):又稱導路 ( guide way ),用以引導或限制"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑塊運動之固定件。"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "二、連桿機構之死點 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "四連桿機構中,接受動力輸入而先作動的連桿,稱為主動桿; 受主動桿影響產生動力輸出而後動的連桿,稱為從動桿。 如圖 14-2 所示之四連桿機構,若搖桿 CD (或滑塊)為主動桿 (件),曲柄 AB 為從動桿,則當從動曲柄 AB 與浮桿 BC 成一直 線時,由浮桿 BC 所傳達之推力或拉力會直接通過曲柄的軸心, 而無法驅動曲柄旋轉,則此位置即稱為死點 ( dead point ) 或靜"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "點 ( stationary point )。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "141"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "上死點"
+        },
+        {
+          "type": "heading",
+          "text": "滑塊"
+        },
+        {
+          "type": "heading",
+          "text": "右死點"
+        },
+        {
+          "type": "heading",
+          "text": "左死點"
+        },
+        {
+          "type": "heading",
+          "text": "2 \\ \\"
+        },
+        {
+          "type": "heading",
+          "text": "下死點"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 曲柄搖桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 曲柄滑塊機構"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-2 四連桿機構之死點"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "消除死點的方法有: 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 加裝飛輪,利用飛輪儲有之慣性力來消除;"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 聯合兩組連桿機構一起運作。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "三、四連桿機構之基本型態 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "四連桿機構之基本型態可分為「曲柄搖桿機構」、「雙曲柄機 構」及「雙搖桿機構」三種,而欲構成四連桿機構之必要條件 為:最長連桿之長度必須小於其餘三個連桿長度之總和。 四連桿機構之基本型態可藉由葛氏 ( Grashoff ) 定理加以分類,"
+        },
+        {
+          "type": "heading",
+          "text": "其判別條件說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "1. 如圖 14-3(a) 所示,當最長連桿與最短連桿之長度和小於或等 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "於其他兩連桿之長度和時,若固定桿不同,將會形成下列三 構 種不同型態。 (1) 若固定桿為最短桿之對偶桿,則會形成「曲柄搖桿機構 」。 (2) 若固定桿為最短桿,則會形成「雙曲柄機構」。 (3) 若固定桿為浮桿,則會形成「雙搖桿機構」。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 當最長連桿與最短連桿之長度和大於其他兩連桿之長度和時,"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "則任何一桿固定,均會形成「雙搖桿機構」。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "連桿 4"
+        },
+        {
+          "type": "heading",
+          "text": "連桿 4"
+        },
+        {
+          "type": "heading",
+          "text": "B"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 各連桿長示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 曲柄搖桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 曲柄搖桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "連桿 4"
+        },
+        {
+          "type": "heading",
+          "text": "連桿 4"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "(D) 雙曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "(e) 雙搖桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-3 四連桿機構之基本型態"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "14-2 連桿機構的種類及應用"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "連桿機構的種類繁多,且應用的範圍很廣泛。應用於機械中之"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "連桿機構大都以四連桿機構為主體,發展出各種不同類型,以 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "應用在各種不同場所。 應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "143"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "一、基本型態之四連桿機構 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 曲柄搖桿機構 ( crank and rocker mechanism ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "AD 桿固定, AB 桿可繞固定 A 軸作 360 ° 旋轉,而 CD 桿只能以固"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "paragraph",
+          "text": "定 D 軸作往復擺動運動者,即稱此機構為「曲柄搖桿機構」,"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "而 AB 桿謂之曲柄, CD 桿謂之搖桿, BC 桿謂之浮桿, AD 桿則 謂之固定桿。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "143"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-4 曲柄搖桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "欲構成曲柄搖桿機構,其各桿長間必符合下列不等式之條件: 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "1. AB < CD (曲柄長度需小於搖桿長度)。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "2. AB + BC – CD < AD (由右死點構成之 △ AC D 得知)。 類"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "3. BC – AB + CD > AD (由左死點構成之 △ AC D 得知)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "143"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "曲柄搖桿機構在機械上之應用頗為廣泛,茲舉例如下: 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "1. 人騎腳踏車"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "腳踏板 AB 為曲柄,小腿 BC 為浮桿,大腿 CD 為搖桿, AD 之連 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "線則為固定桿。 應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "144"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-5 人騎腳踏車"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "2. 腳踏式縫紉機 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "繩輪 AB 為曲柄,連桿 BC 為浮桿,"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "踏板 CD 為搖桿,而機架上之 AD"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "連線則為固定桿。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "144"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-6 腳踏式縫紉機"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "3. 攪拌機 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "AB 為曲柄, BC 為浮桿, CD 為搖桿。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "145"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-7 攪拌機"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 雙曲柄機構 ( double crank mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "AB 桿為固定且為最短桿, BC 及 AD 桿同時可分別繞固定軸 A、"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "B 作 360 ° 旋轉運動者,即稱此機構為「雙曲柄機構」,而 BC 及"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "AD 桿皆謂之曲柄, AB 桿謂之固定桿, CD 桿則謂之浮桿,通常"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱牽桿 ( drag link ),故又稱「牽桿機構」 ( drag link mechanism )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "145"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "145"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-8 雙曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "此機構傳動時無死點發生,但為使曲柄能作全周之迴轉,其各 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "桿長間必符合下列不等式之條件: 構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "1. AB < BC、 CD、 AD (固定桿長度必為最短)。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "2. BC + CD > AB + AD (由構成之 △ BC D 得知)。 應"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "3. AD – AB < BC + CD (由構成之 △ BC D 得知)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "145"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般雙曲柄機構,若主動曲柄作等速運動,則從動曲柄會作快 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "慢不定之變角速度運動,如此可產生急回效果,將其應用於機 構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "構上即可成「急回機構」。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "雙曲柄機構應用在插床 ( slotter ),即「立式鉋床」上的急回機"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "構,動作原理為:當主動曲柄 BC 由 BC 位置以順時針等速迴轉"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "至 BC 位置時,滑塊由 E 移動至 E,此為「回程」,又稱「回復"
+        },
+        {
+          "type": "heading",
+          "text": "2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "行程」 ( return stroke );當主動曲柄再由 BC 位置接著順時針等"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "速迴轉至 BC 位置時,滑塊復由 E 移動至 E,此為「去程」,又"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "稱「切削行程」 ( working stroke ),因主動曲柄 BC 作等速運動, 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "paragraph",
+          "text": "而回程角 θ 小於去程角 θ,故回復行程較切削行程為快,則可"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "達快速回程節省加工時間之目的。"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-9 插床急回機構"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 雙搖桿機構 ( double rocker mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "CD 桿固定, AD 及 BC 桿僅能分別繞固定軸 C、 D 作一定角度之"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "搖擺運動者,即稱此機構為「雙搖桿機構」,而 AD 及 BC 桿皆"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "謂之搖桿, CD 桿謂之固定桿, AB 桿則"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "謂之浮桿,浮桿不能作 360 度旋轉。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "147"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-10 雙搖桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "欲構成雙搖桿機構,其各桿長間必符合下列不等式之條件: 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "1. AB < CD (浮桿長度需小於固定桿長度)。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "2. AB + AD – CD < BC (由右死點構成之 △ CB D 得知)。 類"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "3. AB + BC – CD < AD (由左死點構成之 △ CA D 得知)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "147"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "雙搖桿機構應用於日常機械上亦頗為常見,茲舉例如下: 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "1. 電扇的擺頭裝置"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "CD 固定在支架上為固定桿, AB 為浮桿且為產生作用力之主動 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "桿, AD 可視為一桿與 CB 桿皆為搖桿。 應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-11 電扇的擺頭裝置"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "2. 自動摺布機 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "係利用 ABCD 桿構成之雙搖桿機構,及 CEFG 桿構成之曲柄搖桿"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "機構所連結組成。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-12 自動摺布機"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "二、其他種類之四連桿機構 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 平行相等曲柄機構 ( parallel equal crank mechanism ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "若雙曲柄機構中,其兩曲柄為等長且平行時,即稱此機構為"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "paragraph",
+          "text": "「平行相等曲柄機構」,如圖 14-13 所示,曲柄 AB 與 CD 等長"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "且平行時,中心線 AD 與浮桿 BC 亦會呈相等且平行,因此其四 個連桿在任何位置,均能保持成平行四邊形狀,故 AB 與 CD 兩"
+        },
+        {
+          "type": "heading",
+          "text": "曲柄之旋轉方向與角度必隨時保持一致,"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "而兩曲柄之迴轉角速度亦必相同。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-13 平行相等曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "此類機構應用廣泛,其應用實例如下: 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "1. 火車頭的車輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "AB 與 CD 為曲柄,浮桿 BC 為火車頭車輪之平行連桿, A、 D 軸 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "心之連線為固定桿。 應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-14 火車頭的車輪"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "2. 平行尺 ( parallel ruler ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "當平行尺之 AD 板固定時,搖動曲柄 AB 及 CD,會使 BC 板作平"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "行移動,即可利用 BC 板之尺緣畫出各種不同高度之平行線。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "149"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-15 平行尺"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "3. 勞伯佛天平 ( Roberval balance ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩組平行相等曲柄機構組成, A、 D 兩點固定於支柱上, BC 與"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "EF 隨時保持平行且確保垂直度,藉由 BE 與 CF 桿分別以 A、 D 為"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "固定點作擺動,來量測藥物或化學物品重量之天秤。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "149"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-16 勞伯佛天平"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "4. 懸臂式萬用繪圖機 ( universal drafting machine ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "是由兩對平行相等曲柄機構所組成,藉由曲柄旋轉方向與角度"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "必隨時保持一致之特性,當畫尺不論移至任何位置,皆不改變"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "其原有角度,如此即可畫得任意位置之平行線與垂直線。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "149"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-17 懸臂式萬用繪圖機"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 比例運動機構 ( pantograph motion mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "比例運動機構係由平行相等曲柄機構演變而來,使機構上有兩"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "點之運動軌跡互成比例者,其原理如圖 14-18 所示,由四連桿組"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "ABCD 所構成之平行相等機構,將 BC 桿延長至 P 點,其中 A 點為"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "固定點,作 A、 P 之連線與 CD 桿交於 T 點,依據 △ ABP 與 △ TCP"
+        },
+        {
+          "type": "heading",
+          "text": "為相似三角形其對應邊長成比例之特形"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-18 比例運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "由此可知, P 點與 T 點之連動軌跡相互成比例之大小,可藉由調 整連桿長度而得,但首要條件為固定點 A 與 T、 P 三點須同在一 直線上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 14-19 所示之「縮放繪圖器」,係常見的比例運動機構之應 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "用,圖中固定點 A 位於 AB 桿之延伸線上,與圖 14-18 有異, 構"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "但原理相同,靠固定點較近的 T 點所繪出之軌跡圖形較小,反 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "之距固定點較遠的 P 點所繪之軌跡圖較大,其圖形大小之比例,"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "係 T、 P 兩點分別與固定點 A 的距離成比例。"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-19 縮放繪圖器"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 非平行相等曲柄機構 ( non-parallel equal crank mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "若雙曲柄機構中,兩曲柄為相等但不平行,而浮桿與連心桿相"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "等且相交時,又稱「交叉相等曲柄機構」 ( crossed crank"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "mechanism ),曲柄 AB 與 CD 等長,中心線 AD 與浮桿 BC 則為相"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "等且呈交叉,當曲柄 AB 為主動件,以等角速度運動時,則曲柄"
+        },
+        {
+          "type": "heading",
+          "text": "CD 將以變角速度作相反方向的"
+        },
+        {
+          "type": "heading",
+          "text": "旋轉運動,但兩曲柄旋轉一周"
+        },
+        {
+          "type": "paragraph",
+          "text": "所需的時間必相等。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "151"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-20 非平行相等曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "橢圓輪的兩固定軸心 A、 D 之連線視為固定桿,橢圓輪之焦點 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "AB 及 CD 則為兩相等曲柄,而 BC 與 AD 等長且交叉,故橢圓輪 構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "為非平行相等曲柄機構的應用,且常用於急回裝置。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "151"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-21 橢圓輪"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 相等曲柄機構 ( equal crank mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "平行曲柄機構中,若連心線長於浮桿時,即稱此機構為「相等"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "曲柄機構」,故此機構有轉角不同之特性,可利用此特性應用"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "於「汽車轉向機構」 ( steering mechanism )。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-22 相等曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 14-23 所示為汽車轉向機構,汽車大都是利用前軸來轉向, 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "在前軸左端有左前輪轉動軸桿 AB,右端有右前輪轉動軸桿 CD, 構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "分別用鋼銷 A、 D 與前輪軸相連,當汽車直行時,左前輪之軸 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "桿與右前輪之軸桿的角度相等,左右兩車輪為平行,如圖 14-"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "23(b);當汽車向左轉時,左前輪之軸桿所轉的角度較右前輪 之軸桿所轉的角度大,如圖 14-23(a);反之,當汽車向右轉時, 左右兩輪之軸桿所轉的角度恰與左轉時相反,如圖 14-23(c); 由上可知,汽車轉彎時,轉彎邊方向之角度即為內側角度恆較"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "外側角度大。 數"
+        },
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-23 汽車轉向機構"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "為讓汽車在轉向時,可減少輪胎與地面的滑動及磨耗,前輪之 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "最理想的位置為轉向時,兩前輪軸線之延伸交點須與其後輪軸 構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "之延伸線相交,如圖 14-23 中之 Q 點,即稱「轉向中心」 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "( turning center )。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "153"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 球面四連桿機構 ( spherical four-bar linkage mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱射線連桿機構,為一具有四個迴轉對的空間四連桿機構,"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "其各迴轉對的軸心延伸線須交於一點,該點相當於圓球之中心,"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "各連桿可視為位在圓球的圓弧線 ( great-circle line ),而各連桿"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "上每一點之動路距球心的距離為一定值,且必在同一球面上作 球面運動。此機構常應用於兩軸中心線交於一點作連接傳動的 「萬向接頭」。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "153"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "153"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-24 球面四連桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "三、含一滑動對之連桿機構 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "有時機械的傳動型式,係以往復直線運動的方式作動,這時可 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "將四連桿機構之搖桿以滑塊與滑槽取代之,利用含有一滑動對 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "之連桿機構來達成,為滑塊曲柄機構。 應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "153"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-25 滑塊曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "含一滑動對之連桿機構,依固定之連桿不同,會產生四種不同 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "的機構: 構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "1. 往復滑塊曲柄機構:固定連桿 1。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "2. 迴轉滑塊曲柄機構:固定連桿 2。 應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "3. 擺動滑塊曲柄機構:固定連桿 3。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 固定滑塊曲柄機構:固定連桿 4。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "154"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 往復滑塊曲柄機構 ( reciprocating block slider crank mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "連桿 1 為固定桿,連桿 2 為曲柄,連桿 3 為浮桿,滑塊 4 作往復直"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "線運動,而滑塊之衝程為曲柄長之兩倍。常應用於內燃機及蒸"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "汽機之活塞曲柄機構。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "154"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-26 往復滑塊曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 迴轉滑塊曲柄機構 ( revolving block slider crank mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "四連桿機構中,連桿 2 為固定桿,連桿 3 為曲柄,連桿 1 為搖桿,"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "會繞固定點 A 作左右擺動,滑塊 4 會繞固定點 B 迴轉,並同時在"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "連桿 1 上作往復滑動,當曲柄(連桿 3 )作等速迴轉時,會使搖"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "桿(連桿 1 )產生往復不同速度之擺動,故此機構具急回之特 性,其在應用上,依連心線與曲柄之長度差異,可分為下列兩"
+        },
+        {
+          "type": "heading",
+          "text": "種:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "155"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "155"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-27 迴轉滑塊曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "1. 搖臂急回機構 ( oscillating arm quick-return mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "當連心線比曲柄長時,此迴轉滑塊曲柄機構可稱為「搖臂急回"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "機構」,常應用於曲柄式的牛頭鉋床衝頭上, AB 為連心線,"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "BC 為曲柄,以逆時針方向繞 B 軸作等角速度運動,當滑塊 4 由 C"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "點旋轉至 C 點所移到的角度為 α,其所需的時間為 t,此時鉋"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "刀進行切削行程;當滑塊接著轉動由 C 點回至 C 所移之角度為 β,"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "所需的時間為 t,則此時鉋刀進行退刀回程,因曲柄所旋轉的"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "角度與所花費的時間為一定值,即為曲柄之等角速度值,則"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "155"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-28 搖臂急回機構"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "由圖可知 α 大於 β,故切削行程時間 t 較長,退刀回程時間 t 桿"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "較短,因此鉋床衝頭帶著切削刀具由右向左時,是以等速度前 構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "進做切削動作;而衝頭由左向右時,會以較快速度做退刀之動 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "作,產生急回效果。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "2. 惠氏急回機構 ( Whitworth quick return mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "連心線較曲柄短時,此迴轉滑塊曲柄機構又稱為「惠氏急回機"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "構」,其作用原理與搖臂急回機構相同。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-29 惠氏急回機構"
+        },
+        {
+          "type": "heading",
+          "text": "51"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "此機構與搖臂急回機構相比較,其優缺點說明如下: 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 搖臂急回機構的從動桿作搖擺運動,而惠氏急回機構的從動"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "件則作整周迴轉運動,故惠氏急回機構之運動所佔空間較搖"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "臂急回機構大。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 搖臂急回機構的衝程大小,係藉由調整主動曲柄之長度,即 可輕易完成;而惠氏急回機構的衝程大小,則須調整連心線 之長度而得,且過程比較麻煩。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "157"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 擺動滑塊曲柄機構 ( oscillating block slider crank mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "連桿 3 為固定桿,連桿 2 為曲柄,繞固定軸 B 作 360 ° 迴轉,而連"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "桿 1 會帶動滑塊 4 繞固定軸 C 作搖擺並同時作往復滑動,此機構"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "常應用於傳動動力較輕的擺動引擎上。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "157"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-30 擺動滑塊曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 固定滑塊曲柄機構 ( fixed block slider crank mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑塊 4 為固定,連桿 3 為繞固定軸 C 作擺動的搖桿,連桿 2 為浮桿,"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "繞 A 點轉動,並且使連桿 1 在滑塊內之導路中作往復運動,此機"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "構常見之應用例有手壓抽水器 ( hand pump )。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "157"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-31 固定滑塊曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "四、其他含滑動對之連桿機構 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 雙滑塊機構( double slider mechanism ) 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "含有兩個滑動對的連桿機構,係以往復滑塊曲柄機構為基礎演"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "paragraph",
+          "text": "變而來。"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "158"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-32 雙滑塊機構"
+        },
+        {
+          "type": "heading",
+          "text": "55"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 14-33 的蘇格蘭軛機構 ( Scotch yoke mechanism ),係雙滑塊 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "機構的應用,其作動與上述完全相同,僅是將弧形滑槽改為直 構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "槽,如此當連桿 2 繞固定軸 A 作等角速度運動時,滑塊 4 所作往 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "復直線運動的位移為簡諧運動。"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "158"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-33 蘇格蘭軛機構"
+        },
+        {
+          "type": "heading",
+          "text": "56"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 14-34 亦有弧形滑槽改為斜直槽者,係將滑槽的中心線設 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "計成不與滑槽 4 運動方向垂直時,則滑塊 4 所作之往復直線運動 構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "的位移會呈變簡諧運動。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "159"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-34 斜直槽的雙滑塊機構"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 等腰連桿機構 ( isosceles link mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "若曲柄 AB 與連桿 BC 等長,當曲柄 AB 繞固定 A 軸旋轉,滑塊 4 在"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "固定的滑槽 1 內移動時,無論曲柄 AB 與連桿 BC 對滑槽中心線形"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "成之夾角為何,皆能與滑槽中心線保持成等腰三角形狀,故稱"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "為「等腰連桿機構」。當曲柄 AB 繞固定 A 軸迴轉一圈,即為滑 塊 4 由 C 點移動至 C 點再回到 C 點,其往復行程的距離為曲柄"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "AB 長之四倍。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "159"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "159"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-35 等腰連桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 14-36 所示為等腰連桿機構的變形,係將滑槽製成十字形, 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "而連桿 BC 延長一倍至 E 點,並於 E 點加裝滑塊 2,當滑塊 4 於水 構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "平滑槽內移動時,滑塊 2 同時會在垂直滑槽中移動,此時 B 點的 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "動路是以 A 為軸心, AB 長為半徑的圓,而連桿 CE 之相對運動,"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "因不受原曲柄 AB 之約束,故曲柄 AB 可省去不用,當 B 點繞 A 點 迴轉一周時, C、 E 兩點在十字形滑槽上運動,其動路為一直線, 而連桿 CE 上或延長線上任一點的動路,則均為一橢圓。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-36 十字形等腰連桿機構"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "等腰連桿機構的常見應用例如下: 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "1. 橢圓規 ( elliptic trammel )"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "橢圓之大小為 EP =半長軸, CP =半短軸。 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-37 橢圓規"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "2. 歐丹聯結器 ( Oldham's coupling ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "當歐丹聯結器之主動軸作等角速度迴轉時,從動軸亦作相同之"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "等角速度旋轉。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-38 歐丹聯結器"
+        },
+        {
+          "type": "heading",
+          "text": "63"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p063.jpg"
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 肘節機構 ( toggle mechanism ) 桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 ABCD 組成之曲柄搖桿機構,及 CDEG 組成之滑塊曲柄機構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "結合而成,當機構中之連桿 CD 與 CE 近乎成一直線( α 角度極小)"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "時,則 B 點(又可稱肘節點)只需極小的外力 P,即可使滑塊 G"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "得到極大的推力 F,此種現象稱為肘節效應 ( toggle effect ),而"
+        },
+        {
+          "type": "heading",
+          "text": "其外力 P 與推力 F 之比值可由下式求得"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-39 肘節機構"
+        },
+        {
+          "type": "heading",
+          "text": "65"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "F"
+        },
+        {
+          "type": "heading",
+          "text": "桿"
+        },
+        {
+          "type": "paragraph",
+          "text": "當 α 愈小時, cos α 之值愈大,而 Dx 愈小,則 值變得極大,"
+        },
+        {
+          "type": "heading",
+          "text": "P 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "亦即以極小的外力 P,即可得極大的推力 F。 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "此類機構常應用於需要很大機械利益的機械上,如碎石機、手"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "應"
+        },
+        {
+          "type": "paragraph",
+          "text": "夾鉗、擠壓機、氣動鉚釘機等。"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "66"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "heading",
+          "text": "14-3 近似直線運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "paragraph",
+          "text": "凡一機構中,任一連桿上的一點,不需直線的導路約束,即能"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "產生直線運動者,稱為「直線運動機構」 ( straight-line motion 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "mechanism )。此機構依動路狀況可分成兩種:機構上某點的 運動軌跡為真直線動路者,則稱「絕對直線運動機構」;機構 上某點的運動軌跡為近似直線動路者,則稱「近似直線運動機 構」。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "163"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "heading",
+          "text": "一、近似直線運動機構 似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 蚱蜢運動機構 ( grasshopper motion mechanism ) 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱改良司羅氏直線運動機構,如圖 14-40(a) 為司羅氏直線運"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "動機構,係一種等腰連桿機構的應用,其各連桿之長度關係為 AB = BC = BP,蚱蜢運動機構就將滑塊與滑槽改用連桿 CD 代替, 以減少滑動之摩擦阻力,如圖 14-40(b) 所示,經改良後之蚱蜢 運動機構,應用等腰連桿機構之原理可知,當連桿 AB 作上下搖"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "動 2 θ 角時,連桿 CD 繞固定軸 D 作擺動,因其 C 點作近似直線的"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "163"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓弧運動,則使 P 點沿 YY 方向產生近似直線之動路,若欲使 P 點 的軌跡更接近直線,可增長連桿 CD 之長度,或減小擺動 θ 角。 Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p068.jpg"
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "heading",
+          "text": "似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "163"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-40 司羅氏直線運動機構與蚱蜢運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "69"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p069.jpg"
+    },
+    {
+      "page": 70,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "paragraph",
+          "text": "此類機構可再進一步改良,如圖 14-41 所示,使 P 點的路徑不直 似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "AB BC"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "paragraph",
+          "text": "接通過 A 點,而各連桿之長度關係需更改為 =,即連桿 BC"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "BC BP"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "之長度須為連桿 AB 及延伸部分連桿 BP 之長度的比例中項。 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-41 改良後之蚱蜢運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "70"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p070.jpg"
+    },
+    {
+      "page": 71,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 瓦特直線運動機構 ( Watt straight-line motion mechanism ) 似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "paragraph",
+          "text": "搖桿 AB 與 CD 分別繞固定軸 A 及 D 擺動,此兩搖桿間以浮桿 BC"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "CP AB 動"
+        },
+        {
+          "type": "paragraph",
+          "text": "連接,當兩搖桿擺動時,若浮桿 BC 上一點 P 的位置為 = 機"
+        },
+        {
+          "type": "heading",
+          "text": "BP CD"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "之關係,則 P 點的運動軌跡會呈近似 \"8\" 字形之雙環曲線,應 用時僅取中央一段近似直線的動路。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "71"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 72,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "heading",
+          "text": "似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "165"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-42 瓦特氏直線運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "72"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p072.jpg"
+    },
+    {
+      "page": 73,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 羅氏直線運動機構 ( Robert straight-line motion mechanism ) 似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "paragraph",
+          "text": "或稱饒氏直線運動機構,連桿 AB 與 CD 分別繞固定軸 A 及 D 擺動,"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "浮桿 BC 為 T 字形或等腰三角形之結構桿件,若各連桿之長度關"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "係為 AB = CD, BP = CP,且 AD = 2 BC,則當連桿 AB 與 CD 同 時向右或向左擺動時,即可使 P 點沿連心線 AD 方向產生近似直"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "線之動路,若連桿 AB 與 CD 之長度設計大於 連心線 AD 之長度"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "或更長時,則 P 點的運動軌跡將會更接近直線。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "73"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 74,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "heading",
+          "text": "似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "165"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-43 羅氏直線運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "74"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p074.jpg"
+    },
+    {
+      "page": 75,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 蔡氏直線運動機構 ( Tchebicheff straight-line motion mechanism ) 似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "paragraph",
+          "text": "係由一交叉四連桿所構成,其各連桿之長度關係為 AB = CD,"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "且 AD: AB: BC = 4: 5: 2。 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "165"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-44 蔡氏直線運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "75"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p075.jpg"
+    },
+    {
+      "page": 76,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "heading",
+          "text": "※"
+        },
+        {
+          "type": "heading",
+          "text": "二、絕對直線運動機構 似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 司羅氏滑塊直線運動機構 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "( Scott Russel straight-line motion mechanism ) 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "係屬於一種等腰機構之應用,機構中各連桿長度的關係為 AB = BC = BP。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "166"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-45 司羅氏滑塊直線運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "76"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p076.jpg"
+    },
+    {
+      "page": 77,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 皮氏直線運動機構 ( Peaucellier's straight-line motion mechanism ) 似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "paragraph",
+          "text": "係由七根連桿所構成,機構中各連桿長度的關係為 AB = BC,"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "AD = AF, CD = DE = EF = FC。 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "167"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-46 皮氏直線運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "77"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p077.jpg"
+    },
+    {
+      "page": 78,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 卡氏圓直線運動機構 ( Cardan's straight-line motion mechanism ) 似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓 O 及 O 大小兩圓直徑成 2: 1。"
+        },
+        {
+          "type": "heading",
+          "text": "A B 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "167"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-47 卡氏圓直線運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "78"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p078.jpg"
+    },
+    {
+      "page": 79,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "近"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 哈特氏直線運動機構 ( Hart's straight-line motion mechanism ) 似"
+        },
+        {
+          "type": "heading",
+          "text": "直"
+        },
+        {
+          "type": "heading",
+          "text": "線"
+        },
+        {
+          "type": "paragraph",
+          "text": "係由六支連桿組成,機構中各連桿長度的關係為 AB = BC, EG"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "= DF, DE = FG, EF // DG // ACP。 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "167"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 14-48 哈特氏直線運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "79"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p079.jpg"
+    },
+    {
+      "page": 80,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch14/p080.jpg"
+    }
+  ]
+}

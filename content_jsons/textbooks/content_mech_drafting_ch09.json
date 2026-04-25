@@ -1,0 +1,5821 @@
+{
+  "content_id": "CONTENT_MECH_DRAFTING_CH09",
+  "subject": "機械製圖",
+  "chapter": {
+    "code": "CH09",
+    "title": "CH9"
+  },
+  "title": "機械製圖 Chapter 9 基本工作圖",
+  "source_pdf": "mechanical_drafting/CH9PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        },
+        {
+          "type": "heading",
+          "text": "基本工作圖"
+        },
+        {
+          "type": "heading",
+          "text": "本章學習內容"
+        },
+        {
+          "type": "heading",
+          "text": "9-1 工作圖基本內涵"
+        },
+        {
+          "type": "heading",
+          "text": "9-2 尺度與加工之關連"
+        },
+        {
+          "type": "heading",
+          "text": "9-3 公差與配合"
+        },
+        {
+          "type": "heading",
+          "text": "9-4 表面織構符號"
+        },
+        {
+          "type": "heading",
+          "text": "9-5 螺紋與螺紋結件表示法"
+        },
+        {
+          "type": "heading",
+          "text": "9-6 繪製基本工作圖"
+        },
+        {
+          "type": "heading",
+          "text": "* 9-7 幾何公差與標註 ( 增廣教學 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 建議授課: 21 節 )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "144"
+        },
+        {
+          "type": "heading",
+          "text": "學習表現"
+        },
+        {
+          "type": "paragraph",
+          "text": "工作圖乃是提供製造者在機械加工過程中所須一切資料的圖面依據,故工作圖必須 將製造上的有關資料,以圖形、文字及符號等方式完整並明確的表達,使工作者能夠充 份瞭解圖面上所表示的一切,而不致產生疑惑或誤解。因此,工作圖除了視圖形狀、大 小尺度外,尚包括公差配合、表面織構符號,甚至標註幾何公差等。本章為了達上述目"
+        },
+        {
+          "type": "heading",
+          "text": "的,其學習目標敘述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能引起學習興趣與動機"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解工作圖的基本內涵"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解尺度與加工之關連"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 認識及正確使用公差與配合"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 認識及正確使用表面織構符號與幾何公差"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解正確使用螺紋與螺紋結件且能應用"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 能熟練且正確繪製基本工作圖,並能應用於機械產品或日常產品之設計。"
+        },
+        {
+          "type": "heading",
+          "text": "9-1 工作圖基本內涵"
+        },
+        {
+          "type": "heading",
+          "text": "一、工作圖定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "工作圖 (Working drawing) 是用來提供機械製造或結構組合所須全部資料的圖面,故一組工"
+        },
+        {
+          "type": "heading",
+          "text": "作圖應能完整描述下列各項,如圖 9-1 所示:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 視圖:以視圖來描述機件各部位形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 尺度:以尺度數字來表達機件各部位之大小,尚包括公差配合、表面織構符號,甚至標註幾"
+        },
+        {
+          "type": "paragraph",
+          "text": "何公差等。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 註解說明:以註解來說明機件製造時所須達到的技術要求或細節,如規定材料、熱處理、製"
+        },
+        {
+          "type": "paragraph",
+          "text": "造加工方法等細節。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 標題欄:每張工作圖上之描述性標題欄,包括如圖名、圖號、機構名稱、設計者、繪圖者、"
+        },
+        {
+          "type": "paragraph",
+          "text": "日期、投影法及比例等。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 各部份關係之描述:如標示裝配位置、程序資料等裝配組合用。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 材料單或零件表 (Parts list)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 145"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-1 工作圖內容"
+        },
+        {
+          "type": "heading",
+          "text": "二、工作圖之內涵"
+        },
+        {
+          "type": "paragraph",
+          "text": "一組完整的工作圖是製圖知識與技術的統合應用,亦須符合製造加工程序、製造裝配的順 序與檢驗要求。故在設計新機器或結構時,其設計流程乃由市場調研、構想草圖、規劃及計算、 與繪圖等四個步驟所進行而完成之所須圖樣。因此,如圖 9-2 所示,機械設計之工作圖形成大致"
+        },
+        {
+          "type": "heading",
+          "text": "依下列所敘述各項步驟依序進行:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-2 機械設計之工作圖形成步驟"
+        },
+        {
+          "type": "heading",
+          "text": "1. 市場調研: 具創意與創新的構想仍須接受市場檢驗方是成功的產品創造,因此,包括市場分"
+        },
+        {
+          "type": "paragraph",
+          "text": "析與設計定位的調查研究是機械設計之首要課題。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 構想草圖:將原有之觀念、創意及創造或發明,繪製成若干草圖。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 規劃與計算:精密計算所設計之機械或結構、產品性能參數,以求其適宜性及實用性。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 繪製設計圖:依據草圖及計算,用鉛筆及儀器正確繪製成設計圖,依比例表示各零件形狀及"
+        },
+        {
+          "type": "paragraph",
+          "text": "位置,訂定其主要尺度,並註明材料、熱處理、加工法、配合種類及各零件圖時所須之資料。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "heading",
+          "text": "5. 繪製工作圖:由設計圖及註解說明繪製各零件圖,包括描述形狀及大小所須之視圖,及標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "必要之尺度、表面粗糙度、公差配合與註解等,最後進一步繪製各零件裝配之組合圖。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 完成表單:包括填寫標題欄、編寫零件表或材料單等。"
+        },
+        {
+          "type": "heading",
+          "text": "三、工作圖的分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 零件圖 (Detail drawing)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 零件圖定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "零件圖是單一零件之圖,將其形狀、尺度及結構做完整而準確之描述,使製造加工者能瞭 解圖意並能依圖製造。故一張完整的零件圖,應包括零件之形狀、大小尺度、材料、加工及所 須製造件數、遵守的繪圖準則、所需要之工作場所等做詳細描述,以做為製造該零件之依據。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 零件圖的繪製"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 單一零件圖:一張圖紙原則上僅繪一零件,如圖 9-3 所示,繪製時乃依零件之大小,選 擇適合之比例及圖紙繪製,並能方便使用及保管為原則。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-3 零件圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 147"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 數個零件繪於同一圖面:在某些情況,如工場組織及作業形態不同,或是為了節省圖紙, 常將數個小零件之圖形繪製於同一張圖紙上,如圖 9-4 所示,此時應 遵守下列原則: (a) 各零件圖的擺放安排應盡可能以組合圖之相對位置配置其視圖,盡量接近其原有之 關係,以方便讀圖。 (b) 各零件比例應一致,但若有特別比例之零件,應於該視圖下方標示其比例。 (c) 同材料或同性質之零件應安排擺放在一起。 (d) 清楚標示各零件之件號及其加工所須之公差與表面織構符號。 (e) 將零件表繪製在標題欄上方,並清楚填寫各項所須資料。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-4 數個零件繪於同一張圖紙 ( 行政院勞動部機械加工乙級 )"
+        },
+        {
+          "type": "heading",
+          "text": "3. 件號"
+        },
+        {
+          "type": "paragraph",
+          "text": "一部機器或機構上每個零件皆須有編號,此數字號碼稱為 件號 (Piece number )。同一機件在 零件圖、組合圖及零件表上所列之件號須相同,零件之件號以阿拉伯數字寫在視圖上方為原則, 字高為尺度數字之 2 倍為宜。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 組合圖 (Assembly drawing)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 組合圖定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "組合圖又稱為 裝配圖 ( Assembly drawing ) 或 總圖 ( General arrangement, GA ), 用來表示各零 件間之相對位置及關係,為表達組裝機器、機構或機件組合的視圖,如圖 9-5 所示。繪製組合圖 可由設計圖抄繪而得,亦可依零件圖的尺度將各零件組合而繪得,藉以清楚表達全部結構及其 作用,或表達各零件間的關係。 通常組合圖僅標註如全長尺度、兩中心間距離或各零件間距離等幾個重要尺度外,其餘均 不標註。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-5 組合圖 ( 行政院勞動部機械加工乙級 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 149"
+        },
+        {
+          "type": "paragraph",
+          "text": "再者,組合圖中不需要繪出全部隱藏線的細節,尤其是圖中不必要的隱藏線,如圖 9-6 所示 為一車床組合圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-6 車床組合圖"
+        },
+        {
+          "type": "heading",
+          "text": "2. 組合圖種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 組合設計圖 (Design drawing of assembly):為初步設計之鉛筆圖,用於準確設計、發明與 規劃,由決定之草圖及計算之後繪製而成,須同時另行表列所須資料內容。如圖 9-7 所 示為破果機設計步驟及其最後完成之設計圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-7 設計圖 ( 取自參考文獻 6)"
+        },
+        {
+          "type": "paragraph",
+          "text": "參考文獻 6: F. E. Giesecke, etc, ISBN: 0130081833."
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 輪廓組合圖 (Outline assembly drawing):提供機器或結構的大致外形,僅標示主要尺度, 常用於介紹機器之目錄說明圖,或是機器之安裝資料,又稱為 裝配圖,如圖 9-8 所示車 床輪廓組合圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-8 車床輪廓組合圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 部份組合圖 (Partial assembly drawing):為一部份相關零件組合之圖面,用以表達複雜機 器或結構之部份裝配,如車床組合圖內有車頭、尾座、齒輪箱、床鞍、床帷及複式刀座 等各部份組合圖,如圖 9-9 所示為車床尾座部份組合圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-9 部份組合圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 151"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 組合工作圖 (Assembly working drawing):通常為簡單的幾個零件組合,除繪製之視圖外, 另外尚須加註尺度、註解、標題說明等供給機械或結構所須之全部資料,如圖 9-10 所示 行政院勞動部車床乙級檢定圖例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-10 組合工作圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 立體組合圖 (Pictorial assembly drawing ):以立體圖方式畫出全部機件,用以表現機械或 結構中各零件之相對關係位置,常用的表達有 立體組合圖 與 立體分解系統圖 兩種,這種 圖方便未受過繪圖訓練者,亦能清楚瞭解機件之組合狀態或相對關係位置。如圖 9-11(a) 所示為立體組合圖,如圖 9-11(b) 所示為立體分解系統圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-11 立體組合圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "paragraph",
+          "text": "(6) 線圖 (Diagram drawing):用以表示如何裝配設備之組合圖,凡安裝、佈線、管路、電路 等多用線圖繪出,亦有繪成立體線圖者,如圖 9-12 所示為液壓系統圖、圖 9-13 為電子 電路圖、圖 9-14 為機械、設備或建築、橋梁之鋼結構圖、圖 9-15 為管路圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-12 液壓系統圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 153"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-13 電子電路圖 ( 取自 CNS)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-14 平面鋼架結構圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "154"
+        },
+        {
+          "type": "heading",
+          "text": "【 平面圖 】"
+        },
+        {
+          "type": "heading",
+          "text": "【 立面圖 】"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 管路圖簡易畫法"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 立體管路圖"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 管路圖 ( 取自 CNS)"
+        },
+        {
+          "type": "heading",
+          "text": "單線圖"
+        },
+        {
+          "type": "heading",
+          "text": "單線圖"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 閘閥 ( 耐安凡而工業公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 熔接頸凸縁 (BMLink 台網 )"
+        },
+        {
+          "type": "heading",
+          "text": "熔接接合"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋接合"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 止回閥 ( 瑞實石油網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 90。 肘管熔接接頭 (homedepot%) (B) 管路零件與其製圖符號 ( 耐安凡而工業公司 & 瑞實石油網 & BMLink 台灣 w。 rd 網 & homedepot 網 )"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 9 一 15 管路圖 ( 取自 CNS)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 155"
+        },
+        {
+          "type": "heading",
+          "text": "3. 組合圖繪製"
+        },
+        {
+          "type": "heading",
+          "text": "繪製組合圖必須遵守下列原則:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 視圖的選擇及表示:繪製組合圖可視需要決定視圖的多寡,通常為了表達機械或結構之 內部構造,常以半剖或全剖視圖來表達,除了必要表達的部位外,有一些細節部位可予 以簡化或省略。 (2) 隱藏線之省略:組合圖上有關描述零件形狀之隱藏線 ( 虛線 ),除非必要,以不繪製為原則。 (3) 件號表示:組合圖常將各零件以數字編碼做為件號,並用細實線繪製 件號線,連入該零 件內,並於該零件內之一端加一小黑點,另一端對準件號數字中心。組合圖上如須記入 很多件號時,這些件號盡量成一直線排列,各件號線盡量避免畫成垂直或水平,且件號 線不得彼此相交,件號數字之字高為尺度數字字高之二倍為宜,同一零件工作圖之件號 與零件表或材料單須相同並用,以供辨認其零件,如圖 9-9 所示。 (4) 剖面線表示:在組合圖中,相鄰兩機件之剖面線須取不同方向或不同之間隔以茲區別; 但是同一機件之剖面線,其方向與間隔須完全相同,如圖 9-10 所示。 (5) 標準零件:標準零件如螺栓、鍵、銷、墊圈、扣環、滾動軸承 ( 滾珠、滾針、滾柱 ) 等, 不須另外繪製零件圖,但於組合圖中標準零件以一般表示法或簡易表示法繪製,並加註 件號,同時於零件表中說明其規格,如圖 9-16 所示為扣環與軸承。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-16 扣環與滾動軸承"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:華志彈簧公司、安統貿易公司、 gd-wsw 公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 列表圖 (Tabular drawing 或 Collective drawing) 用於同一形狀而尺度大小各異之物體上,於視圖尺度線上註入參考字母或符號,而於圖上 附一表列以表示機器或零件之各級大小尺度數字;列表圖可為組合圖或零件圖,此種圖有減少 繪製圖樣之優點,但是缺點是可能讓人容易誤讀表格,如圖 9-17 所示為三家不同廠商,有關兩 款型式之滾珠軸承尺度規格之列表圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-17 列表圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 標準圖 (Normal chart)"
+        },
+        {
+          "type": "paragraph",
+          "text": "將圖複印製成,待需用時再依零件大小之尺度數字註入圖上,每種尺度有一張全圖,若需 要新尺度時,則另複印製一張註入新尺度。此種圖形雖然比例可能不符合,但因圖樣製成容易, 在應用上甚為便利。如圖 9-18 所示,圖 (a) 為一標準圖,方便註入新尺度成為另一張如圖 (b) 或 (c) 所示之新零件圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-18 標準圖"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 157"
+        },
+        {
+          "type": "heading",
+          "text": "四、標題欄與零件表"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 標題欄 (Title strip 或 Title block)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 標題欄位置:用以記載工作圖上有關之事項,常因各個機構之需要及情況而不盡然相同,一"
+        },
+        {
+          "type": "paragraph",
+          "text": "般以置於圖面右下角為原則,其右邊及下邊即為圖框線,其大小如圖 9-19 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-19 標題欄位置與大小"
+        },
+        {
+          "type": "heading",
+          "text": "2. 標題欄內容:包括的事項包括 1. 圖名; 2. 圖號; 3. 機構名稱; 4. 投影法 ( 第一角法或第三角法 );"
+        },
+        {
+          "type": "heading",
+          "text": "5. 比例; 6. 一般公差; 7. 設計、繪圖、描圖、校核、審定等人員姓名及日期等。依照以上各"
+        },
+        {
+          "type": "paragraph",
+          "text": "項規範,舉例如圖 9-20 所示以供參考使用。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-20 標題欄規範"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "158"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 零件表 (Parts list)"
+        },
+        {
+          "type": "paragraph",
+          "text": "零件表是一種表格說明,表上列舉全圖中所有各零件之件號、名稱、件數、材質、尺度規 格等,亦可列備料尺度及每件重量於備註欄內。零件表可直接記於組合圖上,加在標題欄上方, 其填寫次序由下而上,如圖 9-21 所示。若是用於大量生產時之工作圖,以另紙書寫之單頁零件 表,則填寫次序是由上而下,如圖 9-22 所示。一般情況零件依其重要性排列,較大機件者在前, 而標準零件排列於後。零件表格線之間隔以 8 ∼ 10mm 者較佳。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-21 零件表書寫於標題欄上方"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-22 單頁零件表"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 159"
+        },
+        {
+          "type": "heading",
+          "text": "五、工作圖之更改與複製保存"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 工作圖之更改"
+        },
+        {
+          "type": "paragraph",
+          "text": "當已完成工作圖繪製並已列印,但是需要更改,且更改範圍牽涉甚廣且需要換發更改之新 圖時,可將新舊圖號分別填入標題欄圖號下方,且註明「以本圖代○○○ ( 舊圖號 ) 」及「以 ○○○ ( 新圖號 ) 代本圖」等字樣。 若只需要更改尺度時,請參閱第六章第九節尺度選擇與安置之圖 6-64 有詳細說明。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 工作圖之複製保存"
+        },
+        {
+          "type": "heading",
+          "text": "工作圖之複製有晒圖、影印、掃描圖檔"
+        },
+        {
+          "type": "paragraph",
+          "text": "及照相等方式。現今由於電腦繪圖方便且使 用普遍,亦可以儲存檔案直接列印。而如圖"
+        },
+        {
+          "type": "heading",
+          "text": "9-23 所示晒圖由於感光藥品之不同,則有藍"
+        },
+        {
+          "type": "heading",
+          "text": "底白線或白底藍線、白底紫線等,用於複製"
+        },
+        {
+          "type": "paragraph",
+          "text": "如全開之大張圖紙較多。至於影印,則有黑"
+        },
+        {
+          "type": "heading",
+          "text": "白影印或彩色影印,可作等比或特定縮率、"
+        },
+        {
+          "type": "paragraph",
+          "text": "倍率。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-23 晒圖與列印或影印圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:一哲事務公司、楊比比部落額、 http210.241.73.250 網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "工作圖之保存有平放、捲置於圖櫃者,有將原圖製成微縮片者,或電腦繪圖將圖儲存於隨 身碟、磁碟或光碟上者。工作圖歸檔平放或捲置於圖櫃內,通常將有價值之圖保管貯存,除非 遇圖形需要更改或晒圖,否則不予取出。晒印圖或較 A4 大之圖紙可依圖之摺疊方法摺疊成 A4 圖紙,詳見製圖實習上冊之第一章有詳細說明。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "9-2 尺度與加工之關連"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械加工主要是依據設計圖中之尺度,運用機具的加工改變其材料之尺度,以完成各個不 同零件,進而將零件組合形成具功能性之成品。故設計者或繪圖者的機械工程圖,必須使加工 製造者能按圖上尺度加工,且能夠予以裝配為成品,方能使各零組件發揮其應有之特殊效能。"
+        },
+        {
+          "type": "heading",
+          "text": "一、基本尺度概念"
+        },
+        {
+          "type": "paragraph",
+          "text": "一位機械設計師除表達創造構想外,必須考量其功能性與人體工學,方能使設計之機構或 機器發揮其最佳化。因此,在設計機器、大件器具或家具的基本尺度時,常須考慮如圖 9-24 所 示人體活動空間為學習者首要了解的基本尺度概念,如圖 9-25 所示為一款拉鍊袋給袋式包裝機 以 CAD 繪製,標註基本尺度時符合人體工學之實例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-24 人體的活動空間"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-25 拉鍊袋給袋式包裝機基本尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: honorpack.comzh 公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 161"
+        },
+        {
+          "type": "heading",
+          "text": "二、尺度標註與加工方法"
+        },
+        {
+          "type": "paragraph",
+          "text": "除了基本尺度概念外,從設計、製造加工到裝配,尺度標註須符合加工概念是很重要的環 節。機械成品能發揮其應有功能,零組件間的尺度標註、尺度之基準面與累積誤差考量、不同 加工方法的觀念等關連性是環環相扣。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 累積誤差觀念"
+        },
+        {
+          "type": "paragraph",
+          "text": "標註尺度時必須考慮到機件加工,常以機件之某面做為基準,再將同一方向的位置尺度從 基準面標註起,可避免連續的位置尺度而產生累積誤差 (Accumulated error 或 Cumulative error), 導致影響機件的精密度及裝配功能。如圖 9-26 所示為一般設計時常應用到的計算方法,計算後"
+        },
+        {
+          "type": "heading",
+          "text": "+ 0 16."
+        },
+        {
+          "type": "paragraph",
+          "text": "尺度 X = 40 − 0 15. 之累積誤差為 0.31mm。且須注意尺度勿過度定義,如圖 9-27 所示,造成製造 者之困擾。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-26 計算累積尺度及累積公差"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-27 尺度過度定義"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 一般尺度之基準標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般尺度標註時須考慮以基準面 (Datum surface) 作基準,標註法說明如下。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 基準面基準法"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-28 所示為車床車削階級外徑情形,加工時第一步驟須先車削端面,以做為車削及測 量基準,故標註尺度時,亦以該端面做為基準面之基準,再將各尺度從此基準面引出標註。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-28 基準面基準法之範例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 163"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-28 基準面基準法之範例 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "2. 中心線基準法"
+        },
+        {
+          "type": "heading",
+          "text": "是以機件中某一特定的孔中"
+        },
+        {
+          "type": "heading",
+          "text": "心為基準,引出孔的中心線為基準"
+        },
+        {
+          "type": "heading",
+          "text": "線再標註,如圖 9-29 所示;此法"
+        },
+        {
+          "type": "heading",
+          "text": "亦可用於對稱件之中心線做為基"
+        },
+        {
+          "type": "heading",
+          "text": "準,標註方法如圖 9-30 所示,常"
+        },
+        {
+          "type": "heading",
+          "text": "見於鑽床、搪床搪孔、銑床端銑溝"
+        },
+        {
+          "type": "paragraph",
+          "text": "槽或鍵座加工之距離標註。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-29 特定孔中心為基準"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-30 對稱件之中心為基準"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "heading",
+          "text": "3. 單一尺度線為基準面的標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "若為減少尺度線的層數,在同一方向的位置尺度且有共同的基準面時,可用單一尺度線, 以基準面 ( 線 ) 處繪製一小圓點,並於小圓點處沿尺度界線方向之末端標註數字 0,表示其基準 面 ( 線 ) 之起點,各個尺度以單向箭頭標註,尺度數字沿尺度界線之方向寫在末端,如圖 9-31 所示,常見於鑽孔、搪孔加工之距離標註。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-31 單一尺度線標註"
+        },
+        {
+          "type": "heading",
+          "text": "4. 極座標尺度標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "極座標法 ( Polar coordinate method) 以圓心"
+        },
+        {
+          "type": "heading",
+          "text": "為基準,取一線和角度尺度為距離和方向定位"
+        },
+        {
+          "type": "heading",
+          "text": "的標註方法,常用於角度的標註,如圖 9-32 所"
+        },
+        {
+          "type": "paragraph",
+          "text": "示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-32 極座標尺度標註法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 165"
+        },
+        {
+          "type": "heading",
+          "text": "5. 運用表格標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 建立表格:當有多個孔之位置尺度,可建立表格於圖旁說明之,表格內容有孔號、 X 座 標位置、 Y 座標位置及孔徑,並於每個孔之右上方,標示孔號,此方式表示可以將孔之 標註更簡明清楚,如圖 9-33 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-33 運用表格標註"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 利用座標方位決定點之位置,分述如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 可運用表格方式表示,原點以小圓點表明,表格內容有點之編號、 X 座標位置、 Y 座標位置及孔徑,當座標值負值時,應加註負符號”-”,如圖 9-34(a) 所示。 (b) 可將標度直接標註於各點附近處,如圖 9-34(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-34 利用座標方位決定點位置"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "166"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 機械加工觀念"
+        },
+        {
+          "type": "heading",
+          "text": "工作圖為設計者與製造者之間溝通的橋梁,所以"
+        },
+        {
+          "type": "heading",
+          "text": "當設計者在繪圖與標註尺度時,須以製造者加工的概"
+        },
+        {
+          "type": "paragraph",
+          "text": "念來繪圖,以下介紹各種加工方法繪圖實例說明。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 傳統工作母機:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 車床加工軸件:車床工作如車削端面、孔徑、"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋、偏心軸及錐度⋯等,如圖 9-35 所示,"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 9-36 所示為車床工件之繪圖範例,尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "須考慮基準面外, 9-3 節的公差與 9-4 節表面 符號等合理性亦須考量。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-35 車床加工"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:全華圖書 - 機械製造 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-36 車床工件繪圖範例"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "paragraph",
+          "text": "丙級車床工技術士 ( 資料來源:勞發署技能檢定中心 & 104 教育網證照中心 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、 工作範圍: 1. 具備機工行業之基本知識、職業道德、敬業精神、工作態度及安全習慣,能依照工作圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "或實樣準備材料、刀具、量具,操作車床從事圓桿、平面、端面、去角、肩角、切斷、溝槽、錐度、 外三角螺紋、鑽孔、絞孔、內孔、偏心、錕花與曲面等車削工作。 2. 尺寸精度能達公差十級,表面粗 糙度能達 5.0a(20S)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、相關職務推薦: 1. CNC 機台操作人員、 2. 銑床人員"
+        },
+        {
+          "type": "heading",
+          "text": "三、 相關技能推薦: 1. 工程圖識圖與繪圖、 2. 五金配件使用、 3. 手工具使用、 4. 材料識別與應用、 5. 尺"
+        },
+        {
+          "type": "paragraph",
+          "text": "度標註與測量、 6. 機械產品故障排除檢修。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 167"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 銑床加工:銑床除如圖 9-37 所示銑削平面、溝槽⋯等工作外,常見如圖 9-38 所示鍵座、 半圓鍵等銑削,有關溝槽、鍵座的尺度標註範例如圖 9-39 和圖 9-40 和圖 9-41 所示,另 外 9-3 節的公差與 9-4 節表面符號等合理性亦須考量。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-37 各種端銑刀銑削加工情形"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:雅虎部落格 -shong6656)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-38 銑床銑削鍵座、半圓鍵"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:碧威公司、瑜誠工業公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-39 鍵座的標註例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "168"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-40 雙頭圓鍵座的標註"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-41 半圓鍵座的標註"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "paragraph",
+          "text": "丙級銑床工技術士 ( 資料來源:勞發署技能檢定中心 & 104 教育網證照中心 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、 工作範圍: 1. 具備機工行業之基本知識、職業道德、敬業精神、工作態度及安全習慣,能依照工作圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "或實樣準備材料、刀具、量具,操作銑床從事平面、垂直面、平行面、斜面、端面、階梯面、溝槽、 等分、銑斷、鑽孔與鉸孔等銑削工作。 2. 尺寸精度能達公差十級,表面粗糙度能達 6.3a ( 25 S )"
+        },
+        {
+          "type": "heading",
+          "text": "二、相關職務推薦: 1. CNC 機台操作人員、 2. 車床人員、 3. 銑床人員"
+        },
+        {
+          "type": "heading",
+          "text": "三、相關技能推薦: 1. 機械產品操作、 2. 電腦圖示辨認"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 169"
+        },
+        {
+          "type": "heading",
+          "text": "2. 造形加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄造及鍛造工件皆須要注意圓角與自由圓角設計,如圖 9-42 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-42 圓角的設計繪圖例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "170"
+        },
+        {
+          "type": "heading",
+          "text": "3. 表面精光"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件在經過切削加工後,若欲使產品外表美觀光亮,尺度更加精確,除磨床磨削外可施以 表面精光處理,它是一種藉低速摩擦作用之無屑加工法,在標註表面織構符號時之表面粗糙度 可達 0.2 μ m 以下,精度可達 1 μ m。表面精光方法如 (1) 搪磨 (Honing); (2) 研磨 (Lapping); (3) 超級精磨 (Super finishing,又稱超光製 ); (4) 滾筒磨光 (Barrel finishing,簡稱滾磨 ); (5) 拋光與 擦光 (Barrel finishing) 等。 欲得到高精度且平滑的加工面,其加工順序綜合整理可參考表 9-1,常見的輪磨標註,如圖 9-43 所示為尺度標註圖例,另外 9-3 節的公差與 9-4 節表面符號等合理性亦須考量。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-1 表面精光之加工順序"
+        },
+        {
+          "type": "paragraph",
+          "text": "平面 鉋削或銑削→平面磨削 ( 輪磨 ) →研磨或超級精磨。 圓柱 車削→外圓磨削 ( 輪磨 ) →超級精磨。 圓孔 鑽削→搪孔或車床璇孔或鉸削→內圓磨削 ( 輪磨 ) →搪磨。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-43 輪磨的標註"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:慧聰網 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 171"
+        },
+        {
+          "type": "heading",
+          "text": "9-3 公差與配合"
+        },
+        {
+          "type": "heading",
+          "text": "一、認識公差"
+        },
+        {
+          "type": "paragraph",
+          "text": "任何零件在製造加工過程中,常受人為操作、機器精度、材料變異、刀具磨耗、溫度變化、 單位成本等諸多 影響其加工精度因素。因此,為了便於製造、降低成本、機件互換性要求、易 速裝配、修護便利、方便實施品質管制,以及獲得均一之品質,設計者常在不影響機件之工作 性能下,允許機件尺度在生產製造時允許有一定的差異,此種 允許機件製造加工時之尺度變化 量,稱為 公差 (Tolerance)。 ( 一 ) 公差名詞術語:如圖 9-44 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 公稱尺度 (Nominal dimension):單位數字之標示,用以鑑別大小,在圖上所示之長度數值,"
+        },
+        {
+          "type": "paragraph",
+          "text": "為一般稱呼之尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 基本尺度 (Elemental dimension):決定尺度極限 ( 限界 ) 之基準或參考尺度,為一理論尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 實測尺度 (Actual dimension):零件製造後經測量而得之尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 極限尺度 (Limit dimension):零件製造所允許之最大與最小尺度,實測尺度必須介於兩極限"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺度之間,方屬合格機件,否則即為不良品。 (1) 最大極限尺度:二極限尺度中之最大尺度,簡稱最大尺度。 (2) 最小極限尺度:二極限尺度中之最小尺度,簡稱最小尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-44 尺度與公差"
+        },
+        {
+          "type": "heading",
+          "text": "5. 偏差 (Deviation):指極限尺度 ( 或實測尺度 ) 與基本尺度之差,分為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 上偏差:最大極限尺度與基本尺度之差稱之,代號 ES( 孔 ) 的上偏差, es( 軸 ) 的上偏差。 (2) 下偏差:最小極限尺度與基本尺度之差稱之,代號 EI( 孔 ) 的下偏差, ei( 軸 ) 的下偏差。 (3) 實際偏差:實際尺度與基本尺度之差。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 公差 (Tolerance):機件製造時所允許的尺度差異,乃最大極限尺度與最小極限尺度之差。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "172"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-1"
+        },
+        {
+          "type": "heading",
+          "text": "+ 0 02."
+        },
+        {
+          "type": "paragraph",
+          "text": "一尺度 φ 30 − 0 0. 3,則 (1) 公稱尺度、 (2) 基本尺度、 (3) 最大尺度、 (4) 最小尺度、 (5) 上偏差、 (6) 下偏差、 (7) 公差各為何?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 公稱尺度: 30mm"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 基本尺度: 30.00mm"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 最大尺度: 30.02mm"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 最小尺度: 29.97mm"
+        },
+        {
+          "type": "heading",
+          "text": "(5) 上偏差:+ 0.02mm"
+        },
+        {
+          "type": "heading",
+          "text": "(6) 下偏差:- 0.03mm"
+        },
+        {
+          "type": "paragraph",
+          "text": "(7) 公差: 30.02 - 29.97 = 0.05(mm);或 0.02 - ( - 0.03) = 0.05(mm)。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 公差種類"
+        },
+        {
+          "type": "heading",
+          "text": "+ 0 02."
+        },
+        {
+          "type": "heading",
+          "text": "1. 單向公差 (Unilateral tolerance):基本尺度於同側加或減一偏差所成之公差,如 φ 30 0、"
+        },
+        {
+          "type": "heading",
+          "text": "− 0 02. + 0 04."
+        },
+        {
+          "type": "paragraph",
+          "text": "φ 30 − 0.04、 φ 30 + 0.02。"
+        },
+        {
+          "type": "heading",
+          "text": "+ 0 02."
+        },
+        {
+          "type": "heading",
+          "text": "2. 雙向公差 ( Bilateral tolerance ):基本尺度於兩側分別做加或減一偏差所成之公差,如 φ 30 − 0 0. 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "、 30 ± 0.02。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 公差等級"
+        },
+        {
+          "type": "paragraph",
+          "text": "中華民國國家標準 (CNS) 所規範的公差等級,乃依據國際標準規格 (ISO) 之公差大小等級 分為 IT01、 IT0、 IT1 ∼ IT18 共計 20 級,此即所謂 標準公差 (Standard tolerance),如表 9-2 所示。 在同一公稱尺度中,公差等級號數愈大,則公差值愈大,表示機件愈粗糙,愈容易加工,精度 愈 差 且 亦 容 易 生 銹。 如 尺 度 φ 20 公 差 等 級 IT8 之 公 差 為 33 μ m, 公 差 等 級 IT6 之 公 差 為 13 μ m;反之公差等級號數愈小,則公差值愈小。 在同一公差等級中,公稱尺度愈大,則公差值 愈大,如尺度 φ 8 之公差等級為 IT8 時,公差為 22 μ m;尺度 φ 20 之公差等級為 IT8 時,公差 為 33 μ m。 公差等級之選用,依配合機件所需要之公差大小而定,分為三大類。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 規具公差 (IT01 ∼ IT4):用於塊規量具或高精度範圍者。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 配合公差 (IT5 ∼ IT10):用於一般機件之配合公差。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 非配合公差 (IT11 ∼ IT18):用於次級加工品或不配合機件之公差。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 173"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "一尺度為 φ 20,欲設計配合公差之公差等級設定為 IT8,試問其標準公差值為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "查表 9-2 所示,直徑分段在> 18 至 30,級別為 8,則其縱向與橫向座標交集數值 為 33,表示標準公差值為 33 μ m,即 0.033mm。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-2 標準公差數值表"
+        },
+        {
+          "type": "heading",
+          "text": "單位: 1 μ m"
+        },
+        {
+          "type": "heading",
+          "text": "級別"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺寸 01 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18"
+        },
+        {
+          "type": "heading",
+          "text": "分段"
+        },
+        {
+          "type": "paragraph",
+          "text": "≤3 0.3 0.5 0.8 1.2 2 3 4 6 10 14 25 40 60 100 140 250 400 600 1000 1400 >3 至 6 0.4 0.6 1 1.5 2.5 4 5 8 12 18 30 48 75 120 180 300 480 750 1200 1800 >6 至 10 0.4 0.6 1 1.5 2.5 4 6 9 15 22 36 58 90 150 220 360 580 900 1500 2200 >10 至 18 0.5 0.8 1.2 2 3 5 8 11 18 27 43 70 110 180 270 430 700 1100 1800 2700 >18 至 30 0.6 1 1.5 2.5 4 6 9 13 21 33 52 84 130 210 330 520 840 1300 2100 3300 >30 至 50 0.6 1 1.5 2.5 4 7 11 16 25 39 62 100 160 250 390 620 1000 1600 2500 3900 >50 至 80 0.8 1.2 2 3 5 8 13 19 30 46 74 120 190 300 460 740 1200 1900 3000 4600 >80 至 120 1 1.5 2.5 4 6 10 15 22 35 54 87 140 220 350 540 870 1400 2200 3500 5400 >120 至 180 1.2 2 3.5 5 8 12 18 25 40 63 100 160 250 400 630 1000 1600 2500 4000 6300 >180 至 250 2 3 4.5 7 10 14 20 29 46 72 115 185 290 460 720 1150 1850 2900 4600 7200 >250 至 315 2.5 4 6 8 12 16 23 32 52 81 130 210 320 520 810 1300 2100 3200 5200 8100 >315 至 400 3 5 7 9 13 18 25 36 57 89 140 230 360 570 890 1400 2300 3600 5700 8900 >400 至 500 4 6 8 10 15 20 27 40 63 97 153 250 400 630 970 1550 2500 4000 6300 9700"
+        },
+        {
+          "type": "heading",
+          "text": "*"
+        },
+        {
+          "type": "paragraph",
+          "text": "註:不包括尺寸 1mm 以下的 1T14 至 1T16 的標準公差數值 備考: 1. 1 μ m=0.001mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 標稱尺度在 3150mm 以下之標準公差等級之值。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 取自 CNS 標準。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 公差符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "公差符號以拉 丁 字母表示,與公差等級之數字並列。字母代表公差域 ( 帶 )(Size tolerance zone) 與零線間之位置關係,即一般所稱之 公差位置 ( Tolerance position ),係上下偏差兩條線間之 區域。其中以英文字母之大寫表示孔之公差帶,小寫表示軸公差帶。孔、軸公差帶分別各有 28 個位置,按字母依序缺少 I、 L、 O、 Q、 W(i、 l、 o、 q、 w),而增加 CD、 EF、 FG、 JS、 ZA、 ZB、 ZC(cd、 ef、 fg、 js、 za、 zb、 zc)。名詞及英文字母符號說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 零線 ( Zero line ):零線即偏差為零之線,用以代表基本尺度,做為偏差基準的直線。當零線"
+        },
+        {
+          "type": "paragraph",
+          "text": "以水平方向繪製時,正偏差在零線的上方,負偏差在零線的下方。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 公差區域 (Size tolerance zone):在公差的圖示中,表示公差限界的二條直線所包含的區域,"
+        },
+        {
+          "type": "paragraph",
+          "text": "以其大小 ( 公差 ) 及其對零線的相對位置規定之。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "174"
+        },
+        {
+          "type": "heading",
+          "text": "3. 基礎偏差 ( Foundationdeviation ):以接近零線之上偏差或下偏差,用以規定公差區域與零線之"
+        },
+        {
+          "type": "paragraph",
+          "text": "關係位置,如表 9-3 為軸常用尺度之基礎偏差數值表,表 9-4 為孔常用尺度之基礎偏差數值 表,敬請參閱之。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "一孔的公差位置在 G,尺度為 20mm,求其基礎偏差為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "查表 9-4 所示,直徑分段在> 18 至 24,字母為 G 之縱向與橫向座標交集數值為, 故該孔的基礎偏差即為其下偏差 7 μ m,亦即 0.007mm。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-3 軸基礎偏差數值表"
+        },
+        {
+          "type": "heading",
+          "text": "單位: μ m"
+        },
+        {
+          "type": "heading",
+          "text": "基礎偏差 下偏差值 EI"
+        },
+        {
+          "type": "paragraph",
+          "text": "符號 字母 a* b* c cd d e ef f fg g h js**"
+        },
+        {
+          "type": "heading",
+          "text": "直徑分段 級別 所有級別"
+        },
+        {
+          "type": "paragraph",
+          "text": "<3 -270 -140 -60 -34 -20 -14 -10 -6 -4 -2 0 >3 至 6 -270 -140 -70 -46 -30 -20 -14 -10 -6 -4 0 >6 至 10 -280 -150 -80 -56 -40 -25 -18 -13 -8 -5 0"
+        },
+        {
+          "type": "heading",
+          "text": ">10 至 14"
+        },
+        {
+          "type": "paragraph",
+          "text": "-290 -150 -95 -50 -32 -16 -6 0"
+        },
+        {
+          "type": "heading",
+          "text": ">14 至 18"
+        },
+        {
+          "type": "heading",
+          "text": ">18 至 24"
+        },
+        {
+          "type": "paragraph",
+          "text": "-300 -160 -110 -65 -40 -20 -7 0"
+        },
+        {
+          "type": "heading",
+          "text": ">24 至 30"
+        },
+        {
+          "type": "heading",
+          "text": ">30 至 40 -310 -170 -120"
+        },
+        {
+          "type": "heading",
+          "text": "-80 -50 -14 -9 0"
+        },
+        {
+          "type": "heading",
+          "text": ">40 至 50 -320 -180 -130"
+        },
+        {
+          "type": "heading",
+          "text": ">50 至 65 -340 -190 -140"
+        },
+        {
+          "type": "heading",
+          "text": "-100 -60 -30 -10 0"
+        },
+        {
+          "type": "heading",
+          "text": ">65 至 80 -360 -200 -150"
+        },
+        {
+          "type": "heading",
+          "text": "偏差 ="
+        },
+        {
+          "type": "paragraph",
+          "text": ">80 至 100 -380 -220 -170 1 T"
+        },
+        {
+          "type": "heading",
+          "text": "±"
+        },
+        {
+          "type": "heading",
+          "text": "-120 -72 -36 -12 0 2"
+        },
+        {
+          "type": "paragraph",
+          "text": ">100 至 120 -410 -240 -180 >120 至 140 -460 -260 -200 >140 至 160 -520 -280 -210 -145 -85 -43 -14 0 >160 至 180 -580 -310 -230 >180 至 200 -660 -340 -240 >200 至 250 -740 -380 -260 -170 -100 -50 -15 0 >225 至 250 -820 -420 -280 >250 至 280 -920 -480 -300"
+        },
+        {
+          "type": "heading",
+          "text": "-190 -110 -56 -17 0"
+        },
+        {
+          "type": "paragraph",
+          "text": ">280 至 315 -1050 -540 -330 >315 至 355 -1200 -600 -360"
+        },
+        {
+          "type": "heading",
+          "text": "-210 -125 -62 -18 0"
+        },
+        {
+          "type": "paragraph",
+          "text": ">355 至 400 -1350 -680 -400 >400 至 450 -1500 -760 -440"
+        },
+        {
+          "type": "heading",
+          "text": "-230 -135 -68 -20 0"
+        },
+        {
+          "type": "paragraph",
+          "text": ">450 至 500 -1650 -840 -480"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 175"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-3 軸基礎偏差數值表 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "單位: μ m"
+        },
+        {
+          "type": "heading",
+          "text": "基礎偏差 下偏差 ei"
+        },
+        {
+          "type": "paragraph",
+          "text": "符號 字母 j K m n p r s t u v x y z za zb zc"
+        },
+        {
+          "type": "heading",
+          "text": "直徑 <3"
+        },
+        {
+          "type": "heading",
+          "text": "級別 5 及 6 7 8 4 至 7 所有級別"
+        },
+        {
+          "type": "heading",
+          "text": "分級 >7"
+        },
+        {
+          "type": "paragraph",
+          "text": "<3 -2 -4 -6 0 0 +2 +4 +6 +10 +14 +18 +20 +26 +32 +40 +60 >3 至 6 -2 -4 +1 0 +4 +8 +12 +15 +19 +23 +28 +35 +42 +50 +80 >6 至 10 -2 -5 +1 0 +6 +10 +15 +19 +23 +28 +34 +42 +52 +67 +97 >10 至 14 +23 +40 +50 +64 +90 +130 -3 -6 +1 0 +7 +12 +18 +28 +33 +39 >14 至 18 +45 +60 +77 +108 +150 >18 至 24 +41 +47 +54 +63 +73 +98 +136 +188 -4 -8 +2 0 +8 +15 +22 +28 +35 >24 至 30 +41 +48 +55 +64 +75 +88 +118 +160 +218 >30 至 40 +34 +43 +48 +60 +68 +80 +94 +112 +148 +200 +274"
+        },
+        {
+          "type": "heading",
+          "text": "-5 -10 +2 0 +9 +17 +26"
+        },
+        {
+          "type": "paragraph",
+          "text": ">40 至 50 +54 +70 +81 +97 +114 +136 +180 +242 +325 >50 至 65 +41 +53 +66 +87 +102 +122 +144 +172 +226 +300 +405"
+        },
+        {
+          "type": "heading",
+          "text": "-7 -12 +2 0 +11 +20 +32"
+        },
+        {
+          "type": "paragraph",
+          "text": ">65 至 80 +43 +59 +75 +102 +120 +146 +174 +210 +274 +360 +480 >80 至 100 +51 +71 +91 +124 +146 +178 +214 +258 +335 +445 +585"
+        },
+        {
+          "type": "heading",
+          "text": "-9 -15 +3 0 +13 +23 +37"
+        },
+        {
+          "type": "paragraph",
+          "text": ">100 至 120 +54 +79 +104 +144 +172 +210 +254 +310 +400 +525 +690 >120 至 140 +3 0 +15 +27 +43 +63 +92 +122 +170 +202 +248 +300 +365 +470 +620 +800 >140 至 160 -11 -18 +65 +100 +134 +190 +228 +280 +340 +415 +535 +700 +900 >160 至 180 +68 +108 +146 +210 +252 +310 +380 +465 +600 +780 +1000 >180 至 200 +77 +122 +166 +236 +284 +350 +425 +520 +670 +880 +1150"
+        },
+        {
+          "type": "heading",
+          "text": "-13 -21 +4 0 +17 +31 +50"
+        },
+        {
+          "type": "paragraph",
+          "text": ">200 至 250 +80 +130 +180 +258 +310 +385 +470 +575 +740 +960 +1250 >225 至 250 +84 +140 +196 +284 +340 +425 +520 +640 +820 +1050 +1350 >250 至 280 -16 -26 +4 0 +20 +34 +56 +94 +158 +218 +315 +385 +475 +580 +710 +920 +1200 +1550 >280 至 315 +98 +170 +240 +350 +425 +525 +650 +790 +1000 +1300 +1700 >315 至 355 +108 +190 +268 +390 +475 +590 +730 +900 +1150 +1500 +1900 -18 -28 +4 +0 +21 +37 +62 >355 至 400 +114 +208 +294 +453 +530 +660 +820 +1000 +1300 +1650 +2100 >400 至 450 +126 +232 +330 +490 +595 +740 +920 +1100 +1450 +1850 +2400"
+        },
+        {
+          "type": "heading",
+          "text": "-20 -32 +5 0 +23 +40 +68"
+        },
+        {
+          "type": "paragraph",
+          "text": ">450 至 500 +132 +252 +360 +540 +660 +820 +1000 +1250 +1600 +2100 +2600"
+        },
+        {
+          "type": "heading",
+          "text": "*"
+        },
+        {
+          "type": "paragraph",
+          "text": "註:不包括直徑 1mm 以下 a 及 b 的偏差數值。"
+        },
+        {
+          "type": "heading",
+          "text": "** ± 1 T"
+        },
+        {
+          "type": "paragraph",
+          "text": ": 1T7 至 1T11 的 j8 的二個對稱偏差 中 1T( 單位 μ m) 為奇數時,亦可用次一個數代入化整。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "176"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-4 孔基礎偏差數值表"
+        },
+        {
+          "type": "heading",
+          "text": "單位: μ m"
+        },
+        {
+          "type": "heading",
+          "text": "基礎偏差 下偏差值 EI 上偏差值 ES"
+        },
+        {
+          "type": "paragraph",
+          "text": "符號 字母 A* B* C CD D E EF F FG G H JS** J K M N"
+        },
+        {
+          "type": "heading",
+          "text": "直徑"
+        },
+        {
+          "type": "paragraph",
+          "text": "級別 6 7 8 <8 >8 <8*** >8 <8 >8*"
+        },
+        {
+          "type": "heading",
+          "text": "分段"
+        },
+        {
+          "type": "paragraph",
+          "text": "<3 +270 +140 +60 +34 +20 +14 +10 +6 +4 +2 0 +2 +4 +6 0 0 -2+ D -2 -4 -4 >3 至 6 +270 +140 +70 +46 +30 +20 +14 +10 +6 +4 0 +5 +6 +10 -1+ D -4+ D -4 -8+ 0 >6 至 10 +280 +150 +80 +56 +40 +25 +18 +13 +8 +5 0 +5 +8 +12 -1+ D -6+ D -6 -10+ D 0"
+        },
+        {
+          "type": "heading",
+          "text": ">10 至 14"
+        },
+        {
+          "type": "paragraph",
+          "text": "+290 +150 +95 +50 +32 +16 +6 0 +6 +10 +15 -1+ D -7+ D -7 -12+ D 0"
+        },
+        {
+          "type": "heading",
+          "text": ">14 至 18"
+        },
+        {
+          "type": "heading",
+          "text": ">18 至 24"
+        },
+        {
+          "type": "paragraph",
+          "text": "+300 +160 +110 +65 +40 +20 +7 0 +8 +12 +20 -2+ D -8+ D -8 -15+ D 0"
+        },
+        {
+          "type": "heading",
+          "text": ">24 至 30"
+        },
+        {
+          "type": "heading",
+          "text": ">30 至 40 +310 +170 +120"
+        },
+        {
+          "type": "paragraph",
+          "text": "+80 +50 +14 +9 0 +10 +14 +24 -2+ D -9+ D -9 -17+ D 0"
+        },
+        {
+          "type": "heading",
+          "text": ">40 至 50 +320 +180 +130"
+        },
+        {
+          "type": "heading",
+          "text": ">50 至 65 +340 +190 +140"
+        },
+        {
+          "type": "paragraph",
+          "text": "+100 +60 +30 +10 0 +13 +18 +28 -2+ D -11+ D -11 -20+ D 0"
+        },
+        {
+          "type": "heading",
+          "text": ">65 至 80 +360 +200 +150"
+        },
+        {
+          "type": "paragraph",
+          "text": ">80 至 100 +380 +220 +170 偏差 +120 +72 +36 +12 0 +16 +22 +34 -3+ D -13+ D -13 -23+ D 0 >100 至 120 +410 +240 +180 1 T"
+        },
+        {
+          "type": "heading",
+          "text": "= ±"
+        },
+        {
+          "type": "paragraph",
+          "text": ">120 至 140 +460 +260 +200 2 >140 至 160 +520 +280 +210 +145 +85 +43 +14 0 +18 +26 +41 -3+ D -15+ D -15 -27+ D 0 >160 至 180 +580 +310 +230 >180 至 200 +660 +340 +240 >200 至 250 +740 +380 +260 +170 +100 +50 +15 0 +22 +30 +47 -4+ D -17+ D -17 -31+ D 0 >225 至 250 +820 +420 +280 >250 至 280 +920 +480 +300 +190 +110 +56 +17 0 +25 +36 +55 -4+ D -20+ D -20 -34+ D 0 >280 至 315 +1050 +540 +330 >315 至 355 +1200 +600 +360 +210 +125 +62 +18 0 +29 +39 +60 -4+ D -21+ D -21 -37+ D 0 >355 至 400 +1350 +680 +400 >400 至 450 +1500 +760 +440 +230 +135 +68 +20 0 +33 +43 +66 -5+ D -23+ D -23 -40+ D 0 >450 至 500 +1650 +840 +480"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 177"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-4 孔基礎偏差數值表 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "單位: μ m"
+        },
+        {
+          "type": "heading",
+          "text": "基礎偏差 上偏差值 ES"
+        },
+        {
+          "type": "heading",
+          "text": "D(μ m )"
+        },
+        {
+          "type": "paragraph",
+          "text": "符號 字母 P 至 ZC P R S T U V X Y Z ZA ZB ZC"
+        },
+        {
+          "type": "heading",
+          "text": "直徑"
+        },
+        {
+          "type": "heading",
+          "text": "級別 <7 >7 3 4 5 6 7 8"
+        },
+        {
+          "type": "heading",
+          "text": "分段"
+        },
+        {
+          "type": "paragraph",
+          "text": "<3 -6 -10 -14 -18 -20 -26 -32 -40 -60 D =0 >3 至 6 -12 -15 -19 -23 -28 -35 -42 -50 -80 1 1.5 1 3 4 6 >6 至 10 -15 -19 -23 -28 -34 -42 -52 -67 -97 1 1.5 2 3 6 7 >10 至 14 -40 -50 -64 -90 -130 -18 -23 -28 -33 1 2 3 3 7 9 >14 至 18 -39 -45 -60 -77 -108 -150 >18 至 24 -41 -47 -54 -63 -73 -98 -136 -188 選用 -22 -28 -35 1.5 2 3 4 8 12 >24 至 30 -41 -48 -55 -64 -75 -88 -118 -160 -218"
+        },
+        {
+          "type": "heading",
+          "text": ">7"
+        },
+        {
+          "type": "paragraph",
+          "text": ">30 至 40 -48 -60 -68 -80 -94 -112 -148 -200 -274 個級別的相同偏差數值再加上 -26 -34 -43 1.5 3 4 5 9 14 >40 至 50 -54 -70 -81 -97 -114 -136 -180 -242 -325 >50 至 65 -41 -53 -66 -87 -102 -122 -144 -172 -226 -300 -405"
+        },
+        {
+          "type": "heading",
+          "text": "-32 2 3 5 6 11 16"
+        },
+        {
+          "type": "paragraph",
+          "text": ">65 至 80 -43 -59 -75 -102 -120 -146 -174 -210 -274 -360 -480 >80 至 100 -51 -71 -91 -124 -146 -178 -214 -258 -335 -445 -585"
+        },
+        {
+          "type": "heading",
+          "text": "-37 2 4 5 7 13 19"
+        },
+        {
+          "type": "paragraph",
+          "text": ">100 至 120 -54 -79 -104 -144 -172 -210 -254 -310 -400 -525 -690 >120 至 140 -63 -92 -122 -170 -202 -248 -300 -365 -470 -620 -800 >140 至 160 -43 -65 -100 -134 -190 -228 -280 -340 -415 -535 -700 -900 3 4 6 7 15 23 >160 至 180 D -68 -108 -146 -210 -252 -310 -380 -465 -600 -780 -1000"
+        },
+        {
+          "type": "heading",
+          "text": "值"
+        },
+        {
+          "type": "paragraph",
+          "text": ">180 至 200 -77 -122 -166 -236 -284 -350 -425 -520 -670 -880 -1150 >200 至 225 -50 -80 -130 -180 -258 -310 -385 -470 -575 -740 -960 -1250 3 4 6 9 17 26 >225 至 250 -84 -140 -196 -284 -340 -425 -520 -640 -820 -1050 -1350 >250 至 280 -94 -158 -218 -315 -385 -475 -580 -710 -920 -1200 -1550"
+        },
+        {
+          "type": "heading",
+          "text": "-56 4 4 7 9 20 29"
+        },
+        {
+          "type": "paragraph",
+          "text": ">280 至 315 -98 -170 -240 -350 -425 -525 -650 -790 -1000 -1300 -1700 >315 至 355 -108 -190 -268 -390 -475 -590 -730 -900 -1150 -1500 -1900"
+        },
+        {
+          "type": "heading",
+          "text": "-62 4 5 7 11 21 32"
+        },
+        {
+          "type": "paragraph",
+          "text": ">355 至 400 -114 -208 -294 -435 -530 -660 -820 -1000 -1300 -1650 -2100 >400 至 450 -126 -232 -330 -490 -595 -740 -920 -1100 -1450 -1850 -2400"
+        },
+        {
+          "type": "heading",
+          "text": "-68 5 5 7 13 23 34"
+        },
+        {
+          "type": "paragraph",
+          "text": ">450 至 500 -132 -252 -360 -540 -660 -820 -1000 -1250 -1600 -2100 -2600 註: * 不包括直徑 1mm 以下所有級別的 A 及 B 偏差數值,及不包括 IT8 以下的 N 偏差數值。"
+        },
+        {
+          "type": "heading",
+          "text": "1 T"
+        },
+        {
+          "type": "paragraph",
+          "text": "** IT7 至 IT11 的 js 的二個對稱偏差 ± 中 IT( 單位 μ m) 為奇數時,亦可用次一偶數代入化整。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "*** 特別情況,自 250 至 315 直徑分段的 M6 的 ES=–9( 不採用 -11) 備考:決定 IT8 以下的 K、 M、 N 偏差數值,以及 IT7 以下的 P 至 ZC 偏差數值,須自右邊各欄選用 D 值。 例:自 18 至 30 直徑分段的 P7 選取 D -8 代入求得 ES=–14。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "178"
+        },
+        {
+          "type": "heading",
+          "text": "4. 孔公差位置:如圖 9-45 所示"
+        },
+        {
+          "type": "heading",
+          "text": "+ ES"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) A ∼ G:在零線以上,以下偏差 (Under deviation) 為基礎偏差,即基本尺度 + EI。"
+        },
+        {
+          "type": "heading",
+          "text": "+ ES"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) H:在零線往上偏,以下偏差為基礎偏差,即基本尺度 0。"
+        },
+        {
+          "type": "heading",
+          "text": "+ ES"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) J、 JS、 K:跨在零線上,為雙向公差,即基本尺度 − EI。"
+        },
+        {
+          "type": "heading",
+          "text": "− ES"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) M ∼ ZC:以上偏差 (Upper deviation) 為基礎偏差,即基本尺度 − EI。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-45 孔公差位置"
+        },
+        {
+          "type": "heading",
+          "text": "5. 軸公差位置:如圖 9-46 所示"
+        },
+        {
+          "type": "heading",
+          "text": "− es"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) a ∼ g:在零線以下,以上偏差為基礎偏差,即基本尺度 − ei。"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) h:在零線往下偏,以上偏差為基礎偏差,即基本尺度 − ei。"
+        },
+        {
+          "type": "heading",
+          "text": "+ es"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) j、 js:跨在零線上,為雙向公差,即基本尺度 − ei。"
+        },
+        {
+          "type": "heading",
+          "text": "+ es"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) k ∼ zc:以下偏差為基礎偏差,即基本尺度 + ei。 (5) 孔與軸基礎偏差對稱:對零線的關係而言,孔基礎偏差的限界與相同字母符號的軸基 礎 偏 差 的 限 界 為 完 全 對 稱。 即 在 A ∼ H 中, | EI = es |, 在 J ∼ ZC 中, | ES = ei |。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-46 軸公差位置"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 179"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "一尺度標註為 25G8,試問其上偏差、下偏差、基礎偏差及公差各為若干?尺度之"
+        },
+        {
+          "type": "heading",
+          "text": "表示為何?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 查表 9-2 標準公差數值表所示, 8 級為 33 μ m,表示 0.033mm。 (b) 查表 9-4 孔基礎偏差數值表所示, 公差位置 G 之基礎偏差即為其下偏差, 數值為 7, 表示 0.007mm(7 μ m)。 (c) 又因孔公差位置 A ∼ G 皆在零線以上,且以下偏差為基礎偏差,其尺度表示為基"
+        },
+        {
+          "type": "heading",
+          "text": "+ ES"
+        },
+        {
+          "type": "heading",
+          "text": "本尺度 + EI,且公差等於上偏差減下偏差,故"
+        },
+        {
+          "type": "heading",
+          "text": "+ES 上偏差 +0.04"
+        },
+        {
+          "type": "paragraph",
+          "text": "φ 25G8 ⇒ φ 25 +EI ⇒ φ 25 下偏差 ⇒ φ 25 +0.007 ( 其中,公差 0.033 =上偏差- 0.007,故上偏差= 0.033 + 0.007 = 0.04mm)"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 公差標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "標註公差時,所使用之公差符號及其數值表依 CNS4-1( 限界與配合 ) 之規定。有關其公差"
+        },
+        {
+          "type": "heading",
+          "text": "標註,說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 長度公差之標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 長度公差之標註可採用如圖 9-47 所示其中一種,例如圖 9-47(a) 中 G8 採用公差符號時, 該符號之大小與尺度數字相同。如圖 9-47(b) 中公差符號加註限界尺度時,應將限界尺 度用括弧分隔以示參考用,限界尺度數字之高度與尺度數字相同,下限界尺度與尺度數 字對齊。如圖 9-47(c) 中標註偏差時,偏差數字之高度與尺度數字相同,下偏差與尺度數 字對齊。如圖 9-47(d) 中僅標註上下兩限界時,應將上限界尺度寫在上方,下限界尺度 寫在下方,數字之高度與一般尺度數字相同。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-47 長度公差標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "180"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 當公差之上下偏差相同時,偏差數字之高度與尺度數字相同,且下方與尺度數字對齊, 如圖 9-48 所示。 (3) 當上偏差或下偏差為 0( 即基礎偏差為零 ) 時,此時 0 無正負號,標註應如圖 9-49 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-48 上下偏差相同"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-49 基礎偏差為零"
+        },
+        {
+          "type": "heading",
+          "text": "2. 角度公差標註:角度公差之標註,原則上與長度公差標註之方法相同,如圖 9-50 所示圖例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-50 角度公差標註"
+        },
+        {
+          "type": "heading",
+          "text": "二、認識配合"
+        },
+        {
+          "type": "paragraph",
+          "text": "機器或結構常須以多個機件 ( 零件 ) 相互結合,任何一產品中機件,部分在相對旋轉或移動、 部分固定或靜止, 故在裝配過程應考慮其轉動難易或固定情況, 這種考慮稱為 配合 ( Fit ), 換言之, 機件間做裝配時,須考慮組成產品之各項機件間之互換性;考慮各零件能在允許的某一範圍內 換裝,以獲得同等之功能與效用。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 181"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 配合相關名詞術語"
+        },
+        {
+          "type": "heading",
+          "text": "1. 配合:指軸、孔件裝配在一起,轉動或固定所須之鬆緊程度,乃在裝配前所產生的尺度差異"
+        },
+        {
+          "type": "paragraph",
+          "text": "關係,即為相配機件之公差算術總和。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 一組配合的基本尺度:一組配合中二個裝配機件的共同基本尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 間隙 ( Clearance ):孔與軸在裝配前的尺度差異為正數時,又稱為 餘隙。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 過盈 ( Interference 或 Tightness):孔與軸在裝配前的尺度差異為負數時,又稱為 干涉。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 過渡 ( Transition):孔與軸在裝配前的尺度差異可能為正數或負數。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 裕度 (Allowance):兩配合件在 最大材料極限狀況 下所期望之差異,乃為加工所預留之尺度,"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱 容許誤差 ( 容差 )。即孔之最小尺度與軸之最大尺度之差。若為正值,表示此時產生最 小間隙 ( 餘隙 ),稱為正裕度。若為負值,表示此時產生最大過盈 ( 干涉 ),稱為負裕度。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 配合種類: 如圖 9-51 所示"
+        },
+        {
+          "type": "heading",
+          "text": "1. 間隙 ( 留隙 ) 配合 (Clearancefits 或 Loose fit):又稱 餘隙配合,當孔之尺度大於軸時,孔與"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸之尺度差異為正值。有: (1) 最大間隙 ( 留隙 ):孔之最大尺度與軸之最小尺度之差為正值。 (2) 最小間隙 ( 留隙 ):孔之最小尺度與軸之最大尺度之差為正值。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-51 配合種類"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "182"
+        },
+        {
+          "type": "heading",
+          "text": "2. 過盈 ( 干涉 ) 配合 ( Interfere fits 或 Tight fits):又稱 干涉配合,當軸之尺度大於孔時,軸與孔"
+        },
+        {
+          "type": "paragraph",
+          "text": "之尺度差異為負值。有: (1) 最大過盈 ( 干涉 ):孔之最小尺度與軸之最大尺度之差為負值。 (2) 最小過盈 ( 干涉 ):孔之最大尺度與軸之最小尺度之差為負值。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 過渡配合 ( Transition fits):孔、軸配合時,可能產生間隙 ( 餘隙 ) 或過盈 ( 干涉 ) 者。有:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 最大間隙 ( 留隙 ):孔之最大尺度與軸之最小尺度之差為正值。 (2) 最大過盈 ( 干涉 ):孔之最小尺度與軸之最大尺度之差為負值。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-5"
+        },
+        {
+          "type": "heading",
+          "text": "+ 0 04. − 0 03."
+        },
+        {
+          "type": "paragraph",
+          "text": "一孔 φ 30 − 0 0. 2 與一軸 φ 30 − 0 0. 5 配合,則求 (1) 最大間隙、 (2) 最小間隙、 (3) 裕度?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 最大間隙=孔最大尺度-軸最小尺度= 30.04 - 29.95 = 0.09mm (2) 最小間隙=孔最小尺度-軸最大尺度= 29.98 - 29.97 = 0.01mm (3) 裕度=孔最小尺度軸最大尺度= 29.98 - 29.97 = 0.01mm 註 此例題為間隙配合,其裕度表示最小間隙。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 配合制度"
+        },
+        {
+          "type": "paragraph",
+          "text": "屬於一種限界制度的軸與孔配合的制度,分成基孔制與基軸制,即:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 基孔制 (Basic hole system):以孔的公差不變,與所擬之軸配合,可得各種不同的間隙 ( 餘隙 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "或過盈 ( 干涉 ) 的一種配合制度; 或可為用不同公差級數, 但基礎偏差 ( 亦指下偏差 ) 為零的孔; 換言之, 以孔之基本尺度做為孔之最小尺度。 如圖 9-52 所示, 基孔制之公差位置以 H 為基準, 為最常用之配合制度,常用的公差等級為 IT5 ∼ IT10,即 H5 ∼ H10 之間。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-52 基孔制與配合種類"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 183"
+        },
+        {
+          "type": "heading",
+          "text": "2. 基軸制 (Basic shaft system):以軸的公差不變,所擬之孔配合,可得各種不同的間隙 ( 餘隙 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "或過盈 ( 干涉 ) 的一種配合制度,或可為用不同公差級數,但基礎偏差 ( 亦指上偏差 ) 為零 的軸;換言之,以軸之基本尺度做為軸之最大尺度。如圖 9-53 所示,基軸制之公差位置以 h 為基準,常用的公差等級為 IT4 ∼ IT9,即 h4 ∼ h9 之間。由於軸徑較容易加工,故孔的公 差等級通常較軸徑之公差等級要大一級或亦可採用同級。常用之基孔制或基軸制配合,如表 9-5 與 9-6 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-53 基軸制與配合種類"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-5 基孔制之常用配合"
+        },
+        {
+          "type": "heading",
+          "text": "餘隙配合 過渡配合 干涉配合"
+        },
+        {
+          "type": "heading",
+          "text": "基孔制"
+        },
+        {
+          "type": "paragraph",
+          "text": "b c d e f g h js k m n n p r s t u x"
+        },
+        {
+          "type": "heading",
+          "text": "H6 5 5 5 5 5 5 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "H7 6 6 6 6 6 6 6 6 6 6 6 6 6"
+        },
+        {
+          "type": "heading",
+          "text": "7 7 7 7 7 7 7 7"
+        },
+        {
+          "type": "heading",
+          "text": "H8"
+        },
+        {
+          "type": "heading",
+          "text": "8 8 8 8"
+        },
+        {
+          "type": "heading",
+          "text": "H9 8 8 8 8"
+        },
+        {
+          "type": "heading",
+          "text": "H10 9 9 9 9 9"
+        },
+        {
+          "type": "heading",
+          "text": "H11 11 11 10 10"
+        },
+        {
+          "type": "heading",
+          "text": "註:情況許可,應優先選擇框格中配合之公差"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-6 基軸制之常用配合"
+        },
+        {
+          "type": "heading",
+          "text": "餘隙配合 過渡配合 干涉配合"
+        },
+        {
+          "type": "heading",
+          "text": "基軸制"
+        },
+        {
+          "type": "paragraph",
+          "text": "B C D E F G H JS K M N N P R S T U X"
+        },
+        {
+          "type": "heading",
+          "text": "h5 6 6 6 6 6 6 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "h6 7 7 7 7 7 7 7 7 7 7 7 7 7"
+        },
+        {
+          "type": "heading",
+          "text": "h7 8 8 8"
+        },
+        {
+          "type": "heading",
+          "text": "h8 9 9 9 9"
+        },
+        {
+          "type": "heading",
+          "text": "8 8 8"
+        },
+        {
+          "type": "heading",
+          "text": "h9 9 9 9 9"
+        },
+        {
+          "type": "heading",
+          "text": "11 10 10 10"
+        },
+        {
+          "type": "heading",
+          "text": "註:情況許可,應優先選擇框格中配合之公差"
+        },
+        {
+          "type": "heading",
+          "text": "例題 9-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "一機件配合為 30 H8/g7,試問 (1) 何種配合制度、 (2) 何種配合種類?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 屬於基孔制,因 H 字母代表孔。 (2) 屬於間隙 ( 餘隙 ) 配合,因孔尺度比較大,而軸徑 g 之公差為負偏差,故孔尺度 大於軸尺度之配合為間隙 ( 餘隙 ) 配合。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 配合件之公差標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "在組合工作圖中,常出現須標註該組合件之尺度公差,可採用如圖 9-54 所示四種方法之一。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-54 組合件公差標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 185"
+        },
+        {
+          "type": "heading",
+          "text": "9-4 表面織構符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件之尺度除了公差外,尚須考慮機件各部位表面之不同光滑程度,以免影響機件組合之 運轉功能或運動時的磨損現象。故機件配合之表面狀況必須加以嚴格控管與規範,方能符合設 計需求,使品質更臻完善。而表面狀況之表示,以表面織構符號 (Surface texture symbol) 為之, 包括表面之加工方法及對機件表面織構的要求等。"
+        },
+        {
+          "type": "heading",
+          "text": "一、表面織構之意義及測定方法"
+        },
+        {
+          "type": "heading",
+          "text": "當物件經加工後,被加工的工作物面,用手指"
+        },
+        {
+          "type": "heading",
+          "text": "甲輕輕地刮其表面,可觸覺高低不平、粗糙程度不同"
+        },
+        {
+          "type": "heading",
+          "text": "的情況,或是看起來光滑的平面,但利用電子顯微鏡"
+        },
+        {
+          "type": "heading",
+          "text": "去觀察機件表面有凹凸不同的情況,稱為 表面粗糙"
+        },
+        {
+          "type": "paragraph",
+          "text": "度 (S urface roughness ),俗稱 光度 (L uminance )。一般"
+        },
+        {
+          "type": "heading",
+          "text": "表面粗糙度愈粗糙,於大氣中愈容易繡化,製造較容"
+        },
+        {
+          "type": "heading",
+          "text": "易,其加工成本低,反之,表面粗糙度愈精細,製造"
+        },
+        {
+          "type": "paragraph",
+          "text": "較不易,加工成本則較高。然而,表面粗糙度的粗細"
+        },
+        {
+          "type": "heading",
+          "text": "程度決定,得視每樣機件配合的機械功能性與機件加"
+        },
+        {
+          "type": "paragraph",
+          "text": "工性,方能達到機械功能與成本的需求。"
+        },
+        {
+          "type": "heading",
+          "text": "表面粗糙度之測量方式有電子探針測量法、比"
+        },
+        {
+          "type": "heading",
+          "text": "較測量法、光學測量法、放射線同位素測量法、電容"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-55 表面粗糙度檢測儀"
+        },
+        {
+          "type": "paragraph",
+          "text": "測量法⋯等,其中 電子探針測量法 是利用如圖 9-55 ( 圖片來源:三豐儀器公司、勤加緣網 )"
+        },
+        {
+          "type": "heading",
+          "text": "所示表面粗糙度檢測儀,將工件之表面粗糙度值快速"
+        },
+        {
+          "type": "paragraph",
+          "text": "分析出。而 比較測量法 是利用視覺、觸覺或放大鏡, 藉由如圖 9-56 所示表面粗糙度標準片與工件表面之 情況比較出相對應之表面粗糙度值。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-56 表面粗糙度標準片"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:寧波旗辰儀器公司 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "186"
+        },
+        {
+          "type": "heading",
+          "text": "二、表面織構符號之圖形意義"
+        },
+        {
+          "type": "paragraph",
+          "text": "表面狀況之表面粗糙度,以表面織構符號表示,說明如后。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 基本符號"
+        },
+        {
+          "type": "heading",
+          "text": "基本符號與加工面之邊緣成 60 ° 角度之"
+        },
+        {
+          "type": "heading",
+          "text": "不等邊 V 字,其頂點必須與代表加工面之線"
+        },
+        {
+          "type": "paragraph",
+          "text": "或延長線接觸,如圖 9-57 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-57 基本符號"
+        },
+        {
+          "type": "heading",
+          "text": "2. 延伸符號"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 必須去除材料:當表面需要利用工作"
+        },
+        {
+          "type": "paragraph",
+          "text": "母 機 切 削 工 件 表 面 以 去 除 材 料, 則 必 須 在 基 本 符 號 上 加 一 橫 線, 如 圖 9-58(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 不得去除材料: 當表面不得去除材料,"
+        },
+        {
+          "type": "heading",
+          "text": "則必須在基本符號上加一圓圈,如圖"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-58 延伸符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-58(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 完整符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "當表面有表面織構限制時,須使用完整符號標註,完整符號即利用基本符號或延伸符號 任一符號之長邊加一水平線,如圖 9-59 所示。完整符號若以文字的方式表示,則允許任何加 工方法 ( 未規定加工方法的表面 ) 之代號為 APA(Any process allow)、必須去除材料之代號為 MRR(Material Removal Reguied)、不得去除材料 ( 保持前次加工方法所形成的表面 ) 之代號為 NMR(No material remove),如表 9-7 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-59 完整符號"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-7 完整符號若以文字的方式"
+        },
+        {
+          "type": "heading",
+          "text": "代號 意義 標註範例"
+        },
+        {
+          "type": "heading",
+          "text": "APA 允許任何加工方法 APA Ra 3.2"
+        },
+        {
+          "type": "heading",
+          "text": "MRR 必須去除材料 MRR Ra 0.8"
+        },
+        {
+          "type": "heading",
+          "text": "NMR 不得去除材料 NMR Ra 6.3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 187"
+        },
+        {
+          "type": "heading",
+          "text": "4. 工件輪廓所有表面之符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "當工件輪廓 ( 投影視圖上封閉的輪廓 ) 所有表面有相同織構時,須在完整符號中加上一小圓 圈,如圖 9-60 所示為所有 6 個平面之表面織構要求皆相同,但不包括前後平面。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-60 對所有 6 個平面之表面織構要求以工件輪廓表示"
+        },
+        {
+          "type": "heading",
+          "text": "5. 表面織構符號之繪製"
+        },
+        {
+          "type": "paragraph",
+          "text": "符號之線寬與高度應依照表 9-8 中之規定繪製,而 c 框格下方之水平線長度,會依加註事項 內容長短而調整,如圖 9-61 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-8 符號之線寬與高度之規定"
+        },
+        {
+          "type": "heading",
+          "text": "數字及字母高度"
+        },
+        {
+          "type": "heading",
+          "text": "2.5 3.5 5 7 10 14 20"
+        },
+        {
+          "type": "heading",
+          "text": "H( 參照 CNS 3)"
+        },
+        {
+          "type": "heading",
+          "text": "符號 d' 線寬"
+        },
+        {
+          "type": "heading",
+          "text": "0.25 0.35 0.5 0.7 1 1.4 2"
+        },
+        {
+          "type": "heading",
+          "text": "符號 d 線寬"
+        },
+        {
+          "type": "paragraph",
+          "text": "H1 高度 3.5 5 7 10 14 20 28"
+        },
+        {
+          "type": "heading",
+          "text": "(a)"
+        },
+        {
+          "type": "paragraph",
+          "text": "H2 高度 ( 最小 ) 7.5 10.5 15 21 30 42 60"
+        },
+        {
+          "type": "heading",
+          "text": "(6)"
+        },
+        {
+          "type": "paragraph",
+          "text": "註 H2 高度參照所加註行的數目。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-61 符號之線寬與高度"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "188"
+        },
+        {
+          "type": "heading",
+          "text": "三、表面織構符號的組成"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 四項資訊:為確保對表面織構之要求,表面織構符號必須要含有 4 項資訊:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 參數型態:參數型態有分為輪廓參數、圖形參數及材料比曲線參數三種,如表 9-9 所示,有"
+        },
+        {
+          "type": "paragraph",
+          "text": "R、 W、 P 三種代號,其中 R 代表表面粗糙度 (Roughness)、 W 代表波紋 (Wavy)、 P 代表結構 (Profile),須標註表面輪廓中的任 1 項,參數型態可參照附錄 A。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-9 表面織構之參數型態"
+        },
+        {
+          "type": "heading",
+          "text": "參數型態"
+        },
+        {
+          "type": "heading",
+          "text": "材料比曲線"
+        },
+        {
+          "type": "heading",
+          "text": "輪廓 圖形"
+        },
+        {
+          "type": "heading",
+          "text": "線性 機率"
+        },
+        {
+          "type": "heading",
+          "text": "R W P R W R R P"
+        },
+        {
+          "type": "heading",
+          "text": "2. 標註表面織構特徵:可參照附錄 B,常見的特徵代號如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) Ra:表面粗糙度輪廓算術平均偏差 (a 表示算術平均偏差 ) (2) Rz:表面粗糙度最大輪廓高度 (z 表示最大輪廓高度 ) (3) Rq:表面粗糙度輪廓均方根偏差 (q 表示均方根偏差 ) (4) Wz:波紋最大輪廓高度 (z 表示最大輪廓高度 ) (5) Pt:結構輪廓總高度 (t 表示總高度 )"
+        },
+        {
+          "type": "heading",
+          "text": "3. 評估長度為取樣長度之倍數"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 輪廓參數:使用輪廓參數時,若省略而未標註評估長度,則表示為預設值,分述如下: 1 R 輪廓 ( 粗糙度 ):評估長度預設為 5,若評估長度包含的取樣長度數目不是預設值時, 此時取樣長度的數目應該緊鄰相關參數代號旁標註。例如 Rq3、 Rz3、 Ra3 ⋯等,表 示評估長度為 3 倍取樣長度。 2 W 輪廓 ( 波紋 ):取樣長度的數目應該緊鄰於波紋參數代號旁標註,例 Wz5 或 Wa3。 3 P 輪廓 ( 結構 ):結構參數的預設評估長度為測量全長,即取樣長度等於評估長度。 (2) 圖形參數: 使用圖形參數時, 圖形參數的預設評估長度為 16mm, 若評估長度不是預設值, 則應該將評估長度標註在表面織構參數代號前的兩條斜線間。例如: 0.008-0.5/12/R10。"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 材料比曲線參數:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 R 輪廓:若評估長度包含的取樣長度數目不是預設 5 時,此時取樣長度的數目應該 緊鄰相關參數代號旁標註。 2 P 輪廓:結構參數的預設評估長度為測量全長,即取樣長度等於評估長度。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 189"
+        },
+        {
+          "type": "heading",
+          "text": "4. 應說明所標註的限界規格:參照附錄 C"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 16%- 規則:為預設值,使用此規則可省略不標註限界規則,如圖 9-62 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-62 16%- 規則"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 最大 - 規則:如果使用最大 - 規則,則加註 \"max\",如圖 9-63 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-63 最大 - 規則"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 表面織構要求之標註順序說明"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-64 表面織構要求之標註順序"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 9-64 所示標註之小寫英文字母順序說明如下: a. 限界形式:表面織構參數上限界的代號為” U ”,下限界的代號為” L ”,通常表面織構參 數為單邊上限界時,” U ”可以省略不須標註;若為單邊下限界時,則參數代號前要標註” L ” ( 如: L Ra0.32)。 表面織構參數為雙邊限界時,"
+        },
+        {
+          "type": "heading",
+          "text": "則參數代號前之上、下限界規格分別標註 U、"
+        },
+        {
+          "type": "paragraph",
+          "text": "L,如圖 9-65(a) 所示,但上下限界有相同的"
+        },
+        {
+          "type": "heading",
+          "text": "參數代號但限界值不同時,則 U 及 L 可以省"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-65 雙邊限界表面規定"
+        },
+        {
+          "type": "paragraph",
+          "text": "略,如圖 9-65(b) 所示。 b. 濾波器形態 \"X\": 目前標準濾波器為高斯 (Gaussian) 濾波器, 之前的標準濾波器為 2RC 濾波器。 目前就依各濾波器之形態加註於圖面上,濾波器形態可以標註成 \"Gaussian\" 或 \"2RC\",可以 省略不標註。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "190"
+        },
+        {
+          "type": "paragraph",
+          "text": "c. 傳輸波域:標註短波、長波濾波器之截止值 ( 如 0.0025 – 0.8) (1) 為使表面織構要求項目可以更明確地約束所規定表面,傳輸波域應該標註在參數代號之 前並斜線 (/) 分開,傳輸波域之加註包含濾波器的截止值,首先標註短波濾波器,再標註 長波濾波器,其單位為 mm,中間以連字符號 \"-\" 分開,如圖 9-66 所示。若僅有 1 個濾 波器被標註,當標註「 0.008- 」,代表為短波濾波器之標註;當標註「 -0.25 」,則代表 為長波濾波器之標註。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-66 傳輸波域連接參數代號之標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 若未加註傳輸波域,則為預設傳輸波域 ( 預設傳輸波域可參照附錄 D),如圖 9-67 中之表 面織構要求事項並未加註傳輸波域。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-67 預設傳輸波域"
+        },
+        {
+          "type": "paragraph",
+          "text": "d. 輪廓:標註 R 輪廓代表粗糙度、 W 輪廓代表波紋、或 P 輪廓代表結構。 e. 特徵: 標註表面織構特徵, 如: a( 輪廓算術平均偏差 )、 z( 最大輪廓高度 )、 q( 輪廓均方根偏差 )、 t( 輪廓總高度 ) ⋯等 )。 f. 評估長度為多少倍取樣長度:如使用 R 輪廓之預設值 5 倍時可省略不標。 g. 限界規則: 16%- 規則或最大 - 規則。 h. 最低限界值:以較常使用之 Ra 值 ( 單位 μ m),與 ISO 粗糙度等級對照,如表 9-10 所示。 ▼ 表 9-10 Ra 值與 ISO 粗糙度等級對照 粗糙度等級 N12 N11 N10 N9 N8 N7 N6 N5 N4 N3 N2 N1 - Ra( μ m) 50 25 12.5 6.3 3.2 1.6 0.8 0.4 0.2 0.1 0.05 0.025 0.0125"
+        },
+        {
+          "type": "heading",
+          "text": "表面情況 光胚面 粗切面 細切面 精切面 超光面"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 完整符號中各位置之標註說明: 如圖 9-68 所示"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-68 完整符號中各位置之標註說明"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 191"
+        },
+        {
+          "type": "heading",
+          "text": "1. 位置 a 單一項表面織構要求:"
+        },
+        {
+          "type": "heading",
+          "text": "標註單一項表面織構要求時,當評估長度及"
+        },
+        {
+          "type": "heading",
+          "text": "限界規則為預設值,為避免誤解,應該在參數代"
+        },
+        {
+          "type": "paragraph",
+          "text": "號及限界值之間空兩格,如圖 9-69 所示。 ▲ 圖 9-69 標註單一項表面織構要求說明"
+        },
+        {
+          "type": "heading",
+          "text": "2. 位置 b 對 2 個或更多表面織構之要求事項: 如圖 9-70 所示"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 第 1 個表面織構要求事項加註在位置” a ”。 (2) 第 2 個表面織構要求事項加註在位置” b ”。 (3) 第 3 個或更多表面織構要求事項需要加註,為提供足 ▲ 圖 9-70 位置 b 要求事項 夠空間放置多條線,在符號的垂直方向必須加長。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 位置 c 加工方法及相關資訊之標註:"
+        },
+        {
+          "type": "paragraph",
+          "text": "表面的加工方法可以用文字表示或加註在完整符號上,如圖 9-71 所示。當見加工方法有銼 削、車削、銑削、輪磨⋯等,其代字如表 9-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-71 加工方法之標註"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-11 各種加工方法代字"
+        },
+        {
+          "type": "heading",
+          "text": "項目 加工方法 代字 項目 加工方法 代字"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 車削 (Turning) 車 19 鑄造 (Casting) 鑄 2 銑削 (Milling) 銑 20 鍛造 (Forging) 鍛 3 刨削 (Planing,shaping) 刨 21 落鎚鍛造 (Drop Forging) 落鍛 4 搪孔 (Boring) 搪 22 壓鑄 (Die Casting) 壓鑄 5 鑽孔 (Drilling) 鑽 23 超光製 (Super Finishing) 超光 6 鉸孔 (Reaming) 鉸 24 鋸切 (Sawing) 鋸 7 攻螺絲 (Tapping) 攻 25 焰割 (Flamc Cutting) 焰割 8 拉削 (Broaching) 拉 26 擠製 (Extruding) 擠 9 輪磨 (Grinding) 輪磨 27 壓光 (Burnishing) 壓光 10 搪光 (Honing) 搪光 28 抽製 (Drawing) 抽製 11 研光 (Lapping) 研光 29 衝製 (Blanking) 衝製 12 拋光 (Polishing) 拋光 30 衝孔 (Piercing) 衝孔 13 擦光 (Buffing) 擦光 31 放電加工 (E,D,M) 放電 14 砂光 (Sanding) 砂光 32 電化加工 (E,C,M) 電化 15 滾筒磨光 (Tumbling) 滾磨 33 化學銑削 (C,Miling) 化銑 16 鋼絲刷光 (Brushing) 鋼刷 34 化學切削 (C,Machining) 化削 17 銼刷 (Filing) 銼 35 雷射加工 (Laser manufacture) 雷射 18 刮刷 (Scraping) 刮 36 電化磨光 (E.C.G) 電化磨"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "192"
+        },
+        {
+          "type": "heading",
+          "text": "4. 位置 d 表面紋理之標註:"
+        },
+        {
+          "type": "heading",
+          "text": "機件在機械加工時,採用不同的切削加工方法或"
+        },
+        {
+          "type": "heading",
+          "text": "進刀方向,會產生不同的紋理及方向,其符號表示如表"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-12,其標註位置如圖 9-72 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-72 紋理及方向之標註"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-12 各種紋理及方向符號"
+        },
+        {
+          "type": "heading",
+          "text": "符號 說明 圖例"
+        },
+        {
+          "type": "heading",
+          "text": "= 紋理方向與其所指加工面之邊緣平行"
+        },
+        {
+          "type": "heading",
+          "text": "紋理方向與其所指加工面之邊緣垂直"
+        },
+        {
+          "type": "heading",
+          "text": "X 紋理方向與其所指加工面之邊緣成兩方向傾斜交叉"
+        },
+        {
+          "type": "heading",
+          "text": "M 紋理呈現多方向交叉"
+        },
+        {
+          "type": "heading",
+          "text": "C 紋理呈現同心圓狀"
+        },
+        {
+          "type": "heading",
+          "text": "R 紋理成放射狀"
+        },
+        {
+          "type": "heading",
+          "text": "P 表面紋理成凸起之細粒狀"
+        },
+        {
+          "type": "heading",
+          "text": "5. 位置 e 加工裕度標註"
+        },
+        {
+          "type": "heading",
+          "text": "加工裕度為機件做表面加工時材料的預留量,"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位為 mm。通常僅標註在多重加工階段,例如圖"
+        },
+        {
+          "type": "heading",
+          "text": "9-73 所示鑄造或鍛造的粗胚工件表面須作鉋削加"
+        },
+        {
+          "type": "paragraph",
+          "text": "工,圖面上則呈現最後工件形貌。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-73 加工裕度之標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 193"
+        },
+        {
+          "type": "heading",
+          "text": "四、表面織構符號之使用注意事項"
+        },
+        {
+          "type": "heading",
+          "text": "1. 不得重複標註:一個特定平面之表面織構符號僅標註 1 次,不得重複標註,除非表面經特殊"
+        },
+        {
+          "type": "paragraph",
+          "text": "處理後有不同之表面織構要求,則將表面處理後之表面織構符號標註於特殊處理線 ( 一點粗 鏈線 ) 上,如圖 9-74 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-74 表面處理前後有不同之表面織構要求"
+        },
+        {
+          "type": "heading",
+          "text": "2. 符號及其註解之位置及方向:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 表面織構符號有關圖形及其補充資料"
+        },
+        {
+          "type": "heading",
+          "text": "之方向,應從圖之底邊或右手邊可讀"
+        },
+        {
+          "type": "paragraph",
+          "text": "取為原則,如圖 9-75 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-75 表面織構符號之標註方向"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 標註表面織構符號時,應該與表面接"
+        },
+        {
+          "type": "heading",
+          "text": "觸或與指線連結,且符號或指線的箭"
+        },
+        {
+          "type": "heading",
+          "text": "頭,應該指在工件材料外側表面的輪"
+        },
+        {
+          "type": "heading",
+          "text": "廓或其延伸線上,如圖 9-76、圖 9-77"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-76 表面織構符號之標註"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-77 表面織構符號之指線標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "194"
+        },
+        {
+          "type": "heading",
+          "text": "3. 組合件標註: 於組合件上,表面織構符號可標註在尺度之後。如圖 9-78 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-78 組合件上之標註"
+        },
+        {
+          "type": "heading",
+          "text": "4. 幾何公差方框上標註: 表面織構符號可以標註在幾何公差符號框格上方,如圖 9-79 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-79 表面織構符號於幾何公差符號框格之標註"
+        },
+        {
+          "type": "heading",
+          "text": "5. 表面織構標註要領: 表面織構符號可以標註在尺度界線上或以指線的箭頭端與尺度界線相"
+        },
+        {
+          "type": "paragraph",
+          "text": "連,如圖 9-80 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-80 圓柱表面織構符號之標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 195"
+        },
+        {
+          "type": "heading",
+          "text": "6. 圓柱或稜柱表面標註: 當圓柱及稜柱之表面有相同表面織構要求時,於表面僅標註 1 次即可,"
+        },
+        {
+          "type": "paragraph",
+          "text": "若稜柱之各表面有不同表面織構要求時,則必須分別標註,如圖 9-81 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-81 圓柱及稜柱表面織構符號標註"
+        },
+        {
+          "type": "heading",
+          "text": "7. 曲面或圓弧標註: 若加工面為曲面或含圓弧,則應取其切線方向標註表面符號為原則,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-82 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-82 曲面位置標註"
+        },
+        {
+          "type": "heading",
+          "text": "8. 圓柱圓錐或孔標註: 圓柱、圓錐或孔之表面織構符號,應標註在其任一極限線或其延長線,"
+        },
+        {
+          "type": "paragraph",
+          "text": "不可重複,且以標註在非圓形視圖上為原則,如圖 9-83 所示。但必要時亦可標註在圓形視 圖上,如圖 9-84 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-83 圓柱、圓錐或孔之表面織構符號標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "196"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-84 表面織構符號必要時可標註在圓形視圖上"
+        },
+        {
+          "type": "heading",
+          "text": "9. 慎選表面織構符號之標註位置"
+        },
+        {
+          "type": "paragraph",
+          "text": "標註表面符號時應慎選其恰當位置,避免與其他線條交叉,或使其他線條切斷讓開,如圖 9-85 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-85 慎選表面織構符號之標註位置"
+        },
+        {
+          "type": "heading",
+          "text": "五、公用表面織構符號之標註"
+        },
+        {
+          "type": "heading",
+          "text": "1. 公用表面織構: 工件若有大多數表面有相同之表面織構要求,可用「公用表面織構」符號標"
+        },
+        {
+          "type": "paragraph",
+          "text": "註,如圖 9-86 所示。表示方法有分為單一零件圖及多個零件圖,標註方式如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-86 公用表面織構符號之使用"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 197"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 單一零件圖上,其公用表面織構符號應置"
+        },
+        {
+          "type": "heading",
+          "text": "於該圖的標題欄旁,標註方式有兩種,第"
+        },
+        {
+          "type": "heading",
+          "text": "一種為將基本符號置於括弧內,且不加註"
+        },
+        {
+          "type": "heading",
+          "text": "其他說明,如圖 9-87 所示;另一種為將視"
+        },
+        {
+          "type": "heading",
+          "text": "圖上出現其他的表面織構符號加註在括弧"
+        },
+        {
+          "type": "paragraph",
+          "text": "內, 括弧內之表面織構值由細至粗表示, ▲ 圖 9-87 不加註其他說明 如圖 9-88 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "(或)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-88 加註表面織構符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 多個零件圖上,則其公用表面織構符號應置於該件圖上方的件號右側,如圖 9-89 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "(或)"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-89 多個零件圖之公用表面織構符號標註"
+        },
+        {
+          "type": "heading",
+          "text": "2. 多數表面有相同要求項目"
+        },
+        {
+          "type": "paragraph",
+          "text": "當有多處表面有相同的表面織構要求項目時,為避免重複標註或受空間限制,標註可用代 用符號或僅用符號標註。使用代用符號與僅用符號標註時,表面織構符號可標註於靠近工件處、 接近標題欄旁、或共用註解處。 (1) 代用符號之標註,如圖 9-90 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-90 代用符號之標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "198"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 僅用符號之標註,如圖 9-91 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-91 僅用符號之標註"
+        },
+        {
+          "type": "heading",
+          "text": "六、表面織構要求項目標註之範例"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了更清楚瞭解如何標註表面織構,舉例說明如下表 9-13 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-13 標註表面織構舉例說明"
+        },
+        {
+          "type": "heading",
+          "text": "符號 意義"
+        },
+        {
+          "type": "paragraph",
+          "text": "不得去除材料,單邊上限界規格,預設傳輸波域, R 輪廓,表面粗糙度最大高度"
+        },
+        {
+          "type": "heading",
+          "text": "0.8 μ m,評估長度為 5 倍取樣長度 ( 預設值 ),” 16% ”規則 ( 預設值 )。"
+        },
+        {
+          "type": "paragraph",
+          "text": "必須去除材料,單邊上限界規格,預設傳輸波域, R 輪廓,表面粗糙度最大高度 1.6 μ m,評估長度為 5 倍取樣長度 ( 預設值 ),”最大 - 規則”。 必須去除材料,單邊上限界規格,傳播域 0.008~0.8mm, R 輪廓,表面粗糙度算術 平均偏差 1.6 μ m,評估長度為 5 倍取樣長度 ( 預設值 ),” 16%- 規則” ( 預設值 )。 必須去除材料,單邊上限界規格,傳輸波域取樣長度 0.8mm( 預設值 0.0025mm), R 輪廓, 表面粗糙度算術平均偏差 1.6 μ m, 評估長度為 3 倍取樣長度, ” 16%- 規則” ( 預 設值 )。 不得去除材料,雙邊上下限界規格,兩限界傳輸波域均為預設值, R 輪 λ S 廓,上限 界: 表面粗糙度算術平均偏差 1.6 μ m,評估長度為 5 倍取樣長度 ( 預設值 ),”最大 - 規則\"。下限界:算術平均偏差 0.4 μ m,評估長度為 5 倍取樣長度 ( 預設值 ),” 16%- 規則” ( 預設值 )。 必須去除材料,單邊上限界規格,傳輸波域 0.8~25mm, W 輪廓,波紋最大高度 8 μ m,評估長度為 3 倍取樣長度,” 16%- 規則” ( 預設值 )。 必須去除材料,單邊上限界規格,傳輸波域 λ S =0.008mm,無長波濾波器, P 輪廓, 輪廓總高度 12.5 μ m,評估長度等於工作長度 ( 預設值 ),”最大 - 規則”。 未規定加工方法,單邊上限界規格,傳輸波域 λ S = 0.0025mm:A=0.1mm,評估長度 =3.2mm( 預設值 ),粗糙度圖形參數,粗糙度圖形最大深度 0.4 μ m,” 16%- 規則” ( 預 設值 )。 不得去除材料,單邊上限界規格,傳輸波域 λ S = 0.008mm( 預設值 ):A=0.5mm( 預設 值 ),評估長度 =10mm,粗糙度圖形參數,粗糙度圖形平均深度 10 μ m,” 16%- 規 則” ( 預設值 )。 必須去除材料,單邊上限界格,傳輸波域 A=0.5mm( 預設值 ),評估長度 =16mm( 預 設值 ),波紋圖形參數,波紋圖形平均深度 2mm,” 16%- 規則” ( 預設值 )。 未規定加工方法,單邊上限界規格,傳輸波域 λ S = 0.008mm( 預設值 ), A=0.3mm, 評估長度 =5mm,粗糙度圖形參數,粗糙度圖形平均寬度 0.06mm,” 16%- 規則” ( 預 設值 )。 備考: 所給之表面織構參數,傳輸波域 / 取樣長度及參數值以及符號等,僅作為範例。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 199"
+        },
+        {
+          "type": "heading",
+          "text": "要求項目 範例"
+        },
+        {
+          "type": "heading",
+          "text": "表面粗糙度:"
+        },
+        {
+          "type": "heading",
+          "text": "- 雙邊限界:"
+        },
+        {
+          "type": "heading",
+          "text": "- 上限界 Ra=25 μ m"
+        },
+        {
+          "type": "heading",
+          "text": "- 下限界 Ra=3.2 μ m"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 兩者 16%- 規則,預設值 ( 參照 ISO 4288):"
+        },
+        {
+          "type": "heading",
+          "text": "- 兩者轉輸波域 0.008-4mm:"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 預設評估長度 (5 × 4mm=20mm)( 參照 ISO 4288): - 表面紋理方向與其所指增加工面之邊緣呈垂直。 - 加工方法,銑削。"
+        },
+        {
+          "type": "heading",
+          "text": "備考: 因為不會產生混淆, U 及 L 不用標註"
+        },
+        {
+          "type": "heading",
+          "text": "除了 1 個面以外的所有表面的粗糙度"
+        },
+        {
+          "type": "heading",
+          "text": "-1 個,單邊上限界:"
+        },
+        {
+          "type": "heading",
+          "text": "-Rz=3.2 μ m,"
+        },
+        {
+          "type": "paragraph",
+          "text": "-16%- 規則,預設值 ( 參照 ISO 4288): - 預設值傳輸波域 ( 參照 ISO 4288 及 ISO 3274) - 預設評估長度 (5 ×λ c)( 參照 ISO 4288)"
+        },
+        {
+          "type": "heading",
+          "text": "- 表面紋理,不要求"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 加工方法必須去除材料。"
+        },
+        {
+          "type": "heading",
+          "text": "粗糙度有不同要求之表面:"
+        },
+        {
+          "type": "heading",
+          "text": "-1 個,單邊上限界:"
+        },
+        {
+          "type": "heading",
+          "text": "-Ra=1.6 μ m,"
+        },
+        {
+          "type": "heading",
+          "text": "-16%- 規則,預設值"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 預設值傳輸波域 ( 參照 ISO 4288 及 ISO 3274): - 預設評估長度 (5 ×λ c)( 參照 ISO 4288)"
+        },
+        {
+          "type": "heading",
+          "text": "- 表面紋理,不要求:"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 加工方法必須去除材料。"
+        },
+        {
+          "type": "heading",
+          "text": "表面粗糙度:"
+        },
+        {
+          "type": "heading",
+          "text": "-2 個,單邊上限界"
+        },
+        {
+          "type": "heading",
+          "text": "1. Ra=0.2 μ m:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a)16%- 規則,預設值 ( 參照 ISO 4288): (b) 預設值傳輸波域 ( 參照 ISO 4288 及 ISO 3274): (c) 預設評估長度 (5 ×λ c)( 參照 ISO 4288)"
+        },
+        {
+          "type": "heading",
+          "text": "2. Rzmax=0.8 μ m"
+        },
+        {
+          "type": "heading",
+          "text": "(a) ”最大 - 規則”"
+        },
+        {
+          "type": "paragraph",
+          "text": "(b) 傳輸波域 2.5mm( 參照 ISO 3274): (c) 評估長度 (5 × 2.5mm)。"
+        },
+        {
+          "type": "heading",
+          "text": "- 表面紋理方向與其所指加工面之邊緣平行:"
+        },
+        {
+          "type": "paragraph",
+          "text": "- 加工方法,研磨。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "200"
+        },
+        {
+          "type": "heading",
+          "text": "9-5 螺紋與螺紋結件表示法"
+        },
+        {
+          "type": "heading",
+          "text": "一、螺紋的簡介"
+        },
+        {
+          "type": "paragraph",
+          "text": "一動點繞著一圓柱或圓錐之軸線,作等角速圓周運動,並沿著軸線作等速直線運動,其動 點軌跡所形成之空間曲線,謂之 螺旋線 ( Helix )。若於螺旋線上刻出相同斷面的紋路,即稱為 螺 紋 (S rew thread )。螺旋是斜面原理的應用,螺紋零件可作為機件裝配固定、動力的傳遞及機件間 距離微調等功用,如圖 9-92 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-92 螺紋功用"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:千庫網錯覺、 November、東關滙豐柴油機經銷處、三豐儀器 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋重要部位名稱,如圖 9-93 所示,分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-93 螺紋重要部位名稱"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: CY 網 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p058.jpg"
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 201"
+        },
+        {
+          "type": "heading",
+          "text": "1. 外螺紋:圓柱 ( 錐 ) 軸面上的螺紋,稱為外螺紋,如螺栓、螺釘。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 內螺紋:圓柱 ( 錐 ) 孔面上的螺紋,稱為內螺紋,如螺帽。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 右螺紋:從軸線的端面來看,依順時針方向旋轉前進者,稱為右螺紋,為常用之螺紋。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 左螺紋:從軸線的端面來看,依逆時針方向旋轉前進者,稱為左螺紋,為特殊用螺紋。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 導程:螺紋旋轉一圈,其軸線方向前進或後退之距離,稱為導程。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 螺距:兩相鄰螺紋對應點之軸線平行方向距離,稱為螺距,單線螺紋之螺距等於導程。"
+        },
+        {
+          "type": "heading",
+          "text": "二、螺紋畫法"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 外螺紋畫法:"
+        },
+        {
+          "type": "heading",
+          "text": "外螺紋在前視圖中螺紋大徑、去角部分及螺紋長度均"
+        },
+        {
+          "type": "paragraph",
+          "text": "以 粗實線 表示,螺紋小徑則以 細實線 表示之;在表示端面的 側視圖中,螺紋大徑為粗實線圓,螺紋小徑則以細實線缺口 圓繪製,螺紋小徑約四分之一缺口圓處可在任何方位,一端 略超出中心線,另一端則稍離中心線。如有去角部分,則不 畫去角圓,缺口圓仍須依上述方式繪製。外螺紋通常是不予 剖切的,當須繪製剖視圖時,其剖面線須畫到螺紋大徑,如 圖 9-94 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-94 外螺紋繪製法"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 內螺紋畫法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "內螺紋在前視圖全剖面中螺紋小徑、去角部分及螺紋長之範圍線均用 粗實線 表示,螺紋大 徑則以 細實線 表示之;在表示端面的側視圖中,螺紋小徑為粗實線圓,螺紋大徑則以細實線缺 口圓繪製,螺紋大徑約四分之一缺口圓處可在任何方位,一端略超出中心線,另一端則稍離中 心線。如有去角部分,則不畫去角圓,缺口圓仍須依上述方式繪製。內螺紋常以剖視圖繪製, 其剖面線須畫到螺紋小徑,如圖 9-95 所示。不剖切時,其螺紋部份以虛線畫出,為避免內、外 螺紋繪製時,粗、細線之位置搞混,可參考表 9-14 繪製線條。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-95 內螺紋繪製法"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-14 內、 外螺紋線條粗細表"
+        },
+        {
+          "type": "heading",
+          "text": "外螺紋 內螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "表示大 ( 外 ) 徑之線 粗實線 細實線"
+        },
+        {
+          "type": "heading",
+          "text": "表示小 ( 內 ) 徑之線 細實線 粗實線"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p059.jpg"
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "202"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 內外螺紋組合畫法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "內外螺紋的組合常以剖視圖表示,除了需要將所鑽的孔表示出來外,內螺紋與外螺紋組合 重疊處依外螺紋繪製,其餘未重疊處部分依內螺紋繪製,如圖 9-96 所示,其剖面線須畫到未與 外螺紋重疊部分之內螺紋小徑 ( 粗實線 ) 處。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-96 內外螺紋組合"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 螺紋內嵌畫法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "將含有外螺紋與內螺紋之一工件,嵌入另一內螺紋機件內,則稱為螺紋內嵌工件。在剖視 圖中,除了需要將所鑽的孔表示出來外,內嵌工件之外螺紋大徑部分以粗實線繪製,嵌入內螺 紋之大徑部分畫出細實線與小徑部分畫出粗實線,如圖 9-97 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-97 螺紋內嵌畫法"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 含有螺紋內嵌之螺紋組合畫法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "在組合圖中,螺紋內嵌後之螺紋組合畫法如同內外螺紋組合,內嵌工件之內螺紋與外螺紋 重疊處,依外螺紋繪製,其餘未重疊處部分依螺紋內嵌工件繪製,如圖 9-98 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-98 含有螺紋內嵌之螺紋組合畫法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 203"
+        },
+        {
+          "type": "heading",
+          "text": "三、螺紋之標註"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 螺紋符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋的形狀有各種類型,其名稱也不盡相同,以下為中華民國國家標準 (CNS) 對於常用螺 紋形狀之符號規定,如圖 9-99 所示與如表 9-15 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-15 螺紋形狀、 名稱與符號"
+        },
+        {
+          "type": "heading",
+          "text": "螺紋形狀 螺紋名稱 螺紋符號 標註範例"
+        },
+        {
+          "type": "heading",
+          "text": "公制粗螺紋 M8"
+        },
+        {
+          "type": "heading",
+          "text": "M"
+        },
+        {
+          "type": "heading",
+          "text": "公制細螺紋 M8 × 1"
+        },
+        {
+          "type": "heading",
+          "text": "木螺釘螺紋 WS WS 6"
+        },
+        {
+          "type": "heading",
+          "text": "三角形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "推拔管螺紋 R R 1/2( 英制 )"
+        },
+        {
+          "type": "heading",
+          "text": "自攻螺釘螺紋 ST ST 3.5"
+        },
+        {
+          "type": "heading",
+          "text": "惠氏螺紋 W W1/4-10( 英制 )"
+        },
+        {
+          "type": "heading",
+          "text": "公制梯形螺紋 Tr Tr 40 × 7"
+        },
+        {
+          "type": "heading",
+          "text": "梯形螺紋"
+        },
+        {
+          "type": "heading",
+          "text": "公制短梯形螺紋 Tr.S Tr.S 48 × 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋸齒形螺紋 公制鋸齒形螺紋 Bu Bu 40 × 7"
+        },
+        {
+          "type": "heading",
+          "text": "圓頂螺紋 圓螺紋 Rd Rd 40 × 1/6"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-99 常見螺紋實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:鎧鉑力五金公司、.007swz 商務站、 monotaro 網、維基百科、 szforee 網、 item.btime 網 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "204"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 螺紋標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋之標註順序是由旋向、線數、螺紋符號、大徑、螺距和螺紋公差之排列標註而成,如"
+        },
+        {
+          "type": "heading",
+          "text": "圖 9-100 所示,其內容分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-100 螺紋之標註順序說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 螺紋旋向:表示右旋或左旋,當旋向為右 ( 旋 ) 螺紋則標註 \"R\",左 ( 旋 ) 螺紋則標註 \"L\","
+        },
+        {
+          "type": "paragraph",
+          "text": "右 ( 旋 ) 螺紋 \"R\" 可省略不需標註。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 螺紋線數:表示螺紋為單線螺紋或複線螺紋,若為單線螺紋則不必標註,但為複線螺紋則須"
+        },
+        {
+          "type": "paragraph",
+          "text": "標註線數,如雙線螺紋標註 \"2N\",三線螺紋標註 \"3N\" ⋯等,螺紋線數與導程關係為: L( 導 程 )=n( 線數 ) × P( 螺距 )。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 螺紋符號:依螺紋名稱標註螺紋之符號,可查表 9-15 之符號,如公制螺紋標註 \"M\",符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "之高度與字高相同,並寫在螺紋大徑前面,不得省略,如 M12。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 螺紋大徑:不管內、外螺紋,皆以螺紋大徑 ( 外徑 ) 標註之。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 螺距:公制螺紋有分粗螺紋與細螺紋,細螺紋依螺紋之螺距大小標註之;但如為粗螺紋,則"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺距可省略不標註。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 螺紋公差:內螺紋公差符號以大寫字母表示,外螺紋則以小寫字母表示;標註內螺紋之公差"
+        },
+        {
+          "type": "paragraph",
+          "text": "依序為節徑公差與小徑公差,標註外螺紋之公差依序為節徑公差與大徑公差,如圖 9-100 所 示。當節徑公差與大 ( 小 ) 徑公差相同時,則標註其中之一,可不必重複標註。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-101 內外螺紋公差之標註順序說明"
+        },
+        {
+          "type": "heading",
+          "text": "7. 螺紋以標註於非圓形視圖上為原則"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋標註以非圓形之視圖上為原則,且螺紋長度一律以螺紋有效長度標註,如圖 9-102 所示 尺度 18、 20,圖中尺度 23 為鑽孔長度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-102 螺紋標註以非圓形之視圖上為原則"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 205"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 表面織構符號於螺紋上之標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "表面織構符號應標註在螺紋之粗實線上,即表面織構符號應標註在外螺紋大徑線上,或內 螺紋之小徑上,如圖 9-103 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-103 表面織構符號應標註在螺紋之粗實線上"
+        },
+        {
+          "type": "heading",
+          "text": "四、螺紋結件"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 標準零件"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了使機件互相結合,防止機件之間相互轉動,稱這些固定機件之零件為 結件 (F astener )。 常用之結件有螺栓與螺帽、螺釘、鍵、銷⋯等,均依國家標準規定,之規格大量製造成 標準零 件。繪製零件圖時,不須畫出標準零件之視圖,但須於零件表上標註其規格與種類,如六角螺 栓 Ml0x40、六角螺帽 M10,如圖 9-104 所示。若螺栓與螺帽為非標準零件時,則須將工作圖詳 細畫出,以方便生產,如圖 9-105 所示。繪製組合圖時,則必須將標準零件畫出,表示其裝配位 置與裝置情形,如圖 9-106 所示為螺栓與螺帽之組合。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-104 標準規格之螺栓與螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:希望此刻熱情永不消減網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-105 非標準規格之螺栓與螺帽須畫工作詳圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p063.jpg"
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "206"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-107 螺栓與螺帽模板"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-106 繪製螺栓與螺帽組合圖 ( 圖片來源:亞馬遜網 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 繪製螺栓與螺帽"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺栓頭與螺帽之繪製可使用如圖 9-107 所示模板協助,省時又方便。若無模板時,繪製螺 栓頭與螺帽則須知螺紋大徑 (D) 及長度,經過計算得對邊距離 (W)、螺栓頭高 (H)、螺帽厚度 (T)"
+        },
+        {
+          "type": "heading",
+          "text": "之尺度,再藉繪圖工具繪出螺栓頭與螺帽:"
+        },
+        {
+          "type": "paragraph",
+          "text": "A. 對邊距離 (W) =l.5 × 螺紋大徑 (D) B. 螺栓頭高 (H) = 0.7 × 螺紋大徑 (D) C. 螺帽厚度 (T) = 0.8 × 螺紋大徑 (D) 下列介紹六角螺栓與螺帽及方頭螺栓與螺帽繪製。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 六角螺栓頭與螺帽之繪製:如圖 9-108 所示,已知螺紋大徑 (D)=15mm"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 計算出:對邊距離 (W) = 22.5mm、螺栓頭高 (H) =10.5mm、螺帽厚度 (T) =12mm。 (2) 將俯視圖直徑 W 圓上畫出外切正六邊形,並將投影線投影至前視圖螺栓頭高 H 上。 (3) 以 O 點為圓心, 0.5W 之距離為半徑,畫一圓弧,交於 P 點,再以 P 點為圓心, 0.5W 之 距離為半徑,畫一圓弧,交於 X、 Y、 Z 三點。 (4) 以 X 點為圓心, W 之距離為半徑畫圓弧;以 Y、 Z 點為圓心, R 之距離為半徑畫圓弧。 (5) 於兩側畫出 30 ° 之去角,完成六角螺栓之繪製。 (6) 螺帽厚度 (T) 與螺栓頭高度 (H) 不同,其六角螺帽畫法與六角螺栓頭畫法相同。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p064.jpg"
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 207"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-108 六角螺栓頭與螺帽之繪製"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺栓與螺帽一般都以前視圖表示,因為六角螺栓側視圖之畫法容易與方頭螺栓混淆,所以 如圖 9-109 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-109 六角螺栓以前視圖表示"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:英菲五金廠 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "208"
+        },
+        {
+          "type": "heading",
+          "text": "2. 方型螺栓頭與螺帽之繪製: 如圖 9-110 所示,已知螺紋大徑 (D)=15mm"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 計算出:對邊距離 (W) = 22.5mm、螺栓頭高 (H) =10.5mm、螺帽厚度 (T) =12mm。 (2) 將俯視圖直徑 W 之圓上畫出外切正四邊形,正四邊形對角線長為 C,並將投影線投影至 前視圖螺栓頭高 H 上。 (3) 以 X、 Y、 Z 點為圓心, 0.5C 之距離為半徑,畫一圓弧,交於 O、 P 兩點。 (4) 以 O、 P 點為圓心, R 之距離為半徑畫圓弧,再於兩側畫出 30 之去角。 (5) 完成方頭螺栓之繪製。 (6) 螺帽厚度 (T) 與螺栓頭高度 (H) 不同,方頭螺帽畫法與方頭螺栓頭畫法相同。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-110 方型螺栓頭與螺帽之繪製"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p066.jpg"
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 209"
+        },
+        {
+          "type": "heading",
+          "text": "9-6 繪製基本工作圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "工作圖之基本繪製仍為正投影多視圖,視圖之多少以能明白表達物體形狀為原則,視圖無 須多加,但亦不可不足。"
+        },
+        {
+          "type": "heading",
+          "text": "一、零件工作圖之選擇原則"
+        },
+        {
+          "type": "heading",
+          "text": "1. 視圖多寡: 欲表達一完整物體時,至少常須有兩個視圖,遇特別複雜之物體有時常須五、六"
+        },
+        {
+          "type": "paragraph",
+          "text": "個視圖始能清楚表達;有時遇內部複雜機件,則常以半剖或全剖視圖繪製顯示;但有時遇簡 單之軸徑,則僅需一視圖已足夠表示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 前視圖的選擇: 工作圖在繪製時,最重要的是前視圖的選擇;一般前視圖係優先選取物體最"
+        },
+        {
+          "type": "paragraph",
+          "text": "大尺度、最能顯示其特徵形狀者、或在運用位置時之正面,然後再決定其他所必須的視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 運用剖面或習用畫法等技巧: 例如採用剖視圖,看看是否更能清楚表達物體內部構造;或增"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪一輔助視圖或添加註解,看看是否能減少一個或多個視圖;或採用轉正視圖是否使圖形更 明晰,或採用習用畫法以增益圖之清晰等等,這些都是在繪製工作圖時可採用的考慮方向。"
+        },
+        {
+          "type": "heading",
+          "text": "二、零件工作圖之繪製"
+        },
+        {
+          "type": "heading",
+          "text": "零件工作圖繪製步驟之說明如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 鉛筆圖繪製步驟:鉛筆圖繪製步驟,先畫中心線 ( 底線 ),各視圖須同時進行相關"
+        },
+        {
+          "type": "heading",
+          "text": "投影,如圖 9-111 所示"
+        },
+        {
+          "type": "heading",
+          "text": "1. 選取標準圖紙:過去大都採用 A2 圖紙,但現今一般業者大都已採用 A3 圖紙,方便影印機"
+        },
+        {
+          "type": "paragraph",
+          "text": "及印表機使用。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 畫妥圖框及標題欄及零件表框線。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 決定尺度比例:估計每一個視圖所佔位置,使佈圖美觀。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 畫底線:以定視圖之位置及圓弧之中心,如圖 (A)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 繪視圖:各視圖須同時進行相關投影,先畫最顯著形狀,再畫次要者。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 畫圓及畫弧:圓乃自最小圓者畫起,畫圓弧遇相切處時先求切點,如圖 (B)。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 畫細節處:最後圖形係完成少數細節處,如圓角、剖面線等,如圖 (C)。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 完成尺度標註:畫必須之尺度界線、尺度線、箭頭及註入尺度數字。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 畫必須之指線以做註解說明,並標註件號、表面織構符號等。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 填寫標題欄、零件清單。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 最後須細心校對全圖,如圖 (D)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p067.jpg"
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "±A 畫底線"
+        },
+        {
+          "type": "heading",
+          "text": "EB 畫圓及畫弧"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 9-111 鉛筆圖繪製步驟"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p068.jpg"
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "211"
+        },
+        {
+          "type": "heading",
+          "text": "Chapter 9 基朩工作圖"
+        },
+        {
+          "type": "heading",
+          "text": "zc 畫細節處"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        },
+        {
+          "type": "heading",
+          "text": "ED 校對全圖"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 5"
+        },
+        {
+          "type": "heading",
+          "text": "Ra 0.8"
+        },
+        {
+          "type": "heading",
+          "text": "\"IIZZ"
+        },
+        {
+          "type": "heading",
+          "text": "1, 6"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 56"
+        },
+        {
+          "type": "heading",
+          "text": "y ¢ 40"
+        },
+        {
+          "type": "heading",
+          "text": "圖名"
+        },
+        {
+          "type": "heading",
+          "text": "註: 1. 未註明之内圓角為 R3 投影第三角"
+        },
+        {
+          "type": "heading",
+          "text": "比例 1 ·"
+        },
+        {
+          "type": "heading",
+          "text": "單立 m m"
+        },
+        {
+          "type": "heading",
+          "text": "Ø20"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 8"
+        },
+        {
+          "type": "heading",
+          "text": "連桿"
+        },
+        {
+          "type": "heading",
+          "text": "機械製圖"
+        },
+        {
+          "type": "heading",
+          "text": "編號"
+        },
+        {
+          "type": "heading",
+          "text": "日期"
+        },
+        {
+          "type": "heading",
+          "text": "繵圖者"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 9-111 鉛筆圖繵製步驟 ( 續 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p069.jpg"
+    },
+    {
+      "page": 70,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "212"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 上墨圖繪製步驟:如圖 9-112"
+        },
+        {
+          "type": "paragraph",
+          "text": "上墨圖繪製步驟僅在前述鉛筆圖繪製步驟 4 以後,再以墨線繪製,圓及圓弧先畫實線,次 畫虛線,再畫直線部分,並且由粗至細之順序繪製。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-112 上墨圖繪製步驟"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p070.jpg"
+    },
+    {
+      "page": 71,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基朩工作圖"
+        },
+        {
+          "type": "heading",
+          "text": "213"
+        },
+        {
+          "type": "heading",
+          "text": "*C 畫細節處"
+        },
+        {
+          "type": "heading",
+          "text": "ED 校對全圖"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 5"
+        },
+        {
+          "type": "heading",
+          "text": "Ra 0.8"
+        },
+        {
+          "type": "heading",
+          "text": "Ra"
+        },
+        {
+          "type": "heading",
+          "text": "1.6"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 56"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 20"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 8"
+        },
+        {
+          "type": "heading",
+          "text": "Y ¢ 40"
+        },
+        {
+          "type": "heading",
+          "text": "圖名"
+        },
+        {
+          "type": "heading",
+          "text": "連桿"
+        },
+        {
+          "type": "heading",
+          "text": "註"
+        },
+        {
+          "type": "heading",
+          "text": "1 床註明之内圓角為 R3"
+        },
+        {
+          "type": "heading",
+          "text": "投影第三角"
+        },
+        {
+          "type": "heading",
+          "text": "編號"
+        },
+        {
+          "type": "heading",
+          "text": "機械製圖"
+        },
+        {
+          "type": "heading",
+          "text": "比例 1: 1"
+        },
+        {
+          "type": "heading",
+          "text": "日期"
+        },
+        {
+          "type": "heading",
+          "text": "一單, mm"
+        },
+        {
+          "type": "heading",
+          "text": "繪圖者"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 9-112 上墨圖繪製步驟 ( 續 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p071.jpg"
+    },
+    {
+      "page": 72,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "三、組合工作圖繪製"
+        },
+        {
+          "type": "paragraph",
+          "text": "組合工作圖主要用途是在表達各零件結合的情形和機構功能,所以在繪製時須在視圖選擇 方面,要以最少的視圖來表達各零件的結合方式,不重要的形狀細節及隱藏線均可省略。茲以 圖 9-113 所示立體圖例及圖 9-114 所示工作圖為例,將此四件物體逐一繪製成組合工作圖,說明"
+        },
+        {
+          "type": "heading",
+          "text": "如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 研讀零件圖: 須研判零件圖中各零件之功用、工"
+        },
+        {
+          "type": "paragraph",
+          "text": "作原理、可能組合而得之運動情況。同時可依零"
+        },
+        {
+          "type": "heading",
+          "text": "件圖上之軸、孔配合尺度或特殊外形找出機件之"
+        },
+        {
+          "type": "paragraph",
+          "text": "相對位置及關係,如圖 9-114 所示說明。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 視圖之決定: 繪製組合圖時須注意視圖大小,故"
+        },
+        {
+          "type": "heading",
+          "text": "比例要適當;除外形裝配圖及線圖外,大都會運"
+        },
+        {
+          "type": "heading",
+          "text": "用剖視加以表達,如遇對稱物體可採用半視圖與"
+        },
+        {
+          "type": "paragraph",
+          "text": "半剖面表示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 視圖表達要達到真善美:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 真:要能夠真實完全表達機件間之裝配關係,"
+        },
+        {
+          "type": "paragraph",
+          "text": "真實反映其對機件之功用及原理。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 善:要能正確完善表達視圖之剖面、規定畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "及裝配關係。 (3) 美:對每一機件之繪製能清楚易懂,並具美觀。 ▲ 圖 9-113 立體圖例"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-114 研判零件圖中各零件相對位置及關係"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p072.jpg"
+    },
+    {
+      "page": 73,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 215"
+        },
+        {
+          "type": "heading",
+          "text": "3. 佈圖之決定: 繪妥圖框、標題欄及零件表後,剩餘之圖面空間須妥切安排視圖於適宜位置,"
+        },
+        {
+          "type": "paragraph",
+          "text": "可先畫機件之主要中心線,並利用最大件物體之寬、高、深佈置。其繪圖順序如圖 9-115 所"
+        },
+        {
+          "type": "heading",
+          "text": "示,說明如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 先畫機件之主要中心線,如圖 A。 (2) 次畫主體機件之輪廓,決定出最大件物體之主要尺度,如圖 B。 (3) 將有裝配關係之主要零件依次繪製輪廓組合上去,如圖 C。 (4) 繪製次要零件形狀,完成繪製零件細節部位,如圖 D。 (5) 修改組合圖之視圖表達方法,考慮是否以剖視圖表達,如圖 E。 (6) 完成組合圖之繪製,如圖 F。 (7) 標註總尺度及主要尺度,如圖 G。 (8) 標註零件號碼、填寫標題欄、零件表,如圖 H。 (9) 校核全圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-115 繪組合工作"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p073.jpg"
+    },
+    {
+      "page": 74,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "216"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-115 繪組合工作圖 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "四、工作圖之校對"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製完成工作圖後,校對是一項很重要的工作與習慣,校對時須有系統、有秩序地進行檢 查工作圖之圖形、尺度是否有錯誤或遺漏,在每一尺度或特點經查核後,須以鉛筆或有色鉛筆 在其上做記號,並表明改正之點。一般校對之原則如下所述:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先假設自己為閱讀者,查看本圖是否易於讀圖。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 檢查視圖之表達是否完整,注意每一零件設計、畫法及視圖多少是否正確適當,佈圖是否美"
+        },
+        {
+          "type": "paragraph",
+          "text": "觀恰當。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 使用比例尺檢查所有尺度是否正確。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 校對尺度標註是否多餘或不足,所標註之公差、表面織構符號是否恰當,是否影響成本與品"
+        },
+        {
+          "type": "paragraph",
+          "text": "質,是否適合製造工廠所需。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 校對機械運動時位置之間隙是否適當,軸孔配合之尺度及公差是否正確,裝配時鄰近各零件"
+        },
+        {
+          "type": "paragraph",
+          "text": "相互校對其間隙有無適當。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 檢查各標準零件,如螺栓、螺釘、銷、鍵、鉚釘、扣環、軸承等是否合於標準。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 校對標題欄與零件表或材料單中之細節是否吻合。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 最後複查全圖,添加可增效率之註解。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p074.jpg"
+    },
+    {
+      "page": 75,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 217"
+        },
+        {
+          "type": "heading",
+          "text": "* 9-7 幾何公差與標註 ( 增廣教學 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "我們在公差與配合之章節中了解到利用公差來限制距離或角度於公差範圍內,而本節所介 紹之幾何公差,乃限制該形態於幾何公差區域內。 幾何公差 即是將某一形態 ( 表面、軸或中間平 面 ) 限制於該幾何公差區域範圍內,如表 9-16 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-16 幾何公差區域"
+        },
+        {
+          "type": "heading",
+          "text": "幾何公差區域 區域圖例"
+        },
+        {
+          "type": "heading",
+          "text": "1. 一個圓內之面積"
+        },
+        {
+          "type": "heading",
+          "text": "2. 兩同心圓間之面積"
+        },
+        {
+          "type": "heading",
+          "text": "3. 兩平行線間或兩等距曲線間之面積"
+        },
+        {
+          "type": "heading",
+          "text": "4. 一圓柱體內之空間"
+        },
+        {
+          "type": "heading",
+          "text": "5. 兩同軸線圓柱面間之空間"
+        },
+        {
+          "type": "heading",
+          "text": "6. 兩等距平面或兩平行面間之空間"
+        },
+        {
+          "type": "heading",
+          "text": "7. 一個平行六面體內之空間。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p075.jpg"
+    },
+    {
+      "page": 76,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "218"
+        },
+        {
+          "type": "heading",
+          "text": "一、幾何公差符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "幾何公差依形態來區分,含有形狀公差、方向公差、定位公差及偏轉度公差,如下表 9-8 所 示,常用之附加符號如表 9-17 所示與表 9-18 所示附加符號。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-17 幾何公差符號"
+        },
+        {
+          "type": "heading",
+          "text": "形態 公差 幾何公差性質 符號"
+        },
+        {
+          "type": "heading",
+          "text": "真直度"
+        },
+        {
+          "type": "heading",
+          "text": "真平度"
+        },
+        {
+          "type": "heading",
+          "text": "單一型態"
+        },
+        {
+          "type": "heading",
+          "text": "真圓度"
+        },
+        {
+          "type": "heading",
+          "text": "形狀公差"
+        },
+        {
+          "type": "heading",
+          "text": "圓柱度"
+        },
+        {
+          "type": "heading",
+          "text": "曲線輪廓度"
+        },
+        {
+          "type": "heading",
+          "text": "單一或相關型態"
+        },
+        {
+          "type": "heading",
+          "text": "曲面輪廓度"
+        },
+        {
+          "type": "heading",
+          "text": "平行度"
+        },
+        {
+          "type": "heading",
+          "text": "方向公差 垂直度"
+        },
+        {
+          "type": "heading",
+          "text": "傾斜度"
+        },
+        {
+          "type": "heading",
+          "text": "位置度"
+        },
+        {
+          "type": "heading",
+          "text": "相關型態"
+        },
+        {
+          "type": "heading",
+          "text": "定位公差 同心度 ( 同軸度 )"
+        },
+        {
+          "type": "heading",
+          "text": "對稱度"
+        },
+        {
+          "type": "heading",
+          "text": "圓偏轉度"
+        },
+        {
+          "type": "heading",
+          "text": "偏轉度公差"
+        },
+        {
+          "type": "heading",
+          "text": "總偏轉度"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 9-18 附加符號"
+        },
+        {
+          "type": "heading",
+          "text": "理論上正確尺度"
+        },
+        {
+          "type": "heading",
+          "text": "延伸公差區域"
+        },
+        {
+          "type": "heading",
+          "text": "最大實體狀況"
+        },
+        {
+          "type": "heading",
+          "text": "直接標註"
+        },
+        {
+          "type": "heading",
+          "text": "基準面符號"
+        },
+        {
+          "type": "heading",
+          "text": "字母標註"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 77,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 219"
+        },
+        {
+          "type": "heading",
+          "text": "二、幾何公差之繪製與使用"
+        },
+        {
+          "type": "heading",
+          "text": "1. 幾何公差框格之繪製"
+        },
+        {
+          "type": "paragraph",
+          "text": "幾何公差是將符號與數值標註在 幾何公差方框 中, 方框之 高度約兩倍字高 (2H),第一格之寬度等於高度 (2H),第二格之"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-116 幾何公差框格"
+        },
+        {
+          "type": "paragraph",
+          "text": "寬度需配合公差數值大小調整,第三格之寬度需配合字母大小 調整,如圖 9-116 所示,框格由左至右依順序標註內容,詳述如下: (1) 第一格:標註幾何公差符號,如:、、、、 ⋯等。 (2) 第二格:標註幾何公差數值,當幾何公差區域為圓形 ( 柱 ),則於數值前加上“ φ ”,公 差數值其單位為 mm,如圖中「 0.01 」代表整體之垂直度須控制在 0.01mm( 公差區域 ) 範圍內。 (2) 第三格:幾何公差如需標註基準面或基準線,可增加此框格並填入基準面 ( 線 ) 之代表 字母 ( 大寫字母 ),如圖中所示 A。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 幾何公差之標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "幾何公差須使用一帶有箭頭之引線作連接,方式說明如下: (1) 當某一面有幾何公差要求時,可將引線之箭頭指在該面之輪廓線或其延長線上,且須與 尺度線明顯地錯開,如圖 9-117 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 9-117 箭頭指在該面之輪廓線或其延長線上 (2) 當標註位置之軸線或中心平面有幾何公差要求時,須使引線之箭頭與該標註之尺度線對 齊,如圖 9-118 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-118 箭頭與該標註之尺度線對齊"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 當工件之同一軸線或同一中心平面有幾何公差要求時,可將引線之箭頭指在軸線上或中 心線上,如圖 9-119 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-119 箭頭指在軸線上或中心線上"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p077.jpg"
+    },
+    {
+      "page": 78,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "220"
+        },
+        {
+          "type": "heading",
+          "text": "三、附加符號之繪製與使用"
+        },
+        {
+          "type": "heading",
+          "text": "1. 理論上正確尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "當工件之實際尺度受限於幾何公差 ( 位置度公差、輪廓度公差、傾斜度公差 ) 時,可將視圖 中的尺度以理論上正確尺度方式表示,即在尺度外加上方框,如圖 9-120 所示,當標示理論上正 確尺度時,則不須在尺度後標註一般公差。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-120 理論上正確尺度"
+        },
+        {
+          "type": "heading",
+          "text": "2. 延伸之公差區域"
+        },
+        {
+          "type": "paragraph",
+          "text": "若幾何公差 ( 方向公差、定位公差 ) 不是指工件本身,而是工件向外延伸的部分,其延伸部 分須用假想線 ( 兩點細鏈線 ) 繪製,且在尺度數字前與幾何公差數值後標註如圖 9-121 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-121 延伸之公差區域標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p078.jpg"
+    },
+    {
+      "page": 79,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 9 基本工作圖 221"
+        },
+        {
+          "type": "heading",
+          "text": "3. 最大實體狀況"
+        },
+        {
+          "type": "paragraph",
+          "text": "最大實體狀況即為零件中保留材料最多時之極限尺度 ( 如軸的最大尺度、孔的最小尺度 ), 但為了使工件順利組合,當組合件的實際尺度未達到最大實體極限時 ( 如軸的最小尺度、孔的最 大尺度 ),則所定的幾何公差便會增大,不致妨礙組合,這樣的情況即為最大實體狀況原理,且 以符號 來表示。當公差值應用於最大實體狀況時,符號 應標註於公差值之後、基準形態字 母之後或公差值之後及基準形態字母之後,如圖 9-122 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 9-122 最大實體狀況標註"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "paragraph",
+          "text": "丙級機械加工技術士 ( 資料來源:勞發署網 - 技能檢定中心 & learn. 104 網 - 證照中心 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、 工作範圍: 1. 具備機械 ( 工 ) 行業之基本知識、職業道德、敬業精神、工作態度、安全習慣,並能依"
+        },
+        {
+          "type": "paragraph",
+          "text": "照工作圖或實樣準備材料、工具、刀具、量具、工具機,從事簡易機件製作與修配工作。 2. 尺寸精度 能達公差十級,表面粗糙度能達 6.3a (25S)。"
+        },
+        {
+          "type": "heading",
+          "text": "二、相關職務推薦: 1. 機械裝配員、 2. 電機設備裝配員、 3. 產品維修人員。"
+        },
+        {
+          "type": "heading",
+          "text": "三、相關技能推薦: 1. 機械產品操作、 2. 工具測量"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p079.jpg"
+    },
+    {
+      "page": 80,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-1 ( )1. 在設計新機器或結構時,其設計流程之首重步驟是甚麼? (A) 構想草圖 (B) 市場調研 (C) 規劃及計算 (D) 繪圖。 ( )2. 一部機器或機構上每個零件皆須有編號,下列敘述何者不正確? (A) 同一機件在零件圖、組合圖及零件表上所列之件號須相同"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 零件之件號以阿拉伯數字書寫為原則"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 件號之字高為尺度數字之 2 倍為宜"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 零件之件號書寫在視圖右側為原則。 ( )3. 組合圖繪製必須遵守一些原則,下列敘述何者不正確? (A) 組合圖上有關描述零件形狀之隱藏線 ( 虛線 ),除非必要,以不繪製為原則 (B) 相鄰兩機件之剖面線須取不同方向或不同之間隔以茲區別 (C) 同一機件在不同正投影視圖位置上,剖面線之方向與間隔須不相同以茲區別 (D) 組合圖中標準零件以一般表示法或簡易表示法繪製,並加註件號,同時於零 件表中說明其規格。 ( )4. 標準零件常不須另外繪製零件圖,下列敘述何者仍須另外繪製零件圖? (A) 螺栓 (B) 鍵、銷 (C) 墊圈、扣環 (D) 滑動軸承或固定軸承。 ( )5. 組合圖繪製常將各零件以件號數字編碼之,下列敘述何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 件號用粗實線繪製件號線,連入該零件內"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 件號線於該零件內之一端加一小黑點,另一端對準件號數字中心 (C) 各件號線盡量避免畫成垂直或水平,且件號線不得彼此相交 (D) 同一零件工作圖之件號與零件表或材料單須用相同件號。 9-2 ( )6. 對於工作圖的尺度標註,下列何者是最不需要考慮的觀念? (A) 加工成本概念 (B) 加工方法概念 (C) 基準面考量 (D) 累積誤差考量。 ( )7. 下列以機件中某一特定的孔中心為基準,引出孔的中心線為基準線再標註尺度的"
+        },
+        {
+          "type": "heading",
+          "text": "方法,加工法何者最不適合這種標註方法?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 鑽床鑽孔 (B) 搪床搪孔 (C) 銑床端銑溝槽或鍵座 (D) 車床車削階級外徑。 ( )8. 欲得到高精度且平滑的平面加工面,下列何者是最後一道加工程序? (A) 平面磨削 ( 輪磨 ) (B) 研磨或超級精磨 (C) 滾磨 (D) 搪磨。"
+        },
+        {
+          "type": "heading",
+          "text": "+ 0 02."
+        },
+        {
+          "type": "paragraph",
+          "text": "9-3 ( )9. 一尺度 φ 20 − 0 0. 3,下列敘述何者正確? (A) 最大尺度為 19.97 (B) 下偏差 0.03 (C) 公差 0.05 (D) 為單向公差。"
+        },
+        {
+          "type": "heading",
+          "text": "( )10. 下列何者最不可能為雙向公差?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) φ 20 J 8 (B) φ 20 JS 8 (C) φ 20 K 8 (D) φ 20k8。"
+        },
+        {
+          "type": "heading",
+          "text": "222"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 81,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "( )11. 下列敘述何者不正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) φ 40 G 8 的公差比 φ 20 G 8 的公差大 (B) φ 20 G 8 的公差比 φ 20 G 7 的公差大 (C) φ 40 G 8 的公差等級與 φ 20 G 8 的公差等級一樣大 (D) φ 20 H 8 的公差比 φ 20 G 8 的公差大。 ( )12. 一尺度為,下列公差符號何者最為可能? (A) φ 20J8 (B) φ 20Js8 (C) φ 20K8 (D) φ 20k8。"
+        },
+        {
+          "type": "heading",
+          "text": "+ 0 04. − 0 03."
+        },
+        {
+          "type": "paragraph",
+          "text": "( )13. 一孔 φ 20 − 0 0. 2 與一軸 φ 20 − 0 0. 5 配合,下列敘述何者正確? (A) 最大間隙為 0.07mm (B) 最小間隙為 0.01mm (C) 裕度為 0.09mm (D) 為餘隙配合。"
+        },
+        {
+          "type": "heading",
+          "text": "( )14. 下列對配合制度之敘述何者不正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 基孔制為基礎偏差零的孔,即以孔之基本尺度做為孔之最小尺度"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 基孔制之公差位置以 H 為基準"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 基軸制為下偏差為零的軸,即以軸之基本尺度做為軸之最小尺度 (D) 基軸制之公差位置以 h 為基準。 ( )15. 一機件配合為 20 G8/h8,下列敘述何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 屬於基孔制"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 屬於過渡配合"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 孔的尺度一定小於 20.0"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 孔的最大尺度與最小尺定一定相對大於軸的尺度。 ( )16. 下列敘述何者屬於基孔制且為過渡配合? (A) H9/f8 (B)H9/js8 (C)G9/h8 (D)G9/g8。"
+        },
+        {
+          "type": "paragraph",
+          "text": "9-4 ( )17. 表面織構符號為,下列敘述其代號位置何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 位置 c 為單一項表面織構要求"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 位置 d 為加工方法及相關資訊之標註"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 位置 a 為表面紋理之標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 位置 b 為加工裕度標註。 ( )18. 標註表面織構時,常見的特徵代號下列何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) Ra:表面粗糙度輪廓算術平均偏差"
+        },
+        {
+          "type": "heading",
+          "text": "(B) Rz:波紋最大輪廓高度"
+        },
+        {
+          "type": "heading",
+          "text": "(C) Rq:表面粗糙度輪廓均方根偏差"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) Pt:結構輪廓總高度。"
+        },
+        {
+          "type": "heading",
+          "text": "223"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 82,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( )19. 機件在機械加工時,採用不同的切削加工方法或進刀方向,會產生不同的紋理及 方向,標註表面織構符號時下列字母代表的意義何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A)M 表示紋理呈多方向交叉"
+        },
+        {
+          "type": "heading",
+          "text": "(B)C 表示紋理呈同心圓狀"
+        },
+        {
+          "type": "heading",
+          "text": "(C)R 表示紋理呈放射狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D)X 表示表面紋理呈凸起之細粒狀。 ( )20. 表面織構符號為,下列敘述何者不正確? (A) 為雙邊限界,其中上限界為 Ra 25 μ m"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 兩者傳輸波域為 0.008-4mm"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 評估長度為 4 倍取樣長度,即 16mm"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 表面紋理方向與其所指加工面之邊緣成垂直。 ( )21. 表面織構符號為,下列敘述何者不正確? (A) 上限界為 Ra 3.2 μ m、下限界為 Rz1.6 μ m"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 加工裕度為 2mm"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 限界規格為預設值最大 - 規則"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 表面紋理方向與其所指加工面之邊緣成垂直。 ( )22. 表面織構要求之位置標註順序為,下列敘述何者不正確? (A) 位置 (5) 為標註表面織構特徵, z 表示輪廓均方根偏差 (B) 位置 (6) 為評估長度為 8 倍取樣長度 (C) 位置 (7) 為限界規則採用最大 - 規則 (D) 位置 (8) 為最低限界值, Rz 值 1.6 μ m。 9-5 ( )23. 下列敘述外螺紋畫法何者不正確? (A) 在前視圖中螺紋大徑、去角部分及螺紋長度均以細實線表示"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 在前視圖中螺紋小徑以細實線表示"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 在表示端面的側視圖中,螺紋大徑為粗實線圓"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 在表示端面的側視圖中,螺紋小徑以細實線缺口圓繪製。"
+        },
+        {
+          "type": "heading",
+          "text": "( )24. 下列敘述內螺紋畫法何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 在表示端面的側視圖中,螺紋小徑約四分之一缺口圓處可在任何方位 (B) 前視圖常繪製剖視圖,其剖面線須畫到螺紋小徑"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 在表示端面的側視圖中,去角部分不畫去角圓"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 在表示端面的側視圖中,螺紋大徑缺口圓一端略超出中心線,另一端則稍離 中心線。"
+        },
+        {
+          "type": "heading",
+          "text": "224"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 83,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "( )25. 螺紋標註為 L 2N-M20x1.75,下列敘述何者不正確? (A) 為左 ( 旋 ) 螺紋 (B) 為雙線螺紋 (C) 為公制螺紋 (D) 表示細螺紋之導程為"
+        },
+        {
+          "type": "heading",
+          "text": "1.75mm。"
+        },
+        {
+          "type": "heading",
+          "text": "( )26. 螺紋標註敘述,下列何者不正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 螺紋標註以圓形之視圖上為原則,且螺紋長度一律以螺紋全長標註"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 表面織構符號應標註在螺紋之粗實線上"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 表面織構符號應標註在外螺紋大徑線上"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 表面織構符號應標註在內螺紋之小徑上。 ( )27. 螺栓頭與螺帽之繪製,下列敘述何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 螺栓頭高等於 0.7 倍的螺紋大徑"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 螺帽厚度等於 0.8 倍的螺紋大徑"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 對邊距離等於 1.2 倍的螺紋大徑"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 繪製螺栓頭與螺帽須知螺紋大徑。 9-6 ( )28. 繪製上墨圓及圓弧時,首先繪製下列哪種線條? (A) 虛線 (B) 實線 (C) 直線 (D) 中心線。 ( )29. 鉛筆繪製零件工作圖時,下列敘述何者不正確? (A) 各視圖須同時進行相關投影,先畫最顯著形狀,再畫次要者 (B) 畫圓及畫弧乃自最大圓者畫起,畫完成圓弧相切後須畫出切點處"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 須完成尺度標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 須標註件號、表面織構符號。 9-7 ( )30. 下列幾何公差符號何者不正確? (A) 真平度 (B) 圓柱度 (C) 曲面輪廓度 (D) 位置度。 ( )31. 下列幾何公差符號中何者不屬於形狀公差? (A) 曲線輪廓度 (B) 真直度 (C) 對稱度 (D) 真平度。"
+        },
+        {
+          "type": "heading",
+          "text": "( )32. 下列幾何公差符號何者不正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 當幾何公差區域為圓形 ( 柱 ),則於數值前加上 φ"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 幾何公差數值其單位為 mm"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 填入基準面 ( 線 ) 之代表為大寫字母"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 最大實體狀況時之符號應標註於公差值之前。"
+        },
+        {
+          "type": "heading",
+          "text": "225"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 84,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "二、整合型題目"
+        },
+        {
+          "type": "heading",
+          "text": "e"
+        },
+        {
+          "type": "heading",
+          "text": "第 6 章"
+        },
+        {
+          "type": "heading",
+          "text": "( )33. 如圖例所示,下列敘述何者不正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 尺度線為表示物件尺度範圍,尺度界線為表示物件尺度的大小和方向 (B) 標註尺度之箭頭開尾角度為 20 °,箭頭長約等於字高 (C) 我國尺度採用公制,圖上的單位皆為公厘 (mm) (D) 圖例中“ φ ”表示直徑符號。"
+        },
+        {
+          "type": "heading",
+          "text": "( )34. 如圖例所示,下列敘述何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) φ 14 屬於大小尺度"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 15 屬於大小尺度"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 尺度 (14) 屬於參考尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 尺度 130 與 180 為未按比例尺度之標註。"
+        },
+        {
+          "type": "heading",
+          "text": "第 7 & 8 章"
+        },
+        {
+          "type": "heading",
+          "text": "( )35. 如圖例所示,下列敘述何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 鍵座與銷孔皆是採用局部剖面視圖表達"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 圖例中剖面線用以表示其割面所切割接觸的實體部位"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 鍵座正上方表達的圖形稱為移轉剖面視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 尺度 130 中折斷線用以表示中斷視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "226"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p084.jpg"
+    },
+    {
+      "page": 85,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "第 9 章"
+        },
+        {
+          "type": "paragraph",
+          "text": "( )36. 如圖例所示,何處作為加工基準面最適合? (A) 基準 A (B) 基準 B (C) 基準 C (D) 基準 D。 ( )37. 如圖例所示,未標註表面織構若為 Rz 25,下列何者表面織構符號標註是正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A)"
+        },
+        {
+          "type": "heading",
+          "text": "(B)"
+        },
+        {
+          "type": "heading",
+          "text": "(C)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D)。"
+        },
+        {
+          "type": "heading",
+          "text": "( )38. 如圖例所示公差,下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 鍵座 6H9 表示採用 9 公差等級,公差位置為 H"
+        },
+        {
+          "type": "heading",
+          "text": "+ 0 02."
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 鍵座尺度與公差可能為 6 − 0 0. 3 (C) 軸徑 20e7 表示採用 7 公差等級,公差位置為 e"
+        },
+        {
+          "type": "heading",
+          "text": "− 0 02."
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 軸徑尺度 20e7 表示公差可能為 φ 20 − 0.04。 ( )39. 如圖例所示螺紋 M10-7f7g,下列敘述何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 為右旋公制螺紋,其螺紋角為 60 度"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 螺紋的螺距為 10"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 節徑公差為 7g"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 大徑公差為 7f。 ( )40. 如圖例所示表面織構符號,下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 表示表面粗糙度輪廓總高度"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 圖例所示表面織構符號之表面粗糙度值單位是 μ m"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 表示表面粗糙度輪廓算術平均偏差"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 圖例所示表面織構符號之評估長度皆為預設值 5 倍取樣長度與限界規則皆為 預設值 16%- 規則。"
+        },
+        {
+          "type": "heading",
+          "text": "227"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p085.jpg"
+    },
+    {
+      "page": 86,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "三、繪圖題"
+        },
+        {
+          "type": "heading",
+          "text": "填充題"
+        },
+        {
+          "type": "heading",
+          "text": "1. 公差練習:請依表內尺度,查詢表 9-1、 9-2 及 9-3,將正確的答案填入空格內。"
+        },
+        {
+          "type": "paragraph",
+          "text": "φ 20H8 φ 25G7 φ 35F6 φ 45P8 φ 20h8 φ 25G7 φ 35f6 φ 45p8"
+        },
+        {
+          "type": "heading",
+          "text": "公稱尺度 20"
+        },
+        {
+          "type": "heading",
+          "text": "基本尺度 20.00"
+        },
+        {
+          "type": "heading",
+          "text": "基礎偏差 0"
+        },
+        {
+          "type": "heading",
+          "text": "上偏差 0.033"
+        },
+        {
+          "type": "heading",
+          "text": "下偏差 0"
+        },
+        {
+          "type": "heading",
+          "text": "公差 0.033"
+        },
+        {
+          "type": "heading",
+          "text": "最大尺度 20.033"
+        },
+        {
+          "type": "heading",
+          "text": "最小尺度 20.00"
+        },
+        {
+          "type": "heading",
+          "text": "2. 公差與配合之計算練習:請依表內尺度,查詢表格,並將正確的答案填入空格內。"
+        },
+        {
+          "type": "paragraph",
+          "text": "孔公差 φ 20H8 φ 25H8 φ 35H8 φ 25G8 φ 35JS8 φ 45R9"
+        },
+        {
+          "type": "heading",
+          "text": "+0.033"
+        },
+        {
+          "type": "heading",
+          "text": "孔尺度 0"
+        },
+        {
+          "type": "heading",
+          "text": "軸公差 φ 20g7"
+        },
+        {
+          "type": "heading",
+          "text": "− 0.007"
+        },
+        {
+          "type": "heading",
+          "text": "軸尺度 − 0.028"
+        },
+        {
+          "type": "heading",
+          "text": "何種配合制度 基孔調"
+        },
+        {
+          "type": "heading",
+          "text": "何種配合種類 留隙配合"
+        },
+        {
+          "type": "heading",
+          "text": "孔大 − 軸小"
+        },
+        {
+          "type": "heading",
+          "text": "最大留隙 0.033 −(−0.028)"
+        },
+        {
+          "type": "heading",
+          "text": "= 0.061"
+        },
+        {
+          "type": "heading",
+          "text": "孔小 − 軸大"
+        },
+        {
+          "type": "heading",
+          "text": "最小留隙 0 −(−0.028)"
+        },
+        {
+          "type": "heading",
+          "text": "= 0.028"
+        },
+        {
+          "type": "heading",
+          "text": "最大過盈"
+        },
+        {
+          "type": "heading",
+          "text": "最小過盈"
+        },
+        {
+          "type": "heading",
+          "text": "228"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 87,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "繪圖題"
+        },
+        {
+          "type": "heading",
+          "text": "1. 圖號 9-1:依直式排放零件圖之圖示,抄繪視圖於 A3 橫放圖紙上。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依零件圖之圖示尺度,將各視圖以 1: 1 比例抄繪在圖紙上。 依照 CNS 規定將視圖標註尺度、公差及表面織構符號。 繪製及填寫標題欄及零件表。 (3) 繪製要領: 將各視圖正確繪出。 尺度、公差及表面織構符號需正確標註。 標題欄及零件表需繪製及填寫正確。"
+        },
+        {
+          "type": "heading",
+          "text": "9-1"
+        },
+        {
+          "type": "heading",
+          "text": "229"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 88,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "2. 圖號 9-2:依直式擺放之零件圖圖示,抄繪視圖於 A3 圖紙。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依零件圖之圖示,並參考 9-1 之視圖尺度,以 1: 1 比例抄繪在橫放 A3 圖紙上。 將視圖之主要尺標註,且將繪製件號線。 繪製及填寫件號、標題欄及零件表。 (3) 繪製要領: 將零件圖正確繪出。 件號、標題欄及零件表需繪製及填寫正確。 件號線與小圓點需繪製正確。 主要尺度需正確標註。"
+        },
+        {
+          "type": "heading",
+          "text": "9-2"
+        },
+        {
+          "type": "heading",
+          "text": "230"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 89,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "3. 圖號 9-3、 9-4:依機件尺度繪製零件圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體之圖示尺度,擇一零件圖以 1: 1 比例繪製在圖紙上。 佈圖:將零件視圖寬、高、深之總長定出,並預留標註距離。 依照 CNS 規定將視圖標註尺度及公差。 標註表面織構符號,在加工面上。 填寫公用表面織構符號及標題欄、材質 ( 材料材質為 FC200)。 (3) 繪製要領: 將各視圖正確繪出。線條與尺度需依 CNS 規定。 尺度、公差及表面織構符號需正確標註。"
+        },
+        {
+          "type": "heading",
+          "text": "9-3"
+        },
+        {
+          "type": "heading",
+          "text": "9-4"
+        },
+        {
+          "type": "heading",
+          "text": "231"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 90,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "4. 圖號 9-5:繪製內、外螺紋組合及六角、方頭螺栓與螺帽組合。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依圖示尺度,將編號內、外螺紋組合及編號六角、方頭螺栓與螺帽以 1: 1 比例繪製在圖紙上。 將內、外螺紋組合,並繪製剖面線。 設六角、方頭螺栓之螺紋直徑為 30mm,計算表格數據,將六角、方頭螺栓 與螺帽組合繪出。 (3) 繪製要領: 將各視圖正確繪出。 線條需依 CNS 規定。 內、外螺紋組合之剖面線位置需繪製正確。 六角、方頭螺栓之各項數據需計算正確。"
+        },
+        {
+          "type": "heading",
+          "text": "9-5"
+        },
+        {
+          "type": "heading",
+          "text": "232"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 91,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "5. 圖號 9-6、 9-7:依各零件之立體圖尺度繪製組合工作圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體圖之圖示尺度,將組合圖以 1: 1 比例繪製在圖紙上。 佈圖:將組合圖寬、高、深之總長定出,並預留件號標註距離。 依立體圖之圖示尺度,判斷出組合圖之組合情形,並繪製視圖。 將組合圖標註主要尺度,並繪製件號線。 填寫件號及零件表。 ( 件 1& 件 4& 件 5 材質 S45C;件 2& 件 3 材料 FC200) (3) 繪製要領: 將組合圖正確繪出。 主要尺度需正確標註。 件號、標題欄及零件表需繪製及填寫正確。 件號線與小圓點需繪製正確。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "9-6"
+        },
+        {
+          "type": "heading",
+          "text": "233"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 92,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "9-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "零件材料參考 ( 件 1、件 2: FC200;件 3、件 4: S45C)"
+        },
+        {
+          "type": "heading",
+          "text": "234"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 93,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6. 圖號 9-8:依圖示之尺度繪製件 1 與件 2 之零件圖,及繪製各零件之組合圖"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依立體圖之圖示尺度,將件 1 與件 2 之零件圖,及繪製各零件之組合圖以 1: 1 比例繪製在圖紙上。 佈圖:將零件圖及組合圖寬、高、深之總長定出,並預留標註距離。 依立體圖之圖示尺度,判斷出組合圖之組合情形,並繪製視圖。 將零件圖標註尺度及公差;依立體圖之顏色提示,標註表面織構符號。 組合圖標註主要尺度,並繪製件號線。 填寫件號及零件表。 (3) 繪製要領: 將零件圖及組合圖正確繪出。 尺度與表面織構符號需正確標註。 線條與尺度需依 CNS 規定。 件號、標題欄及零件表需繪製及填寫正確。"
+        },
+        {
+          "type": "heading",
+          "text": "9-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "零件材料參考 ( 件 1: FC200;件 2、件 3、件 4: S20C)"
+        },
+        {
+          "type": "heading",
+          "text": "235"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p093.jpg"
+    },
+    {
+      "page": 94,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "7. 圖號 9-9、 9-10:依組合圖圖示之尺度繪製各個零件圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(9-10:件 1、件 2、件 3; 9-11:件 1、件 2、件 3、件 4)"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明: 依組合圖之圖示尺度,將各零件圖以 1: 1 比例繪製在圖紙上。 佈圖:將各零件圖寬、高、深之總長定出,並預留標註距離。 將零件圖標註尺度及公差。 標註適當之表面織構符號。 填寫件號、公用表面織構符號及零件表。 (3) 繪製要領: 依組合圖之件號線及剖面線方向正確判斷出零件圖。 視圖需正確繪製。 件號、標題欄及零件表需繪製及填寫正確。 尺度和公差、表面織構符號需正確標註。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "9-9"
+        },
+        {
+          "type": "heading",
+          "text": "236"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 95,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "9 一 10"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 66"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 56"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 46"
+        },
+        {
+          "type": "paragraph",
+          "text": "1, 5 × 45。"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 36"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 74"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 50"
+        },
+        {
+          "type": "heading",
+          "text": "170"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 58"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 34"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 17"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 26"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 46"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 70"
+        },
+        {
+          "type": "heading",
+          "text": "237"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 96,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "8. 圖號 9-11~9-13:依機件尺度繪製零件圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟: 依立體之圖示尺度,將零件圖以 1: 1 比例繪製在圖紙上。 佈圖:將零件視圖寬、高、深之總長定出,並預留標註距離。 依照 CNS 規定將視圖標註尺度及公差。 依尺度標註自行判斷配合情形標註適當之公差、表面織構符號。 填寫公用表面織構符號及標題欄。 (3) 繪製要領: 將各視圖正確繪出。 尺度、公差及表面織構符號需正確標註。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "9-11"
+        },
+        {
+          "type": "heading",
+          "text": "238"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 97,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "9 一 12"
+        },
+        {
+          "type": "heading",
+          "text": "(j) 鎖緊器"
+        },
+        {
+          "type": "heading",
+          "text": "@單叉連桿"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 22H 7"
+        },
+        {
+          "type": "heading",
+          "text": "註: 未註明之外圓角為 R2"
+        },
+        {
+          "type": "heading",
+          "text": "239"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch09/p097.jpg"
+    },
+    {
+      "page": 98,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "9 一 13"
+        },
+        {
+          "type": "heading",
+          "text": "(j) 偏位連桿"
+        },
+        {
+          "type": "heading",
+          "text": "@圓筒座"
+        },
+        {
+          "type": "heading",
+          "text": "主: 未註明之外圓角為 R2"
+        },
+        {
+          "type": "heading",
+          "text": "一三"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 7 * 6"
+        },
+        {
+          "type": "heading",
+          "text": "240"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

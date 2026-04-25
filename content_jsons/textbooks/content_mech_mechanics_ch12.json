@@ -1,0 +1,4521 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH12",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH12",
+    "title": "CH12"
+  },
+  "title": "機械力學 Chapter 12 樑之應力",
+  "source_pdf": "mechanical_mechanics/CH12PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH12",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "樑之應力"
+        },
+        {
+          "type": "heading",
+          "text": "本章網要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "12-1 樑的種類 1. 能瞭解樑之意義與種類和柱的不"
+        },
+        {
+          "type": "heading",
+          "text": "12-2 剪力及彎曲力矩的計算及圖 同"
+        },
+        {
+          "type": "heading",
+          "text": "解 2. 能瞭解樑之剪力及彎矩的關係與"
+        },
+        {
+          "type": "heading",
+          "text": "12-3 樑的彎曲應力與剪應力 計算"
+        },
+        {
+          "type": "heading",
+          "text": "3. 能繪出樑之剪力圖及彎矩圖"
+        },
+        {
+          "type": "heading",
+          "text": "4. 能瞭解危險斷面的意義"
+        },
+        {
+          "type": "heading",
+          "text": "5. 能理解樑彎曲應力之計算及分佈"
+        },
+        {
+          "type": "heading",
+          "text": "狀況"
+        },
+        {
+          "type": "heading",
+          "text": "6. 能理解樑剪應力之計算及分佈狀"
+        },
+        {
+          "type": "heading",
+          "text": "況"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "paragraph",
+          "text": "美國貝永大橋 (Bayonne Bridge) 於 1931 年通車,在 1928 年開始動工興建主跨 503.6 m,位於美國新澤西洲與紐約洲之間,落成時是世界最長的鋼鐵拱橋 ( 目前世界第四長 ), 貝永大橋其長度 1762 m、寬 26 m,距離水面 46 m,最大跨度 510 m,於 1985 年被列入 國際土木工程歷史古跡,貝永大橋設計需要考慮荷重、移動荷重、天候、振動、地震等因 素,並通過繁瑣的計算才能設計出迄今近百年仍屹立不搖的大型鋼拱橋。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-1 美國貝永大橋"
+        },
+        {
+          "type": "heading",
+          "text": "12-1 樑的種類"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-1 樑的定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "承受與軸向垂直的橫向載重之構件均稱為樑 (beam),如圖 12-2 (a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-2 柱的定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "承受與軸向平行的載重之構件均稱為柱 (column),如圖 12-2 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-2 樑與柱"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 143"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-3 樑支撐的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "如表 12-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 12-1 樑支撐的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "型式 滾子支承 (roller support) 鉸支承 (hinge support) 固定支承 (fixed support) 只 有 1 個 反 力 與 接 觸 面 垂 水平和垂直反力及力矩"
+        },
+        {
+          "type": "heading",
+          "text": "反作用力 1 個水平和 1 個垂直反力"
+        },
+        {
+          "type": "heading",
+          "text": "直 各 1 個"
+        },
+        {
+          "type": "heading",
+          "text": "未知力數目 1 個 2 個 3 個"
+        },
+        {
+          "type": "heading",
+          "text": "圖形"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-4 樑的種類"
+        },
+        {
+          "type": "heading",
+          "text": "1. 樑的支承處之未知反作用力不超過 3 個,可由靜力學 ( ∑ F x = 0、 ∑ F y = 0、 ∑ M = 0)"
+        },
+        {
+          "type": "paragraph",
+          "text": "的三個平衡方程式求得者,稱為靜定樑 (statically determinate beam)。例如: 簡支 樑、懸臂樑及外伸樑,如表 12-2 左半部。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 樑的支承處之未知反作用力超過 3 個,不能直接由靜力學的三個平衡方程式求得"
+        },
+        {
+          "type": "paragraph",
+          "text": "者,稱為靜不定樑 (statically indeterminate beam)。例如:連續樑、束限制樑及固定 樑,如表 12-2 右半部。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "144"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 12-2 樑的種類"
+        },
+        {
+          "type": "heading",
+          "text": "靜定樑 靜不定樑"
+        },
+        {
+          "type": "paragraph",
+          "text": "名稱 簡支樑 (simply supported beam) 連續樑 (continuous beam) 樑一端以鉸支承,另一端為滾子支承。 樑同時有三個或三個以上的支承。"
+        },
+        {
+          "type": "heading",
+          "text": "定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3 個未知支承反作用力 ) ( 此題未知支承反作用力 4 個 )"
+        },
+        {
+          "type": "heading",
+          "text": "圖形"
+        },
+        {
+          "type": "heading",
+          "text": "靜定樑 靜不定樑"
+        },
+        {
+          "type": "paragraph",
+          "text": "名稱 懸臂樑 (cantilever beam) 束限制樑 (propped cantilever beam) 樑一端為固定端,另一端無任何支承的樑。 樑一端為固定端,另一端為滾子支承的樑。"
+        },
+        {
+          "type": "heading",
+          "text": "定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3 個未知支承反作用力 ) (4 個未知支承反作用力 )"
+        },
+        {
+          "type": "heading",
+          "text": "圖形"
+        },
+        {
+          "type": "heading",
+          "text": "靜定樑 靜不定樑"
+        },
+        {
+          "type": "paragraph",
+          "text": "名稱 外伸樑 (overhanging beam) 固定樑 (fixed end beam) 樑一端或二端外伸於支承以外的樑。 樑的兩端均為固定端的樑。"
+        },
+        {
+          "type": "heading",
+          "text": "定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3 個未知支承反作用力 ) (6 個未知支承反作用力 )"
+        },
+        {
+          "type": "heading",
+          "text": "圖形"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 145"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-5 樑負荷的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "樑有 4 種荷重,如表 12-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 12-3 樑負荷的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "名稱 集中負荷 (concentrated load) 力偶矩負荷 (couple load)"
+        },
+        {
+          "type": "heading",
+          "text": "樑上的負荷集中在某一作用點時,稱為集中"
+        },
+        {
+          "type": "paragraph",
+          "text": "定義 樑上有一扭矩作用於其上, 稱為力偶矩負荷。 負荷。"
+        },
+        {
+          "type": "heading",
+          "text": "圖形"
+        },
+        {
+          "type": "paragraph",
+          "text": "名稱 均佈負荷 (distributed load) 均變負荷 (uniformly varying load) 樑上的負荷均勻分佈在樑上某一段長度時, 樑上的負荷呈均勻直線變化者,稱為均變負"
+        },
+        {
+          "type": "heading",
+          "text": "定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "稱為均佈負荷。 荷。"
+        },
+        {
+          "type": "heading",
+          "text": "圖形"
+        },
+        {
+          "type": "heading",
+          "text": "12-1-6 樑的支承反力求法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 遇到均佈負荷、均變負荷,以一等效的集中負荷取代。此等效的集中負荷的大小"
+        },
+        {
+          "type": "paragraph",
+          "text": "等於均佈負荷或均變負荷曲線下所圍成的面積,此集中負荷的作用點在面積的形 心上,如圖 12-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪出樑的自由體圖,由靜力學平衡方程式 ∑ F x = 0、 ∑ F y = 0、 ∑ M = 0 解出未知反"
+        },
+        {
+          "type": "paragraph",
+          "text": "力。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-3 樑的支承及力求法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-3 樑的支承及力求法 ( 續 )"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-1 題型:樑的支承反力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之簡支樑,求 A、 B 兩支承處的反力各為多少? ( 若樑本身重量不計 )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MA = 0, 600 × 4 + 1200 +2400 × 10 - RB × 12 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RB = 2300 N ( ↑)"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, RA + RB - 600 - 2400 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RA = 700 N ( ↑)"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,若樑重不計,則 A、 B 點的反力各為多少牛頓?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 147"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 下列何種樑不屬於靜定樑? (A) 懸臂樑 (B) 簡支樑 (C) 外伸樑 (D) 固定樑。 ( ) 2. 固定樑的未知反作用力有幾個? (A) 2 (B) 3 (C) 4 (D) 6。 ( ) 3. 如圖所示之外伸樑,若樑重不計,試求 B 點的反作用力? (A) 50 (B) 100 (C) 200 (D) 500。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "南方澳斷橋意外"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 宜蘭南方澳跨港大橋斷裂"
+        },
+        {
+          "type": "paragraph",
+          "text": "宜蘭南方澳跨港大橋斷裂事故發生於 2019 年 10 月 1 日上午 9 時 30 分,引發各界震驚,斷橋原因 更是眾說紛紜。新北市土木技師公會理事長余烈直言「監視器會說話」,原本推測還有兩、三個可能性, 不過監視器畫面看得很清楚,橋是從中間的橋面處先斷落,再把兩側橋墩拉垮,推測可能是鋼索銲接處 風化生鏽,造成南方澳跨港大橋造成斷橋的原因。 南方澳跨港大橋於 1996 年開工興建、 1998 年即完工,是亞洲第一座雙叉式單拱橋,該橋採提籃式 設計,橋的重量都靠鋼索在支撐,從監視器畫面可以看到,是橋面中間先下墜,連帶橋的兩端被拉垮, 所以推測是鋼索和拱橋間的接頭脫落,造成橋面下陷,形成骨牌效應。具工程、土木背景的專家們回溯 事故發生影片,紛紛指出南方澳跨港大橋於斷裂坍陷前,穩定大橋的 13 根吊索就有不平衡狀態、吊索 力量可能有所鬆弛。近來政府為創造海埔新生地,大卡車頻繁超載消坡塊往來跨港大橋兩端,加上南方 澳第三漁港長時間整修,「上下都有干擾,可能摧枯拉朽。」"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 南方澳跨港大橋斷裂監視器畫面"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 149"
+        },
+        {
+          "type": "heading",
+          "text": "12-2 剪力及彎曲力矩的計算及圖解"
+        },
+        {
+          "type": "heading",
+          "text": "12-2-1 剪力與彎曲力矩之計算"
+        },
+        {
+          "type": "paragraph",
+          "text": "樑受負荷時把樑斷面橫向剖切,因樑處於平衡狀態,在剖切截面處會產生一力及一力 矩使其平衡,此作用力稱為樑之剪力,以英文字母“ V ”表示;而此力矩稱為樑之彎曲力 矩,以英文字母“ M ”表示。任一點樑內部之剪力 V 與彎曲力矩 M 的大小,可利用該剖 面取自由體圖或由圖解法求得。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 樑的剪力及彎矩之符號表示法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 剪力符號:我們定義為剪力對自由體圖 順時針方向迴轉的方向為正剪力,逆時 針方向為負剪力。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-4 樑"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-5 剪力符號表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 彎矩符號:彎矩 使樑向上凹者為正彎矩,使樑向下凹者為負彎矩。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-6 彎矩符號表示法"
+        },
+        {
+          "type": "heading",
+          "text": "2. 樑的剪力與彎曲力矩之計算法,如圖 12-7 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 先求出樑各支承的反作用力,如: R A、 R B 等。 (2) 將樑從欲求截面處加以剖切,畫出自由體圖,如欲求距 A 點右邊 x 公尺處, 即在該處剖切。 (3) 由合力, ∑ F y = 0,可求得斷面的剪力 V。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 由合力矩, ∑ M = 0,可求得斷面的彎矩 M。 (5) 一般均先假設剪力 V、彎矩 M 為正的方向,若算出為負值即為負剪力和負彎 矩。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-7 樑之截面處剖切示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "彎矩力矩一般以 M 表示,使樑產生「凹向上」者為「正值」;使樑產生「凹向下」者 為「負值」。記憶方式:,。 ( 笑臉與哭臉 )"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-2 題型:剪力值與彎矩值"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,若樑本身重量不計,試求: (1) 距支點 A 右邊 10 m 處的剪力值和彎"
+        },
+        {
+          "type": "heading",
+          "text": "矩值? (2)B 點左側的剪力值與彎矩值?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 151"
+        },
+        {
+          "type": "heading",
+          "text": "先求支承反力"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MA = 0, 1300 × 4 + 2000 × 13 = RB × 12"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RB = 2600 N ( ↑)"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, RA + RB = 1300 + 2000"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RA = 700 N ( ↑)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 剖切距支點 A 右邊 10 m 處,取左側自由體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, V + 400 + 1300 = 700"
+        },
+        {
+          "type": "heading",
+          "text": "∴ V = - 1000 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MO = 0, M + 400 × 1 + 1300 × 6 = 700 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "∴ M = - 1200 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 剖切 B 點左側,取右側自由體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, 1200 = V + 2600"
+        },
+        {
+          "type": "heading",
+          "text": "∴ V = - 1400 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MO = 0, M + 1200 × 3 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ M = - 3600 N-m"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-2 另解"
+        },
+        {
+          "type": "paragraph",
+          "text": "※ 剖切 B 點左側,取左側自由體圖 ( 較複雜難算 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, V + 800 + 1300 = 700"
+        },
+        {
+          "type": "heading",
+          "text": "∴ V = - 1400 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MO = 0, M + 800 × 2 + 1300 × 8 = 700 × 12"
+        },
+        {
+          "type": "heading",
+          "text": "∴ M = - 3600 N-m"
+        },
+        {
+          "type": "paragraph",
+          "text": "※ 想想看, B 點左側是否有包含 RB 呢?答案是沒有的!反之,在剖切點右側之自由體圖 則包含 RB。依平衡觀點,整體自由體圖可分離成數個單一自由體圖,數個單一自由體 圖亦可合成為整個自由體圖,但力的總數相等,代表外效應不變。"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之外伸樑,如果不計樑本身重量,則外伸樑 D 點的剪力和彎曲力矩各"
+        },
+        {
+          "type": "heading",
+          "text": "為多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 153"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 樑剖開後內部任意斷面的內力稱為該斷面的? (A) 剪力 (B) 彎矩 (C) 拉力 (D) 壓力。 ( ) 2. 如圖所示之樑受力圖,若樑重忽略不計,試求 A 點支承處右側的剪力 值為何? (A) 10 kN (B) 15 kN (C) 20 kN (D) 25 kN。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 如圖所示之樑,若樑重不計, B 點右側 1 m 處樑斷面上的彎矩為多少 N-m? (A) 0.4 (B) 2.4 (C) 4.0 (D) 6.4。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 同上題,取 B 點右側的彎矩大小為多少 N-m? (A) 2 (B) 6 (C) 6.4 (D) 8。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "154"
+        },
+        {
+          "type": "heading",
+          "text": "12-2-2 剪力與彎曲力矩之圖解"
+        },
+        {
+          "type": "heading",
+          "text": "1. 剪力圖 (VD) 與彎曲力矩圖 (MD) 的圖解法是由計算法推演而來,依此來討論受力"
+        },
+        {
+          "type": "paragraph",
+          "text": "情形 ( 若樑本身重量均不計 ),我們先採用數字來討論較為淺顯易懂,否則應利用 微積分的觀念來討論。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 沒有負荷 ( 圖中 AD 內 )"
+        },
+        {
+          "type": "heading",
+          "text": "剪力圖與彎矩圖 計算法與圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "剖切點:距 A 點 x 處 (0 ≤ x ≤ 2),即 AD 間無外力。"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y = 0, 50 - V x = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ V x = 50 N ( 在 AD 之間 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ M O = 0, M x - 50. x = 0 ∑ M A = 0, 100 × 2 = R B × 4 ∴ M x = 50x; x 的一次方為直線"
+        },
+        {
+          "type": "heading",
+          "text": "∴ R B = 50 N ( ↑)"
+        },
+        {
+          "type": "heading",
+          "text": " x = 0, Mx = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F y = 0, R A + R B = 100 分析: "
+        },
+        {
+          "type": "heading",
+          "text": "x = 2, Mx = 100 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "∴ R A = 50 N ( ↑) "
+        },
+        {
+          "type": "heading",
+          "text": "V max = 50 N 討論:"
+        },
+        {
+          "type": "paragraph",
+          "text": "M max = 100 N-m (1) 沒有負荷作用,剪力不因 x 大小而改變即 剪力 圖呈水平線。 (2) 彎矩 50x,所以 彎矩圖為一次斜直線 且其大小 為剪力與長度所圍成的面積。 ( 但是當剪力為 零時,彎矩圖仍為水平 )。 註: (1) 直線方程式 y = mx + C ( 一次方為斜直 線 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 拋 物 線 方 程 式 y = 4Cx ( 二 次 方 為 拋 物 線 )。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 155"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 集中負荷 ( 圖中之 100 N)"
+        },
+        {
+          "type": "heading",
+          "text": "剪力圖與彎矩圖 計算法與圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "剖切點:距 D 點 E 處 (0 ≤ x ≤ 2)"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F y = 0, V x + 100 - 50 = 0 ∴ V x = - 50 N ( 在 DB 之間 ) ∑ M E = 0, M x + 100. x = 50(2 + x) ∑ M A = 0, 100 × 2 = R B × 4 ∴ M x = 100 - 50x; x 的一次方為直線"
+        },
+        {
+          "type": "heading",
+          "text": "∴ R B = 50 N ( ↑)"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F y = 0, R A + R B = 100  x = 0, Mx = 100 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "分析:"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ R A = 50 N ( ↑)  x = 2, Mx = 0"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "V max = 50 N"
+        },
+        {
+          "type": "heading",
+          "text": "討論:"
+        },
+        {
+          "type": "heading",
+          "text": "M max = 100 N-m"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 集中負荷 100 N 向下,剪力圖在集中負荷 D 點會垂直向下減 100 N。 (2) 彎矩圖超過集中負荷 D 點時會呈現轉折點。"
+        },
+        {
+          "type": "heading",
+          "text": "結論:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 集中負荷,剪力圖為垂直線。 (2) 集中負荷,彎矩圖為轉折點。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 均佈負荷"
+        },
+        {
+          "type": "heading",
+          "text": "剪力圖與彎矩圖 計算法與圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "剖切點:距 A 點 x 處 (0 ≤ x ≤ 8)"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F y = 0, V x + 100. x = 400 ∴ V x = 400 - 100. x; x 的一次方為直線 ∑ M A = 0, 800 × 4 = R B × 8  x = 0, Vx = 400 N ∴ R B = 400 N ( ↑)  x = 8, Vx = - 400 N"
+        },
+        {
+          "type": "heading",
+          "text": "分析: "
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F y = 0, R A + R B = 800 "
+        },
+        {
+          "type": "heading",
+          "text": " x = 4, Vx = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ R A = 400 N ( ↑)"
+        },
+        {
+          "type": "heading",
+          "text": "V max = 400 N x"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ M O = 0, M x + 100 ⋅ x ⋅ ( ) = 400 ⋅ x"
+        },
+        {
+          "type": "heading",
+          "text": "M max = 800 N-m 2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ M x = 400x - 50x; x 的二次方為拋物線"
+        },
+        {
+          "type": "heading",
+          "text": " x = 4, Mx = 800 N-m"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "分析:  x = 0, Mx = 0"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": " x = 8, Mx = 0"
+        },
+        {
+          "type": "heading",
+          "text": "結論:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 均佈負荷,剪力圖呈一次斜直線。 (2) 均佈負荷,彎矩圖呈二次拋物線。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 157"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 均變負荷"
+        },
+        {
+          "type": "heading",
+          "text": "剪力圖與彎矩圖 計算法與圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "剖切點:距 A 點 x 處 (0 ≤ x ≤ 6)"
+        },
+        {
+          "type": "heading",
+          "text": "由相似三角形"
+        },
+        {
+          "type": "heading",
+          "text": "300 W x"
+        },
+        {
+          "type": "heading",
+          "text": "=,∴ W x = 50x"
+        },
+        {
+          "type": "heading",
+          "text": "6 x"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ M A = 0, 900 × 4 = R B × 6"
+        },
+        {
+          "type": "heading",
+          "text": "∴ R B = 600 N ( ↑)"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F y = 0, R A + R B = 900"
+        },
+        {
+          "type": "heading",
+          "text": "∴ R A = 300 N ( ↑)"
+        },
+        {
+          "type": "heading",
+          "text": "V max = - 600 N"
+        },
+        {
+          "type": "heading",
+          "text": "M max = 400 3 N-m 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F y = 0, V x + 25x = 300"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ V x = 300 - 25x; x 的二次方為二次拋物線"
+        },
+        {
+          "type": "heading",
+          "text": " x = 0, Vx = 300 N"
+        },
+        {
+          "type": "heading",
+          "text": "分析: "
+        },
+        {
+          "type": "heading",
+          "text": " x = 6, Vx = - 600 N"
+        },
+        {
+          "type": "heading",
+          "text": "2 x"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ M O = 0, M x + 25 x ⋅ ( ) = 300 ⋅ x"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "25 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ M x = 300 x − x; x 的三次方為三次拋物線"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": " x = 0, Mx = 0"
+        },
+        {
+          "type": "heading",
+          "text": "分析: "
+        },
+        {
+          "type": "heading",
+          "text": " x = 6, Mx = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 當 V x = 0 時,有 M max,∴ 300 − 25 x 2 = 0,"
+        },
+        {
+          "type": "heading",
+          "text": "x = 2 3 m;此時"
+        },
+        {
+          "type": "heading",
+          "text": "25 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "M max = 300 × ( 2 3 ) − × ( 2 3 ) = 400 3 N m -"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "結論:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 均變負荷,剪力圖呈二次曲線。 (2) 均變負荷,彎矩圖呈三次曲線。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "158"
+        },
+        {
+          "type": "heading",
+          "text": "(5) 力偶矩負荷"
+        },
+        {
+          "type": "heading",
+          "text": "剪力圖與彎矩圖 計算法與圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 剖切點距 A 點 x 處 (0 ≤ x ≤ 2)"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y = 0, V x + 10 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ V x = - 10"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ M O = 0, M x + 10 x = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ M x = - 10x"
+        },
+        {
+          "type": "paragraph",
+          "text": "當 x = 0, V x = - 10 N, M x = 0 x = 2, V x = - 10 N, M x = - 20 N-m ∑ M A = 0, 80 + R B × 4 = 120 × 5 (2) 剖切點:距 A 點 x 處 (2 ≤ x ≤ 4)"
+        },
+        {
+          "type": "heading",
+          "text": "∴ R B = 130 N ( ↑)"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F y = 0, R A + R B = 120"
+        },
+        {
+          "type": "heading",
+          "text": "∴ R A = - 10 N ( ↓)"
+        },
+        {
+          "type": "heading",
+          "text": "V max = 120 N"
+        },
+        {
+          "type": "heading",
+          "text": "M max = - 120 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y = 0, V x + 10 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ V x = - 10 N,"
+        },
+        {
+          "type": "heading",
+          "text": " x = 2, Vx = - 1 0 N"
+        },
+        {
+          "type": "heading",
+          "text": "分析: "
+        },
+        {
+          "type": "heading",
+          "text": " x = 4, Vx = - 10 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ M O = 0, M x + 80 + 10. x = 0 ∴ M x = - 10x - 80; x 的一次方"
+        },
+        {
+          "type": "heading",
+          "text": " x = 2, Mx = - 100 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "分析: "
+        },
+        {
+          "type": "heading",
+          "text": " x = 4, Mx = - 120 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "結論:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 力偶矩負荷對剪力圖沒有影響。 (2) 力偶矩負荷對彎矩圖呈垂直線。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 159"
+        },
+        {
+          "type": "heading",
+          "text": "(6) 端點有力偶矩負荷"
+        },
+        {
+          "type": "heading",
+          "text": "剪力圖與彎矩圖 計算法與圖解法"
+        },
+        {
+          "type": "paragraph",
+          "text": "剖切點:距 A 點 x 處 (0 ≤ x ≤ 4)"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F y = 0, V x = 0"
+        },
+        {
+          "type": "heading",
+          "text": "∑ M O = 0, M x + 200 = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ M A = 0, M = 200 N-m ∴ M x = - 200 N-m ∑ F y = 0, R A = 0  x = 0, Mx = - 200 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "V max = 0 N 分析: "
+        },
+        {
+          "type": "heading",
+          "text": " x = 4, Mx = - 200 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "M max = - 200 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "結論:"
+        },
+        {
+          "type": "heading",
+          "text": "只有彎矩 M,沒有剪力 V,稱為純彎曲,在彎曲"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 不論 x 如何改變,剪力圖沒有影響。 應力討論時,樑必須為純彎曲。 (2) 在純彎矩作用 ( 沒有剪力時只受彎矩 ),沒有 負荷的樑上,彎矩圖呈水平線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 各種負荷之剪力圖與彎矩圖 ( 若樑本身重量均不計 )"
+        },
+        {
+          "type": "heading",
+          "text": "集中負荷 均佈負荷 均變負荷 力偶矩負荷"
+        },
+        {
+          "type": "heading",
+          "text": "負荷"
+        },
+        {
+          "type": "heading",
+          "text": "沒有負荷"
+        },
+        {
+          "type": "heading",
+          "text": "種類"
+        },
+        {
+          "type": "heading",
+          "text": "剪力圖 水平直線"
+        },
+        {
+          "type": "heading",
+          "text": "力偶矩對剪力圖"
+        },
+        {
+          "type": "heading",
+          "text": "垂直線 傾斜直線 二次拋物線"
+        },
+        {
+          "type": "heading",
+          "text": "沒有影響"
+        },
+        {
+          "type": "heading",
+          "text": "傾斜直線"
+        },
+        {
+          "type": "heading",
+          "text": "( 若 為 純 彎"
+        },
+        {
+          "type": "heading",
+          "text": "彎矩圖"
+        },
+        {
+          "type": "heading",
+          "text": "曲狀態為水"
+        },
+        {
+          "type": "heading",
+          "text": "平直線 )"
+        },
+        {
+          "type": "heading",
+          "text": "轉折點 二次拋物線 三次拋物線 垂直線"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "3. 剪力圖與彎矩圖之畫圖技巧"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 剪力圖的畫法: 兩點間荷重圖的面積 = 此兩點間的剪力差。 (2) 彎矩圖的畫法: 兩點間剪力圖的面積 = 此兩點間的彎矩差。 (3) 剪力圖: 由左邊開始畫,往力的箭頭方向。 若由右邊畫方向相反。 (4) 彎矩圖: 由左邊開始畫,剪力為正往上畫,剪力為負往下畫。 若由右邊畫則相 反。 (5) 荷重的大小 = 剪力圖的斜率 ( 斜率即為一次微分 )。荷重愈大,剪力圖的斜率 愈大,愈趨垂直。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(6) 剪力的大小 = 彎矩圖的斜率。剪力愈大,彎矩圖的斜率愈大,愈趨垂直。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(7) 端點沒力偶矩,則彎矩圖由 0 開始畫;若有彎矩,則彎矩圖從有開始畫,彎矩 使樑另一端變凹者為正,往上畫,變凸者為負,往下畫。"
+        },
+        {
+          "type": "heading",
+          "text": "(8) 畫圖技巧"
+        },
+        {
+          "type": "heading",
+          "text": "1 荷重圖 → 剪力圖 → 彎矩圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 水平直線 → 傾斜直線 → 二次拋物線 → 三次拋物線"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 161"
+        },
+        {
+          "type": "heading",
+          "text": "4. 四種基本樑的圖形 ( 若樑本身重量均不計 )"
+        },
+        {
+          "type": "heading",
+          "text": "P WL"
+        },
+        {
+          "type": "heading",
+          "text": "V max = V max = 兩端點"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "集中負荷 均佈負荷"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "PL WL"
+        },
+        {
+          "type": "heading",
+          "text": "M max = 樑中點 M max = 樑中點"
+        },
+        {
+          "type": "heading",
+          "text": "4 8"
+        },
+        {
+          "type": "heading",
+          "text": "簡支樑"
+        },
+        {
+          "type": "paragraph",
+          "text": "V max = P 全部 V max = WL 固定端"
+        },
+        {
+          "type": "heading",
+          "text": "集中負荷 均佈負荷 WL 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "M max = PL 固定端 M max = 固定端"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "懸臂樑"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "5. 四種基本樑的最大彎曲力矩 (M max )"
+        },
+        {
+          "type": "heading",
+          "text": "PL"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 簡支樑,樑長 L 中點承受一集中負荷 P 時: M max = ( 樑中點 )。"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "WL"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 簡支樑,樑長 L 承受均佈負荷 W 時: M max = ( 樑中點 )。"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 懸臂樑,樑長 L 自由端承受一集中負荷 P 時: M max = PL ( 固定端 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "WL"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 懸臂樑,樑長 L 承受均佈負荷 W 時: M max = ( 固定端 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "6. 危險斷面"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 樑承受負荷破壞時的 危險斷面在最大彎矩處。 (2) 懸臂樑的危險斷面在:1固定端 2力偶矩作用點上。 (3) 簡支樑的最大彎矩在:1剪力由正轉負,或由負轉正的斷面上 ( 即 剪力 = 0, 此時彎矩為最大值 ) 2力偶矩作用點上。 (4) 簡支樑若剪力圖中有多處剪力 V = 0,取彎矩絕對值最大處即為危險斷面。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 各種圖形之面積"
+        },
+        {
+          "type": "paragraph",
+          "text": "矩形 三角形 二次拋物線 - 內凹形 二次拋物線 - 外凸形"
+        },
+        {
+          "type": "heading",
+          "text": "bh 2 bh"
+        },
+        {
+          "type": "heading",
+          "text": "A = A ="
+        },
+        {
+          "type": "heading",
+          "text": "bh 3 3"
+        },
+        {
+          "type": "heading",
+          "text": "A = bh A ="
+        },
+        {
+          "type": "heading",
+          "text": "2 ( 三角形均變負荷才適"
+        },
+        {
+          "type": "heading",
+          "text": "( 三角形均變負荷才適"
+        },
+        {
+          "type": "heading",
+          "text": "合使用 ) 合使用 )"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 樑上所產生的反作用力在 3 個以下時,可以用靜力方程式來求解,稱為靜定樑。若未知的反作用力"
+        },
+        {
+          "type": "paragraph",
+          "text": "超過 3 個以上時,則稱為靜不定樑。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 若某截面僅受力偶矩作用時,則剪力圖不受影響;但彎矩圖會在此截面上升或下降,視力偶矩的正、"
+        },
+        {
+          "type": "paragraph",
+          "text": "負而定的,力偶矩順時針往上劃,力偶矩逆時針則往下劃。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 簡支樑承受數個集中力量,若沒力偶矩作用時,最大彎矩必在其中一力的作用點上。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 163"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 12-3 題型:剪力圖與彎矩圖 ( 集中負荷 ) 試繪出樑的剪力圖與彎矩圖。 ( 若樑本身重量不"
+        },
+        {
+          "type": "heading",
+          "text": "計 )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MA = 0, 400 × 2 + 100 × 8 = RB × 5"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RB = 320 N ( ↑)"
+        },
+        {
+          "type": "heading",
+          "text": "∑ Fy = 0, RA + RB = 500"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ RA = 180 N ( ↑), Vmax = − 220 N, Mmax = 360 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "試繪出樑的剪力圖與彎矩圖。 ( 若樑本身重量不計 )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 12-4 題型:剪力圖與彎矩圖 ( 均佈負荷 )"
+        },
+        {
+          "type": "heading",
+          "text": "試繪出樑的剪力圖與彎矩圖,並求出最大彎矩"
+        },
+        {
+          "type": "heading",
+          "text": "值距 A 點幾公尺? ( 若樑本身重量不計 )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MA = 0, 400 × 2 = RB × 8,∴ RB = 100 N ( ↑) ∑ Fy = 0, RA + RB = 400,∴ RA = 300 N ( ↑)"
+        },
+        {
+          "type": "heading",
+          "text": "由相似三角形"
+        },
+        {
+          "type": "heading",
+          "text": "300 100"
+        },
+        {
+          "type": "heading",
+          "text": "=, x = 12 - 3x,∴ x = 3 m"
+        },
+        {
+          "type": "heading",
+          "text": "x 4 − x"
+        },
+        {
+          "type": "heading",
+          "text": "最大彎矩值發生在距 A 點 3 m 處"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vmax = 300 N, Mmax = 450 N-m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "試繪出樑的剪力圖與彎矩圖,並求出最大彎矩值距 A 點幾公尺? ( 若樑本身重"
+        },
+        {
+          "type": "heading",
+          "text": "量不計 )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 165"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 12-5 題型:剪力圖與彎矩圖 ( 力偶矩負荷 )"
+        },
+        {
+          "type": "heading",
+          "text": "試繪出樑的剪力圖與彎矩圖,並求出樑的最大"
+        },
+        {
+          "type": "heading",
+          "text": "剪力與最大彎矩? ( 若樑本身重量不計 )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MA = 0, 200 × 2 = RB × 6 + 100"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RB = 50 N ( ↑)"
+        },
+        {
+          "type": "heading",
+          "text": "∑ Fy = 0, RA + RB = 200"
+        },
+        {
+          "type": "heading",
+          "text": "∴ RA = 150 N ( ↑)"
+        },
+        {
+          "type": "heading",
+          "text": "Vmax = 150 N ( 在 AC 之間 )"
+        },
+        {
+          "type": "heading",
+          "text": "Mmax = 300 N-m ( 在 C 點 )"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "試繪出如圖所示之 ACB 桿的剪力圖與彎矩圖 ( 若桿重不計 ),並求出 C 點右側"
+        },
+        {
+          "type": "heading",
+          "text": "和左側的剪力與彎矩?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "166"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、繪圖計算題"
+        },
+        {
+          "type": "heading",
+          "text": "1. 試繪出下列各圖所示之剪力圖與彎矩圖 ( 若樑重不計 ),並求出樑中最大剪"
+        },
+        {
+          "type": "paragraph",
+          "text": "力與最大彎矩之值。"
+        },
+        {
+          "type": "heading",
+          "text": "(1)"
+        },
+        {
+          "type": "heading",
+          "text": "(2)"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "樑之應力"
+        },
+        {
+          "type": "heading",
+          "text": "( 3 )"
+        },
+        {
+          "type": "heading",
+          "text": "VD 0"
+        },
+        {
+          "type": "heading",
+          "text": "MD 0"
+        },
+        {
+          "type": "heading",
+          "text": "( 4 )"
+        },
+        {
+          "type": "heading",
+          "text": "VD 0"
+        },
+        {
+          "type": "heading",
+          "text": "MD 0"
+        },
+        {
+          "type": "heading",
+          "text": "4m"
+        },
+        {
+          "type": "heading",
+          "text": "400N"
+        },
+        {
+          "type": "heading",
+          "text": "2m"
+        },
+        {
+          "type": "heading",
+          "text": "Chapter 12"
+        },
+        {
+          "type": "heading",
+          "text": "120N"
+        },
+        {
+          "type": "heading",
+          "text": "150N - m"
+        },
+        {
+          "type": "heading",
+          "text": "200N / m"
+        },
+        {
+          "type": "heading",
+          "text": "2m"
+        },
+        {
+          "type": "heading",
+          "text": "167"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "168"
+        },
+        {
+          "type": "heading",
+          "text": "( 5 )"
+        },
+        {
+          "type": "heading",
+          "text": "100N 一 m"
+        },
+        {
+          "type": "heading",
+          "text": "6m"
+        },
+        {
+          "type": "heading",
+          "text": "VD 0"
+        },
+        {
+          "type": "heading",
+          "text": "MD 0"
+        },
+        {
+          "type": "heading",
+          "text": "100N / m"
+        },
+        {
+          "type": "heading",
+          "text": "2m"
+        },
+        {
+          "type": "heading",
+          "text": "VD 0"
+        },
+        {
+          "type": "heading",
+          "text": "MD 0"
+        },
+        {
+          "type": "heading",
+          "text": "W= 100N / m"
+        },
+        {
+          "type": "heading",
+          "text": "100N"
+        },
+        {
+          "type": "heading",
+          "text": "1 m"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "樑之應力"
+        },
+        {
+          "type": "heading",
+          "text": "( 7 )"
+        },
+        {
+          "type": "heading",
+          "text": "VD 0"
+        },
+        {
+          "type": "heading",
+          "text": "MD 0"
+        },
+        {
+          "type": "heading",
+          "text": "( 8 )"
+        },
+        {
+          "type": "heading",
+          "text": "VD 0"
+        },
+        {
+          "type": "heading",
+          "text": "MD 0"
+        },
+        {
+          "type": "heading",
+          "text": "Chapter 12"
+        },
+        {
+          "type": "heading",
+          "text": "2M0"
+        },
+        {
+          "type": "heading",
+          "text": "100N / m"
+        },
+        {
+          "type": "heading",
+          "text": "10m"
+        },
+        {
+          "type": "heading",
+          "text": "169"
+        },
+        {
+          "type": "heading",
+          "text": "2m"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "170"
+        },
+        {
+          "type": "heading",
+          "text": "二、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 長度為 L 的簡支樑,中央承受中負荷 P 作用,若不考慮樑重,則最大"
+        },
+        {
+          "type": "heading",
+          "text": "PL PL PL PL"
+        },
+        {
+          "type": "paragraph",
+          "text": "彎曲力矩為? (A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 4 6 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 一簡支樑長 L,若不考慮樑本身重量,承受均佈載重 W 的作用,其產"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "WL WL WL WL"
+        },
+        {
+          "type": "paragraph",
+          "text": "生最大彎矩為? (A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 4 6 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 關於剪力圖及彎矩圖的敘述,下列何者錯誤? (A) 在兩集中負荷間 承受零載重,則其剪力圖為水平線段 (B) 樑上承受垂直向下的均變 負荷時,則其剪力圖為開口向下的二次拋物線 (C) 樑上承受垂直向 下的均變負荷時,則其彎矩圖為開口向下的二次曲線 (D) 樑上承受 集中負荷時,彎矩圖在該點出現轉折點。 ( ) 4. 若樑重不計,剪力全部為零的樑 ( 即純彎曲 ) 為下列哪一種負荷?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B)"
+        },
+        {
+          "type": "heading",
+          "text": "(C) (D)"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 一樑重不計的懸臂樑,長度為 L,於自由端受一集中負荷 P 作用,則 下列敘述何者錯誤? (A) 固定端可阻止旋轉 (B) 固定端的彎曲力矩 值為 PL (C) 自由端的剪力為 P (D) 自由端的彎曲力矩值為 PL。 ( ) 6. 有一長度為 L 的懸臂樑承受均佈載重,若左端為固定樑,則樑上的最"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "大彎矩發生在何處? ( 若樑重不計 ) (A) 固定端 (B) 距左端 L 處"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "1 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 距左端 L 處 (D) 距左端 L 處。"
+        },
+        {
+          "type": "heading",
+          "text": "2 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 兩等長的簡支樑與懸臂樑,若樑重不計,且承受相同的均佈負荷,則 其最大彎矩比值應為? (A) 2 倍 (B) 4 倍 (C) 0.5 倍 (D) 0.25 倍。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 171"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 8. 如圖所示之簡支樑,承受均變負荷,下列何者可能為其彎矩圖? ( 樑"
+        },
+        {
+          "type": "heading",
+          "text": "重不計 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 9. 如圖所示, A 點的反作用力矩為多少 N-m? ( 若樑重不計 ) (A) 800 ( ↑ ) (B) 800 ( ↓ ) (C) 3600 ( { ) (D) 3600 ( [ )。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 10. 如圖所示之懸臂樑,受一均勻負荷,若樑重不計,求距固定端 a 處的"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "− qb − q b − qb − q b"
+        },
+        {
+          "type": "paragraph",
+          "text": "彎矩 M 值為何? (A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 11. 如圖所示之懸臂樑,若不計樑本身重量,則此樑所產生最大彎矩 ( 絕 對值 ) 為多少 N-m? (A) 575 (B) 1250 (C) 1925 (D) 2125。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "172"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 12. 如圖所示之簡支樑,若樑重不計,下列敘述何者錯誤? (A) C 點右側剪力為 - 50 N (B) C 點左側剪力為 - 50 N (C) C 點右側彎矩為 50 N-m (D) C 點左側彎矩為 50 N-m。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 13. 如圖所示之樑, 若不計樑本身重量, 已知反力 R1 = 680 N, R2 = 3420 N,"
+        },
+        {
+          "type": "heading",
+          "text": "則此樑所受的最大彎矩為多少 N-m?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 1600 (B) 1820 (C) 2040 (D) 3640。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 14. 如圖所示之外伸簡支樑,若樑重不計,下列有關樑的剪力敘述,何者"
+        },
+        {
+          "type": "heading",
+          "text": "不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 支承 A 至 B 點間的剪力為零"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 支承 C 點的彎矩值為最大"
+        },
+        {
+          "type": "heading",
+          "text": "(C) BC 與 CD 間的剪力絕對值均相同"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 支承 AC 間的剪力均相同。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 173"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 15. 如圖所示之懸臂樑,若樑重不計,承受均變負荷 W = 400 N/m 作用,"
+        },
+        {
+          "type": "heading",
+          "text": "求樑中點的彎矩為多少 N-m?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 2400 (B) 1200 (C) 600 (D) 300。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 16. 如圖所示之樑, 承受均佈負荷 80 N/m 和集中負荷 200 N, 若樑重不計,"
+        },
+        {
+          "type": "heading",
+          "text": "則樑中最大彎矩為多少 N-m?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 2420 (B) 1960 (C) 1210 (D) 980。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 17. 如圖所示之簡支樑,若不計樑本身重"
+        },
+        {
+          "type": "heading",
+          "text": "量,試求其最大彎曲力矩大小為若干"
+        },
+        {
+          "type": "heading",
+          "text": "N-m?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 200 (B) 100 (C) 50 (D) 10。 ( ) 18. 如圖所示,若樑重不計,下列哪一個是此簡支樑的剪力圖?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) (D)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "174"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "日本最大的戰列艦大和號,是成功的設計嗎?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 大和號 ( 圖片來源:維基百科 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "日本「大和」號戰列艦堪稱史上空前絕後的超級戰列艦,該戰列艦曾號稱「世界第一戰列艦」以及 「日本帝國的救星」,該艦標準排水量 65000 噸,艦體全長 263 米,艦寬 38.9 米,主砲口徑 460 毫米, 主裝甲厚度為 410 毫米,最高航速達到 27 節。大和號生不逢時,正趕上航母崛起的年代,艦載飛機稱 雄海洋,大艦巨砲主義已經走向沒落,大和號在整個戰爭期間無所作為。 從資料上看,不管是體積還是火力,大和號在當時都是名副其實的世界第一,然而讓人唏噓不已的 是,大和號從服役開始,就沒建功過。到了太平洋戰爭後期,因為缺乏有效的空中掩護以及燃料不足 的原因,「大和」號長期趴在錨地內,不僅沒能幫日本在與美國的海戰中取得勝利,還時時拖後腿。在 1945 年 4 月 7 日沖繩島戰役中,大和號戰列艦在美軍的空襲下只堅持了不到 3 個小時就被擊沉了。眾所 周知,戰列艦基本沒反潛能力的,都是靠驅逐艦提供保護,這方面,沒什麼好說的,各個國家都一樣, 接近零的水平。 大和號在沖繩之戰,為了增強自身防空能力,大和在設計上很注重部分位置 ( 主砲、機關部 ) 的防 彈與浸水防禦 ( 所謂的集中防禦方式 ) 以免該區域受害,但會令提供浮力的前後非防彈區域被魚雷及炸 彈集中攻擊後使艦隻喪失浮力而沉沒。而在戰後舊海軍關係者的意見中指出,非防彈區域部分如用水密 鋼管充填及強化防水隔壁, 「一次的航空攻擊, 不足以令大和沉沒。 只是, 如果主砲傾斜 5 度、 副砲 10 度、 高射砲 15 度以上就不能射擊,有否擁有作戰能力已經是疑問。艦上已見縫插針地加滿了 25 mm 機關砲, 共計 162 門。其中三聯裝 52 座,單裝 6 門,數量上的確驚人,但實戰效果卻強差人意。 大和號作為日本的國家象徵與驕傲,是世界上曾經出現過排水量最大的戰列艦,但二戰時期原本就 入不敷出的日本,硬是勒緊褲腰帶、傾盡國力所打造的戰列艦則是壓垮日本軍國主義思想的最後一根稻 草,「大和」號的沉沒,也宣告了大艦巨砲時代的徹底終結。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 175"
+        },
+        {
+          "type": "heading",
+          "text": "12-3 樑的彎曲應力與剪應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "樑受橫向負荷時,樑會產生彎曲變形,使樑內部產生應力,由彎曲力矩所誘生的應 力,稱為彎曲應力 (bending stress);由剪力所誘生的應力,則稱為剪應力 (shear stress)。"
+        },
+        {
+          "type": "heading",
+          "text": "12-3-1 樑的彎曲應力"
+        },
+        {
+          "type": "heading",
+          "text": "1. 樑受彎曲產生彎曲應力必須先對樑作以下的基本假設:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 樑為材料均質 (homogeneous) 且斷面一致的直樑。 (2) 樑受負荷後,應力與應變成正比,須完全符合虎克定律。 (3) 樑的張力與壓力彈性係數須相等。 (4) 樑變形後其 橫斷面均維持平面,不可發生扭轉現象,且與縱向軸保持垂直。 (5) 樑須為 純彎曲作用,負荷作用在對稱截面上,且須通過樑截面的形心位置。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 樑的名詞解釋:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 純彎曲 (pure bending):樑內僅有彎矩而無剪力時,稱為純彎曲。如圖 12-8 所 示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-8 純彎曲"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "176"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 中立面 (neutral surface):樑受彎矩時,一邊伸長一邊縮短,所以 中間有一斷面 不伸長亦不縮短,此斷面稱為中立面,如圖 12-9 中之 ABCD 平面, 中立面不 受外力作用所以彎曲應力為零。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-9 樑受彎曲時之各部位名稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 中立軸 (neutral axis): 中立面與橫截面的交線稱為中立軸,純彎曲時中立軸會 與形心軸重合,圖 12-9 中之 CD 直線。 (4) 曲率中心 (center of curvature):相鄰兩橫斷面延長線之交點,圖 12-9 中之 O 點。 (5) 曲率半徑 (radius of curvature):曲率中心至中立軸之距離,以希臘字母“ r ”表 示,圖 12-9 中之 r。 (6) 彈性曲線 (elastic curve):中立面與縱截面之交線,如圖 12-9 中之 AD 曲線及 CB 曲線。彈性曲線,不因負荷而伸長或縮短,在圖 12-9 中,材料受正彎矩作 用,上半部會產生收縮變形之壓應力,下半部會產生伸長變形之張應力。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "(7) 曲率 (curvature): 曲率半徑的倒數稱為曲率,以希臘字母“ k ”表示, κ =。"
+        },
+        {
+          "type": "heading",
+          "text": "ρ"
+        },
+        {
+          "type": "paragraph",
+          "text": "曲率半徑愈大,曲率愈小;曲率半徑愈小,曲率愈大。當樑承受彎曲力矩愈大 時,則其曲率也愈大,曲率半徑愈小。樑的危險斷面會發生在曲率最大處。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 177"
+        },
+        {
+          "type": "heading",
+          "text": "3. 彎曲應力與曲率半徑之關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料長方形,如圖 12-10 (a),當受正彎矩作用後產生變形,如圖 12-10 (b)。 材料初始狀態 mm ′、 AB、 nn ′ 均等長,受力後 mm ′ 縮短, nn ′ 伸長。在 B 點畫 一平行線 BB ′ 與 An 平行,所以 AB  = nB  ′,則 B n  ′ ′ 為伸長量 d。 ( 弧長 S = R. q,"
+        },
+        {
+          "type": "heading",
+          "text": "σ σ"
+        },
+        {
+          "type": "paragraph",
+          "text": "L = r. q, d = y. q。虎克定律 E =, P =。 )"
+        },
+        {
+          "type": "heading",
+          "text": "P E"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-10 材料受彎曲應力作用"
+        },
+        {
+          "type": "heading",
+          "text": "δ y ⋅ θ y σ"
+        },
+        {
+          "type": "heading",
+          "text": "由應變定義 P = = = ="
+        },
+        {
+          "type": "heading",
+          "text": "L ρ θ ⋅ ρ E"
+        },
+        {
+          "type": "heading",
+          "text": "Ey"
+        },
+        {
+          "type": "heading",
+          "text": "彎曲應力 σ = ( 公式 12-1)"
+        },
+        {
+          "type": "heading",
+          "text": "ρ"
+        },
+        {
+          "type": "paragraph",
+          "text": "名稱 應力: σ 彈性係數: E 曲率半徑: r 與中立軸距離: y"
+        },
+        {
+          "type": "heading",
+          "text": "單位 MPa MPa mm mm"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "178"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "為什麼中鋼所製造的冷軋鋼板不彎成半徑小一點來節省空間呢?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 冷軋不銹鋼鋼板 ▲ 抽拉鋼線"
+        },
+        {
+          "type": "paragraph",
+          "text": "為什麼中鋼所製造的冷軋鋼板、市售鐵絲不彎成半徑小一點來節省空間呢?那是因為半徑太小 ( 曲 率半徑太小 ) 易造成鋼捲彎曲破壞、產生裂痕等,所以半徑不能太小。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 曲率大 ( 彎曲程度大 ) ▲ 曲率小 ( 彎曲程度小 )"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "在靜力學中,我們只求樑在支點的反力,是力的外效應故可以把樑當成剛體。但在討 論樑的彎曲變形時 ( 內效應 ),一定要把樑當作彈性體。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 179"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-6 題型:樑的彎曲應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "將一直徑 4 mm 的鋼線繞於直徑 1996 mm 的圓柱上,鋼線彎曲後,如圖所示, 若鋼線的彈性係數為 200 GPa,試求鋼線上方邊緣處所產生的彎曲應力?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "1996 + 4"
+        },
+        {
+          "type": "heading",
+          "text": "曲率半徑 ρ = = 1000 mm"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "( 200 × 1000 ) × ( )"
+        },
+        {
+          "type": "heading",
+          "text": "Ey 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "彎曲應力 σ = = = 400 MPa ( 拉應力 )"
+        },
+        {
+          "type": "heading",
+          "text": "ρ 1000"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "一鋼絲直徑 4 mm,若將其捲繞成平均半徑 2.1 m 的環形圓,如圖所示,假設 鋼絲的彈性係數為 210 GPa,試求鋼絲 A 點位置的應力情形?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "180"
+        },
+        {
+          "type": "heading",
+          "text": "4. 彎曲應力的分佈及公式"
+        },
+        {
+          "type": "heading",
+          "text": "Ey"
+        },
+        {
+          "type": "paragraph",
+          "text": "當樑受純彎矩作用,其彎曲應力分佈,如圖 12-11 (a) 所示,由 σ = 得知,"
+        },
+        {
+          "type": "heading",
+          "text": "ρ"
+        },
+        {
+          "type": "paragraph",
+          "text": "因為曲率半徑 ( r ) 與材料的彈性係數 (E) 為定值,所以截面上的彎曲應力 ( σ ) 與至"
+        },
+        {
+          "type": "heading",
+          "text": "中立軸的距離 (y) 成正比,其公式為"
+        },
+        {
+          "type": "heading",
+          "text": "σ σ 1 σ 2 σ 3 σ t σ c"
+        },
+        {
+          "type": "heading",
+          "text": "= = = =  = ="
+        },
+        {
+          "type": "heading",
+          "text": "y y 1 y 2 y 3 y t y c"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-11 彎曲應力分佈"
+        },
+        {
+          "type": "paragraph",
+          "text": "由圖 12-11 (b) 得知,樑受正彎矩時,樑的上半部受壓應力,下半部受張應 力。彎曲應力的大小與距中立軸的距離 (y) 成正比,且在上下面最大,而在中立面 最小為 0。 如圖 12-11 (c)、 (d) 所示,將樑的截面細分成許多微小面積,1由平衡條件可知 ∑ F x = 0,表示樑上任意截面的張應力與壓應力的內力總合為零,即彎曲應力所產生"
+        },
+        {
+          "type": "heading",
+          "text": "F"
+        },
+        {
+          "type": "paragraph",
+          "text": "的總合等於 0,2由合力矩平衡 M = ∑ M z ( 由 σ = ∴ F = σ. A, M z = F. y ),"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "paragraph",
+          "text": "即截面上所承受的彎曲力矩 (M) 為各微小面積上之內力 ( σ. A) 對中力軸所產生的 力矩 ( σ ⋅ A y ⋅ ) 的和。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 181"
+        },
+        {
+          "type": "paragraph",
+          "text": "M = ( σ 1 A 1 ) ⋅ y 1 + ( σ 2 A 2 ) ⋅ y 2 + ( σ 3 A 3 ) ⋅ y 3 + "
+        },
+        {
+          "type": "heading",
+          "text": "σ σ 1 σ 2 σ 3 σ σ σ"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 = = = = ,得到 σ 1 = y 1、 σ 2 = y 2、 σ 3 = y 3"
+        },
+        {
+          "type": "heading",
+          "text": "y y 1 y 2 y 3 y y y"
+        },
+        {
+          "type": "heading",
+          "text": "σ σ σ"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ M = ( y 1 ) A 1 ⋅ y 1 + ( y 2 ) A 2 ⋅ y 2 + ( y 3 ) A 3 ⋅ y 3 + "
+        },
+        {
+          "type": "heading",
+          "text": "y y y"
+        },
+        {
+          "type": "heading",
+          "text": "σ 2 2 2 σ"
+        },
+        {
+          "type": "paragraph",
+          "text": "= ( A y 1 1 + A y 2 2 + A y 3 3 +  ) = I"
+        },
+        {
+          "type": "heading",
+          "text": "y y"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "由慣性矩 I = A y 1 1 + A y 2 2 + A y 3 3 + "
+        },
+        {
+          "type": "heading",
+          "text": "My M"
+        },
+        {
+          "type": "heading",
+          "text": "∴彎曲應力 σ = 或 σ max ="
+        },
+        {
+          "type": "heading",
+          "text": "I Z"
+        },
+        {
+          "type": "heading",
+          "text": "I"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 其中截面係數 Z =,截面係數的 y 為與中立軸最遠距離 ) ( 公式 12-2)"
+        },
+        {
+          "type": "heading",
+          "text": "y"
+        },
+        {
+          "type": "heading",
+          "text": "Ey My"
+        },
+        {
+          "type": "heading",
+          "text": "又 σ = ="
+        },
+        {
+          "type": "heading",
+          "text": "ρ I"
+        },
+        {
+          "type": "heading",
+          "text": "1 M"
+        },
+        {
+          "type": "heading",
+          "text": "曲率 κ = = ( 公式 12-3)"
+        },
+        {
+          "type": "heading",
+          "text": "ρ EI"
+        },
+        {
+          "type": "paragraph",
+          "text": "名稱 彎曲應力: σ 彎矩: M 與中立軸距離: y"
+        },
+        {
+          "type": "heading",
+          "text": "單位 MPa N-mm mm"
+        },
+        {
+          "type": "heading",
+          "text": "慣性矩: I 截面係數: Z"
+        },
+        {
+          "type": "heading",
+          "text": "3 2"
+        },
+        {
+          "type": "heading",
+          "text": "bh bh"
+        },
+        {
+          "type": "heading",
+          "text": "I 矩形形心 = Z 矩形形心 ="
+        },
+        {
+          "type": "heading",
+          "text": "名稱 12 6 曲率半徑: r 彈性係數: E"
+        },
+        {
+          "type": "heading",
+          "text": "4 3"
+        },
+        {
+          "type": "heading",
+          "text": "π d π d"
+        },
+        {
+          "type": "heading",
+          "text": "I 圓形形心 = Z 圓形形心 ="
+        },
+        {
+          "type": "heading",
+          "text": "64 32"
+        },
+        {
+          "type": "heading",
+          "text": "4 3"
+        },
+        {
+          "type": "heading",
+          "text": "單位 mm mm mm MPa"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "182"
+        },
+        {
+          "type": "heading",
+          "text": "討論:"
+        },
+        {
+          "type": "heading",
+          "text": "My"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 由 σ = 顯示,樑受彎矩時, 彎曲應力與彎曲力矩成正比,與中立軸的距離"
+        },
+        {
+          "type": "heading",
+          "text": "I"
+        },
+        {
+          "type": "paragraph",
+          "text": "成正比,所以樑最大彎曲應力必產生在最大彎矩的斷面上下兩端 ( 距中立軸最 遠處 ), 而中立軸彎曲應力必為零 ( ∵ y = 0)。"
+        },
+        {
+          "type": "heading",
+          "text": "M"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) σ max =,相同材料破壞應力相同, 採用較大截面係數可承受更大彎矩,樑"
+        },
+        {
+          "type": "heading",
+          "text": "Z"
+        },
+        {
+          "type": "paragraph",
+          "text": "的強度較大。 (3) 當面積相同時,截面係數大小為 Z 工字形 > Z 長方形 ( 直立 ) > Z 正方形 > Z 圓形。 (4) 當面積相同時,慣性矩大小為 I 工字形 > I 長方形 ( 直立 ) > I 正方形 > I 圓形。"
+        },
+        {
+          "type": "heading",
+          "text": "(5)"
+        },
+        {
+          "type": "heading",
+          "text": "M"
+        },
+        {
+          "type": "paragraph",
+          "text": "Z 甲 = 3Z 乙 ( σ =, M = σ. Z)"
+        },
+        {
+          "type": "heading",
+          "text": "Z"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 當同材料擺置方向不同時,甲可承受的彎矩為乙的 3 倍。 (Z 甲 較大 ) 2 當材料承受相同彎矩時,乙的應力為甲的 3 倍。 (Z 甲 較大, σ 甲 比較小 )"
+        },
+        {
+          "type": "heading",
+          "text": "(6) 零件設計之材料採用參考"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 當材料的容許張應力和壓應力相同時 ( 如鑄鐵、混凝土等脆性材料 ),採用 上、下截面相同的材料,如:工字樑、矩形等斷面。 2 當材料的容許壓應力大於張應力時,採用上、下不對稱材料,如: T 形、 梯形等斷面。"
+        },
+        {
+          "type": "heading",
+          "text": "1 M"
+        },
+        {
+          "type": "paragraph",
+          "text": "(7) 由曲率 κ = = 可知樑受彎曲後,曲率與彎曲力矩成正比,而與抗撓剛度 EI"
+        },
+        {
+          "type": "heading",
+          "text": "ρ EI"
+        },
+        {
+          "type": "paragraph",
+          "text": "(flexural rigidity) 成反比,當 EI 值愈大,其曲率愈小,曲率半徑愈大,愈不易 彎曲變形。"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "I"
+        },
+        {
+          "type": "paragraph",
+          "text": "當材料受彎曲變形時上、下端彎曲應力最大,我們用一係數表示 稱為截面係數 ( 剖面模數 ),但"
+        },
+        {
+          "type": "heading",
+          "text": "y"
+        },
+        {
+          "type": "heading",
+          "text": "My 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "σ =, y 為與中立軸的距離,並不一定要求上、下兩端;而截面係數 Z =, y 為與中立軸最遠的距離,"
+        },
+        {
+          "type": "heading",
+          "text": "I y"
+        },
+        {
+          "type": "heading",
+          "text": "M"
+        },
+        {
+          "type": "paragraph",
+          "text": "所以公式 σ max =,只能求樑上、下兩端的最大彎曲應力,求樑內某一點彎曲應力時不適用。"
+        },
+        {
+          "type": "heading",
+          "text": "Z"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 183"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-7 題型:任一橫截面位置的彎曲應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之外伸樑,樑直徑 2 cm,若不考慮樑本身重量,試求: (1)AB 段的曲 率半徑? (2) 最大彎曲應力? ( 若材料的彈性係數為 E = 100 GPa)"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "繪製剪力圖及彎矩圖,作用力對稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ RA = RB = 200 π N,故 AB 段為純彎矩 M = 100 π N-m = 100 π × 1000 N-mm"
+        },
+        {
+          "type": "heading",
+          "text": "1 M 100 π × 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) = = 4,曲率半徑 r = 2500 mm = 2.5 m"
+        },
+        {
+          "type": "heading",
+          "text": "ρ EI π × 20"
+        },
+        {
+          "type": "heading",
+          "text": "( 100 × 1000 ) ×"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "M M 100 π × 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) σ max = = 3 = 3 = 400 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "Z π d π × 20"
+        },
+        {
+          "type": "heading",
+          "text": "32 32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一樑及其斷面如圖所示,若不考慮樑本身重量,試求: (1) 樑中點中央斷 面上 C 點處的彎曲應力為多少 MPa? (2) 此樑所受的最大彎曲應力為多少 MPa? (3) 樑中點中立面的彎曲應力為多少 MPa?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-8 題型:彎曲應力的比值"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,相同材料所製成的 I 字樑和矩形樑,若 I 形樑 ( 甲 ) 與直立矩形樑 ( 乙 )"
+        },
+        {
+          "type": "heading",
+          "text": "M 甲"
+        },
+        {
+          "type": "paragraph",
+          "text": "有相同的面積,當承受相同應力時,甲、乙可承受的彎矩比值 =?"
+        },
+        {
+          "type": "heading",
+          "text": "M 乙"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 185"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "bh 6 × 10 2 × 6 4 I x 428 3 甲: I x = = − 2 × = 428 mm, Z 甲 = = = 85 6. mm"
+        },
+        {
+          "type": "heading",
+          "text": "12 12 12 y 5"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "bh 4 × 9 3"
+        },
+        {
+          "type": "heading",
+          "text": "乙: Z 乙 = = = 54 mm"
+        },
+        {
+          "type": "heading",
+          "text": "6 6"
+        },
+        {
+          "type": "heading",
+          "text": "M 甲 M 乙"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料與破壞應力均相同,∴ σ 甲 = σ 乙, ="
+        },
+        {
+          "type": "heading",
+          "text": "Z 甲 Z 乙"
+        },
+        {
+          "type": "heading",
+          "text": "M 甲 Z 甲 85 6."
+        },
+        {
+          "type": "heading",
+          "text": "= = 6 1 59."
+        },
+        {
+          "type": "heading",
+          "text": "M 乙 Z 乙 54"
+        },
+        {
+          "type": "paragraph",
+          "text": "此題的 I 字樑斷面的強度 ( 可承受的彎矩 ) 約為矩形樑的 1.59 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "有二相同懸臂樑承受相同均佈負荷 W,樑本身重量不計,一為圓形截面,而另 一為正方形截面,如圖所示,若此二懸臂樑截面積相同時,試求樑其在固定端 正方形截面與圓形截面所受最大彎曲應力的比值為多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "186"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-9 題型:最大彎曲應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "若樑重不計,一 T 形斷面樑承受均佈荷重 136 N/m 的作用,如圖所示,其最大 彎曲張應力 σ t 與壓應力 σ c 分別為多少 MPa?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "WL 136 × 12"
+        },
+        {
+          "type": "paragraph",
+          "text": "簡支樑受均佈負荷時, 最大彎矩在樑中點, 且 M max = = = 2448 N m -"
+        },
+        {
+          "type": "heading",
+          "text": "8 8"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "由上一章節得到此斷面形心軸慣性矩 I = 136 cm = 136 × 10 mm 樑承受正彎矩上端受壓應力 ( 距中立軸 30 mm) 樑承受正彎矩下端受張應力 ( 距中立軸 50 mm)"
+        },
+        {
+          "type": "heading",
+          "text": "My ( 2448 × 1000 ) × 30"
+        },
+        {
+          "type": "heading",
+          "text": "σ max -壓 = = 4 = 54 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "I 136 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "My ( 2448 × 1000 ) × 50"
+        },
+        {
+          "type": "heading",
+          "text": "σ max -張 = = 4 = 90 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "I 136 × 10"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示 AB 及 CD 為圓桿,若樑重不計,兩圓桿直徑均為 20 cm,則在兩桿"
+        },
+        {
+          "type": "heading",
+          "text": "中所產生的最大彎曲應力值為多少 MPa?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 187"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 某一均質等向性材料之直樑,承受純彎曲力矩負荷而彎曲,假設此 直樑橫斷面均維持平面,其中立面承受應力狀況為何? (A) 壓應力 (B) 張應力 (C) 無彎曲應力 (D) 最大彎曲應力。 ( ) 2. 樑 的 中 立 面 (neutral surface) 與 垂 直 縱 斷 面 相 交 的 線, 稱 之 為? (A) 中立軸 (B) 彈性曲線 (C) 曲率中心 (D) 形心軸。 ( ) 3. 如圖所示之簡支樑,樑重不計,橫截面形狀為矩形,試求樑的最大彎"
+        },
+        {
+          "type": "heading",
+          "text": "3 PL 4 PL 2 PL 3 PL"
+        },
+        {
+          "type": "paragraph",
+          "text": "曲應力為何? (A) 2 (B) 2 (C) 2 (D) 2。"
+        },
+        {
+          "type": "heading",
+          "text": "2 bh 3 bh 3 bh 4 bh"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 如圖所示之樑及斷面,樑重不計, A 點為鉸支承 (hinge), B 點為滾支 承 (roller),其斷面大小為 3 cm × 6 cm,試求該斷面所受之最大張應力 為多少 MPa? (A) 50 (B) 60 (C) 30 (D) 120。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 一均質彈性材料之降伏強度為 240 MPa,以此材料設計一根樑,樑重 忽略不計,須承擔 360 kN-m 的彎矩。若使用安全因數 2.0,則所設計"
+        },
+        {
+          "type": "heading",
+          "text": "樑的截面係數至少為何?"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 150 cm (B) 300 cm (C) 1500 cm (D) 3000 cm。 ( ) 6. 一 長 10 m 的 懸 臂 樑 承 受 100 N 與 200 N"
+        },
+        {
+          "type": "heading",
+          "text": "的作用力,如圖所示,若懸臂樑的斷面為"
+        },
+        {
+          "type": "heading",
+          "text": "圓形,直徑為 16 cm,樑本身重量不計,"
+        },
+        {
+          "type": "heading",
+          "text": "則懸臂樑所承受最大彎曲應力約為多少"
+        },
+        {
+          "type": "paragraph",
+          "text": "MPa? (A) 2.5 (B) 6.5 (C) 9.5 (D) 12.5。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "188"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 一承受正彎矩的矩形樑 ( 樑重不計 ),如圖 (a) 所示,其原來的斷面寬 為 20 cm、高為 10 cm,如圖 (b) 所示;若將樑改為直立放置,其斷面 成為寬 10 cm、高為 20 cm,如圖 (c) 所示,樑所能承受彎矩能力為原 來的多少倍? (A) 2 (B) 4 (C) 8 (D) 16。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 8. 一懸臂樑在自由端承受一正彎矩 M 作用,樑重量不計且材料之彈 性係數為 E,樑橫斷面之慣性矩為 I,彈性曲線之曲率半徑為 r,則"
+        },
+        {
+          "type": "heading",
+          "text": "1 M ME MI EI"
+        },
+        {
+          "type": "paragraph",
+          "text": "=? (A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "ρ EI I E M"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 9. 在相同材料及截面積相等的條件下,以下何者斷面所能承受的彎曲力 矩最大? (A) 工字樑 (B) 矩形樑 (C) 正方形樑 (D) 圓形樑。 ( ) 10. 如圖所示之懸臂樑,長 2 m、寬 12 mm、高 20 mm,樑重不計,於自 由端承受 4000 N-m 的彎矩,若彈性係數 E = 200 GPa,則此樑曲率半 徑約為何? (A) 0.2 m (B) 0.4 m (C) 0.8 m (D) 1.6 m。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 11. 如圖所示,簡支樑中點受集中負荷 P 作用,樑的截面為矩形且樑 重不計,若樑的降伏應力為 400 MPa,安全因數為 2,試求樑中點 處 可 承 受 的 最 大 集 中 負 荷 為 多 少 kN? (A) 1.6 (B) 3.2 (C) 6.4 (D) 12.8。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 189"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 12. 一鋼桿直徑為 d,彎成一圓環,此圓環的平均直徑為 D,若此鋼桿一"
+        },
+        {
+          "type": "heading",
+          "text": "My"
+        },
+        {
+          "type": "paragraph",
+          "text": "切均符合求彎曲應力公式 σ = 的假設條件,則此鋼桿中所產生最"
+        },
+        {
+          "type": "heading",
+          "text": "I"
+        },
+        {
+          "type": "heading",
+          "text": "dE DE Dd D"
+        },
+        {
+          "type": "paragraph",
+          "text": "大彎曲應力為多少? (A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "D d E Ed"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 13. 如圖所示,均質斷面的樑,若樑重不計,安全因數取 2,其承受彎矩 為 144 N-m,降伏應力為 360 MPa,寬為 12 mm,則其最小安全 h 值 應為若干 mm? (A) 10 (B) 15 (C) 20 (D) 40。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 14. 如圖所示,有一長度 L = 2 m,高 h = 30 cm,寬 b = 20 cm 之矩形簡支"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "樑,若樑重不計,在兩端點承受 MO = 4 × 10 N-cm 的彎矩作用,使得"
+        },
+        {
+          "type": "heading",
+          "text": "h"
+        },
+        {
+          "type": "paragraph",
+          "text": "在樑下緣 ( y = − ) 有軸向 (x 軸 ) 應變 ` x = 0.0012,則下列何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 樑內任何截面的剪力大小均為 200 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 樑之截面上,在 y = - 10 cm 處之軸向應變為 0.0008 (C) 樑之彎曲形狀是圓弧,此圓弧的曲率半徑 r = 150 m"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 樑之彎曲形狀不是圓弧,但在 x = 處的曲率半徑 r = 125 m。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "190"
+        },
+        {
+          "type": "heading",
+          "text": "12-3-2 樑受剪力時之剪應力"
+        },
+        {
+          "type": "heading",
+          "text": "1. 樑受負荷時,其截面承受剪力 (V) 產生剪應力,承受彎曲力矩 (M) 產生彎曲應力。"
+        },
+        {
+          "type": "paragraph",
+          "text": "在截面上所產生的剪應力方向與剪力方向相同,稱為垂直剪應力 (vertical shear stress),由互餘剪應力得知,樑內必同時有水平剪應力 (horizontal shear stress) 產 生,兩剪應力大小相同,方向相反,如圖 12-12 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-12 樑之剪應力"
+        },
+        {
+          "type": "heading",
+          "text": "2. 如圖 12-13(a) 所示的 5 塊疊板樑,由相同截面的薄板疊加而成;若不考慮各薄板"
+        },
+        {
+          "type": "paragraph",
+          "text": "間的摩擦,當樑承受橫向負荷時,各板間的接觸面會產生自由滑動,如圖 12-13(b) 所示。整塊材料製成的樑,如圖 12-13(c) 所示,可以當成利用螺栓串接成一整體 承受橫向負荷,各薄層間無滑動情形,即樑受橫向負荷時,在縱向水平面上必有 水平剪應力的存在。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 12-13 樑內水平剪應力"
+        },
+        {
+          "type": "heading",
+          "text": "3. 樑受剪力時之剪應力"
+        },
+        {
+          "type": "heading",
+          "text": "VQ"
+        },
+        {
+          "type": "heading",
+          "text": "剪應力 τ = ( 公式 12-4)"
+        },
+        {
+          "type": "heading",
+          "text": "Ib"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 191"
+        },
+        {
+          "type": "paragraph",
+          "text": "樑斷面面積對中立軸的一次矩 Q 算法:欲求的斷面在中立軸以上,算上方的面積 ( 反之,欲求的斷面在中立軸以下,則算下方的面積 ) 再乘以此面積的形心與中立 軸之距離。 樑 內 斷 面 之 垂 直 樑斷面面積對中立軸的 中立軸之慣性"
+        },
+        {
+          "type": "heading",
+          "text": "名稱 剪應力: t 樑斷面寬度: b"
+        },
+        {
+          "type": "paragraph",
+          "text": "剪力: V 一次矩: Q = A y ⋅ 矩: I"
+        },
+        {
+          "type": "heading",
+          "text": "3 4"
+        },
+        {
+          "type": "heading",
+          "text": "單位 MPa N mm mm mm"
+        },
+        {
+          "type": "heading",
+          "text": "4. 樑的剪應力分佈"
+        },
+        {
+          "type": "paragraph",
+          "text": "樑斷面受剪力時的剪應力圖形呈拋物線函數,一般在中立軸為最大 ( 十字樑 例外 ),上下兩端最小等於零。下列為各種樑之剪應力變化曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 矩形截面 ▲ 圓形截面"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 工字形截面 ▲ T 形截面"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 十字形截面"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "192"
+        },
+        {
+          "type": "heading",
+          "text": "5. 中立軸之最大剪應力"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 矩形斷面"
+        },
+        {
+          "type": "heading",
+          "text": "3 V"
+        },
+        {
+          "type": "heading",
+          "text": "t max -矩形 = ( 公式 12-5)"
+        },
+        {
+          "type": "heading",
+          "text": "2 A"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "bh h bh"
+        },
+        {
+          "type": "heading",
+          "text": "證明: Q = A y ⋅ = × ="
+        },
+        {
+          "type": "heading",
+          "text": "2 4 8"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "bh"
+        },
+        {
+          "type": "heading",
+          "text": "V ×"
+        },
+        {
+          "type": "heading",
+          "text": "VQ 8 3 V 3 V"
+        },
+        {
+          "type": "heading",
+          "text": "t max -矩形 = = 3 = ="
+        },
+        {
+          "type": "heading",
+          "text": "Ib bh 2 bh 2 A"
+        },
+        {
+          "type": "heading",
+          "text": "× b"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "矩形斷面樑的最大剪應力為平均剪應力的 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 圓形斷面"
+        },
+        {
+          "type": "heading",
+          "text": "4 V"
+        },
+        {
+          "type": "heading",
+          "text": "t max -圓形 = ( 公式 12-6)"
+        },
+        {
+          "type": "heading",
+          "text": "3 A"
+        },
+        {
+          "type": "heading",
+          "text": "2 3"
+        },
+        {
+          "type": "heading",
+          "text": "π d 2 d d"
+        },
+        {
+          "type": "heading",
+          "text": "證明: Q = A y ⋅ = × ="
+        },
+        {
+          "type": "heading",
+          "text": "8 3 π 12"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "d 1"
+        },
+        {
+          "type": "heading",
+          "text": "V × ( 16 V )"
+        },
+        {
+          "type": "heading",
+          "text": "VQ 12 16 V 4 4 V"
+        },
+        {
+          "type": "paragraph",
+          "text": "t max -圓形 = = 4 = 2 = 2 ="
+        },
+        {
+          "type": "heading",
+          "text": "Ib π d 3 π d π d 3 A"
+        },
+        {
+          "type": "heading",
+          "text": "× d × 3"
+        },
+        {
+          "type": "heading",
+          "text": "64 4"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓形斷面樑的最大剪應力為平均剪應力的 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 193"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-10 題型:最大剪應力與平均剪應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "一均質簡支樑承受如圖所示之載重,若樑重不計,樑斷面尺寸為 12 cm × 20 cm, 當 該 樑 C 點 斷 面 所 受 之 最 大 剪 應 力 為 10 MPa 時, 試 求 載 重 P 之 值 為 多 少"
+        },
+        {
+          "type": "heading",
+          "text": "kN?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "P P P P"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ MA = 0, × 200 + × 400 + × 600 = R B × 800,∴ R B = ( ↑ )"
+        },
+        {
+          "type": "heading",
+          "text": "4 2 4 2"
+        },
+        {
+          "type": "heading",
+          "text": "P P P P"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, R A + R B = + +,∴ R A = ( ↑ )"
+        },
+        {
+          "type": "heading",
+          "text": "4 2 4 2"
+        },
+        {
+          "type": "heading",
+          "text": "P P P"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fy = 0, V C + =,∴ V C ="
+        },
+        {
+          "type": "heading",
+          "text": "4 2 4"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "heading",
+          "text": "3 ×"
+        },
+        {
+          "type": "heading",
+          "text": "3 V C 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "τ max − C =, 10 =,∴ P = 640000 N = 640 kN"
+        },
+        {
+          "type": "heading",
+          "text": "2 A 2 × ( 120 × 200 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "194"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-10"
+        },
+        {
+          "type": "paragraph",
+          "text": "一 矩 形 截 面 之 簡 支 樑 承 受 均 佈 與 力 偶 矩 如 圖 所 示, 矩 形 截 面 寬 40 mm、 高 60 mm,若不計樑本身重量,試求出樑上 C 點處由樑內剪力所誘生之最大剪"
+        },
+        {
+          "type": "heading",
+          "text": "應力為多少 MPa?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-11 題型:樑的剪應力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之 T 形截面樑,若承受 27.2 kN 之剪力作用,"
+        },
+        {
+          "type": "heading",
+          "text": "則其最大剪應力為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "算中立軸下方之 Q"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "Q = Ay = 1000 × 25 mm"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "I = 136 cm = 136 × 10 mm ( 由 ch11 例題 11-6 所導出 ) VQ ( 27 2. × 1000 ) × ( 1000 × 25 )"
+        },
+        {
+          "type": "heading",
+          "text": "τ = = = 25 MPa"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "Ib ( 136 × 10 ) × 20"
+        },
+        {
+          "type": "paragraph",
+          "text": "Q 之求法,在中立軸可以算上面或下面之 Q 值,其所得的值會相同。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 195"
+        },
+        {
+          "type": "heading",
+          "text": "另解"
+        },
+        {
+          "type": "heading",
+          "text": "算中立軸上方之 Q"
+        },
+        {
+          "type": "heading",
+          "text": "Q = A y 1 1 + A y 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ Q = 1200 × 20 + 200 × 5 = 25000 mm"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 12-11"
+        },
+        {
+          "type": "heading",
+          "text": "h"
+        },
+        {
+          "type": "paragraph",
+          "text": "試求矩形樑受剪力 V 作用,其斷面寬 b、高 h,距頂面 處的剪應力為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 下列各種樑之斷面,若承受剪力作用,何者的最大剪應力最有可能不"
+        },
+        {
+          "type": "heading",
+          "text": "會發生於形心軸?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 如圖所示,為樑內某微小元素所受之剪應力,下列各"
+        },
+        {
+          "type": "heading",
+          "text": "式的剪力方向何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) t A ( → ) (B) t B ( ↓ ) (C) t C ( → ) (D) 以上皆是。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "196"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 下列何者最可能為 T 形截面樑的剪應力分佈圖?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B)"
+        },
+        {
+          "type": "heading",
+          "text": "(C) (D)"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 樑 受 剪 力 時, 截 面 上 的 剪 應 力 變 化 為? (A) 直 線 (B) 拋 物 線 (C) 雙曲線 (D) 共軛曲線。 ( ) 5. 一樑在橫斷面上受到剪力作用,則下列敘述何者不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 橫斷面上下兩緣之剪應力最小,但未必為零"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 工形樑中立軸處受到最大剪應力"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 矩形橫斷面之最大剪應力方向與剪力方向相同"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 矩形橫斷面之最大剪應力為平均剪應力之 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 圓形斷面樑,直徑 d,受剪力 V 作用,則斷面所生的最大剪應力為?"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4 V 16 V 16 V 16 V"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 2 α (B) α (C) 2 α (D) 2。 α"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "3 π d π d 3 π d 3 π d"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 如圖所示之簡支樑,長度為 3 m,斷面尺寸為 60 mm × 100 mm,若樑 本身重量不計,則樑內之最大剪應力為多少 MPa? (A) 0.1 (B) 0.2 (C) 1.0 (D) 10.0。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p056.jpg"
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 樑之應力 197"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 8. 矩形樑之斷面為 30 × h,如圖所示,若樑受剪力 36 kN,最大剪應力"
+        },
+        {
+          "type": "heading",
+          "text": "為 20 MPa,則高度 h 為多少 mm?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 90 (B) 60 (C) 30 (D) 180。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 9. 有一樑及其斷面如圖所示,若樑重不計,則 A 點右側樑斷面上 O 點 處之垂直剪應力為多少 MPa? (A) 15 (B) 20 (C) 25 (D) 30。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 10. 有一懸臂樑 AB( 本身重量不計 ) 如圖所示,長為 100 cm,斷面寬為 20 mm、斷面高為 60 mm,在 BD 段承受 400 kN/m 的均佈負荷,試求 樑 D-D 斷面距中立軸 18 mm C 點處的剪應力 t C 值? (A) 0 (B) 160 MPa (C) 250 MPa (D) 320 MPa。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p057.jpg"
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "12-1 1. 承受與軸向垂直的橫向載重之構件均稱為樑;承受與軸向平行的載重之構件均 稱為柱。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 樑依其支撐方式,可分為二大類:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 靜定樑:簡支樑、懸臂樑及外伸樑。 (2) 靜不定樑:連續樑、束限制樑及固定樑。 12-2 3. 剪力之符號表示法:使樑產生順時針方向轉動之剪力為「正」,使樑產生逆時 針方向轉動之剪力為「負」。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 彎曲力矩之符號表示法:使樑「向上凹」者為「正彎矩」,使樑「向下凹」者"
+        },
+        {
+          "type": "paragraph",
+          "text": "為「負彎矩」。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 剪力與彎曲力矩之圖解:"
+        },
+        {
+          "type": "heading",
+          "text": "集中負荷 均佈負荷 均變負荷 力偶矩負荷"
+        },
+        {
+          "type": "heading",
+          "text": "負"
+        },
+        {
+          "type": "heading",
+          "text": "荷"
+        },
+        {
+          "type": "heading",
+          "text": "沒有負荷"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "剪"
+        },
+        {
+          "type": "heading",
+          "text": "力 水平直線"
+        },
+        {
+          "type": "heading",
+          "text": "圖 力偶矩對剪力圖"
+        },
+        {
+          "type": "heading",
+          "text": "垂直線 傾斜直線 二次拋物線"
+        },
+        {
+          "type": "heading",
+          "text": "沒有影響"
+        },
+        {
+          "type": "heading",
+          "text": "傾斜直線"
+        },
+        {
+          "type": "heading",
+          "text": "彎"
+        },
+        {
+          "type": "heading",
+          "text": "( 若為純彎"
+        },
+        {
+          "type": "heading",
+          "text": "矩"
+        },
+        {
+          "type": "heading",
+          "text": "曲 狀 態 為"
+        },
+        {
+          "type": "heading",
+          "text": "圖"
+        },
+        {
+          "type": "heading",
+          "text": "水平直線 )"
+        },
+        {
+          "type": "heading",
+          "text": "轉折點 二次拋物線 三次拋物線 垂直線"
+        },
+        {
+          "type": "heading",
+          "text": "198"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "6. 危險斷面"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 樑承受負荷破壞時的 危險斷面在最大彎矩處。 (2) 懸臂樑的危險斷面在:1固定端。2力偶矩作用點上。 (3) 簡支樑的最大彎矩在:1剪力由正轉負,或由負轉正的斷面上 ( 即 剪力 = 0, 此時彎矩為最大值 )。 2力偶矩作用點上。 (4) 簡支樑若剪力圖中有多處剪力 V = 0,取彎矩絕對值最大處即為危險斷面。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 四種基本樑的最大彎曲力矩 (M max ):"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 懸臂樑,樑長 L 自由端承受一集中負荷 P 時: M max = PL ( 固定端 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "WL"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 懸臂樑,樑長 L 承受均佈負荷 W 時: M max = ( 固定端 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "PL"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 簡支樑,樑長 L 中點承受一集中負荷 P 時: M max = ( 樑中點 )。"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "WL"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 簡支樑,樑長 L 承受均佈負荷 W 時: M max = ( 樑中點 )。"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "8. 剪力圖與彎矩圖之畫圖技巧:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 剪力圖畫法:荷重圖的面積 = 兩點間剪力差。 (2) 彎矩圖畫法:剪力圖的面積 = 兩點間彎矩差。 (3) 剪力圖:由左邊畫,往力的箭頭方向 ( 力量向上往上畫,力量向下往下畫 )。 (4) 剪力圖:由右邊畫,往力的箭頭反方向。 (5) 荷重的大小 = 剪力圖的斜率 ( 斜率即為一次微分 )。荷重愈大,剪力圖的 斜率愈大,愈趨垂直。 (6) 剪力的大小 = 彎矩圖的斜率。剪力絕對值愈大,彎矩圖的斜率愈大,愈趨 垂直。 12-3 9. 純彎曲:樑內僅有彎矩而無剪力時,稱為純彎曲。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 中立面:樑受彎矩時,一邊伸長一邊縮短,所以中間有一斷面不伸長亦不縮短,"
+        },
+        {
+          "type": "paragraph",
+          "text": "此斷面稱為中立面。而中立面與橫截面的交線稱為 中立軸,純彎曲時中立軸會 與形心軸重合。"
+        },
+        {
+          "type": "heading",
+          "text": "My M I"
+        },
+        {
+          "type": "heading",
+          "text": "11. 樑之彎曲應力公式: σ = = ( ∵截面係數 Z = )。"
+        },
+        {
+          "type": "heading",
+          "text": "I Z y"
+        },
+        {
+          "type": "heading",
+          "text": "199"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "My"
+        },
+        {
+          "type": "heading",
+          "text": "12. 由 σ = 顯示,樑彎曲應力 ( σ ) 與彎曲力矩 (M) 成正比,與中立軸的距離 (y)"
+        },
+        {
+          "type": "heading",
+          "text": "I"
+        },
+        {
+          "type": "paragraph",
+          "text": "成正比。"
+        },
+        {
+          "type": "heading",
+          "text": "VQ"
+        },
+        {
+          "type": "heading",
+          "text": "13. 樑受剪力時剪應力公式: 剪應力 τ =。"
+        },
+        {
+          "type": "heading",
+          "text": "Ib"
+        },
+        {
+          "type": "heading",
+          "text": "14. 樑之剪應力分佈:樑的剪應力呈拋物線函數變化,在中立軸為最大 ( 十字樑例"
+        },
+        {
+          "type": "paragraph",
+          "text": "外 ),上下兩緣為最小等於零。"
+        },
+        {
+          "type": "heading",
+          "text": "3 V"
+        },
+        {
+          "type": "heading",
+          "text": "15. 矩形截面樑在中立軸上之最大剪應為: τ max =,所以矩形截面樑最大剪應"
+        },
+        {
+          "type": "heading",
+          "text": "2 A"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "力為平均剪應力的 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4 V"
+        },
+        {
+          "type": "heading",
+          "text": "16. 圓形截面樑在中立軸上的最大剪應力為: τ max =,所以圓形截面樑最大剪"
+        },
+        {
+          "type": "heading",
+          "text": "3 A"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "應力為平均剪應力的 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "17. 樑受彎曲時,在樑上下兩端彎曲應力最大,中立面彎曲應力為零。樑受剪力時,"
+        },
+        {
+          "type": "paragraph",
+          "text": "中立軸剪應力最大 ( 十字樑例外 ),上下兩端最小等於零。"
+        },
+        {
+          "type": "heading",
+          "text": "18. 曲率 ( k ) 與彎曲力矩 (M) 成正比,而與抗撓剛度 (EI) 成反比,即"
+        },
+        {
+          "type": "heading",
+          "text": "1 M"
+        },
+        {
+          "type": "paragraph",
+          "text": "曲率: k = =。"
+        },
+        {
+          "type": "heading",
+          "text": "ρ EI"
+        },
+        {
+          "type": "heading",
+          "text": "19. I 字形、 箱形、 H 字形、 T 字形、 Z 字形等 複雜形斷面較圓形、 正方形、 長方形等,"
+        },
+        {
+          "type": "paragraph",
+          "text": "雖具相同之斷面積,因遠離中立軸之面積較多,其 I 值較大,若以之為樑之斷 面,其強亦較大。"
+        },
+        {
+          "type": "heading",
+          "text": "20. 矩形截面樑,安置短邊與中立軸平行者,較安置長邊與中立軸平行者之強度為"
+        },
+        {
+          "type": "paragraph",
+          "text": "強。"
+        },
+        {
+          "type": "heading",
+          "text": "200"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "12-1 ( ) 1. 如圖所示之簡支樑,求 B 端支承之反力 R B"
+        },
+        {
+          "type": "heading",
+          "text": "等於多少 kN? ( 若桿重不計 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 100 (B) 110 (C) 120 (D) 130。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 如圖所示,若樑重不計,則固定端 A 點的反作用力矩為多少 N-m? (A) 280 (B) 1140 (C) 1300 (D) 2420。"
+        },
+        {
+          "type": "paragraph",
+          "text": "12-2 ( ) 3. 如圖所示之外伸樑,若樑重不計,下列有關樑的剪力敘述,"
+        },
+        {
+          "type": "heading",
+          "text": "何者 最不正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 支承 A 至 B 點間之剪力為零"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 支承 C 點右側之剪力絕對值為最大"
+        },
+        {
+          "type": "heading",
+          "text": "(C) BC 與 CD 間之剪力絕對值相同"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 支承 A、 C 間之剪力為常數。 ( ) 4. 承上題所示之外伸樑,樑中間支承 C 點處之彎矩絕對值為? (A) 20 kN-m (B) 40 kN-m (C) 60 kN-m (D) 80 kN-m。 ( ) 5. 如圖所示之外伸樑,懸臂端施加 80 kN-m 的彎矩,下列對於該樑斷面剪 力之敘述,何者 不正確? ( 若樑重不計 ) (A) 支承 A 與 B 間之剪力為常 數 (B) 外伸樑懸臂端 C 點之剪力為零 (C) 最大剪力之絕對值為 16 kN (D) 最大剪力發生在距離滾支承 B 點右側 1 m 處。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 承上題所示之外伸樑,下列對於該樑斷面彎矩之敘述,何者最為正確? (A) 支 承 A 與 B 間 之 彎 矩 為 常 數 (B) 外 伸 樑 懸 臂 端 C 點 之 彎 矩 為 零 (C) 鉸支承 B 點之彎矩為零 (D) 最大彎矩之絕對值為 80 kN-m。"
+        },
+        {
+          "type": "heading",
+          "text": "201"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 如圖所示之外伸樑,若樑重不計,試求距 A 點右方 3 m 處彎矩為多少 N-m? (A) 150 (B) 250 (C) 350 (D) 450。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 8. 一均質等方向性且受力在彈性範圍內之樑,若樑重不計,其荷重、剪力 及彎曲力矩的關係,下列敘述何者正確? (A) 樑只承受均佈荷重時,其 剪力圖為一傾斜直線 (B) 樑承受彎矩荷重處,樑之剪力圖會受彎矩影響 (C) 樑之任兩斷面剪力差值,等於此兩點間之彎矩圖面積 (D) 樑之任兩 斷面彎矩差值,等於此兩點間之荷重圖面積。 ( ) 9. 下列何者 不正確? (A) 均佈負荷在剪力圖呈斜直線 (B) 均變負荷在剪 力圖呈二次拋物線 (C) 力偶矩負荷對剪力圖沒有影響,對彎矩圖為垂直 線 (D) 危險斷面一定發生在剪力為零處。 ( ) 10. 樑中任何斷面之彎曲力矩對沿著軸向方向之一階微分值,代表何種物理 意義? (A) 彎曲力矩 (B) 剪力 (C) 外加負荷 (D) 扭力。 ( ) 11. 樑之剪力圖與彎矩圖的敘述,下列何者 不正確? (A) 剪力圖上任意 二斷面之面積等於該兩斷面間彎矩差 (B) 剪力圖之斜率即為載重強度 (C) 剪力最大處,其彎矩亦必最大 (D) 剪力曲線與橫軸交點處有可能為 最大彎矩處。 ( ) 12. 在懸臂樑的自由端受 50 N 的集中負載與 80 N-m 的彎矩負載作用,若樑 重不計,如圖所示,則此樑的最大彎曲力矩是多少 N-m? (A) 120 (B) 80 (C) 60 (D) 20。"
+        },
+        {
+          "type": "heading",
+          "text": "202"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 13. 有一簡支樑,若樑重不計,在沒有力偶作用的情況下,其剪力圖如圖所 示,試求該樑在 D 點處之彎矩值為何? (A) 0 (B) 5 N-m (C) 10 N-m (D) 15 N-m。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 14. 一長度為 L 的簡支樑 (simply supported beam),若樑重不計,承受均佈負"
+        },
+        {
+          "type": "heading",
+          "text": "荷,下列何者是其對應的彎曲力矩圖?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) (D)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 15. 如圖所示之簡支樑,若樑重不計,承受逆時針方向之彎矩作用,其剪力"
+        },
+        {
+          "type": "heading",
+          "text": "圖為何?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "203"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p063.jpg"
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 16. 如圖所示為樑之剪力圖,若剪力與彎矩的正負方向固定,則下列何者 最"
+        },
+        {
+          "type": "heading",
+          "text": "不可能 為該樑的彎矩圖? (A) (B)"
+        },
+        {
+          "type": "heading",
+          "text": "(C) (D)"
+        },
+        {
+          "type": "paragraph",
+          "text": "12-3 ( ) 17. 有關彈性樑之分析,下列敘述何者 不正確? (A) 樑之彎曲應力分析,係假設樑承受純彎矩的近似分析"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 彎矩圖中彎矩為常數的區段,剪力為零"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 離中立軸愈遠,樑斷面上彎曲應力之絕對值愈大 (D) 剪力圖曲線之斜率為彎矩值。 ( ) 18. 如圖所示之圖 (a) 及圖 (b) 為試驗架設方式,皆可用來量測材料之彎曲強 度 (flexural strength 或 bending strength)。試由下列理由中,挑選一個最適"
+        },
+        {
+          "type": "heading",
+          "text": "合使用理由與試驗架設方式:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 圖 (a) 試體架設容易,且 AC、 CD 段剪力為常數,故選用圖 (a) (B) 圖 (a) 在 C 處的彎矩為圖 (b) 中 C 處彎矩的 1.5 倍,故選用圖 (a) (C) 圖 (b) 在 CD 段為純彎矩,無剪力,故選用圖 (b) (D) 圖 (b) 在 AC 及 DB 段只有彎矩,故選用圖 (b)。"
+        },
+        {
+          "type": "heading",
+          "text": "204"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p064.jpg"
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 19. 如圖所示之簡支樑,在中央 ( ) 處承受集中負荷 P = 2880 N,樑長度為"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "L = 6 m,其橫截面為寬度 b 高度 h 的矩形,已知 h = 4b,若欲安全承受 此集中負荷作用,且樑的容許彎曲應力為 60 MPa,不計簡支樑本身的重 量,則此矩形橫截面的最小尺寸為多少? (A) 40 mm × 160 mm (B) 30 mm × 120 mm (C) 20 mm × 80 mm (D) 10 mm × 40 mm。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 20. 如圖所示之簡支樑,若樑重不計,其矩形斷面尺寸為 100 mm × 200 mm, 受 4 kN/m 之 均 佈 負 荷, 求 此 簡 支 樑 之 最 大 彎 曲 應 力 為 多 少 MPa? (A) 1 (B) 2 (C) 3 (D) 4。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 21. 如圖所示之四種橫截面,其長、寬均為 5a,厚度為 a,中立軸為 x-x,當 承受相同的負載作用時,則哪一種橫截面的樑會發生最大的彎曲應力? (A) A 截面 (B) B 截面 (C) C 截面 (D) D 截面。"
+        },
+        {
+          "type": "heading",
+          "text": "205"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 22. 有一樑之斷面如圖所示,若樑重不計,材料斷面積相等,且容許應力相 同,若對圖示之中性軸而言,甲斷面可承受的最大彎矩為 M 1,乙斷面可 承受的最大彎矩為 M 2,丙斷面可承受的最大彎矩為 M 3,則 M 1: M 2: M 3"
+        },
+        {
+          "type": "heading",
+          "text": "為何?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 1: 4: 2 (B) 1: 2: 4 (C) 2: 1: 4 (D) 4: 1: 2。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 23. 如圖所示,有一跨度 L 的矩形簡支樑,若樑重不計,斷面寬度 W,高度 h,"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "paragraph",
+          "text": "在跨度中央承受一集中外力 P。若斷面 a-e 離跨度中央 位置,且 c 點在"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "中立軸上,請問下列敘述何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 斷面 a-e 的 a 點位置之彎曲應力等於 0 (B) 斷面 a-e 的 b 點位置之彎曲應力等於 0 (C) 斷面 a-e 的中央位置 c 點之彎曲應力等於 0 (D) 斷面 a-e 的 d 點位置之彎曲應力等於 0。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 24. 如圖所示之橫截面工字樑,若樑重不計,該樑的最大彎"
+        },
+        {
+          "type": "heading",
+          "text": "曲應力為 σ,則 x-x 截面上的彎曲應力為何?"
+        },
+        {
+          "type": "heading",
+          "text": "4 3 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) σ (B) σ (C) σ (D) σ。"
+        },
+        {
+          "type": "heading",
+          "text": "3 4 8"
+        },
+        {
+          "type": "heading",
+          "text": "206"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch12/p066.jpg"
+    }
+  ]
+}

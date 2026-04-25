@@ -1,0 +1,1713 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH08",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH08",
+    "title": "CH8"
+  },
+  "title": "機械製造 Chapter 8 切削加工",
+  "source_pdf": "mechanical_manufacturing/CH8PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH08",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "切削加工"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "8-1 切削加工介紹"
+        },
+        {
+          "type": "heading",
+          "text": "8-2 切削基本原理"
+        },
+        {
+          "type": "heading",
+          "text": "8-3 切削劑的種類與選用"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "40"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄造或塑性加工之精度有限,僅能作初步成形。當這些零件要變成最終產品之前,必"
+        },
+        {
+          "type": "heading",
+          "text": "-1 -3"
+        },
+        {
+          "type": "paragraph",
+          "text": "須以切削加工方式進一步精製,以達到微米 (μm)、次微米 (10 μm) 甚至是奈米 (nm=10 μm) 的精度要求。 機械操作者欲順利進行切削加工,除了對各種工作母機的性能、原理,以及操作必須 熟練外,對於金屬切削之原理,諸如:切削速度、進給、刀具角度、切削力及切削劑之選 擇等,均應有深切的認識,方能經濟有效的應用各種切削方式,來生產合於要求的產品。"
+        },
+        {
+          "type": "heading",
+          "text": "8-1 切削加工介紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削加工就是將材料多餘的部分,以切削方式移除的加工法。依其切除工具的不同,"
+        },
+        {
+          "type": "heading",
+          "text": "可分為下列三種方式:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 單鋒或多鋒刀具 切削 (Cutting)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 磨削 (Abrasive Process)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 非傳統切削。"
+        },
+        {
+          "type": "paragraph",
+          "text": "單鋒或多鋒刀具切削,乃是用比工件材料硬度為高,且具有適當角度的切削刀具,切 入工件內適當的深度,使刀具與工件間產生相對運動,以切除多餘部分的切削加工法。其 方式包括有車削、銑削、鉋削、鑽削、鋸削、拉削,以及搪孔等。以上各種切削加工的詳 細內容,請參閱第九章工作機械。 磨削是極多鋒的切削刀具。以極硬的細磨粒為刀具,作成輪狀、塊狀或自由粉粒狀, 與工件相對移動而磨除工件。磨削可加工很硬的工件,例如:高速鋼、碳化物或陶瓷等, 並可得到很光滑的加工面。 非傳統切削是使用熱能、電能、化學能或電解能為加工方式,將材料去除的加工方式。 非傳統切削之對象大都為不易以傳統方式加工者,例如:硬度太高、加工部位太小、形狀 特殊或工件無法承受切削力者。"
+        },
+        {
+          "type": "heading",
+          "text": "機械零件需要切削加工之原因為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 精度要求高。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 零件具有較特殊的內部輪廓或外形曲線,例如:"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑膠模具之模穴。"
+        },
+        {
+          "type": "heading",
+          "text": "車削 P72"
+        },
+        {
+          "type": "heading",
+          "text": "3. 產量不大時:塑性加工與粉末冶金等模造方式,"
+        },
+        {
+          "type": "heading",
+          "text": "工件轉動,而單尖車刀由刀座"
+        },
+        {
+          "type": "paragraph",
+          "text": "必須以量產方式來分攤模具費。切削加工則無此 帶動,進行縱向、橫向、斜向, 以及曲線等移動的切削方式。"
+        },
+        {
+          "type": "heading",
+          "text": "限制,選用不同型式的加工機械、切削加工可適"
+        },
+        {
+          "type": "paragraph",
+          "text": "用於大、中與小量生產。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 41"
+        },
+        {
+          "type": "heading",
+          "text": "4. 修正熱處理後之扭曲與變形。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 為了獲得高的表面粗糙度品質,例如:銅製的雷射反射鏡可用鑽石刀作鏡面切削。"
+        },
+        {
+          "type": "heading",
+          "text": "切削加工也有下列數項缺點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 費時:切削時間比模造時間長。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 浪費材料。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 人工技術要求高。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 切削會傷害加工面,產生變質層。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本章將於 8-2 單元探討單鋒或多鋒刀具切削的基本原理。磨削加工的內容在第九章有 深入的說明。"
+        },
+        {
+          "type": "heading",
+          "text": "相關知識"
+        },
+        {
+          "type": "paragraph",
+          "text": "遠在青銅器時代就可能發生最早的金屬切削,惟在人類發現鐵之後才能實際證實出當時曾進行金屬的 切削。當時的鐵件可能經過鍛造、鏨削或銼磨而成的。 古埃及曾使用鑿尖鑽頭型式的刀具在黃銅及鐵件上鑽孔,所以鑽頭被人們認為是最古老的切削工具。 在十八世紀中葉以前,所使用的工程結構多為木頭。車床以及當時的其他工具機多用木頭製成,且多 用於木製零件的加工。 由 1760 年至 1860 年的一百年之間,是金屬用工具機研發的主要階段,在這期間有許多優秀的工程 師奉獻畢生精力研發出能夠在工件上加工出精確的圓筒、平面、螺紋、溝槽與孔徑的基本工具機。例 如 Wilkinson 在 1775 年發明搪床, 讓 Watt 得以製出蒸汽機的圓筒; Maudsley 在 1800 年製造螺紋車床; Roberts 在 1817 年研發出龍門鉋床; Whitney 在 1818 年做出第一部銑床; Nasmyth 在 1840 年造出 自動進給的鑽床。"
+        },
+        {
+          "type": "heading",
+          "text": "8-2 切削基本原理"
+        },
+        {
+          "type": "heading",
+          "text": "切削加工的基本考量有以下數項:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 切屑的形態。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 斷屑器。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 刀具角度。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 切削力。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 切削溫度。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 刀具壽命:磨耗與破壞。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 加工面的表面粗糙度。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 材料的切削性。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 切削劑。"
+        },
+        {
+          "type": "paragraph",
+          "text": "上列考量必須充分了解與控制,才能夠獲得最大的切削效果。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "42"
+        },
+        {
+          "type": "heading",
+          "text": "8-2-1 切屑的形態"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件受刀具切削時,內部產生了塑性變形,剪切面受剪切作用,在克服剪切面的剪切 力,及刀頂面的摩擦力之後,沿著刀頂面流動而形成切屑。如圖 8-1 所示。由於塑性流動 程度的不同,切屑內應力的大小,以及刀具對切屑之摩擦阻力等因素的影響,使切屑的形"
+        },
+        {
+          "type": "heading",
+          "text": "態產生如下的四種變化:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-1 形成切屑時之晶粒變化"
+        },
+        {
+          "type": "heading",
+          "text": "一、 連續式切屑 (Continuous Chip); 流動式切屑 (Flow Chip)"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削延展性高的材料,若切屑之內應力小,而刀具頂面對切屑之摩擦阻力小時,切屑 在刀頂面上連續不斷的變形、流動,且不間斷。此種切屑型態,無論就表面粗糙度及工具 壽命立場而言,都是最理想的。 為了避免連續不斷的長條切屑造成工作上的困擾,必須在 刀具上磨出或安置斷屑器來處理之。圖 8-2(a) 所示者,為此式切屑的示意圖。形成連續式"
+        },
+        {
+          "type": "heading",
+          "text": "切屑的因素有下列數項:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工件材料延展性高。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 刀具摩擦係數小。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 使用切削劑。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 刀頂面以油石或金剛刷礪光。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 進刀量小。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 切削深度淺。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 刀具斜角大。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 切削速度快。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 刀口銳利。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-2 切屑的形態"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 43"
+        },
+        {
+          "type": "heading",
+          "text": "二、 刀口積屑的連續式切屑 (Continuous Chip With Built-up Edge)"
+        },
+        {
+          "type": "paragraph",
+          "text": "刀口積屑 (Built-up Edge, BUE) 又稱為「組合切刃」,是以切削延性及摩擦係數皆 高的材料所產生的切屑熔著現象。 當工具開始切削時,由於很高的摩擦阻力與切屑間的壓 力,以致有若干微粒黏結在刀具面上。此種黏結物隨著切削繼續進行而愈積愈多,當堆積 至適當高度後,此 BUE 會脫離刀尖而流失;然後又在刀尖重新產生黏結物,如此循環不已。 圖 8-3 所示者,為 BUE 產生的循環過程,按:形成 → 成長 → 分裂 → 脫落之步驟進行。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-3 刀口積屑的循環過程"
+        },
+        {
+          "type": "paragraph",
+          "text": "當切削速度增加時,刀頂面與切屑之快速摩擦所產生之高溫與氧化,使 BUE 之附著 不易,其尺寸會逐漸減少,甚至完全消失。減少切削深度、增加刀具傾斜角、使用銳利 的刀具及選用適當的切削劑, BUE 會傾向減少。冷作所產生的脆化現象,也有利於減少 BUE。 刀具與工件之材質親和力高者,容易產生 BUE。 例如:以高速鋼刀具切削鋁或低碳鋼。 BUE 會導致刀具頂面快速磨損,且使加工面變得粗糙不堪,為四種切屑形態中之最差 者。 圖 8-2(b) 所示者,為此式切屑的示意圖。其形成因素有下列數項:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工件材料延展性高,且摩擦係數大。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 刀具的摩擦係數大。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 未使用切削劑。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 刀具頂面粗糙。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 進刀量不適當。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 切削深度不適當。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 刀具斜角不適當。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 切削速度慢。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 刀口鈍。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "44"
+        },
+        {
+          "type": "heading",
+          "text": "三、 不連續式切屑 (Discontinuous Chip)"
+        },
+        {
+          "type": "paragraph",
+          "text": "此式切屑的形成原因,是由於切削時材料內部的組織應變能力不足,無法應切削作用 力而作適當的變形,致使產生的切屑沿剪切面作週期性的破裂。切削脆性材料,或以高阻 力及大的切屑內應力切削延性材料時,均會產生此種切屑。 圖 8-2(c) 所示者,為此式切屑 的示意圖。其形成因素有下列數項:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 材料脆性大。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 材料延展性大,但工作條件不利,例如:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 進刀量太大。 (2) 切削深度太深。 (3) 刀具斜角太小。 (4) 切削速度太慢。 (5) 刀口太鈍。 (6) 有切削振動。 非金屬材料之切屑大都屬於此類。"
+        },
+        {
+          "type": "heading",
+          "text": "四、 鋸齒形切屑 (Serrated Chip)"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋸齒形切屑是一種半連續狀的切屑,是在切削區域的剪切面小和高的剪應變下所產生 的不均勻切屑。切削鈦、鎳與不鏽鋼等低熱傳導性金屬容易產生這種切屑。切削時容易產 生高頻率的振動,容易磨損刀具。"
+        },
+        {
+          "type": "heading",
+          "text": "8-2-2 斷屑器"
+        },
+        {
+          "type": "paragraph",
+          "text": "連續切屑雖然是延性材料最理想的切削狀態,但是,連續捲繞的長條切屑會造成諸多 不便。例如:浪費切屑儲存空間、捲上工件必須停機處理、浪費加工時間,以及可能傷到 操作者。 在刀具的切削部位設置 斷屑器 (Chip Breaker),將切屑適度折斷,具有下列功用:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 在連續高速切削中,使切屑之處理單純化,減少加工之停頓。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 有效控制切屑的 容積比 (Bulk Ratio)。所謂容積比,就是相同重量之屑片佔有之體積"
+        },
+        {
+          "type": "paragraph",
+          "text": "與工件材料佔有體積之比。長條切屑之容積比可能高達 50,而充分破斷之切屑可小 至 3 左右。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 避免連續纏繞切屑傷及操作者、機具或工件。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 增進刀具使用壽命,減少加工刀具費用。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 提高產速,增進單位時間產量,降低成本。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 45"
+        },
+        {
+          "type": "paragraph",
+          "text": "切屑捲曲時,內側產生壓應力,外側產生拉應力。當應力大到一定限度時,切屑自然 會繃斷。所以折斷切屑的方法就是設法增加切屑的應力。下列加工條件可增加切屑應力:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 加大切削深度。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 增加進刀量。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 降低切削速度。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 減小切屑之捲曲半徑。"
+        },
+        {
+          "type": "paragraph",
+          "text": "前三項作法可增加切屑厚度,導致應力增加。 切屑之捲曲半徑減小,可大大地增加切 屑應力,斷屑效果最顯著;斷屑器的設計,就是以這一項為基礎。 如圖 8-4 所示之階梯式斷屑器, 當階高 (h) 愈大,階寬 (W) 愈小時,作用於切屑上之 力愈大,切屑之捲曲半徑愈小,斷屑的效果愈大。但是,刀尖的受力也相對增加,容易崩 裂。所以,必須在斷屑性與刀具壽命之間找到一個平衡點。 溝槽式斷屑器如圖 8-5 所示,在刀頂面磨一個弧形溝槽,由溝槽圓弧形狀直接控制切 屑的捲曲半徑。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "拉刀 P104"
+        },
+        {
+          "type": "heading",
+          "text": "長條形的拉刀,以一個"
+        },
+        {
+          "type": "paragraph",
+          "text": "衝程將工件切削成形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-4 階梯式斷屑器 ▲ 圖 8-5 溝槽式斷屑器"
+        },
+        {
+          "type": "heading",
+          "text": "8-2-3 刀具角度"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬切削刀具依不同的工作需要而有不同的設計,若 以刀口數來區別,可分為單鋒刀 具與多鋒刀具兩種。單鋒刀具為最簡單的刀具型式,常見的有車刀及搪孔刀等。多鋒刀具 由兩個或兩個以上的單鋒刀具所組成,例如銑刀、鑽頭、鉸刀,以及拉刀等。 金屬切削的方式若依刀口和切削方向所成的角度,可分為正交切削及斜交切削兩種。 正交切削又稱為二次元切削,如圖 8 - 6 (a) 所示,刀口與切削方向垂直,切斷車刀、平銑刀、 以及拉刀的切削皆屬此類。斜交切削又稱為三次元切削,如圖 8 - 6 (b) 所示,刀口與切削方 向不垂直,大多數的車刀、螺旋銑刀、鑽頭,以及螺旋鉸刀的切削,都是屬於這一類切削。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "46"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-6 正交切削與斜交切削"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削刀具必須依工作需要,磨成適當的角度,才能發揮最大的效用。其基本角度, 如 圖 8-7 所 示, γ 為 斜 角 (Rake Angle), α 為 間 隙 角 (Relief Angle), β 為 刀 刃 角 (Wedge Angle)。由圖中可知, 刀刃角 ( β ) +斜角 ( γ ) +隙角 ( α ) = 90 °。上述刀具角度以斜角"
+        },
+        {
+          "type": "heading",
+          "text": "及間隙角最重要,茲說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-7 切削刀具之基本角度"
+        },
+        {
+          "type": "heading",
+          "text": "一、斜角"
+        },
+        {
+          "type": "paragraph",
+          "text": "斜角又稱為傾角,位於刀頂面上之刀尖後方,主要作用為控制切屑之流動。斜角可由 正值變化至負值,正斜角可使排屑順暢,切削作用力小,但太大的正斜角會形成尖銳的刀 尖,容易磨損或崩裂;負斜角具有較強的切刃,刀口強度大,適合切削高強度的材料,但 其排屑不順,切削作用力大。一般而言,工件硬度高、刀具硬而脆者,斜角應小;反之, 則大。圖 8-8 所示者,為正斜角及負斜角的切削情形。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 47"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-8 刀具斜角"
+        },
+        {
+          "type": "paragraph",
+          "text": "三次元切削時,刀頂面呈複斜面,故其斜角依作用的方向來分,有後斜角及邊斜角兩 者,如圖 8-9 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-9 車刀刀角名稱"
+        },
+        {
+          "type": "heading",
+          "text": "二、間隙角"
+        },
+        {
+          "type": "paragraph",
+          "text": "間隙角又稱為讓角,位於刀尖下方的刀腹面上,可避免刀腹與工件面產生摩擦而影響 切削工作。間隙角一定是正值。大的間隙角可使刀刃尖銳,容易切入工件,但刃口強度低, 較易磨耗或崩裂;小的間隙角給予刀刃有較大的支撐,但摩擦生熱多,易導致刀具退火軟 化。一般而言,工件硬或刀具硬而脆者,間隙角應小;反之,則大。 間隙角依其作用的位置, 可分為前間隙角及邊間隙角。如圖 8-9 所示。車刀之前間隙角約 8 ° ∼ 12 °。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 8-10(a) 所示, 前隙角大可使徑向切深調整容易;如圖 (b) 所示, 邊隙角大可使軸 向切深調整容易。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-10 間隙角與進刀難易之關係"
+        },
+        {
+          "type": "heading",
+          "text": "三、 刀端角 (End Cutting Edge Angle)"
+        },
+        {
+          "type": "paragraph",
+          "text": "刀端角又稱為前鋒角,就作用而言,屬於間隙角,可避免刀端與工件面的摩擦,如圖 8-11 示。刀端角越大,車刀強度越低。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-11 刀端角與切邊角"
+        },
+        {
+          "type": "heading",
+          "text": "四、 切邊角 (Side Cutting Edge Angle)"
+        },
+        {
+          "type": "paragraph",
+          "text": "切邊角又稱為側鋒角,為車刀切邊與縱軸的夾角,如圖 8-11 所示。就作用而言,屬於 切削角,所以 角度大小與工件硬度成正比。此角具有如下之作用:"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 49"
+        },
+        {
+          "type": "heading",
+          "text": "1. 控制切屑流向"
+        },
+        {
+          "type": "paragraph",
+          "text": "若刀頂面不磨斜角,則無切邊角之車刀所車出之切屑,沿工件面流動,如圖 8-12(a) 所示,容易擦傷工件面。若有適當的切邊角,切屑離開刀口後,即與工件面 成一角度分離,如圖 8-12(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-12 切邊角與切屑之流向"
+        },
+        {
+          "type": "heading",
+          "text": "2. 使切屑變薄,減少刀口單位面積之受力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 8-13 所示,切邊角 δ = 0 ° 時,切屑厚度 t 1 與進給量 f 相等,即: t 1 = f ( 圖 8-13(a));切邊角 δ > 0 ° 時,切屑厚度 t 2 < f ( 圖 8-13(b)),由圖 8-13(c) 可知 t 2 與 f"
+        },
+        {
+          "type": "heading",
+          "text": "之關係為:"
+        },
+        {
+          "type": "heading",
+          "text": "t 2 = f cos δ"
+        },
+        {
+          "type": "paragraph",
+          "text": "由上式可知: δ 愈大, t 2 愈小。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-13 切邊角與切屑厚度之關係"
+        },
+        {
+          "type": "heading",
+          "text": "3. 增加刃口強度。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 減少刀口的軸向切削力,避免刀把撓曲,減少切削顫震。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 刀口與工件漸進式接觸,可減小切削瞬間之衝擊。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "heading",
+          "text": "8-2-4 切削力"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削時產生的切削力如果太大,會使刀把彎曲產生震動,甚至破壞刀具,工件也可能 撓曲或變形。所以必須以適當的方法測知切削力,以便選用適當的工具機,和設計具有足 夠強度的刀具支持器,避免因刀把的扭曲或工具機的震動而影響工件的尺寸精度與表面品 質。"
+        },
+        {
+          "type": "heading",
+          "text": "當切削條件改變時,切削力也會跟著變化,例如:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 切削速度改變時,作用力的變化並不大;一般而言,切削速度增加時,切削力有略"
+        },
+        {
+          "type": "paragraph",
+          "text": "微下降的趨勢。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 進刀量愈大,切削力愈大。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 切削深度愈深,切削力愈大。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 後斜角每增加 1 °,切線方向的切削力可減少約 1 %。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 加切削劑可略微降低切削力。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 切邊角愈大,切刃單位長度切削力愈小。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 刀鼻圓弧半徑大時,總切削力大。"
+        },
+        {
+          "type": "paragraph",
+          "text": "以車刀作三次元斜切削時,刀具會受如圖 8-14 所示,三個方向的切削力:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-14 切削力的分解"
+        },
+        {
+          "type": "heading",
+          "text": "1. 切線分力"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為主分力,約佔切削力的 67 %,如圖中所示的 f 1。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 軸向分力"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為進刀分力,約佔 27 %,如圖中所示的 f 2。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 徑向分力"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為背分力,約佔 6 %,如圖中所示的 f 3。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 51"
+        },
+        {
+          "type": "heading",
+          "text": "8-2-5 切削溫度"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削時所加的能量,有一大部分是變成熱而消耗掉的。切削熱的多寡受到許多加工參 數的影響,其中 影響最大者為切削速度。切削熱有下列幾項不利的影響:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 降低刀具的強度、硬度及耐磨性。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 工件因熱而膨脹,對尺寸精度的控制不利。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 高溫可能導致工件表面金相組織的改變,對材料的特性產生不利的影響。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 工具機可能因高溫而產生扭曲,影響工件的加工精度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削熱主要是由於剪切面的剪切作用及切屑在刀頂面上快速流動之摩擦作用所產 生。如圖 8-15 所示, 剪切區所生之熱約佔全部熱量之 60 %,刀頂面與工件面之摩擦約佔 30 %,刀腹面與工件之摩擦約佔 10 %。刀具面的最高溫處在刀尖後方,隨切削速度的改變 而變化。"
+        },
+        {
+          "type": "heading",
+          "text": "下列幾項作法,可有效地降低切削溫度:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 選用摩擦係數小的刀具。一般而言,刀具硬度高則摩擦係數小;在碳化物表面蒸鍍"
+        },
+        {
+          "type": "paragraph",
+          "text": "一層金黃色的氮化鈦,就有這種效果。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 選用與工件材質親和力小之刀具。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 選用適當的切削劑。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-15 切削熱的分佈區"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "切削劑 P60"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削劑可改善金屬切削過程中會產生大量的摩擦和溫度。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "52"
+        },
+        {
+          "type": "heading",
+          "text": "8-2-6 刀具壽命:磨損與破壞"
+        },
+        {
+          "type": "paragraph",
+          "text": "刀具壽命 (Tool Life) 是指連續切削的刀具,兩次重磨之間的切削時間長短,以分為單 位來表示。影響刀具壽命的因素很多,諸如:被削材料的材質、刀具材料的硬度、金屬表 面的狀況 ( 光面的或黑皮的、連續的或間歇的 )、刀具的外形、切削速度、進刀量、切削深 度和切削劑等;這些因素中, 以切削速度的影響最大。刀具壽命與切削速度間之關係,由"
+        },
+        {
+          "type": "heading",
+          "text": "泰勒 (Taylor) 刀具壽命公式可知:"
+        },
+        {
+          "type": "heading",
+          "text": "n"
+        },
+        {
+          "type": "heading",
+          "text": "VT = C"
+        },
+        {
+          "type": "paragraph",
+          "text": "式中 V:切削速度, ft/min; m/min; m/s"
+        },
+        {
+          "type": "heading",
+          "text": "T:刀具壽命, min; s"
+        },
+        {
+          "type": "heading",
+          "text": "n:刀具因子"
+        },
+        {
+          "type": "heading",
+          "text": "C:常數"
+        },
+        {
+          "type": "paragraph",
+          "text": "▼ 表 8-1 高速鋼與碳化鎢切削不同材料時的 n 與 C 值"
+        },
+        {
+          "type": "heading",
+          "text": "高速鋼 碳化鎢"
+        },
+        {
+          "type": "heading",
+          "text": "材料"
+        },
+        {
+          "type": "heading",
+          "text": "C n C n"
+        },
+        {
+          "type": "heading",
+          "text": "不鏽鋼 170 0.08 400 0.16"
+        },
+        {
+          "type": "heading",
+          "text": "中碳鋼 190 0.11 150 0.20"
+        },
+        {
+          "type": "heading",
+          "text": "灰鑄鐵 75 0.14 130 0.25"
+        },
+        {
+          "type": "heading",
+          "text": "決定刀具壽命接近損壞的基準有下列幾項:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工件表面產生光亮的條紋時。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 刀口磨損已達一定尺寸時。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 切削阻力顯著地增加時。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 加工尺寸的變化已達到最大的容差時。"
+        },
+        {
+          "type": "heading",
+          "text": "一、磨損"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 磨損的型式"
+        },
+        {
+          "type": "heading",
+          "text": "一般而言,切削刀具的磨損有下列四種型式:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 磨削性磨耗"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於工件上的小硬點磨損刀具表面所引起。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 53"
+        },
+        {
+          "type": "heading",
+          "text": "2. 黏著磨損"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於刀口熔著的 BUE 脫落時,撕落刀具表面之材料所引起。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 擴散磨損"
+        },
+        {
+          "type": "paragraph",
+          "text": "當切削速度非常高時,切削刀具與切屑或工件接觸的邊界層溫度飆升將產生非 常大的擴散速度,造成刀具表面快速磨損。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 氧化磨損"
+        },
+        {
+          "type": "paragraph",
+          "text": "在高溫下刀具材料與外界的環境產生氧化作用而弱化所造成的磨損。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 磨損位置"
+        },
+        {
+          "type": "heading",
+          "text": "刀具之磨損通常產生在兩個主要部位:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 刀腹磨耗"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 8 - 16 (a)、 (b) 所示,其磨損部位在刀尖下方的刀腹面上。切削脆性材料時 的磨損型態大都屬於此類。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 凹口磨耗 ( 陷坑磨耗 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 8 - 16 (c)、 (d) 所示,其磨損部位在刀尖後方的刀頂面上。高速切削延性材 料時,大都產生這種磨損。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-16 刀腹磨耗與凹口磨耗"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "54"
+        },
+        {
+          "type": "heading",
+          "text": "二、破壞"
+        },
+        {
+          "type": "heading",
+          "text": "刀具破壞的原因如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 刀尖崩裂"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 刀具太脆。 (2) 刀角磨得不正確:斜角及隙角太大則刃口強度太弱,支撐力不足。 (3) 切削負荷突然增加:工件材料有硬皮、砂眼或不連續的加工面。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 硬度喪失"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削熱使刀具退火軟化。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 自然的磨損。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 微剝落 (Microchipping)"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於機械振動,刀口的 BUE 或刀具材料組織上的缺陷,致使切削刃邊產生一 些顆粒脫落。"
+        },
+        {
+          "type": "heading",
+          "text": "8-2-7 加工面的表面粗糙度"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件切削完成後,其表面因刀具切削的結果,常會留下一條條凹凸的切削刀痕;此種 凹凸不平的現象,亦即工件表面之粗細程度,稱為 表面粗糙度 (Surface Roughness)。為了 說明的方便,茲將粗糙度分為理想粗糙度及自然粗糙度兩種:"
+        },
+        {
+          "type": "heading",
+          "text": "一、理想粗糙度"
+        },
+        {
+          "type": "paragraph",
+          "text": "乃純粹依據刀具的幾何形狀及進刀量等條件,依理論所推導出之表面粗糙度;這種理 想狀態的粗糙度在實際切削時不容易獲得。茲就圓弧形刃口與尖形刃口切削時所形成的表"
+        },
+        {
+          "type": "heading",
+          "text": "面粗糙度,說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 圓弧形刃口 ( 圖 8-17)"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "f"
+        },
+        {
+          "type": "heading",
+          "text": "H ="
+        },
+        {
+          "type": "heading",
+          "text": "8 r"
+        },
+        {
+          "type": "paragraph",
+          "text": "式中 H:以粗糙度曲線最高與最低點間所定義之理論表面粗糙度值 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "f:進給量 (mm/rev 或 mm/s)"
+        },
+        {
+          "type": "heading",
+          "text": "r:刀鼻半徑 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-17 圓弧形刃口與粗糙度之關係"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 55"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 尖形刃口 ( 圖 8-18)"
+        },
+        {
+          "type": "heading",
+          "text": "f"
+        },
+        {
+          "type": "heading",
+          "text": "H ="
+        },
+        {
+          "type": "heading",
+          "text": "tan δ + cot α"
+        },
+        {
+          "type": "paragraph",
+          "text": "式中 H:以粗糙度曲線最高與最低點間所定義之理論表面粗糙度值 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "f:進給量 (mm/rev 或 mm/s)"
+        },
+        {
+          "type": "heading",
+          "text": "δ:切邊角"
+        },
+        {
+          "type": "heading",
+          "text": "α:刀端角"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-18 尖形刃口與粗糙度之關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "由公式知:粗糙度 ( H ) 與切邊角 ( δ ) 成反比,與刀端角 ( α ) 成正比。"
+        },
+        {
+          "type": "heading",
+          "text": "二、自然粗糙度"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件表面加工後,實際上所形成的粗糙度必大於理想粗糙度,此乃因切削過程中存在"
+        },
+        {
+          "type": "heading",
+          "text": "各種不規則狀況所導致;這些不規則因素包括:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工具機產生顫震。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 工具機的運動軌道不精確。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 進給過程中的不穩定。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 工件材料結構中有缺陷,如裂縫、硬點等。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 刀具刃口產生 BUE。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 切屑沿工件面流動,所造成的工件表面損傷。"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 8-19 所示者,為在不同切削速度時,自然粗糙度與理想粗糙度之相對關係。由圖中 可知: 切削速度愈快,自然粗糙度愈趨近理想粗糙度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-19 粗糙度與切削速度之關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "綜合以上之分析, 欲得到良好的加工面 ( 表面粗糙度小 ),其工作條件為:切削深度小、 進給小、切削速度快,刀鼻半徑大、切邊角大、刀端角小,以及噴注油基切削劑。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "56"
+        },
+        {
+          "type": "heading",
+          "text": "8-2-8 材料的切削性"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬的 切削性 (Machinability) 是指材料容易切削的程度。切削性並不是一個精確量 化的數據,切削性只是一個比較性的名詞,常以刀具壽命的長短、切削所需的動力、加工 成本或加工後的表面情況來表示。考慮到切削成本時,這些因素中最重要的是刀具壽命。 影響切削性最重要的兩項因素,是被削材料的硬度和延展性。 硬度高的材料易使刀具 磨耗;延展性高的材料易在刀口產生 BUE,同樣會加速刀具的磨耗。因此,硬度及延展性 高之材料,切削性均不良;切削性好的材料應該不要太硬,且略具脆性。以碳鋼為例,含 碳 0. 3 % 者切削性最好;其硬度及延展性皆不高。含碳量低於 0.3% 的低碳鋼,可用下述方"
+        },
+        {
+          "type": "heading",
+          "text": "法改善其切削性:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 加鉛,降低鋼材的摩擦係數,避免形成 BUE。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 加硫、磷、碲、硒等元素,使鋼材變脆。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 冷作,使其應變硬化而變脆。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 噴注液態 CO 2,使其降溫而脆化。"
+        },
+        {
+          "type": "heading",
+          "text": "以下介紹幾種材料之切削性:"
+        },
+        {
+          "type": "heading",
+          "text": "一、鉛易切鋼"
+        },
+        {
+          "type": "paragraph",
+          "text": "將鉛熔入鋼中,以細粒狀均勻分佈在鋼鐵之基地內。切削時鉛粒被剪斷,然後塗佈在 刀具與切屑之接觸面上。由於鉛的摩擦係數小,可當作固體潤滑劑,改善其切削性。"
+        },
+        {
+          "type": "heading",
+          "text": "二、硫易切鋼"
+        },
+        {
+          "type": "paragraph",
+          "text": "硫在鋼中以硫化鐵形態存在,會減小剪切面的應變,使切屑易於斷裂成小屑片,避免 形成 BUE。"
+        },
+        {
+          "type": "heading",
+          "text": "三、不鏽鋼"
+        },
+        {
+          "type": "paragraph",
+          "text": "沃斯田鐵系與麻田散鐵系不鏽鋼由於韌性大,容易產生 BUE,切削性不理想。肥粒鐵 系不鏽鋼則具有很好的切削性。"
+        },
+        {
+          "type": "heading",
+          "text": "四、鑄鐵"
+        },
+        {
+          "type": "paragraph",
+          "text": "灰鑄鐵中的片狀石墨在切削中有潤滑刀口的作用,可避免產生 BUE,進而改善切削 性。表面之砂皮與碳化鐵 ( 雪明碳鐵 ) 很硬,容易磨損刀具,不利切削。白鑄鐵經退火處 理後,令碳化鐵分解成石墨和純鐵,有利切削。"
+        },
+        {
+          "type": "heading",
+          "text": "五、鋁合金"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋁質軟,切削時易形成 BUE。若選用大斜角刀具,高的切削速度與噴注適當的切削劑 來避免形成 BUE,可獲得很理想的切削效果。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 57"
+        },
+        {
+          "type": "heading",
+          "text": "六、銅合金"
+        },
+        {
+          "type": "paragraph",
+          "text": "純銅質軟且黏性強,切削性不良,必須用淺切深和高的切削速度來改善切削狀況。黃 銅 (Cu、 Zn 合金 ) 的切屑呈不連續狀,切削性不錯;若再加入鉛,成為易切黃銅,則切削 性更好。"
+        },
+        {
+          "type": "heading",
+          "text": "七、鈷基合金"
+        },
+        {
+          "type": "paragraph",
+          "text": "鈷基合金之摩擦係數大,且有加工硬化現象,所以不易切削。宜選用耐磨刀具,以銳 利的刃角、小的進給和高的切削速度來切削。"
+        },
+        {
+          "type": "heading",
+          "text": "八、鎂合金與鈦合金"
+        },
+        {
+          "type": "paragraph",
+          "text": "鎂為脆性材料,質又不硬,所以切削性很好,加工面細緻,刀具壽命又長。由於鎂容 易氧化而燃燒,切削時要特別注意。 切削鈦合金時,容易產生高溫和 BUE,切削性很差。"
+        },
+        {
+          "type": "heading",
+          "text": "8-2-9 切削速度、進給與切削時間"
+        },
+        {
+          "type": "heading",
+          "text": "一、切削速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削速度 (Cutting Speed) 是指刀具與工件表面的相對速度。例如直徑為 D 之工件,圓 周長為 π D,假設一分鐘轉 N 轉,則其切削速度 V = π DN,如圖 8-20 所示。實際切削時,"
+        },
+        {
+          "type": "heading",
+          "text": "應考慮所用之單位,即:"
+        },
+        {
+          "type": "heading",
+          "text": "π DN"
+        },
+        {
+          "type": "heading",
+          "text": "V = ( D 除以 1000,使單位變成 m)"
+        },
+        {
+          "type": "heading",
+          "text": "1, 000"
+        },
+        {
+          "type": "heading",
+          "text": "式中 V:切削速度 (m/min)"
+        },
+        {
+          "type": "heading",
+          "text": "D:工件或刀具直徑 (mm)"
+        },
+        {
+          "type": "paragraph",
+          "text": "N:轉速 (rpm-revolution per minute)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-20 切削速度示意圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "58"
+        },
+        {
+          "type": "heading",
+          "text": "要決定切削速度時,必須注意下列幾點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工件的材質:硬質材料用低速切削;反之,用高速。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 刀具的材質:材質硬的刀具用高速切削;反之,用低速。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 進給的大小:粗加工採用低速大進給量;精加工採用高速小進給量。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 冷卻劑:使用冷卻劑時,可選用較高的切速。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 工具機的穩定度:剛性好,穩定度高的機器,不易產生震動,可選用高的切削速度。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 工件的切削深度增加時,為了避免負載過度增大,應降低切削速度。"
+        },
+        {
+          "type": "heading",
+          "text": "二、進給"
+        },
+        {
+          "type": "paragraph",
+          "text": "進給 (Feed) 又稱為進刀,是指刀具或工件每循環運動一次,對方或本身所移動的距 離。工件的材質越硬,或是切削深度越大時,進給率應越小,以免刀尖負載過大。循環運"
+        },
+        {
+          "type": "heading",
+          "text": "動有迴轉式及往復式兩種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 迴轉式"
+        },
+        {
+          "type": "paragraph",
+          "text": "以工件每迴轉,刀具沿工件軸向移動的距離表示,如圖 8-21 所示,單位為 mm/rev。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-21 迴轉式的進給"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 往復式"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 8-22 所示,以工件每 衝程 (Stroke),向刀具移動的距離表示,單位為 mm/stroke。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-22 往復式的進給"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 59"
+        },
+        {
+          "type": "heading",
+          "text": "各種工具機的進給,茲分別說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "車"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件迴轉一周,車刀移動的距離,如左圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "床"
+        },
+        {
+          "type": "heading",
+          "text": "平"
+        },
+        {
+          "type": "heading",
+          "text": "面 工件往復運動一次,向砂輪軸向移動之距離,如左"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨 圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "床"
+        },
+        {
+          "type": "heading",
+          "text": "鑽"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽頭迴轉一周,切入工件的距離,如左圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "床"
+        },
+        {
+          "type": "paragraph",
+          "text": "銑 理論上為銑刀迴轉一周,工件移動的距離。實用上 床 常以床台每分移動距離表示,如左圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "三、切削時間"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 8-23 所示,切削長度為 L (mm),每分鐘進給為 fm (mm/min),則切削時間為:"
+        },
+        {
+          "type": "heading",
+          "text": "T = L / fm ( T:單位為 min)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-23 切削時間"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch08/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "8-3 切削劑的種類與選用"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬切削過程中會產生大量的摩擦和溫度,摩擦導致刀具快速磨耗;高溫使刀具退火 軟化,對刀具壽命有負面的影響。工件在高溫所產生的熱脹現象,對尺寸精度的控制很不 利。為改良上述的不利因素,通常在切屑與刀具面間噴注切削劑。在工作母機上進行切削 加工時,可將切削劑噴注於刀具與工件之間,或是從刀尖噴注切削劑於工件上。"
+        },
+        {
+          "type": "heading",
+          "text": "切削劑具有下列功能:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 降低刀具和工件的溫度。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 減少切屑、刀具和工件間的摩擦。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 沖走切屑。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 改善工件表面品質,降低粗糙度值。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 增加刀具壽命。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 防止刀口產生 BUE。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 減少動力損失。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 減少工件和機器可能產生的腐蝕。"
+        },
+        {
+          "type": "heading",
+          "text": "切削劑要完成上述的功能,必須具備下列幾項性質:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 不易揮發,不起泡沫。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 著火點高,不易起火燃燒。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 傳熱性高,具有良好的冷卻能力。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 具有潤滑性。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 不會侵蝕機器,工件及刀具。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 不會防礙人體的健康及安全。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 切削加工 61"
+        },
+        {
+          "type": "heading",
+          "text": "一、切削劑的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削劑依其使用形式的不同,可分為固體切削劑,氣體切削劑及液體切削劑三種。 固 體切削劑通常存在於材料組織內,如鑄鐵中的石墨;氣體切削劑包括水氣、二氧化碳及壓 縮空氣等;液體切削劑使用最廣,有油基及水基兩種,油基的潤滑作用好,而水基的冷卻 作用佳。"
+        },
+        {
+          "type": "heading",
+          "text": "以下說明液體切削劑種類:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 切削油"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削油的主要成分是礦物油,必要時也可選用動植物油或複合油。礦物油在低溫低負 荷情況下具有良好的潤滑作用。當溫度升高、負荷加重時,必須在礦物油中加入極壓添加 劑 (S、 Cl、 P),增加油的穩定性與抗壓性。常用的動植物油,有豆油、棉籽油、菜油和豬油。 複合油是由礦物油與植物油或動物油脂混合而成。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 乳化液 ( 調水油、太古油 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "乳化液是將乳化的礦油加水稀釋而成,具有良好的冷卻作用與潤滑性。機械實習工廠 大都用這種切削劑。低速重切削時,乳化油以 10 倍之水稀釋;高速輕切削用 100 倍;一 般工作用 40 ~ 50 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 水溶液"
+        },
+        {
+          "type": "paragraph",
+          "text": "水溶液是在水中加入 1 ∼ 2% 之水溶性防鏽添加劑 ( 亞硝酸鈉、碳酸鈉或硼砂 ) 而成, 具有很好的冷卻作用,但潤滑作用較差。"
+        },
+        {
+          "type": "heading",
+          "text": "二、切削劑的選用"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑄鐵:乾切削、壓縮空氣或溶解油。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鋼:水溶性油、硫化油或礦物油。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 黃銅:乾切削或礦豬油混合劑。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鋁:煤油基潤滑劑、溶解油或蘇打水。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 磨削工作:用乳化液或水溶液。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "1. 切削加工的需求與缺點"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 需求"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 精度要求高。 2 零件具有較特殊的內部輪廓或外形曲線,例如:塑膠模具之模穴。 3 產量不大時:塑性加工與粉末冶金等模造方式,必須以量產方式來分攤 模具費。切削加工則無此限制,選用不同型式的加工機械、切削加工可 適用於大、中與小量生產。 4 修正熱處理後之扭曲與變形。 5 為了獲得高的表面光度,例如:銅製的雷射反射鏡可用鑽石刀作鏡面切 削。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 缺點"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 費時:切削時間比模造時間長。 2 浪費材料。 3 人工技術要求高。 4 切削會傷害加工面,產生變質層。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 切屑的形態"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 連續式切屑 (Continuous Chip);流動式切屑 (Flow Chip):高速切削延展性高 的材料,且切屑之內應力小,而刀具頂面對切屑之摩擦阻力小時,切屑在刀 頂面上連續不斷的變形、流動,且不間斷。此種切屑型態,無論就表面粗糙 度及工具壽命立場而言,都是最理想的。 (2) 刀 口 積 屑 的 連 續 式 切 屑 (Continuous Chip With Built-up Edge): 刀 口 積 屑 (Built-up Edge, BUE) 又稱為「組合切刃」,是在切削延性及摩擦係數皆高 的材料所產生的切屑熔著現象。 BUE 會導致刀具頂面快速磨損,且使加工面 變得粗糙不堪,為四種切屑形態中之最差者。 (3) 不連續式切屑 (Discontinuous Chip):此式切屑的形成原因,是由於切削時材 料內部的組織應變能力不足,無法應切削作用力而作適當的變形,致使產生 的切屑沿剪切面作週期性的破裂。切削脆性材料,或以高阻力及大的切屑內 應力切削延性材料時,均會產生此種切屑。 (4) 鋸齒形切屑 (Serrated Chip):切削區域的剪切面小而切屑剪應變大時所產生 的不均勻切屑。"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

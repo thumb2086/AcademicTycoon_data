@@ -1,0 +1,1945 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH06",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH06",
+    "title": "CH6"
+  },
+  "title": "機械力學 Chapter 6 曲線運動",
+  "source_pdf": "mechanical_mechanics/CH6PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH06",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "曲線運動"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "6-1 角位移、角速度與角加速度 1. 能辨別位移與角位移的不同與定 6-2 切線加速度與法線加速度 義。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 能辨別速度與角速度的不同與定"
+        },
+        {
+          "type": "heading",
+          "text": "6-3 拋物體運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "義。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 能辨別加速度與角加速度的不同"
+        },
+        {
+          "type": "paragraph",
+          "text": "與定義。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 熟悉角位移、角速度與角加速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "之間的關係及演算。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 能清楚區分切線加速度與法線加"
+        },
+        {
+          "type": "paragraph",
+          "text": "速度的不同和演算方向。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 能瞭解水平拋物體運動是水平等"
+        },
+        {
+          "type": "heading",
+          "text": "速運動與鉛直自由落體運動的合"
+        },
+        {
+          "type": "paragraph",
+          "text": "成。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 能瞭解斜向拋物體運動是水平等"
+        },
+        {
+          "type": "paragraph",
+          "text": "速運動與鉛直上拋運動的合成。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "200"
+        },
+        {
+          "type": "paragraph",
+          "text": "當一質點的運動不是直線運動時,就稱為曲線運動。曲線運動的觀念廣泛應用在各種 場合,例如:機械工廠的車床、鑽床、銑床及砂輪機等加工機械的心軸轉動,都是運用圓 周運動;遊樂場的旋轉木馬、摩天輪、咖啡杯及雲霄飛車等親子同樂或驚險刺激的設施, 分別是屬於等速率或變速率的曲線運動。日常生活中有許多曲線運動的應用,等待你的發 現與解析。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 6-1 世界上口徑最大的大砲──古斯塔夫巨砲"
+        },
+        {
+          "type": "heading",
+          "text": "6-1 角位移、角速度與角加速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "上一章節中,我們分析了運動路徑為直線的直線運動,本章將以此為基礎來探討運動 路徑為曲線的曲線運動,並以圓周運動與拋物體運動為例進一步討論曲線運動與拋體運 動。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 角位移"
+        },
+        {
+          "type": "paragraph",
+          "text": "當 物 體 繞 一 轉 軸, 所 轉 過 的 角 度, 稱 為 角 位 移 (angular displacement), 以符號 q 表示,以弧度 (rad) 為 單位。 例如: 繞圓一圈其角位移為 2 p,如圖 6-2 所示,當 物體作圓周運動,半徑為 r,由 A 點轉至 B 點之角位移"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-2 圓周運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "為 q,則此 q 與路徑長 S ( 弧長 ) 之關係為: S = r × q,弧長 = 半徑 × 角位移 ( 公式 6-1)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 曲線運動 201"
+        },
+        {
+          "type": "heading",
+          "text": "單位系統 S 弧長 r 半徑 q 角位移"
+        },
+        {
+          "type": "heading",
+          "text": "MKS m m rad"
+        },
+        {
+          "type": "heading",
+          "text": "CGS cm cm rad"
+        },
+        {
+          "type": "heading",
+          "text": "2. 角速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 角速度 (angular velocity): 單位時間內角位移的變化量,稱為角速度,以符號 ω 表示,其代表物體轉動的快慢程度,如圖 6-3 所示,若一物體作等速率圓周 運動,其角位移變化量為 Dq,所花之時間為 D t,則其角速度:"
+        },
+        {
+          "type": "heading",
+          "text": "∆ θ"
+        },
+        {
+          "type": "heading",
+          "text": "ω = ( 公式 6-2)"
+        },
+        {
+          "type": "heading",
+          "text": "∆ t"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 計算角位移、角速度時,角度必須要用弧度 (rad) 作單位。"
+        },
+        {
+          "type": "heading",
+          "text": "2 π N N × 2 p rad"
+        },
+        {
+          "type": "heading",
+          "text": "2. 遇轉速 rpm 換 ω, ω = (rad/s)。 N 轉 / 分 ="
+        },
+        {
+          "type": "heading",
+          "text": "60 60 秒"
+        },
+        {
+          "type": "heading",
+          "text": "3. 1 轉 = 2 p 弧度 (rad) = 360°。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-3 等速率圓周運動"
+        },
+        {
+          "type": "heading",
+          "text": "單位系統 ω 角速度 q 角位移 t 時間"
+        },
+        {
+          "type": "heading",
+          "text": "MKS rad/s rad s"
+        },
+        {
+          "type": "heading",
+          "text": "CGS rad/s rad s"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 切線速度 (tangential velocity): 圓周上任一點往切線方向之速度,稱為該點之 切線速度,以符號 V t 表示,其方向必沿圓周切線方向一直改變,其值為單位 時間內線位移的變化量。若一物體作等速率圓周運動,其角速度為 ω,半徑為"
+        },
+        {
+          "type": "heading",
+          "text": "r,則圓周上任一點之切線速度 V t:"
+        },
+        {
+          "type": "heading",
+          "text": "S r × θ"
+        },
+        {
+          "type": "heading",
+          "text": "V t = = = r ω ( 公式 6-3)"
+        },
+        {
+          "type": "heading",
+          "text": "t t"
+        },
+        {
+          "type": "heading",
+          "text": "單位系統 V t 切線速度 r 半徑 ω 角速度"
+        },
+        {
+          "type": "heading",
+          "text": "MKS m/s m rad/s"
+        },
+        {
+          "type": "heading",
+          "text": "CGS cm/s cm rad/s"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "202"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 等速率圓周運動:一物體若沿著圓周的"
+        },
+        {
+          "type": "heading",
+          "text": "運動,而且 在圓周上每一處的速率都相"
+        },
+        {
+          "type": "paragraph",
+          "text": "同,稱為等速率圓周運動 (uniform circular motion)。在日常生活中,電風扇葉片的"
+        },
+        {
+          "type": "heading",
+          "text": "旋轉、月亮或人造衛星繞地球的轉動、發"
+        },
+        {
+          "type": "heading",
+          "text": "電廠裡渦輪機的轉動均是等速率圓周運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖 6-4)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-4 等速率圓周運動"
+        },
+        {
+          "type": "heading",
+          "text": "例題 6-1 題型:角速度與切線速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "阿姆斯壯以 240 轉 / 分之後輪以等轉速騎腳踏車,若他騎 2 分鐘,後輪直徑 100 cm,試求 (1) 角速度; (2) 輪子邊緣之切線速度; (3) 阿姆斯壯共騎了多遠?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "240 × 2 π rad"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) ω = 240 rpm = 240 轉 / 分 = = 8 π rad/s"
+        },
+        {
+          "type": "heading",
+          "text": "60 s"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) V t = r ω = 0 5. × 8 π = 4 π m/s (3) S = r × θ = r × ( ω × t ) = 0 5. × ( 8 π × 120 ) = 480 π m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 6-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "電風扇以每分鐘 1800 轉的等角速度迴轉,葉片直徑為 40 cm,試求: (1) 電風扇的角速度; (2) 葉片尖端的切線速度為多少 m/s?"
+        },
+        {
+          "type": "heading",
+          "text": "3. 角 加速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 角加速度 (angular acceleration): 單位時間內角速度 的變化量,稱為角加速度, 以符號“ a ” 表示。如圖 6-5 所示,若一物體作等角加速度圓周運動,其角速 度變化量為 Dω,所花之時間為 D t,則其角加速度:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-5 角加速度"
+        },
+        {
+          "type": "heading",
+          "text": "∆ ω"
+        },
+        {
+          "type": "heading",
+          "text": "α = ( 公式 6-4)"
+        },
+        {
+          "type": "heading",
+          "text": "∆ t"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 曲線運動 203"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 等角加速度運動:若一質點作圓周運動,其角加速度為一定值,而角速度成均 勻增加,此種運動稱為等角加速度運動。 由上述等角加速度圓周運動之觀念可得知初角速度為 ω 0,末角速度為 ω,角 位移為 q,時間為 t,角加速度為 a,我們可藉由第五章所學之等加速度直線運動 三大公式進行轉換成等角加速度圓周運動三大公式。"
+        },
+        {
+          "type": "heading",
+          "text": "等加速度直線運動 等角加速度圓周運動 知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": " 位移 S  角位移 q"
+        },
+        {
+          "type": "heading",
+          "text": "  熟記等角加速度三大公式 ( 基本題皆可"
+        },
+        {
+          "type": "heading",
+          "text": "轉換  速度 V  角速度 ω"
+        },
+        {
+          "type": "paragraph",
+          "text": "  加速度 a   角加速度 a 迎刃而解 )。"
+        },
+        {
+          "type": "heading",
+          "text": "公式中的符號單位如下:"
+        },
+        {
+          "type": "heading",
+          "text": " ω = ω 0 + α t"
+        },
+        {
+          "type": "heading",
+          "text": " V = V 0 + at 2"
+        },
+        {
+          "type": "heading",
+          "text": " q: rad a: rad/s"
+        },
+        {
+          "type": "heading",
+          "text": "  1 2"
+        },
+        {
+          "type": "heading",
+          "text": " 1 2  θ = ω 0 t + α t"
+        },
+        {
+          "type": "paragraph",
+          "text": "公式  S = V t 0 + at  2 ω: rad/s 1 轉 = 2 p rad"
+        },
+        {
+          "type": "heading",
+          "text": " 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2  ω = ω 0 + 2 αθ"
+        },
+        {
+          "type": "heading",
+          "text": "  V = V 0 + 2 as  t:秒"
+        },
+        {
+          "type": "heading",
+          "text": "( 公式 6-5)"
+        },
+        {
+          "type": "heading",
+          "text": "例題 6-2 題型:角位移的計算"
+        },
+        {
+          "type": "paragraph",
+          "text": "銑床主軸原以 600 rpm 旋轉,當關掉電源後,其在 10 秒後停止下來,若其為 均勻減速,試求其角加速度為多少?關掉電源至完全停止所轉過的圈數?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "600 × 2 π"
+        },
+        {
+          "type": "paragraph",
+          "text": "ω 0 = 600 rpm = rad = 20 π rad/s"
+        },
+        {
+          "type": "heading",
+          "text": "60 秒"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "ω = ω 0 + α t, 0 = 20 π + α × 10, α = − 2 π rad/s"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2 100 π"
+        },
+        {
+          "type": "paragraph",
+          "text": "θ = ω 0 t + α t = 20 π × 10 + × − ( 2 π ) × 10 rad = 100 π rad = 圈 = 50 圈"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 π"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 6-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "一飛輪的初始轉數為 1200 rpm,若以等角加速度增速,則 5 秒後為 1800 rpm。 (1) 求此角加速度為多少? (2) 此 5 秒共轉了多少圈?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "204"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 一轉動輪以等角加速度轉動,於 30 秒內從靜止加速到 1800 rpm,求"
+        },
+        {
+          "type": "heading",
+          "text": "其角加速度為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) p rad/s (B) 2 p rad/s (C) 6 p rad/s (D) 8 p rad/s。 ( ) 2. 一直徑為 50 mm 之實心圓軸以 300 m/min 之切線速度進行外圓車削加"
+        },
+        {
+          "type": "heading",
+          "text": "工,此時圓軸之角速度為多少 rad/s?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 6 (B) 12 (C) 100 (D) 200。 ( ) 3. 車床主軸從靜止作等角加速度轉動,在 t = 10 秒,轉速可達"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "1800 rpm,試求車床主軸之角加速度為多少 rad/s? (A) 6 p (B) 8 p (C) 10 p (D) 12 p。 ( ) 4. 一輪之轉速為 600 rpm,若均勻減速,在 5 秒完全停止,此 5 秒輪子"
+        },
+        {
+          "type": "heading",
+          "text": "所轉之圈數為多少?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 25 (B) 50 p (C) 25 p (D) 50。 ( ) 5. 飛輪於 45 秒內,以等角加速度自靜止達到 1800 rpm 之速度,則其角"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "加速度為若干 rad/s?"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 40 (B) (C) π α (D) π。 α"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 3"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 曲線運動 205"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "推動平放在桌面上杯身使其滾動,為什麼杯子無法做直線運動?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 手推紙杯"
+        },
+        {
+          "type": "paragraph",
+          "text": "從日常生活經驗中知道,紙杯的形狀並非圓柱狀,而是設計成杯口與杯底完全不同半徑的圓錐狀, 因為兩端直徑的不同,所以行走的圓周長也不相同,故在相同的移動距離下,小端直徑轉動一圈所經歷 的時間較短且轉動圈數較多,故大端直徑會以小端為圓心,進而產生近似「圓周運動」。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "6-2 切線加速度與法線加速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體運動時,若速度有變化即有加速度存在。速度為一向量,包含大小與方向,當速 度之大小或方向改變或兩者都有改變時,均有加速度存在。 若 速 度 之 大 小 產 生 變 化, 則 會 產 生 切 線 加 速 度 (tangential acceleration);而 速度之方向 產生變化,則會 產生 法線加速度 (normal acceleration)。例如:高爾夫球"
+        },
+        {
+          "type": "heading",
+          "text": "打出後因受切線加速度與法線加速度作用,速度的大小"
+        },
+        {
+          "type": "paragraph",
+          "text": "及方向均隨時改變。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 切線加速度: 因 速度大小的改變而產生之加速"
+        },
+        {
+          "type": "paragraph",
+          "text": "度與路徑相切,稱為切線加速度,以“ a t ”表 ▲ 圖 6-6 切線加速度與法線加速度 示。 切線加速度 a t = r a (r 為半徑, a 為角加速度 ) ( 公式 6-6)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "206"
+        },
+        {
+          "type": "heading",
+          "text": "2. 法線加速度: 物體轉動時,因 切線速度之方向隨時改變,所產生之加速度,稱為"
+        },
+        {
+          "type": "paragraph",
+          "text": "法線加速度,又稱為向心加速度,其方向恆指向圓心,以“ a n ”表示。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 V t"
+        },
+        {
+          "type": "paragraph",
+          "text": "法線加速度 a n = r ω = ( ω 為角速度, V t 為切線速度 ) ( 公式 6-7)"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "3. 合成加速度:等角加速度轉動時,因速度之大小及方向均隨時在改變,所以有向"
+        },
+        {
+          "type": "paragraph",
+          "text": "心加速度和切線加速度,此兩加速度之合成,稱為合成加速度。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "合成加速度 a = a t + a n ( 公式 6-8)"
+        },
+        {
+          "type": "heading",
+          "text": "4. 直線運動與圓周運動的關係: 線量 = 半徑 × 角量"
+        },
+        {
+          "type": "heading",
+          "text": "弧長 S = θ r"
+        },
+        {
+          "type": "heading",
+          "text": "S r × θ"
+        },
+        {
+          "type": "heading",
+          "text": "切線速度 V t = = = r ω"
+        },
+        {
+          "type": "heading",
+          "text": "t t"
+        },
+        {
+          "type": "heading",
+          "text": "V t r × ω"
+        },
+        {
+          "type": "heading",
+          "text": "切線加速度 a t = = = r α"
+        },
+        {
+          "type": "heading",
+          "text": "t t"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-7 直線運動與圓周運動的關係"
+        },
+        {
+          "type": "heading",
+          "text": "a t 切線加速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位系統 a 角加速度 V t 切線速度 r 半徑 ω 角速度"
+        },
+        {
+          "type": "heading",
+          "text": "a n 向心加速度"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "MKS m/s rad/s m/s m rad/s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "CGS cm/s rad/s cm/s cm rad/s"
+        },
+        {
+          "type": "heading",
+          "text": "5. 等速率圓周運動 ( 簡稱等速圓周運動 ) 為速度大小相"
+        },
+        {
+          "type": "paragraph",
+          "text": "同作圓周運動,所以 a = 0, 切線加速度 a t = 0,因為 速度方向在改變所以有向心加速度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-8 等速率圓周運動"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 曲線運動 207"
+        },
+        {
+          "type": "heading",
+          "text": "例題 6-3 題型:法線 ( 向心 ) 加速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "直徑 300 mm 之砂輪,以 180 rpm 的速度旋轉,在砂輪外圓周上之磨粒,其向"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "心加速度為多少 m/s?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 π × 180 2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "a n = r ω = 0 15. × ( ) = 0 15. × ( 6 π ) = 5 4. π m/s"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 6-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "一車輛重量為 1000 kgw 以時速 72 km/hr 沿直徑 1 km 之跑道轉彎,則法線加速"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "度 an 為多少 m/s?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 6-4 題型:合成加速度"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一直徑 50 cm 之圓盤,由靜止作等角加速度旋轉,角加速度為 2 rad/s,經 2 秒後,試求圓盤邊緣上一點之 (1) 角速度; (2) 切線速度; (3) 切線加速度; (4) 法線加速度; (5) 合成加速度,各為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 ω 0 = 0, r = 0 25. m, t = 2 s, α = 2 rad/s (1) ω = ω 0 + α t = 0 + 2 × 2 = 4 rad/s (2) V t = r ω = 0 25. × 4 = 1 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) a t = r α = 0 25. × 2 = 0 5. m/s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) a n = r ω = 0 25. × 4 = 4 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 65 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) a = a t + a n = 0 5. + 4 = m/s"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 6-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓盤的半徑為 1 m,由靜止繞其中心軸旋轉作等角加速度轉動,若角加速度為"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "3 rad/s, 試求 2 秒後邊緣上一點的 (1) 切線速度; (2) 切線加速度; (3) 法線加速度;"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 合成加速度?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "208"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 如果一個質點以一定長度之半徑圍繞一個固定中心順時鐘作等角加速 度之轉動,則此質點 (A) 具有切線加速度與向心加速度 (B) 僅具有 切線加速度 (C) 僅具向心加速度 (D) 沒有任何加速度。 ( ) 2. 設物體沿半徑為 r 之圓周作運動時,其法線加速度以 a 表示,角速 度以 ω 表示,則該物體沿圓周作等角速轉動時,其切線加速度為"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) r a (B) r ω (C) r ω (D) 0。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 半徑為 1 cm 之飛輪以角加速度 2 rad/s,由靜止開始轉動,則 2 秒後,"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "其輪緣上任一點之加速度為多少 cm/s?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 260 (B) 196 (C) 20 (D) 80。 ( ) 4. 如圖所示之平皮帶輪傳動, A 與 B 兩皮帶輪半徑分別為 10 mm 及 20 mm,其皮帶線速度固定為 200 mm/s,設皮帶厚度可忽略且無滑動現 象,則此 A 與 B 兩皮帶輪外緣之加速度比為多少? (A) 2: 1 (B) 4: 1 (C) 1: 2 (D) 1: 4。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 斜拋一物體,則此物體在最高點時其向心加速度為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "2 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 0 (B) g (C) g (D) g。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 某物體在半徑為 25 m 的圓形軌道上作圓周運動,某一瞬間其速度大"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "小為 10 m/s 而合加速度大小為 5 m/s,則該瞬間其切線加速度的大小"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "為多少 m/s (A) 3 (B) 4 (C) 5 (D) 6。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 曲線運動 209"
+        },
+        {
+          "type": "heading",
+          "text": "6-3 拋物體運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "一物體以任意方向拋射出去,若忽略空氣阻力,則物體只受到地心引力的影響而落 地,此物體在空中的運動軌跡為一拋物線 (parabola),這種運動稱為拋物體運動 (projectile motion)。例如:投籃的籃球運動、子彈的擊發飛行、投擲鉛球,皆為拋物體運動。 拋物體運動是由水平等速運動與垂直拋體運動的合成,因 物體在水平方向不受任何外 力作用,所以作水平等速運動,其加速度為零;而垂直方向僅受地心引力的作用,垂直的 加速度為“ g ”恆指向地心。"
+        },
+        {
+          "type": "heading",
+          "text": "一、水平拋射"
+        },
+        {
+          "type": "paragraph",
+          "text": "將質點由離地高 h 處,以水平速度 V 0 拋出。設起始時刻為 t = 0,而起始位置為座標 原點,重力加速度為 g,如圖 6-9 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-9 水平拋射"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-10 新加坡魚尾獅噴水"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "水平拋射之速度與位移變化:"
+        },
+        {
+          "type": "heading",
+          "text": "速度 位移"
+        },
+        {
+          "type": "paragraph",
+          "text": "質點在水平方向維持等速運動,鉛直方向作自 利用已知的高度 h 來求得質點的落地時間 T,即可求 由落體。 得其水平位移。"
+        },
+        {
+          "type": "heading",
+          "text": "水平拋射與等速直線運動三大公式之關係:"
+        },
+        {
+          "type": "heading",
+          "text": "方向 水平 = x 軸 垂直 = y 軸"
+        },
+        {
+          "type": "heading",
+          "text": "運動別 等速直線運動 自由落體運動"
+        },
+        {
+          "type": "heading",
+          "text": "a = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "條件 V 0 y = 0, a = g, S = h"
+        },
+        {
+          "type": "heading",
+          "text": "S = R"
+        },
+        {
+          "type": "heading",
+          "text": " V y = gt 知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": " V x = V 0  1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "公式轉換   h = gt ( 公式 6-9)  R = V t 0  2 一般解平拋運動時:"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "  V y = 2 gh (1) 先由垂直方向為自由落體運動求出"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "“時間”, h = gt。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 水平位移 R = V 0 t 2"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 再由水平方向為等速運動求出“射"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "2. 垂直位移 h = gt 程”, R = V t。"
+        },
+        {
+          "type": "heading",
+          "text": "2 0"
+        },
+        {
+          "type": "heading",
+          "text": "3. 水平速度 V x = V 0"
+        },
+        {
+          "type": "heading",
+          "text": "4. 垂直速度 V y = gt"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "5. 合速度 V = V x + V y"
+        },
+        {
+          "type": "heading",
+          "text": "整理"
+        },
+        {
+          "type": "heading",
+          "text": "V y"
+        },
+        {
+          "type": "heading",
+          "text": "6. 著地夾角 q ⇒ tan θ ="
+        },
+        {
+          "type": "heading",
+          "text": "V x"
+        },
+        {
+          "type": "heading",
+          "text": "7. 水平拋出後的著地時間 t 與水平拋出的初速"
+        },
+        {
+          "type": "heading",
+          "text": "度 V 0 無關,而與拋出高度 h 的平方根成正"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 2 h"
+        },
+        {
+          "type": "paragraph",
+          "text": "比,由 h = gt,飛行時間 t =。"
+        },
+        {
+          "type": "heading",
+          "text": "2 g"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 曲線運動 211"
+        },
+        {
+          "type": "heading",
+          "text": "例題 6-5 題型:水平拋射運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "美國 F18 大黃蜂戰鬥機執行低空轟炸訓練,戰鬥機以 200 m/s 的速度飛行,飛 行高度為 490 m,試問投射炸彈後 (1) 炸彈幾秒後落地; (2) 水平射程; (3) 炸彈"
+        },
+        {
+          "type": "heading",
+          "text": "著地時的速度?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) h = gt, 490 = × 9 8. × t, t = 10 s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 射程 = 水平速度 × 飛行時間"
+        },
+        {
+          "type": "paragraph",
+          "text": "R = V0t = 200 × 10 = 2000 m"
+        },
+        {
+          "type": "heading",
+          "text": "(3) Vx = V0 = 200 m/s"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vy = gt = 9.8 × 10 = 98 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "著地時速度 V = V x + V y = 200 + 98 = 222 7. m/s"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 6-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "一人於高 122.5 m 之塔頂,以 20 m/s 之初速度水平丟出一物體,試求 (1) 物體"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "的飛行時間; (2) 物體的水平射程; (3) 物體著地時之速度? (g = 9.8 m/s )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "212"
+        },
+        {
+          "type": "heading",
+          "text": "二、斜向拋射"
+        },
+        {
+          "type": "paragraph",
+          "text": "若物體以 V 0 之初速度與水平成 q 角斜向拋出,稱為斜向拋射運動。如圖所示,在解 析方向可當成水平等速運動及鉛直上拋運動之合成運動來理解,例如:投籃、發射砲彈 等,如圖 6-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-11 斜向拋射"
+        },
+        {
+          "type": "heading",
+          "text": "斜向拋射與等速直線運動三大公式之關係:"
+        },
+        {
+          "type": "heading",
+          "text": "方向 水平 =x 軸 垂直 =y 軸"
+        },
+        {
+          "type": "heading",
+          "text": "運動別 等速直線運動 鉛直上拋運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 0 x = V 0 cos q V 0 y = V 0 sin q"
+        },
+        {
+          "type": "heading",
+          "text": "條件 a = 0 a = - g"
+        },
+        {
+          "type": "heading",
+          "text": "S = R S = h"
+        },
+        {
+          "type": "heading",
+          "text": " V y = V 0 y − gt"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": " V x = V 0 x  1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "公式轉換   h = V 0 y t − gt ( 公式 6-10)"
+        },
+        {
+          "type": "heading",
+          "text": " R = V 0 x t  2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "  V y = V 0 y − 2 gh"
+        },
+        {
+          "type": "heading",
+          "text": "1. 到達最高點的時間,最高點 V y = 0。"
+        },
+        {
+          "type": "heading",
+          "text": "V 0 sin θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "V y = V 0 y − gt, 0 = V 0 sin θ − gt, t ="
+        },
+        {
+          "type": "heading",
+          "text": "g"
+        },
+        {
+          "type": "heading",
+          "text": "2. 到達最高點的高度,最高點 V y = 0。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 V 0 sin θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "V y = V 0 y − 2 gh, 0 = ( V 0 sin θ ) − 2 gh, h ="
+        },
+        {
+          "type": "heading",
+          "text": "2 g"
+        },
+        {
+          "type": "paragraph",
+          "text": "整理 3. 同高著地的時間為到達最高點時間的兩倍。"
+        },
+        {
+          "type": "heading",
+          "text": "2 V 0 sin θ"
+        },
+        {
+          "type": "heading",
+          "text": "T = 2 t ="
+        },
+        {
+          "type": "heading",
+          "text": "g"
+        },
+        {
+          "type": "heading",
+          "text": "4. 著地的水平位移 ( 由 sin 2 q = 2sin q cos q )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 V 0 sin θ V 0 sin 2 θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "R = V 0 x T = V 0 cos θ × ="
+        },
+        {
+          "type": "heading",
+          "text": "g g"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 曲線運動 213"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V 0 sin 2 θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: (1) q = 45 °,水平射程 R = 之值最大。 (sin 90 ° = 1)"
+        },
+        {
+          "type": "heading",
+          "text": "g"
+        },
+        {
+          "type": "heading",
+          "text": "2 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 V o ( )"
+        },
+        {
+          "type": "heading",
+          "text": "V 0 V 2 sin 2 45 ° 2 V 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "R max =,即 45 ° 仰角時射程最遠,且 R 45 ° = 4 h 45 °。 ( h 45 ° = o = = 0 )"
+        },
+        {
+          "type": "heading",
+          "text": "g 2 g 2 g 4 g"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 當兩物體飛行之最大高度相等時,其飛行時間必相等:不同初速度、不同仰角的兩次斜向拋射, 只要最大的高度相等,則其總飛行時間必相等。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-12 斜向拋射不同情況示意"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 0 sin 2 θ V 0 × 2 sin θ cos θ (3) 射程 R = =,所以兩角互為餘角射程相同。"
+        },
+        {
+          "type": "heading",
+          "text": "g g"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 6-13 兩水管噴出的水柱有相同的初速,當一管仰角 30 °, 另一"
+        },
+        {
+          "type": "heading",
+          "text": "管仰角 60 ° 時,有相同的水平射程"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "斜拋 45 ° 可丟最遠; 90 ° 最高,兩角互餘射程 相同 ( 即 20 ° 和 70 ° 射程相同 )。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "例題 6-6 題型:斜向拋射運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "王建民以 40 m/s 的初速度並與水平成 30° 之仰角丟出一棒球,若當地的重力加"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "速度為 g = 10 m/s,求此物體 (1) 到達最高點的時間; (2) 到達最高點的高度; (3) 著地的時間; (4) 水平射程; (5) 丟出 1 秒後之瞬時速度?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 0 x = V 0 cos θ = 40 × cos 30 ° = 20 3 m/s V 0 y = V 0 sin θ = 40 × sin 30 ° = 20 m/s (1) V y = V 0 y − gt, 0 = 20 − 10 × t, t = 2 s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) V y = V 0 y − 2 gh, 0 = 20 − 2 × 10 × h, h = 20 m"
+        },
+        {
+          "type": "heading",
+          "text": "(3) T = 2 t = 2 × 2= 4 s"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) R = V 0 x T = 20 3 × 4 = 80 3 m (5) V x 1 = 20 3 m/s, V 1 y = V 0 y − gt = 20 − 10 × 1 = 10 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 1 = V 1 x + V 1 y = ( 20 3 ) + 10 = 10 13 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 6-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "在地面上以初速度 500 m/s 及仰角 37° 射出一砲彈,則 (1) 幾秒後著地;"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 上升的最大高度; (3) 水平射程為若干? (g = 10 m/s )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 曲線運動 215"
+        },
+        {
+          "type": "heading",
+          "text": "例題 6-7 題型:斜向拋射運動"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,我國守軍離岸邊水平面上高度 80"
+        },
+        {
+          "type": "heading",
+          "text": "公尺處發射大砲,砲彈以初速 50 公尺 / 秒、"
+        },
+        {
+          "type": "heading",
+          "text": "37° 之仰角射出,若欲擊中正前方向岸邊以"
+        },
+        {
+          "type": "heading",
+          "text": "速率 10 公尺 / 秒行駛過來的敵艦,不計空氣"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "阻力, g = 10 m/s,則 (1) 砲彈飛行的時間為"
+        },
+        {
+          "type": "heading",
+          "text": "多少秒; (2) 砲彈的水平射程為多少公尺;"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 發射砲彈瞬間敵艦離岸邊的距離多少公尺"
+        },
+        {
+          "type": "paragraph",
+          "text": "方可擊中目標。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 0 x = V 0 cos θ = 50 × cos 37 ° = 40 m/s V 0 y = V 0 sin θ = 50 × sin 37 ° = 30 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "(1) h = V 0 y t − gt,"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "− 80 = 30 t − × 10 × t"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "t − 6 t − 16 = 0, t = 8 或 - 2 s ( 負不合 ) (2) R = V 0 x t = 40 × 8 = 320 m (3) 敵艦行駛的距離 x = Vt = 10 × 8 = 80 m 發射砲彈時敵艦離岸邊的距離 = 砲彈的水平射程 + 敵艦行駛的距離 = R + x = 320 + 80 = 400 m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 6-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,在一水平之地面上,放置一垂直鐵絲網與一發球機,該鐵絲網高度 為 10 m 且距離發球機 60 m 遠,若發球機以初速度為 V m/s 射出一球,若不計 空氣阻力並忽略發球機之高度,欲使球飛越過鐵絲網,求 V 之最小值為多少"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "m/s? (g = 10 m/s, 7 = 2 64. )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "216"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 棒球打擊者向斜上方揮棒,擊出高飛全壘打。若不考慮空氣阻力,則 下列圖形何者可以代表棒球的水平方向速度 Vx 與其落地前飛行時間 t"
+        },
+        {
+          "type": "heading",
+          "text": "的關係?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B)"
+        },
+        {
+          "type": "heading",
+          "text": "(C) (D)"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 一 質 量 70 kg 的 滑 雪 者, 於 B 點 處 以"
+        },
+        {
+          "type": "heading",
+          "text": "30 m/s 的水平速度進行跳躍,如圖所示,"
+        },
+        {
+          "type": "paragraph",
+          "text": "若 滑 雪 者 落 至 C 處 時 之 水 平 移 動 距 離 S = 60 m, 則 其 下 降 高 度 H 為 多 少 m? (A) 39.2 (B) 19.6 (C) 9.8 (D) 4.9。 ( ) 3. 如圖所示,棒球投擲機距小明打擊位置 15 m 遠,投擲機水平投球高 度為 1.5 m,球離開投擲機之初速度為 30 m/s,請問小明球棒距地高"
+        },
+        {
+          "type": "heading",
+          "text": "度為多少 m 時可以打到這顆球?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 0.275 (B) 0.775 (C)1.225 (D)1.375。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 一砲管在水平地面以 q 的仰角方向及初速度 V0 發射砲彈,砲彈落地 的水平射程為 x,如果發射仰角 q 相同,初速度增加為 2V0,則砲彈 落地的水平射程為多少? (A) 2x (B) 1.5 x (C) 2 x (D) 4 x。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 曲線運動 217"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 在高 h 處以一顆子彈以 V0 的初速度水平射出,若著地與水平之夾角"
+        },
+        {
+          "type": "heading",
+          "text": "為 q,則樓高 h 為?"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 0 sin θ V 0 sin 2 θ V 0 sin 2 θ V 0 tan θ (A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "2 g g 2 g g"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 斜向拋物體運動在垂直方向係作 (A) 等速運動 (B) 自由落體運動 (C) 鉛直上拋運動 (D) 變加速度運動。 ( ) 7. 有 一 壘 球 投 手 投 球 點 A 點 的 高 度 與 打 擊 者 擊 球 點 B 點 的 高 度 皆"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "為 h, 兩 者 間 的 水 平 距 離 D 為 0 6., 其 中 g 為 重 力 加 速 度, V0"
+        },
+        {
+          "type": "heading",
+          "text": "g"
+        },
+        {
+          "type": "paragraph",
+          "text": "為投手投球之初速,如圖所示。若不計空氣阻力,且球投出之方 向 與 水 平 線 夾 角 為 a, 則 球 正 好 投 到 B 點 時, 其 sin 2 α 值 為 何? ( 註: sin 2 α = 2 sin α cos α ) (A) 0.3 (B) 0.6 (C) 0.9 (D) 1。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 8. 以 45° 斜拋一球,則此球的最大高度與水平射程的比值為 (A) 1: 2 (B) 2: 1 (C) 1: 4 (D) 4: 1。 ( ) 9. 槍彈離開槍口之初速度為 70 m/s,則最大射程為 (A) 300 (B) 400 (C) 500 (D) 600 m。 ( ) 10. 如圖所示,以 V0 = 150 m/s 的初速擊出一顆棒球,如果不考慮空氣阻 力等其他因素,則當該棒球沿 x 軸水平方向飛行 120 m,試求在此時"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "該棒球離地面的高度為多少 m? ( 假設重力加速度為 10 m/s ) (A) 55 (B) 65 (C) 75 (D) 85。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "218"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "籃球射籃時的拋物線高低影響命中率嗎?"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 ( 一 ) 拋物線示意圖 ▲ 圖 ( 二 ) 籃球入網示意圖 國民運動籃球投籃時,其實進行的是“斜向拋射”運動,會在空中劃出一道道的拋物線。投籃時的 出手角度與拋物線之關係,就像圖 ( 一 ) 所表示,當出手角度越大時,拋物線就會越高,對於進攻者來說, 除了能避免被高大的防守者封阻外,更重要的一點,就是可以更有效的利用整個籃框的目標區域。 投籃時的出手角度越大,投出去的球所呈現的拋物線就會越高,能夠入網的面積也會隨之增加,當 角度越大時,所能利用的籃框面積就越接近一個圓形如圖 ( 二 ),進球機率也會大幅提升,而當出手角 度較小時,不僅會讓籃框面積變成橢圓形,球砸到籃框後緣,所彈回來的情形也可能會更常發生。 因此就以上的分析來看,投籃時的拋物線理當是越高越好,不過考慮到投籃姿勢和出手力道會因人 而異,出手角度過大可能會令部分的投籃者不習慣,所以還是應該自己去嘗試高拋物線投籃,找出最適 合自己的出手角度,適當的提高出手角度,一樣能有效的利用籃框的目標區域,並且降低球彈出籃框的 情形。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch06/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 曲線運動 219"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "手榴彈的投擲技巧?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 國軍新兵中心手榴彈投擲訓練"
+        },
+        {
+          "type": "paragraph",
+          "text": "投擲手榴彈需要一定的技術。雖然手榴彈與標槍的投擲技術,規則和方式大體上相同,但是由於器 械的外觀形狀不同,在投彈技術上也各有它們的特點。但總體歸納為三點,分別是:握彈、持彈和最後 發力。 準備前,右手取彈,兩手擰彈蓋,然後用手指戳開防潮紙,取出拉火環後套在小拇指根部,然後四 指捲握住手榴彈,小指彎曲自然放在木柄尾端。握好之後,將其放在右肩膀前方,要求彈體與肩齊高, 雙眼直視前面,做好準備姿勢。 基本上,手榴彈重量約為 546 到 570 公克不等,投擲時要區分三個部份,第一是腳的動作,第二是 腰的動作,第三則是手部的動作。腳的部份指的是助跑,助跑可分三種,前交叉步、後交叉步及滑步。 這端賴個人的習慣來選擇,因為在投擲的一瞬間,左腳為重心的支撐力很重要,也就是說,後交叉步在 投擲時右腳是在左腳的後方,左撇子則是相反。再來講到腰的動作,是接續在腳的動作之後,也可以說 是連貫下來的動作,指的是轉胯,也就是「扭腰」。這種扭腹,是有爆發性的扭,當後交叉步的動作完 成之後,接續爆發性的扭腰動作,同時猛力將手榴彈投出,投擲時,手榴彈的飛行角度是大約 45 至 50 度左右,如此手榴彈才能以拋物線的方式飛的較遠,若整體動作能協調一貫,一定能飛行的較遠。至於 手握彈時是以虛握的方式,別抓太緊或過於鬆,都有可能造成偏彈。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "6-1 1. 角位移:一質點作圓周運動,其所繞經之角度,稱為角位移,其單位以弧度 (rad) 表示。 ( 一轉 = 2 p rad)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 角速度: 單位時間內,一質點轉過的角位移變化量,稱為角速度,單位以 rad/s"
+        },
+        {
+          "type": "paragraph",
+          "text": "表示。"
+        },
+        {
+          "type": "heading",
+          "text": "∆ θ"
+        },
+        {
+          "type": "heading",
+          "text": "ω ="
+        },
+        {
+          "type": "heading",
+          "text": "∆ t"
+        },
+        {
+          "type": "heading",
+          "text": "3. 角加速度: 單位時間內,一質點轉過的角速度變化量,稱為角加速度,單位以"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "rad/s 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "∆ ω ω 2 − ω 1"
+        },
+        {
+          "type": "heading",
+          "text": "α = ="
+        },
+        {
+          "type": "heading",
+          "text": "∆ t t 2 − t 1"
+        },
+        {
+          "type": "heading",
+          "text": "4. 直線運動與圓周運動之關係: ( 線量 = 半徑 × 角量 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "弧長 S = r q,切線速度 V t = r ω,切線加速度 a t = r a"
+        },
+        {
+          "type": "heading",
+          "text": "5. 等角加速度三大轉動公式:"
+        },
+        {
+          "type": "heading",
+          "text": " ω = ω 0 + α t"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": " 1 2"
+        },
+        {
+          "type": "heading",
+          "text": " θ = ω 0 t + α t"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "  ω = ω 0 + 2 αθ"
+        },
+        {
+          "type": "paragraph",
+          "text": "6-2 6. 切線加速度: 速度大小改變, 沿著圓周的切線方向所產生之加速度。 a t = r a"
+        },
+        {
+          "type": "heading",
+          "text": "7. 法線加速度:物體作圓周運動時,使其 切線速度之方向改變之加速度,稱為法"
+        },
+        {
+          "type": "paragraph",
+          "text": "線加速度,又稱為向心加速度。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 V t"
+        },
+        {
+          "type": "heading",
+          "text": "a n = r ω ="
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "8. 物體作等速率圓周運動時切線加速度 = 0,只有法線加速度;但若物體作等角"
+        },
+        {
+          "type": "paragraph",
+          "text": "加速度圓周運動時,則必同時產生切線加速度及法線加速度, 其合成加速度"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "a = a t + a n"
+        },
+        {
+          "type": "heading",
+          "text": "220"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

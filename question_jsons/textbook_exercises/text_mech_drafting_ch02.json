@@ -16,6 +16,118 @@
       "a": 0,
       "reward": 15,
       "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH02_002",
+      "subject": "機械製圖",
+      "unit": "CH2",
+      "q": "23 · 使用模板繪製線條時, 下列敘述何者有?",
+      "image_url": "",
+      "options": [
+        "鉛筆筆桿要垂直圖面 、 緊靠模板",
+        "注意視線與刻劃要垂直",
+        "運筆方向一般由上而下, 由左往右",
+        "為了模板美觀, 設計有凹槽 、 斜角或凸點 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH02_003",
+      "subject": "機械製圖",
+      "unit": "CH2",
+      "q": "24 · 下列對製圖設備與製圖用具之敘述何者有?",
+      "image_url": "",
+      "options": [
+        "一般萬能製圖儀有等短距離設定功能, 用於畫平行線或剖面線, 可免除用分規記號或量點劃線之困擾",
+        "繪圖完畢後桌面回復原狀, 先將桌面角度調整至近直立, 再將萬能製圖桌之氣壓釋放使桌面調整至最高",
+        "一張工程圖通常用 3H 、 2H 繪製底線, 用 H 、 HB 繪製原圖及描圖, 而寫字用 H 、 F 筆心等級",
+        "45 。 × 45 。 × 90 。 三角板規格以斜邊稱之, 或 30 。 × 60 。 × 90 。 三角板規格以 60 。 對邊長度稱之 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH02_004",
+      "subject": "機械製圖",
+      "unit": "CH2",
+      "q": "25 · 下列對各式模板之敘述何者有誤?",
+      "image_url": "",
+      "options": [
+        "針筆為一種等線筆, 運筆畫線時應使針筆筆尖與紙面成垂直",
+        "鉛筆畫直立線是將鉛筆置於三角板左側, 由下往上畫",
+        "用來裝在圓規上的鉛筆心大都採用 HB 的筆心, 並削成楔形, 長度大約 10mm 左右",
+        "普通圓規主要是用於畫直徑 6mm 至 50mm 圓及圓弧, 彈簧圓規主要是用於畫直徑 6mm 以下之小圓及圓弧 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH02_005",
+      "subject": "機械製圖",
+      "unit": "CH2",
+      "q": "26 · 何種圖是產品設計與製造的標準依據?",
+      "image_url": "",
+      "options": [
+        "工程圖",
+        "美術圖",
+        "商標圖騰",
+        "素描圖 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH02_006",
+      "subject": "機械製圖",
+      "unit": "CH2",
+      "q": "27 · 下列敘述電腦何者有?",
+      "image_url": "",
+      "options": [
+        "CAM 指電腦輔助製造 (C)CAD 指電腦輔助設計 CH02.indd 63",
+        "",
+        "CAD 指電腦輔助設計 CH02.indd 63 (B)CNS 指電腦數值控制",
+        "CAG 指電腦輔助繪圖 。 63 2022 / 4 / 13 下午 04: 26 °C 7"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH02_007",
+      "subject": "機械製圖",
+      "unit": "CH2",
+      "q": "2 · 如圖示成套製圖工具, 下列敘述何者有誤?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_drafting_ch02/p036_0_0_0_r.png",
+      "options": [
+        "I 號是分規",
+        "4 號是圓規",
+        "5 號是延伸桿",
+        "2 號是速調圓規 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH02_008",
+      "subject": "機械製圖",
+      "unit": "CH2",
+      "q": "3 · 如圖示成套製圖工具, 下列敘述何者有誤?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_drafting_ch02/p036_0_0_0_r.png",
+      "options": [
+        "用來裝在圖示 4 或 6 號上的鉛筆心, 一張工程圖筆心按中質類等級從最硬至最軟為 3H, 2H, H, F, HB, B",
+        "當畫較大的圓或圓弧時, 需要用到延伸桿配合使用或使用如圖示 5 號",
+        "圖示 2 號主要是用於畫直徑 6mm 以下之小圓及圓弧; 圖示 6 號為彈簧圓規, 主要是用於畫直徑 6mm 至 50mm 圓及圓弧",
+        "圖示 1 號為比例分規, 用以按一定比例放大或縮小線段或圓周的量度工具 。 64 2022 / 4 / 13 下午 04: 26 °C 8 CH02.indd 64"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
     }
   ]
 }

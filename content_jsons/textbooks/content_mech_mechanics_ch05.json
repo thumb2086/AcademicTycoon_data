@@ -1,0 +1,2489 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH05",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH05",
+    "title": "CH5"
+  },
+  "title": "機械力學 Chapter 5 直線運動",
+  "source_pdf": "mechanical_mechanics/CH5PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH05",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "直線運動"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "5-1 運動的種類 1. 能區分運動的種類。 5-2 速度與加速度 2. 能瞭解速度與加速度和速率、 5-3 自由落體運動 瞬時速度、瞬時加速度的定義。 5-4 鉛直拋體運動 3. 熟練等加速度直線運動的三個 公式。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 能瞭解等加速度直線的運用而"
+        },
+        {
+          "type": "paragraph",
+          "text": "推出自由落體與鉛直拋體運動。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "paragraph",
+          "text": "敘述物體運動特性的運動學 (kinematics),是由位移、速度與加速度等概念入手,如圖 5-1 所示。本章以直線運動為例,說明上述概念的意義,並具體地應用於自由落體與鉛直 拋體運動,同時了解這些運動概念的用途。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 5-1 臺灣高鐵最高時速 300 km/hr"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "伽利略認為運動是一門古老的學問"
+        },
+        {
+          "type": "paragraph",
+          "text": "My purpose is to set forth a very new science dealing with a very ancient subject. There is, in nature, perhaps nothing older than motion. ── Galilei 我的目的是要從一個非常古老的課題,開啟一門嶄新的科學;在自然界裡,或許沒有比運動更古老的課 題。── 伽利略 (1564 ∼ 1642)"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 跑百米的世界紀錄保持人 Bolt 從靜止開始進行了加速,然後高速前進的直線運動。如果要以運動學"
+        },
+        {
+          "type": "heading",
+          "text": "精確地描述這樣的運動應如何描述呢?"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 165"
+        },
+        {
+          "type": "heading",
+          "text": "5-1 運動的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "在前面四章,我們所討論的都是物體為一剛體在 平衡狀態 之受力情形,稱為 靜力學 (statics),即物體在靜止中或具有等速度之情形。現在我們將研究在運動狀態中之物體,即 為 運動學 (kinematics)。 在運動學中,只研討物體的運動,而 不考慮受力時影響運動之因素, 只討論位移、速 度、加速度與時間之關係。運動的種類可以依下列的方法來劃分:"
+        },
+        {
+          "type": "heading",
+          "text": "物體運動的種類,可依不同之性質區分為:"
+        },
+        {
+          "type": "heading",
+          "text": "直線運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "運動之路徑為直線者,如:上拋、下拋、自由落體等。"
+        },
+        {
+          "type": "heading",
+          "text": "(rectilinear motion)"
+        },
+        {
+          "type": "heading",
+          "text": "運動"
+        },
+        {
+          "type": "heading",
+          "text": "路徑"
+        },
+        {
+          "type": "heading",
+          "text": "曲線運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "運動之路徑為曲線者,如:平拋、斜拋、圓周運動。"
+        },
+        {
+          "type": "heading",
+          "text": "(curvilinear motion)"
+        },
+        {
+          "type": "heading",
+          "text": "等速度運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "速度之大小、方向均相同者,如:等速度運動。"
+        },
+        {
+          "type": "heading",
+          "text": "(uniform motion)"
+        },
+        {
+          "type": "heading",
+          "text": "運動"
+        },
+        {
+          "type": "heading",
+          "text": "速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "變速度運動 速度之大小或方向有一個改變者,不是等速度運動均為變速度運 (variable motion) 動,如:等速率圓周運動、等加速度運動。"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖 知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體作直線運動時可能有受力也可能不受力 ( 或合 運動學 為研究物體運動的改變 ( 如位移、速度、加 力為零 ),例如等速直線運動時不受力,而自由落 速度之關係 ) 而 不討論影響運動因素。動力學為研 體則受到重力的作用。物體作曲線運動時,由於 究物體影響運動狀態改變之因素關係;也就是力、 方向一直改變,必定有受到外力的作用。 時間、空間與質量的關係。"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 研究物體運動時狀態之改變,不討論影響運動之因素的科學稱為 (A) 動力學 (B) 靜力學 (C) 運動學 (D) 材料力學。 ( ) 2. 下列何者運動路徑必為一直線? (A) 等速度運動 (B) 等速率運動 (C) 等加速度運動 (D) 變加速度運動。 ( ) 3. 等速度運動之物體的敘述何者正確? (A) 一定為直線運動 (B) 可作 曲線運動 (C) 必沿圓周進行 (D) 可沿直線或曲線進行。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "166"
+        },
+        {
+          "type": "heading",
+          "text": "5-2 速度與加速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "在北京奧運,美國游泳選手菲爾普斯 ( 外號飛魚,同時擁有史上最多奧運 23 面金牌 ), 以 4 分 03 秒 84 改寫 400 公尺個人混合式游泳世界紀錄。游泳池長度是 50 公尺,所以飛 魚往返游了 4 回 (400 m),整個過程中,飛魚經過的路徑長 (path length) 是 400 公尺,但飛 魚起始位置與終止位置相同,所以其位移 (displacement) 為 0,如圖 5-2 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 5-2 游泳比賽時往返數次其所經過的路徑長與位移不同"
+        },
+        {
+          "type": "heading",
+          "text": "1. 位移與路徑"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 位移:為始點指向終點的直線距離,位移為向量。 (2) 路徑:物體運動時所走過之軌跡,路徑為純量 ( 圖 5-3)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-3 位移與路徑"
+        },
+        {
+          "type": "paragraph",
+          "text": "註:1物體之始點與終點位置相同。位移為零。 2一個人自 A 走至 B 之軌跡,其路徑與位移如圖所示。 3其位移僅與起點、終點有關。位移的正負代表移動方向。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 167"
+        },
+        {
+          "type": "heading",
+          "text": "2. 速度與速率"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 速度 (velocity): 單位時間內位移的變化量,稱為速度 ( 速度是向量 )。"
+        },
+        {
+          "type": "heading",
+          "text": "∆ S"
+        },
+        {
+          "type": "heading",
+          "text": "速度 V = ( 公式 5-1)"
+        },
+        {
+          "type": "heading",
+          "text": "∆ t"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體在運動過程中,若不是等速直線運動,即為變速運動。此時之平均速度 V 平均 (average velocity) 定義為:若質點在時刻 t 1 的位置為 S 1,時刻 t 2 的位置為"
+        },
+        {
+          "type": "heading",
+          "text": "S 2,則該時段的平均速度為:"
+        },
+        {
+          "type": "heading",
+          "text": "∆ S S 2 − S 1"
+        },
+        {
+          "type": "heading",
+          "text": "V 平均 = ="
+        },
+        {
+          "type": "heading",
+          "text": "∆ t t 2 − t 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 瞬時速度 (instantaneous velocity):質點運動時,在某瞬間或某一點的速度,稱 為瞬時速度。"
+        },
+        {
+          "type": "heading",
+          "text": "∆ S dS"
+        },
+        {
+          "type": "paragraph",
+          "text": "瞬時速度 V 瞬時 = lim = ( 位移對時間的導數 ) ( 公式 5-2)"
+        },
+        {
+          "type": "heading",
+          "text": "∆ t → 0 ∆ t dt"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 平均速率 (average speed): 平均速率為單位時間內移動的路徑長,用以表示運 動之快慢程度,為一「純量」。"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "paragraph",
+          "text": "平均速率 V = (L:路徑長 ) ( 公式 5-3)"
+        },
+        {
+          "type": "heading",
+          "text": "∆ t"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 平均速度與平均速率的比較:"
+        },
+        {
+          "type": "heading",
+          "text": "向量、純量區別 考慮項目 長度物理量 公式"
+        },
+        {
+          "type": "heading",
+          "text": "∆ S"
+        },
+        {
+          "type": "paragraph",
+          "text": "平均速度 向量 數值 + 方向 位移 D S 平均速度 ="
+        },
+        {
+          "type": "heading",
+          "text": "∆ t"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "平均速率 純量 數值 路徑長 L 平均速率 ="
+        },
+        {
+          "type": "heading",
+          "text": "∆ t"
+        },
+        {
+          "type": "heading",
+          "text": "3. 等速度運動: V 大小、方向均相同,運動軌跡為一定直線 ( 圖 5-4)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "等速度運動: 位移 S = V × t ( 公式 5-4)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) V 相同 (b) S 與 t 成斜直線 (S = V × t)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-4 等速度運動關係圖"
+        },
+        {
+          "type": "heading",
+          "text": "註:1瞬時速度之大小 = 瞬時速率"
+        },
+        {
+          "type": "heading",
+          "text": "2平均速率≧平均速度 ( ∵路徑≧位移 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "168"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-1 題型:位移、路徑、速度、速率"
+        },
+        {
+          "type": "paragraph",
+          "text": "時鐘秒針長 20 cm,自 0 秒走至 15 秒,試求秒針尖端之位移、路徑、平均速度、"
+        },
+        {
+          "type": "heading",
+          "text": "平均速率各為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 秒針之位移為 20 2 cm"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 路徑為 圓周長 = × 2 π r = 10 π cm α"
+        },
+        {
+          "type": "heading",
+          "text": "4 4"
+        },
+        {
+          "type": "heading",
+          "text": "20 2 cm 4 2"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 平均速度 = cm/s ="
+        },
+        {
+          "type": "heading",
+          "text": "15 s 3"
+        },
+        {
+          "type": "heading",
+          "text": "10 π cm 2 π"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 平均速率 = = α cm/s"
+        },
+        {
+          "type": "heading",
+          "text": "15 s 3"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "宋重機向東走 60 m 後轉向北繼續走 80 m,過程經過 10 s,則宋重機的位移為 多少公尺?路徑多少公尺?平均速度、平均速率分別為多少 m/s?"
+        },
+        {
+          "type": "heading",
+          "text": "4. 加速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "物 體 在 運 動 過 程 中, 若 不 是 等 速 直 線 運 動, 即 為 變 速 運 動。 加 速 度"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(acceleration), 定 義 是 指 物 體 在 單 位 時 間 內 速 度 的 變 化 量。 單 位 是 m/s ( 或"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "cm/s )。且因 速度為向量,故 加速度亦為向量。 (1) 平均加速度 a 平均 (average acceleration):若質點在時刻 t 1 的速度為 V 1,時刻 t 2"
+        },
+        {
+          "type": "heading",
+          "text": "的位置速度為 V 2,則該時段的平均加速度為:"
+        },
+        {
+          "type": "heading",
+          "text": "∆ V V 2 − V 1"
+        },
+        {
+          "type": "heading",
+          "text": "a 平均 = = ( 公式 5-5)"
+        },
+        {
+          "type": "heading",
+          "text": "∆ t t 2 − t 1"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 169"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 瞬時加速度 (instantaneous acceleration):一物體在極短時間間隔 ( D t 趨近於零 ) 之平均速度,即為一時刻 t 0 的瞬時加速度 ( 圖 5-5)。"
+        },
+        {
+          "type": "heading",
+          "text": "∆ V dV"
+        },
+        {
+          "type": "paragraph",
+          "text": "瞬時加速度 a 瞬時 = lim = ( 公式 5-6)"
+        },
+        {
+          "type": "heading",
+          "text": "∆ t → 0 ∆ t dt"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-5 加速度示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-2 題型:平均速度與平均速率"
+        },
+        {
+          "type": "paragraph",
+          "text": "一汽車沿直線路徑從甲地到乙地的平均速度為 60 km/hr,以相同路線從乙地回 到甲地的平均速度為 40 km/hr,則該汽車整個行程的平均速度、平均速率各為"
+        },
+        {
+          "type": "heading",
+          "text": "何?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "來回一趟,位移 = 0,平均速度 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "S"
+        },
+        {
+          "type": "paragraph",
+          "text": "設甲乙兩地 d 公里,則由 S = V × t ∴ t ="
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "d d"
+        },
+        {
+          "type": "paragraph",
+          "text": "去程需 hr,回程需 hr。"
+        },
+        {
+          "type": "heading",
+          "text": "60 40"
+        },
+        {
+          "type": "heading",
+          "text": "總路徑 d + d 2 d 240"
+        },
+        {
+          "type": "heading",
+          "text": "平均速率 = = = = = 48 km/hr"
+        },
+        {
+          "type": "heading",
+          "text": "總時間 d d 2 d + 3 d 5"
+        },
+        {
+          "type": "heading",
+          "text": "+"
+        },
+        {
+          "type": "heading",
+          "text": "60 40 120"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "蔡依玲在高鐵站內搭乘以等速度行進的電扶梯上樓,若她靜止的站著,則需時 40 秒,若在行進的自動電扶梯中,她以等速度 V 步行上樓,則僅需時 24 秒,"
+        },
+        {
+          "type": "heading",
+          "text": "如果停電時她以等速度 V 上樓,則需時多少秒?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "170"
+        },
+        {
+          "type": "heading",
+          "text": "5. 等加速度運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "當 物 體 所 受 的 加 速 度 大 小 和 方 向 均 相 同 時 稱 為 等 加 速 度 運 動 (uniformly accelerated motion)。 若其速度隨時間作圖,其如圖 5-6 所示,函數曲線的切線斜率 ( 即為加速度 ) 是定值,表示其為一直線。"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "善用 V-t 圖, V-t 圖下的面積等於物體"
+        },
+        {
+          "type": "paragraph",
+          "text": "的位移的變化量,可加速題目求解。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 5-6 等加速運動之物體, V-t 關係線下之面積為一梯形面積 若質點的加速度為 a,在起始時刻 t = 0 的初速為 V 0,則由 v-t 圖中斜率 a 和"
+        },
+        {
+          "type": "heading",
+          "text": "面積的幾何關係,可得到質點在時刻 t 的速度為:"
+        },
+        {
+          "type": "heading",
+          "text": "∆ V V − V 0 V − V 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 a = = ∴ V = V 0 + at ⋯⋯1 或 t ="
+        },
+        {
+          "type": "heading",
+          "text": "∆ t t − 0 a"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 等加速度運動之 V-t 圖,曲線下的梯形面積即代表位移 S,或兩位置內之位移"
+        },
+        {
+          "type": "heading",
+          "text": "變化量,即 x 與 x 0 之差"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "S = x − x 0 = ( V 0 + V ) × t"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= ( V 0 + V 0 + at ) × t 或 S = V t 0 + at ⋯⋯2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "V − V 0 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 t = 代入 S = ( V 0 + V ) ⋅ t"
+        },
+        {
+          "type": "heading",
+          "text": "a 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 V − V 0"
+        },
+        {
+          "type": "heading",
+          "text": "S = ( V 0 + V ) ×"
+        },
+        {
+          "type": "heading",
+          "text": "2 a"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 aS = V − V 0"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "V = V 0 + 2 aS ⋯⋯3"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 171"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 等加速度直線運動三大運動公式:"
+        },
+        {
+          "type": "paragraph",
+          "text": " V = V 0 + at \u001f\u001f ( 沒有位移時用 )"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": " 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": " S = V t 0 + at \u001f\u001f ( 沒有末速時用 ) ( 公式 5-7)"
+        },
+        {
+          "type": "heading",
+          "text": " 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": " V = V 0 + 2 aS \u001f\u001f ( 沒有時間時用 )"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "(3) 等加速度直線運動之圖形 ( 圖 5-7)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-7 等加速度運動關係圖"
+        },
+        {
+          "type": "heading",
+          "text": "dS"
+        },
+        {
+          "type": "paragraph",
+          "text": "註:1瞬時速度 V = 表示 S 對 t 的微分 ( 又稱導數 )"
+        },
+        {
+          "type": "heading",
+          "text": "dt"
+        },
+        {
+          "type": "heading",
+          "text": "dV"
+        },
+        {
+          "type": "paragraph",
+          "text": "2瞬時加速度 a = 表示 V 對 t 的微分 ( 又稱導數 )"
+        },
+        {
+          "type": "heading",
+          "text": "dt"
+        },
+        {
+          "type": "heading",
+          "text": "n"
+        },
+        {
+          "type": "heading",
+          "text": "d t ( ) n − 1"
+        },
+        {
+          "type": "heading",
+          "text": "3 = n ⋅ t"
+        },
+        {
+          "type": "heading",
+          "text": "dt"
+        },
+        {
+          "type": "heading",
+          "text": "d ct ( ) dc"
+        },
+        {
+          "type": "heading",
+          "text": "4 = c, = 0"
+        },
+        {
+          "type": "heading",
+          "text": "dt dt"
+        },
+        {
+          "type": "heading",
+          "text": "一次微分 = 常數,常數微分 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "3 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "d t ( − 2 t + 3 t − 4 ) 2"
+        },
+        {
+          "type": "heading",
+          "text": "例如: = 3 t − 4 t + 3"
+        },
+        {
+          "type": "heading",
+          "text": "dt"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "172"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-3 題型:等加速度直線運動求移動距離"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,美國航空母艦企業號 F-35 戰鬥機自靜止以等加速度 a 在直線跑道 上加速,因必須在跑道的盡頭前達到起飛速度 V,否則飛機會墜海,則: (1) F-35 戰鬥機起飛前所滑行的距離為多少? (2) F-18 戰鬥機與戰鬥機 F-35 有相同的加速度,若 F-18 起飛速度必須達到 V 之 2 倍,則戰鬥機 F-18 起飛前滑行距離為戰鬥機 F-35 滑行距離的多少倍?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "題目為等加速度運動,即利用等加速度三大運動公式運算。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 V"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 由: V = V 0 + 2 aS,靜止開始 V0 = 0 ∴ S ="
+        },
+        {
+          "type": "heading",
+          "text": "2 a"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 由: V = V 0 + 2 aS,靜止開始 ∴ ( 2 V ) = 0 + 2 aSF - 18"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 V )"
+        },
+        {
+          "type": "paragraph",
+          "text": "S F-18 = 4 S,即 = 4 倍位移。"
+        },
+        {
+          "type": "heading",
+          "text": "2 a"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "一台警用機車作等加速度直線運動,在 5 秒內,時速由 36 km 增至 72 km,則此"
+        },
+        {
+          "type": "heading",
+          "text": "5 秒內車子移動距離為多少公尺?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 173"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-4 題型:v-t 圖的應用"
+        },
+        {
+          "type": "heading",
+          "text": "高鐵的 V-t 關係圖如圖所示,求高鐵"
+        },
+        {
+          "type": "paragraph",
+          "text": "在最初 20 s、 20 s 至 100 s 及最後 30 s"
+        },
+        {
+          "type": "heading",
+          "text": "的加速度,並繪出高鐵之 a-t 關係圖及"
+        },
+        {
+          "type": "paragraph",
+          "text": "求出總位移。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "∆ V"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 a ="
+        },
+        {
+          "type": "heading",
+          "text": "∆ t"
+        },
+        {
+          "type": "heading",
+          "text": "在 V-t 關係線上代表為兩點所連成之直線的斜率"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 最初 20 秒時 ∆ V = 60 − 0 = 60 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "60 2"
+        },
+        {
+          "type": "heading",
+          "text": "最初 20 秒的加速度 a1 = 3 m/s ="
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 20 秒至 100 秒時的 ∆ V = 60 − 60 = 0 m/s 20 秒至 100 秒時的加速度為零此時作等速度直線運動 (3) 最後 30 秒時 ∆ V = 0 − 60 = − 60 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "− 60 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "最後 30 秒的加速度 a 3 = = − 2 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 繪出高鐵之 a-t 關係圖"
+        },
+        {
+          "type": "heading",
+          "text": "(5) 總位移等於 V-t 圖的面積"
+        },
+        {
+          "type": "heading",
+          "text": "( 80 + 130 ) × 60"
+        },
+        {
+          "type": "paragraph",
+          "text": "S = = 6300 m, ( 等速時間 = 100 - 20 = 80 秒 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "174"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-4"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一汽車由靜止狀態出發,首先以 2 m/s 之加速度行駛 10 秒後,即以此速度"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "等速行駛 1 分鐘,最後再以 5 m/s 之減速行駛直到停止,試求該汽車所行駛之"
+        },
+        {
+          "type": "heading",
+          "text": "總距離為若干 m?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-5 題型:瞬時速度與瞬時加速度"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "直線運動的某質點,其位移 S ( 公尺 ) 與時間 t ( 秒 ) 的關係為 S = - 3t + 12t, 若定初速方向為正向,則求: (1) 初速度? (2) 加速度? (3) 幾秒末速度為零? (4) 幾秒回到原點? (5) 最遠正向移動距離?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "dS dV 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "V = = − 6 t + 12 m/s, a = = − 6 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "dt dt"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 初速度 V0 = - 6 × 0 + 12 = 12 m/s (V = - 6t + 12, t 用 0 代入為初速度 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 加速度為一定值, a = - 6 m/s"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) t 秒速度 V = - 6t + 12 = 0,∴ t = 2 秒"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 回到原點 S = 0,∴ S = - 3t + 12t = 0 - 3t (t - 4) = 0,∴ t = 0 ( 出發時 ) 或 t = 4 ∴時間為 4 秒"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 來回需 4 秒,故在 t = 2 時有最大位移 S = - 3t + 12t = - 3 × 2 + 12 × 2 = 12 m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-5"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "運動位移函數 S = 2t + 3t + 2,試求:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 速度與加速度之方程式?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 當 t = 3 時,其位移、瞬時速度之大小?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 175"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 下列有關速度的敘述,何者錯誤? (A) 單位時間內的位置變化量 稱為速率 (B) 單位時間內的位移變化量稱為速度 (C) 速度為向量 (D) 平均速度為零,表示物體一定為靜止。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 2. 有關加速度的敘述,何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "速度 V"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 加速度 a ="
+        },
+        {
+          "type": "heading",
+          "text": "時間 t"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 加速度的 SI 制單位為公尺 / 秒"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 加速度為負時,物體的速率絕對值必定減小"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 加速度為向量。 ( ) 3. 一學生以 8 公尺 / 秒等速率追趕一靜止剛起動的公車,公車在學生前"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "方 16 公尺處,若公車以 2 公尺 / 秒 加速度離去,則學生最快趕上公 車的時間為若干秒? (A) 6 (B) 5 (C) 4 (D) 3。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 一物體作等加速度運動,經 12 m,速度變為原來的,則在靜止前可"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "再行駛幾公尺? (A) 2 (B) 4 (C) 6 (D) 8。"
+        },
+        {
+          "type": "heading",
+          "text": "3 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 設一質點作直線運動,其運動位移之函數為 S = t - 2t + t - 3,則當"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "時間為 3 秒之瞬時加速度為多少 m/s?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 9 (B) 12 (C) 14 (D) 18。 ( ) 6. 圖中所示為沿 x 軸運動質點之速度 V 與時間 t 之關係。若 t = 0 時該質 點位於 x = 4 公尺處,則在 t = 12 秒時該質點之位置 (A) x = 12 公尺 (B) x = 16 公尺 (C) x = 18 公尺 (D) x = 22 公尺。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "176"
+        },
+        {
+          "type": "heading",
+          "text": "▲閱讀下文,回答第 7 ∼ 8 題"
+        },
+        {
+          "type": "paragraph",
+          "text": "自從西元 2015 年底起,台灣高鐵全線車站數由八站增為十一站,為滿足 不同類型的旅客搭乘需求,新的營運班表除了繼續保留北高直達車及停靠各站 的列車營運型態外,特別增加「跳蛙式停車」的班次。近年來所增開一列「跳 蛙式」班次的高鐵列車,該車從台北站出發經由桃園站到達台中站的速度 V 與 時間 t 的關係圖,如圖所示,已知總搭乘時間為 55 分鐘。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 7. 試求桃園站至台中站間的距離為多少公里? (A) 117.5 (B) 127.5 (C) 137.5 (D) 147.5。 ( ) 8. 試求此「跳蛙式」班次的高鐵列車從台北站到台中站的平均時速約為 多少 km/hr? (A) 158 (B) 168 (C) 178 (D) 188。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 177"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "你知道「牙買加閃電」博爾特跑完 100 公尺用不到 10 秒,他是怎麼辦到的?"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲「牙買加閃電」博爾特是三項短跑世界紀錄保持人 ( 取自 twitter) 博爾特 (Usain Bolt) 被譽為「牙買加閃電」,曾在 100 公尺短跑中達成 9.58 秒的驚人成績,更是第 一位同時擁有三項短跑世界紀錄和奧運冠軍頭銜的徑賽運動員。博爾特的秘密是什麼?每秒 10 公尺以 上的速度是靠天份,抑或是後天訓練而來?到底怎麼跑才能變快?這些問題都必須仰賴運動科學為我們 解答。 《英國廣播公司》 (BBC) 報導,跑速的秘訣並不是快速移動腳步,而是藉由 強力的踏步讓身體的滯 空時間延長,降低與腳掌與地面的摩擦力,最好能讓步伐越大越好。簡單來說,最快的跑步方法就是 「邊 蹦邊飛」。英國羅浮堡大學 (University of Loughborough) 教授艾倫 (Sam Allen) 研究運動科學多年,他說: 「運動選手與一般人的換步速度並沒什麼兩樣,但兩者的速度卻有十分顯著的差異,而步伐距離就是最 主要的原因。菁英級選手的每個步伐都踩得更用力,他們腿部的肌纖維反應也比較快,大幅增加滯空時 間。」 研究顯示,一般人全力跑完 100 公尺需要花費 50 到 55 步,職業運動員則可以在 45 步內跑完全程, 而對於「牙買加閃電」博爾特來說, 41 步綽綽有餘。身高 196 公分的博爾特是個特例,他的腿長讓他在 起步的時候無法把步伐切碎,但這個弱點馬上就被他的超長跨步補回來。如此可知天賦與後天的訓練成 就了「牙買加閃電」。"
+        },
+        {
+          "type": "heading",
+          "text": "生活小百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "178"
+        },
+        {
+          "type": "heading",
+          "text": "5-3 自由落體"
+        },
+        {
+          "type": "paragraph",
+          "text": "眾所皆知牛頓 (Issac Newton, 1642-1727) 藉由被蘋果砸到的經驗而發現萬有引力,在蘋 果落下的過程中,除了重力外,還有如空氣阻力等因素影響,現在如有一物體僅考慮重力 的影響,我們將其稱為 自由落體 (free falling bodies)。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 自由落體的發展史"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 伽利略比薩斜塔落體實驗:在比薩斜塔上將兩重量不同的物體自同高度自由落 下,結果兩物體同時著地。 (2) 波以耳 ( 圖 5-8) 真空管羽毛和銅幣實驗:真空玻璃管內放置羽毛與銅幣,迅速 倒轉玻璃管,管內羽毛和銅幣同時落至另一側,如圖 5-9 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 5-8 波以耳 ▲ 圖 5-9 真空管羽毛和銅幣實驗"
+        },
+        {
+          "type": "heading",
+          "text": "2. 若物體離地不高時,物體所受的重力可視為不變,且指向地心,其值可視為一常"
+        },
+        {
+          "type": "paragraph",
+          "text": "數,稱為重力加速度 (acceleration of gravity),以符號“ g ”表示,其大小為"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "g = 9.8 m/s = 980 cm/s = 32.2 ft/s"
+        },
+        {
+          "type": "heading",
+          "text": "3. 不論物體形狀或重量大小,若不考慮空氣阻力,同高處自由落下著地時間相同,"
+        },
+        {
+          "type": "paragraph",
+          "text": "末速也相同。"
+        },
+        {
+          "type": "heading",
+          "text": "等加速度運動 自由落體運動 (V 0 = 0)"
+        },
+        {
+          "type": "heading",
+          "text": "位移 S 位移 h"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 a 重力加速度 g"
+        },
+        {
+          "type": "heading",
+          "text": " V = V 0 + at  V = gt"
+        },
+        {
+          "type": "heading",
+          "text": " "
+        },
+        {
+          "type": "heading",
+          "text": " 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": " S = V t 0 + at  h = 1 gt 2 t 2 h"
+        },
+        {
+          "type": "heading",
+          "text": "⇒ 著地 ="
+        },
+        {
+          "type": "heading",
+          "text": " 2  2 g"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "  V = V 0 + 2 aS "
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": " V = 2 gh ⇒ 末速 V = 2 gh ( 公式 5-8)"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 179"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 自由落體末速與時間成正比,自由落體落下距離與時間平方 ( 或速度平方 ) 成"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "正比。 ( V = gt, h = gt, V = 2 gh )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 自由落體落下 1 秒位移: 2 秒位移: 3 秒位移"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "h 1: h 2: h 3 = t 1: t 2: t 3 = 1: 2: 3 = 1 4:: 9 (3) 自由落體落下第 1 秒內位移:第 2 秒位移:第 3 秒位移 ∆ h 1: ∆ h 2: ∆ h 3 = ( h 1 − h 0 ): ( h 2 − h 1 ): ( h 3 − h 2 ) = 1 3 5::"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 第 t 秒內落下之高度"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "∆ h t = h t − h t − 1 = gt − g t ( − 1 ) = g t ( − )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "(5) 自由落體運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 V-t 圖的面積,如圖 5-10,可看出每一秒內下落距離的比為 1: 3: 5: 7 ⋯。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 5-10 自由落體 (a) 時間之定義圖 (b) V-t 圖"
+        },
+        {
+          "type": "heading",
+          "text": "4. 光滑斜面的落體運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-11,一質量 m 的物體自一光滑斜面下滑,若不考慮摩擦力的情形下, 只受沿斜面向下的重力 (mg) 分量 mg sin q,向下加速度與斜面傾斜角度 q 有關, 為等加速直線運動,加速度 a = g sin q。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-11 物體在斜面之加速度情況"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 下表所示的三種沿光滑斜面滑動之等加速運動,除了加速度大小為 g sin q 外, 其餘與上述討論常見的三種自由落體運動相似。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "180"
+        },
+        {
+          "type": "heading",
+          "text": "運動情形 圖示"
+        },
+        {
+          "type": "heading",
+          "text": "物體自斜面上靜止下滑"
+        },
+        {
+          "type": "heading",
+          "text": "( V0 = 0, a = g sin θ )"
+        },
+        {
+          "type": "heading",
+          "text": "物體以初速 V 0 沿斜面下滑"
+        },
+        {
+          "type": "heading",
+          "text": "( V0, a = g sin θ )"
+        },
+        {
+          "type": "heading",
+          "text": "物體以初速 V 0 沿斜面上滑"
+        },
+        {
+          "type": "heading",
+          "text": "( V0, a = − g sin θ )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 在傾角為 q 斜面上,其加速度 a = g sin q { 上滑時 (a = - g sin q )}"
+        },
+        {
+          "type": "heading",
+          "text": "( 公式 5-9)"
+        },
+        {
+          "type": "heading",
+          "text": "等加速度運動 光滑斜面的落體運動 ( 下滑 )"
+        },
+        {
+          "type": "heading",
+          "text": "位移 S 位移 S"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 a 加速度 a = g sin θ"
+        },
+        {
+          "type": "paragraph",
+          "text": " V = V 0 + at  V = V 0 + ( g sin θ ) t"
+        },
+        {
+          "type": "heading",
+          "text": " "
+        },
+        {
+          "type": "heading",
+          "text": " 1 2  1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": " S = V 0 t + at  S = V 0 t + ( g sin θ ) t"
+        },
+        {
+          "type": "heading",
+          "text": " 2  2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "  V = V 0 + 2 aS   V = V 0 + 2 ( g sin θ ) S"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 物體 在光滑斜面下落之速度大小與斜面之傾"
+        },
+        {
+          "type": "heading",
+          "text": "角 q 無關,僅與高度 h 有關;且物體沿長度"
+        },
+        {
+          "type": "heading",
+          "text": "不等,但 高度相等之光滑斜面或曲面滑下,"
+        },
+        {
+          "type": "heading",
+          "text": "若初速度相等,則滑至底端之末速度大小均"
+        },
+        {
+          "type": "paragraph",
+          "text": "相等,但時間不等 ( 圖 5-12)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-12 斜面與落下速度的關係"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "自由落體與下拋時,速度、位移的方向是『往下為正』。上拋時,速度、位移的方向是『往上為正』。 運動學計算式中,凡與物體運動方向之位移、速度和加速度皆設定為『正值』,反之為『負值』。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 181"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-6 題型:自由落體運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "一物體自 98 m 之高度由靜止自由落下,當該物體下降到 78.4 m 之高度時,所"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "經歷之時間為多少秒? (g = 9.8 m/s )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "V0 = 0,距地面 78.4 m。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "落下高度 h = 98 - 78.4 = 19.6 m 由 h = gt"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "19.6 = × 9.8 × t ∴ t = 2 秒"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "一石頭由高 122.5 m 處自由落下,若不考慮空氣阻力,求其: (1) 著地所需時間; (2) 著地瞬間之末速度。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "182"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-7 題型:自由落體的位移比"
+        },
+        {
+          "type": "paragraph",
+          "text": "一靜止物體由高處自由落下,在自由落下的過程中,物體於最後 2 秒內的行程, 是全部行程的四分之三,若不考慮空氣阻力,則物體落下的高度為多少 m?"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "(g = 10 m/s )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "自 由 落 體 第 1 秒 內 位 移: 第 2 秒 內 位 移: 第 3 秒 內 位 移: 第 4 秒 內 位 移 ⋯ = 1: 3: 5: 7 ⋯。"
+        },
+        {
+          "type": "heading",
+          "text": "3 + 5 8"
+        },
+        {
+          "type": "heading",
+          "text": "若 t = 3 最後兩秒占全程的 ="
+        },
+        {
+          "type": "heading",
+          "text": "1 + 3 + 5 9"
+        },
+        {
+          "type": "heading",
+          "text": "5 + 7 3"
+        },
+        {
+          "type": "heading",
+          "text": "若 t = 4 最後兩秒占全程的 ="
+        },
+        {
+          "type": "heading",
+          "text": "1 + 3 + 5 + 7 4"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "得知 t = 4 則 h = × 10 × 4 = 5 × 16 = 80 m"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "另解"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "× g × t − × g × ( t − 2 )"
+        },
+        {
+          "type": "heading",
+          "text": "S 後 2 2 2 3"
+        },
+        {
+          "type": "heading",
+          "text": "設總時間為 t 則: = ="
+        },
+        {
+          "type": "heading",
+          "text": "S 全 1 2 4"
+        },
+        {
+          "type": "heading",
+          "text": "× g × t"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "得 3 t = 4 × (4 t - 4) ⇒ 3 t - 16 t + 16 = 0, (3 t - 4)(t - 4) = 0 ∴ t = 4"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: t = 不合 ∵ t - 2 需大於 0, t 需大於 2"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ h = × 10 × 4 = 5 × 16 = 80 m"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-7"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "paragraph",
+          "text": "若物體自靜止自由落下,並於最後 1 秒內行經全程之,試求該物體落下之高"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "度為多少公尺? ( 若 g = 10 m/s )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 183"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-8 題型:光滑斜面的運動"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,一物體在 30° 光滑斜面下方以 39.2 m/s 往上滑動,則最遠可滑行多"
+        },
+        {
+          "type": "heading",
+          "text": "少公尺?所需時間為多少秒?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) a = g sin30° = 9.8 sin30° = 4.9 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 V = V0 + 2aS, 0 = (39.2) + 2( - 4.9) × S"
+        },
+        {
+          "type": "heading",
+          "text": "( 負表 a 與 V0 反向 )"
+        },
+        {
+          "type": "heading",
+          "text": "∴ S = 156.8 m"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) V = V0 + at, 0 = 39.2 + ( - 4.9) × t"
+        },
+        {
+          "type": "heading",
+          "text": "∴ t = 8 秒"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "在光滑斜面上,斜角成 37°,一物體由頂端自由下滑, 3 秒到達底部,試求斜"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "面長及到達底部時之速率若干 m/s? ( 若 g = 10 m/s )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 一物體自距地面為 h 的塔上自由落下,若不計空氣阻力,則當物體下"
+        },
+        {
+          "type": "heading",
+          "text": "h"
+        },
+        {
+          "type": "paragraph",
+          "text": "降到 時之速度為 (A) gh (B) 2gh (C) gh (D) 2 gh。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. A、 B、 C 三球分別由不同高度同時自由落下,到達地面時期速度比為"
+        },
+        {
+          "type": "heading",
+          "text": "1: 2: 3,則三球高度比為"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 1: 2: 3 (B) 1: 3: 5 (C) 1: 2: 3 (D) 1: 2: 3。 ( ) 3. 如圖所示,有一物體的質量 100 kg,由 50 m 之高樓頂端以初速度 V1 = 0 自由落下,當該物體下落之速度到達 V2 = 20 m/s 時,該物體與"
+        },
+        {
+          "type": "heading",
+          "text": "地面之距離 X 約為若干?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 29.6 m (B) 39.6 m (C) 20.4 m (D) 50 m。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 如圖所示,重機手持直尺,使直尺下方零點位於慧喬鬆開的拇指與食 指之間。慧喬一看到重機鬆手,就立即抓握直尺,結果直尺落下 20"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "公分。若重力加速度為 10 公尺 / 秒,則慧喬的反應時間約為幾秒? (A) 0.1 秒 (B) 0.2 秒 (C) 2 秒 (D) 4 秒。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 185"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 有三個光滑且無摩擦之固定斜面,其斜角分別為 30°、 45° 及 60°,高 度皆為 H,如圖所示,若依物體從靜止開始分別由 30°、 45° 及 60° 之"
+        },
+        {
+          "type": "heading",
+          "text": "斜面頂端自由下滑,則下列何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 斜面長度比為 1: 2: 3"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 沿斜面之加速度比為 1: 2: 3"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 到達斜面底部時的速度比為 1: 2: 3"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 到達斜面底部的時間比為 2: 2:。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "paragraph",
+          "text": "你知道比薩斜塔上,將不同材料,兩不同重量之物體,同時由塔上自由落下,發現幾乎同時著地的"
+        },
+        {
+          "type": "heading",
+          "text": "秘密嗎?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 比薩斜塔"
+        },
+        {
+          "type": "paragraph",
+          "text": "當一切物體自某處由靜止自由落下,若無空氣之顯著影響,則無論其形狀、大小及材料如何,均為 等加速度之直線運動。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "186"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 鉛直拋體運動"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鉛直下拋:以 V 0 向下拋射稱為下拋。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 常用的向量符號規則"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-13(a),取鉛直方向為 y 軸,定向下為正,向上為負,拋射點為原點。"
+        },
+        {
+          "type": "heading",
+          "text": "等加速度運動 鉛直下拋 (V 0 ↓ )"
+        },
+        {
+          "type": "heading",
+          "text": "位移 S 位移 h"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 a 加速度 a = + g ↓"
+        },
+        {
+          "type": "paragraph",
+          "text": " V = V 0 + at  V = V 0 + gt"
+        },
+        {
+          "type": "heading",
+          "text": " "
+        },
+        {
+          "type": "heading",
+          "text": " 1 2  1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": " S = V t 0 + at  h = V t 0 + gt"
+        },
+        {
+          "type": "heading",
+          "text": " 2  2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "  V = V 0 + 2 aS   V = V 0 + 2 gh ( 公式 5-10)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鉛直上拋:以 V 0 向上拋射稱為上拋。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 常用的向量符號規則"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-13(b),取鉛直方向為 y 軸,定向下為負,向上為正,拋射點為原點。"
+        },
+        {
+          "type": "heading",
+          "text": "等加速度運動 鉛直上拋 (V 0 ↑ )"
+        },
+        {
+          "type": "heading",
+          "text": "位移 S 位移 h"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 a 加速度 a = - g ↓"
+        },
+        {
+          "type": "paragraph",
+          "text": " V = V 0 + at  V = V 0 − gt"
+        },
+        {
+          "type": "heading",
+          "text": " "
+        },
+        {
+          "type": "heading",
+          "text": " 1 2  1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": " S = V t 0 + at  h = V t 0 − gt"
+        },
+        {
+          "type": "heading",
+          "text": " 2  2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "  V = V 0 + 2 aS   V = V 0 − 2 gh ( 公式 5-11)"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 鉛直下拋 (b) 鉛直上拋"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-13 鉛直拋體運動軌跡"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 187"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 整理"
+        },
+        {
+          "type": "heading",
+          "text": "公式 觀念"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 到最高點的時間 ( 上拋最高點末速 V = 0)"
+        },
+        {
+          "type": "heading",
+          "text": "V 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "上升時間 t 1:由 V = V 0 − gt, 0 = V 0 − gt 1, t 1 = t 2, ="
+        },
+        {
+          "type": "heading",
+          "text": "g (1) 上拋在同一高度之上升和落下速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 可達最大高度 ( 此時末速 V = 0) 相同。 2 (2) 落回原點時間等於 2 倍上升時間。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2 V 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 V = V 0 − 2 gh, 0 = V 0 − 2 gh, h = (3) 若 算出來 h 為負表示 h 與 V 0 反向,"
+        },
+        {
+          "type": "heading",
+          "text": "2 g"
+        },
+        {
+          "type": "paragraph",
+          "text": "表示物體在拋射點下方。"
+        },
+        {
+          "type": "heading",
+          "text": "2 V 0"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 同高著地飛行時間 T = 2 t 1 ="
+        },
+        {
+          "type": "heading",
+          "text": "g"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "鉛直上拋時,上拋的初速率與下降至"
+        },
+        {
+          "type": "heading",
+          "text": "原點的速率相同;由此可知上升與下"
+        },
+        {
+          "type": "heading",
+          "text": "降的時間會相等 ( 因為速度與加速度均"
+        },
+        {
+          "type": "paragraph",
+          "text": "相同 )( 圖 5-14)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-14 鉛直上拋速度示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "3. 三種運動的比較:"
+        },
+        {
+          "type": "paragraph",
+          "text": "運動形式 V-t 圖,面積表位移。( 若方向取向上為正 )"
+        },
+        {
+          "type": "heading",
+          "text": "自由落體"
+        },
+        {
+          "type": "heading",
+          "text": "(V 0 = 0, a = g ↓ )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch05/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "188"
+        },
+        {
+          "type": "paragraph",
+          "text": "運動形式 V-t 圖,面積表位移。( 若方向取向上為正 )"
+        },
+        {
+          "type": "heading",
+          "text": "上拋"
+        },
+        {
+          "type": "heading",
+          "text": "(V 0 ↑, a = - g ↓ )"
+        },
+        {
+          "type": "heading",
+          "text": "下拋"
+        },
+        {
+          "type": "heading",
+          "text": "(V 0 ↓, a = g ↓ )"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-9 題型:水平面的鉛直上拋"
+        },
+        {
+          "type": "paragraph",
+          "text": "鉛直上拋一物體,其初速度為 19.6 m/s,試求: (1) 到達高點所需之時間; (2) 到達最高點之高度; (3) 落回原地所需之時間; (4) 上拋 3 秒後的速度。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "上拋到最高點末速 V = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) V = V0 - gt, 0 = 19.6 - 9.8 × t, t = 2 s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) V = V0 - 2gh, 0 = 19.6 - 2 × 9.8 × h, h = 19.6 m (3) 同高著地飛行時間為到最高點之兩倍 T = 2t = 4 s (4) V = V0 - gt = 19.6 - 9.8 × 3 = - 9.8 m/s ( 負表與 V0 反向 )"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "已退休的 NBA 超級球星空中飛人喬丹,據聞垂直跳起時可在空中停留 1.0 秒,"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "則喬丹垂直跳起時本身重心可上升之最大高度為多少公尺? ( 若 g = 10 m/s )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 直線運動 189"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-10 題型:鉛直下拋"
+        },
+        {
+          "type": "paragraph",
+          "text": "一石頭由空中自由落下經過一高塔之塔頂時速度為 9.8 m/s,到該塔底時速度為"
+        },
+        {
+          "type": "heading",
+          "text": "29.4 m/s,則該塔高為何?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "塔的上端至下端為下拋運動"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "V 末 = V 初 + 2gh, (29.4) = (9.8) + 2 × 9.8 × h, h = 39.2 m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-10"
+        },
+        {
+          "type": "paragraph",
+          "text": "在 58.8 m 高之樓上,以 19.6 m/s 初速度下拋,求著地時間和著地末速。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-11 題型:距地面高度位置的鉛直上拋"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一個以 20 公尺 / 秒等速上升的熱氣球,離地面 60 公尺高處,於氣球底部自 由落下一小石頭,氣球仍保持等速上升運動。試求 (1) 小石頭落下至著地的時 間; (2) 小石頭著地末速; (3) 小石頭著地時熱氣球的高度。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "因慣性運動定律熱氣球落下之石頭初速度為 20 m/s 向上之上 拋運動 ( 著地位移向下與 V0 反向 ∴ h = - 60)"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) h = V t 0 − gt, − 60 = 20 t − × 10 t, t − 4 t − 12 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( t − 6 )( t + 2 ) = 0, t = 6 s (t = - 2 不合 ) (2) V = V 0 − gt = 20 − 10 × 6 = − 40 m/s ( 負表向下 ) (3) 熱氣球仍等速上升 6 s, S = V × t = 20 × 6 = 120 m 即距地"
+        },
+        {
+          "type": "heading",
+          "text": "高度 = 120 + 60 = 180 m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-11"
+        },
+        {
+          "type": "paragraph",
+          "text": "柯 P 自 100 m 之塔垂直上拋一物,設此物 10 秒後落地,求落地時速度為多少"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "m/s? ( 若 g = 10 m/s )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "190"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-12 題型:兩球相遇的問題"
+        },
+        {
+          "type": "paragraph",
+          "text": "A 球自高 98 m 之塔頂自由落下,同時 B 球自地面以 49 m/s 之速度鉛直上拋, 試求: (1) 兩球何時相遇; (2) 相遇處離地面多高?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) h A + h B = 98"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "gt + ( V t 0 − gt ) = 98"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "× 9 8. × t + ( 49 × t − gt ) = 98, t = 2 s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) h B = V t 0 − gt = 49 × 2 − × 9 8. × 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "= 98 − 19 6. = 78 4. m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 5-12"
+        },
+        {
+          "type": "paragraph",
+          "text": "一石頭自懸崖頂點墜下, 2 秒鐘後在同位置另一石頭以 25 m/s 之速度垂直下拋,"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "則當後者超過前者時,石頭離崖頂距離為多少公尺? ( 若 g = 10 m/s )"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

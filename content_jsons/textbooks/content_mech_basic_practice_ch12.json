@@ -1,0 +1,345 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH12",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH12",
+    "title": "CH12"
+  },
+  "title": "機械基礎實習全冊 Chapter 12 ཥ቟ண௪ʘԴ͜",
+  "source_pdf": "mechanical_basic_practice/CH12PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH12",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "ཥ቟ண௪ʘԴ͜"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 瞭解電銲機銲接原理 12-1 電銲機銲接原理"
+        },
+        {
+          "type": "heading",
+          "text": "2. 瞭解電銲設備之使用與維護 12-2 電銲設備之使用與維護"
+        },
+        {
+          "type": "heading",
+          "text": "3. 熟悉電銲條之規格與選用 12-3 電銲條之規格與選用"
+        },
+        {
+          "type": "heading",
+          "text": "4. 熟悉電銲安全規則 12-4 電銲安全規則"
+        },
+        {
+          "type": "heading",
+          "text": "5. 熟悉電銲實習工場公共安全衛生 12-5 電銲實習工場公共安全衛生注意事項"
+        },
+        {
+          "type": "heading",
+          "text": "注意事項"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "224"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常生活物品都是由大小不同的零件組成,經由接合才能組成完整的結構或設備。在各種 金屬接合方法中, 銲接 (welding) 是極重要的一種, 廣泛應用於金屬製造業、 國防工業、 造船工業、 汽車工業、鋼樑結構工程等。所謂「 ⺣࿲ 」就是將兩件以上的金屬或非金屬銲件, ߱ Ң࿲׶⚠ Խᥖ⎏⳺ᯍᝐಙŊ͐Ң᥂ջ໣ʃ᥂ջȮᛟԽࢯᅆ ( ⺣ጻ ) ໣ʃᛟԽࢯᅆȮᅡԽࣱԻ໣ʃᅡԽࣱԻŊ ≟͐ቨᅆඖ⫨᳈׺໣᳈ᯌ᱿᱿қỚ˫ʀʠడ˴ᷨ૪࿲׶߱ɺ⬚᱿Խడᅞᘍ໣Ễ಍ȯ 銲接在製造上,可節省材料、減輕重量、提高機件使用壽命等;在使用上,具有設備簡單、 移動方便、施工容易、產品設計彈性大、適於自動化等優點。銲接已是生產或維修不可或缺的 技術。依美國銲接學會 (American Welding Society, AWS ) 的統計,各種銲接法可分成七大類 五十四種 [1],但真正普及採用的僅十餘種而已。目前工業上以電弧銲、氣銲、電阻銲為主要接 合方式,其中以電弧銲應用最廣,它具有銲接速度快、熱量密集度高、銲件變形小與適用材料 廣泛等優點。"
+        },
+        {
+          "type": "heading",
+          "text": "12-1 ཥ቟ዚ቟ટࡡଣ"
+        },
+        {
+          "type": "paragraph",
+          "text": "電銲機 (ARC welder) 是銲接所用的設備,如圖 12-1(a) 所示,它是利用正、負兩極在瞬間短 路時產生的高溫電弧來熔化電銲條上的銲料和被銲材料,使材料熔合為一體的方法,又稱電弧 銲接 (Arc welding),俗稱「電銲」。所以電銲機主要作用是供給維護電弧所需之電源,它的原理 是把電力公司所提供的 110V、 220V 或 440V 的高電壓經變壓器降壓後,產生「 ̥ ヅࣱȮネヅᙟ 」 之二次電流。電流兩極分別接於被銲材料 ( 母材 ) 與電銲手把 (Electrode holder),銲把上的銲條 (Welding rods) 與母材保持適當距離,電流通過此距離將空氣離子化而產生放電光束,此光束稱 為電弧 (Arc),透過此過程將電能轉化為熱能,產生電弧高溫 ( 可達 3500 °C以上 ) 使母材及銲條 熔化達到接合的目的。 ヅ⺣ᑨሷ᳅ᙟ⎞˅ᙟʠӠ,直流電銲機對工件與銲條之接法有正、負極性之分,所產生的 熱也不同;交流電銲機無正、負極性之分兩者所生的熱一樣多,因其構造簡單、故障排除容易、 價格便宜,常用於一般銲接工作。電銲裝置接線圖如圖 12-1(b) 示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 12-1 ȭ˅ᙟヅ⺣ᑨ⎞׆᫧"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch12/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 ཥ቟ண௪ʘԴ͜ 225"
+        },
+        {
+          "type": "heading",
+          "text": "12-2 ཥ቟ண௪ʘԴ͜ၾၪᚐ"
+        },
+        {
+          "type": "paragraph",
+          "text": "電銲設備主要有交流電銲機及直流電銲機、 電源開關、 一次側電纜、 輸出側電纜、 銲接手把、 銲條、接地等如圖 12-2(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 電銲機基本示意圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "交流電銲機面板上有電源開關、電流調整手柄、電流調整指示器等,操作面板與連接線如 圖 12-2(b) 所示。電銲機上的自動電擊防止裝置可將無載電壓 ( 約 50 ∼ 100V,視電銲機不同有 所差異 ) 在沒有進行銲接時降到 25V 以下,防止操作者誤觸時不致於造成觸電傷害,目前電銲 機大多將自動電擊防止裝置安裝在電銲機內。"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 交流電銲機電銲操作面板與連接示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 12-2 ȭヅ⺣⥑Ј͐ᮢ"
+        },
+        {
+          "type": "paragraph",
+          "text": "為顧及電銲機使用壽命與操作者安全,使用電銲機應應注意下列幾點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 電銲機放置處應避免震動、潮濕、雨淋、易腐蝕等環境,以免減短使用壽命。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 電銲機外殼應接地,以防漏電。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch12/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "226"
+        },
+        {
+          "type": "heading",
+          "text": "3. ⺣༴⣬Ύྃʯᛍ⎞⏦॑⃑M,電纜接頭螺絲不可鬆動,以免接觸不良或燒損。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 開啟電銲機前,應先檢查電極把手與地線夾,兩者絕不可正、負極接觸,避免瞬間短路,"
+        },
+        {
+          "type": "paragraph",
+          "text": "耗損電銲機。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 銲接過程不可調整電流大小或變換電銲機之電源開關,以免燒損調整線圈與接點。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 銲接結束後,關閉電源、取下電銲條,電纜線捲好掛於掛鉤上。"
+        },
+        {
+          "type": "heading",
+          "text": "12-3 ཥ቟ૢʘ஝ࣸၾ፯͜"
+        },
+        {
+          "type": "heading",
+          "text": "ɓeཥ቟ૢʘ஝ࣸ"
+        },
+        {
+          "type": "paragraph",
+          "text": "手工電銲條芯部以金屬做為電極,用來傳導電流產生電弧,熔融後的金屬也提供銲道填 充,電銲條外觀如圖 12-3(a) 所示。如尺寸 φ 3.2 × 350mm,表示芯線直徑 φ 3.2mm、銲條長度 350mm,夾持銲條芯線端約露出 25mm 不塗銲藥 \u0002\u0003\u0004\u0005\u0006,如圖 12-3(b) 所示,此處供電極把手夾 持及導電之用;前端芯線約露出 3mm 以下用於引弧,如圖 12-3(c) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 各式電銲條 (b) 銲條夾持端不塗銲藥 (c) 銲條前端"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 12-3 ȭ༆డヅ⺣ጻỚㆩ"
+        },
+        {
+          "type": "paragraph",
+          "text": "手工電銲條規格請參閱圖 12-4 說明:第一位數字「 E 」代表電銲條; Ԋқ̤ᄲ઎⠧ḻ⺣ጻ"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "᥂ࢯര⺣ⳬ᱿ሱଅ༾ཚ೼ಙ (kg/mm );第三位數字以 0 ∼ 4 表示銲接位置,分別為: 0、 1 表全 姿勢 ( 平銲 F、橫銲 H、立銲 V、仰銲 O 皆可 ), 2 表平銲及橫銲, 3 表平銲, 4 表全姿勢或特殊 位置;第四位數字為銲條銲藥的型號與使用電流種類。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 12-4 ȭヅ⺣ጻ⣳ጁ⠧ḻᘍ"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeཥ቟ૢʘ፯͜"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲條種類繁多,選用時須與被銲材料相互配合,依金屬不同有:鐵金屬電銲條與非鐵金屬"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch12/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 12 ཥ቟ண௪ʘԴ͜ 227"
+        },
+        {
+          "type": "paragraph",
+          "text": "電銲條,如圖 12-5 所示。如銲接軟鋼材料用軟鋼電銲條、高張力鋼用高張力鋼電銲條、不銹鋼 則應選用不銹鋼電銲條等等,切勿任意拿起工作台上規格不明的電銲條即以施銲。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 12-5 ȭヅ⺣ጻỚㆩ [6]"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲條除上述依銲接材料選用外,材料的厚度、使用之銲接姿勢、接頭型式及電流種類與極 性選用也是考慮的因素,其種類及表示法可參考 CNS、 AWS、 JIS 等有關銲條之規章即可。 銲接過程金屬熔液在高溫下,若沒有保護裝置,被銲材料極易發生氧化、脆化現象;電銲 條所包覆之銲藥,因電弧而高溫燃燒會產生複雜的化學變化形成氣罩及銲渣,以銲條芯部金屬 做為電極,同時也提供填充金屬之用,銲藥主要功能如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. ỻહヅೲȮᛧଇᡄᄣȮᄊۧ⺣᫏ഐᨊ。"
+        },
+        {
+          "type": "heading",
+          "text": "2. ᮟᮝΎ⩂ᖎ⇡Ŋⴍ҉कߣᖎナҘͯŊΎ⩂᥂ᖷ。"
+        },
+        {
+          "type": "heading",
+          "text": "3. רᛟԽ׶⸉Ҁ₪Ŋᄊۧ⺣ⳬʠᑨፋඖ⫨。"
+        },
+        {
+          "type": "heading",
+          "text": "4. ഐໞ⺣ᛮŊ⣰╾ᅠ᥂➄⸉଼Ŋ࣑ԽヅೲἊⲿᛖಙŊೖ⿢᥂ᖷҽִᆹ⿵ŊΎ⩂᥂➄⸉଼ʃ⡕"
+        },
+        {
+          "type": "paragraph",
+          "text": "ᖒջŊ͐Ңג๨ҽִŊ〾ᔋ㖂⡣᫠⩽。 軟鋼銲條是目前工業界使用最廣泛的手工電銲條,銲接情形與銲接專有名詞如圖 12-6(a)、 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 12-6 ȭ⺣࿲෼ഐ⎞⺣࿲૾ሷ׻⥱"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch12/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "228"
+        },
+        {
+          "type": "paragraph",
+          "text": "我國國家標準 (CNS) 對於軟鋼塗料銲條的分類整合了美國銲接協會 (AWS) 及日本工業標準 (JIS) 的分類法,如表 12-1 所示。 Ȝ ⠧ 12-1 ȭʑxᖁߡߡ૊ᐻ᜾Ⱆ⻘ᮢヅ⺣ጻӠㆩד⺣ࢯ⸉଼ʠᑨፋඖ⫨ [7]"
+        },
+        {
+          "type": "heading",
+          "text": "Ớㆩ ⡕⣰⺣♑Ớㆩ ⺣࿲য՛ ヅᙟỚㆩ"
+        },
+        {
+          "type": "paragraph",
+          "text": "E4301 鈦鐵礦型 F、 V、 O、 H AC 或 DC( ± ) E4303 鹼性鈦礦型 F、 V、 O、 H AC 或 DC( ± ) E4310 高纖維素鈉型 F、 V、 O、 H DC( ± ) E4311 高纖維素鉀型 F、 V、 O、 H AC 或 DC( ± ) E4313 高氧化鈦型 F、 V、 O、 H AC 或 DC( - ) E4316 低氫型 F、 V、 O、 H AC 或 DC( + ) E4324 鐵粉氧化鈦型 F、 H AC 或 DC( ± ) E4326 鐵粉低氫型 F、 H AC 或 DC( + )"
+        },
+        {
+          "type": "heading",
+          "text": "F 為 AC 或 DC( ± )"
+        },
+        {
+          "type": "heading",
+          "text": "E4327 鐵粉氧化鐵型 F、 H"
+        },
+        {
+          "type": "heading",
+          "text": "H 為 AC 或 DC( - )"
+        },
+        {
+          "type": "heading",
+          "text": "F、 V、 O、 H"
+        },
+        {
+          "type": "heading",
+          "text": "E4340 特殊型 AC 或 DC( ± )"
+        },
+        {
+          "type": "heading",
+          "text": "或其中任何一種姿勢"
+        },
+        {
+          "type": "heading",
+          "text": "上述銲條中,茲列舉常用五種銲藥之電銲條分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. E4301"
+        },
+        {
+          "type": "paragraph",
+          "text": "鈦鐵礦型 (Ilmenite type) 銲藥由 30% 鈦礦石與鐵砂混合而成,抗拉力及韌性優良,銲道波紋 細密均勻、平滑美觀、火花量少、滲透力中等,適合全能位置銲接,銲藥外表呈黑褐色,是使 用最普遍的電銲條 [6]。"
+        },
+        {
+          "type": "heading",
+          "text": "2. E4303"
+        },
+        {
+          "type": "paragraph",
+          "text": "鹼性鈦礦型 (Lime Titania type) 銲藥由 30% 氧化鈦與約 20% 石灰石等鹽機物質組成,電弧 穩定,銲道細密美觀,火花量少,滲透力淺,適合全能位置銲接。銲藥外表一般呈粉紅色。"
+        },
+        {
+          "type": "heading",
+          "text": "3. E4311"
+        },
+        {
+          "type": "paragraph",
+          "text": "高纖維素型 (High Cellulose type) 銲藥中含有 20 ∼ 30% 有機纖維素,此纖維素受電弧熱後 會產生多量保護氣體, 滲透力強、 火花量大, 常用於多層銲道的第一道, 銲藥外表一般呈乳白色。"
+        },
+        {
+          "type": "heading",
+          "text": "4. E4313"
+        },
+        {
+          "type": "paragraph",
+          "text": "高氧化鈦型 (High Titania type) 銲藥以氧化鈦為主要成分,電弧安定,火花量少,銲渣清除 容易,銲道波紋極為細密平滑美觀,滲透力淺,一般僅用於薄板銲接,銲藥外表呈淺灰色。"
+        },
+        {
+          "type": "heading",
+          "text": "5. E4316"
+        },
+        {
+          "type": "paragraph",
+          "text": "低氫素型 (Low Hydrogen type) 銲藥主要成分為石灰石或氟化鈣等鹽基性物質,石灰石在高 溫時能產生二氧化碳氣體保護融熔金屬,氟化鈣在降低石灰石熔點,此型銲條可減少氫氣的發 生,使銲道具有最高抗拉強度及韌性之電銲條,唯起弧較不易,銲藥外表呈暗灰色。 在施銲工程中,銲接部位可能相當多,也可能常需對不同金屬材質進行銲接,所以不同特"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

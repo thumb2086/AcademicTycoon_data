@@ -320,6 +320,310 @@
       "a": 0,
       "reward": 15,
       "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_021",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "1. 車床上作校正 、 劃線工作, 宜選用",
+      "image_url": "",
+      "options": [
+        "三爪連動夾頭",
+        "雞心夾頭",
+        "鑽頭夾頭",
+        "四爪單動夾頭夾持工件 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_022",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "2 · 使用三爪連動夾頭夾持工件, 最大優點是",
+      "image_url": "",
+      "options": [
+        "夾持工件較快速",
+        "適於大型與粗重工件之夾持",
+        "夾持與校正精確度高",
+        "最適於偏心量較大工件 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "階級外徑車削練習單 班級 • 姓名 座號: ( 15 ) 基準面一 2 基準面一 1 ( 素材 ) 註: ( 1 ) 實習時間: 20 小時 ~ 25 小時 。 0 9t ( 2 ) 未註尺寸之去角均為 1 × 45 09 ( 3 ) 未註尺寸之公差均為士 0 · 5 。 ( 4 ) 去除毛邊, 可留中心孔 。 ( 5 ) 材料 • S30C, ¢ 50 × 120 一支 。 24 士 0, 3 18 士 02 72 士 0 · 5 表面粗糙度 得分合計 項目 ¢ 36 士 0, 4 ¢ 24 士 0, 2 ¢ 16 士 0, 1 72 士 0.5 24 士 0, 3 18 士 0 · 2 扣分單位 士 0.10mm / 一 5 分 士 0 0mm / 一 5 分 士 0.10mm / 一 5 分 士 0.10mm / 一 5 分 士 0 0mm / 一 5 分 士 0 0mm / 一 5 分 Ra5 0pm 配分 5 20 20 尺度 得分 備註 比例 科目機械基礎霣習 ( 一年級 〕 1: 1 投影法 名稱階級外徑車削練習 詳閱階級外徑車削的工作圖 A 圖 8-8"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_023",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "3 · 車削外徑前先車削端面, 其原因係為",
+      "image_url": "",
+      "options": [
+        "整齊",
+        "美觀",
+        "定長度之基準面",
+        "精車削車刀不易損壞 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_024",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "4 · 車削較大端面, 為獲得良好之眞平度應採",
+      "image_url": "",
+      "options": [
+        "刀具溜座固定於床台",
+        "尾座頂心頂持工件",
+        "中心架扶持工件",
+        "減低轉速 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_025",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "5 · 車削大端面時, 若有過多裕量之材料, 以右列何種車削方法較為迅速",
+      "image_url": "",
+      "options": [
+        "先以軸向連續粗車削",
+        "先由軸心向外連續粗車削",
+        "先將多餘之長度切斷",
+        "先由外向軸心連續粗車削再作精車削 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_026",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "6 · 適當的車削速度可以提高刀具之",
+      "image_url": "",
+      "options": [
+        "強度",
+        "精度",
+        "壽命",
+        "切削阻力 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_027",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "7 · 一般切削速度之單位為",
+      "image_url": "",
+      "options": [
+        "m/min",
+        "mm/min",
+        "m/sec",
+        "mm/sec"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_028",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "8 · 以每分鐘 18m 之速度, 車削直徑 50mm 成為直徑 45mm 之圓桿, 則車床主軸宜為",
+      "image_url": "",
+      "options": [
+        "105rpm",
+        "115 卬 m",
+        "125 卬 m",
+        "1351 ㄗ m 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_029",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "9 · 有一車床主軸每分鐘迴轉 550 轉, 欲車削直徑 45mm 之工件, 則車削速度宜為每分鐘",
+      "image_url": "",
+      "options": [
+        "78m",
+        "88m",
+        "98m",
+        "108m 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_030",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "10 · 車削工件是否選用切削劑, 應考量",
+      "image_url": "",
+      "options": [
+        "切削深度",
+        "工件材質",
+        "車床結構",
+        "環境清潔 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_031",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "11. 車削一中碳鋼圓桿之車削速度, 粗車削應較精車削為",
+      "image_url": "",
+      "options": [
+        "高",
+        "低",
+        "相同",
+        "隨意 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_032",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "12 · 車削工件直徑 100mm, 車削速度每分鐘為 120m, 則主軸轉速宜選",
+      "image_url": "",
+      "options": [
+        "40",
+        "140",
+        "380",
+        "900 rpm 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_033",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "13 · 車床進給率是指刀具",
+      "image_url": "",
+      "options": [
+        "每分鐘移動若干 mm",
+        "每秒鐘移動若干英吋",
+        "每分鐘移動若干 m",
+        "主軸每轉一圈移動若干 mm 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_034",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "14 · 車刀影響車削工件表面粗糙度的主要部份是",
+      "image_url": "",
+      "options": [
+        "邊隙角",
+        "後斜角",
+        "邊斜角",
+        "刀尖半徑 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_035",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "16 · 車削造成車刀崩裂的原因為",
+      "image_url": "",
+      "options": [
+        "車削速度過高",
+        "車削速度過低",
+        "退刀太快",
+        "車削停止未退刀 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_036",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "17 · 重車削進行中, 發現有明顯刮槽, 即表示有",
+      "image_url": "",
+      "options": [
+        "刀刃磨損",
+        "切屑堆積在刀刃",
+        "工件表面有硬塊",
+        "刀口軟化 。 167"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_037",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "18 · 車削大直徑工件端面, 若主軸轉速不變, 其內 、 外側之車削速度",
+      "image_url": "",
+      "options": [
+        "差異甚小",
+        "差異甚大",
+        "無差異",
+        "是固定值無相關 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_038",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "19 · 車削條件相同時下列何者車削時之主軸轉速較快",
+      "image_url": "",
+      "options": [
+        "切斷",
+        "螺紋",
+        "內孔",
+        "外徑 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH08_039",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH8",
+      "q": "20 · 車床車削圓桿, 為求良好的眞圓, 最好的加工方法是使用",
+      "image_url": "",
+      "options": [
+        "彈簧車刀精車削",
+        "砂布砂光",
+        "細銼刀銼削",
+        "碳化鎢車刀精車削 。 168"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
     }
   ]
 }

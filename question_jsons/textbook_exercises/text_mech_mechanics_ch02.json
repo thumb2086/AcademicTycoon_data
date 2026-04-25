@@ -96,6 +96,198 @@
       "a": 0,
       "reward": 15,
       "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_007",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "22 · 一滑輪組如圖所示, 以最小施力 F 將 w = 2600 N 之重物拉起, 若不計繩與滑輪組重及任何摩擦力, 則上滑輪組中滑輪連接桿 A 截面所受之拉力為多少 N?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p063_0_0_0_r.png",
+      "options": [
+        "1300",
+        "1560",
+        "1950",
+        "2080 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_008",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "23 · 如圖所示, 試求此平行力系之合力至 A 點的距離為若干?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p063_0_0_0_r.png",
+      "options": [
+        "A 點左方 5m",
+        "A 點右方 5m",
+        "A 點左方 7m",
+        "A 點右方 7m 。 20N 3m A 0 35N 2m 30N-m 60N )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_009",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "24 · 如圖所示, 若樑受到一均佈負荷 = 100 N/m, 且於 c 點有一力偶 T = 2500N - m 作用, 則樑在 B 點所受到的力為?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p063_0_0_0_r.png",
+      "options": [
+        "250N ( )",
+        "250 N )",
+        "500 N ( )",
+        "750N ) 。 0 ) = 100N / m T = 2500N - m 5m 5m )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_010",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "25 · 如圖所示, 求 B 點之反力為多少?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p063_0_0_0_r.png",
+      "options": [
+        "5 N )",
+        "5 N 由",
+        "10 N )",
+        "10 N 由 。 50N-m 10m"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_011",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "26 · 有一構件如圖所示, A 、 c 為鉸支承 (hinge), B 為銷釘 (pin), A 點之水 2-5-3 ( 平反力 A 丶與垂直反力大小各為",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p064_0_0_0_r.png",
+      "options": [
+        "A 丶 = 12 kN 、 = 0 kN",
+        "A 丶 = 12 kN 、 = 6 kN",
+        "A 丶 = 6 kN 、 = 6 kN",
+        "A 丶 = 8 kN 、 = 4 kN 。 12kN 4m 2m 2m 2m )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_012",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "27 · 一手拉車載有一貨物, 如圖所示, 輪子摩擦力與手拉車車板重量可忽略, 貨物重量 w 為 1000 N, 且內部質量為均匀分布 。 若施予一力 F 拉動手拉車, 施力大小為 200N, 方向與水平線夾角為 30 度, 則手拉車後輪 p 受到來自地面的正向力為多少 N?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p064_0_0_0_r.png",
+      "options": [
+        "80",
+        "125",
+        "540",
+        "775 。 1 m 30 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_013",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "28 · 如圖所示的鋼架, 承受均佈載重, 若鋼架本身重量和變形可忽略不計, 試求 A 點之 20kN/m 6m 反力為多少 kN?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p064_0_0_0_r.png",
+      "options": [
+        "90",
+        "150 4m",
+        "120",
+        "200 。 88"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_014",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "29 · 如圖所示的結構, 若樑 ACD 與繩索 BC 的重量均可忽略不計, 則繩索所承受的 B 張力大小為多少 N?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p065_0_0_0_r.png",
+      "options": [
+        "2650",
+        "3500",
+        "5300",
+        "7000 。 3 4 4m 400N / m 4m )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_015",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "30 · 如圖所示, 梯重 48 N, 斜靠於一光滑的牆壁上, 梯子剛好保持平衡, 若地面有摩擦, 則梯子在 A 點之反作用力為何? ( 梯子為均匀材質 )",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p065_0_0_0_r.png",
+      "options": [
+        "20 N",
+        "48 N",
+        "52 N",
+        "26 N 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_016",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "31. 如圖所示之架構, 不計桿件重量, 則何者不正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p065_0_0_0_r.png",
+      "options": [
+        "銷件 A 與銷件 B 所受的反作用力大小相等",
+        "AB 桿所受的作用力為壓力",
+        "銷件 A 的反作用力大小約為 100 N",
+        "AB 桿為二力構件 。 60N 0 60 A 0 30 89"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_017",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "32 · 如圖所示, 試求 A 支座的反力為多少牛頓?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p066_0_0_0_r.png",
+      "options": [
+        "90",
+        "120",
+        "150",
+        "150 150N 300N 2m 4m 150N 2m 2m )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH02_018",
+      "subject": "機械力學",
+      "unit": "CH2",
+      "q": "1.5 m 與 1 m, 而當 w = 15000 N, 在保持所有輪胎均貼地的狀況下, 該堆高機所能起重負載貨物的最大重量 F 為多少 N?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch02/p066_0_0_0_r.png",
+      "options": [
+        "10000",
+        "15000",
+        "22500",
+        "32500 。 2-2 90 丶計算題如圖所示, 一力 100N 作用於 c 點, 若桿重不計體圖 。, 畫出 AB 、 CD 桿件的自由 100N 2m 6m 3m 4m"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
     }
   ]
 }

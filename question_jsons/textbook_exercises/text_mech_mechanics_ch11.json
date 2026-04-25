@@ -320,6 +320,326 @@
       "a": 0,
       "reward": 15,
       "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_021",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "1. 材料在相同且截面面積也相同的情況下, 依其截面係數之大小來排列, 下列關係何者?",
+      "image_url": "",
+      "options": [
+        "正方形 > 圓形",
+        "圓形 > 圓環形",
+        "長方形 ( 直立 ) > 正方形",
+        "I 字形 > 長方形 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_022",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "2 · 下列有關面積慣性矩的敘述, 何者不正確?",
+      "image_url": "",
+      "options": [
+        "即為面積的二次矩",
+        "即為質量的慣性矩",
+        "其值恆為正",
+        "單位為長度的四次方 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_023",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "3 · 一面積對於任一軸之慣性矩中, 對哪一軸的值為最小?",
+      "image_url": "",
+      "options": [
+        "形心軸",
+        "與形心軸成 45 。 之軸",
+        "與形心軸成平行之軸",
+        "與形心軸成 60 。 之軸 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_024",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "5 · 物體的斷面為圓形, 面積為 50 cm2, 形心軸的慣性矩為 200 cm4, 求距圓心 2 cm 的某軸慣性矩為多少?",
+      "image_url": "",
+      "options": [
+        "200 cm",
+        "400 cm",
+        "600 cm",
+        "800 cm4 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_025",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "6 · 迴轉半徑 K 丶 、 慣性矩 I 丶或 I 與截面積 A 的三者關係為? -y (B) K 丶",
+      "image_url": "",
+      "options": [
+        "",
+        "K 丶 (A) K x",
+        "Kx",
+        "K"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_026",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "7 · 如圖所示之截面, G 為其形心, 面積為 600 mm4 。 已知其對 u-u 軸的慣性矩為 71250 mm4, 則對 x 軸的慣性矩為多少 mm4?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch11/p033_0_0_0_r.png",
+      "options": [
+        "7500",
+        "8750",
+        "10000",
+        "11250 。 10mm 133"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_027",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "8 · 一面積對任一軸之迴轉半徑其形心至該軸的距離?",
+      "image_url": "",
+      "options": [
+        "恆大於",
+        "恆小於",
+        "恆等於",
+        "視情況而定 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_028",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "9 · 有關迴轉半徑的敘述, 下列何者?",
+      "image_url": "",
+      "options": [
+        "面積對通過形心軸的迴轉半徑最小",
+        "恆為正數",
+        "長度單位",
+        "向量 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_029",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "10 · 下列有關面積慣性矩之敘述, 何者?",
+      "image_url": "",
+      "options": [
+        "平行軸定理可適用於任何兩條平行軸的慣性矩計算",
+        "相同面積的圓形與正方形, 對通過其形心的極慣性矩, 正方形大於圓形",
+        "一面積對通過其形心之軸的慣性矩, 恆小於對任一平行該軸之慣性矩",
+        "相同面積下, 迴轉半徑愈大, 其慣性矩愈大 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_030",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "11. 對於極慣性矩的敘述, 下列何者最為不正確?",
+      "image_url": "",
+      "options": [
+        "極慣性矩為一純量",
+        "極慣性矩為二互相垂直軸的慣性矩之和",
+        "極慣性矩的單位為長度的 4 次方",
+        "極慣性矩恆小於兩相垂直軸之任一軸的慣性矩 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_031",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "12 · 某截面對 x 軸及 z 軸的迴轉半徑分別為 30 mm 及 50 mm, 則對 y 軸的迴轉半徑為多少 mm?",
+      "image_url": "",
+      "options": [
+        "20",
+        "3400",
+        "80",
+        "40 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_032",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "14 · 某圓的直徑為 40 cm, 則圓面積對以直徑為軸的迴轉半徑為何?",
+      "image_url": "",
+      "options": [
+        "40 cm",
+        "30 cm",
+        "20 cm",
+        "10 cm 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_033",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "17 · 如圖所示, x 軸與 y 軸為矩形面積之形心軸, 若矩形面積對 x ' 軸及 x 軸的慣性矩分別為 I 丶, 及 I 丶, 則亠的比值為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch11/p035_0_0_0_r.png",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_034",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "19 · 下列敘述何者正確?",
+      "image_url": "",
+      "options": [
+        "平行軸定理乃用於計算一截面對某軸的慣性距, 且此軸常不通過該截面之形心",
+        "某正方形邊長為 L, 其通過邊 L4 長之慣性矩為一",
+        "某三角形邊長為 L, 其通過邊長之慣性矩為 3 L4",
+        "某正五邊形邊長為 L, 其通過邊長之慣性矩為一 12 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_035",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "23 · 如圖所示之三角形 ABC, 單位為 cm, 求此面積對 x 軸之慣性矩 I 丶為多少 cm?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch11/p036_0_0_0_r.png",
+      "options": [
+        "36",
+        "324",
+        "684",
+        "1332 。 B ( 9, 10 ) c ( 6, 4 ) A ( 0, 4 ) O 彡丿 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_036",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "24 · 如圖所示之空心圓幵截面之外徑為 8mm, 內徑為 4mm, 則此截面對水平形心軸的極慣性矩為多少 mm4?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch11/p036_0_0_0_r.png",
+      "options": [
+        "60 兀",
+        "80 兀",
+        "120 冗",
+        "180 兀 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_037",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "25 · 已知矩形面積之寬為 b, 高為 h, 若面積不變的情況下, 寬度增加 2 倍則慣性矩為原來的多少倍?",
+      "image_url": "",
+      "options": [
+        "4 倍",
+        "8 倍",
+        "一倍",
+        "- 倍 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_038",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "27 · 如圖所示之組合面積, 該面積對水平軸 x 的慣性矩為多少 cm4?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch11/p037_0_0_0_r.png",
+      "options": [
+        "50",
+        "53",
+        "54",
+        "60 。 20mm 15mm 30mm 30mm 30mm )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_039",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "28 · 如圖所示之梯形面積, 上底為 a, 下底為 3a, 高為 h, 試求其對下底的慣 3 性矩 I 丶為多少?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch11/p037_0_0_0_r.png",
+      "options": [
+        "—ah3",
+        "—ah",
+        "一 ah3",
+        "一 ah 3 12 3a )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH11_040",
+      "subject": "機械力學",
+      "unit": "CH11",
+      "q": "29 · 截面為三角形的樑, 如圖所示, 通過頂點且平行底邊 a 軸的慣性矩為 I 。, 通過形心軸 b 的慣性矩為 I b, 通過底邊 c 軸的慣性矩為 I 。, 則 I 。 的比值何者正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch11/p037_0_0_0_r.png",
+      "options": [
+        "1: 3: 9",
+        "3: 1: 9",
+        "9: 3: 1",
+        "9: 1: 3 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
     }
   ]
 }

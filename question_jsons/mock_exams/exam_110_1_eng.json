@@ -1,0 +1,645 @@
+{
+  "bundle_id": "MOCK_110_1_ENG",
+  "questions": [
+    {
+      "id": "MOCK_110_1_ENG_001",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "This best way to the world is to see for yourself; you can learn outside the classroom.",
+      "image_url": "",
+      "options": [
+        "expand",
+        "explain",
+        "expose",
+        "explore"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "這世界最好的方法就是親自去瞧瞧;你可以 菲利普:不好意思。 學到課堂以外的東西。 服務生:先生抱歉,都沒位子了。下午 1:00 會有。 (A) 展開 (B) 解釋 (C) 暴露 (D) 探索 菲利普:好吧...。"
+    },
+    {
+      "id": "MOCK_110_1_ENG_002",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "People who live in big cities can enjoy the of getting connected to free Wi-Fi almost everywhere.",
+      "image_url": "",
+      "options": [
+        "convenience",
+        "conflict",
+        "choice",
+        "channel"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "like to / Many people / without understanding / criticize 30 分 ( 每單位熱量 160 cal, 約 340 cal 的一半, 故  15 分 ) others online / the whole picture 2 解答: Many people like to criticize others online without"
+    },
+    {
+      "id": "MOCK_110_1_ENG_003",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "I never concert tickets from strangers online because it is too risky.",
+      "image_url": "",
+      "options": [
+        "spot",
+        "purchase",
+        "examine",
+        "cheat"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "我從不在網路上向陌生人 演唱會票券,因為 弗洛拉:還不錯。這次我有用功! 風險太大了。 珍: 我請你喝一杯珍珠奶茶! (A) 注意 (B) 購買 (C) 檢查 (D) 作弊 弗洛拉:非常感謝。"
+    },
+    {
+      "id": "MOCK_110_1_ENG_004",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "It’s time for Louis to clean up his room because it looks so.",
+      "image_url": "",
+      "options": [
+        "perfect",
+        "amazing",
+        "awful",
+        "natural"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "是路易斯該打掃房間的時候了,因為它看起來如 (A) 沒有努力就沒有收穫。 (B) 這就是人生。 此 。 (C) 享受生活中的每一刻。 (D) 絕對不要說謊。 (A) 完美的 (B) 驚人的 (C) 糟糕的 (D) 自然的"
+    },
+    {
+      "id": "MOCK_110_1_ENG_005",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Taipei 101 and the National Palace Museum are both well-known in Taipei City.",
+      "image_url": "",
+      "options": [
+        "solutions",
+        "landmarks",
+        "communities",
+        "departments"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "臺 北 101 和 故 宮 博 物 院 在 臺 北 市 都 是 很 有 名 秘書:史密斯先生的辦公室。請問什麼事? 的 。 山姆:我是山姆‧布萊克。我可以和史密斯先生通話 (A) 解答 (B) 地標 (C) 社區 (D) 部門 嗎?"
+    },
+    {
+      "id": "MOCK_110_1_ENG_006",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Please the personal information form online and then send it to Mr. Wang before you leave the office.",
+      "image_url": "",
+      "options": [
+        "point out",
+        "throw out",
+        "stay up",
+        "fill out"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "在離開辦公室前,請 線上個人資料然後發送 (A) 我可以取消預約嗎? (B) 請他回電給我。 給王先生。 (C) 我等不及要見他了。 (D) 我可以留言給他嗎? (A) 指出 (B) 扔掉 (C) 熬夜 (D) 填寫"
+    },
+    {
+      "id": "MOCK_110_1_ENG_007",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Dragons stand for great power and good luck in ancient Chinese stories.",
+      "image_url": "",
+      "options": [
+        "salary",
+        "fortune",
+        "promise",
+        "devotion"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "龍在中國古代故事中代表著強大的力量和好運。 路人:它不在步行範圍內, 到第六 (A) 薪水 (B) 運氣 (C) 承諾 (D) 奉獻 站下車就行了,你就會看到!"
+    },
+    {
+      "id": "MOCK_110_1_ENG_008",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Colors have symbolic meanings in many cultures; for example, the Japanese think of color white as purity.",
+      "image_url": "",
+      "options": [
+        "regard",
+        "delete",
+        "stare",
+        "remain"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "顏色在許多文化中具有象徵意義;例如,日本人將白 梅根:非常感謝! 色視為純潔。 (A) 我真的認為你應該騎 YouBike 。 (A) 視為 (B) 刪除 (C) 凝視 (D) 留下;依然是 (B) 看到那裡的派出所了嗎?圖書館在派出所後面。"
+    },
+    {
+      "id": "MOCK_110_1_ENG_009",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "The night view in Yangmingshan is terribly beautiful and it attracts lots of tourists each year.",
+      "image_url": "",
+      "options": [
+        "accidentally",
+        "extremely",
+        "roughly",
+        "scarcely"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "陽明山的夜景超級地美麗,每年都吸引著大量的遊客。 (C) 我建議你去那搭 315 路公車。 (A) 意外地 (B) 非常地 (C) 大致地 (D) 很少地 (D) 往前走 3 條街。"
+    },
+    {
+      "id": "MOCK_110_1_ENG_010",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "The birth rates in South Korea and Taiwan drop year by year because most young people are worried about the load of child care.",
+      "image_url": "",
+      "options": [
+        "decrease",
+        "produce",
+        "rise",
+        "challenge II. 對話題 說明:第 12 至 21 題,請依對話內容選出一個最適合的答案,使其成為有意義的對話。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "韓國和臺灣的生育率逐年下降,因為大多數的年輕人"
+    },
+    {
+      "id": "MOCK_110_1_ENG_011",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "(At the bank) Bank Teller: Good afternoon, ma’am. How may I help you? Mrs. Wang: I’d like to open an account. Bank Teller: I am glad to help, but I’m afraid that. It’s required by the law. Mrs. Wang: Of course. Here’s my driver’s license.",
+      "image_url": "",
+      "options": [
+        "you should make a reservation first",
+        "you should register online first",
+        "I need to see your identification first",
+        "I have to check your savings account first"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "( 在銀行 ) (C) 我也是好久沒去了。 (D) 這很划算。 銀行櫃員:午安,女士。請問有什麼地方需要協助?"
+    },
+    {
+      "id": "MOCK_110_1_ENG_012",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "(At the restaurant) Philips: Excuse me. Waiter: Sorry. We aren’t going to have any tables until 1:00 pm. Philips: Well....",
+      "image_url": "",
+      "options": [
+        "What do you recommend?",
+        "Is there any table available now?",
+        "May I order now?",
+        "I want a lunch special."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "( 在餐廳 )"
+    },
+    {
+      "id": "MOCK_110_1_ENG_013",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Jean: Hooray! The midterm exam was over! How did you do on it? Flora: Not bad. I studied hard this time! Jean: Let me buy you a bubble milk tea. My treat! Flora: I really appreciate it.",
+      "image_url": "",
+      "options": [
+        "No pain, no gain.",
+        "That’s life.",
+        "Enjoy every moment in life.",
+        "Never tell lies."
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "珍:萬歲!期中考試結束了!你考得如何?"
+    },
+    {
+      "id": "MOCK_110_1_ENG_014",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "(On the phone) Secretary: Mr. Smith’s office. How can I help you? Sam: This is Sam Black. Can I speak to Mr. Smith? Secretary: I’m so sorry, but he is not in right now! Sam: Secretary: Yes, please.",
+      "image_url": "",
+      "options": [
+        "Can I cancel my appointment?",
+        "Please tell him to call back.",
+        "I can’t wait to see him.",
+        "May I leave a message?"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "( 通話中 )"
+    },
+    {
+      "id": "MOCK_110_1_ENG_015",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Megan: Excuse me, do you know the way to the nearest library? Passer-by: It’s not in walking distance. Just get off at the sixth stop. You won’t miss it! Megan: Thanks a lot!",
+      "image_url": "",
+      "options": [
+        "I really think you should ride a YouBike.",
+        "See the police station over there? It’s behind it.",
+        "I suggest you take Bus 315 over there.",
+        "Just walk down for 3 blocks."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "梅根:不好意思,你知道怎麼去最近的圖書館嗎?"
+    },
+    {
+      "id": "MOCK_110_1_ENG_016",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Mark: I haven’t been to a Karaoke bar for a long time. Emma: It is going to be a lot of fun. Mark: What do you want to sing first? Emma: Wow, I have a lot to sing.",
+      "image_url": "",
+      "options": [
+        "I don’t agree.",
+        "Don’t mention it!",
+        "Me neither.",
+        "It’s a bargain."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "馬克:我好久沒去卡拉 OK 了。 擔心育兒的負擔。 艾瑪: 這會很好玩。 (A) 減少;降低 (B) 生產 (C) 上升 (D) 挑戰 馬克:你想先唱什麼? 艾瑪:哇,我要唱的可多呢! II. 對話題 (A) 我不同意。 (B) 不用客氣!"
+    },
+    {
+      "id": "MOCK_110_1_ENG_017",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "(At the High-Speed Rail ticket counter) Staff: Where are you going? Alice: I am going to Tainan. Staff: Alice: I would like a one-way ticket, please. Staff: Here it is.",
+      "image_url": "",
+      "options": [
+        "What’s the purpose of your visit?",
+        "Round-trip or one-way ticket?",
+        "How long will you be staying?",
+        "It is a good place for a long stay."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "( 高鐵購票櫃檯 ) 王太太:我想開戶。 工作人員:你要去哪裡? 銀行櫃員:我很樂意幫忙,但恐怕 這 愛麗絲:我要去臺南。 是法律規定。 工作人員: 王太太:當然。這是我的駕照。 愛麗絲:請給我一張單程票。 (A) 妳應該要先預約。 工作人員:這是您的票。 (B) 妳應要事先在網路上登記。 110-1 共同科目 英文 詳解 (A) 您造訪的目的是什麼? 當恐懼 (28) 太過強烈 (28) 而不能克服時,就會被認定是恐 (B) 來回票還是單程票? 懼症。常見的恐懼症有三種:飛行恐懼症、懼高症和恐 (C) 您會待多久? 水症。關於飛行恐懼症,有這種恐懼症的人害怕坐飛機。 (D) 臺南是個長住的好地方。 懼高症, (29) 源自於害怕墜落的念頭。在高處時,他們的"
+    },
+    {
+      "id": "MOCK_110_1_ENG_018",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Clerk: Welcome to Sweetie Shoes Outlet. May I help you? Tracy: May I try the high heels on? Clerk: Certainly. Tracy: Clerk: Yes, wait a moment, please.",
+      "image_url": "",
+      "options": [
+        "Do you have them in Size 6?",
+        "They feel good.",
+        "How many pairs?",
+        "Are they on sale?"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "店員:歡迎光臨甜心鞋店特賣會。需要幫忙嗎? 心跳會加快,甚至可能會昏倒。 (30) 最後,恐水症是怕水, 崔西:我可以試穿這雙高跟鞋嗎? 尤其是在水深的地方。 店員:當然。 這些恐懼症可能或多或少會影響他們的生活。 (31) 崔西: 了解這些恐懼症之後,我們可以多體諒別人。很希望你 店員:是的,請稍等。 沒有這些恐懼症。 (A) 有 6 號嗎? (B) 穿起來好舒服。"
+    },
+    {
+      "id": "MOCK_110_1_ENG_019",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Husband: Hey, honey. What do you want for dinner? Let’s eat out. Wife: That would be lots of money. Husband: Let’s eat in. I will make the Caesar salad and chicken sandwiches then. Wife: That would be a great idea. They are a good match.",
+      "image_url": "",
+      "options": [
+        "For here or to go?",
+        "How about making a steak?",
+        "We can buy one and get one free.",
+        "We’ve got to save some money."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "丈夫:嘿,親愛的。晚飯想吃什麼?我們出去吃飯吧。"
+    },
+    {
+      "id": "MOCK_110_1_ENG_020",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Hanna: What’s up? You look down. Pam: I heard Anna saying something bad about me behind my back. Hanna: You can’t control that. Pam: Thank you for those encouraging words.",
+      "image_url": "",
+      "options": [
+        "I meant no offense.",
+        "The way you think about yourself really matters.",
+        "It is not fair to criticize her.",
+        "How dare you!"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "漢娜:怎麼了?你看起來很沮喪。 潘:我聽到安娜在背後說我的壞話。 Question 32-36 漢娜:你無法控制這些事。 我們看食品標籤是為了擁有更良好的健康。許多消費 潘:謝謝你那些鼓勵的話。 者想知道如何更有效、更輕鬆地使用這些訊息。美國食品 (A) 我不是故意冒犯。 和藥物管理局 (FDA) 要求在大多數包裝食品和飲料上貼上 (B) 你對自己的看法才重要。 營養成分標籤。營養成分標籤提供了有關食物營養成分的 (C) 批評她是不公平的。 詳細資訊,例如脂肪、糖、鈉和纖維的含量。如果您患有 (D) 你竟敢! 高血壓或高膽固醇等健康問題,並且需要遵循特殊飲食習 慣,那麼了解如何閱讀食品標籤尤為重要。食品標籤還可 III. 綜合測驗 以使人更容易地比較類似的食物,看看哪種食物更健康。 Question 22-26 以下是安迪昨天在附近超市購買的產品上的食品標籤。 當您白天感到想睡或疲倦時,您會怎麼做?很多人 營養成份 會回答「打盹」 。全世界有數百萬人都有白天小睡的習 每包裝約 15 份 慣。根據一些美國科學家所做的研究,白天小睡 (22) 是對 每份份量 約 15 片 (28 公克 ) 每份含量 您的健康有幫助也能提升表現。 (23) 例如午睡可以幫助學 卡路里 160 生更好地學習,因為他們的大腦在充分休息的情況下可 占每日營養 % 以更好地工作,還有午睡的學生很少生病。此外,午睡 脂肪含量 10 g 13% 讓人 (24) 感到放鬆並精力充沛。 (25) 然而,午睡超過 30 飽和脂肪 1.5 g 7% 分鐘則相反。那些午睡時間太長的人晚上經常有睡眠問 反式脂肪 0 g 題。幾位研究人員表明,小睡 (26) 少至 10 分鐘可以提高 膽固醇 0 mg 0% 工作表現和學習能力,但長時間的午睡與睡眠障礙有關。 鈉 170 mg 7%"
+    },
+    {
+      "id": "MOCK_110_1_ENG_021",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": ". scientists, taking a nap during the daytime ____ good to your health and improves your performance.",
+      "image_url": "",
+      "options": [
+        "do",
+        "does",
+        "did",
+        "doing"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "因為動名詞當主詞表示單數,故選 (B) does 總碳水化合物 15 g 6% According to..., taking a nap during day time does good 膳食纖維素 1 g 5% to your health. 總含糖量少於 1 g"
+    },
+    {
+      "id": "MOCK_110_1_ENG_022",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": ". ____, a nap helps students learn better because their brains could work better with enough rest and students who nap seldom get sick.",
+      "image_url": "",
+      "options": [
+        "For instance",
+        "As a result",
+        "Finally",
+        "At last"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "舉學生為例,故選 (A) 蛋白質 2g (A) 例如 (B) 結果 (C) 最後 (D) 最後 維生素 D 0 mcg 0%"
+    },
+    {
+      "id": "MOCK_110_1_ENG_023",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": ". Furthermore, a nap makes people ____ and energetic.",
+      "image_url": "",
+      "options": [
+        "relax",
+        "to relax",
+        "relaxing",
+        "relaxed"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "因為 make 為使役動詞, make + 受詞 + 受詞補語,故選 鈣 10 mg 0% (D) relaxed,意為人感到放鬆的 鐵質 0.6 mg 2% 句型: make + O(people) + OC(relaxed and energetic) 鉀 350 mg 6%"
+    },
+    {
+      "id": "MOCK_110_1_ENG_024",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": ". ____, naps of more than 30 minutes do the opposite.",
+      "image_url": "",
+      "options": [
+        "In addition",
+        "Thus",
+        "Nevertheless",
+        "For one reason"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "表示和前述「相反」之意,故選 (C) 維生素 C 6% (A) 另外 (B) 因此 (C) 然而 (D) 因為一個原因 無重要添加糖來源"
+    },
+    {
+      "id": "MOCK_110_1_ENG_025",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": ". Several investigators have shown that napping for ____ 10 minutes improves work performance and learning ability, but longer naps are associated with sleep disorder.",
+      "image_url": "",
+      "options": [
+        "as soon as",
+        "as big as",
+        "as much as",
+        "as short as ▲ 下篇短文共有 5 個空格,為第 27-31 題,請依短文文意,選出一個最適合該空格的答案。 It is normal that we are afraid of something. Some get scared when they see little bugs around. 27 feel frightened while watching horror movies. When a fear is 28 strong 28 overcome, it is considered to be phobia. There are three common phobias: aerophobia, acrophobia, and aquaphobia. As for aerophobia, people with such phobia are anxious about being in an airplane. Acrophobia, the fear of height, 29 the thoughts of falling from high places. While in high places, they experience increasing heartbeat and might even pass out. 30, aquaphobia is the fear of water, especially in deep water. Those phobias may affect people’s life more or less. After 31 about these phobias, we can be more thoughtful about others. Hopefully, you are with none of those fears."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "(A) 只要 (B) 像...一樣大 每日攝取量是告訴您每包裝中您所攝取的營養 (C) 像...一樣多 (D) 像...一樣短 建議每日攝取 2000 卡 Question 27-31 到期日: 02 / 18 / 2021 我們害怕某些事物是正常的。有些人看到周圍有小"
+    },
+    {
+      "id": "MOCK_110_1_ENG_026",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": ". ____ feel frightened while watching horror movies.",
+      "image_url": "",
+      "options": [
+        "The others",
+        "The other",
+        "Another",
+        "Others"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "甇?圾嚗?D)嚗?皞?110-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_1_ENG_027",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": ". When a fear is ____ strong 28 overcome, it is considered to be phobia.",
+      "image_url": "",
+      "options": [
+        "too... to",
+        "so... that",
+        "such... that",
+        "more... than"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?110-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_1_ENG_028",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": ". Acrophobia, the fear of height, ____ the thoughts of falling from high places.",
+      "image_url": "",
+      "options": [
+        "results from",
+        "leads to",
+        "causes to",
+        "brings about"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "甇?圾嚗?A)嚗?皞?110-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_1_ENG_029",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": ". 25, naps of more than ____ minutes do the opposite.",
+      "image_url": "",
+      "options": [
+        "At first",
+        "Lastly",
+        "Above all",
+        "At least"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "甇?圾嚗?B)嚗?皞?110-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_1_ENG_030",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": ". After ____ about these phobias, we can be more thoughtful about others.",
+      "image_url": "",
+      "options": [
+        "you learn",
+        "learned",
+        "learning",
+        "learn IV. 閱讀測驗 說明:以下有兩篇短文,共有 10 個題目,為第 32 至 41 題,請於閱讀短文後,選出最適當的答案 。"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "甇?圾嚗?C)嚗?皞?110-1-四技二專-00共同科目 英文解析.pdf"
+    },
+    {
+      "id": "MOCK_110_1_ENG_031",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Which of the following items is most likely what Andy bought yesterday?",
+      "image_url": "",
+      "options": [
+        "a can of sweet corn",
+        "a pack of potato chips",
+        "a bar of dark chocolate",
+        "a loaf of bread"
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "以下哪個項目最有可能是文章中所列食品標籤的食 蟲子時會感到害怕。 (27) 有些人看恐怖電影時感到害怕。 物? 110-1 共同科目 英文 詳解 (A) 一罐甜玉米 (B) 一包薯片 (A) 打電話給醫生 (B) 接受測試 (C) 一塊黑巧克力 (D) 一條麵包 (C) 買藥 (D) 尋找庇護所 (ABOUT 15 chips ( 從單位詞可看出 ))"
+    },
+    {
+      "id": "MOCK_110_1_ENG_032",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "If Andy ate up the product, how many calories does Andy Exp: 02 / 18 / 2021 take in?",
+      "image_url": "",
+      "options": [
+        "160 cals",
+        "448 cals",
+        "1600 cals",
+        "2400 cals"
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "如果安迪吃完整個產品,安迪攝入了多少卡路里? 二、非選擇題 (A) 160 大卡 (B) 448 大卡 I. 填充 (C) 1600 大卡 (D) 2400 大卡"
+    },
+    {
+      "id": "MOCK_110_1_ENG_033",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "What nutrient content can’t be found in this product?",
+      "image_url": "",
+      "options": [
+        "Protein.",
+        "Vitamin (D)",
+        "",
+        "(C) Sodium. (D) Fiber."
+      ],
+      "a": 1,
+      "reward": 15,
+      "explanation": "這個產品中不含什麼營養成份? 級分 說明 (A) 蛋白質。 (B) 維生素 D 。 4 2 個空格皆正確。 (C) 鈉。 (D) 纖維。 2 僅 1 個空格正確。"
+    },
+    {
+      "id": "MOCK_110_1_ENG_034",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Swimming for half an hour burns 340 calories. If Andy consumes one serving size of the product, he needs to swim for about minutes to burn the calories he takes in.",
+      "image_url": "",
+      "options": [
+        "40",
+        "30",
+        "15",
+        "10"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "游泳半小時可燃燒 340 卡路里。如果安迪消耗了一小 0 2 個空格皆錯誤。 份此產品,他需要游泳大約幾分鐘才能消耗掉攝取的 卡路里? II. 句子重組 (A) 40 (B) 30 (C) 15 (D) 10"
+    },
+    {
+      "id": "MOCK_110_1_ENG_035",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "What does the words listed down below the nutrition facts label “ Exp: 02 / 18 / 2021 ” mean? th",
+      "image_url": "",
+      "options": [
+        "The product was produced on February 18, 2021. th",
+        "The company was founded on February 18, 2021. th",
+        "Consumers should not eat it after February 18, 2021. th",
+        "FDA tested the product on February 18, 2021. ▲閱讀下文,回答第 37-41 題。 COVID-19 and common colds have many similar signs or symptoms. For instance, people who catch either a cold or COVID-19 usually cough. So how can you tell if you have COVID-19 or a common cold? Understanding the differences in symptoms really matters. If you have signs of coronavirus disease (COVID-19), it’s important that you contact your doctor or clinic right away for help."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "營養成分標籤下方列出的詞語「 Exp: 02 / 18 / 2021 」是 understanding the whole picture. 什麼意思? 評閱指標 (A) 產品於 2021 年 2 月 18 日生產。 級分 說明 (B) 公司成立於 2021 年 2 月 18 日。 (C) 消費者不應在 2021 年 2 月 18 日之後食用。 4 所有字詞組合正確,且拼字、大小寫及標點均 (D) FDA 於 2021 年 2 月 18 日對該產品進行了測試。 無誤。 Question 37-41 (1) 所有字詞組合正確,但有拼字、字詞增減或 COVID-19 和普通感冒有許多相似的跡象或症狀。例 標點錯誤。 3 如,不論感冒或 COVID-19,患者通常會咳嗽。那麼,如 (2) 多數字詞組合正確,且無拼字、字詞增減或 何判斷自己是患有 COVID-19 或普通感冒呢?了解新冠 標點錯誤。 肺炎和感冒症狀差異真的很重要。如果您有新冠肺炎 (1) 多數字詞組合正確,但有拼字、字詞增減或 (COVID-19) 的跡象,請務必立即聯繫您的醫生或診所尋 標點錯誤。 2 求幫助。 (2) 半數字詞組合正確,且無拼字、字詞增減或  Cold COVID-19 標點錯誤。 cough usually  (1) 半數字詞組合正確,但有拼字、字詞增減或 標點錯誤。 sneeze usually rarely 1 (2) 少數字詞組合正確,且無拼字、字詞增減或 fever sometimes usually 標點錯誤。 tiredness sometimes usually (1) 少數字詞組合正確,但有拼字、字詞增減或 loss of smell sometimes usually 標點錯誤。 sore muscle sometimes usually 0 (2) 所有字詞組合錯誤。 vomiting never sometimes (3) 只抄引導文字、題目或其他試題。"
+    },
+    {
+      "id": "MOCK_110_1_ENG_036",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Which of the following words is the best for blank ?",
+      "image_url": "",
+      "options": [
+        "Medicines",
+        "Advice",
+        "Signs",
+        "Virus"
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "以下哪個詞最適合空格 ? (4) 空白 ( 未書寫文字 ) 。 (A) 藥物 (B) 建議 (C) 症狀 (D) 病毒"
+    },
+    {
+      "id": "MOCK_110_1_ENG_037",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Which of the following words is the best for blank ?",
+      "image_url": "",
+      "options": [
+        "usually",
+        "never",
+        "rarely",
+        "sometimes"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "以下哪個詞最適合空格 ? III. 中譯英 (A) 通常 (B) 從不 (C) 很少 (D) 有時"
+    },
+    {
+      "id": "MOCK_110_1_ENG_038",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Which of the following descriptions about COVID-19 is NOT true?",
+      "image_url": "",
+      "options": [
+        "People who catch COVID-19 usually have trouble smelling.",
+        "People who catch COVID-19 usually feel tired.",
+        "People who catch COVID-19 usually have a temperature.",
+        "People who catch COVID-19 usually throw up."
+      ],
+      "a": 3,
+      "reward": 15,
+      "explanation": "以下哪些關於 COVID-19 的描述不正確? 解答: I spent about / near / around two hours making a (A) 感染 COVID-19 的人通常嗅覺會有問題。 birthday card for Mom / my mom / my mother yesterday. (B) 感染 COVID-19 的人通常會有倦怠感。 Yesterday, I spent about / near / around two hours making (C) 感染 COVID-19 的人通常會發燒。 a birthday card for Mom / my mom / my mother yesterday. (D) 感染 COVID-19 的人通常會嘔吐。 It took me about / near / around two hours to make a"
+    },
+    {
+      "id": "MOCK_110_1_ENG_039",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "Which of the following descriptions about a cold is true?",
+      "image_url": "",
+      "options": [
+        "People who catch a cold rarely sneeze.",
+        "People who catch a cold usually lose smelling.",
+        "People who catch a cold sometimes have sore muscles.",
+        "People who catch a cold vomit once in a while."
+      ],
+      "a": 2,
+      "reward": 15,
+      "explanation": "下列關於一般感冒的描述何者正確? birthday card for my mom yesterday. (A) 感冒的人很少打噴嚏。 It took me about / near / around two hours to make my (B) 感冒的人常會失去嗅覺。 mom a birthday card yesterday. (C) 感冒的人有時會肌肉酸痛。 Yesterday, it took me about / near / around two hours to (D) 感冒的人偶爾會嘔吐。 make a birthday card for my mom yesterday."
+    },
+    {
+      "id": "MOCK_110_1_ENG_040",
+      "subject": "英文",
+      "unit": "110-1-四技二專-00共同科目 英文",
+      "q": "According to the passage, what is the first thing you need to do if you have a sign of COVID-19?",
+      "image_url": "",
+      "options": [
+        "calling the doctor",
+        "getting tested",
+        "buying medicine",
+        "finding a shelter"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "根據篇章,如果您感染了 COVID-19,您需要做的第 Yesterday, it took me about / near / around two hours to 一件事是什麼? make my mom a birthday card yesterday. 110-1 共同科目 英文 詳解 評閱指標 級分 說明 能充分表達原文題意,文法、標點正確,用字 4 遣詞沒有不當之處。 能適切表達原文題意,文法、標點、用字遣詞 3 僅有少數不當之處。 僅能部分表達原文題意,文法、標點、用字遣 2 詞有多處失當之處。 無法表達原文題意,文法、標點、用字遣詞僅 1 有少數正確之處。 (1) 空白 ( 未書寫文字 ) 。 (2) 文字瑣碎、形同未答。 0 (3) 只抄題目或其他試題。 (4) 內容完全離題或錯誤。"
+    }
+  ]
+}

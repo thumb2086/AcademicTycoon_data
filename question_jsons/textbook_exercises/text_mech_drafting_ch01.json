@@ -16,6 +16,374 @@
       "a": 0,
       "reward": 15,
       "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_002",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "2 · 學習製圖之目的在於",
+      "image_url": "",
+      "options": [
+        "看圖",
+        "讀圖和畫圖",
+        "畫圖",
+        "學習畫圖方式 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_003",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "3 · 圖樣係由一組線條與文字所構成, 故繪圖之基本要素為",
+      "image_url": "",
+      "options": [
+        "圖法",
+        "線條與文字",
+        "字法",
+        "寫法 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_004",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "4 · 描述機械中零件之位置及其關係的圖, 稱為",
+      "image_url": "",
+      "options": [
+        "位置圖",
+        "組合圖",
+        "配置圖",
+        "零件圖 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_005",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "5 · 製造機件所用的圖, 通常稱為",
+      "image_url": "",
+      "options": [
+        "設計圖",
+        "機構圖",
+        "製配圖",
+        "工作圖 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_006",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "6 · 工作圖包括零件圖與",
+      "image_url": "",
+      "options": [
+        "組合圖",
+        "立體圖",
+        "立體系統圖",
+        "輪廓組合圖 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_007",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "7 · 將零件裝配在一起, 所繪製之工作圖稱為",
+      "image_url": "",
+      "options": [
+        "標準圖",
+        "配置圖",
+        "外形圖",
+        "組合圖 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_008",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "8 · 下列敘述何者有誤?",
+      "image_url": "",
+      "options": [
+        "剖視圖主要目的在表達物體內部複雜的形狀",
+        "輔助視圖主要在表達物體斜面之實形及大小",
+        "組合圖用來表示機件裝配位置及其間位置",
+        "轉正視圖常用於產品目錄 、 操作說明手冊 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_009",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "9 · 下列敘述何者有誤?",
+      "image_url": "",
+      "options": [
+        "繪製鑄造圖時須考慮機件交角處為圓角",
+        "繪製鍛造圖時須考慮機件交角處為圓角及拔模斜度",
+        "草圖乃設計者在現場以徒手畫方式繪製之圖",
+        "將草圖以鉛筆或上墨方式繪製在圖紙上且註解完整之工程圖稱為藍圖 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_010",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "10 · 國際標準規格簡稱",
+      "image_url": "",
+      "options": [
+        "DIN",
+        "CNS",
+        "ISO",
+        "JIS 。 )11. 下面有關各國統一規格之代號何者有誤? (A)CNS 中華民國國家標準 (C)DIN 德國國家標準 (B)JIS 日本工業標準 (D)ANS 美國工業規格 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_011",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "12 · 製圖的尺度單位是",
+      "image_url": "",
+      "options": [
+        "m",
+        "dm",
+        "cm",
+        "mm 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_012",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "13 · 下列敘述各國之工業標準代號何者有誤?",
+      "image_url": "",
+      "options": [
+        "國際標準化機構, ISO (C) 中華民國國家標準, CAS 22 CH01.indd 22",
+        "",
+        "中華民國國家標準, CAS 22 CH01.indd 22 (B) 日本工業標準, JIS",
+        "美國國家標準, ANSI 。 2022 / 4 / 13 下午 04: 22: 20"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_013",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "14 · 描圖紙之厚薄以",
+      "image_url": "",
+      "options": [
+        "g/m",
+        "lb/in2",
+        "g/mm2",
+        "g/cm 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_014",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "15 · 一般工程圖皆採用 A 系列之圖紙, 所謂 A3 圖紙的大小為 AI 圖紙的幾倍?",
+      "image_url": "",
+      "options": [
+        "1 / 4",
+        "1 / 2",
+        "2",
+        "3 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_015",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "16 · 圖紙上標題欄內不包含",
+      "image_url": "",
+      "options": [
+        "圖名",
+        "圖號",
+        "圖例",
+        "繪圖者 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_016",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "18 · 對於圖紙摺疊下列何者正確?",
+      "image_url": "",
+      "options": [
+        "可隨意摺成適當大小",
+        "圖紙標題欄必須摺在上面",
+        "一般摺成 A5 大小 (B) 由上向下",
+        "由右向左 。 (D) 圖的標題欄應摺在裏頁以防洩密 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_017",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "19 · 需裝訂成冊的圖, 左邊圖框線應離紙邊",
+      "image_url": "",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30 mm 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_018",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "20 · 工程圖紙之摺疊不裝訂成冊, 一般以摺成 A4 為原則 。 現有 A0 圖紙一張, 則需摺幾次?",
+      "image_url": "",
+      "options": [
+        "3 次",
+        "4 次",
+        "5 次",
+        "6 次 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_019",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "22 · 製圖用紙大小 297 × 420 mm 的圖紙稱為",
+      "image_url": "",
+      "options": [
+        "A2",
+        "A3",
+        "A4",
+        "A5 圖紙 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_020",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "23 · 製圖用紙之大小尺度, 其中 594 × 841 mm 是",
+      "image_url": "",
+      "options": [
+        "AO",
+        "AI",
+        "A2",
+        "A3 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_021",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "24 · 下列敘述 CNS 工程製圖紙何者有?",
+      "image_url": "",
+      "options": [
+        "AO 圖紙可裁剪成 4 張 A2 圖紙",
+        "AO 的面積為 1 m2",
+        "長邊為短邊的倍",
+        "A 系列面積是 B 系列的"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_022",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "25 · 下列敘述圖紙何者有?",
+      "image_url": "",
+      "options": [
+        "圖紙若需裝訂成冊時, 應在圖紙左側留 25 mm",
+        "標題欄應置於圖面右下角為原則",
+        "方便置於文書夾中或裝訂成冊保持是將圖紙摺疊成 210 × 297",
+        "摺疊圖紙時其標題欄必須摺在內面, 以免洩密 。 CH01.indd 23 23 2022 / 4 / 13 下午 04: 22: 20"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_023",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "2 · 下列敘述如圖示圖例何者有?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_drafting_ch01/p024_0_0_0_r.png",
+      "options": [
+        "零件表內件號加在標題欄上方, 零件號數填寫次序由上向下",
+        "標題欄應置於如圖面所示右下角 B 欄為原則, 且閱讀方向應與工作圖的閱讀方向一致",
+        "若採用 CNS 工程製圖 A3 系列規格紙繪製, 代表 A3 面積是 A0 面積的 1 / 8 倍",
+        "圖紙若不裝訂成冊時, 圖框距離紙邊的尺度四周均為等距, A0 ~ A2 的尺度為 15mm, A3 、 A4 的尺度為 10mmo 24 2022 / 4 / 13 下午 04: 22: 20 CH01.indd 24"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH01_024",
+      "subject": "機械製圖",
+      "unit": "CH1",
+      "q": "2 · 圖示為某品牌 LOGO 產品設計, 包括 LOGO 拉環與魚吊飾等二款手機五金配件設計 。 請以該品牌 LOGO 在 A3 圖紙上依自己認可的尺度及理念, 衍生設計繪畫幾款外形作品, 不須標註尺度 。 ( 圖形個數由教師配合時間自訂 )",
+      "image_url": "",
+      "options": [
+        "原始圖形",
+        "商標應用五金",
+        "手機防摔指環扣 、 支架用途 A 圖 ( 三 ) 皮而卡登 LOGO 拉環設計 ( 圖片來源: 英國阿多尼斯國際公司 ) (A) 原始圖形 (B) 五金商標 (C) 魚飾以壓鑄後電鍍而成",
+        "皮革圖形以熱壓而成 A 圖 ( 四 ) 皮而卡登 LOGO 魚吊飾五金配件設計 ( 圖片來源: 英國阿多尼斯國際公司 ) 26 2022 / 4 / 13 下午 04: 22: 22 CH01.indd 26"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
     }
   ]
 }

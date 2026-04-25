@@ -1,0 +1,3507 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_LOWER_CH12",
+  "subject": "技術型高中機械群機件原理下冊_PPT",
+  "chapter": {
+    "code": "CH12",
+    "title": "12_制動器"
+  },
+  "title": "技術型高中機械群機件原理下冊_PPT 12 資源 本內",
+  "source_pdf": "machine_elements_lower_ppt/12_制動器.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "資源"
+        },
+        {
+          "type": "heading",
+          "text": "本內"
+        },
+        {
+          "type": "heading",
+          "text": "簡容"
+        },
+        {
+          "type": "heading",
+          "text": "學華"
+        },
+        {
+          "type": "heading",
+          "text": "校興"
+        },
+        {
+          "type": "heading",
+          "text": "之冊"
+        },
+        {
+          "type": "heading",
+          "text": "止"
+        },
+        {
+          "type": "heading",
+          "text": "報來"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "12-1 制 動 器 用 途"
+        },
+        {
+          "type": "heading",
+          "text": "12-1 制動器用途"
+        },
+        {
+          "type": "heading",
+          "text": "12-2 制 動 器 的 種 類 及 構 造"
+        },
+        {
+          "type": "heading",
+          "text": "12-2 制動器的種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "12-3 制 動 器 的 材 料"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "12-3 制動器的材料 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "12-4 制 動 器 的 散 熱 數"
+        },
+        {
+          "type": "heading",
+          "text": "※ 12-4 制動器的散熱"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "12-1 制動器用途"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "制動器 ( brake ) 一般稱為煞(剎)車。"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "制動器的功用是使運動的機械減慢速度或完全停止。制動器是 利用 (1) 機械的摩擦力; (2) 流體的黏滯力; (3) 電磁的阻尼力, 來達到制動的目的。 制動器的良否與制動器本身的制動能力固然有關,但更重要的 是制動器的散熱能力。制動器在制動時,必須吸收動能或位能,"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "將其動能或位能轉換成熱能而散發出去。故制動器的散熱問題"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "82"
+        },
+        {
+          "type": "paragraph",
+          "text": "不容忽視。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "12-2 制動器的種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "制動器依制動的方法,可分為機械式制動器、電磁式制動器及"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "液體式制動器等三大類。 及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "一、機械式制動器"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械式制動器主要是依靠接觸面間的摩擦力來產生制動作用。 其作用不只可以使機械減速,亦可以使機械運動完全停止。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "82"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 帶制動器 ( band brake ) 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "帶制動器主要包括制動帶、制動鼓輪及制動桿等。制動帶可以"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "用繩索、皮帶或柔性的鋼帶繞裝於鼓輪外而成。帶之內側大都"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "以摩擦係數較高的材料作為內襯。鼓輪之材料一般為鑄鐵或鑄"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋼。制動時乃利用槓桿原理把制動帶拉緊,以達到煞車的目的。 帶制動器常用於車床、立式銑床等機械上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "82"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制動器的種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "制動鼓輪"
+        },
+        {
+          "type": "heading",
+          "text": "制動帶"
+        },
+        {
+          "type": "heading",
+          "text": "制動桿"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 作動情形"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 自由體圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12-1 帶制動器"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "O 為固定點,若制動鼓輪以順時針方向轉。設 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "F:緊邊張力。"
+        },
+        {
+          "type": "heading",
+          "text": "1 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "F:鬆邊張力。 及"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "e:自然對數底數 e = 2.718。 μ:摩擦係數。 θ:接觸角(單位:弳度或弧度)。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "83"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "若鼓輪的離心力不計,則 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "設鼓輪之半徑為 r,則作用於鼓輪上的制動扭力矩 T 為"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "83"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "若槓桿長為 L,槓桿尾端所加之外力為 F。取固定點 O 為中心, 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "其合力矩 ΣM = 0 (取順時針方向為正值) 的"
+        },
+        {
+          "type": "heading",
+          "text": "O"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 12-2 所示,制動鼓以逆時針方向轉時,制動扭力矩不變, 原圖 12-1 中鬆邊 F 變為圖 12-2 中緊邊 F。"
+        },
+        {
+          "type": "heading",
+          "text": "2 1"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "83"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "84"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12-2 制動鼓以逆時針方向轉"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 12-3 所示為一種差動式帶制動器 ( differential band brake )。 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "取固定點 O 為支點中心,其合力矩 Σ M = 0 的"
+        },
+        {
+          "type": "heading",
+          "text": "O"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "F 與 F 同為增加制動扭力矩之力,有助於制動效果。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "此種制動器又稱自激勵式制動器 ( self-energizing brake )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "84"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "85"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12-3 差動式帶制動器"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "只要帶與制動鼓一接觸,立即產生制動的作用而成自鎖 ( self 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "locking ),要打開自鎖, F 必須相反方向施力。故在設計時要 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "μθ μθ"
+        },
+        {
+          "type": "paragraph",
+          "text": "使 a 之值略大於 be,使( a – be )之值為正。最好盡可能使 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "μθ 構"
+        },
+        {
+          "type": "paragraph",
+          "text": "a 與 be 接近,則 F 可以減到最小,使操作最省力。"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "85"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制動器的種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 12-1 所示之帶制動器, 輪鼓之直徑為 20cm, 轉向順時針方向 100rpm, L = 80cm, a=20cm, = 270。, = 0 · 2, FI = 100 牛頓 (N), 試求施於桿端之作用"
+        },
+        {
+          "type": "heading",
+          "text": "0.942"
+        },
+        {
+          "type": "heading",
+          "text": "力 F 及扭力矩 T 為若干? (e"
+        },
+        {
+          "type": "heading",
+          "text": "= 2 · 565 )"
+        },
+        {
+          "type": "heading",
+          "text": "3 一 2"
+        },
+        {
+          "type": "heading",
+          "text": "解令 r = 10cm,"
+        },
+        {
+          "type": "paragraph",
+          "text": "rad, = 0 · 2, FI = 100 牛頓 ( N ), L = 80cm,"
+        },
+        {
+          "type": "heading",
+          "text": "a = 20cm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "= 39 牛頓 (N)"
+        },
+        {
+          "type": "heading",
+          "text": "一 2 · 565"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "F2><a 39 × 20"
+        },
+        {
+          "type": "heading",
+          "text": "= 9 · 75 牛頓 (N)"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "80"
+        },
+        {
+          "type": "paragraph",
+          "text": "T ( FI 一 F2 ) × r = ( 100 一 39 ) × 10 = 610 牛頓一公分 (N-cm)"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制動器的種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 12-3 所示之帶制動器, 其規格為 a = 15cm, L= 100cm, b=5cm, = 270。, 摩擦係數為 0 · 2, 鼓輪直徑是 20cm, 試求平衡 200 牛頓一公分 (N-cm) 扭力所需的作 用力 F 為若干? ( e0, 942 = 2 · 565 )"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制動器的種類及構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "令 r = 10cm, = 1 · 5 rad, = 0 · 2, a = 15cm, L = 100cm, b = 5cm T = ( FI 一 F2 ) × r = 200 牛頓一公分 (N-cm)"
+        },
+        {
+          "type": "heading",
+          "text": "200"
+        },
+        {
+          "type": "heading",
+          "text": "= 20 牛頓 (N)...... ○"
+        },
+        {
+          "type": "heading",
+          "text": "FI—F"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "FI"
+        },
+        {
+          "type": "heading",
+          "text": "0.2 × 1.5 × 3.14"
+        },
+        {
+          "type": "heading",
+          "text": "= 2 · 718"
+        },
+        {
+          "type": "heading",
+          "text": "= 2 · 565..."
+        },
+        {
+          "type": "heading",
+          "text": "e"
+        },
+        {
+          "type": "heading",
+          "text": "F2"
+        },
+        {
+          "type": "paragraph",
+          "text": "式代入式得 F2 = 12 · 78 牛頓 (N), FI = 20 + F2 = 32 · 78 牛頓 (N) Mo = F × L 十 FI × b 一 F2 × a = 0 = F × 100 十 32 · 78 × 5 一 12 · 78 × 15 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "191 · 7 一 163 · 9"
+        },
+        {
+          "type": "heading",
+          "text": "= 0 · 278 牛頓 (N)"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "或由公式 ( 9 一 4 ),"
+        },
+        {
+          "type": "heading",
+          "text": "F2><(a—be )"
+        },
+        {
+          "type": "paragraph",
+          "text": "12 · 78 ( 15 一 5 × 2 · 565 )"
+        },
+        {
+          "type": "heading",
+          "text": "= 0 · 278 牛頓 (N)"
+        },
+        {
+          "type": "heading",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 塊制動器 ( block brake ) 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "構造為制動鼓輪之圓周上用一或多塊制動塊,以槓桿之作用壓"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "在制動鼓輪上,藉摩擦力產生制動效果,制動鼓一般是用鑄鐵"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "或鑄鋼製成,制動塊一般採用鑄鐵塊或在鑄鐵塊加上襯料。"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "86"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "86"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12-4 單塊式塊制動器"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了便於分析,當制動塊之長度較短( θ 小於 60 ° )時,假設 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "制動塊與鼓之間的徑向壓力集中於塊的中央位置,其制動扭力 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "矩: 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "上式中, F 為制動鼓與塊之垂直壓力, F 為摩擦力, μ 為摩擦"
+        },
+        {
+          "type": "heading",
+          "text": "n t"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "係數。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "87"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 12-4 所示,鼓輪以順時針方向轉,槓桿之支點位置為 O、 動"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "O、 O 等三種。 的"
+        },
+        {
+          "type": "heading",
+          "text": "2 3"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "1. 當支點位於 O 的位置時,力矩平衡式為 ΣM = 0。"
+        },
+        {
+          "type": "heading",
+          "text": "1 O 1 及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "2. 當支點位於 O 的位置時,力矩平衡式為 ΣM = 0。"
+        },
+        {
+          "type": "heading",
+          "text": "2 O 2"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "87"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "3. 當支點位於 O 的位置時,力矩平衡式為 ΣM = 0。 動"
+        },
+        {
+          "type": "heading",
+          "text": "3 O 3"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "當鼓輪以逆時針旋轉時, F 的方向將成反向,公式改成:"
+        },
+        {
+          "type": "heading",
+          "text": "t"
+        },
+        {
+          "type": "heading",
+          "text": "F t b+F n a"
+        },
+        {
+          "type": "heading",
+          "text": "4. F = (支點 O )"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "F a"
+        },
+        {
+          "type": "heading",
+          "text": "n 本"
+        },
+        {
+          "type": "heading",
+          "text": "5. F = (支點 O 2 ) 頁"
+        },
+        {
+          "type": "heading",
+          "text": "L 數"
+        },
+        {
+          "type": "heading",
+          "text": "88"
+        },
+        {
+          "type": "heading",
+          "text": "F n a−F t b"
+        },
+        {
+          "type": "heading",
+          "text": "6. F = (支點 O )"
+        },
+        {
+          "type": "heading",
+          "text": "L 3 Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "當在支點 O,制動鼓向順時針迴轉時,由公式( 12-5 )與公 動"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "式( 12-6 )得制動扭力矩: 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "制動鼓逆時針迴轉時得制動扭力矩:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "88"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制動器的種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "例題 12-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 12-4 所示之塊狀制動器, 其槓桿支點位於 OI, 制動鼓的直徑為 25cm, 轉速 為 200 卬 m 並傳遞制動扭力矩 T = 200 牛頓一公分 (N-cm), 假設 a=20cm'L= 80cm, b = 10cm, 摩擦係數是 0 · 2, 當制動鼓順時針方向迴轉時, 阻止其迴轉的操作 力 F 為何? 又當制動鼓逆時針方向迴轉時, 所需之操作力 F 為若干? T = 200 牛頓一公分 ( N-cm ), a = 20cm, b = 10cm, L = 80cm, = 0 · 2,"
+        },
+        {
+          "type": "heading",
+          "text": "D = 25cm"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 當順時針方向迴轉時"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "F · rL"
+        },
+        {
+          "type": "heading",
+          "text": "T(a 一 b)"
+        },
+        {
+          "type": "heading",
+          "text": "200 ( 20 一 0 · 2 × 10 )"
+        },
+        {
+          "type": "heading",
+          "text": "= 18 牛頓 (N)"
+        },
+        {
+          "type": "heading",
+          "text": "F ="
+        },
+        {
+          "type": "heading",
+          "text": "0 · 2 × 12 · 5 × 80"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 當逆時針方向迴轉時"
+        },
+        {
+          "type": "heading",
+          "text": "F · rL"
+        },
+        {
+          "type": "heading",
+          "text": "T(a 十 b)"
+        },
+        {
+          "type": "heading",
+          "text": "200 ( 20 十 0 · 2 × 10 )"
+        },
+        {
+          "type": "heading",
+          "text": "= 22 牛頓 ( N )"
+        },
+        {
+          "type": "heading",
+          "text": "F ="
+        },
+        {
+          "type": "heading",
+          "text": "0 · 2 × 12 · 5 × 80"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "雙塊式塊制動器,兩制動塊對稱安裝在鼓輪上,同時煞車,有 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "助於作用力平衡、減輕軸及軸承單方向壓力、增加制動效能。 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "89"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12-5 雙塊式塊制動器"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 鼓式制動器 ( drum brake ) 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "鼓式制動器又稱為內靴式制動器 ( internal-shoe automotive"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "brake ),或稱圓筒制動器,廣為機車、汽車、卡車等需要高煞"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "車能力的場所使用。圖 12-6 所示為液壓式鼓式制動器,內有兩"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "片煞車塊藉著雙動油壓缸的動作來產生制動作用。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12-6 液壓式鼓式制動器"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 12-7(a) 所示為機械式鼓式制動器,利用槓桿作用推轉凸輪 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "產生制動效果,廣為一般機車所採用。圖 12-7(b) 所示為氣壓 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "式鼓式制動器的應用,其制動過程是以空氣壓縮機提供壓縮空 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "氣先過濾(排水)後存入儲氣箱,當煞車踏板踩下時,制動閥"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "打開,引儲氣箱內高壓乾淨的空氣,經前後輪之快釋閥及中繼 閥,推動制動室之膜片,由制動桿與凸輪使煞車靴張開,經高 壓空氣驅動制動器而達到煞車的目的。此種常用於大型的貨車 和客車。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "低壓"
+        },
+        {
+          "type": "heading",
+          "text": "壓力錶"
+        },
+        {
+          "type": "heading",
+          "text": "警告器"
+        },
+        {
+          "type": "heading",
+          "text": "安"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "儲氣箱"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "快釋閥"
+        },
+        {
+          "type": "heading",
+          "text": "制動靴"
+        },
+        {
+          "type": "heading",
+          "text": "制動桿"
+        },
+        {
+          "type": "heading",
+          "text": "中繼閥"
+        },
+        {
+          "type": "heading",
+          "text": "制動鼓"
+        },
+        {
+          "type": "heading",
+          "text": "制動片"
+        },
+        {
+          "type": "heading",
+          "text": "繺車襯片 )"
+        },
+        {
+          "type": "heading",
+          "text": "空氣壓縮機"
+        },
+        {
+          "type": "heading",
+          "text": "支銷"
+        },
+        {
+          "type": "heading",
+          "text": "制動室"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 機械式鼓式制動器"
+        },
+        {
+          "type": "heading",
+          "text": "制動桿"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "od"
+        },
+        {
+          "type": "heading",
+          "text": "凸輪"
+        },
+        {
+          "type": "heading",
+          "text": "制動室"
+        },
+        {
+          "type": "heading",
+          "text": "煞車靴"
+        },
+        {
+          "type": "heading",
+          "text": "煞車襯片"
+        },
+        {
+          "type": "heading",
+          "text": "煞車鼓"
+        },
+        {
+          "type": "heading",
+          "text": "後輪"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "前輪"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12-7 鼓式制動器"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 氣壓式鼓式制動器"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 圓板制動器 ( plate brake ) 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱圓片式制動器,常用於大型工程機械如推土機等。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "91"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12-8 圓板制動器"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 碟式制動器 ( disk brake ) 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱卡鉗圓盤式制動器。此種煞車具有體積小、扭矩大及容易"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "控制之優點。碟式煞車已廣泛的被應用於工業上;其操作力一"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "般由液壓控制,有取代內靴式制動器之勢,如汽車、升降運送"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "車及其它輕型的裝置等都常使用。藉由夾緊所產生之摩擦力來 達到煞車之目的。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "92"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12-9 碟式制動器"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制動器的種類及構造"
+        },
+        {
+          "type": "heading",
+          "text": "卡鉗"
+        },
+        {
+          "type": "heading",
+          "text": "輪子"
+        },
+        {
+          "type": "heading",
+          "text": "套密封"
+        },
+        {
+          "type": "heading",
+          "text": "活塞"
+        },
+        {
+          "type": "heading",
+          "text": "煞車流體"
+        },
+        {
+          "type": "heading",
+          "text": "作用力"
+        },
+        {
+          "type": "heading",
+          "text": "作用力一 -"
+        },
+        {
+          "type": "heading",
+          "text": "作用力"
+        },
+        {
+          "type": "heading",
+          "text": "作用力"
+        },
+        {
+          "type": "heading",
+          "text": "煞車片"
+        },
+        {
+          "type": "heading",
+          "text": "煞車盤"
+        },
+        {
+          "type": "heading",
+          "text": "內軸"
+        },
+        {
+          "type": "heading",
+          "text": "輪螺樁"
+        },
+        {
+          "type": "heading",
+          "text": "心軸"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "一一一接合器"
+        },
+        {
+          "type": "heading",
+          "text": "煞車盤"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 液壓碟式制動器斷面圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 卡鉗原理示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12- IO 碟式制動器"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般而言,碟式煞車具有較佳之散熱效果及較佳之穩定性,無 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "自動煞緊作用,故少有煞車偏向之現象。 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "汽車無論使用鼓式或碟式煞車,在下雨天(或濕滑、低摩擦路"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "面上)行駛時使用緊急煞車之情況下,車輪容易被煞車鎖死而"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "失去抓地力,致使車輛無法控制方向。為了使車輛在濕滑的路 面上或急轉彎時能夠有效控制方向,於是啟用 ABS ( Anti-lock Braking System ) 「防鎖死煞車系統」。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "93"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "二、電磁式制動器 ( electromagnetic brake ) 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉變機械制動能為電能或熱能,或利用電能轉變為電磁阻尼力 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "以達到制動的目的者。 及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 發電機制動器 ( electric generator brake ) 適用於制動作用需較長時間的場所,可應用於鐵路車輛及油電 車。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "93"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 渦電流制動器 ( eddy-current brake ) 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "可用於電聯車、大型汽車之輔助"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "煞車,俗稱渦電流減速裝置。"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "94"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 12-11 渦電流制動器剖面"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "其他尚有利用電磁作用配合機械式制動器來控制煞車。機械未 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "起動前(未送電),機械式制動器呈煞車鎖住狀態,當機械起 的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "動時藉著電磁作用將煞車解除,當電源切斷時,制動器再度回 類"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "到煞車狀態,此種特性可避免電源突然消失而造成人員與機械"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "paragraph",
+          "text": "的損害,特別適用於電梯、升降機、吊車、起重機等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "95"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "三、液體式制動器 ( liquid brake ) 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用液體的黏滯力來降低速度,故無機械式制動器立即停止的 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "效果。適用在油田、礦場、鑽井或運送重物的地方。 及"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "95"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "12-3 制動器的材料"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "制動器的材料必須具備優良的特性,包括:良好的散熱能力、"
+        },
+        {
+          "type": "heading",
+          "text": "材"
+        },
+        {
+          "type": "heading",
+          "text": "料"
+        },
+        {
+          "type": "paragraph",
+          "text": "耐磨性、耐蝕性(抗老化)、耐高溫、高摩擦係數等。"
+        },
+        {
+          "type": "heading",
+          "text": "一、煞車圓盤及煞車鼓"
+        },
+        {
+          "type": "paragraph",
+          "text": "常用材料有鑄鐵、耐熱合金鋼、複合陶瓷材料等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "95"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "二、煞車片 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "常用材料有石棉、非石棉(皮革、木質、紙基)、金屬、碳纖 材"
+        },
+        {
+          "type": "heading",
+          "text": "料"
+        },
+        {
+          "type": "paragraph",
+          "text": "等。其中含石棉已少用(或禁用),因石棉灰屑易造成空氣污 染,妨礙健康。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "96"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 12-13 常用煞車片 圖 12-14 煞車片之標示"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "(富茗汽車企業公司提供) (勝發汽車材料提供)"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "paragraph",
+          "text": "飛機與賽車所使用的煞車片,一般由碳化合物製成,耐高溫但 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "paragraph",
+          "text": "壽命不長,數百公里之後,就必須換新。 的"
+        },
+        {
+          "type": "heading",
+          "text": "材"
+        },
+        {
+          "type": "heading",
+          "text": "料"
+        },
+        {
+          "type": "paragraph",
+          "text": "應用新科技研發之陶瓷煞車片,壽命幾乎與汽車本身的壽命一 樣長,使用期間不必更換新的煞車片。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "96"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制動器的材料"
+        },
+        {
+          "type": "heading",
+          "text": "摩擦係數的設計值"
+        },
+        {
+          "type": "heading",
+          "text": "表 12-1"
+        },
+        {
+          "type": "heading",
+          "text": "接觸面材料"
+        },
+        {
+          "type": "heading",
+          "text": "設"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "乾燥面"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 20"
+        },
+        {
+          "type": "heading",
+          "text": "潤滑面"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 07"
+        },
+        {
+          "type": "heading",
+          "text": "木材面對鑄鐵面"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 25 ~ 0 · 30"
+        },
+        {
+          "type": "heading",
+          "text": "乾燥面"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 40 ~ 0 · 50"
+        },
+        {
+          "type": "heading",
+          "text": "潤滑面"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 15"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "乾燥面"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 35 ~ 0 · 40"
+        },
+        {
+          "type": "heading",
+          "text": "潤滑面"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 25"
+        },
+        {
+          "type": "heading",
+          "text": "模製石棉材料對金屬面"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 30 ~ 0 · 35"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "※"
+        },
+        {
+          "type": "heading",
+          "text": "12-4 制動器的散熱"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "煞車之作用原理是將動能變成熱能,制動作用所產生的熱能必"
+        },
+        {
+          "type": "heading",
+          "text": "散"
+        },
+        {
+          "type": "heading",
+          "text": "熱"
+        },
+        {
+          "type": "paragraph",
+          "text": "須經由煞車零件吸收並發散於大氣中,以避免煞車零件因溫度 過高而失效,所以制動器的設計必以其散熱能力為依據。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "97"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "一、制動器溫度升高因素 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "1. 負載(壓力)的大小。 散"
+        },
+        {
+          "type": "heading",
+          "text": "熱"
+        },
+        {
+          "type": "heading",
+          "text": "2. 摩擦速度(鼓輪速度)的快慢。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 連續使用的時間長短(使用次數頻繁溫度愈高)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 安裝調整及煞車力的平衡。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 散熱面積之大小。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 銜接部位的大小。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "97"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "二、制動器的散熱能力 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "一般生熱率之計算為 散"
+        },
+        {
+          "type": "heading",
+          "text": "熱"
+        },
+        {
+          "type": "paragraph",
+          "text": "F 為正壓力,單位是牛頓( N ); V 為摩擦面相對速度,單位"
+        },
+        {
+          "type": "heading",
+          "text": "n"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "是公尺/秒。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "98"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "制"
+        },
+        {
+          "type": "heading",
+          "text": "若制動器是用來控制重物下降速度,則其生熱量為 動"
+        },
+        {
+          "type": "heading",
+          "text": "器"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "散"
+        },
+        {
+          "type": "heading",
+          "text": "熱"
+        },
+        {
+          "type": "paragraph",
+          "text": "W 為下降重物的重量,單位是牛頓( N ); S 為下降總距離, 單位是公尺。 散熱量則與散熱面積、制動器的面積、空氣循環等因素有關。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般在制動器設計上,要求散熱率大於生熱率很多,以確保制"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "98"
+        },
+        {
+          "type": "paragraph",
+          "text": "動器有良好的制動效果。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch12/p045.jpg"
+    }
+  ]
+}

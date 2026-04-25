@@ -336,6 +336,342 @@
       "a": 0,
       "reward": 15,
       "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_022",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "4 · 0 。 斜角斷屑槽: 如圖 6-8 (D) 示, 與正斜角斷屑槽的磨法相似, 惟斜角改成 0 。, 而與刀面成階梯狀, 其餘尺寸均相同 。 壓板刀片刀座 A 圖 6-8",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch06/p012_0_0_0_r.png",
+      "options": [
+        "壓板式斷屑器 A 圖 6-8",
+        "圓溝式斷屑槽 A 圖 6-8",
+        "",
+        "示, 與正斜角斷屑槽的磨法相似, 惟斜角改成 0 。, 而與刀面成階梯狀, 其餘尺寸均相同 。 壓板刀片刀座 A 圖 6-8 (A) 壓板式斷屑器 A 圖 6-8 (B) 圓溝式斷屑槽 A 圖 6-8 (C) 正斜角斷屑槽 A 圖 6-8 (D) 0 。 斜角斷屑槽"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_023",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "11 · 嚴格遵守砂輪安全操作規定 。 (D) 修整刀鼻半徑 (C) 以砂輪稜角處研磨斷屑槽 A 圖 6-10 銲接式碳化鎢外徑粗車刀研磨 ( 續 ) 〕 捨棄式外徑車刀組裝捨棄式刀片固定於刀柄上, 多數以壓板 (CIamper) 及偏心軸 (Eccentricshaft) 方式鎖固 。 若將捨棄式外徑車刀分解, 零件可如圖 6-11",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_basic_practice_ch06/p014_0_0_0_r.png",
+      "options": [
+        "所示, 包括刀柄 、 壓板 、 壓板螺絲 、 刀座 、 偏心軸 、 止付 ( 側向 ) 螺絲 、 刀片, 以及兩支六角扳手 。 刀柄側向螺絲壓板與固定螺絲捨棄式刀片刀座與偏心軸壓板固定螺絲扳手側向螺絲扳手 (A) 捨棄式外徑車刀分解零件 A 圖 6-11 捨棄式外徑車刀分解與組裝組裝時, 先將偏心軸與刀座放入刀柄前端的刀座對應位置, 再將壓板及壓板螺絲穿入刀柄上端位置, 如圖 6-11",
+        "",
+        "",
+        "修整刀鼻半徑 (C) 以砂輪稜角處研磨斷屑槽 A 圖 6-10 銲接式碳化鎢外徑粗車刀研磨 ( 續 ) 〕 捨棄式外徑車刀組裝捨棄式刀片固定於刀柄上, 多數以壓板 (CIamper) 及偏心軸 (Eccentricshaft) 方式鎖固 。 若將捨棄式外徑車刀分解, 零件可如圖 6-11 (A) 所示, 包括刀柄 、 壓板 、 壓板螺絲 、 刀座 、 偏心軸 、 止付 ( 側向 ) 螺絲 、 刀片, 以及兩支六角扳手 。 刀柄側向螺絲壓板與固定螺絲捨棄式刀片刀座與偏心軸壓板固定螺絲扳手側向螺絲扳手 (A) 捨棄式外徑車刀分解零件 A 圖 6-11 捨棄式外徑車刀分解與組裝組裝時, 先將偏心軸與刀座放入刀柄前端的刀座對應位置, 再將壓板及壓板螺絲穿入刀柄上端位置, 如圖 6-11 (B) 所示"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_024",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "1. 關於車削加工, 下列何者匪?",
+      "image_url": "",
+      "options": [
+        "車床上用的進給速率, 其單位常以 mm / min 表示",
+        "愈硬的材料, 進給速度應愈慢",
+        "愈硬的材料, 切削速度應愈慢",
+        "表面粗糙度要求得愈高, 使用的切削速度也應愈高 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "Metallurgy for the Non-Metallurgist, ASM lnternational, 1998, P4—P6 。 2 · M.C. Shaw, Metal cutting principals, 2nd edition, Oxford University Press, 2005, P316 。 3 · 徐明堅, 最新切削加工技術, 復漢出版社, 1992, P114 ~ P140 4 · S.T. Chen, ㄥ H. Jiang, A force controlled grinding-milling technique for quartz-glass nmcromachining, Journal 0f Materials Processing Technology, V01.216, 2015, P206 ~ P215 。 5 · M.I. Petrescu, Boron nitride theoretical hardness compared to carbon polymorphs, Diamond and Related Materials, vol. 13, 2004, P 1848 ~ P 1853 6 · 黃武良, 天然鑽石的誕生, 科學發展, 493 期, 2014, P54 ~ P64 。 7 · T.H.C. Childs, C.J. Evans, E.C. Browy, J.R. Troutman, E. Paul, Tool Temperatures and Wear in Micro-machining Cu-Ni Alloys with Diamond T001s: Models, Simulations and Experiments, Procedia CIRP, vol. 3 1, 2015, P270 ~ P275 。 8 · 張天津編譯, 工具設計, 大中國圖書公司, P334, 1989 。 9 · ISO 1832: 2012(E), lndexable inserts for cutting tools - Designation, lnternational standard, 5th edition, 2012, P 1 ~ P2 。 123"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_025",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "2 · 下列何種切削情況, 容易產生連續型切屑",
+      "image_url": "",
+      "options": [
+        "切削高硬度材料",
+        "切削高延性材料",
+        "使用高切削速度",
+        "使用高進給速度 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "刀具研磨參考圖 6-10 。 選用具有氧化鋁及碳化矽磨輪的砂輪機, 檢查一切都正常後, 啟動之 。 3 · 雙手持穩刀柄, 先以氧化鋁磨輪粗磨刀片承座, 使符合各隙角及各切角的雛形, 並隨時浸 水日卩 4 完成刀片承座粗磨後, 改用碳化矽磨輪, 研磨碳化鎢刀片各切刃 。 5 雙手持穩刀柄, 刀片承座先接觸砂輪面, 待火花出現後, 再將刀柄徐徐調整適當角度, 同 時研磨切邊角 ( 1 。 ) 及邊隙角 ( 8 。 ), 研磨過程中, 需經常左右穩定的移動, 如圖 6 一 10 (A) 。 如手感覺過熱, 即應停止研磨, 或只將刀柄浸水冷卻, 刀刃部份只能空冷, 切勿浸水, 以 免龜裂 。 6 · 角度漸成形後, 隨時以目測或量角器檢查之, 接續研磨刀端角 ( 12 。 ) 與前隙角 ( 8 。 ), 如圖 6 一 10 ( 。 (A) 切邊角與邊隙角同時研磨 (B) 刀端角與前隙角同時研磨 A 圖 6-10 銲接式碳化鎢外徑粗車刀研磨"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_026",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "3 · 漆黃色刀柄的刀具, 最適合用來切削下列何種材料",
+      "image_url": "",
+      "options": [
+        "灰鑄鐵",
+        "中碳鋼",
+        "淬火鋼",
+        "不鏽鋼金屬 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_027",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "4 · 內徑車刀的 「 懸量部 」 受前端切削力作用後, 不易變形, 意指該車刀柄材料的?",
+      "image_url": "",
+      "options": [
+        "剛性",
+        "強度",
+        "韌性",
+        "硬度大 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_028",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "5 · 相同的切削條件下, 以下何種材料於車削時, 最容易發生 「 積屑刃口 (BuiId up edge) 」 現象?",
+      "image_url": "",
+      "options": [
+        "中碳鋼",
+        "鑄鐵",
+        "黃銅",
+        "鋁合金 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_029",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "6 · 下列切削速度最慢之車刀為",
+      "image_url": "",
+      "options": [
+        "高速鋼",
+        "陶瓷",
+        "工具鋼",
+        "碳化鎢 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_030",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "7 · 高速車削中碳鋼, 宜選的車刀材質是",
+      "image_url": "",
+      "options": [
+        "碳化物",
+        "高速鋼",
+        "高碳鋼",
+        "工具鋼 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_031",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "8 · 下列何種車刀材質硬度較高",
+      "image_url": "",
+      "options": [
+        "工具鋼",
+        "高速鋼",
+        "碳化鎢",
+        "陶瓷 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_032",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "9 · p 類碳化鎢刀具, 通常在刀柄端塗上",
+      "image_url": "",
+      "options": [
+        "紅色",
+        "藍色",
+        "黃色",
+        "黑色 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_033",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "10 · 車削中碳鋼圓桿外徑, 應選用",
+      "image_url": "",
+      "options": [
+        "P",
+        "M",
+        "K",
+        "H.S.S. 材質刀具 。 ) II.K 類碳化物刀具, 通常在刀柄尾端塗以 (A) 黃色 (B) 紅色 (C) 藍色 (D) 黑色 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_034",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "12 · 銲接車刀之填料金屬為",
+      "image_url": "",
+      "options": [
+        "鋁合金",
+        "鋼合金",
+        "銅合金",
+        "錫合金 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_035",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "13 · 下列刀具何者可選用最高轉速",
+      "image_url": "",
+      "options": [
+        "H.s.s.",
+        "P10",
+        "合金工具鋼",
+        "M40 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_036",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "14 · 下列刀具何者可進行重切削",
+      "image_url": "",
+      "options": [
+        "H.s.s.",
+        "P10",
+        "合金工具鋼",
+        "M40 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_037",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "15 · 選用覆層碳化鎢刀具主要目的是",
+      "image_url": "",
+      "options": [
+        "提高耐磨耗性",
+        "增加衝擊力",
+        "改善刀具物理特性",
+        "阻隔加工熱 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_038",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "16 · 滿足車刀斜角或間隙角主要考量因素為工件的",
+      "image_url": "",
+      "options": [
+        "材質",
+        "長度",
+        "表面粗 6-2 糙度",
+        "直徑 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_039",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "17 · 何者係決定車刀隙角與斜角主要因素",
+      "image_url": "",
+      "options": [
+        "車床性能",
+        "工件材質",
+        "加工精度",
+        "工件大小 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_040",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "18 · 車刀後斜角主要作用是",
+      "image_url": "",
+      "options": [
+        "防止摩擦",
+        "引導排屑",
+        "改善表面粗糙度",
+        "阻斷切屑 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_041",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "19 · 車刀刃口研磨一小槽, 主要目的是",
+      "image_url": "",
+      "options": [
+        "使刃口銳利",
+        "增加車刀壽命 6 一 3",
+        "截斷切屑",
+        "提高工件表面粗糙度 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_BASIC_PRACTICE_CH06_042",
+      "subject": "機械基礎實習全冊",
+      "unit": "CH6",
+      "q": "20. 車刀斷屑槽 (Chip breaker groove) 設計, 係利用切屑形成時, 具有?",
+      "image_url": "",
+      "options": [
+        "過高的 6-4 溫度",
+        "過大的切削力",
+        "過高的流動速度",
+        "過大的彎曲應力而產生斷屑 。 122"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
     }
   ]
 }

@@ -1,0 +1,3751 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_UPPER_CH03",
+  "subject": "技術型高中機械群機件原理上冊_PPT",
+  "chapter": {
+    "code": "CH03",
+    "title": "03_螺紋結件"
+  },
+  "title": "技術型高中機械群機件原理上冊_PPT 本丙 學華 校興",
+  "source_pdf": "machine_elements_upper_ppt/03_螺紋結件.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "本丙"
+        },
+        {
+          "type": "heading",
+          "text": "學華"
+        },
+        {
+          "type": "heading",
+          "text": "校興"
+        },
+        {
+          "type": "heading",
+          "text": "之冊"
+        },
+        {
+          "type": "heading",
+          "text": "止連"
+        },
+        {
+          "type": "heading",
+          "text": "籣容"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "3-1 螺 栓 與 螺 釘"
+        },
+        {
+          "type": "heading",
+          "text": "3-1 螺栓與螺釘"
+        },
+        {
+          "type": "heading",
+          "text": "3-2 螺 帽 及 鎖 緊 裝 置"
+        },
+        {
+          "type": "heading",
+          "text": "3-2 螺帽及鎖緊裝置"
+        },
+        {
+          "type": "paragraph",
+          "text": "3-3 螺 栓 與 螺 帽 各 部 名 稱 及 規 格"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "※ 3-3 螺栓與螺帽各部名稱及規格 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "3-4 墊 圈 的 種 類 與 用 途 數"
+        },
+        {
+          "type": "heading",
+          "text": "3-4 墊圈的種類與用途"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "螺紋結件的種類很多且用途廣泛,舉凡一切機械、各種裝置設 備的組裝、連接、鎖緊、定位及調整,都少不了它們。螺紋結 件廣用的種類有螺栓、螺釘與螺帽,而其規格絕大部分都已經 標準化,相當便於大量生產,且具有高度互換性。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺栓與螺釘,一般而言,螺栓直徑在 6.35mm ( 吋)以上,"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺度較大,螺釘直徑在 6.35mm ( 吋)以下,尺度較小;螺"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "栓之桿部有部分可不具螺紋,螺釘之桿部全部是螺紋;螺栓絕"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "大部分都與螺帽配合使用,螺釘則不用螺帽配合,可直接鎖固"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "於連結機件之螺孔內;螺栓可承受較大負重,螺釘可承載負荷 58 較小。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "3-1 螺栓與螺釘"
+        },
+        {
+          "type": "heading",
+          "text": "栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "一、螺栓 釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺栓 ( bolt ) 種類依形狀及用途之不同分述如下: ( 一 ) 貫穿螺栓 ( through bolt ) 如圖 3-1 所示,貫穿螺栓主桿為圓柱形,一端與螺栓頭連為一 體,另一端製成螺紋,中間段圓柱不具螺紋,頭部的形狀分為 六角形及方形兩種。使用時需配合螺帽鎖緊,通常應用在兩連"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "接件都為貫穿孔的地方,螺帽則鎖於機件外。 數"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 實體照片"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 立體組合圖"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 平面組合圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3 一 1 貫穿螺栓"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 帶頭螺栓 ( tap bolt ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-2 所示,又稱帽螺栓,其形狀與貫穿螺栓相同,差異在"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "於使用時螺桿直接穿過一機件貫穿孔(孔內無螺紋),再旋入 另一機件未貫穿之螺紋孔內鎖緊連結,不需使用螺帽。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-2 帶頭螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 螺樁 ( stud bolt ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-3 所示,又稱柱頭螺栓、雙頭螺栓,為兩端都有螺紋之"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓桿,用於機件無法貫穿連接又需拆裝的地方,如汽車引擎或 內燃機之汽缸體。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-3 螺樁"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 地腳螺栓 ( foundation bolt ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-4 所示,又稱基礎螺栓,一端有螺紋,另一端具有彎鉤、"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "棘齒或斜度之形狀,用來固定機器底座於地面上。使用時先將 彎鉤端埋入地面,用水泥敷住,讓螺紋端伸出地面,機器底座 孔放入螺紋端,再用螺帽鎖緊固定。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-4 地腳螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 環首螺栓 ( eye bolt ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-5 所示,又稱鉤頭螺栓,頭部具有圓形環,裝置於機架"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "上,用於吊起機器,方便移動與安裝設備。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-5 環首螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 六 ) 自攻螺栓 ( self-tapping bolt ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-6 所示,以合金鋼做材料,其用途與帶頭螺栓相同,不"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "同處在於自攻螺栓是自己攻製螺紋,故使用時可節省施作時間。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-6 自攻螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 七 ) 鍵式螺栓 ( key-type head bolt ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-7 所示,螺栓一端為螺紋,另一端開鍵槽,並與斜鍵配"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "合使用,以鍵代替螺栓頭或螺帽,具有快速拆裝的特點。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-7 鍵式螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 八 ) 銲接螺栓 ( weld bolt ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-8 所示,又稱銲接柱頭螺栓。螺栓的一端為加工頭(毛"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "頭),可銲接於機器零件或板面上,操作方便,適用於中低負 載。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-8 銲接螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 九 ) 油管螺栓 ( oil pipe bolt ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-9 所示,螺栓有中空油孔,一般用於油路接管,具有高"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "強度、高精密度及不洩漏之特點。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-9 油管螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "( 十 ) 磁性油底殼螺栓 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-10 所示,具強力磁性,除了螺栓功能外尚有吸附引擎內"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "部作動所殘留的鐵粉(屑)之功能,對機油有淨化作用。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-10 磁性油底殼螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 十一 ) 肩螺栓 ( shoulder bolt ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 3-11 所示,螺栓中間為軸,前端"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "heading",
+          "text": "直徑略小製成螺紋,常用於螺栓鎖緊後,"
+        },
+        {
+          "type": "heading",
+          "text": "工作須以該螺栓為軸做相對轉動的地方,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如鉋床之拍擊箱。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-11 肩螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "二、螺釘 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺釘 ( screw ) 與螺栓同為螺紋結件,在使用上最大不同點為螺 釘 栓絕大部分須配合螺帽來鎖緊,但螺釘不用螺帽,而是以被連 接件上的螺紋孔代替螺帽,被連接件除了最後一機件上製有螺 紋孔外,其餘各件之配合孔都為貫穿孔。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "在鎖緊或鬆卸螺釘時,應使用吻合螺釘頭形狀及大小之工具, 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "且鎖緊螺釘的順序應注意以下幾點: 螺"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "heading",
+          "text": "1. 成排大小相同之螺釘,由中央向兩端鎖緊。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 同圓周之螺釘,採相對角交互鎖緊方式進行。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 大小不同螺釘,大螺釘先鎖緊,小螺釘先鬆卸。"
+        },
+        {
+          "type": "heading",
+          "text": "螺釘種類可依形狀及用途之不同分類如下:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 帽螺釘 ( cap screw ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-12 所示,帽螺釘外形與帶頭螺栓略似,主要差別在於帽"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺釘直徑較小,且頭部有多種不同形狀,而帽螺釘與其他螺釘 不同的地方,在於帽螺釘大多由精製完成。常用於尺度精密的 機件。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "63"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-12 帽螺釘"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 機螺釘 ( machine screw ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-13 所示,又稱機器螺釘、機械螺釘,螺釘全部長度均有"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋,大部分頭部刻凹槽,以承接鎖緊與鬆開之扭力,方便拆 裝使用,主要用在小型機件上,如電腦、手機、打字機、鐘錶 及眼鏡等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "63"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-13 機螺釘"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 固定螺釘 ( set screw ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-14 所示,又稱定位螺釘,其頭部與末端有多種型式,以"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "硬化鋼所製,可增加夾制效果,主要用途是阻止兩機件間的相 對運動,或調整兩機件之相對位置。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-14 固定螺釘"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 自攻螺釘 ( tapping screw ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-15 所示,材料為表面硬化鋼,螺釘前端有斜度,具有自"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "攻螺紋的作用,由於螺紋有斜度,所以攻入材料後能抵抗振動, 適用於軟金屬、塑膠、汽車鈑金及薄板之連接工作。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-15 自攻螺釘"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 木螺釘 ( wood screw ) 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 3-16 所示,螺釘前端均製成尖形,且導程較大,頭部刻有"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "一字形或十字形溝槽兩種,此螺釘主要作用是將木材擠開,產 生楔的作用,而不是將木材攪爛,造成容易鬆脫現象。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "65"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-16 木螺釘"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 其他種類之螺釘及螺栓 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了各種不同的工作場合需要,可製成各種不同形式的螺釘或"
+        },
+        {
+          "type": "heading",
+          "text": "釘"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺栓,其種類繁多,不勝枚舉,如圖 3-17 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "65"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "U 形螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "活節螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "六角柱螺釘"
+        },
+        {
+          "type": "heading",
+          "text": "膨脹螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "鬆緊螺栓扣"
+        },
+        {
+          "type": "heading",
+          "text": "偏心螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "模具螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "馬車螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3 一 17"
+        },
+        {
+          "type": "heading",
+          "text": "其他種類之"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "螺釘及螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "環首螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "鉤頭螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "翼形螺釘"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "3-2 螺帽及鎖緊裝置"
+        },
+        {
+          "type": "heading",
+          "text": "帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "鎖"
+        },
+        {
+          "type": "heading",
+          "text": "一、螺帽 緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺帽 ( nut ) 是具有內螺紋的機件,不能單獨使用,須配合螺栓 一起使用。"
+        },
+        {
+          "type": "heading",
+          "text": "常用螺帽種類依形狀或用途不同分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "66"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺帽及鎖緊裝置"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 四角螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 六角螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "(D) 堡形螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "(e) 翼形螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(g) 環首螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "(h) 墊圈底座螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3 一 18 常見螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "1. 六角螺帽:最普遍的螺帽。 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "鎖"
+        },
+        {
+          "type": "heading",
+          "text": "2. 四角螺帽:又稱方螺帽,容易製造,一般用於粗配合。"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "3. 圓螺帽:又稱環螺帽,表面壓花或端面開槽以方便鎖緊, 置"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般用於輕負載之處。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 堡形螺帽:外端加長部分,切有數條徑向凹槽,鎖緊在具有"
+        },
+        {
+          "type": "paragraph",
+          "text": "銷孔之螺栓上,再以開口銷配合安裝,可以防止螺帽鬆脫。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 翼形螺帽:又稱蝶形螺帽,螺帽端面製成蝶形翼,方便手動"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "裝卸,一般用於常裝卸之處。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "66"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "6. 蓋頭螺帽:又稱帽蓋螺帽,螺帽之內螺紋孔為未通孔,且為 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "封閉的半圓頭,用於需防漏或防塵的連接處。 鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "7. 環首螺帽:頭部具有圓形環,裝置於機架上,用以吊起機器"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "paragraph",
+          "text": "以方便移動與安裝。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 墊圈底座螺帽:又稱凸緣螺帽,螺帽底部製成凸緣,具有墊"
+        },
+        {
+          "type": "paragraph",
+          "text": "圈之效果,可增加接觸面積及鎖緊力。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 錐形底部螺帽:底部製成具有 45 ° 角錐形或更小的錐度,使"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "用於接觸面為凹陷之錐面處,有自動校正中心的作用。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "二、螺帽鎖緊裝置 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "鎖"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋結件常因振動、衝擊或其他負載,致使螺帽失去摩擦阻力 緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "paragraph",
+          "text": "而鬆脫,因而失去螺紋連接的效果。 置 鎖緊裝置即是使螺帽延緩或永不鬆脫之裝置,主要可分為藉由 增加機件間之摩擦阻力,延緩螺帽鬆脫時間的「摩擦鎖緊裝置」 ;及利用其他機件,使螺帽永不鬆脫的「確閉鎖緊裝置」。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 摩擦鎖緊裝置 ( friction locking devices ) 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "鎖"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦鎖緊裝置是靠著增加機件間的摩擦阻力,使螺帽不致於鬆"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "paragraph",
+          "text": "脫,但是如果裝置不良或受到較大的衝擊或振動時,摩擦阻力"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "paragraph",
+          "text": "逐漸消失,仍有鬆脫的可能,效果不是絕對的,所以須注意接 觸面之鬆緊度,才能達到鎖緊之目的。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鎖緊螺帽 ( jam nut ):在已鎖緊的螺帽上加鎖另一螺帽, 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "並旋緊至一定的程度,以防止原螺帽鬆動。如圖 3-19 所示, 鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "paragraph",
+          "text": "通常在上面的螺帽較厚,鎖緊時螺帽與螺栓間增加摩擦力, 裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "paragraph",
+          "text": "其鎖固比較安全。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-19 鎖緊螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "2. 螺旋彈簧鎖緊墊圈:加裝一個螺旋彈簧鎖緊墊圈在螺帽下方, 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "當螺帽鎖緊後,因墊圈有向上彈之作用力,使螺帽微微傾斜 鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "paragraph",
+          "text": "產生阻力,造成螺帽與螺栓間之螺紋相互擠壓,增加摩擦面 裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "paragraph",
+          "text": "之摩擦力,以達到防止螺帽鬆脫的效果。注意其旋向應與螺 紋旋向相反,獲得的鎖緊效果較佳。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-20 螺旋彈簧鎖緊墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "3. 彈性止動螺帽:用纖維環套入螺帽與螺栓間,當螺帽旋合時, 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺帽與螺栓緊密配合,可防止發生鬆脫的情況。 鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-21 彈性止動螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鎖緊螺釘:螺帽側面攻一螺紋孔,利用固定螺釘壓入銅片或 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "纖維片等軟質材料,以保護螺紋免受損傷外,並可增加摩擦 鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "paragraph",
+          "text": "阻力,防止螺帽鬆脫。 裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-22 鎖緊螺釘"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "5. 有槽螺帽:或稱槽縫螺帽,在螺帽側邊鋸一槽縫,並於上方 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽孔及攻螺紋,再以小螺釘將該縫槽旋緊,使螺帽上下兩部 鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "paragraph",
+          "text": "分之螺紋擠緊於螺栓之螺紋面上,以達鎖緊的作用。 裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "69"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-23 有槽螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "6. 錐形底部螺帽:具有 45 ° 角錐形或更小的錐度,有自動校正 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "中心的作用。 鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "69"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-24 錐形底部螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "7. 防振鎖緊墊圈:墊圈的鋼齒經鎖緊後能深入機件中,產生防 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "振效果。 鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "69"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-25 防振鎖緊墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 確閉鎖緊裝置 ( positive locking devices ) 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "鎖"
+        },
+        {
+          "type": "heading",
+          "text": "確閉鎖緊裝置為一種非常確"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "實又保險的螺帽鎖緊裝置,"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "除非受到破壞,否則螺帽不"
+        },
+        {
+          "type": "heading",
+          "text": "會鬆脫,常見的確閉鎖緊裝"
+        },
+        {
+          "type": "heading",
+          "text": "置有下列數種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 開口銷"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "70"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-26 開口銷"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "2. 彈簧線鎖緊 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "70"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-27 彈簧線鎖緊"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "3. 翻上墊圈:優點有: (1) 螺栓及螺帽不需鑽孔或切槽,故不會 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "降低強度; (2) 螺帽可固定於任何位置,常應用於內燃機的連 鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "paragraph",
+          "text": "桿與曲軸之鎖緊裝置。 裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "70"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-28 翻上墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "4. 堡形螺帽:便於在螺栓上鑽孔並配合開口銷鎖固,以防止螺 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "帽鬆脫。 鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "71"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-29 堡形螺帽"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "5. 螺帽停止板:或稱螺帽止動板。 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "71"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-30 螺帽停止板"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "6. 軸用螺帽與止退墊圈:常用來固定軸端零件。 帽"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "鎖"
+        },
+        {
+          "type": "heading",
+          "text": "緊"
+        },
+        {
+          "type": "heading",
+          "text": "裝"
+        },
+        {
+          "type": "heading",
+          "text": "置"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "71"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-31 軸用螺帽與止退墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "※"
+        },
+        {
+          "type": "heading",
+          "text": "3-3 螺栓與螺帽各部名稱及規格"
+        },
+        {
+          "type": "heading",
+          "text": "栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "一、螺栓及螺帽各部名稱 帽"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "72"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-32 螺栓及螺帽各部名稱"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺栓及螺帽依適用負載不同,分為「正級」及「重級」兩種級 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "別之規格,一般正常條件使用之螺栓及螺帽為正級規格,若需 螺"
+        },
+        {
+          "type": "heading",
+          "text": "帽"
+        },
+        {
+          "type": "paragraph",
+          "text": "在重負載場合使用,則需採用加大各部尺度之重級規格,其各 各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "paragraph",
+          "text": "級之尺度如表 3-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "72"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "二、螺栓及螺帽之規格 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 公制螺栓規格表示法 帽"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "73"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 英制螺栓規格表示法 栓"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "螺"
+        },
+        {
+          "type": "heading",
+          "text": "帽"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "74"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "墊"
+        },
+        {
+          "type": "heading",
+          "text": "3-4 墊圈的種類與用途"
+        },
+        {
+          "type": "heading",
+          "text": "圈"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "一、墊圈的用途 類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "墊圈 ( washer ) 又稱華司,是當機件連接時,在螺帽與機件間"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "所加裝的金屬或非金屬薄片,其功用與用途如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 增加受力面積減少壓力"
+        },
+        {
+          "type": "heading",
+          "text": "2. 增加摩擦面積減少鬆動"
+        },
+        {
+          "type": "heading",
+          "text": "3. 補救鑽釘孔過大問題 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "4. 改善及保護機件表面"
+        },
+        {
+          "type": "heading",
+          "text": "74"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "墊"
+        },
+        {
+          "type": "heading",
+          "text": "二、墊圈的種類 圈"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "美國國家標準協會 ( ANSI ) 將墊圈依負載分為四級:輕級、中 類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "級、重級及特重級,其規格標註依序包括:公稱直徑、負載等 用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "級及墊圈種類,例如「 φ 12 中級平墊圈」。"
+        },
+        {
+          "type": "heading",
+          "text": "常見的墊圈種類如下列所述:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "75"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "墊"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 普通墊圈 ( plain washer ) 圈"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱平墊圈 ( flat washer ),一般常見形狀為圓形。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "75"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-33 普通墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "墊"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 圓錐形墊圈 ( conical washer ) 圈"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱錐形華司,使用時,會在墊圈上加一超過其彈性限度的負"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "載,使之永久變形,並產生緊密作用,獲得適當的承接面,故"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "此墊圈的鎖緊作用較普通墊圈大,可阻止橫向的移動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "75"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-34 圓錐形墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "51"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "墊"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 螺旋彈簧鎖緊墊圈 ( helical spring locking washer ) 圈"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "高度約等於墊圈斷面厚度的二倍,與螺帽配合時,利用螺旋彈"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "簧鎖緊墊圈的彈力,可增加螺帽與螺栓間的摩擦阻力,防止螺"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "帽鬆脫。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "76"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-35 螺旋彈簧鎖緊墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "墊"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 齒鎖緊墊圈 ( tooth locking washer ) 圈"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱梅花墊圈,可在機件、螺栓頭或螺帽間的承接面上,產生"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "輕微的銑切作用,故具有防振及鎖緊之功效。"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "76"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-36 齒鎖緊墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "墊"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 彈簧墊圈 ( spring washer ) 圈"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺帽鎖緊後,彈簧墊圈受壓變形產生彈力,藉由螺帽與螺栓間"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "產生摩擦阻力,可防止螺帽鬆脫。"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "77"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 3-37 彈簧墊圈"
+        },
+        {
+          "type": "heading",
+          "text": "54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch03/p055.jpg"
+    }
+  ]
+}

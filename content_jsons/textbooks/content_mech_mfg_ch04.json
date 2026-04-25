@@ -1,0 +1,2645 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH04",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH04",
+    "title": "CH4"
+  },
+  "title": "機械製造 Chapter 4 塑性加工",
+  "source_pdf": "mechanical_manufacturing/CH4PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH04",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "塑性加工"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "4-1 塑性加工介紹"
+        },
+        {
+          "type": "heading",
+          "text": "4-2 金屬之熱作"
+        },
+        {
+          "type": "heading",
+          "text": "4-3 金屬之冷作"
+        },
+        {
+          "type": "heading",
+          "text": "4-4 沖壓模具設計與加工"
+        },
+        {
+          "type": "heading",
+          "text": "4-5 塑膠模具設計與加工"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "134"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "欲使金屬成形又不產生切屑有許多種方法:鑄造是以熱量將金屬熔解後產生流動性而 隨同模穴作液態流動成形的方法;粉末冶金則是先將金屬作成粉末狀態,再以壓力迫使在 模穴中作粉態流動而成形; 塑性加工 (Plastic Working) 是以壓力作用在固態金屬上,令其 作固態流動而成形的方式,所需壓力甚大。 塑性加工的成形效率很高,製造精度比普通鑄造高,是目前製造業很倚重的製造方法。 諸如汽車的車殼、曲柄軸、彈簧、墊圈、車牌,家電產品的外殼、加熱線圈、扣件、電線, 輪船之甲板,建築用之鋼筋,化學工業之輸送管,大型發電機之機軸等,都是塑性加工常 見的製品例。"
+        },
+        {
+          "type": "heading",
+          "text": "4-1 塑性加工介紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑性加工如圖 4-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 鍛造"
+        },
+        {
+          "type": "heading",
+          "text": "(b) 滾軋"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-1 塑性加工圖例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 135"
+        },
+        {
+          "type": "heading",
+          "text": "(c) 抽線"
+        },
+        {
+          "type": "heading",
+          "text": "(d) 擠製"
+        },
+        {
+          "type": "heading",
+          "text": "(e) 引伸"
+        },
+        {
+          "type": "heading",
+          "text": "(f) 彎曲加工"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-1 塑性加工圖例 ( 續 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "136"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑性加工的施力,大於降伏應力,而小於極限應力; 如圖 4-2 所示,介於 Y、 M 兩點 之間。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-2 應力 - 應變圖"
+        },
+        {
+          "type": "heading",
+          "text": "一、定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑性加工依加工時材料所處的溫度狀態,可分為 熱作 (Hot Working) 與 冷作 (Cold Working)。所謂熱作是將材料加熱到再結晶溫度以上,施以加工力而成形者,又稱為高溫 加工。其加工成形量大,但尺度精密度差,通常用於初步成形。而冷作是材料處於再結晶 溫度以下 ( 通常不加熱 ) 的成形方式,又稱為常溫加工。其加工成形量小,但尺度精密度高, 適用於完成加工。 以下這個觀念很容易被誤解: 冷作與熱作的分界點為施工時工件溫度 是在再結晶溫度之下或之上,而不是以加熱或不加熱來區別。例如熱作通常要加熱,但有 加熱不一定是熱作,不加熱也不一定是冷作。表 4-1 為常見金屬的再結晶溫度,由表中之 資料可知:鋼加熱到 400 °C來施工,仍不屬於熱作,而鉛在室溫中施工卻是熱作。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-1 常見金屬的再結晶溫度"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬材料的再結晶溫度因下列製程參數而 金屬 再結晶溫度 °C ( °F )"
+        },
+        {
+          "type": "heading",
+          "text": "改變: 鋁 150(300)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 冷作量增大時再結晶溫度降低。 銅 200(390)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 原來的冷作晶粒尺度較小,也會使再結 金 200(390)"
+        },
+        {
+          "type": "paragraph",
+          "text": "晶溫度降低。 鐵 450(840)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 純金屬的再結晶溫度比固溶強化合金低。 鋼 510 ~ 700(950 ~ 1290)"
+        },
+        {
+          "type": "heading",
+          "text": "鎂 150(300)"
+        },
+        {
+          "type": "heading",
+          "text": "4. 增加退火的時間會降低再結晶溫度。"
+        },
+        {
+          "type": "heading",
+          "text": "鎳 590(1100)"
+        },
+        {
+          "type": "heading",
+          "text": "5. 再結晶溫度取決於合金元素。"
+        },
+        {
+          "type": "heading",
+          "text": "銀 200(390)"
+        },
+        {
+          "type": "heading",
+          "text": "鉛、鋅、錫 室溫以下"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 137"
+        },
+        {
+          "type": "paragraph",
+          "text": "冷作能增加金屬的強度、切削性、尺度的正確性及表面粗糙度品質。又由於低溫,少 有氧化的缺點,利於薄片及金屬箔的滾軋。 由於冷作是在再結晶溫度以下加工,材料的晶粒受壓而碎散或變形,無法重行結晶。 這種受外力而屈服的變形晶粒,會建立起反抗變形之力。當加工程度愈大時,反抗之力也 愈大,所需的加工壓力亦相對提高,金屬本身的硬度及強度因而隨之增加。 這種由於晶粒 變形所引起的硬化及加強作用,稱之為 應變硬化 (Strain Hardening) 或加工硬化。應變硬"
+        },
+        {
+          "type": "heading",
+          "text": "化的原因有三:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 原子排列有差排。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 差排移動受阻礙,應力生成而強化。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 原子格子變形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "應變硬化為常用的金屬強化方法之一,銅、鋁等軟金屬在冷作時,可產生應變硬化而 強化。 金屬材料冷作後,內部會造成殘留應力,易使機件損壞。欲消除此種應力,可將金屬 加熱至再結晶溫度範圍以下,施以弛力退火。若將加熱溫度提高到再結晶溫度範圍以上, 保持一段時間,令晶粒重行結晶,則除了可以消除殘留應力之外,還可消除應變硬化現象, 恢復材料原有的延展性,有利後續的再冷作,此種熱處理稱為製程退火。 金屬材料冷作時的加工量,有一定的限度,如超過此限度,可能有破裂之虞。此最大"
+        },
+        {
+          "type": "heading",
+          "text": "限度,依下列數項參數來決定:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 材料延展性高者,加工限度大。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 純金屬的加工限度比合金大。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 結晶粒大的,延展性亦大,加工限度大。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "差排 (Dislocation)"
+        },
+        {
+          "type": "paragraph",
+          "text": "差排是指晶體材料的一種內部微觀缺陷,可視為晶體中已滑動部分 之分界線,會增加後續滑動的阻力。塑性加工時,變形量愈大,差 排愈多,強度也就愈高。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "138"
+        },
+        {
+          "type": "heading",
+          "text": "二、熱作與冷作的比較"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-2 熱作與冷作之比較"
+        },
+        {
+          "type": "heading",
+          "text": "製程"
+        },
+        {
+          "type": "heading",
+          "text": "熱作 冷作"
+        },
+        {
+          "type": "heading",
+          "text": "項目"
+        },
+        {
+          "type": "heading",
+          "text": "機械性質 強度增加 強度、硬度增加,延展性降低"
+        },
+        {
+          "type": "heading",
+          "text": "組織 晶粒變細,氣孔消失 晶粒畸變、應力增加"
+        },
+        {
+          "type": "heading",
+          "text": "工作壓力 小 大"
+        },
+        {
+          "type": "heading",
+          "text": "表面狀況 氧化脫皮 佳"
+        },
+        {
+          "type": "heading",
+          "text": "尺度精度 差 佳"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 熱作的優缺點"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑄錠中的氣孔,在極高的熱作壓力下,逐漸密合而消失。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 金屬中的雜質經加工而破碎,呈細粒狀而均勻分佈,使組織均勻化。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 若加工終了溫度接近再結晶溫度,晶粒沒有足夠的時間成長,所得的晶"
+        },
+        {
+          "type": "heading",
+          "text": "熱"
+        },
+        {
+          "type": "paragraph",
+          "text": "優點 粒較細,可以改善機械性質,如強度及韌性等。"
+        },
+        {
+          "type": "heading",
+          "text": "作"
+        },
+        {
+          "type": "heading",
+          "text": "4. 若加工終了溫度比再結晶溫度高很多,則晶粒有較長的時間成長,所得"
+        },
+        {
+          "type": "paragraph",
+          "text": "的 的晶粒較粗,可增加延展性,對後續的冷作加工有利。 優 5. 熱作所需的變形壓力,遠較冷作為低。"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "heading",
+          "text": "1. 高溫操作危險性增大。"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        },
+        {
+          "type": "heading",
+          "text": "2. 高溫易生氧化,產生鏽皮,致使表面積垢,光平度差。"
+        },
+        {
+          "type": "heading",
+          "text": "缺點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 熱作完了,降溫過程中有冷縮現象,精密度較差。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 高溫作業的設備成本及維護費用比冷作高。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 冷作的優缺點"
+        },
+        {
+          "type": "heading",
+          "text": "1. 不易產生氧化層,表面光滑度得以改進。"
+        },
+        {
+          "type": "heading",
+          "text": "冷"
+        },
+        {
+          "type": "paragraph",
+          "text": "優點 2. 可維持精密的尺度公差。"
+        },
+        {
+          "type": "heading",
+          "text": "作"
+        },
+        {
+          "type": "heading",
+          "text": "3. 產生加工硬化 ( 應變硬化 ),強度及硬度增加。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "1. 延展性降低,對後續的再加工不利。"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "heading",
+          "text": "2. 所需的變形壓力比熱作大。"
+        },
+        {
+          "type": "heading",
+          "text": "缺 缺點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 材料內部產生殘留應力。"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        },
+        {
+          "type": "heading",
+          "text": "4. 金屬結晶產生變形或碎散,電阻變大。"
+        },
+        {
+          "type": "heading",
+          "text": "三、塑性加工的方法"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑性加工的方法很多,諸如:鍛造、滾軋、擠製、引伸、旋壓⋯⋯等。各種加工法可 視需要作冷作或熱作之操作,例如鍛造,可以熱鍛或冷鍛。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 139"
+        },
+        {
+          "type": "heading",
+          "text": "4-2 金屬之熱作"
+        },
+        {
+          "type": "heading",
+          "text": "4-2-1 鍛造"
+        },
+        {
+          "type": "heading",
+          "text": "一、簡介"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍛造是將延展性良好的材料,加熱到再結晶溫度以上,然後以手工或機械操作鍛造工 具,施以鍛打而成各種所需形狀的工作方式。一般機件以切削加工方式成形時,會將胚料 原來之晶粒流向切斷,而使製品之強度減低 ( 如圖 4-3(a) 所示 );鍛造則可使產品的材質細 密,減少內部空孔及缺陷, 且其晶粒呈連續流動的纖維狀 ( 如圖 4 - 3 (b) 所示 ),可獲致最 大的方向性強度,耐衝擊及抗疲勞等機械性質良好。故機械上需要強度大或耐衝擊的部分, 如齒輪、曲軸、連桿、搖臂及各種工具等,都先鍛成毛胚,然後再視需要施以機械加工而 得正確之尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-3 鍛造與切削對晶粒流向的影響"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍛造溫度會影響鍛造的成敗,若以適當的溫度來施工,鍛造品的強度可達鑄件的 2 ~ 5 倍。 表 4-3 為各種材料的最佳鍛造溫度範圍。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 4-3 各種材料之鍛造溫度"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料 最高溫度 ( °C ) 最低溫度 ( °C ) 備註"
+        },
+        {
+          "type": "heading",
+          "text": "普通鍛鋼 1200 750"
+        },
+        {
+          "type": "heading",
+          "text": "高張力鋼 1200 850"
+        },
+        {
+          "type": "heading",
+          "text": "高碳鋼 1150 900"
+        },
+        {
+          "type": "heading",
+          "text": "鎳鋼 1200 850"
+        },
+        {
+          "type": "heading",
+          "text": "高速鋼 1200 1000"
+        },
+        {
+          "type": "heading",
+          "text": "海軍黃銅 800 650"
+        },
+        {
+          "type": "heading",
+          "text": "錳青銅 750 500 1.5%Mn 以下"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "140"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料經過鍛造而不會產生破裂的最大變形能力稱為 可鍛性 (Forgeability)。 可鍛性試 驗通常是以圓柱形試件作鍛粗測試,然後觀察圓柱表面是否產生裂縫; 產生裂縫前的變形 量越大,可鍛性越高。可鍛性之高低與下列數項參數有關:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 純金屬比合金高。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 硬度越低,延展性越高,則可鍛性越高。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 晶粒粗者,比晶粒細者高。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 金屬內所含之雜質多者,可鍛性降低。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 熱作比冷作高。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 鍛造時,容易產生應變硬化者,可鍛性低。"
+        },
+        {
+          "type": "heading",
+          "text": "二、鍛造的方式"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍛造由其使用的設備或鍛打方式的不同,可分為下列幾種型式: ( 一 ) 手工鍛造 (Hammer Forging) 又稱為鐵匠鍛造,乃是利用手工具在鐵砧上鍛打鍛件的鍛造法。此法對人工技術要求 高,而鍛件的精密度差,並不適用於大量生產,但在量少而種類多的修護工作,仍有其重 要性。 圖 4-4 所示者為手工鍛造的操作情形。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-4 手工鍛造操作例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 141"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 開模鍛造 (Open-die Forging) 開模鍛造通常以機力鍛打。金屬鍛打成形時,並非藉著完全封閉的模穴來限制鍛件三 度空間之流動,而僅以簡單形狀之模具及輔助工具來進行反覆鍛打。"
+        },
+        {
+          "type": "heading",
+          "text": "採用開模鍛造的理由如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鍛件之尺度太大,無法以閉模鍛造來施工。例如大型的船用主軸及渦輪發電機之"
+        },
+        {
+          "type": "paragraph",
+          "text": "主軸。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 胚料須用開模鍛造的方法,以鍛打出其特別要求的晶粒流向及機械性質。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 少量生產時,以閉模鍛造法來生產,由於模具費用高,不合經濟性的需求。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 交貨時程過緊,沒有充裕時間製作模具。"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於開模鍛造需要控制鍛打之衝程與力量之大小,不大適合使用重力式落錘鍛機及大 部分的機械式壓鍛機。通常小鍛件選用空氣錘鍛機,大鍛件用液壓錘鍛機。 在開模鍛造中所用的模具形狀都很簡單,通常以上下一組的模具來進行鍛打。常用之 模具如圖 4-5 所示,有四種類型:即平模、 V 形模、曲形模或其間任兩者的組合。模具通 常以鳩尾座或螺栓鎖住的方式裝在鍛機上。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-5 開模鍛造之模具"
+        },
+        {
+          "type": "paragraph",
+          "text": "開模鍛造常用如圖 4-6 所示之簡單輔助工具來做開 槽、延伸、鍛彎及鍛平等工作。 開模鍛造之胚料加熱溫度,採用表 4-3 之上限值。 模具通常不須預熱,以便加潤滑劑。以鋼件為例,開模 鍛造所產生的氧化鏽皮 ( 鱗皮 ) 比閉模鍛造高約 3 ∼ 5%。 圖 4-7 所示者為二種開模鍛造之加工例。為了使金"
+        },
+        {
+          "type": "heading",
+          "text": "屬的流動能確實而充分,並避免過分激烈,往往將全部"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍛造過程分成若干級,每級的變化為漸進式,以利控制 ▲ 圖 4-6 開槽與定位工具之形狀 其流向。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-7 基本開模鍛造操作及例子 ( 取材自參考書目 (14)) ( 三 ) 閉模鍛造 (Closed-die Forging) 閉模鍛造如圖 4-8 所示,將金屬放在兩個成形模具之間,藉鍛機施加壓力,使金屬 充滿模穴成為所需之產品。胚料通常以圓桿或方桿切割出適當的長度,其體積除了充滿 模穴所需之外,還須加上形成溢料的部分, 溢料可避免上、下模互相撞擊,並迫使胚料 充滿模穴。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-8 閉模鍛造"
+        },
+        {
+          "type": "heading",
+          "text": "大部分的鍛件都採用閉模鍛造,其理由如下:"
+        },
+        {
+          "type": "heading",
+          "text": "閉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 適合大量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "模"
+        },
+        {
+          "type": "paragraph",
+          "text": "優點 2. 尺度穩定,複製性良好。 鍛 3. 無人工技術之要求。"
+        },
+        {
+          "type": "heading",
+          "text": "造"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "paragraph",
+          "text": "優 1. 模具費用高,不適用於小量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "缺點"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺 2. 鍛模設計不易,常須不斷地以嘗試錯誤法試鍛。"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 143"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 端壓鍛造 (Upset Forging) 如圖 4-9 所示,此法是由側方夾持均勻直徑的桿料,而以鍛錘由頭端順軸向施力鍛打, 使其頭端變粗,或鍛成某種形狀,所以又稱為鍛粗。鍛粗時, 伸出於夾持模以外的桿料長 度,不得超過直徑的 2 ~ 3 倍,否則桿料會彎曲而不是單純的受壓變粗。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-9 端壓鍛造"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 4-10 所示者之螺栓頭部就是以端壓鍛造法製成。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-10 端壓鍛造螺栓頭"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍛粗不但可鍛實體材料的頭端,還可將實體的桿件鍛成中空的鍛件,如砲彈殼或螺旋 槳飛機星形排列之汽缸等。 圖 4-11 所示的是星形汽缸的施工程序,工件由上而下,經四組 鍛模依序鍛造後,再將餘料剪除即可。 ( 五 ) 滾軋鍛造 (Roll Forging) 滾軋鍛造如 4-12 所示,此式機器的兩個滾子並非百分之百為圓形,而是依需要切除若 干部分。當桿料由兩個滾輪驅動通過時,除了滾軋動作外,兩滾輪之輪面距離由大變小時, 會產生鍛造作用,故名滾軋鍛造。 滾軋鍛造之製品斷面會依輪面形狀而改變,其產品有車 軸、刀片、鏨子、撬桿及錐形管等。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "144"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-11 星形汽缸的鍛粗 ( 取材自參考書目 (3)) ▲ 圖 4-12 滾軋鍛造 ( 六 ) 壓力鍛造 (Press Forging) 鍛錘撞擊的時間如果太短,鍛件上的塑性變形大都集中在表面部分,較難達到內部。 若 利用緩慢的擠壓作用來施力,壓力就可達到鍛件的中心部分,而獲得內外均一的優良品 質,此種鍛造方式稱為壓力鍛造,簡稱壓鍛。 壓鍛通常選用直立式壓床,其動力可用機械式或液壓式。 其加工對象以形狀對稱、表 面需光滑且精密度要求較高的工件為宜,對於形狀複雜的工件較不適合。 ( 七 ) 旋轉型鍛 (Rotary Swaging) 旋轉型鍛法如圖 4-13 所示,簡稱型鍛,可以用來縮減圓桿或管子的頭端直徑。 當中間 的圓形旋轉軸轉動時,位於轉軸滑槽內的兩半模子因離心力的作用而張開,如圖 4 - 13 (a) 所示,因滾子的擠壓而閉合,如圖 4 - 13 (b) 所示。 如此反覆而迅速的分開與閉合的動作, 產生壓力及衝擊兩者的綜合作用,使工件的頭部形成所需的形狀。 以此法製成的零件,有 自動鉛筆、雨傘柄部及金屬傢俱的腿部等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-13 旋轉型鍛 ( 取材自參考書目 (25))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 145"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 八 ) 內孔造形 (Intraforming) 內孔造形也是一種冷鍛加工法。操作時,將空心的胚料套在心軸狀的模子上,送入型 鍛機上施壓鍛造。材料受壓擠而圍繞心軸成形,所得的製品內部形狀,與心軸完全相同。 圖 4-14 所示為: (a) 胚料、 (b) 心軸及 (c) 成品三者的示意圖。胚料可用鐵金屬或非鐵金屬 的鍛造件、粉末冶金件及管件等。 其成品有栓槽孔 ( 如圖 4 - 15 所示 )、內齒輪,以及特殊 形狀的內孔。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-14 內孔造形 ( 取材自參考書目 (23))"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-15 栓槽孔"
+        },
+        {
+          "type": "heading",
+          "text": "三、鍛造機"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍛造機常用的有液壓機與落錘鍛造機。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 液壓機"
+        },
+        {
+          "type": "paragraph",
+          "text": "液壓機以等速率大負載的方式鍛造,由於有限壓閥之設計,當負載超過機器的設定容 量時,機器將會自動停止。 與落錘鍛造機相比,液壓機的生產速度比較慢,初期投資成本 高,但所需的保養最少。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 落錘鍛造機"
+        },
+        {
+          "type": "heading",
+          "text": "落錘鍛造機之錘體及沖柱係以機械摩擦、壓縮"
+        },
+        {
+          "type": "heading",
+          "text": "空氣、蒸汽或油壓推動,錘體落下可藉助重力、空"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓、蒸氣或油壓。依其鍛錘落下時所藉助之能量, 可分為重力落錘、氣壓落錘與油壓落錘。重力落錘"
+        },
+        {
+          "type": "heading",
+          "text": "之效率低、鍛造力小; 油壓落錘鍛造力大,適用於"
+        },
+        {
+          "type": "paragraph",
+          "text": "大鍛件;氣壓落錘之速度快,適用於小鍛件。 此種 機器的工作速度很高,每分鐘可鍛打數百次。 由於"
+        },
+        {
+          "type": "heading",
+          "text": "鍛造速度快,鍛模與工件之接觸時間短,可令工件"
+        },
+        {
+          "type": "heading",
+          "text": "維持在高溫、高可塑性之狀態下鍛造,所以可以鍛"
+        },
+        {
+          "type": "paragraph",
+          "text": "造形狀複雜或斷面較薄的製品。 圖 4-16 所示者為氣壓落錘的示意圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-16 氣壓落錘"
+        },
+        {
+          "type": "heading",
+          "text": "4-2-2 滾軋"
+        },
+        {
+          "type": "heading",
+          "text": "一、簡介"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾軋是將金屬材料置於上下兩個反向轉動的滾輪之間,以連續塑性變形的方式通過, 達到軋薄或改變斷面形狀目的的加工法。如圖 4 - 17 所示,此法不適合使用沖壓床施工。 這種以材料與滾輪間的摩擦力,將材料引入滾輪間的成形方式,極適合大量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-17 滾軋加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾軋之效率非常高,所以塑性加工的製品大約有 90 % 經由滾軋直接製成成品或半成 品。 建築用之鋼筋為前者的加工例;將長條狀之滾軋鋼棒切成一段一段,再加以鍛造則為 後者之加工例。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 147"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾軋的程序如圖 4-18 所示,可分為下列兩階段:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 將鋼錠加熱到 1,200 °C,滾軋成中間形狀──中塊、小塊或扁塊等。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 將上述中間製品軋製成板、桿、結構型材、管、鋼筋及薄片等。如圖 4-18 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-18 滾軋製程與製品"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "148"
+        },
+        {
+          "type": "heading",
+          "text": "二、滾軋機"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾軋機的滾輪材質一般為鑄鐵、鑄鋼或鍛鋼,小直徑者還可用碳化鎢製造。有下列幾"
+        },
+        {
+          "type": "heading",
+          "text": "種組合方式:"
+        },
+        {
+          "type": "heading",
+          "text": "工件通過滾輪後,滾輪停止轉動,調近兩滾輪中心距,"
+        },
+        {
+          "type": "heading",
+          "text": "二"
+        },
+        {
+          "type": "heading",
+          "text": "再反向轉動將工件滾回,如此反覆操作,直到獲得所"
+        },
+        {
+          "type": "heading",
+          "text": "重"
+        },
+        {
+          "type": "paragraph",
+          "text": "需厚度為止。此式滾軋機的優點為調整範圍大,能適"
+        },
+        {
+          "type": "heading",
+          "text": "往"
+        },
+        {
+          "type": "paragraph",
+          "text": "應各種尺度的加工,斷面縮減速度快。而缺點是工件"
+        },
+        {
+          "type": "heading",
+          "text": "復"
+        },
+        {
+          "type": "heading",
+          "text": "的長度受運送長度的限制,且須克服滾輪每次反轉及"
+        },
+        {
+          "type": "paragraph",
+          "text": "式 工件反向移動的慣性,浪費甚多能源。如左圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "如左圖所示, 三個滾輪定向迴轉,工件在上及中滾輪"
+        },
+        {
+          "type": "heading",
+          "text": "三"
+        },
+        {
+          "type": "heading",
+          "text": "間向右滾過後,床檯往下移動,工件在中及下滾輪間"
+        },
+        {
+          "type": "heading",
+          "text": "重"
+        },
+        {
+          "type": "heading",
+          "text": "向左滾過,如此反覆操作,由慣性力所造成的動力消"
+        },
+        {
+          "type": "heading",
+          "text": "往"
+        },
+        {
+          "type": "paragraph",
+          "text": "耗即可克服。 此法的優點是設備費用低、生產速度快。"
+        },
+        {
+          "type": "heading",
+          "text": "復"
+        },
+        {
+          "type": "heading",
+          "text": "而缺點則是工件每次通過滾輪的速度不同,在時間控"
+        },
+        {
+          "type": "paragraph",
+          "text": "式 制上較困難。"
+        },
+        {
+          "type": "heading",
+          "text": "四"
+        },
+        {
+          "type": "paragraph",
+          "text": "此式有背托滾子,支持力較大,可作寬板的滾軋。如"
+        },
+        {
+          "type": "heading",
+          "text": "重"
+        },
+        {
+          "type": "paragraph",
+          "text": "左圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "式"
+        },
+        {
+          "type": "heading",
+          "text": "如左圖所示,當上下兩背托滾子轉動時,其周圍的行星"
+        },
+        {
+          "type": "paragraph",
+          "text": "工作滾輪可同時滾軋工件。 由於小直徑滾輪與材料的接"
+        },
+        {
+          "type": "heading",
+          "text": "觸面積小,可更有效地將滾軋負載傳遞到材料上,所以"
+        },
+        {
+          "type": "heading",
+          "text": "行"
+        },
+        {
+          "type": "paragraph",
+          "text": "斷面減縮比可較其他滾軋機大。此法因其行星工作滾輪"
+        },
+        {
+          "type": "heading",
+          "text": "星"
+        },
+        {
+          "type": "heading",
+          "text": "無法與材料產生有效的摩擦,不能將材料咬入,自行滾"
+        },
+        {
+          "type": "heading",
+          "text": "式"
+        },
+        {
+          "type": "paragraph",
+          "text": "軋,故須有進料滾輪幫助材料前進。行星工作滾輪滾軋"
+        },
+        {
+          "type": "heading",
+          "text": "後會在材料表面形成波浪狀,須再經精軋機軋過,以獲"
+        },
+        {
+          "type": "paragraph",
+          "text": "得較佳的表面狀況。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 149"
+        },
+        {
+          "type": "paragraph",
+          "text": "此式有多種不同組合的背托滾子,可加強中間兩個滾輪的作用力,且可使滾輪間的間 隙保持不變,如下圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "叢"
+        },
+        {
+          "type": "heading",
+          "text": "集"
+        },
+        {
+          "type": "heading",
+          "text": "式"
+        },
+        {
+          "type": "heading",
+          "text": "三、滾軋的方式"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 平板滾軋 (Flat Rolling) 滾軋為平板的唯一加工法,以鋼板為例,小至 3mm 以下之板金,大至 300mm 之大鍋 爐用鋼板,均可滾軋。甚至 薄至 2 μm 之金屬箔,也必須以滾軋法配合抽製法來加工。 初步的平板滾軋採用熱軋法,不但省力,而且有較大的斷面縮減率。完工滾軋則採用 冷軋法,以便獲得較高的尺度精度及表面品質,並有較好的機械性質。此種冷滾軋稱為 調 質滾軋 (Temper Rolling) 或 表皮滾軋 (Skin Pass)。 為了提高生產力,可將兩層或更多層的金屬疊在一起滾軋,稱之為 疊層滾軋 (Pack Rolling)。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 棒材滾軋"
+        },
+        {
+          "type": "paragraph",
+          "text": "棒材滾軋之胚料與最終產品之斷面形狀並不相同。以圖 4-19 所示之圓棒滾軋為例,方 形小胚初步被軋扁,接著軋回方形,如此方→扁→方→扁不斷重複,斷面逐漸縮小,直到 最後一步才軋成圓棒。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-19 棒材滾軋 ( 取材自參考書目 (4))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "150"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 螺紋滾軋"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺紋滾軋是將具有適當可塑性的圓形金屬胚料,置於往復運動的平板模或迴轉運動的 圓滾模間,以適當的壓力軋成螺紋的牙紋。 由於滾軋時,胚料向外流動形成牙頂,所得 的成品外徑比胚料大。此法不會導致材料的損失,與車製螺紋相較可節省材料約為 16 ~ 25 %。 例如 M6 × 1 的螺紋,可節省 20.5% 的材料。且其螺紋部分呈纖維狀組織,強度大為 增加。 螺紋的滾軋,因其模子的不同,可分為平板模滾軋與圓滾模滾軋兩種。內螺紋的滾軋 是用無溝螺絲攻來施工,加工時應充分加注潤滑劑。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 平板模滾軋法"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 4-20 所示,將圓桿胚料置於固定的下模與活動的上模之間。活動模往復運 動並往下施壓,在一個行程內將胚料搓成螺紋。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-20 平板模滾軋法"
+        },
+        {
+          "type": "heading",
+          "text": "2. 圓滾模滾軋法"
+        },
+        {
+          "type": "paragraph",
+          "text": "胚料以迴轉的圓滾模搓成螺紋。如圖 4-21 所示,可 用的滾軋機型式有單滾、雙滾及三滾等三種。滾軋時胚 料受滾輪之摩擦力驅動,而與滾輪反向迴轉。同時滾輪"
+        },
+        {
+          "type": "heading",
+          "text": "對胚料作徑向進給,到達適當深度後,稍停片刻,待工"
+        },
+        {
+          "type": "paragraph",
+          "text": "件迴轉超過一圈後,再將滾輪退至原位置。如圖 4-22 所 示為螺栓。 ▲ 圖 4-22 螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-21 圓滾模滾軋法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 151"
+        },
+        {
+          "type": "heading",
+          "text": "滾軋螺紋的優缺點:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 材料產生應變硬化,可增進其抗拉、抗剪及抗疲勞強度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾 2. 牙形精確,表面光度高。 軋 優點 3. 節省材料,胚料外徑約等於滾製完成螺紋的節徑。 螺 4. 生產速度快,適用於大量生產。 紋 5. 螺紋形狀有多種變化。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺 1. 滾模較貴,少量生產不經濟。 點 缺點 2. 胚料以塑性流動的方式形成牙頂,故製品的大徑尺度不易控制。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 材料硬度超過 37HRC 者,無法滾軋。"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 環滾軋 (Ring Rolling)"
+        },
+        {
+          "type": "paragraph",
+          "text": "環滾軋如圖 4-23 所示,將一個厚度較大之環狀工件放在主驅動滾輪與壓力滾輪之間, 利用滾軋力將斷面軋薄,擴張成直徑較大的環。如利用成形滾輪可滾軋出不同的環狀工件, 例如腳踏車輪框 ( 如圖 4-24 所示 )、火箭、齒輪圈、渦輪、球軸承、滾珠軸承環及管的加 強環等。 環滾軋視工件材料的尺度、強度及延展性的不同,可依需要採用冷滾或熱滾。環滾軋 的主要優點為生產時程短、節省材料及尺度精度高。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-23 環滾軋 ▲ 圖 4-24 腳踏車輪框"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "152"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 斜滾軋 (Skew Rolling)"
+        },
+        {
+          "type": "paragraph",
+          "text": "斜滾軋是將金屬圓桿餵至如圖 4-25 所示的滾軋輪間隙中,滾製出圓球形粗胚,熱處理 硬化之後進一步用無心磨削法精修,最後再研磨成最終尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-25 斜滾軋"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 六 ) 管子滾軋 (Tube Rolling) 滾軋法也可以製造無縫的鋼管,將於 P.157 ( 二 ) 無縫管的製造中詳細說明。"
+        },
+        {
+          "type": "heading",
+          "text": "4-2-3 其他熱作加工法"
+        },
+        {
+          "type": "heading",
+          "text": "一、 擠製 (Extrusion)"
+        },
+        {
+          "type": "paragraph",
+          "text": "擠製是將可塑性材料放置在擠壓室中,以液壓沖柱施加壓力,使其通過擠製模之模孔 而成斷面均一之長條狀製品。 除金屬外,塑膠、橡膠及黏土均可擠製。其製品有桿、管、 裝璜緣條、鋁門窗框、結構型材、彈殼,以及電纜的鉛覆層等。如圖 4-26 所示,斷面極富 變化。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-26 各種擠製品的截面形狀"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 153"
+        },
+        {
+          "type": "paragraph",
+          "text": "擠製法的優點有:強度高、精度高、表面光平、產量大、模具費用低,以及長度不受 限制等。但此法亦有若干缺點,例如:製品斷面必須均一不變、生產速度慢,僅約為滾軋 法的三分之一。"
+        },
+        {
+          "type": "heading",
+          "text": "擠製依其應用的不同,可以分為下列三種:"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 直接擠製 (Direct Extrusion) 如圖 4-27 所示, 將一塊已加熱至規定溫度的金屬圓柱體, 放入能承受高壓的筒狀模內。 筒之一端為擠製孔模,另一端放入一塊墊板。沖柱受液壓推動,作用於墊板,迫使金屬通 過模孔成為製品。 此法之沖桿前進方向與製品擠出之方向一致。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-27 直接擠製"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 間接擠製 (Indirect Extrusion) 間接擠製如圖 4-28 所示,與直接擠製最大的不同是:擠製孔模置於沖柱的前端,當沖 柱往前施壓時,材料由模孔經沖柱的空心處向後流出,沖柱與製品的移動方向相反。 此法 的優點在於原料在筒狀模內無滑動作用,因此沒有摩擦阻力,沖柱所需壓力減少。 但其沖 柱必須為中空,機器的構造較複雜,且擠製品得不到適當的支持為其缺點。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-28 間接擠製"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "154"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 覆層擠製 (Sheathing Extrusion) 如圖 4-29 所示,將低熔點的金屬液注入模子上方的容器內,金屬液在活塞 ( 圖中未畫 出 ) 的推動下,進入模孔,沿著纜線周圍形成一層均勻的被覆層。此法通常用在電纜 ( 如 圖 4-30 所示 ) 或鋼索的覆層處理。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-29 覆層擠製 ( 取材自參考書目 (15))"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-30 電纜"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 155"
+        },
+        {
+          "type": "heading",
+          "text": "二、 旋壓 (Spinning)"
+        },
+        {
+          "type": "paragraph",
+          "text": "旋壓如圖 4 - 31 所示,依完工溫度是比金屬的再結晶溫度高或低,可分為熱旋壓與冷旋 壓。熱旋壓係以低熔點金屬之厚圓盤為原料,在高速旋轉的模子上,用壓力使其隨模子的 形狀而造形。此法之原料雖然沒有預先加熱,但旋壓之後,工件即因摩擦阻力而急速生熱, 使金屬維持在高於其再結晶溫度的可塑狀態下成形,故稱之為 熱旋壓 (Hot Spinning)。 模 子裝在構造簡單的車床夾頭上,圓盤形原料用尾座頂壓於模子上,而旋壓的工具為鈍頭工 具或小滾子。 若旋壓物為熔點較高之鋼板,旋壓產生之摩擦熱並未達到其再結晶溫度,則屬於 冷旋 壓 (Cold Spinning)。 此法的加工物為對稱的圓形狀,例如:盤子形、球面形、圓筒形或圓錐形等。如圖 4 - 32 所示之不鏽鋼鍋蓋就是用旋壓法製成。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-31 旋壓"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-32 不鏽鋼鍋蓋"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "heading",
+          "text": "三、管子的製造"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬管可分為有縫管及無縫管兩大類:有縫管係以鋼板捲成後,再將接縫銲接而成。 此法製造容易且價廉,但因接縫的強度較低,故僅能作低壓的用途,例如:結構架、立柱, 以及水、氣及廢液體的輸送管等。 無縫管的強度大,但製造費用亦高,通常用於輸送高溫 或高壓的氣體及化學液體。 有縫管的製造尺度可比無縫管徑大得多。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 有縫管的製造"
+        },
+        {
+          "type": "heading",
+          "text": "有縫管有下列三種製法:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 對接法 (Butt Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂對接法,是指管子捲成後,在銲接溫度作相對加壓,使管子縫產生對頭銲 接的接合方式。可分為間斷式與連續式兩種:前者以一根一根的管子單獨製造;後 者用成捲的板條作連續不斷的銲接成管,而於適當的長度切斷。兩者所用的原料板 條邊緣皆切成小小的斜角,以期捲成圓管後接縫能密接。 在間斷式銲接法中,首先將定長的板條一端剪成 V 字形,置於加熱爐中加熱至 銲接溫度。再以鉗子夾住 V 形端,將板條拉過如圖 4-33 之銲接鐘。板條一方彎成 圓管,同時對頭部位受擠壓而自動銲接起來。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-33 間斷式對頭銲接法"
+        },
+        {
+          "type": "paragraph",
+          "text": "連續式銲接法如圖 4-34 所示。板條通過加熱爐時,火焰直接噴在邊緣上,使其 達到銲接溫度。 然後經一連串水平及垂直裝置的滾子滾成圓筒形, 並自動完成銲接。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 搭接法 (Lap Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "搭接法的板條捲成管形後,其接縫處以雙層互相疊置。加熱至銲接溫度後,置 於滾軋機上,當滾子轉動時,搭接處受滾子及心軸間的壓力而銲接在一起。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電阻對接法 (Electric Butt Welding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "與前述兩法類似,鋼板捲成圓管後,經過兩個圓盤滾子狀的電極,由電流通過 時所產生的電阻熱將接縫部位銲合。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 157"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-34 連續式對頭銲接法 ( 取材自參考書目 (3))"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 無縫管的製造"
+        },
+        {
+          "type": "heading",
+          "text": "無縫管有下列三種製造方法:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 穿孔法 (Piercing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "穿孔法又稱管子滾軋 (Tube Rolling),係將實心圓桿加熱到熱作溫度,置於兩 個錐形滾輪之間。滾輪轉動時,帶動圓桿一面迴轉,一面前進。在兩個滾輪間有一 個固定的心軸,前端呈尖錐狀,可將前進的桿料穿刺成中空狀的無縫管。"
+        },
+        {
+          "type": "heading",
+          "text": "全部施工過程如圖 4-35 所示,其程序如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 實心圓桿穿刺成中空狀,如圖 4-35(a)。 (2) 空心圓管在兩個有槽的滾輪之間軋過,經心軸上的短柱塞修正,可改正內 徑尺度及管壁厚度,同時將長度引伸增長。如圖 4-35(b)。 (3) 管料經捲軸機矯直,同時軋光表面,達到相當的光平程度。如圖 4-35(c)。 (4) 最後經尺度矯正滾輪修正,得精確的管子。如圖 4-35(d)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-35 無縫管之製作 ( 取材自參考書目 (3))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "158"
+        },
+        {
+          "type": "heading",
+          "text": "2. 管子擠製法 (Tube Extrusion)"
+        },
+        {
+          "type": "paragraph",
+          "text": "管子擠製法如圖 4-36 所示,係採用直接擠製方式,而由中間的心軸,形成中空 的管件。 管的內、外徑及厚度,分別由心軸及模孔來控制;管的內徑等於心軸的外 徑,管的外徑等於模孔的內徑。 此法雖可用於製造鋼管,但擠製溫度高達 1,300 °C, 致使擠製設備之壽命減短。故通常用於低熔點的軟金屬,例如:鋁、錫、鉛及銅等 之加工,冷氣機之銅管即以此法製成。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-36 管子擠製法"
+        },
+        {
+          "type": "heading",
+          "text": "3. 引伸法 (Drawing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "引伸又稱為壓伸。如圖 4-37 所示,首先將實體的原料塊加熱到鍛造溫度,置於 壓力機的模內,以穿孔沖子壓入,使胚料形成一端閉合的中空鍛件。鍛件從模中取 出後,再加熱到鍛造溫度。然後置於引伸機上,以頂壓桿經一連串模子,縮減其直 徑及厚度並達到引長的目的。 此法適用於管或筒的製造。欲製管時,在引伸完成後,切除其封閉端即可。若 製品為類似氧氣瓶的筒子,其開口端以熱旋壓法縮小,再切製內螺紋即可。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-37 氧氣筒的引伸加工"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 159"
+        },
+        {
+          "type": "heading",
+          "text": "4-3 金屬之冷作"
+        },
+        {
+          "type": "heading",
+          "text": "一、 抽拉 (Drawing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "抽拉係以拉力將胚料拉過模孔,以達到改變工件形狀或尺度的一種冷作法。抽拉後的 工件,除了尺度精確,表面光潔外,由於材料的晶粒變成纖維狀,使其強度及硬度皆有顯 著的增加。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 線的抽拉"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬線 ( 鋼、銅、鋁⋯⋯等 ) 是以抽線模將熱軋的桿料抽製而成。每經一道模子,線 材直徑就會減小,而且硬度及強度也會增加。 抽製前,先將單塊金屬熱軋成 φ 5 mm ~ φ 6 mm 的桿條,再用酸洗除去表面的氧化層,然後佈敷一層具有防止氧化、中和餘酸, 同時具有潤滑作用的潤滑劑,以減少模子的磨損。 抽拉工作可用如圖 4-38 所示的單模間斷操作,亦可用如圖 4-39 所示的多級模連續縮 減法。後者的生產速度比前者快。其模子依直徑尺度由大而小,作串聯安排,少者 4 個, 多者 12 個。 圖 4-40 所示者為以抽拉法製成之銅線製品。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-38 單模抽線模 ▲ 圖 4-40 銅線"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-39 多級連續抽線模"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 管子的抽拉"
+        },
+        {
+          "type": "paragraph",
+          "text": "以熱作法所製成的無縫管,無論精密度或表面粗糙度,皆難合乎理想,必須再以抽拉 法加以矯正精修。如同前述的金屬線抽拉,管子抽拉之前亦須酸洗去鏽,並加潤滑劑。如 圖 4-41 所示,管子抽拉之前,先用型鍛法縮減其頭端直徑,以便能通過模孔。縮減端以夾 子夾緊後,由鏈條抽拉之。管子內、外徑均要求精確者,必須由固定心軸加以控制。若孔 徑太細或太大,而且內面不需要太光平的,可以不使用心軸。 管子抽拉施工時,材料變形非常激烈,每次抽拉之截面積縮減率高達 40 %。這種高度 縮減率的加工操作,大大的增加了金屬的硬度。所以如果材料要分成數次抽拉者,每次加 工之後須加以製程退火令其軟化。此種加工法所製之管子外徑可小至 0.1mm, 例如打針用 的針頭即以此法抽拉而成。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-41 管子的抽拉 ( 有心軸 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 箔的抽拉"
+        },
+        {
+          "type": "paragraph",
+          "text": "箔 ( 如圖 4-42 所示 ) 是用各種純金屬或合金經冷滾軋製造而成,其厚度可薄至 2 μ m。 製箔材料的純度要求很高,所以一般皆以真空爐加以熔煉,再用連續鑄造法鑄成長板條, 冷卻後進行滾軋。由於箔的厚度極薄,與滾軋輪的接觸弧長很短,沒有足夠的摩擦力來帶 動工件前進,所以必須再加抽拉之力。也就是說: 製箔是由滾軋與抽拉兩者之合併作用而 成。 通常軋製而成的箔,兩面皆光平,若將兩片疊合滾軋時,分開後只有一面是光平的, 另一面是毛面。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-42 鋁箔"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 161"
+        },
+        {
+          "type": "heading",
+          "text": "二、 壓擠與模鍛 (Squeezing and Die Forging)"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓擠與模鍛加工係將材料置於鍛模內,施加外力迫使材料隨模穴而成形的一種加工 法。其加工法有下列幾種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 壓模印 (Coining)"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓模印又稱為壓花紋。如圖 4-43 所示,將胚料置於壓擠模內,由上方的沖頭施壓,胚 料在模內的側向流動受到限制,成形部位受壓力作用,迫使其依模穴的形狀而成形。 此法 的製品斷面厚度不一,硬幣為其最典型的產品。 由於壓模印所需的成形壓力很大,通常只 適用於較軟的金屬,例如:金、銀、銅、鋁及鎳等。 此法所用的機器大都為液壓驅動的肘 節式壓床。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-43 壓模印"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 壓浮紋 (Embossing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓浮紋又稱為壓凸印。如圖 4-44 所示,其模子的構造是陰陽兩模的形狀完全相同,閉 合後中間的間隙剛好等於工件的厚度。所以 加工時胚料並無壓擠作用,其厚度幾乎不變, 此點是壓凸印與壓模印最大的區別。 當沖頭下降時,只有凸出部分與工件接觸,工件在模 內僅有微量抽拉作用,使其向一面凸出。此法的工件變形部位受拉力作用而成形,需要的 壓力不大。 壓浮紋的主要用途是將片狀胚料壓製成名牌、獎牌、識別牌、汽車車牌 ( 如圖 4 - 45 所示 ) 以及各種精美的圖案。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-44 壓浮紋 ▲ 圖 4-45 汽車車牌"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "162"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 凹穴壓印 (Hobbing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "凹穴壓印如圖 4-46 所示, 係以硬鋼的凸出轂直接壓入軟鋼中形成模穴。凸出轂以鋼料 車成,並作適當的硬化熱處理,使其具有足夠的強度與硬度。壓印凹穴時,軟鋼胚料受壓 擠而向側邊塑性流動,形成與凸出轂完全相同的模穴。此法的優點,是可以用一個凸出轂 製造數個相同的母模。不但費用低廉,尺度均一,而且表面光平。常用於製造塑膠模及壓 鑄模。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-46 凹穴壓印"
+        },
+        {
+          "type": "paragraph",
+          "text": "三、高能率成形 (High Energy Rate Forming, HERF) HERF 是在極短時間內以很高的壓力作用在金屬胚料上,達到造形目的之加工法。其 壓力可用爆炸力、磁力或電氣液壓力。此法具有模具費用低、製品精度高及生產費用低等 優點。 其用途大都為金屬板的成形,另外亦可用於粉末金屬的壓縮、鍛造、冷銲接、黏結 及擠製等。"
+        },
+        {
+          "type": "heading",
+          "text": "HERF 按其壓力源的不同,可分為下列三種:"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 爆炸成形 (Explosive Forming) 爆炸成形法係使炸藥在爆炸的瞬間,所釋放出的能量,藉氣體、液體或固體等介質傳 達至工件,使胚料快速成形的加工法。 此法由於爆炸壓力與爆震速度容易控制,為最優良 的 HERF 法,使用的機會最多。 爆炸成形依其介質的不同,可分為液壓造形法、氣壓造形法,以及氣動落錘法等三種。 如圖 4-47 所示者為氣壓造形法。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 163"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-47 氣壓成形法 ▲ 圖 4-48 電液壓成形法 ( 二 ) 電液壓成形 (Electro-hydraulic Forming) 電液壓成形法如圖 4-48 所示,又稱為 電火花造形法 (Electro-spark Forming)。與爆炸成 形類似,所不同的是壓力源,係以火花間隙放電造成液體瞬間膨脹,而非炸藥的爆炸力。 操作原理是先用直流電將電容器充電至高壓,然後將它浸入非導電性液體中,電容器放電 形成高速的震動波,對工件施以高壓而使其依模穴之形狀而成形。此法具有設備費用低、 可以控制能量放出速率,以及工作安全等優點。 ( 三 ) 磁力成形 (Magnetic Forming) 磁力成形是利用線圈建立強大的磁場,以此磁力作用在工件上,而使工件成形的造形 法。圖 4-49 所示者,為磁力成形的簡單迴路。將一組電容器 C 並聯於高壓直流電源 E,經 充電後,高壓開關自動通電,使強大電流在瞬間通過線圈,造成很強的磁場。此磁場會在 工件內誘導出渦電流及反向而強度很高的磁場。因而產生極大的作用力,使工件貼緊模子 而成形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-49 磁力成形線路之簡圖 ( 取材自參考書目 (3)) 此法具有生產速度快、壓力均勻、不需潤滑劑、設備無活動機件及不需高度技術等優 點。而其缺點為工件各處壓力不能變化,及不能製造形狀複雜的產品等。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "164"
+        },
+        {
+          "type": "heading",
+          "text": "四、 溫熱鍛造 (Warm Forging)"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋼料的冷鍛通常不加熱,所需的鍛造壓力較大。熱鍛則必須加熱到再結晶溫度以上, 由於氧化作用,表面產生鏽皮,影響產品的表面光滑度及尺度精度甚大。為了同時克服冷 作與熱作的上述缺點,而 將鍛件加熱到再結晶溫度略下方,再施以鍛造,稱為溫熱鍛造。 其所需之鍛造力比冷作小,且鍛造後並無金相組織上的變化,也不像高溫鍛造在鍛件表面 上發生氧化或鏽皮脫落等缺點,無論表面光滑度或尺度精密度均比熱作優。"
+        },
+        {
+          "type": "heading",
+          "text": "五、 冷鍛頭法 (Cold Head Forging)"
+        },
+        {
+          "type": "paragraph",
+          "text": "冷鍛實際上是鍛粗法的一種應用,常用來鍛製釘子、鉚釘,及各種小螺栓的頭部。 成 捲的鋼線經過數對矯正滾子加以矯直,進入冷鍛機之內,至適當長度而停止。切斷之後送 入如圖 4-50 的鍛模中,以沖頭衝擊端部,使其依模穴形狀而成形,然後以頂出銷頂出。加 工完了的零件,放入滾磨筒內,加木屑一起滾磨,吸取其潤滑劑並磨去毛邊。此種機器的 生產速度,每分鐘可達 600 件。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-50 冷鍛 ( 取材自參考書目 (3))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 165"
+        },
+        {
+          "type": "heading",
+          "text": "六、板材與管子的彎曲"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 板材彎曲法"
+        },
+        {
+          "type": "paragraph",
+          "text": "薄板材的彎摺通常使用如圖 4-51 所示的彎板機。其原理如圖 4-52 所示,板金以頂葉 板夾緊後,將摺板手桿提高到適當位置而完成。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-51 彎板機"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-52 彎板原理 ( 取材自參考書目 (16))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "166"
+        },
+        {
+          "type": "paragraph",
+          "text": "若要將薄板材彎曲成圓筒狀,可選用如圖 4-53 所示之滾圓機。其工作原理如圖 4-54 所示,將金屬板放在三個滾棒之間,其中上、下兩個滾棒固定在一定的位置,驅動板材向 左移動,而位於後方的第三個滾棒可以上下調整。 滾捲的直徑可由後方的滾棒調整控制, 當其向上調整時圓筒的直徑會變小,反之則大。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-53 滾圓機"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-54 滾圓機原理"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 167"
+        },
+        {
+          "type": "paragraph",
+          "text": "厚度較大之板材彎曲可以採用圖 4-55 所示之成形滾圓機。 下方兩個固定滾輪位置不 變,當上方的可調滾輪向下移動時,滾出之管子直徑會逐漸變小。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-55 厚板成形滾圓機"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 管子彎曲法"
+        },
+        {
+          "type": "paragraph",
+          "text": "管子彎曲時,管內最好以心軸支撐,以免彎曲處被壓扁。冷抽拉管先製程退火軟化, 對彎曲工作有利。若無心軸支撐時, 彎曲處不易被壓扁的有利條件為:管壁厚、管徑小, 以及彎曲半徑大 ( 曲率小 )。 彎管的情形,如圖 4-56 所示。管子以夾具夾緊在旋轉模塊上,旋轉模塊靠著壓力模旋 轉而產生彎曲。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-56 彎管"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "168"
+        },
+        {
+          "type": "heading",
+          "text": "七、 衝擊擠製 (Impact Extrusion)"
+        },
+        {
+          "type": "paragraph",
+          "text": "衝擊擠製法如圖 4-57 所示, 將一小塊胚料放置在模內, 沖頭以適當之力作一次的衝擊, 使材料圍繞沖頭,從模子與沖頭間的縫隙噴出而成形。管的頭端即可以是平頭,亦可利用 模底與沖頭的不同設計,而製成不同的形狀。 此法的製品,有牙膏、刮鬍膏、油漆及顏料 等可捏壓的薄壁管子。其所用的材料有鋅、鉛、錫及鋁等軟金屬。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-57 衝擊擠製法"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 4-58 所示者為 虎克法 (Hooke's Extrusion),是衝擊擠製法的變異形式,軟金屬胚料 在衝擊擠製中,經由模座口向下擠製,可製造小銅管或彈藥筒。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-58 虎克擠製"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 169"
+        },
+        {
+          "type": "heading",
+          "text": "八、珠擊"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂珠擊是以高速之小鋼珠噴擊工件表面,使工件面產生極淺的塑性流動,並殘留無 數小凹痕, 會產生應變硬化現象,增加工件表面硬度。 受錘擊之表面會殘留壓應力,可抵消部分拉應力,而且受珠擊表面產生塑性流動,可 以將表面缺陷壓除,避免局部表面缺陷所造成之應力集中,故可增加疲勞強度。彈簧經常 承受覆變應力,可利用珠擊來增加疲勞強度,延長使用壽命。 鑄件與鍛件也可以利用珠擊法去除表面的黏砂或鏽皮,提高表面品質。 板金利用珠擊可作成形加工。將欲成形的板金貼放在模型上方,接著施以珠擊加工, 金屬表面受錘擊部分會逐漸拉長而使板金彎曲,貼緊模型而成形。如圖 4-59 所示之飛機機 翼之蒙皮,就是此法的典型加工例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-59 機翼蒙皮"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "170"
+        },
+        {
+          "type": "heading",
+          "text": "4-4 沖壓模具設計與加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "沖壓工作是指在沖床上或壓床上,藉模具對金屬胚料施壓成形的工作。 此種加工方式 最適合大量生產, 可將金屬板加工成裝飾品、 家庭用具、 電器外殼、 汽車車身、 車架、 建材、 鐘錶零件⋯⋯等。 沖壓床工作是沖床工作與壓床工作的統稱,兩者的主要差別在於工作性質與傳達動力 方式的不同。 沖床的動力傳達大都為機械式,例如:曲柄式、偏心式及螺桿式等。利用飛 輪的動能,轉換成作用力, 其動作迅速,但作用力小。通常用於沖孔、下料、剪斷及彎曲 等工作。壓床的動力傳達大都為液壓式,其動作緩慢,但作用力大,通常用於壓擠、擠製 及引伸等工作。 由於兩者的界限模糊,所以現在大都合稱為沖壓床。 沖壓床的結構包含一個動力來源,驅動機構、床台及機架等,如圖 4-60 所示。另外還 須依工作需要,準備適用的沖頭與沖模。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-60 沖壓床的構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "沖 1. 生產率高,適用於大量生產。 壓 2. 製品可獲得極高的一致性。 床 優點 3. 操作簡單,不熟練的工作者亦可操作。 工 4. 加工成本低。 作 5. 廢料少。"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "paragraph",
+          "text": "優 1. 一組模具只能生產一種成品。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 與機械切削相比較,其精密度較低。"
+        },
+        {
+          "type": "heading",
+          "text": "缺 缺點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 模具製作技術及製造費用高,不適用於小量生產。"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 171"
+        },
+        {
+          "type": "heading",
+          "text": "一、沖壓床之驅動機構"
+        },
+        {
+          "type": "paragraph",
+          "text": "沖壓工作有許多不同的加工方式,需要以適合的驅動機構來驅動沖壓模具,以下介紹 常見的八種機構。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 單曲柄 (Single Crank)"
+        },
+        {
+          "type": "paragraph",
+          "text": "單曲柄機構如圖 4-62(a) 所示,是最常用的沖壓床 驅動機構。 其滑塊的動作很類似簡諧運動,如圖 4-61 所"
+        },
+        {
+          "type": "heading",
+          "text": "示,下行時速度由零開始逐漸加速,至行程中點附近達"
+        },
+        {
+          "type": "paragraph",
+          "text": "最高速,然後逐漸減速至停止。 沖壓加工大都在行程的 中點附近實施,此時滑塊的速度最大。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-61 滑塊的速度變化"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 偏心式 (Eccentric)"
+        },
+        {
+          "type": "paragraph",
+          "text": "由偏心軸 ( 如圖 4-62(b) 所示 ) 所驅動的滑塊動作 與曲柄式相同,只是行程較短而已。 此式的優點是在構造上有較高的剛性,不像單曲柄那麼容易變形。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 凸輪式 (Cam)"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸輪驅動的動作循環,可由凸輪的設計來加以控制,如圖 4-62(c) 所示。通常用於動作 複雜的工作。 ( 四 ) 齒條及小齒輪式 (Rack and Gear) 由小齒輪的迴轉,驅動齒條,使滑塊往復運動,如圖 4-62(d) 所示。通常用在需要行 程很長的工作場合,其滑塊的動作緩慢而均勻。此式機器裝有停止器,可控制行程的長短。 必要時還可裝置速回機構,使滑塊迅速回到起點位置。"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 液壓式 (Hydraulic)"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓床大都以液壓驅動,如圖 4 - 62 (e) 所示。其速度慢、壓力大,而且動作均勻,通常 用於壓擠、擠製及引伸工作。"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 螺桿式 (Screw)"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑塊與螺桿聯接,當螺桿上方的飛輪受摩擦盤驅動時,螺桿一面迴轉,一面下降,如 圖 4-62(f) 所示。 由於摩擦盤定速迴轉,所以飛輪與摩擦盤之接觸點由中心移向外周時,切 線速度會逐漸變快,形成加速狀態。 此式機器的作用頗似落錘,但動作較緩,且衝擊作用 較小。此種機器又名衝擊壓床或摩擦壓床。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "172"
+        },
+        {
+          "type": "heading",
+          "text": "( 註 1)"
+        },
+        {
+          "type": "heading",
+          "text": "( 七 ) 肘節式 (Toggle)"
+        },
+        {
+          "type": "paragraph",
+          "text": "此機構在行程之末端,兩連桿幾乎成一直線時,能獲得最高的機械利益,產生極大的 壓力, 如圖 4-62(g) 所示。 由於此種機構具有很高的負荷能力, 故常用於壓花紋及尺度矯正。 ( 八 ) 關節式 (Knuckle Joint) 關節機構如圖 4-62(h) 所示,中間的輔助滑塊由曲柄驅動下移時,下方的主滑塊會往 上移動。當曲柄恰在下死點時,主滑塊有片刻的停止, 能提供板片胚料有效的夾持作用, 以利作引伸工作的胚料夾持。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-62 沖壓床的驅動機構"
+        },
+        {
+          "type": "paragraph",
+          "text": "註 1:本書所定義之肘節 (Toggle) 機構與高職機件原理及大專機動學之用詞是一致的。高職之機件原理 及大專之機動學並無關節 (Knuckle Joint) 機構一詞,部分機械製造的書籍將肘節與關節對調,會 讓學生在學習機件原理時無所適從。"
+        },
+        {
+          "type": "paragraph",
+          "text": "04C53106-04.indd 172 2022/4/8 下午 02:51:48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 173"
+        },
+        {
+          "type": "heading",
+          "text": "二、沖壓床之機架"
+        },
+        {
+          "type": "heading",
+          "text": "常見之沖壓床機架有下列五種:"
+        },
+        {
+          "type": "paragraph",
+          "text": "凹口式 (Gap) 沖壓床的機架外形很像英文字母 C 字,所以又稱 凹 為 C 型沖壓床,如左圖所示。 此式機器在沖模的左右無機架的 口 遮擋,有較大的工作空間。較寬且長的料條,可作橫向的自動 式 進料,適用於薄片的沖剪或壓印加工。由於 結構上強度較弱, 此式機器用於噸位在 100 噸以內者。"
+        },
+        {
+          "type": "paragraph",
+          "text": "傾斜式 (Inclinable) 與凹口式類似,不同的是機架可傾斜,如左 傾 圖所示。 機架傾斜的目的,是藉重力作用,協助胚料自動進料, 斜 以及沖切件或廢料的自動排除。 此式機器的機架傾斜程度、可 式 視工作需要加以調整。通常用於小零件的沖孔、下料、彎曲及 剪斷等工作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "直邊式 (Straight Side) 沖壓床如左圖所示。 兩側機架為直線形, 可承受較大的負載。 當沖模置於床台正中心時,兩側機架所產 直 生的應力相等,機架的應變不致影響到模子的對正。此式機器 邊 的容量可超過 1,000 噸。 式 小型的直邊式沖壓床,大都為單曲柄或偏心軸驅動。大型者常 用肘節或液壓驅動。此種機器通常用於厚金屬板的成形、壓力 鍛造、壓花紋及深度大的杯形引伸工作等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "凹口式沖壓床的工作面積大,但剛性小;直邊式沖壓床的剛性 大,而工作面積小。 拱門式 (Arch) 沖壓床恰為前兩者的折衷。"
+        },
+        {
+          "type": "heading",
+          "text": "拱"
+        },
+        {
+          "type": "paragraph",
+          "text": "此式機器如左圖所示, 兩側機架的受力不在一條直線上,形成"
+        },
+        {
+          "type": "heading",
+          "text": "門"
+        },
+        {
+          "type": "paragraph",
+          "text": "上小、下大的拱門狀。 底部大的目的是為了加大工作面積,上"
+        },
+        {
+          "type": "heading",
+          "text": "式"
+        },
+        {
+          "type": "paragraph",
+          "text": "部窄則可避免曲柄太長。此種機器通常用於剪切、彎曲及修邊 等工作。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "剪切 P176"
+        },
+        {
+          "type": "heading",
+          "text": "金屬的剪切,是將材料置於沖頭與沖模之"
+        },
+        {
+          "type": "heading",
+          "text": "間,當沖頭下降進入模穴時,材料由於沖"
+        },
+        {
+          "type": "paragraph",
+          "text": "頭刀刃及沖模刀刃的相互作用而剪斷。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "174"
+        },
+        {
+          "type": "paragraph",
+          "text": "突角式 (Horn) 沖壓床的床台是一支粗重的圓軸,如左圖所示。"
+        },
+        {
+          "type": "heading",
+          "text": "突"
+        },
+        {
+          "type": "paragraph",
+          "text": "此種機器通常用於圓筒形工件邊緣的沖壓工作,如沖孔、鉚合、"
+        },
+        {
+          "type": "heading",
+          "text": "角"
+        },
+        {
+          "type": "paragraph",
+          "text": "摺縫、壓浮紋及製凸緣盤等。"
+        },
+        {
+          "type": "heading",
+          "text": "式"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "彎曲 P178"
+        },
+        {
+          "type": "heading",
+          "text": "彎曲加工係在金屬平板上施加力矩,"
+        },
+        {
+          "type": "heading",
+          "text": "使其在一平面上彎曲成所需角度的加"
+        },
+        {
+          "type": "paragraph",
+          "text": "工法。"
+        },
+        {
+          "type": "heading",
+          "text": "三、特殊沖壓床"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-63 傳遞式沖壓床"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 175"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 傳遞式 (Transfer)"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳遞式沖壓床如圖 4-63 所示,為全自動式,可以同時完成製品的各種連續操作。材料 送入加工區後,可一站一站的自動前進,直到加工完成為止。 各站所裝置的沖頭及沖模, 皆為獨立單位,可以完成不同的施工。 此種沖壓床適用於大量生產的工作。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 多滑塊式 (Multi-slide)"
+        },
+        {
+          "type": "paragraph",
+          "text": "多滑塊式沖壓床主要的用途,是用於金屬板的成形工作,由於加工快速,很適合大量 生產。圖 4-64 所示者,為多滑塊式沖壓床加工的示意圖。由左、右、前、後多組成形模塊 進行成形加工。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-64 多向滑塊沖壓床加工示意圖 ( 取材自參考書目 (10))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "176"
+        },
+        {
+          "type": "heading",
+          "text": "四、常用的沖壓床工作"
+        },
+        {
+          "type": "paragraph",
+          "text": "沖壓加工的工具, 是 沖頭 (Punch) 與 沖模 (Die)。 裝置時, 先將沖頭固定在沖柱的下方, 於受力時可壓入模穴之內。再將沖模放置在機器的床台上,調整對正沖頭後加以固定。 沖"
+        },
+        {
+          "type": "heading",
+          "text": "壓加工依其工作性質的不同,有下列數種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 剪切 (Shearing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬的剪切,是將胚料置於沖頭與沖模之間,當沖頭下降進入模穴時,胚料由於沖頭 刀刃及沖模刀刃的相互作用而剪斷。如圖 4-65 所示。 沖頭與沖模間的間隙,是沖模設計的 一個重要因素,因胚料的材質及硬度而異。對於一般鋼料而言,每邊最適當的間隙 ( 圖中 的 C),約為板厚的 5 ~ 8 %。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-65 剪切"
+        },
+        {
+          "type": "heading",
+          "text": "剪切工作包括下列幾種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 下料 (Blanking)"
+        },
+        {
+          "type": "paragraph",
+          "text": "下料又稱為打胚或沖胚,如圖 4-66(a) 所示。 從料條上所沖下的金屬片為有用 的成品,所餘的框架為廢料。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 沖孔 (Punching)"
+        },
+        {
+          "type": "paragraph",
+          "text": "沖孔如圖 4-66(b) 所示,恰與下料相反。 沖下的料為廢料,而餘下的框架為有 用的成品。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-66 沖孔與下料的區別"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 177"
+        },
+        {
+          "type": "heading",
+          "text": "3. 修邊 (Trimming)"
+        },
+        {
+          "type": "paragraph",
+          "text": "沖孔與下料之成品邊緣並非平整的,如圖 4-67 所示。其邊緣有因塑性變形所造 成的模滾 ( 圖中的 a), 沖模與工件的摩擦光面 ( 圖中的 b), 拉力破壞而成的撕斷面 ( 圖 中的 c),以及毛邊 ( 圖中的 d) 等。 修邊工作就是將此工件再以更精確的沖模剪切一 次,將邊緣修掉薄薄的一層,以獲得更佳的製品。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-67 沖孔與下料的工件邊緣 ( 取材自參考書目 (18))"
+        },
+        {
+          "type": "heading",
+          "text": "4. 沖縫 (Slitting)"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 4 - 68 (a) 所示,將材料剪切三邊而保留一邊,並使剪開之材料向下彎曲 90 °。沖縫又稱為 矛製 (Lancing)。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 沖凹孔"
+        },
+        {
+          "type": "paragraph",
+          "text": "沖凹孔與沖縫相反,係將材料剪開一邊而保留三邊,如圖 4 - 68 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-68 沖縫與沖凹孔"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "178"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 彎曲 (Bending)"
+        },
+        {
+          "type": "paragraph",
+          "text": "彎曲加工係在金屬平板上施加力矩,使其在一平面上彎曲成所需角度的加工法,如圖 4 - 69 所示。彎曲時平板彎曲部分的外側遭受拉力,內側遭受壓力,兩側的受力皆不超過極 限應力,而中心部分 ( 中立面 ) 即不受拉力,也不受壓力。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-69 彎曲加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "平板彎曲後,接近中立面部分的材料受力未達彈性限度,仍然保持其原有的彈性。 故沖頭移開後,會產生彈性恢復作用,使彎曲的角度變大,這種現象稱為 彈回 (Spring Back),如圖 4 - 70 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-70 彎曲操作中之彈回作用"
+        },
+        {
+          "type": "paragraph",
+          "text": "欲解決由彈回所造成的角度誤差, 可依工作經驗略微減小沖模的角度,使板料彈回後 恰為正確角度。例如:製品的彎曲角度為 90 °,則沖模的角度應略小於 90 °。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 179"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 成形 (Forming)"
+        },
+        {
+          "type": "paragraph",
+          "text": "成形是加力於金屬平板,使其局部或全部彎折,材料中間有相互拉長及壓縮的現象。 其與彎曲最大之不同點,是變形部分為二維曲面。 如圖 4-71 所示,圖 (a) 中的 aa \u001f ′ 部分在 成形過程中被拉成與 bb \u001f ′ 等長, 故稱為引張成形。 圖 (b) 中的 cc \u001e ′ 部分則被壓縮成與 dd \u001f ′ 等長, 故稱為壓縮成形。圖 (c) 則兼具上述兩種成形,稱為組合成形。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-71 成形"
+        },
+        {
+          "type": "paragraph",
+          "text": "成形加工之材料流動比彎曲複雜,製品容易呈波浪狀或產生破裂,若沖模改用橡膠模, 可以改進上述之不良狀況。 如圖 4-72 所示之橡膠沖模,在沖壓時橡皮母模可依模子的形狀 而變形。此種成形法,稱為橡膠模壓法或葛林 (Guerin) 法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-72 橡膠模壓法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "180"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 引伸 (Drawing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "引伸是將平板料片放置在引伸沖模中,使其變成筒狀製品的加工法,如圖 4 - 73 所示, 圓筒形不鏽鋼杯就是採用此法製造而成。材料引伸時,其直徑方向遭受引張力而伸長,圓 周方向遭受壓縮力而縮短。在收縮過程中,材料會有產生皺摺的趨勢。防止這種起皺的方 法,是在金屬板上加一壓料板 ( 又稱為胚料夾持器 ), 如圖 4-74 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-73 引伸加工 ( 取材自參考書目 (18))"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 4-74 胚料夾持器的作用 ( 取材自參考書目 (26))"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 181"
+        },
+        {
+          "type": "heading",
+          "text": "五、沖壓模具分類"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 單獨沖模 (Simple Die)"
+        },
+        {
+          "type": "paragraph",
+          "text": "單獨沖模為最基本之沖模,分為沖孔沖模與下料沖模。如圖 4-75(a) 所示之沖孔沖 模,沖孔完畢沖頭上升時,孔壁收縮粘著沖頭不放,必須在沖頭周圍設置剝料板或 優力膠 (Urethane) 剝下料條。圖 4-75(b) 所示者為下料沖模,下料結束母模上升時,料片膨脹撐住 孔壁,必須在模穴內設置推料桿推出料片。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-75 單獨下料、沖孔沖模"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 複合沖模 (Compound Die) 剪切加工由於沖頭與母模之間有間隙,所以製品會彎曲。以墊圈為例,如果下料與沖 孔同方向施工,將會加大製品彎曲的程度。圖 4-76 所示之複合沖模,將下料沖頭裝置在下 方,沖孔沖頭裝置在上方。 沖壓時,在同一位置同時反向沖孔與下料,可減少製品之彎曲, 並提高效率。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-76 下料及沖孔複合沖模"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "182"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 連續沖模 (Progressive Die):級進沖模 如圖 4-77 所示之工件若採用單獨沖模來加工,則需要多副沖模分開施工,不符合大量 生產之要求。 大量生產需要設計連續沖模,以沖孔、定位、剪缺口與整緣,及剪斷四次工 程在不同位置依序完成製品, 其間料條是成一整體而不間斷的。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-77 沖孔及剪斷連續沖模"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 183"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 傳遞模 (Transfer Die)"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳遞模如圖 4-78 所示,是一種多站模具, 和連續模不同的是各加工站之間,材料並不 相互連接。通常是第一站先行下料,之後,材料被自動移位裝置,依序傳遞到各加工站, 在最後一站完成所需形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-78 傳遞模"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "184"
+        },
+        {
+          "type": "heading",
+          "text": "六、沖壓模具設計"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 沖模的基本結構"
+        },
+        {
+          "type": "paragraph",
+          "text": "沖模的基本結構如圖 4-79 所示,茲將各部分零件名稱及功能說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-79 沖模構造"
+        },
+        {
+          "type": "heading",
+          "text": "1. 模座"
+        },
+        {
+          "type": "paragraph",
+          "text": "模座分為上模座與下模座兩部分,主要功能是包容並固定模具的主體。其間以 導柱互相連接,藉著導套與導柱的做精密配合,促使上下模之切刃正確對準。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 均力板"
+        },
+        {
+          "type": "paragraph",
+          "text": "均力板位於上模座與沖頭固定板之間,用以承受沖壓製程中所產生的力量,避 免沖頭位置發生偏差,影響加工精度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 沖頭固定板"
+        },
+        {
+          "type": "paragraph",
+          "text": "沖頭固定板用以固定沖頭,其位置尺度決定了沖頭的位置精度。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 185"
+        },
+        {
+          "type": "heading",
+          "text": "4. 剝料板"
+        },
+        {
+          "type": "paragraph",
+          "text": "剝料板可於沖頭上行時,剝除廢料或料條。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 模塊"
+        },
+        {
+          "type": "paragraph",
+          "text": "模塊為模具的下刀刃,配合沖頭剪切材料。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 先導桿"
+        },
+        {
+          "type": "paragraph",
+          "text": "先導桿在連續沖壓的過程中,可插入先前沖出之定位孔中,引導料條進入正確 位置以便沖壓。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 沖頭"
+        },
+        {
+          "type": "paragraph",
+          "text": "沖頭依製品沖孔之形狀製造而成。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 定位裝置"
+        },
+        {
+          "type": "paragraph",
+          "text": "可使料條固定在正確的位置上進行沖壓。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 固定零件"
+        },
+        {
+          "type": "paragraph",
+          "text": "模具組裝時必須靠定位銷與螺栓正確地加以組合。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 沖模設計的考慮因素"
+        },
+        {
+          "type": "heading",
+          "text": "1. 決定最經濟的胚料佈置方式,以節省材料的成本。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 決定沖壓過程及每次沖壓的個數。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 確定所需沖壓床的形式與規格。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 尋求最有效的模具結構。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 制訂模具各部位的尺度與公差。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 選擇適當的模具材料。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "186"
+        },
+        {
+          "type": "heading",
+          "text": "4-5 塑膠模具設計與加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑膠成形法有模塑成形、加熱成形、補強成形、鑄造成形與發泡成形等。本單元只介 紹模塑成形法中最廣用的射出成形模,其餘各種成形法與塑膠材料將於下冊第十一章第二 單元塑膠加工中詳細介紹。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 射出成形模構造"
+        },
+        {
+          "type": "paragraph",
+          "text": "塑膠射出成形模如圖 4-80 所示,茲將各部分零件名稱及功能說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 4-80 射出成形模"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch04/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 4 塑性加工 187"
+        },
+        {
+          "type": "heading",
+          "text": "1. 安裝板"
+        },
+        {
+          "type": "paragraph",
+          "text": "安裝板分為固定側安裝板與可動側安裝板。模具中固定側部分的零組件,都可 以安裝在固定側安裝板上,再將固定側安裝板裝置到射出成形機的固定側模盤。可 動側部分的零組件,都可以安裝在可動側安裝板上,再將可動側安裝板裝置到射出 成形機的可動側模盤。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 模板"
+        },
+        {
+          "type": "paragraph",
+          "text": "模板分為固定側模板與可動側模板。固定側模板可塑製成品的外表面,通常是 凹入形狀,所以又稱為母模板。可動側模板可塑製成品的內表面,通常是凸出形狀, 所以又稱為公模板。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 承板"
+        },
+        {
+          "type": "paragraph",
+          "text": "承板安裝在可動側的間隔板上,用以承受塑製成形時,由公模板傳來的壓力。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 間隔板"
+        },
+        {
+          "type": "paragraph",
+          "text": "間隔板介於承板與可動側安裝板之間,是個中空部件,可提供頂出裝置的活動 空間。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 頂出機構"
+        },
+        {
+          "type": "paragraph",
+          "text": "頂出機構包括頂出銷、頂出銷定位板、頂出銷固定板與復歸銷。 頂出銷的用途 是頂出成形製品,通常用強韌及耐磨耗的工具鋼或模具鋼製成。頂出銷固定板可提 供頂出銷所需定位之頂出壓力。頂出銷定位板可夾住頂出銷與復歸銷的頭部,提供 穩固的支持。復歸銷於閉模時可驅動頂出銷固定板,而使頂出機構退回原位,以便 在下一次開模時進行頂出行程。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 導向零件"
+        },
+        {
+          "type": "paragraph",
+          "text": "導向零件包括導銷與導銷襯套,兩者精密的配合可導引活動模於閉模時精確地 接近固定模。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 澆道系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "澆道系統包括定位環、豎澆道襯套與豎澆道拉桿。定位環可使射出成形機的射 出嘴正確吻合豎澆道的頂部將塑料射出。豎澆道襯套內有豎澆道,可將塑料引導射 入公、母模之間的模穴。豎澆道拉桿的功用是要將豎澆道內已固化的塑料拉出。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "188"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 射出成形模設計的考慮因素"
+        },
+        {
+          "type": "heading",
+          "text": "1. 對製品條件的瞭解"
+        },
+        {
+          "type": "paragraph",
+          "text": "射出成形製品的精度、形狀、產量以及使用塑料的種類,都是影響模具結構及 模具材料選用的重要因素。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 分模面及澆注系統的設計"
+        },
+        {
+          "type": "paragraph",
+          "text": "分模面及豎澆道等澆注系統的設計,是決定模具結構、影響成形效率的重要依 據。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 脫模方式及機構的設計"
+        },
+        {
+          "type": "paragraph",
+          "text": "製品成形之後必須自模穴中取出,由於製品形狀的複雜程度不一,其脫模方式 及機構必須依需要作適當的設計。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 溫度控制方式的決定"
+        },
+        {
+          "type": "paragraph",
+          "text": "模具溫度是影響製品外觀、精度及生產效率的關鍵,必須依需要採用空氣或水 冷卻。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 模具零件尺度的決定"
+        },
+        {
+          "type": "paragraph",
+          "text": "選用模具零件主要的考量是模具的強度,應依據射出成形時之射出壓力、鎖模 力的大小來決定各零件尺度大小。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 模具材料的選用"
+        },
+        {
+          "type": "paragraph",
+          "text": "模具材料決定模具的使用壽命及製品的精度,必須依成形射出量、射出壓力、 鎖模壓力及產量大小等因素,選用適當的材料來製作模具。"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

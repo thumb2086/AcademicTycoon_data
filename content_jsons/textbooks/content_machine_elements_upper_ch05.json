@@ -1,0 +1,3177 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_UPPER_CH05",
+  "subject": "技術型高中機械群機件原理上冊_PPT",
+  "chapter": {
+    "code": "CH05",
+    "title": "05_彈簧"
+  },
+  "title": "技術型高中機械群機件原理上冊_PPT CHAPTER 彈簧",
+  "source_pdf": "machine_elements_upper_ppt/05_彈簧.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "CHAPTER"
+        },
+        {
+          "type": "heading",
+          "text": "彈簧"
+        },
+        {
+          "type": "paragraph",
+          "text": "本籣報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 丙容來源; 108 華興機件原理上冊 / 連結影片及部分圖片取目網路。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "5-1 彈 簧 的 功 用"
+        },
+        {
+          "type": "heading",
+          "text": "5-1 彈簧的功用"
+        },
+        {
+          "type": "paragraph",
+          "text": "5-2 彈 簧 的 相 關 名 詞 及 物 理 性 質"
+        },
+        {
+          "type": "heading",
+          "text": "※ 5-2 彈簧的相關名詞及物理性質"
+        },
+        {
+          "type": "heading",
+          "text": "5-3 彈 簧 的 種 類"
+        },
+        {
+          "type": "heading",
+          "text": "5-3 彈簧的種類"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 彈 簧 的 材 料"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 彈簧的材料 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "5-5 彈 簧 的 連 接 數"
+        },
+        {
+          "type": "heading",
+          "text": "※ 5-5 彈簧的連接"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "5-1 彈簧的功用"
+        },
+        {
+          "type": "heading",
+          "text": "簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈簧是一種簡單的機件,應用的範圍廣泛,特性是在受到負載"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "時會作適量的變形,負載移去後,則能恢復原來的形狀。優良 的彈簧應是一種具有高度彈性能 ( resilience ) 的彈性體,其主要"
+        },
+        {
+          "type": "heading",
+          "text": "功用如下:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "一、吸收振動 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "功"
+        },
+        {
+          "type": "paragraph",
+          "text": "例如機車、汽車及飛機之避震器。 用"
+        },
+        {
+          "type": "heading",
+          "text": "二、產生作用力"
+        },
+        {
+          "type": "paragraph",
+          "text": "例如離合器、內燃機之閥彈簧、凸輪從動件之恢復彈簧等。"
+        },
+        {
+          "type": "heading",
+          "text": "三、儲存能量"
+        },
+        {
+          "type": "paragraph",
+          "text": "例如鐘之發條、槍的扳機、鑽床回彈把手及錶的游絲等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "四、力的量度 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "110"
+        },
+        {
+          "type": "paragraph",
+          "text": "例如彈簧秤及各類功率指示器等。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈簧的功用"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 吸收振動"
+        },
+        {
+          "type": "heading",
+          "text": "(D) 力的量度"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 產生作用力"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 儲存能量"
+        },
+        {
+          "type": "heading",
+          "text": "( 避震器 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 離合器 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 錶的游絲 )"
+        },
+        {
+          "type": "heading",
+          "text": "( 彈簧秤 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "彈簧功用的應用例"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5 一 1"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "※"
+        },
+        {
+          "type": "heading",
+          "text": "5-2 彈簧的相關名詞及物理性質"
+        },
+        {
+          "type": "heading",
+          "text": "簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "相"
+        },
+        {
+          "type": "heading",
+          "text": "一、彈簧的相關名詞 關"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "詞"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "物"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "質"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "111"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-2 彈簧各部名稱"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "1. 外徑:彈簧線圈之最大直徑,又稱大徑,常以 D 表示。 簧"
+        },
+        {
+          "type": "heading",
+          "text": "o"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "相"
+        },
+        {
+          "type": "heading",
+          "text": "2. 內徑:彈簧線圈之最小直徑,又稱小徑,常以 D 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "i 關"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "3. 節徑:彈簧線圈外徑與內徑之平均值,或稱平均直徑, 詞"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "D o +D i 物"
+        },
+        {
+          "type": "paragraph",
+          "text": "常以 D 表示,即 D =。"
+        },
+        {
+          "type": "heading",
+          "text": "m m 理"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "質"
+        },
+        {
+          "type": "heading",
+          "text": "D o −D i"
+        },
+        {
+          "type": "heading",
+          "text": "4. 線徑:彈簧線材之橫截面直徑,常以 d 表示,即 d =。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "5. 自由長度:彈簧在不受外力時之全長。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "6. 實長:彈簧在受到完全壓縮時之長度。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "111"
+        },
+        {
+          "type": "heading",
+          "text": "7. 撓曲:彈簧受外力作用後之變形量,常以 X 表示。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "8. 總圈數:彈簧由一端至另一端全部的螺旋圈數。 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "相"
+        },
+        {
+          "type": "heading",
+          "text": "9. 有效圈數:用以支持負載時,能有效作用之螺旋圈數。"
+        },
+        {
+          "type": "heading",
+          "text": "關"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "10. 彈簧常數:彈簧受外力作用時,負載 ( F ) 與變形量 ( X ) 詞"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "F 物"
+        },
+        {
+          "type": "paragraph",
+          "text": "之比值,常以 K 表示,即 K =。"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "X"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "質"
+        },
+        {
+          "type": "heading",
+          "text": "11. 彈簧指數:彈簧線圈之節徑 ( D ) 與線徑 ( d ) 之比值,"
+        },
+        {
+          "type": "heading",
+          "text": "m"
+        },
+        {
+          "type": "heading",
+          "text": "D m"
+        },
+        {
+          "type": "paragraph",
+          "text": "常以 C 表示,即 C =。"
+        },
+        {
+          "type": "heading",
+          "text": "d"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "111"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "二、彈簧的物理性質 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "相"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程上所用之彈簧多使用彈性高之材料,彈簧本身所使用的位 關"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "paragraph",
+          "text": "置、承受負載之重量、運轉的溫度等,皆是影響彈簧性質之因 詞"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "heading",
+          "text": "素,其彈簧重要的物理性質及影響說明如下: 物"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "1. 工作應力:即是實際工作所承受之施力與受力面積之比值,"
+        },
+        {
+          "type": "heading",
+          "text": "質"
+        },
+        {
+          "type": "heading",
+          "text": "其影響彈簧的工作應力大小之因素有:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 彈簧承受負載的形態。 (4) 腐蝕效應。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 材料成分及熱處理。 (5) 彈簧表面狀況。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "112"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 振動及衝力的效應。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鬆弛現象:材料在高溫和應力作用下,應力隨著時間的延長 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "逐漸降低的現象。造成彈簧發生鬆弛現象之因素有: 相"
+        },
+        {
+          "type": "heading",
+          "text": "關"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 溫度升高。"
+        },
+        {
+          "type": "heading",
+          "text": "詞"
+        },
+        {
+          "type": "heading",
+          "text": "及"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 時間增加。 物"
+        },
+        {
+          "type": "heading",
+          "text": "理"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "3. 殘留應力:機件在製造過程或使用過程均可能使其材料產生"
+        },
+        {
+          "type": "heading",
+          "text": "質"
+        },
+        {
+          "type": "paragraph",
+          "text": "殘留應力。常見之改善方式有珠擊法等。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 疲勞強度:材料受反覆應力仍不致被破壞的最大限度。不良"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "的表面是彈簧的最大缺點,當彈簧有瑕疵或裂縫時,受反覆 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "112"
+        },
+        {
+          "type": "paragraph",
+          "text": "應力易生疲勞破壞。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "5-3 彈簧的種類"
+        },
+        {
+          "type": "heading",
+          "text": "簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "依材料可分為金屬彈簧、橡皮彈簧等;依受力情況可分為壓縮"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈簧、拉伸彈簧、扭轉彈簧等;以及依形狀可分為線狀彈簧、 板片彈簧及桿狀彈簧等。而本節將依形狀分類來介紹各種彈簧 種類。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "113"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "一、線狀彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "線狀彈簧是以圓形、方形或其他斷面形狀之金屬線,以捲製方 類 式製成螺旋狀之各式螺旋彈簧,其依受力情況又細分為下列幾"
+        },
+        {
+          "type": "heading",
+          "text": "種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 壓縮彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "1. 螺旋壓縮彈簧:用途很廣泛,主要承受壓力,彈簧各圈之間"
+        },
+        {
+          "type": "paragraph",
+          "text": "具有充分的間隙。壓縮彈簧的端頭有多種型式,其中以兩端"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "3 本"
+        },
+        {
+          "type": "paragraph",
+          "text": "磨平(一般約 圈,即可獲得 50% ~ 80% 的接觸面)較為 頁"
+        },
+        {
+          "type": "heading",
+          "text": "4 數"
+        },
+        {
+          "type": "heading",
+          "text": "113"
+        },
+        {
+          "type": "paragraph",
+          "text": "常見,主要是為了增加彈簧與機件間的接觸面積。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈簧的種類"
+        },
+        {
+          "type": "heading",
+          "text": "張開端張開磨平"
+        },
+        {
+          "type": "heading",
+          "text": "閉合端"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "閉合磨平切線尾型"
+        },
+        {
+          "type": "heading",
+          "text": "豬尾型"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 實物照"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 各種端頭類型"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5 一 3 螺旋壓縮彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "2. 錐形彈簧:又稱竹筍彈簧,由圓鋼線或鋼片捲成的螺旋錐形 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "體,其螺旋直徑由大變小,由於上下端直徑不同,當壓縮時 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "大端直徑先變形且變形量較大,而小端直徑部分最後變形且 變形量較小,彈簧依次內圈之小直徑可收縮進外圈之大直徑 平面內,最後可將錐形彈簧壓緊成為一扁餅形,則單位面積 上可吸收較大的能量,且能節省空間,故此種彈簧多用於小 空間,或用在彈性範圍內距離短的機件上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "114"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈簧的種類"
+        },
+        {
+          "type": "heading",
+          "text": "訂書機"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "鋼片"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 錐形彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 應用例"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 拉伸彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "在不受拉力時,彈簧螺旋的各線圈之間都緊靠一起,於受拉力"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "時伸張,主要承受拉力作用,故彈簧兩端會製成環狀或鉤狀, 而此彈簧兩端線形變化最大的地方為強度最弱處。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "114"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-5 拉伸彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 螺旋扭轉彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱螺旋扭力彈簧,彈簧各線圈之間繞成分開或緊靠的螺旋圈,"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩端的彈簧線沿切線方向伸出製成扭臂桿,當彈簧承受扭力負 荷時,負荷會沿螺旋切線方向施力於圈體四周,以彈簧軸為中 心產生一扭轉力矩而發生變形,此種彈簧廣泛用於門的樞紐。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "115"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-6 螺旋扭轉彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 特殊彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "線狀彈簧除了上列三種主要類型外,尚有眾多形狀較為特殊的"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "彈簧,其中常見的特殊彈簧簡介如下:"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "115"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "1. 單線彈簧:是僅用一條彈簧線材料彎曲成各式所需形狀。 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "115"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-7 單線彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "2. 環形彈簧:利用彈簧鋼線製成圓圈、環狀,在交叉接口處各 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "彎一小圓圈,用以放鬆彈簧的緊縮力,通常使用於軟管和硬 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "管的連接處。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "116"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-8 環形彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "二、板片彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 疊板彈簧 類"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱葉片彈簧 ( leaf spring )、板片彈簧或半橢圓疊板彈簧,是 由數片長短不同的彎曲彈簧鋼板疊置組成,在製造上必須具備 有相當的強度,彈性變形量較小,能承載較大的負載,在設計 上常做成三角形或梯形,其主要目的為使板片的每一切斷面的 彎曲應力相等,常應用於卡車、火車等車輛的底盤。兩組疊板"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈簧倒置組合使用,成為「橢圓疊板彈簧」或稱「雙疊板彈簧」 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": ",以供火車等使用。 116"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈簧的種類"
+        },
+        {
+          "type": "heading",
+          "text": "支撐端"
+        },
+        {
+          "type": "heading",
+          "text": "支撐端"
+        },
+        {
+          "type": "heading",
+          "text": "( 防止向偏移 )"
+        },
+        {
+          "type": "heading",
+          "text": "艹一"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 實體圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 應用例 ( 車輛底盤避震 )"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 兩組倒置組合"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5 一疊板彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 圓盤形彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱盤形彈簧、皿形彈簧,亦稱貝勒維爾彈簧,與傳統式的螺"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "旋壓縮彈簧截然不同,且在相同的負載下,圓盤形彈簧所需的 使用空間與本身重量都優於螺旋壓縮彈簧。 圓盤形彈簧主要的特點為負載大,行程短,組合方便,適用於 空間小、負載大之精密重機械。另外,圓盤形彈簧也可作為墊 片使用,連接件不會因振動而鬆脫,可發揮彈簧產生作用力以"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "防鬆的功能。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "117"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈簧的種類"
+        },
+        {
+          "type": "heading",
+          "text": "400kg"
+        },
+        {
+          "type": "heading",
+          "text": "400kg"
+        },
+        {
+          "type": "heading",
+          "text": "外內厚最"
+        },
+        {
+          "type": "heading",
+          "text": "巠巠度大"
+        },
+        {
+          "type": "heading",
+          "text": "程"
+        },
+        {
+          "type": "heading",
+          "text": "40mm"
+        },
+        {
+          "type": "heading",
+          "text": "20mm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺旋彈簧重量: 0 · 17kg 盤形彈簧重量: 0 · 03kg 彈簧使用空間: 42 · 7cm3 盤簧使用空間: 8 · 79cm3"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 相關尺度"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 實體圖"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 與螺旋壓縮彈簧之比較"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5 一 IO 圓盤形彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓盤形彈簧常以多個同時使用,其組合疊法方式會影響彈簧可 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "承受的負載與變形量狀況,而圓盤形彈簧的組合疊法有以下三 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 同向疊法:其負載大小與彈簧的片數成倍數正比(並聯法)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 反向疊法:其壓縮行程與彈簧的片數成倍數正比(串聯法)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 同反向混合疊法:其負載與行程皆成倍數比例累進。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "118"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-11"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圓盤形彈簧的組合疊法"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓盤形彈簧在安裝時,以圓盤形彈簧的底端(大直徑端)朝向 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "負載來源方向為原則,安裝是否正確與底座接觸的最下方圓盤 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "形彈簧方向無關。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "118"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-12 圓盤形彈簧的安裝原則"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 蝸旋扭轉彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱蝸旋扭力彈簧、渦卷彈簧,是以板狀鋼帶捲製成蝸旋線狀,"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "各圈均在同一平面上,其圈面間互不接觸,此種彈簧主要用於 儲存能量,以供給其他機件動力,如鐘錶內的發條。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "119"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-13 蝸旋扭轉彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 定力彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "是將板狀鋼帶的一端或兩端捲成環狀,其特性是在較小空間的"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "條件限制下,可輸出較大的作用力,主要用於電動機的電刷。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "119"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-14 定力彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 單片彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "係以單一彈性金屬薄片加工製成各式適當的形狀,此種彈簧在"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常生活中十分常見,如指甲剪、電源插座、電燈極座接頭、 各式電器開關、長尾夾等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "119"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-15 單片彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "( 六 ) 扣環 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "是具有彈性的開口板片簧圈,"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "可裝置在軸上或孔內的溝槽中,"
+        },
+        {
+          "type": "heading",
+          "text": "用以防止機件發生軸向運動,"
+        },
+        {
+          "type": "heading",
+          "text": "其種類依形式主要分為「 C 形"
+        },
+        {
+          "type": "paragraph",
+          "text": "扣環」及「 E 形扣環」兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "而 E 形扣環僅可用於軸上,其"
+        },
+        {
+          "type": "heading",
+          "text": "功用與 C 形扣環相同,但裝卸 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "較 C 形扣環容易。 數"
+        },
+        {
+          "type": "heading",
+          "text": "120"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-16 扣環"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "三、桿狀彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "又稱扭桿彈簧、條狀彈簧, 類"
+        },
+        {
+          "type": "heading",
+          "text": "是由一金屬圓桿製成,主"
+        },
+        {
+          "type": "heading",
+          "text": "要用來承受扭矩力,常用"
+        },
+        {
+          "type": "heading",
+          "text": "於汽車,尤其是小型客車"
+        },
+        {
+          "type": "paragraph",
+          "text": "和軍用車的懸架彈簧。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "120"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-17 桿狀彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 彈簧的材料"
+        },
+        {
+          "type": "heading",
+          "text": "簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "材"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈簧的材料必須具備高彈性能、高疲勞限度、高抗拉強度及耐"
+        },
+        {
+          "type": "heading",
+          "text": "料"
+        },
+        {
+          "type": "paragraph",
+          "text": "衝擊等特性,其材料依成分不同可分為:碳鋼及合金鋼、非鐵 合金及非金屬材料等。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "121"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "一、碳鋼與合金鋼 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "材"
+        },
+        {
+          "type": "paragraph",
+          "text": "製造鋼材彈簧時,常於碳鋼中加入矽 ( Si )、錳 ( Mn )、鉻 ( Cr ) 料、釩 ( V )、硼 ( B )、鉬 ( Mo ) 等元素,以提昇彈簧之各種物理 性質。另外,製造大型彈簧時,多用熱作加工;而小型彈簧則 先經退火,再用冷作加工捲製成形。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 熱處理彈簧鋼"
+        },
+        {
+          "type": "paragraph",
+          "text": "是先將材料加工造形後,再以「熱處理」的方法,使其具有彈"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "性,其種類有「碳鋼」與「合金鋼」。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "121"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 加工彈簧鋼 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "材"
+        },
+        {
+          "type": "paragraph",
+          "text": "有硬鋼線、琴鋼線、油回火線、不鏽鋼線、冷間壓延鋼帶等。"
+        },
+        {
+          "type": "heading",
+          "text": "料"
+        },
+        {
+          "type": "heading",
+          "text": "1. 硬鋼線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 琴鋼線:係含碳量 0.65% ~ 0.95% 之高碳彈簧鋼,具良好機"
+        },
+        {
+          "type": "paragraph",
+          "text": "械性質,抗拉強度及韌性均大,是優良的彈簧材料,是小型 彈簧之最佳材料。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 油回火線:常用於螺旋彈簧。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "4. 不鏽鋼線及鋼帶。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "122"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "二、非鐵合金 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "材"
+        },
+        {
+          "type": "paragraph",
+          "text": "此類彈簧材料具有良好的抗腐蝕性、抗磁性及高導電等特性, 料"
+        },
+        {
+          "type": "heading",
+          "text": "常用者如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 磷青銅。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鈹銅。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 孟納( Monel )合金:為銅與鎳合金,多用於食品工業。"
+        },
+        {
+          "type": "heading",
+          "text": "4. K 類孟納合金。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "5. 英高鎳( inconel )合金。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "6. 英高鎳 \"X\" 合金。 122"
+        },
+        {
+          "type": "heading",
+          "text": "7. 鎳碳鋼。 Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "三、非金屬材料 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "材"
+        },
+        {
+          "type": "paragraph",
+          "text": "橡皮彈簧的優點為具有高單位儲存能量及吸振性,且無噪音。 料 缺點為不耐高溫,不耐蝕及不耐疲勞。因彈性係數為不定值, 故不能符合虎克定律。此類彈簧最大的用途在防止振動及吸收 衝擊,作為運動的緩衝。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "123"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "※"
+        },
+        {
+          "type": "heading",
+          "text": "5-5 彈簧的連接"
+        },
+        {
+          "type": "heading",
+          "text": "簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "若有兩個或兩個以上彈簧以組合使用時,其基本的連接方式有"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "paragraph",
+          "text": "串聯與並聯兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "123"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-18 彈簧的連接方式"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "一、串聯 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈簧以頭端接尾端方式連接。 接"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "124"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-19 彈簧的串聯"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "兩組彈簧若為串聯時, 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "1. 負載(外力)等於各彈簧回復力。"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "2. 總變形量等於各彈簧變形量之和。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 僅兩組彈簧串聯時之總彈簧常數 K。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "124"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "4. 若串聯彈簧為兩組以上時,則總彈簧常數之倒數等於各彈簧 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "常數之倒數和。 連"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "125"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "二、並聯 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈簧以頭端與頭端相連、尾端與尾端相連方式並排連接。 接"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "125"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-20 彈簧的並聯"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "兩組彈簧若為並聯時, 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "連"
+        },
+        {
+          "type": "heading",
+          "text": "1. 負載(外力)等於各彈簧回復力之和。"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "2. 總變形量等於各彈簧變形量。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 僅兩組彈簧並聯時之總彈簧常數 K。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "125"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈"
+        },
+        {
+          "type": "heading",
+          "text": "4. 若並聯彈簧為兩組以上時,則總彈簧常數等於各彈簧常數之 簧"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "和。 連"
+        },
+        {
+          "type": "heading",
+          "text": "接"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "126"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈簧的連接"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-18 (A) 所示, 串聯的彈簧組中, KI"
+        },
+        {
+          "type": "heading",
+          "text": "=30N/mm, 負載為 30N,"
+        },
+        {
+          "type": "heading",
+          "text": "=20N/mm, K2"
+        },
+        {
+          "type": "heading",
+          "text": "試求總彈簧常數 K 及總變形量 X 為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "丨解 ( 1 ) 由公式 ( 5 一 1 ) 得"
+        },
+        {
+          "type": "heading",
+          "text": "KIK2"
+        },
+        {
+          "type": "heading",
+          "text": "20 × 30"
+        },
+        {
+          "type": "heading",
+          "text": "由 K ="
+        },
+        {
+          "type": "heading",
+          "text": "= 12N/mm"
+        },
+        {
+          "type": "heading",
+          "text": "K1+K2 一 20 十 30"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 由彈簧常數 K ="
+        },
+        {
+          "type": "heading",
+          "text": ", 即 X = 一得"
+        },
+        {
+          "type": "heading",
+          "text": "X"
+        },
+        {
+          "type": "heading",
+          "text": "F 30"
+        },
+        {
+          "type": "heading",
+          "text": "= 2.5mm"
+        },
+        {
+          "type": "heading",
+          "text": "K 一 12"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈簧的連接"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-18 (B) 所示, 並聯的彈簧組中, KI=20N/mm, K2=30N/mm, 負載為 30N,"
+        },
+        {
+          "type": "heading",
+          "text": "試求總彈簧常數 K 及總變形量 X 為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "解 ( 1 ) 由公式 ( 5 一 3 ) 得"
+        },
+        {
+          "type": "paragraph",
+          "text": "K = KI 十 K2 = 20 十 30 = 50N / mm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 由彈簧常數 K ="
+        },
+        {
+          "type": "heading",
+          "text": ", 即 X = 一得"
+        },
+        {
+          "type": "heading",
+          "text": "F 30"
+        },
+        {
+          "type": "heading",
+          "text": "= 0.6mm"
+        },
+        {
+          "type": "heading",
+          "text": "K 一 50"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈簧的連接"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-3"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 5-21 所示的彈簧組中"
+        },
+        {
+          "type": "heading",
+          "text": ", KI =30N/cm, K2 = K3"
+        },
+        {
+          "type": "heading",
+          "text": "= 10N/cm, 試求總彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "= 15N/cm, K4 = K5 ="
+        },
+        {
+          "type": "heading",
+          "text": "常數 K 為何?"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-21 彈簧組"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "彈簧的連接"
+        },
+        {
+          "type": "paragraph",
+          "text": "I 解 ( 1 ) K2 及 K3 為並聯, 由公式 ( 5-3 ) 得 K23 = K2+K3= 15 十 15 = 30N/cm ( 2 ) K4、 K5、 K6 為並聯, 由公式 ( 5 一 4 ) 得 K456 = K4+K5+K6= 10 十 10 十 10 = 30N/cm ( 3 ) KI、 K23、 K456 為串聯, 由公式 ( 5 一 2 ) 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "30 一 10"
+        },
+        {
+          "type": "heading",
+          "text": "K KI K23 K456"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "則 K = 10N/cm"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_upper_ch05/p048.jpg"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH10",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_001",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "12 · 如圖所示, 有一模具用沖床夾持材料, 欲將此材料凸出之部位剪斷, 已知此部位之高度為 50 mm, 而其寬度為 80 mm, 若施於沖頭之作用力為 240 kN, 試求此時材料所受之剪應力為多少 MPa?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch10/p043_0_0_0_r.png",
+      "options": [
+        "30",
+        "60",
+        "75",
+        "120 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_002",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "14 · 如圖所示, 一皮帶傳動軸用 8 × 8 × 25 mm 的鍵與皮帶輪連接, 皮帶的緊邊張力為 800 N, 鬆邊張力為 300 N, 皮帶輪直徑 400 mm, 傳動軸直徑 50 mm, 試求鍵所受的平均剪應力為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch10/p043_0_0_0_r.png",
+      "options": [
+        "10 MPa",
+        "20 MPa",
+        "40 MPa",
+        "50 MPa 。 50mm B | 40mm 80mm 從動 800N 300N 1 0-2 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_003",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "16 · 當延性材料的試桿作拉力試驗斷裂時, 其斷裂面與桿的軸向成 45 。 角, 主要是因為延性材料的何者強度較差之故?",
+      "image_url": "",
+      "options": [
+        "抗拉強度",
+        "抗壓強度",
+        "抗剪強度",
+        "抗彎強度 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_004",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "17 · 拉力試驗機的試片受軸向拉力 8000N 作用, 如圖所示, 若試片厚度為 4 mm, 試片寬度為 25 mm, 則試片截面上的最大剪應力為多少 MPa?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch10/p044_0_0_0_r.png",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "80 8000N 8000N 25mm )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_005",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "18 · 如圖所示之單軸向負荷, 截面積為 A, 受拉力 p 作用, 斜面 m - n 斷面上剪應力的大小, 下列敘述何者錯誤?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch10/p044_0_0_0_r.png",
+      "options": [
+        "0 = 0 。 時, 的大小為零",
+        "0 = 45 。 時, 的大小為一一",
+        "最大剪應力... 的大小為一",
+        "O = 30 。 時, 的大小為 4 0 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_006",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "19 · 如圖所示, 一矩形鋼桿的截面尺寸為 60 mm × 40 mm, 若該桿件材料的容許張應力為 120 MPa, 容許剪應力為 55 MPa, 則該桿件容許的軸向張力負荷 p 為?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch10/p044_0_0_0_r.png",
+      "options": [
+        "132kN",
+        "144kN",
+        "264kN",
+        "288kN 。 40mm 60mm 截面 a-a )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_007",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "20 · 一正方形之物體, 在四邊各承受一剪力 F, 如圖所示, 試問該物體內部在 45 。 斜面位置 ( 虛線所示 ) 之剪力為何?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch10/p044_0_0_0_r.png",
+      "options": [
+        "U5F",
+        "F",
+        "",
+        "0 。 94"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_008",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "22 · 有一圓桿承受 p = 60 kN 的張力作用, 若此材料安全因數取 2, 其極限張應力為 300 MPa, 極限剪應力為 160 MPa, 試求此圓桿之最小安全斷面積為多少 mm2?",
+      "image_url": "",
+      "options": [
+        "375",
+        "200",
+        "750",
+        "400 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_009",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "23 · 一矩鋼柱受軸向拉力 p = 200 kN, 其橫斷面的邊長為 2 cm 的正方形, 求此鋼柱內 mn 平面上之正交應力為多少 MPa?",
+      "image_url": "",
+      "options": [
+        "125",
+        "250",
+        "375",
+        "125 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_010",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "24 · 同上題, mn 平面上之剪應力為多少 MPa?",
+      "image_url": "",
+      "options": [
+        "125",
+        "一 125",
+        "125",
+        "一 125 。 30 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_011",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "25 · 若主平面上之最大應力為 200 MPa, 最小應力為 100 MPa, 則該平面上的剪應力為多少 MPa?",
+      "image_url": "",
+      "options": [
+        "150",
+        "100",
+        "50",
+        "0 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_012",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "26 · 在主平面 ( principalplane ) 上之敘述何者正確?",
+      "image_url": "",
+      "options": [
+        "正交應力必為零",
+        "有最大及最小之正交應力",
+        "有最大之剪應力",
+        "有最小之剪應力 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_013",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "27 · 某平面元素應力, 如圖所示, 下列敘述何者不正確?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch10/p045_0_0_0_r.png",
+      "options": [
+        "160 MPa 為最大主應力 160MPa",
+        "- 60 MPa 為最小主應力",
+        "出現主應力和最大剪應力的平面之夾角為 45 度角",
+        "最大剪應力為 50 MPa 。 60MPa 160MPa 60MPa )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_014",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "29 · 某材料承受雙軸向應力作用, 若 。 丶 = 300 MPa, = 100 MPa, 則其所生之最大剪應力為?",
+      "image_url": "",
+      "options": [
+        "400",
+        "200",
+        "100",
+        "50 。 95"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH10_015",
+      "subject": "機械力學",
+      "unit": "CH10",
+      "q": "30 · 如圖所示, 一材料受互相垂直的雙軸向應力, 。 丶 = 120 MPa, 試求 mn 截面上的正交應力為多少 MPa?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch10/p046_0_0_0_r.png",
+      "options": [
+        "140",
+        "180",
+        "20",
+        "10 30 。 、 計算題 = 200 MPa,"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

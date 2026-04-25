@@ -1,0 +1,309 @@
+{
+  "bundle_id": "TEXT_MECH_MFG_CH02",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MFG_CH02_001",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "2 · 0 % 。 18-8 型不鏽鋼含約 18 % 之",
+      "image_url": "",
+      "options": [
+        "鉻",
+        "碳",
+        "鐵",
+        "鎳 。 普通鑄鐵中加入鎂 、 鈰等球化劑, 可得 (A) 延性鑄鐵 (B) 展性鑄鐵 (C) 可鍛鑄鐵 (D) 白鑄鐵 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_002",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "6. 地殼上蘊藏最豐富的金屬元素是",
+      "image_url": "",
+      "options": [
+        "鋁",
+        "銅",
+        "鐵",
+        "鎂 。 導電性最好的金屬元素是 (A) 鋁 (B) 銅 (C) 銀 (D) 金 。 比重較小的金屬元素是 (A) 鋁 (B) 銅 (C) 鎂 (D) 鈦 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_003",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "9. 德國工業標準之縮寫為",
+      "image_url": "",
+      "options": [
+        "DIN",
+        "BS",
+        "ANSI",
+        "JIS 。 2-2 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_004",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "10. 下列材料代號中, 何者是普通碳鋼?",
+      "image_url": "",
+      "options": [
+        "SAE1030",
+        "SAE1313",
+        "SAE4023",
+        "SAE3140 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_005",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "14. 中華民國國家標準 (CNS) 之普通鋼鐵材料編號分三部分, 其中第三部分表示",
+      "image_url": "",
+      "options": [
+        "主要元素",
+        "製品用途",
+        "含碳量",
+        "種類或最低抗拉強度 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_006",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "16. SNCM241 為",
+      "image_url": "",
+      "options": [
+        "第二種氮碳錳鋼",
+        "第二種鎳鉻鉬鋼",
+        "第二種鎳錳碳鋼",
+        "第二種鉻錳氮化鋼 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_007",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "17 · 下列何者為中華民國國家標準之材料編號",
+      "image_url": "",
+      "options": [
+        "SAE1340",
+        "St34",
+        "SKI",
+        "AIS13140 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_008",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "18 · 下列敘述何者正確?",
+      "image_url": "",
+      "options": [
+        "S45c 和 Ss450 的意義相同",
+        "S45C 比 S22C 鋼的鍛造性好",
+        "S45C 比 S22C 鋼的銲接性好",
+        "S45C 比 S22C 鋼的硬度高 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_009",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "19 · CNS 規範中, 下列何者代表管?",
+      "image_url": "",
+      "options": [
+        "P",
+        "T",
+        "F",
+        "W )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_010",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "20 · CNS 規範中, 下列何者代表彈簧鋼?",
+      "image_url": "",
+      "options": [
+        "SUP",
+        "SCM",
+        "SKH",
+        "SK 。 )21. 下列有關銅合金之敘述何者不正確? (A) 銅加鋅成為黃銅 (B) 銅加錫成為青銅 (C) 快削黃銅由黃銅加鎳而成 (D) 黃銅之銲接性不錯 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_011",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "22 · 下列有關鋁之敘述何者不正確?",
+      "image_url": "",
+      "options": [
+        "屬於輕金屬",
+        "導電性好",
+        "抗蝕性高",
+        "冷作加工性差 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_012",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "23 · 下列各種機械材料中, 哪一種材料的切削性最好?",
+      "image_url": "",
+      "options": [
+        "沃斯田鐵系不鏽鋼",
+        "白鑄鐵",
+        "中碳鋼",
+        "高碳鋼 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_013",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "24 · 下列有關碳鋼加工性的敘述, 那一項為正確?",
+      "image_url": "",
+      "options": [
+        "碳鋼的切削性與其含碳量沒有關係",
+        "碳鋼的冷作鍛造性與含碳量成反比",
+        "碳鋼的性比鑄鐵為佳",
+        "碳鋼的銲接性與含碳量成正比 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_014",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "25 · 下列何種材料之鑄造性最好?",
+      "image_url": "",
+      "options": [
+        "灰鑄鐵",
+        "不鏽鋼",
+        "低碳鋼",
+        "鑄鋼 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_015",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "26 · 鋁合金之何種性質最差?",
+      "image_url": "",
+      "options": [
+        "鑄造性",
+        "鍛造性",
+        "銲接性",
+        "切削性 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_016",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "27 · 下列何種材料之切削性最好?",
+      "image_url": "",
+      "options": [
+        "灰鑄鐵",
+        "白鑄鐵",
+        "低碳鋼",
+        "快削鋼 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_017",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "28 · 碳鋼加入何種元素無法改善其切削性?",
+      "image_url": "",
+      "options": [
+        "鉛",
+        "硫",
+        "磷",
+        "鉻 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_018",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "29 · 下列何種鑄鐵具有最好的切削性?",
+      "image_url": "",
+      "options": [
+        "灰鑄鐵",
+        "白鑄鐵",
+        "展性鑄鐵",
+        "延性鑄鐵 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MFG_CH02_019",
+      "subject": "機械製造",
+      "unit": "CH2",
+      "q": "30 · 下列何種材料無迲冷作成形?",
+      "image_url": "",
+      "options": [
+        "銅",
+        "鋁",
+        "鎂",
+        "鋅 。 55"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

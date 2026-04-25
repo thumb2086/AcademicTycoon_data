@@ -80,6 +80,214 @@
       "a": 0,
       "reward": 15,
       "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_006",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "1. 圓軸受扭轉時所誘生之應力為何? 與壓應力 (D) 剪應力 。 學後評量",
+      "image_url": "",
+      "options": [
+        "拉應力",
+        "壓應力",
+        "",
+        "剪應力 。 學後評量 (A) 拉應力 (B) 壓應力 (C) 拉應力 1 2 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_007",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "3 · 下列何者丕減少圓軸總扭轉角的方法",
+      "image_url": "",
+      "options": [
+        "降低外加扭矩",
+        "減少軸之總長度",
+        "增加材料之剪力彈性係數",
+        "增加材料之延性 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_008",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "5 · 若旋轉軸之傳送功率改變為原來之 3 倍 ( 若轉速相同時 ), 而直徑變為原來之兩倍, 則軸所受之剪應力變為原來之",
+      "image_url": "",
+      "options": [
+        "一倍",
+        "一倍",
+        "- 倍",
+        "一倍 16 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_009",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "6 · 一銅棒長度為 L, 直徑為 D, 承受扭矩 T 作用後, 產生之扭轉角為 ¢, 將相同材料之銅棒長度更改為 2L 、 直徑更改為 2D, 扭矩更改為 4T, 則產生之扭轉角度變為多少 ¢?",
+      "image_url": "",
+      "options": [
+        "",
+        "",
+        "一 ¢",
+        "一 ¢ 235"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_010",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "1.80 之扭轉角, 若軸之剪力彈性係數 G = 80 GPa, 試求施於此軸所承受之扭矩為多少 N-m?",
+      "image_url": "",
+      "options": [
+        "4 兀",
+        "40 兀",
+        "400 兀",
+        "4000 兀 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_011",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "9 · 一實心圓軸, 直徑為 3 cm, 其承受之扭矩為 54 N-m, 試求其表面所產生之最大剪應力為多少 MPa?",
+      "image_url": "",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "32 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_012",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "10 · 如圖所示桿 A 端固定, AB 段的直徑為 2 cm, 100 N - m BC 段的直徑為 1 cm, 圓桿的剪力彈性係數為 80 GPa, 則 AB 段之圓桿所受剪應力的大小為多少 MPa?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch13/p022_0_0_0_r.png",
+      "options": [
+        "20",
+        "40",
+        "80",
+        "160 。 A )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_013",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "12 · 承受扭轉之圓軸, 如為減輕重量及節省材料, 又不致降低軸承受扭轉之強度, 通常可採用空心圓軸, 主要是因",
+      "image_url": "",
+      "options": [
+        "剪應力在表面最大, 愈靠軸心愈小",
+        "剪應力在表面最小, 愈靠軸心愈大",
+        "軸向應力在表面最大, 愈靠軸心愈小",
+        "軸向應力在表面最小, 愈靠軸心愈大 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_014",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "3 · 14, 冗 10 )",
+      "image_url": "",
+      "options": [
+        "60",
+        "75",
+        "90",
+        "120 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_015",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "1.2 兀 kW, 若軸所受之最大 64 剪應力為一 MPa, 則此時傳動軸之每分鐘轉速為多少 rpm",
+      "image_url": "",
+      "options": [
+        "300",
+        "600",
+        "1200",
+        "1800 0 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_016",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "18 · 若相同材料之兩鋼軸當傳遞相同馬力時, 兩鋼軸之直徑比與轉速比之關係為",
+      "image_url": "",
+      "options": [
+        "立方成正比",
+        "立方成反比",
+        "立方根成正比",
+        "立方根成反比 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_017",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "19 · 兩材質相同之實心圓軸, 當兩軸承受相同剪應力時, A 軸的直徑為 B 軸 1 的 4 倍, 而 A 軸的轉速為 B 軸的一, 則 A 軸所能傳達的功率為 B 軸的多 4 少倍?",
+      "image_url": "",
+      "options": [
+        "64",
+        "16",
+        "4",
+        "1 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH13_018",
+      "subject": "機械力學",
+      "unit": "CH13",
+      "q": "20 · 欲設計一實心圓軸, 以 2000 rpm 的轉速來傳遞 20 兀 kW 的動力, 若圓軸 225 之材料降伏剪應力為一一 MPa, 安全因數為 3, 則軸的直徑至少為多少?",
+      "image_url": "",
+      "options": [
+        "20 mm",
+        "30 mm",
+        "40 mm",
+        "50 mm"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
     }
   ]
 }

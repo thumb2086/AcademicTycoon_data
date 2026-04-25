@@ -1,0 +1,2221 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH08",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH08",
+    "title": "CH8"
+  },
+  "title": "機械力學 Chapter 8 功與能",
+  "source_pdf": "mechanical_mechanics/CH8PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH08",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "功與能"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "8-1 功、功率及其單位 1. 瞭解功的定義和其單位。 8-2 動能與位能 2. 瞭解功率的定義和其單位。 8-3 能量不滅定律 3. 瞭解動能與位能。 8-4 能損失與機械效率 4. 瞭解能量不滅定律並有清楚的觀 念。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 瞭解能損失與機械效率。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "272"
+        },
+        {
+          "type": "paragraph",
+          "text": "功是屬於物體外在的表現,能是物體潛藏的本領。能量為物體具有作功的本領,對物 體作功可增加物體或減少物體之能量 ( 圖 8-1)。不同於前幾章用力量、力矩平衡的觀念來 計算,本章改由能量的觀念來解題,如果能善用能量守恆原理,就能探討更高深的力學問 題了。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-1 郭婞淳出賽 2017 年世大運挺破世界紀錄,奪女子 58 公斤級金牌 ( 記者蘇健忠/攝影 )"
+        },
+        {
+          "type": "heading",
+          "text": "8-1 功、功率及其單位"
+        },
+        {
+          "type": "heading",
+          "text": "1. 功"
+        },
+        {
+          "type": "paragraph",
+          "text": "在第七章中,我們已經了解並認識牛頓三大運動定律,但是牛頓在當時還不 知道「功與能」的概念。我們由牛頓第三運動定律中可知,作用在一物體上的作 用力,在作用的時間中會使物體產生位移,而此作用力與物體位移的乘積,就是 本章節要討論的「功」了,所以我們將功定義成: 作用力的大小與物體之運動位 移的乘積,稱為這個作用力對物體作功 (work)。 若物體沿作用力 F 方向產生的位移為 S,則此力作功 W 之大小為:"
+        },
+        {
+          "type": "heading",
+          "text": "W = F × S ( 公式 8-1)"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉動功 W = F × S = F × r × q = T × q ( 公式 8-2)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 273"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "即使存在力,也可能沒有作功。例如,在等速率圓周運動中,向心力沒有作功,因為做圓周運動的物體 的動能沒有發生變化。同樣的,桌上的一本書,儘管桌對書有支持力,但因沒有位移而沒有作功。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-2 力對物體作功"
+        },
+        {
+          "type": "heading",
+          "text": "直線運動之功 圓周運動之功"
+        },
+        {
+          "type": "heading",
+          "text": "絕對單位 W:功"
+        },
+        {
+          "type": "heading",
+          "text": "F:力 S:位移 T:扭矩 q:角位移"
+        },
+        {
+          "type": "heading",
+          "text": "J = N-m N m N-m rad"
+        },
+        {
+          "type": "heading",
+          "text": "MKS"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 焦耳 = 牛頓 - 公尺 ) ( 牛頓 ) ( 公尺 ) ( 牛頓 - 公尺 ) ( 弧度 ) erg = dyne-cm dyne cm dyne-cm rad"
+        },
+        {
+          "type": "heading",
+          "text": "CGS"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 爾格 = 達因 - 公分 ) ( 達因 ) ( 公分 ) ( 達因 - 公分 ) ( 弧度 )"
+        },
+        {
+          "type": "heading",
+          "text": "5 7"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: 1 焦耳 = 1 牛頓. 1 公尺 = 10 達因 × 100 公分 = 10 爾格 如圖 8-2 所示,若作用力與位移之方向不相同時,則作用力在物體產生的功, 應為 作用力之有效力 (effective force) 與物體位移的乘積。而作用之有效力即為此 力在該位移方向的分力。公式可改寫成: W = ( F cos θ ) × S ( 公式 8-3)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "274"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-3 人用力推汽車,汽車仍不動, ▲ 圖 8-4 提水桶等速水平移動,不作功"
+        },
+        {
+          "type": "heading",
+          "text": "人對汽車不作功"
+        },
+        {
+          "type": "heading",
+          "text": "功的特性如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當 q = 0 ° 時, cos q = 1,即作用力與物體位移方向相同。 W = F × S,表示作用 力對物體作正功 ( 圖 8-3)。 (2) 當 q = 90 ° 時, cos q = 0,即作用力與物體位移方向垂直。 W = 0,作用力對 物體不作功,例如:某人的手鉛直向上提著水桶,而水桶在水平面上移動 ( 圖 8-4) 或單擺繩子張力所作的功。 (3) 當 q = 180 ° 時, cos q = - 1,即作用力與物體位移方向相反。 W = - F × S, 表示作用力對物體作負功,如摩擦力。 (4) 若 cos q > 0 則 作 用 力 對 物 體 作 正 功, cos q < 0 則 作 用 力 對 物 體 作 負 功 ( 圖 8-5、圖 8-6)。 (5) 功有大小正負之分為純量。 (6) 功的總合為多個作用力各自單獨對物體作功後的和。"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "力量對物體作功時會增加物體的能量,作負功時則"
+        },
+        {
+          "type": "paragraph",
+          "text": "會降低物體的能量 ( 例如摩擦力會使物體減速 )。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 275"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 8-5 力與位移間的夾角不同,作功也不同 ▲ 圖 8-6 作正功、不作功與作負功"
+        },
+        {
+          "type": "heading",
+          "text": "2. 功率及其單位"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 功率 (power)"
+        },
+        {
+          "type": "paragraph",
+          "text": "功的大小代表作用力對物體的作功多寡,但為了討論作功的速率,必須納 入時間的因素,才能知道此作用力作功的效益。因此 單位時間內所作的功稱為 功率,設在 t 時間內作了 W 的功,則功率 P 為:"
+        },
+        {
+          "type": "heading",
+          "text": "W F × S"
+        },
+        {
+          "type": "heading",
+          "text": "P = = = F × V ( 公式 8-4)"
+        },
+        {
+          "type": "heading",
+          "text": "t t"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉動功率 = F × V = F × r × ω = T × ω ( 公式 8-5)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "276"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "功率也是作功的速率。當一個人搬著一重物爬了一層的樓梯,不論他是慢慢的走上樓梯或是快跑上樓梯, 對重物作的功是相等的,但若考慮其功率,快跑上樓梯會在較短的時間內對物體作相同大小的功,因此 其功率較大。"
+        },
+        {
+          "type": "heading",
+          "text": "直線運動之功率 圓周運動之功率"
+        },
+        {
+          "type": "heading",
+          "text": "絕對單位 功率"
+        },
+        {
+          "type": "heading",
+          "text": "F:力 V:速度 T:扭矩 ω:角速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "W = N-m/s N m/s N-m rad/s"
+        },
+        {
+          "type": "heading",
+          "text": "MKS"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 瓦特 = 牛頓 - 公尺 / 秒 ) ( 牛頓 ) ( 公尺 / 秒 ) ( 牛頓 - 公尺 ) ( 弧度 / 秒 ) erg/s = dyne-cm/s dyne cm/s dyne-cm rad/s"
+        },
+        {
+          "type": "heading",
+          "text": "CGS"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 爾格 / 秒 = 達因 - 公分 / 秒 ) ( 達因 ) ( 公分 / 秒 ) ( 達因 - 公分 ) ( 弧度 / 秒 )"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 功率之單位"
+        },
+        {
+          "type": "paragraph",
+          "text": "常 用 的 功 率 單 位 有「 瓦 特 」 和「 馬 力 」, 國 際 單 位 MKS 制 中, 1 秒 內 作 功 1 焦 耳 稱 為 1 瓦 特 (W), 為 紀 念 發 明 蒸 氣 機 的 蘇 格 蘭 工 程 師 瓦 特 (James Watt, 1736 ∼ 1819) 所制訂。因瓦特單位較小,故常以仟瓦為單位, 即 1 仟瓦 (kW) = 1000 瓦 (W)。 1 1 公制馬力 (PS) = 736 瓦 ( 國際單位 ) = 75 kgf-m/s ( 重力單位 )。"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 1 仟瓦小時 = 1 度電 = 1000 瓦 × 3600 秒 = 3.6 × 10 焦耳。仟瓦小時、度電 為功之單位。"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 力的單位是牛頓,但是因為 1 PS = 75 kgf-m/s,所以在用馬力計算功率時,我們習慣用 kgf 來計算。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 功率就是力量乘上速度,所以碰到功率問題時,第一先找出力的大小,再來就是求出沿力方向的速"
+        },
+        {
+          "type": "paragraph",
+          "text": "度即可。"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "3. 1 PS = 736 Watt, 1 仟瓦 = PS = 1.36 PS。"
+        },
+        {
+          "type": "heading",
+          "text": "0 736."
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 277"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-1 題型:作用力與位移平行的情況"
+        },
+        {
+          "type": "paragraph",
+          "text": "質量為 100 kg 的物體靜置一光滑水平面上,若施以 200 N 水平力,則該力在"
+        },
+        {
+          "type": "heading",
+          "text": "4 秒內所作的功為多少焦耳?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 F = ma,則 200 = 100a, a = 2 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "S = V t 0 + at = 0 + × 2 × 4 = 16 m"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "W = F × S = 200 × 16 = 3200 焦耳"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "一重量為 196 N 之物體,靜置於一光滑之平面上,若以 80 N 之水平力推之, 試求 2 秒後力量對物體所作的功。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-2 題型:作用力與位移不平行的情況"
+        },
+        {
+          "type": "paragraph",
+          "text": "川普提一重 60 N 之背包,於 (1) 水平面上行走 10 m; (2) 沿一與水平面成 30°"
+        },
+        {
+          "type": "heading",
+          "text": "之斜面走 10 m,求川普對背包所作之功各為何?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 如圖所示,力與位移成垂直,"
+        },
+        {
+          "type": "heading",
+          "text": "故沿力之方向之位移為 0"
+        },
+        {
+          "type": "heading",
+          "text": "∴ W = F × S = 60 × 0 = 0"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 如圖所示,沿力之方向之位移為 S = 10 × = 5 m"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ W = F × S = 60 × 5 = 300 焦耳"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "一 5 kg 物體置於光滑水平面上,用一與鉛直方向成 30° 角之 100 牛頓力拉之,"
+        },
+        {
+          "type": "heading",
+          "text": "使移動 10 m,則力量作功若干?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "278"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-3 題型:直線運動的功率"
+        },
+        {
+          "type": "paragraph",
+          "text": "起重機在 10 秒內,以等速上升舉起一質量為 184 kg 的物體上升 20 m,則此起"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "重機的功率為多少瓦特?多少馬力? (g = 10 m/s )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用功率為單位時間所作的功, 1 瓦 = 1 N-m/s, 1 馬力 = 736 瓦 W F × S ( 184 × 10 ) × 20"
+        },
+        {
+          "type": "heading",
+          "text": "P = = = = 3680 N-m/s"
+        },
+        {
+          "type": "heading",
+          "text": "t t 10"
+        },
+        {
+          "type": "heading",
+          "text": "3680"
+        },
+        {
+          "type": "heading",
+          "text": "3680 瓦 = ≒ 5 馬力"
+        },
+        {
+          "type": "heading",
+          "text": "736"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "若吊車在 5 秒內,將重 2000 N 的建材以等速上升吊至 10 m 高處,則此吊車的"
+        },
+        {
+          "type": "heading",
+          "text": "輸出功率為多少 kW?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-4 題型:已知功率求作用力與速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tesla 電動車以 240 馬力及時速 108 km/hr 等速前進,試求此時引擎施於汽車的"
+        },
+        {
+          "type": "heading",
+          "text": "向前推力為多少牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用 P = F × V, 1 馬力 = 736 瓦, V = 108 km/hr = 30 m/s P = F × V, 240 × 736 = F × 30"
+        },
+        {
+          "type": "heading",
+          "text": "F = 5888 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "起重機的功率為 20 PS,欲舉起質量 368 kg 的物體,該起重機的上舉速度為多"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "少 m/s? ( 若 g = 10 m/s )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 279"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-5 題型:圓周運動的功率"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一傳動圓軸承受 1600 N-m 之扭矩,且轉速為 300 rpm,則此軸能傳送之功率"
+        },
+        {
+          "type": "heading",
+          "text": "為多少仟瓦?多少馬力?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "功率 P = T × ω = 1600 × 10 π = 16000 π 瓦特"
+        },
+        {
+          "type": "heading",
+          "text": "16000 π"
+        },
+        {
+          "type": "heading",
+          "text": "= 16 π 仟瓦 = PS = 68.3 PS"
+        },
+        {
+          "type": "heading",
+          "text": "736"
+        },
+        {
+          "type": "heading",
+          "text": "300 × 2 π rad"
+        },
+        {
+          "type": "paragraph",
+          "text": "(N: 300 rpm, ω = = 10 π rad/s)"
+        },
+        {
+          "type": "heading",
+          "text": "6 0 s"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "一皮帶輪轉速為 300 rpm,直徑為 20 cm,皮帶緊邊張力為 3000 N,鬆邊張力 為 1000 N,則此皮帶輪能傳送多少 kW?多少 PS?"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 下列有關功的敘述何者正確? (A) 功屬於純量 (B) 功之單位由力與 速度的單位組成 (C) 功的正負號代表功的方向 (D) 作用力與受力物 體的位移互相垂直時,所作的功最大。 ( ) 2. 下 列 何 者 為 CGS 制 的 功 率 單 位? (A) 馬 力 (HP) (B) 瓦 特 (Watt) (C) 焦耳 / 秒 (Joule/s) (D) 爾格 / 秒 (erg/s)。 ( ) 3. 下列有關功及功率的敘述,何者錯誤? (A) 單位時間所作功,即稱 為功率 (B) 固定作用力所作的功為有效力乘以位移 (C) 固定作用力 所作的功為作用力乘以有效位移 (D) 一力系對一剛體所作的功,不 等於各力單獨對該剛體作功的總和。 ( ) 4. 質量為 10 kg 的物體,靜置於光滑的水平面上,受到 60 N 的水平 力作用而移動 5 m,則該力所作的功為多少焦耳? (A) 12 (B) 50 (C) 300 (D) 600。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "280"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 有一堆高機在 9.8 秒內,將 200 kg 的麵粉升高 10 m,則此堆高機所輸 出的功率為多少瓦? (A) 2000 (B) 1000 (C) 200 (D) 100。 ( ) 6. 某一年青人扛著 500 N 重的木箱,以等速沿著一與水平成 30° 的斜坡 向上走,在 60 秒內走完全長 120 m 之斜坡,則此年青人對此木箱所 作的功率為多少瓦特? (A) 1000 (B) 865 (C) 600 (D) 500。 ( ) 7. 龍門鉋床鉋削鑄件,當切削速度為 20 m/min 時,利用儀器測得鉋削 阻力為 300 N,則鉋削加工時所消耗的功率為多少瓦特 (W)? (A) 0.1 (B) 6 (C) 100 (D) 6000。 ( ) 8. 如圖所示,重量 100 N 的物體,沿著 30 ° 的斜面 以初速度 V 向上運動,在斜面上前進 4 m 後運 動停止。已知物體與斜面之間的動摩擦係數為"
+        },
+        {
+          "type": "heading",
+          "text": "0.25,求該物體在此運動過程中,摩擦力所作的"
+        },
+        {
+          "type": "paragraph",
+          "text": "功為多少焦耳? (A) 50 J (B) 50 3 J (C) 100 J (D) 100 3 J。 ( ) 9. 近年來所發展出的 CNC 綜合加工中心機可以說是集中銑、搪、鑽和 攻螺紋等多道加工程序於一身的設備。某精密產業製造廠在加工工件 時,將 CNC 綜合加工中心機 Z 軸的主軸轉速設定為 12000 rpm,並且 夾持使用 φ 10 mm 高速鋼端銑刀,當以此切削條件加工時,利用儀器 測得切削阻力為 500 N,則試求此時加工刀具的切削線速度 V 為多少"
+        },
+        {
+          "type": "heading",
+          "text": "m/min?且所消耗的功率 P 為多少 kW?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) V = 376.8, P = 1.57 (B) V = 376.8, P = 3.14 (C) V = 188.4, P = 1.57 (D) V = 188.4, P = 3.14。 ( ) 10. 如圖所示,在某遊樂園滑水道設施中,有一 位質量 m 為 20 kg 的小朋友自靜止狀態,沿 著傾斜角 q 為 30 ° 而高度 H 為 5 m 的滑水道"
+        },
+        {
+          "type": "heading",
+          "text": "頂點往下滑,如果不考慮水的阻力和所有摩"
+        },
+        {
+          "type": "paragraph",
+          "text": "擦力等因素,則從滑水道頂點下滑到滑水道底部所需的時間 t 為多少 秒?在此同時下滑力所作的功 W 為多少 N-m? ( 假設重力加速度 ="
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "10 m/s )? (A) t = 2, W = 1000 (B) t = 2.5, W = 1200 (C) t = 3, W = 1500 (D) t = 3.5, W = 1600。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 281"
+        },
+        {
+          "type": "heading",
+          "text": "8-2 動能與位能"
+        },
+        {
+          "type": "paragraph",
+          "text": "功是一種外在的表現狀態,而 能 (energy) 則是一種內在的潛藏本領。功與能是一體兩 面的,物體產生作功是因為內含有能的存在。如圖 8-7 所示,吊車吊起重物的外在表現狀 態即為作功,然而吊車並不會平白無故的吊起重物,必須依靠內在的轉化機制即為能,所 以 功與能是同時存在且可互相轉換。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-7 吊車作業圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體因其性質、溫度、位置及運動狀態的不同,而有不同的能。例如:核子分裂或融 合產生的核子能、溫度變化產生的熱能、機械作動產生的機械能等。因此 凡物體具有作功 的能力,則稱物體具有能。能的單位與功相同為純量。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 作功與動能"
+        },
+        {
+          "type": "paragraph",
+          "text": "動能 (kinetic energy): 物體因為運動所具有的能量稱為動能 E k。 如圖 8-8 所 示,當一個質量為 m 的物體在光滑水平面上,受水平力 F 向右作用,作等加速運 動,產生加速度 a,向右位移 S 後,末速度為 V。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-8 動能的變化"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "282"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 V"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體靜止受力即 (V 0 = 0),由 V = V 0 + 2 aS,得到 S =。"
+        },
+        {
+          "type": "heading",
+          "text": "2 a"
+        },
+        {
+          "type": "paragraph",
+          "text": "牛頓第二運動定律 F = ma,則此力 F 對物體所作的功為:"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "W = F × S = ma × = mV"
+        },
+        {
+          "type": "heading",
+          "text": "2 a 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "E k = mV ( 公式 8-6)"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "絕對單位 E k:動能 m:質量 V:速度"
+        },
+        {
+          "type": "heading",
+          "text": "J = N-m kg m/s"
+        },
+        {
+          "type": "heading",
+          "text": "MKS"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 焦耳 = 牛頓 - 公尺 ) ( 公斤 ) ( 公尺 / 秒 )"
+        },
+        {
+          "type": "heading",
+          "text": "erg = dyne-cm dyne cm/s"
+        },
+        {
+          "type": "heading",
+          "text": "CGS"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 爾格 = 達因 - 公分 ) ( 達因 ) ( 公分 / 秒 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "1 m m"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: SI 制單位: F × S = mV 2, N m - = kg × 2 = ( kg × 2 ) × m"
+        },
+        {
+          "type": "heading",
+          "text": "2 s s"
+        },
+        {
+          "type": "paragraph",
+          "text": "依據動能的含意,我們可得知當兩物體運動時, (1) 速度相同時,動能和質量 成正比。若將物體的質量加倍,則動能變為 2 倍,圖 8-9(a)。 (2) 質量相同時,動 能和速度平方成正比。若將物體的速度加倍,則動能變為 4 倍,圖 8-9(b)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 速度相同,質量加倍 (b) 質量相同,速度加倍"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-9 動能與質量、速度的關係"
+        },
+        {
+          "type": "heading",
+          "text": "2. 作功與位能"
+        },
+        {
+          "type": "paragraph",
+          "text": "位 能 (potential energy) 因 形 式 的 不 同, 可 區 分 為 重 力 位 能 (gravitational potential energy) 及彈性位能 (elastic potential energy) 兩種。 (1) 重力位能:物體在重力場中,因 高度位置的改變所具有的能量稱為重力位能。 當一個質量為 m 的物體,由初始高度上升到最後高度,物體上升高度位置為 h 所作的功即等於重力位能 E p。"
+        },
+        {
+          "type": "heading",
+          "text": "W = F × S = mgh"
+        },
+        {
+          "type": "heading",
+          "text": "E P = mgh ( 公式 8-7)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 283"
+        },
+        {
+          "type": "paragraph",
+          "text": "絕對單位 E p:重力位能 m:質量 g:重力加速度 h:高度差"
+        },
+        {
+          "type": "heading",
+          "text": "J = N-m kg 2 m"
+        },
+        {
+          "type": "heading",
+          "text": "MKS 9.8 m/s"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 焦耳 = 牛頓 - 公尺 ) ( 公斤 ) ( 公尺 )"
+        },
+        {
+          "type": "heading",
+          "text": "erg = dyne-cm dyne 2 cm"
+        },
+        {
+          "type": "heading",
+          "text": "CGS 980 cm/s"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 爾格 = 達因 - 公分 ) ( 達因 ) ( 公分 )"
+        },
+        {
+          "type": "heading",
+          "text": "m m"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: SI 制單位: F × S = mgh, N m - = kg × 2 × m = ( kg × 2 ) × m"
+        },
+        {
+          "type": "heading",
+          "text": "s s"
+        },
+        {
+          "type": "paragraph",
+          "text": "此處指的高度是指定在某個參考平面以上,所以參考平面是可以任意選 擇。 重力位能僅與物體的重量 W 和高度 h 有關。如圖 8-10 所示,三種不同的 方法搬運石頭上崖頂,此時崖頂上的石頭所具有的重力位能都是相同的,與搬 運石頭的軌跡無關,因為 重力位能僅與垂直高度位置有關聯。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-10 重力位能均相同與搬運軌跡無關"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 彈性位能: 彈性物體受力作用產生變形,當外力移除後物體會恢復原形,此恢 復力是因物體形狀改變所具有的能量稱為彈性位能 E S ( 圖 8-11)。 虎克定律:力量與彈簧的變形量成正比。"
+        },
+        {
+          "type": "heading",
+          "text": "F = kx ( 公式 8-8)"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈簧的變形量由 0 增加至 x,其作用力亦由 0 增加至 F,故彈簧平均作用力 F ′"
+        },
+        {
+          "type": "heading",
+          "text": "的大小為:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-11 彈力與變形量的關係"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "284"
+        },
+        {
+          "type": "heading",
+          "text": "0 + kx kx"
+        },
+        {
+          "type": "heading",
+          "text": "F ′ 平均力 = ="
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈性位能為平均作用力對彈簧所作的功,則 彈簧的彈性位能 E S 為:"
+        },
+        {
+          "type": "heading",
+          "text": "kx 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "W = F ′× S = × x = kx"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "E S = kx ( 公式 8-9)"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "絕對單位 E S:彈性位能 k:彈簧常數 x:變形量"
+        },
+        {
+          "type": "heading",
+          "text": "J = N-m N/m m"
+        },
+        {
+          "type": "heading",
+          "text": "MKS"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 焦耳 = 牛頓 - 公尺 ) ( 牛頓 / 公尺 ) ( 公尺 )"
+        },
+        {
+          "type": "heading",
+          "text": "erg = dyne-cm dyne/cm cm"
+        },
+        {
+          "type": "heading",
+          "text": "CGS"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 爾格 = 達因 - 公分 ) ( 達因 / 公分 ) ( 公分 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "kx N 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: SI 制單位: F × S =, N m - = × m = N × m"
+        },
+        {
+          "type": "heading",
+          "text": "2 m"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 機械能 = 動能 + 位能。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 摩擦力之負功: 物體移動時,摩擦力與運動的方向相反,所以摩擦力是作負功,如果題目上有提到"
+        },
+        {
+          "type": "paragraph",
+          "text": "摩擦係數,一定要將這個負功計算進去。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-6 題型:動能"
+        },
+        {
+          "type": "paragraph",
+          "text": "美國海軍研究多時之電磁軌道砲 (EMRG),其砲彈由 GPS 定位導航,自海上發 射可精確瞄準 450 公里外陸地的一部車輛進行攻擊摧毀,若砲彈質量為 10 kg, 砲彈初速度 2500 m/s,則砲彈發射之初動能為多少焦耳?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "由動能 E K = mV = × 10 × ( 2500 ) = 31250000 焦耳"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "一物體質量 2 kg,速度由 10 m/s 增加到 20 m/s 時,試求其動能之增加量為何?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 285"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-7 題型:重力位能"
+        },
+        {
+          "type": "paragraph",
+          "text": "韓冰冰的媽媽到大遠百百貨公司購物,她搭乘電扶梯由 3 樓至 10 樓。已知韓"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "冰冰的媽媽質量為 60 公斤 (g = 10 公尺 / 秒 ),且每個樓層的高度均為 5 公尺, 則韓冰冰的媽媽由 3 樓至 10 樓時,其重力位能增加多少焦耳?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 3 樓到 10 樓共上升 7 個樓層 = 7 × 5 = 35 m 上升位能 = mgh = 60 × 10 × 35 = 21000 焦耳"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "長 4 m 質量 10 kg 之均質木桿,平置地面,若某人將其垂直豎起,此人作功多"
+        },
+        {
+          "type": "heading",
+          "text": "少焦耳?"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-8 題型:彈性位能"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈簧壓縮 20 cm 時需用力 80 牛頓,則 (1) 當彈簧被壓縮 40 cm 時須作功多少焦 耳? (2) 若再往下壓縮 20 cm,需再作功多少焦耳?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "F = kx ⇒ 80 = k × 0 2."
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ k = 400 牛頓 / 公尺,由 E S = kx"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓縮 40 cm, E 1 = kx = × 400 × (. ) 0 4 = 32 焦耳"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "再往下壓縮 20 cm ⇒ 壓縮 60 cm 即 x = 0.6 m 總共須作功"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ E 2 = × 400 × (. ) 0 6 = 72 焦耳"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "∴需再作功量 = 72 - 32 = 40 焦耳"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "286"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一彈簧,若其彈簧常數為 20 N/cm,若拉長 10 cm 其儲存的彈性位能為多少"
+        },
+        {
+          "type": "heading",
+          "text": "焦耳?"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 將足球由地面用力向斜上方踢出, 球向空中飛出, 若不考慮空氣阻力, 下列哪一個圖可以代表球的動能 K 與落地前飛行時間 t 的關係?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B) (C) (D)"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 若地面為重力位能等於 0 的參考面,體重 10 公斤重的多啦 A 夢,由 高度 50 公尺的樓頂準備以降落傘安全降落地面,當多啦 A 夢降落至 離地 10 公尺處,其重力位能比樓頂處減少了多少焦耳? (A) 400 (B) 500 (C) 3920 (D) 4900。 ( ) 3. 彈簧 A 與彈簧 B 之原長度皆相同,彈簧 A 之彈性係數為 K,彈簧 B 之彈性係數為 2K,此原長度相同之二彈簧下各掛一質量為 m 之物體, 在靜平衡狀態下,則彈簧 B 中之彈性位能為彈簧 A 中之彈性位能之"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "幾倍? (A) 4 (B) 2 (C) 1 (D) 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 一 彈 簧 被 壓 縮 10 cm 時, 其 儲 存 之 彈 性 位 能 為 40 J, 若 將 其 壓 縮"
+        },
+        {
+          "type": "heading",
+          "text": "6 cm 時,需施加之作用力為多少 N?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 400 (B) 480 (C) 500 (D) 580。 ( ) 5. 一物體從高處自由落體落下,如果不考慮空氣阻力等其他因素,並且 取地面為零位面,則此物體位能 U 與時間 t 的關係圖為何?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B) (C) (D)"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 287"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "古代攻城用的重力拋石機是利用什麼能量發揮作用呢?"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 古代攻城用的重力拋石機 ( 圖片來源:維基百科 ) 古代攻城用的重力拋石機,利用平衡重鎚的 重力位能,將石頭拋向敵城。本投石機主要結構為一槓 桿,其一端為砲彈,一端為配重物。先用人力或獸力拉下砲彈端同時使配重端上升至高處來蓄能。發射 時,放開槓桿使配重端下墜同時使砲彈上升並投射出去。其他類似例子:弓箭,彈弓等。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "288"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "零污染的能源 - 臺灣河川蘊藏的水力"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 臺中和平區的大甲溪發電廠馬鞍壩 ( 圖片來源:臺中觀光旅遊網 ) 臺灣雨量充沛,河川坡地陡峻,水力資源豐富,水力發電曾為臺灣戰後初期發電系統之主力。其後 工業發展,發電量漸不敷使用,故以燃煤、燃油及天然氣的火力發電、風力發電與核能補其不足,然而 水力發電雖然在全島發電量的比例減少,但由於其取之不盡,用之不竭,運轉成本低廉,運作快速,故 目前用來調節離峰或尖峰用電量,其重要性隨核能或火力發電的擴增而增大。再者,在關心環境保育的 時代裡,素有「白煤」之稱的水力,因無公害污染,再度受到重視。 水力發電通常利用陸上的河川或湖泊的水自高處導流至低處,將其所含的位能,轉化為水輪機的動 能,藉以推動發電機產生電能。由此可知 水力發電最重要的基本要素為流量與落差。又或者利用水庫的 大壩將水高高蓄起,然後在大壩處飛瀉而下,帶動發電機。雖然經過一系列複雜的轉換,然而 電能的根 本來源是水的重力位能。 臺灣河川的水力蘊藏相當豐富,水力發電雖然由發電的主力轉為調節性的功能,因其為本地性資源, 成本低廉,又無公害污染,於是成為珍貴的能源。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 289"
+        },
+        {
+          "type": "heading",
+          "text": "8-3 能量不滅定律"
+        },
+        {
+          "type": "heading",
+          "text": "1. 機械能守恆定律"
+        },
+        {
+          "type": "heading",
+          "text": "在重力場中,若不考慮空氣阻力,有一質量為 m 的"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體,從一高度自由落下至 A 點時,高度為 h 1,速度為 V 1, 繼 續 落 下 到 B 點 時, 高 度 為 h 2, 速 度 為 V 2, 如 圖 8-12 所示。則由位置 A 到位置 B 的 位能減少的能量等於 動能增加量。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "動能增加量 m V ( 2 − V 1 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-12"
+        },
+        {
+          "type": "paragraph",
+          "text": "等於位能減少的量 mg h ( 1 − h 2 )。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ mV 2 − mV 1 = mgh 1 − mgh 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "即 mV 1 + mgh 1 = mV 2 + mgh 2 = 位能 A + 動能 A = 位能 B + 動能 B"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "即當物體在 A 位置的機械能總和為物體在 B 位置的機械能總和相等, 當一系 統內若不受任何外力作用,也無摩擦力存在,動能與位能的總和恆相等,此即機 械能 ( 力學能 ) 守恆原理 (principle of conservation of mechanical energy)。 總機械能 = 位能 A + 動能 A = 位能 B + 動能 B = 固定值 ( 公式 8-10)"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 在重力場中,物體的機械能 ( 動能 + 位能 ),恆為一定值,像是棒球由高處落下時的位"
+        },
+        {
+          "type": "paragraph",
+          "text": "能如果減少 ( 高度降低 ),則動能會增加 ( 速度加快 )。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 銅板掉下去時,不會停在腳邊,而會一直滾出去,便是因為位能轉換成動能的緣故。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "290"
+        },
+        {
+          "type": "heading",
+          "text": "2. 能量不滅定律 (law of conservation of energy)"
+        },
+        {
+          "type": "paragraph",
+          "text": "在一封閉系統中的能量,如熱能、動能、位能、電能等,可以互相轉換,但 無法無中生有,也不會憑空消失,其能量的總和恆為一常數。 如果運動物體同時受到摩擦力、空氣阻力或手的拉力作功,則力學能守恆定 律就無法成立。例如:木塊在粗糙的水平面上前進,摩擦力 f 不可忽略。木塊重 力位能不變,而摩擦力 f 作負功,木塊動能漸小,力學能也逐漸變小,但減少的 力學能,則轉換成摩擦力作負功所產生的熱。即摩擦阻力所消耗掉的能量,和機 械能損失的能量會相等。故就整個系統而言,能量雖然在形態上會互相轉換,但 總能量卻不變,均能符合能量不滅定律。"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "1847 年焦耳仔細地計算隕石在大氣摩擦中產生的熱,發現地球上 空大氣層的厚度,剛好能提供足夠的摩擦阻力,將大部分的隕石 化成灰塵,保護地球上的生命。焦耳寫道:「這個大自然,機械、 化學與生物能量在時空上不斷的互相影響著,但是宇宙仍然維持 著秩序,並且清楚、確實地運轉。不管其間有多少能量複雜的變 化,宇宙仍是穩定和諧的。」"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 291"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-9 題型:能量不滅定律"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,質量為 10 kg 之物體置於一動摩擦係數為 0.4 之平面上,受一 60 N 之力作用,移動了 100 m,則此時 (1) 物體之速度為何? (2) 物體增加之動能"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "為多少焦耳? ( 若 g = 10 m/s )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "由自由體圖,先求摩擦力 f = 100 × 0.4 = 40 N (1) 利用 F = ma ⇒ ( 60 − 40 ) = 10 × a"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "∴ a = 2 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "V = V 0 + 2 aS ⇒ V = 0 + 2 2 ( ) × 100"
+        },
+        {
+          "type": "heading",
+          "text": "∴ V = 20 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) E k = mV = × 10 × 20 = 2000 J (N-m)"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "另解"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用能量不滅,該力量所作的功 - 摩擦力作的功 = 增加之動能,即 (1) 利用 (F - f) × S = 增加之動能 60 × 100 - 40 × 100 = 動能 = 2000 焦耳"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) E k = mV ⇒ 2000 = × 10 × V"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "∴ V = 400, V = 20 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之彈簧,彈簧常數為 8 N/cm,在光滑平面上其前端繫住一原為靜止之 方塊。若方塊質量 2 kg,且受一水平定力 P = 400 N 作用而使方塊向右移動,"
+        },
+        {
+          "type": "heading",
+          "text": "試求方塊移動 0.5 m 後速度多少 m/s?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "292"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-10 題型:機械能守恆定律"
+        },
+        {
+          "type": "paragraph",
+          "text": "質量為 1.0 kg 的棒球,在離地面高 10 m 處以 20 m/s 的初速,斜向上拋出,如"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖所示。若棒球可達到的最大高度為 25 m,試求: ( 設重力加速度 g = 10 m/s ) (1) 在最高處時的速率 VB =?抵達地面時的速率為何 VD =? (2) 速率為 10 2 m/s 時,離地面高度 hc =?"
+        },
+        {
+          "type": "heading",
+          "text": "概念"
+        },
+        {
+          "type": "heading",
+          "text": "1. 在重力作用下的運動物體,滿足機械能 ( 力學能 ) 守恆定律。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 設地面為零位面,列出最高處與抵達地面時的動能與位能。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 由力學能守恆,得出對應之位能與高度。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "總機械能 = 位能 A + 動能 A = 位能 B + 動能 B = 位能 C + 動能 C = 位能 D + 動能 D"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 × 10 × 10 + × × 1 20 = 1 × 10 × 25 + × × 1 V B = 0 + × × 1 V D"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "= 1 × 10 × h C + × × 1 ( 10 2 )"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ V B = 10 m / s, V D = 600 m / s 10 6 m / s ="
+        },
+        {
+          "type": "heading",
+          "text": "∴ h C = 20 m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-10"
+        },
+        {
+          "type": "paragraph",
+          "text": "一物體質量為 2 kg,置於彈簧常數 k = 8 N/cm 前端,若地面為光滑,今使彈簧 壓縮 50 cm。當彈簧放開時,物體速度為多少 m/s?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 293"
+        },
+        {
+          "type": "paragraph",
+          "text": "例題 8-11 題型:能量不滅定律求最大位移與變形"
+        },
+        {
+          "type": "heading",
+          "text": "有一質量為 10 kg 之物體,由靜止釋"
+        },
+        {
+          "type": "heading",
+          "text": "放,順沿著光滑斜面滑下 S 距離,造"
+        },
+        {
+          "type": "paragraph",
+          "text": "成彈簧最大變形量為 10 cm。"
+        },
+        {
+          "type": "heading",
+          "text": "若彈簧常數 k = 98 N/cm,"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 則滑下 S 距離應為多少 m?"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 若斜面之動摩擦係數為,則"
+        },
+        {
+          "type": "heading",
+          "text": "2 3"
+        },
+        {
+          "type": "heading",
+          "text": "滑下 S 距離為多少 m?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "98 N"
+        },
+        {
+          "type": "heading",
+          "text": "k = 98 N/cm = = 9800 N/m"
+        },
+        {
+          "type": "heading",
+          "text": "0 01. m"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 若沒摩擦損失時,重力位能 = 彈簧彈性位能"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "mgh = kx, h = ( S + 0 1. ) 公尺"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "10 × 9 8. × × ( S + 0 1. ) = × 9800 × (. ) 0 1"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 49 1"
+        },
+        {
+          "type": "heading",
+          "text": "× ( S + 0 1. ) = ="
+        },
+        {
+          "type": "heading",
+          "text": "2 98 2"
+        },
+        {
+          "type": "heading",
+          "text": "∴ S + 0.1 = 1"
+        },
+        {
+          "type": "heading",
+          "text": "∴ S = 0.9 m"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "294"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 考慮摩擦力,重力位能 = 彈簧彈性位能 + 摩擦力所作的功"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "公式 mgh = kx + f × s"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "1 1 2 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "10 × 9 8. × × ( S + 0 1. ) = × 9800 × (. ) 0 1 + ( × 49 3 )( S + 0 1. )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2 3"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        },
+        {
+          "type": "paragraph",
+          "text": "49 × ( S + 0 1. ) − ( S + 0 1. ) = 49"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "∴ S = 1.9 m"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-11"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,一重量 400 N 之物體,自彈簧上端 h = 4 m 處自由 落下,若彈簧常數為 4000 N/m,試求彈簧之最大縮短量為"
+        },
+        {
+          "type": "heading",
+          "text": "多少 m?"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 如圖所示,單擺在 A 點與 B 點之間來回擺動, O 點"
+        },
+        {
+          "type": "heading",
+          "text": "為擺動的最低點,若不計空氣阻力,下列敘述何者正"
+        },
+        {
+          "type": "heading",
+          "text": "確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 由 A 點擺至 O 點時,繩子拉力對擺錘作正功"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 擺錘在 A 點的位能大於 B 點的位能"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 擺錘在 O 點的動能最大、位能最小"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 擺錘在 A 點的機械能大於 O 點的機械能。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 295"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 鮭魚回游產卵,遇到水位落差時也能逆游而上。假設落差之間水流連 續,而且落差上下的水域寬廣,水流近似靜止。若鮭魚最大游速為 2.8 公尺 / 秒,且不計空氣阻力,則能夠逆游而上的最大落差高度為多少 公尺? (A) 2.8 (B) 0.4 (C) 0.2 (D) 0.8。 ( ) 3. 如圖所示,高度為 h1 的斜坡,斜坡末端為水平 段。當物體從斜坡頂端下滑至水平段後,物體"
+        },
+        {
+          "type": "heading",
+          "text": "以自由落體下落深度為 h2 的溝槽,假設所有接"
+        },
+        {
+          "type": "heading",
+          "text": "觸面皆為光滑且無摩擦,試求落至溝槽底部的"
+        },
+        {
+          "type": "heading",
+          "text": "距離 x 為何?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) h h 1 2 (B) 2 h h 1 2 (C) 2 h h 1 2 (D) 3 h h 1 2。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 4. 如圖所示,水平地面上有一質量為"
+        },
+        {
+          "type": "heading",
+          "text": "5 kg 的木塊,靜止狀態受到一力 F"
+        },
+        {
+          "type": "heading",
+          "text": "的作用使該木塊向前移動,已知木"
+        },
+        {
+          "type": "heading",
+          "text": "塊與水平地面之間的動摩擦係數為"
+        },
+        {
+          "type": "heading",
+          "text": "0.4,當木塊向前移動 20 m 時,此時木塊的動能為多少 J?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 88 (B) 232 (C) 340 (D) 480。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 5. 如圖所示,質量 10 kg 的物體"
+        },
+        {
+          "type": "heading",
+          "text": "由靜止沿斜面滑下 S 距離後,"
+        },
+        {
+          "type": "heading",
+          "text": "開 始 壓 縮 彈 簧 至 物 體 完 全 停"
+        },
+        {
+          "type": "heading",
+          "text": "止,彈簧壓縮量為 2 cm,彈簧"
+        },
+        {
+          "type": "heading",
+          "text": "常 數 為 1000 N/cm, 假 設 重 力"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 g = 10 m/s,斜面為光"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑不計摩擦影響,則物體下滑距離 S 應為多少 cm? (A) 19 (B) 38 (C) 57 (D) 76。 ( ) 6. 如圖所示,彈簧垂直固定於地面,在其正上方 1 m 處有 一物體以初速度 V 向下撞擊彈簧。假設整個撞擊過程中"
+        },
+        {
+          "type": "heading",
+          "text": "沒有任何能量損失,彈簧質量和空氣阻力忽略不計,得"
+        },
+        {
+          "type": "paragraph",
+          "text": "到彈簧的最大變形量為 0.2 m。已知物體質量為 20 kg,"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "彈簧常數為 44000 N/m,重力加速度 g = 10 m/s,則物 體的初速度 V 為多少 m/s? (A) 8 (B) 9 (C) 10 (D) 11。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "296"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "為甚麼雲霄飛車不需要引擎來推動?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 雲霄飛車"
+        },
+        {
+          "type": "paragraph",
+          "text": "雲霄飛車亦稱過山車,雖然全球的雲霄飛車種類繁多,但無論哪一種,其本身都無動力。那麼,雲 霄飛車的動力究竟源自哪裡呢?原來,雲霄飛車起步時依靠機械牽引或彈射等方式,使它從整條軌道最 低處爬升到最高點,將其他形式的能量轉換成雲霄飛車最大的重力勢能—這就是雲霄飛車走完全程所需 的全部能量。而重力勢能的形成,是因為物體間都存在著相互吸引的力—萬有引力。 雲霄飛車沒有動力也能達到很高的速度,這是因為處在制高點上的雲霄飛車在重力作用下,獲得了 向下的加速度。牛頓第二定律就揭示了力的這種作用效果。隨著雲霄飛車從 最高點快速滑下,其勢能快 速減小,動能快速增大。到達最低點時,根據能量守恆定律,雲霄飛車的能量不會消失,而是將勢能全 部轉換為雲霄飛車的動能 ( 忽略摩擦及空氣阻力 )。當運動到最低點時,雲霄飛車並不會停下來,它借 助動能又衝上下一個的制高點,動能又迅即轉換為雲霄飛車的勢能。 當雲霄飛車經過了第一個「山谷」時,它具有很大的動能,所以仍能衝上第二個「山」。根據能量 守恆原理,過山車可以攀上的高度,與起始滑下時的高度一樣。但是,由於機件之間的摩擦,雲霄飛車 的總機械能便會減少。因此,許多過山車軌道的第一個「山」是最高的,之後的便越來越矮。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 297"
+        },
+        {
+          "type": "heading",
+          "text": "8-4 能損失與機械效率"
+        },
+        {
+          "type": "paragraph",
+          "text": "各種機械在運轉的過程中,由於各機件間接觸面的摩擦,會使能量發生損耗的情形, 導致輸入的能量無法完全轉換成物體的作功,這種因機械運轉而消耗的能量,稱為 能損 失。 在機械中,因為能損失大部分皆因為摩擦損失,而摩擦所損失的能量,一般皆以熱能 的形式消散於空中。圖 8-13 賽車起步燒胎。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 8-13 賽車起步燒胎"
+        },
+        {
+          "type": "heading",
+          "text": "1. 能損失 (energy loss)"
+        },
+        {
+          "type": "paragraph",
+          "text": "能量的轉換過程中有多種能損失的形式,本章僅以探討 摩擦損失 所造成的影"
+        },
+        {
+          "type": "heading",
+          "text": "響,可區分為下列兩種狀態:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 理想狀態:輸入能 ( Ein ) = 輸出功 ( E out )。 (2) 實際狀態:輸入能 ( Ein ) = 輸出功 ( E out ) + 摩擦損失能 ( Wf )。 當有機械輸出功即有輸入能的存在,功與能都是在相同的時間內發生,故功與能 可互為轉換亦可替換為功率。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 機械效率"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械輸出的功與輸入能的比值,稱為機械效率 (mechanical efficiency),其值恆 小於 1,以 h 表示之。"
+        },
+        {
+          "type": "heading",
+          "text": "輸出功 (Wout) 輸出功率 (Pout)"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械效率 ( h ) = × 100% = × 100% ( 公式 8-11)"
+        },
+        {
+          "type": "heading",
+          "text": "輸入能 (Ein) 輸入功率 (Pin)"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械效率愈高,能量損失就愈低,依此可以判斷此機械性能的好壞與優劣。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch08/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "298"
+        },
+        {
+          "type": "heading",
+          "text": "3. 總機械效率"
+        },
+        {
+          "type": "paragraph",
+          "text": "若有數個不同機械的組合,其總機械效率為各別機械效率的連乘積,以 h t 表 示之。 η t = η 1 × η 2 × η 3 × \u001f ( 公式 8-12)"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械效率指的是輸入能量的發揮程度。速記法:機械『效率』,就是『有效』的意思。考前讀書讀得再 滾瓜爛熟,都不一定可以每次考一百分,效率永遠小於 1。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 8-12 題型:機械效率"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用機械效率為 0.8 的起重機系統,將 200 kg 的重物以 5 m/s 的速度由地面垂 直舉起,試問此起重機 (1) 所需要的功率? (2) 因能量損失而消耗的功率各為"
+        },
+        {
+          "type": "heading",
+          "text": "多少仟瓦 (kW)?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 輸出功率 P = F × V = (200 × 9.8) × 5 = 9800 N-m/s = 9.8 kW"
+        },
+        {
+          "type": "heading",
+          "text": "輸出功率 (Pout) 9.8 kW"
+        },
+        {
+          "type": "heading",
+          "text": "機械效率 ( h ) = = = 0.8"
+        },
+        {
+          "type": "heading",
+          "text": "輸入功率 (Pin) 輸入功率 (Pin)"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 輸入功率 (Pin) =12.25 kW"
+        },
+        {
+          "type": "paragraph",
+          "text": "因能量損失而消耗的功率 = 輸入功率 - 輸出功率 = 12.25 - 9.8 = 2.45 kW"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 8-12"
+        },
+        {
+          "type": "paragraph",
+          "text": "由馬達直接驅動的抽水機, 每分鐘可將 600 kgf 的水, 由地面抽至 9 m 高的水塔, 若系統整體的效率為 90%,則所需選用的馬達功率最少為多少 PS?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 功與能 299"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 綜合加工機的主軸由馬達驅動皮帶輪傳動,已知該綜合加工機主軸的 機械效率為 72%,而馬達的機械效率為 90%,則皮帶輪的機械效率為 多少 %? (A) 75 (B) 80 (C) 85 (D) 90。 ( ) 2. 若輸入能為 40000 焦耳,使貨用升降機將質量 300 kg 的貨物向上升高"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "10 m,其機械效率為何? (g = 10 m/s ) (A) 65% (B) 70% (C) 75% (D) 80%。"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 台灣能量轉換效率比較表"
+        },
+        {
+          "type": "heading",
+          "text": "能量轉換方式 轉換效率"
+        },
+        {
+          "type": "heading",
+          "text": "水力發電 90% 以上"
+        },
+        {
+          "type": "heading",
+          "text": "火力發電 40% ∼ 45%"
+        },
+        {
+          "type": "heading",
+          "text": "內燃機 35% ∼ 45%"
+        },
+        {
+          "type": "heading",
+          "text": "風力發電 25% ∼ 45%"
+        },
+        {
+          "type": "heading",
+          "text": "廢棄物發電 25% 以上"
+        },
+        {
+          "type": "heading",
+          "text": "太陽能發電 20% ∼ 25% 以下"
+        },
+        {
+          "type": "heading",
+          "text": "地熱發電 10% ∼ 12%"
+        },
+        {
+          "type": "paragraph",
+          "text": "資料來源: 經濟部能源局 2022 年台灣相關能量轉換方式的效率比較表 (https://www.moeaboe.gov.tw/ECW/populace/home/Home.aspx)"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "paragraph",
+          "text": "8-1 1. 功 (W): 功為力與力方向的位移之乘積, W = F × S。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 功雖然有正負之分,但是功沒有方向,所以 功是純量而非向量,其常用單位為"
+        },
+        {
+          "type": "paragraph",
+          "text": "焦耳 (J, N-m)、 kgf-m。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 若 F 與 S 方向不同,夾角為 q 時,則力對物體所作之功為"
+        },
+        {
+          "type": "paragraph",
+          "text": "W = (F cos q ) × S = F × (S cos q )。 註: q 為 F 與 S 之夾角。 (1) 當 q = 0 ° 時, cos q = 1,即力與位移方向一致者 ( 同向 ),則作用力對物體 作正功。 W = F × S。 (2) 當 q = 90 ° 時, cos q = 0,即力與位移方向 垂直,作用力對物體 不作功。 ( 例如抱東西、提東西水平行走、單擺繩子張力所作的功 )。 (3) 當 q = 180 ° 時, cos q = - 1 即力與位移方向 相反 者。作用力對物體 作負功, 例如 摩擦力、空氣阻力。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 轉動發生所作的功: W = F × S = F × (r × q ) = T × q。"
+        },
+        {
+          "type": "heading",
+          "text": "7 5"
+        },
+        {
+          "type": "heading",
+          "text": "5. 1 焦耳 = 10 爾格, 1 牛頓 = 10 達因。"
+        },
+        {
+          "type": "heading",
+          "text": "W F × S"
+        },
+        {
+          "type": "heading",
+          "text": "6. 功率 (P):單位時間內所作的功, P = = = F × V = F × r × ω = T × ω。"
+        },
+        {
+          "type": "heading",
+          "text": "t t"
+        },
+        {
+          "type": "heading",
+          "text": "7. 功率為 純量,其常用單位為 瓦特 (W, J/s)、 kg-m/s。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 單位換算:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 1 kgf-m = 9.8 J。 (2) 1 kW = 1000 W。 (3) 1 馬力 = 75 kgf-m/s = 736 W。 8-2 9. 能量為物體具有作功之本領, 對物體作功可增加物體或減少物體之能量。能量 單位與功相同,絕對單位之 MKS 制均以 焦耳 為其單位。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 動能 (E k ):物體因運動速度而具有的能量。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "heading",
+          "text": "E k = mV"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "11. 重力位能 (E p ):物體因高低位置改變而具有的能量。"
+        },
+        {
+          "type": "heading",
+          "text": "E p = mgh"
+        },
+        {
+          "type": "heading",
+          "text": "300"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

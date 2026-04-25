@@ -1,0 +1,829 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH14",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH14",
+    "title": "CH14"
+  },
+  "title": "機械基礎實習全冊 Chapter 14 ཥ቟ʘ࿁ટ዁Ъ",
+  "source_pdf": "mechanical_basic_practice/CH14PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH14",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "ཥ቟ʘ࿁ટ዁Ъ"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 瞭解手工電銲對接操作要領 14-1 手工電銲對接操作"
+        },
+        {
+          "type": "heading",
+          "text": "2. 瞭解氬銲對接操作要領 14-2 氬銲對接操作"
+        },
+        {
+          "type": "heading",
+          "text": "3. 瞭解金屬電弧銲對接操作要領 14-3 金屬電弧銲對接操作"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "260"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "heading",
+          "text": "14-1 ˓ʈཥ቟࿁ટ዁Ъ"
+        },
+        {
+          "type": "paragraph",
+          "text": "平銲基本銲道銲接是學習手工電銲技術最基礎的課程,初學者從引弧開始學習如何保持電 弧、穩定電弧,以及觀察金屬熔液流動及變化情形,接著藉由平銲操作學習控制金屬熔液的流動 來銲接一個良好的銲道。品質良好的銲道需具備"
+        },
+        {
+          "type": "heading",
+          "text": "下列條件:適當的滲透、銲道頭尾一致的寬度與"
+        },
+        {
+          "type": "heading",
+          "text": "高度、正確的外形、光滑的表面、均勻細密的波"
+        },
+        {
+          "type": "paragraph",
+          "text": "紋、無飛濺物、無氣孔、無裂紋,如圖 14-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-1 ȭ⏦॑᱿⺣ⳬ"
+        },
+        {
+          "type": "heading",
+          "text": "要獲得良好的銲道,應注意下列操作要領與影響因素:"
+        },
+        {
+          "type": "heading",
+          "text": "ɓe͍ᆽٙ۶ැ"
+        },
+        {
+          "type": "paragraph",
+          "text": "在四種銲接位置中,平銲是最容易操作銲接位置,橫銲與立銲次之,最困難的是仰銲。無 論採用何種姿勢,都須 Ύྃ⯿ナỻહխZ೺Ŋ༆ྃヅᏎ༴༆ະⱀⱀဝྃŊ˫⋱͐ဝ༴Ⴝ̳⎊ॖ ᣅ઻。"
+        },
+        {
+          "type": "heading",
+          "text": "ɚe͍ᆽٙཥݴ"
+        },
+        {
+          "type": "paragraph",
+          "text": "正確的電流才能獲得適當的熱量來熔化電銲條與母材。電流愈大,銲填速率愈大,但過高 的電流,電弧吹弧力大,有大顆粒的金屬熔液向熔池外飛濺,使得濺渣過多、銲道外觀粗糙且 易生氣孔、母材變形增加。若電流太小,難產生電弧與維持正確的電弧長度,電弧吹弧力小, 熔渣與金屬熔液難分離,滲透不良且銲接效率低。不同電流的銲縫形狀如圖 14-2(a) 所示。就銲 接位置而言,平銲因金屬熔液靠重力自然落下,操作技術比較容易掌控,可選用較大直徑的銲 條和較大的電流,提高效率。"
+        },
+        {
+          "type": "heading",
+          "text": "ɧe͍ᆽٙৎֹЗໄ"
+        },
+        {
+          "type": "paragraph",
+          "text": "為得到美觀的銲道,起弧位置宜在鋼板 ⴗMരᅞ) 10 Ɯ 20mm ⚠Ŋ⬚ೲരҪẼߊ⻘ኈ⬚ আὉⳖ⠗ᅡ⺣,如圖 14-2(b) 所示。此目的是對母材有預熱效果,銲接過程又能覆蓋掉起弧點的 痕跡 [1]。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) 不同電流的銲縫 (b) 正確的起弧位置"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-2 ȭʃ׺ヅᙟ᱿⺣VI⎞⬚ೲ̤⇦"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 14 ཥ቟ʘ࿁ટ዁Ъ 261"
+        },
+        {
+          "type": "heading",
+          "text": "̬ ܓڗֹᅺ๟ٙཥܵeၪ"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲接時,由於銲條端不斷熔化,弧長隨時改變。施銲者須不斷地遞送銲條維持標準弧長, 標準的電弧長度能使電弧穩定、銲濺物少、銲道均勻美觀。電弧太長易喪失方向性與密集度, 塗層氣罩也不足以保護電弧,熔融金屬易分散、濺渣多、銲填效率低、銲道波紋粗糙、滲透率低。 若弧長太短,電弧不穩定且易短路,銲條經常與母材黏著,銲道波紋不均勻、銲道高度、寬度 不規則、滲透變淺。"
+        },
+        {
+          "type": "heading",
+          "text": "ʞeܵڭ͍ᆽٙ቟ૢԉܓ"
+        },
+        {
+          "type": "paragraph",
+          "text": "在施銲移動過程,銲條需沿銲接方向傾斜,傾斜角度分為工作角度與移行角度,工作角度 就是銲條兩側與銲接平面的夾角,移行角度就是銲條沿移動方向傾斜後與母材平面的夾角。工 作角度偏一邊則會造成熔合不足,移行角度太大會造成夾渣現象 [2]。以平銲而言, ⺣ጻ᱿డ̳ ⤑ಙᣅ 90 \u0002 ŊẼ⠗⤑ಙ) 70 \u0002 Ɯ 80 \u0002,直線式與織動式的銲條角度如圖 14-3(a)、 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-3 ȭ౹⺣⺣ጻ⤑ಙ [3]"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲條傾斜目的有三:使施銲者容易觀察熔池的變化、使銲渣浮起於銲道表面上、避免銲道 邊緣產生銲蝕 (Undercut),所謂銲蝕就是銲道邊緣發生低於母材的凹下部分,如圖 14-4 所示。 該凹陷會讓銲件發生應力集中,嚴重影響銲道強度,所謂應力集中就是材料在局部範圍內,應 力顯著增大的現象。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-4 ȭ⺣❘"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "262"
+        },
+        {
+          "type": "paragraph",
+          "text": "堆積銲施銲過程時, 應將前一道銲渣徹底清除乾淨, 再銲下一道, 避免夾渣。 銲接第二道時, 銲條應指向第一銲道並傾斜 10° ∼ 15° 之側角,如圖 14-5(a) 所示。銲接過程銲道寬度需和第一 條銲道相互交疊,交疊量約為寬度的 1/3,如圖 14-5(b) 所示。銲完後,銲道、母材與前銲道三 者需完全熔解。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-5 ȭ࡬Ử⺣ʠ⺣ጻ⤑ಙ"
+        },
+        {
+          "type": "heading",
+          "text": "ʬeѩɹቇ຅ٙ୅Б஺ଟ"
+        },
+        {
+          "type": "paragraph",
+          "text": "平銲銲接方向通常都是從左至右,視情況也可以由右至左。移行速率因母材種類、銲條形 式與銲接電流而異,施銲過程常需視熔池熔化情形及銲道寬度、高度而定。移行速率太快,銲 道窄、滲透差;移行速率太慢,銲道寬、過疊顯著、浪費時間與銲條、母材變形量大。以電銲 條 E4301 銲接低碳鋼為例,直線式銲道的移行速度約為每分鐘 10 ∼ 15 公分。"
+        },
+        {
+          "type": "heading",
+          "text": "ɖe቟༸ٙટᚃၾϗ҈"
+        },
+        {
+          "type": "paragraph",
+          "text": "手工電銲之電銲條為消耗性銲條,銲接過程銲條愈來愈短,當銲條長度約剩餘 40 ∼ 50mm 時須熄滅電弧換上新銲條,或是更換工作位置迫使連續銲道必須中斷。再次施銲時,必須重新 起弧使銲道接續下去,如圖 14-6(a) 所示。在接續過程,銲道不得凹陷或凸起,以免破壞銲道的 均勻性,凹陷或凸起情形如圖 14-6(b)、 (c)。 在施銲中,若電弧直接離開,會因電弧掘入銲件而留下一個凹陷的部分,此凹陷部分稱為 銲疤 (crater),如圖 14-6(d) 所示。銲疤若未填高,易造成不純物殘留及應力集中,成為銲件腐蝕 或破壞的原因 [6]。因此,在銲道的收尾需把凹陷處加以填高。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-6 ȭࠀժ⺣ⳬ⎞ӚどȮә⬚෼ഐ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 14 ཥ቟ʘ࿁ટ዁Ъ 263"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 14-6 ȭࠀժ⺣ⳬ⎞ӚどȮә⬚෼ഐ ( ↲ )"
+        },
+        {
+          "type": "heading",
+          "text": "ɞe቟ૢ༶Б ̇ό"
+        },
+        {
+          "type": "paragraph",
+          "text": "手工電銲完全靠施銲者的技術來操作,其優點是靈活性高、可在任何場所或位置銲接。為 了得到品質良好的銲道,銲條常在銲接過程施以適當的運行,運行方法依電銲條種類、母材厚 度、接頭形式、銲接位置、銲道層數而有不同,一般平銲之銲條運行方法有下列幾種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 直線運行法 (Straight motion):銲條在移動方向直線穩定且均勻的前進,不前後或左右擺動,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 14-7(a) 所示。直線運行法是最簡單、最普通運行方法。直線運行法的銲道寬度較細, 大約是銲條直徑 1.5 ∼ 2 倍,常用於 3 ∼ 5mm 之薄板單層銲接。圖中圓形黑點代表銲條前 進到此處暫停一下,使母材與熔池有充分的時間冷卻,增加銲道強度。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 撥動運行法 (Whipping motion):銲條沿著施銲方向做縱向來回擺動,如圖 14-7(b) 所示,施"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲中藉著往復撥動的短暫時間移開電弧,避免母材熔穿 (Burn through),主要用於薄金屬板、 非平銲位置或底槽的銲接。"
+        },
+        {
+          "type": "heading",
+          "text": "(a) ᳅B⳥⠗ᘍ"
+        },
+        {
+          "type": "heading",
+          "text": "(b) ႤՒ⳥⠗ᘍ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-7 ȭ᳅B⳥⠗ᘍ⎞ႤՒ⳥⠗ᘍ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "264"
+        },
+        {
+          "type": "heading",
+          "text": "3. 織動運行法 (Weaving motion):織動就是銲條沿著銲接方向做橫向交互擺動,目的在堆銲出"
+        },
+        {
+          "type": "paragraph",
+          "text": "較寬的銲道,使銲道邊緣獲得良好的熔合,並讓氣體逸出,避免產生氣孔。織動時,橫向 兩側移動速度較慢,中間較快,織動幅度愈大,銲道愈寬,一般織動寬度以不超過三倍的 銲條直徑為原則。運行方式常依操作者的習慣與喜好有所不同,以下舉出三種常用的運行 方式 [6],如圖 14-8 所示。 ( ɓ ) ᔷجjɦ၈̒ ̃Җجd቟ૢਂ̒ ̃Җ୅ਗd͜׵ʕഃᄱٙܓ቟ટdӊϣ୅ਗගཞɓߧd ૅ ෥ᓃ˾ڌ቟ૢ೹Ъᅲ৾ߒ 0.5 ä 1 ߆ࣛගdᄣ̋အፄږ᙮f"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ɚ ) ᇞجjɦ၈ұᇞجd੬͜׵ᔚږ᙮ؐא͛㛩ؐٙ቟ટf ુ"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ɧ ) ዕ෥Җجjɦ၈ᔎجֹd˴ࠅ͜׵༰ᄱٙ቟༸f"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-8 ȭↈՒ⳥⠗ᘍ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 14 ཥ቟ʘ࿁ટ዁Ъ 265"
+        },
+        {
+          "type": "heading",
+          "text": "ɘe̻቟ਿ͉቟༸ॹ௘၇ᗳʿҖΎࡡΪ"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲接完成後,銲道外觀應平直、寬度一致、高度整齊、表面波紋均勻細緻。平銲基本銲道 銲接時常見的缺陷種類及形成的原因如表 14-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț"
+        },
+        {
+          "type": "paragraph",
+          "text": "⠧ 14-1 ȭ౹⺣ࡣ቏⺣ⳬ⺣࿲ᆹʠ⇃どỚㆩדഐໞʠߌ׆ [5]"
+        },
+        {
+          "type": "heading",
+          "text": "⇃どỚㆩ ḻߧ ߌ׆ഐໞ"
+        },
+        {
+          "type": "heading",
+          "text": "1. 銲條規格不對"
+        },
+        {
+          "type": "heading",
+          "text": "2. 電弧過長"
+        },
+        {
+          "type": "heading",
+          "text": "銲道表面波紋不均勻"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電流不適當"
+        },
+        {
+          "type": "heading",
+          "text": "4. 運行速度不均勻"
+        },
+        {
+          "type": "heading",
+          "text": "1. 運行速度不均勻"
+        },
+        {
+          "type": "heading",
+          "text": "銲道寬度不均勻 2. 電弧長度不均勻"
+        },
+        {
+          "type": "heading",
+          "text": "3. 操作技術不熟練"
+        },
+        {
+          "type": "heading",
+          "text": "1. 銲接前鋼板未劃線及沖眼"
+        },
+        {
+          "type": "heading",
+          "text": "銲道彎曲"
+        },
+        {
+          "type": "heading",
+          "text": "2. 操作技術不熟練"
+        },
+        {
+          "type": "heading",
+          "text": "1. 電弧過長"
+        },
+        {
+          "type": "heading",
+          "text": "2. 銲條規格不對"
+        },
+        {
+          "type": "heading",
+          "text": "銲濺物太多"
+        },
+        {
+          "type": "heading",
+          "text": "3. 銲接電流太大"
+        },
+        {
+          "type": "heading",
+          "text": "4. 操作技術不熟練"
+        },
+        {
+          "type": "heading",
+          "text": "1. 銲條不夠乾燥"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鋼板表面清潔不徹底"
+        },
+        {
+          "type": "heading",
+          "text": "氣孔 3. 運行速度不當"
+        },
+        {
+          "type": "heading",
+          "text": "4. 電弧太長"
+        },
+        {
+          "type": "heading",
+          "text": "5. 銲接電流不適當"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "266"
+        },
+        {
+          "type": "heading",
+          "text": "൩eҦঐ௅ɦ"
+        },
+        {
+          "type": "paragraph",
+          "text": "手工電弧銲接是應用最廣泛的銲接方法之一,而引弧、銲條的運行、銲道的接續與收尾是 手工電弧銲接最基礎的操作方法,這些基礎操作有許多不同的方法,初學者應多觀察熔池變化, 從中體會銲接技巧,為了學習者方便,將基礎操作技能說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "ɓe̻቟ٙટᚃၾϗ҈዁Ъ"
+        },
+        {
+          "type": "paragraph",
+          "text": "以電銲條 E4301 \u0003 3.2mm、母材為低碳鋼 9 × 100 × 150mm,練習直線式銲道,銲接電流為 120A。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 依規定穿著防護裝備、母材橫放在工作台上、啟動電銲機。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 電銲條在距離鋼板邊緣約 10 ∼ 20mm 處起弧,如圖 14-9(a),起弧方式如第 13 章說明。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 起弧後,拉長電弧 ( 約為線徑的 2 倍 ) 緩緩移回鋼板起始點作預熱。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 母材預熱後 ( 時間約 1 秒鐘 ),弧長縮至標準弧長 ( 約銲條直徑 3.2mm)"
+        },
+        {
+          "type": "heading",
+          "text": "5. 維持標準弧長、電銲條往右傾斜 ( డ̳⤑ಙ 90 \u0002 ȮẼ⠗⤑ಙ 70 \u0002 Ɯ 80 \u0002 ),以直線運行法由左"
+        },
+        {
+          "type": "paragraph",
+          "text": "向右移行進行銲接。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 電銲條快用完時,提高銲條熄滅電弧,換新銲條。 ( 或於銲道適當長度後,熄滅電弧 ),如"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 14-9 (b)。 ( 註:電銲條長度約剩餘 40 ∼ 50mm 方可丟棄 )"
+        },
+        {
+          "type": "heading",
+          "text": "7. 待銲道稍微冷卻,以敲渣錘將斷弧處留下之凹陷附近的熔渣清除,並以鋼絲刷刷除乾淨,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 14-9 (c)。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 電銲條在斷弧處前方 10 ∼ 20mm 重新起弧,如圖 14-9(d)。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-9 ȭ౹⺣⺣ⳬ࿲↲⎞ᄇଜ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 14 ཥ቟ʘ࿁ટ዁Ъ 267"
+        },
+        {
+          "type": "heading",
+          "text": "9. 起弧後,移回斷弧凹坑處稍作停留,凹坑填補後後再繼續沿銲接方向前進。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 移行至銲道終點收尾時,稍縮短電弧,銲條回移 10 ∼ 15mm,暫停約 1 ∼ 2 秒,然後慢慢"
+        },
+        {
+          "type": "paragraph",
+          "text": "提高銲條熄滅電弧,填高熔池,熄滅電弧,如圖 14-9(e)。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 銲道稍微冷卻,清除銲渣及兩側之銲濺物,檢查銲道。敲渣過程不得傷及銲道與母材表面。"
+        },
+        {
+          "type": "heading",
+          "text": "12. 重複練習,直到銲道的接續和收尾無凹陷或凸起現象,如圖 14-9(f)、 (g)、 (h)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(e) 銲道接續 (f) 銲道接續情形 ( 未做收尾動作 )"
+        },
+        {
+          "type": "heading",
+          "text": "(g) 收尾動作 (h) 有無收尾動作之比較"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 14-9 ȭ౹⺣⺣ⳬ࿲↲⎞ᄇଜ ( ↲ )"
+        },
+        {
+          "type": "heading",
+          "text": "ɚe̻቟਼ጐ቟዁ЪӉ᜷"
+        },
+        {
+          "type": "paragraph",
+          "text": "堆積銲又稱填補,基本符號由兩個弧並列組成,以「 」表示,堆積銲是工業上一項 重要的銲接應用,常用於修補機械相關設施、橋梁、鋼構等熔填量較大之處。今以 E4301, \u0003 3.2mm 電銲條,母材為低碳鋼板 9 × 100 × 150mm,銲接電流 120A。操作步驟參閱圖 14-10。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 依基本走銲技能,沿著母材邊緣銲填第一道。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 銲接完畢,銲道之銲渣徹底清除乾淨,避免夾渣,圖 14-10 (a)。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 銲條指向第一銲道,傾斜約 10° ∼ 15°,如圖 14-10(b) 所示,沿第一條邊緣堆積第二條銲道。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 施銲過程注意需和第一條銲道重疊,重疊量為第一條寬度的 1/3,兩銲道應等高、無凹下或"
+        },
+        {
+          "type": "paragraph",
+          "text": "凸起現象。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 銲畢,以敲渣錘及鋼絲刷,徹底清除第二銲道之銲渣,檢視鄰接兩銲道間的情形,第二銲"
+        },
+        {
+          "type": "paragraph",
+          "text": "道如圖 14-10(c)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 同前述要領,銲填第三銲道,如圖 14-10(d)、銲接情形如圖 14-9(e)。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "268"
+        },
+        {
+          "type": "heading",
+          "text": "7. 同上步驟,銲填第四、五、六.... 銲道,直至起弧、接頭、銲道高度及寬度均能熟練為止,"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲道堆積情形如圖 14-10(f) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-10 ȭ౹⺣࡬Ử⺣Ⴝ̳ᔎ49"
+        },
+        {
+          "type": "heading",
+          "text": "ɧe̻቟ᔌਗό቟༸዁ЪӉ᜷"
+        },
+        {
+          "type": "paragraph",
+          "text": "織動式常用於較寬的銲道或對接之處,在操作技能電銲條須於運行方向做上下兩側交互擺 動,今以低碳鋼母材 9 × 100 × 150mm,電銲條 E4301, \u0003 3.2mm,電流約 120A,以「旋轉暫停法」 說明織動式銲道操作步驟。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 起弧位置與織動方式如圖 14-11(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 起弧保持電銲條角度上下兩側交互擺動,朝移動方向運行。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電 銲 條 織 動 寬 度 在 12mm 以 內 ( 註: 織 動 寬 度 在 電 銲 條 直 徑 3 倍 以 內, \u0003 3.2mm ×"
+        },
+        {
+          "type": "paragraph",
+          "text": "3 ≒ 10mm)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 開始織動間隔較密,之後間隔稍微加大且均勻。電銲條在織動兩邊稍作停留、中間速度稍快。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 織動過程,整個手臂移動使電銲條平行移送,勿用手腕運動。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 14 ཥ቟ʘ࿁ટ዁Ъ 269"
+        },
+        {
+          "type": "heading",
+          "text": "6. 當電銲條快用完時,把電弧移回銲道中央,提高電銲條熄滅電弧,如圖 14-11(b)"
+        },
+        {
+          "type": "heading",
+          "text": "7. 接續前,清除斷弧處熔渣,如圖 14-11(c)。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 在熔池前端 20mm 處起弧,如圖 14-11(d),之後再回到熔池處繼續織動,往前運行。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 銲接至鋼板末端,縮短電弧,轉幾個小圓圈填補熔池後,往回提高銲條,熄滅電弧,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "14-11(e)。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 銲接完畢,清除銲渣。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 檢視銲道織動情形:銲道表面無銲蝕、過疊現象、頭尾兩端良好、銲道表面平滑、銲道波"
+        },
+        {
+          "type": "paragraph",
+          "text": "紋均勻細緻、銲道高度 3mm 以下,織動式銲道外觀如圖 14-11(f)。"
+        },
+        {
+          "type": "heading",
+          "text": "12. 重複練習直到熟練為止。"
+        },
+        {
+          "type": "paragraph",
+          "text": "說明:練習過程也可採用「斜線暫停法」、「橢圓形法」或其他織動方式。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-11 ȭ౹⺣ↈՒೣ⺣ⳬႽ̳ᔎ49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "270"
+        },
+        {
+          "type": "heading",
+          "text": "14-2 ತ቟࿁ટ዁Ъ"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "paragraph",
+          "text": "ᖖ⺣ŋבờᣅ㄄ᚉ≩ඖヅᏎ⺣࿲,銲接時是用鎢棒為電極,以氬氣來代替銲藥保護銲填金 屬,當電弧產生後,填料必須依賴手工技術將其熔入銲縫上,以達到銲接的目的,這種銲接是 專供不銹鋼、鋁及鋁合金、銅及銅合金、鈦與鋯、低合金鋼及低合金鋼管以及各種高壓管線等 特殊金屬及非鐵金屬的銲接工作。"
+        },
+        {
+          "type": "heading",
+          "text": "ɓeತ቟τༀʿԴ͜ءจԫධ"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用銲接設備,安全注意事項對使用者及週遭人員都非常重要,於安裝及操作設備前,請 務必恪遵下列所述之安全注意事項。若忽略之將可能導致嚴重傷害及損害。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 人身保護"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 務必防止電擊,以策安全。 (2) 操作中切勿接觸內部零件。 (3) 不使用時請關閉電源。 (4) 不可使用絕緣不良的電線安裝。 (5) 清除槍頭熔渣或更換零件時,請關閉電源。 (6) 當按下操作開關時,槍頭不可接觸身體。 (7) 正確穿戴絕緣好的安全鞋及工作服。 (8) 可燃性極易爆性物質必須遠離銲接場所,並準備滅火器。 (9) 電弧的強烈光線中,直視會灼傷眼睛,引起眼痛,為防止這種光線輻射對眼睛的傷害, 應選用正確濃度的濾光玻璃及頭戴面罩,如圖 14-12,並豎立隔屏或遮光布簾,以防止 對鄰近人員的傷害。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 通風"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 煙霧粉塵有礙健康,應避免吸入人體。 (2) 使用抽風設備,以保持適當的通風。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 防風和換氣"
+        },
+        {
+          "type": "paragraph",
+          "text": "在室外銲接或是使用電風扇的場所,要避免電弧部位受風直接吹襲而影響到保護效果。如 必要時需做防風處置(使用豎立掩蔽物如擋風板類等)。"
+        },
+        {
+          "type": "heading",
+          "text": "൩eҦঐ௅ɦ"
+        },
+        {
+          "type": "paragraph",
+          "text": "氬銲銲接因為沒有銲渣,故所有因銲渣所引起的銲接缺陷均可避免,同時其銲接部位材質 的延性、強度、氣密性及耐蝕性等均較一般銲接為優,並能做全位置銲接,操作甚為容易,以 下以銲接材料 2mm 軟鋼板 SS41 為例做操作說明。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 14 ཥ቟ʘ࿁ટ዁Ъ 271"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-12 ȭᖖᣱ"
+        },
+        {
+          "type": "heading",
+          "text": "ɓeༀৣཥ฽"
+        },
+        {
+          "type": "heading",
+          "text": "1. 使用 \u0003 2.4mm/2% 釷鎢合金鎢棒,端頭以研磨機磨尖,研磨長"
+        },
+        {
+          "type": "paragraph",
+          "text": "度約為鎢棒直徑的 2.5 倍,研磨方向與鎢棒成平行。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 裝配電極,用電極護帽鎖緊,瓷罩內徑約為電極直徑的 3 倍,"
+        },
+        {
+          "type": "paragraph",
+          "text": "電極銅束及銅夾套管必須配合電極芯徑的大小。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 調整電極伸出長度,如圖 14-13。"
+        },
+        {
+          "type": "heading",
+          "text": "4. ⿭ۓҽִᖛŊҽִᖛ␵ࣱԻʃ⭁ヅ᜺ԅᤀᘍ࿲ⳇ。 Ț ߧ 14-13 ȭヅᏎ᱿̖ӛ⿢ಙ"
+        },
+        {
+          "type": "heading",
+          "text": "5. 調整氬氣流量:1用氬氣鋼瓶平閥專用扳手依反時針方向開啟氣瓶2按下銲槍手壓開關 ( 或"
+        },
+        {
+          "type": "paragraph",
+          "text": "氣體調整鈕 ),依順時針方向旋轉流量調節閥至所需氣流量,有效銲接氣體蔽護流量為 8~21 立方呎 / 時。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 調整銲接參數 ( 如圖 14-14):1選用直流電2極性:電極接負極 ( 正極法 DCSP) 3脈波: 無"
+        },
+        {
+          "type": "paragraph",
+          "text": "4調整氬氣流量,用氬氣鋼瓶平閥專用扳手依反時針方向開啟氣瓶,按下銲槍手壓開關 ( 或 氣體調整鈕 ),依順時針方向旋轉流量調節閥至所需氣流量 10 立方呎 / 小時。5轉動氬銲機 本體電流調整旋鈕 ( 或遠端外接電源控制器 ) 調整電流至 40~60A(2mm 碳鋼 ) 6氣體後吹時"
+        },
+        {
+          "type": "heading",
+          "text": "間: 10~15 秒"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-14 ȭ⺣ᑨㄇኈ"
+        },
+        {
+          "type": "heading",
+          "text": "7. 除去母材表面的鐵銹、油脂、雜質。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 母材至於工作台,呈平銲銲接位置。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 檢查電弧:1引發電弧,調整是當電弧長度2確認電流是否如設定值3切斷電弧。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "272"
+        },
+        {
+          "type": "heading",
+          "text": "10. 依下列要領做直線式銲道練習:1引發電弧,銲槍與母材成 45 度角,如圖 14-15(a) 2戴上"
+        },
+        {
+          "type": "paragraph",
+          "text": "面罩 3按下按鈕開關引發電弧 4電弧引發後,調整銲槍與垂直呈 20 度的運行角度並調整 電極保持在最短的電弧長,如圖 14-15(b) 5氬銲條與母材呈 20 度角填入於熔池前端,如圖 14-15(c),並注意銲道寬度約為電極的 1.5 倍如圖 14-15(d),並稍有凸度。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-15 ȭ᳅Bೣ⺣ⳬ"
+        },
+        {
+          "type": "heading",
+          "text": "11. 反覆練習,逐次檢視銲道寬度及高度是否一致、銲道直線度是否筆直、銲道波紋是否均勻、"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲道的接續和收尾無凹陷或過凸起現象,如圖 14-16。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 14-16 ȭᖖ⺣⺣ⳬ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch14/p014.jpg"
+    }
+  ]
+}

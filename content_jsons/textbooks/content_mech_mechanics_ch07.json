@@ -1,0 +1,2521 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH07",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH07",
+    "title": "CH7"
+  },
+  "title": "機械力學 Chapter 7 動力學基本定律",
+  "source_pdf": "mechanical_mechanics/CH7PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH07",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        },
+        {
+          "type": "heading",
+          "text": "動力學基本定律"
+        },
+        {
+          "type": "heading",
+          "text": "及應用"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-1 牛頓運動定律 1. 能 瞭 解 並 分 析 牛 頓 三 大 運 動 定 7-2 滑輪介紹 律。 7-3 向心力與離心力 2. 能應用牛頓第二運動定律來解析 直線運動中作用力的問題。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 能解析滑輪系統中繩的作用力與"
+        },
+        {
+          "type": "paragraph",
+          "text": "加速度。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 瞭解圓周運動中向心力與離心力"
+        },
+        {
+          "type": "paragraph",
+          "text": "的作用關係及演算。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "230"
+        },
+        {
+          "type": "paragraph",
+          "text": "動力學是古典力學的一門分支,主要研究物體運動的變化與造成變化的各項因素。探 討力對物體運動所造成的影響,其理論基礎是 艾薩克 ‧ 牛頓 提出的牛頓運動定律,對於 任意物理系統,只要知道其作用力的性質,引用牛頓運動定律,就可以研究這作用力對於 這物理系統的影響,現在就讓我們來好好認識牛頓三大運動定律吧!"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-1 賽車手壓車過彎的安全平衡"
+        },
+        {
+          "type": "heading",
+          "text": "7-1 牛頓運動定律"
+        },
+        {
+          "type": "heading",
+          "text": "1. 牛頓第一運動定律 ( 慣性定律 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "每個物體都有一種“維持原有運動狀態”的傾向,稱為物體的慣性 (inertia)。"
+        },
+        {
+          "type": "heading",
+          "text": "例如:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 敲擊原本靜止狀態的積木,上方積木不會隨著被擊出的積木而移動,如圖 7-2 所示。 (2) 若要將雨傘上的水珠甩去,在甩動雨傘後立即停下,水珠仍然會朝向甩動方向 飛出,如圖 7-3 所示。 (3) 車輛於行駛途中緊急煞車,乘客仍維持原來的運動狀態,身體會向前傾,如圖 7-4 所示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 231"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-2 積木 ▲ 圖 7-3 甩雨傘"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-4 緊急煞車"
+        },
+        {
+          "type": "paragraph",
+          "text": "按照慣性的觀念,為何在地上滾動的球卻會逐漸的減速至停止?兩千多年前 的希臘三哲之一的 亞里斯多德 就認為物體停止是沒有慣性的,如果要讓物體持續 運動,就必須持續對其施加外力,但是這種直覺的想法是錯誤的。物體會逐漸地 停止,其實是因為摩擦力、空氣阻力等外力的作用造成。 在 1590 年, 伽利略 提出一圓球自斜面最高處釋放後, (1) 球最多可到達斜面 另一端相同的高度,而無法前進,圖 7-5(a); (2) 當球抵達到水平面時,球可在不 受外界的干擾下,在水平的木板上繼續運動下去,圖 7-5(b)。綜合上述實驗而提出 慣性定律的概念。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-5 (a) 慣性 (1) ▲ 圖 7-5 (b) 慣性 (2) 牛 頓 在 其 著 作 - 自 然哲 學 的 數 學 原 理, 即 寫 下 著 名 的 牛 頓 第 一 運 動 定 律 (Newton's first law of motion),也稱為“慣性定律”,內容陳述為“每個物體會持 續其原先靜止或均勻筆直向前運動的狀態,除非因為受到力的作用而被迫改變其"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "232"
+        },
+        {
+          "type": "paragraph",
+          "text": "狀態”。即當物體不受外力作用或所受之外力的合力為零時,則靜者恆靜,動者 恆作等速直線運動。圖 7-6 古典力學的奠基者 - 牛頓。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-6 古典力學的奠基者 - 牛頓"
+        },
+        {
+          "type": "heading",
+          "text": "2. 牛頓第二運動定律 ( 運動定律 ):"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 加速度與力的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "在無外力或合力為零的狀態時,物體的運動狀態不會改變而維持著慣性; 反之若物體受到一外力或合力不為零的狀態時,物體的運動狀態必然會改變, 而速度發生改變就表示有加速度的存在。因此, 牛頓 在這個基礎下提出了牛頓 第二運動定律 (Newton's second law of motion),內容為一物體的加速度與作用 在此物體上的外力成正比,質量與加速度成反比,且加速度方向與作用力的方 向相同,如圖 7-7 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "F = ma ( 公式 7-1)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-7 牛頓第二運動定律"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位系統 力 (F) 質量 (m) 加速度 (a)"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "MKS 牛頓 (Newton) 公斤 (kg) 公尺 / 秒 (m/s )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "CGS 達因 (dyne) 公克 (g) 公分 / 秒 (cm/s )"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "註: (1) 1 牛頓 = 1 kg-m/s = 1000 g × 100 cm/s = 10 達因"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 重量 W = mg, 1 公斤重 = 1 kg × 9.8 m/s = 9.8 牛頓。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 233"
+        },
+        {
+          "type": "paragraph",
+          "text": "當一個物體受固定拉力作用時,如圖 7-8 所示,其加速度 a 的方向會朝向施 力 F 的方向。拉力固定時,質量 m 愈大加速度 a 愈小,如圖 7-9(a) 所示,即加速 度 a 與物體的質量 m 成反比,如圖 7-9(b) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-8 在固定拉力作用下,不同質量物體的運動情況"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 作用力與質量的關係圖 (b) 加速度與質量的關係"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-9"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "F = ma 之 F 正負判斷: 以加速度方向為正 ( 例如: 電梯加速度向上, 以向上的力量當作正; 電梯加速度向下, 以向下的力量當作正 )。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 牛頓第三運動定律:反作用力定律"
+        },
+        {
+          "type": "heading",
+          "text": "作用力與反作用力"
+        },
+        {
+          "type": "paragraph",
+          "text": "牛頓 以兩物體的碰撞或接觸時的運動狀態改變與受力模式為基礎提出牛頓第 三運動定律 (Newton's third law of motion)。當質點受另一質點作用時,此質點必產 生一個與作用力大小相同且方向相反的反作用力,因此牛頓第三運動定律又稱為 反作用力定律,如圖 7-10 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "\u001f \u001f"
+        },
+        {
+          "type": "heading",
+          "text": "F AB = − F BA"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "234"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-10 腳用力踢球,球會以相同大小的力作用在腳上 此作用力與反作用力可解釋如下:作用力與反作用力是成對同時發生,其 兩力之大小永遠相同,方向永遠相反,而且同時發生作用與同時消失,因作用 在不同的物體上,所以不能互相抵消,如圖 7-11(a)、 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-11 反作用力的實例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 235"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-1 題型:運動定律 F = ma"
+        },
+        {
+          "type": "paragraph",
+          "text": "質量 3 kg 的物體靜置於水平面上,若平面的動摩擦係數為 0.2,今施加 P = 36 N"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "水平作用力於此物體上,試求此物體之加速度? (g = 10 m/s )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "W = mg = 3 × 10 = 30 N"
+        },
+        {
+          "type": "paragraph",
+          "text": "f k = μ k N = μ k W = 0 2. × 30 = 6 N"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F = ma, P − fk = ma, 36 − 6 = 3 × a, a = 10 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 7-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "重量 19.6 牛頓的物體靜止在水平面上,受到一水平力作用,若地面為光滑, 4 秒後此物體的速度為 20 m/s,試求此作用力之大小?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "236"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-2 題型:兩物體間的作用情況"
+        },
+        {
+          "type": "paragraph",
+          "text": "質量 20 kg 之物體置於質量 180 kg 的升降機內,若鋼繩"
+        },
+        {
+          "type": "heading",
+          "text": "之張力為 2260 牛頓,試求:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 升降機的加速度?"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 物體對升降機的作用力?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 取整體自由體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F = ma, 2260 − 1960 = 200 × a"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "300 = 200 × a, a = 1 5. m/s"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 取 20 kg 物體的自由體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F = ma, R − 196 = 20 × 1 5."
+        },
+        {
+          "type": "heading",
+          "text": "R = 226 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 7-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "甲質量為 80 公斤,乙質量為 40 公斤,兩人靜止在溜冰場 的水平面上,若忽略摩擦。甲乙各以 120 牛頓的力量朝對"
+        },
+        {
+          "type": "heading",
+          "text": "方互相推動作用後,兩者分開,則施力期間:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 甲的加速度大小和方向?"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 乙的加速度大小和方向?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 237"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-3 題型:作用力與反作用力"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩木塊分別為 m1 和 m2,承受 F = 20 牛頓的推力沿光滑水平面移動,如圖所示, 若 m1 = 3 kg、 m2 = 2 kg,試求:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 兩木塊的加速度?"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 兩木塊之間的作用力?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 若將 m1 與 m2 位置對調,相同條件下,則兩木塊之間的作用力?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 取整體自由體圖 (a)"
+        },
+        {
+          "type": "heading",
+          "text": "F 20 2"
+        },
+        {
+          "type": "heading",
+          "text": "a = = = 4 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 + m 2 3 + 2"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 取 m2 分離自由體圖 (b)"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F = ma, F 12 = m a 2 = 2 × 4 = 8 N"
+        },
+        {
+          "type": "heading",
+          "text": "或取 m1 分離自由體圖 (c)"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F = ma, F − F 21 = m a 1, F 21 = F − m a 1 = 20 − 3 × 4 = 8 N"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 取整體自由體圖 (d)"
+        },
+        {
+          "type": "heading",
+          "text": "F 20 2"
+        },
+        {
+          "type": "heading",
+          "text": "a = = = 4 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 + m 2 3 + 2"
+        },
+        {
+          "type": "heading",
+          "text": "取 m1 分離自由體圖 (e)"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F = ma, F 21 = m a 1 = 3 × 4 = 12 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 7-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "若質量為 20 公克的子彈,以每秒 400 公尺的速度射入木板中 20 公分而停止在 木板內,假設木板對子彈的阻力為一常數,則此阻力的大小為多少牛頓?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "238"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 下列有關牛頓運動定律的敘述何者正確? (A) 物體的質量越大,越 難改變其運動狀態 (B) 物體受力後產生的加速度大小與力的大小成 反比 (C) 作用力與反作用力大小相等,方向相反,且作用在同一物 體上 (D) 當物體不受外力作用或所受外力之合力為零時,靜者恆靜, 動者恆作等加速直線運動。 ( ) 2. 牛頓第二運動定律? (A) 物體動量之變化對時間之比,與作用力成 反比例且其變化之發生方向與作用力相同 (B) 物體如不受外力作用 時,應不變其靜止或以等速沿一直線運動之狀態 (C) 物體受作用時, 必有一反作用力,方向相反,大小相同 (D) 物體受作用時,於力之 作用方向生一定之加速度,其加速度大小與作用力大小成正比例。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 3. 假設一力 F 施加於物體 A,使其產生一加速度 5 m/s,同一力 F 施加"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "於物體 B,則產生一加速度 10 m/s,若將物體 A、 B 連接在一起,施"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "以 3 F 的力,則產生之加速度為多少 m/s?"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) 15 (C) 10 (D) 5。"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 4. 如圖所示,有一鐵箱質量為 100 kg,鐵箱與地面間之動摩擦係數"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "μ k = 0.25,當水平作用力 P = 600 N,則鐵箱的加速度為多少 m/s?"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 設重力加速度為 10 m/s ) (A) 2.5 (B) 3.5 (C) 4.5 (D) 5.5。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 下列敘述何者正確? (A) 作用力與反作用力絕不可能同時施於一物 體上 (B) 人推牆不倒是因作用力與反作用力互相抵消 (C) 小車碰大 車時,小車受力較大 (D) 作用力與反作用力不一定同時發生。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 239"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 6. 一物體以 14 m/s 之初速度直線滑行 25 m 後停止,則滑行期間物體與 地面之動摩擦係數為何? (A) 0.3 (B) 0.4 (C) 0.5 (D) 0.6。 ( ) 7. 一質量為 50 公斤的人站在電梯內的磅秤上量體重,若電梯以向上"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 m/s 的加速度上升,且重力加速度為 9.8 m/s,則此人在磅秤上顯示 多少公斤? (A) 54.1 (B) 58.6 (C) 60.2 (D) 63.4。 ( ) 8. 如圖所示, m = 5 kg、 M = 10 kg 靜"
+        },
+        {
+          "type": "heading",
+          "text": "置於光滑水平面上,若 m 和 M 的"
+        },
+        {
+          "type": "heading",
+          "text": "靜摩擦係數 μ s = 0.4,若以 F 的水"
+        },
+        {
+          "type": "heading",
+          "text": "平拉力作用在 M 上使物體加速,"
+        },
+        {
+          "type": "paragraph",
+          "text": "卻保持 m 仍停留在 M 上方的原來位置,則 F 最大值應為多少牛頓?"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(g = 10 m/s ) (A) 60 (B) 40 (C) 20 (D) 10。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "跑者的腳碰到障礙物時,為什麼身體會向前傾倒呢?"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 運動選手跨過最後一個欄架後跌倒 ( 圖片來源:聯合新聞網記者程宜華 ) 跑者的腳碰到障礙物的瞬間,腳的速度突然受向後的力作用而慢下來,而上半身並未受力作用,根 據慣性定律,上半身仍保持原來的速度前進,故身體會向前傾倒。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "240"
+        },
+        {
+          "type": "heading",
+          "text": "7-2 滑輪介紹"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑輪 (pulley) 是指圓周上具有凹槽,裝在輪架上且可繞中心軸旋轉的圓輪。滑輪之凹 槽處可繞繩子,並利用繩子在滑輪上的滑行來吊起重物。滑輪依其中心軸位置是否改變, 分為定滑輪及動滑輪兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 定滑輪:滑輪中心軸位置固定不動者,稱為定滑輪,如圖 7-12 所示。如欲將 W"
+        },
+        {
+          "type": "paragraph",
+          "text": "重物向上提升,施力必須向上作用;在同樣的結果下,可應用定滑輪裝置,但施 力改變為向下作用。定滑輪之功用是用來改變施力的方向。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 動滑輪:滑輪中心軸位置可以改變者,稱為動滑輪,如圖 7-13 所示。繞繩子的方"
+        },
+        {
+          "type": "paragraph",
+          "text": "式改變,受力的平衡模式亦改變。動滑輪之功用是用來改變施力的大小。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-12 定滑輪 ▲ 圖 7-13 動滑輪 定滑輪與動滑輪之單一或複合種類的運用,需視實際情況組合調整,以下介"
+        },
+        {
+          "type": "heading",
+          "text": "紹幾種常見類型:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 類型一:單一定滑輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-14(a) 所示為單一定滑輪系統,繩子的兩端分別為質量為 m 1、 m 2 的物體。若 m 1 > m 2 時, m 1、 m 2 的自由體圖,如圖 7-14(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-14 單一定滑輪"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 241"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F = ma 知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": " m g 1 − T = m a 1 ⋯⋯1"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": " 單定滑輪求 a 速解法:由於兩物體用繩索綁在一起,"
+        },
+        {
+          "type": "heading",
+          "text": " T − m g 2 = m a 2 ⋯⋯2"
+        },
+        {
+          "type": "paragraph",
+          "text": " 故可將兩者假設為同一系統。"
+        },
+        {
+          "type": "heading",
+          "text": "解聯立方程式得:"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 − m 2 2 m m 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 a = g,繩子張力: T = g"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 + m 2 m 1 + m 2"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 類型二:單一定滑輪 - 光滑平面"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-15(a) 所示為單一定滑輪系統,繩子的兩端分別為質量為 m 1、 m 2 的物體, m 2 放置於光滑平面上。 m 1、 m 2 的自由體圖,如圖 7-15(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F = ma"
+        },
+        {
+          "type": "paragraph",
+          "text": "  m g 1 − T = m a 1 ⋯⋯1"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "  T = m a 2 ⋯⋯2"
+        },
+        {
+          "type": "heading",
+          "text": "解聯立方程式得:"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 m m 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 a = g,繩子張力 T = g"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 + m 2 m 1 + m 2"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-15 單一定滑輪-光滑平面"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "242"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 類型三:單一定滑輪 - 光滑斜面"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-16(a) 所示為單一定滑輪系統,繩子的兩端分別為質量為 m 1、 m 2 的 物體, m 2 放置於光滑斜面上。若 m 1 > m 2 sin q 時, m 1、 m 2 的自由體圖,如圖 7-16(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F = ma"
+        },
+        {
+          "type": "paragraph",
+          "text": "  m g 1 − T = m a 1 ⋯⋯1"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": "  T − m 2 g sin θ = m a 2 ⋯⋯2"
+        },
+        {
+          "type": "heading",
+          "text": "解聯立方程式得:"
+        },
+        {
+          "type": "paragraph",
+          "text": "m 1 − m 2 sin θ ( 1 + sin θ ) m m 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "加速度 a = g,繩子張力 T = g"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 + m 2 m 1 + m 2"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-16 單一定滑輪-光滑斜面"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 類型四:定滑輪與動滑輪之組合"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-17(a) 所示為複合滑輪系統,質量為 m 1 的物體吊掛在定滑輪,質量"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "paragraph",
+          "text": "為 m 2 的物體吊掛在動滑輪下方。若 m 1 > m 2 時,動滑輪與 m 2 物體的上升加"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "速度為 a 2, m 1 物體的下降加速度為 a 1,其加速度比值 a 1: a 2 = 2: 1, m 1、 m 2 的自由體圖,如圖 7-17(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F = ma"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "m g 1 − T = m a 1 ⋯⋯1"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": " a"
+        },
+        {
+          "type": "paragraph",
+          "text": " 2 T − m g 2 = m 2 × ⋯⋯2"
+        },
+        {
+          "type": "heading",
+          "text": " 2"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "heading",
+          "text": "解聯立方程式得:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 × 2: 2 m g 1 − 2 T = 2 m a 1 ⋯⋯3"
+        },
+        {
+          "type": "heading",
+          "text": "m 2 ▲ 圖 7-17 定滑輪與動滑輪之組合"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 + 3: 2 m g 1 − m g 2 = ( 2 m 1 + ) a"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "4 m 1 − 2 m 2 3 m m 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "m 1 之加速度 a = g,代入3得繩子張力: T = g"
+        },
+        {
+          "type": "heading",
+          "text": "4 m 1 + m 2 4 m 1 + m 2"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 243"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 碰到滑輪問題首先要判斷是定滑輪或動滑輪;複合定滑輪與動滑輪組中的動滑輪可以省力,但是會"
+        },
+        {
+          "type": "paragraph",
+          "text": "費時,而且加速度僅為定滑輪的一半。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 無論是定滑輪或是動滑輪,如果不考慮摩擦力,只要是同一根繩子,繩索上的張力都一樣大。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-4 題型:定滑輪求加速度與繩張力"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,忽略繩子的摩擦力和質量,若香蕉 6 公斤及猴子 5"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "公斤,且猴子以等加速度 a 向上爬升, g = 10 公尺 / 秒,當香"
+        },
+        {
+          "type": "heading",
+          "text": "蕉懸於空中靜止不動時,猴子的加速度值為多少?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 W = mg, W 香蕉 = 6 × 10 = 60 N"
+        },
+        {
+          "type": "heading",
+          "text": "W 猴子 = 5 × 10 = 50 N"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 僅考慮香蕉在空中靜止 ( 即平衡狀態 )"
+        },
+        {
+          "type": "heading",
+          "text": "T = 6 kg = 60 N"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 考慮猴子向上爬升的加速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ F = ma, 60 − 50 = 5 × a"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "a = 2 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 7-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,兩物體質量分別為 2 kg 及 3 kg,以一軟繩於一滑輪上,試求此系統之"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "加速度及繩子張力? (g = 10 m/s )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "244"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-5 題型:摩擦與否的影響"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,設有重量為 30 N 的物體置於水平面"
+        },
+        {
+          "type": "heading",
+          "text": "上,其介面之動摩擦係數為 0.4,並以一軟繩於一"
+        },
+        {
+          "type": "paragraph",
+          "text": "滑輪上,另一端連接一重量 20 N 之物體,試求此"
+        },
+        {
+          "type": "heading",
+          "text": "系統之加速度及繩子張力?"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "(g = 10 m/s )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "由 W = mg"
+        },
+        {
+          "type": "paragraph",
+          "text": "30 N = m1 × 10 ∴ m1 = 3 kg 20 N = m2 × 10 ∴ m2 = 2 kg f = μ N = 0.4 × 30 = 12 N"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F = ma"
+        },
+        {
+          "type": "heading",
+          "text": "  20 - T = 2a ⋯⋯1"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": "  T - f = T - 12 = 3a ⋯⋯2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 + 2 8 = 5a, a = 1.6 m/s 代入1 T - 12 = 3 × 1.6, T = 16.8 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 7-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,一質量 3 kg 的物體置於 37° 光滑斜面上,並以一軟繩於一滑輪上,"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "連接一質量 2 kg 的物體,試求此系統之加速度及繩子張力? (g = 10 m/s )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 245"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-6 題型:複合滑輪系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示之滑輪系統,設滑輪重量不計且無摩擦,其所懸 掛物體質量皆為 20 kg,試求此系統的繩子張力及 A 物體"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "的加速度? (g = 10 m/s )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "由重量 W = mg = 20 × 10 = 200 N,"
+        },
+        {
+          "type": "heading",
+          "text": "加速度比值 aA: aB = 1: 2"
+        },
+        {
+          "type": "heading",
+          "text": "∑ F = ma"
+        },
+        {
+          "type": "paragraph",
+          "text": "  200 - T = 20 × aB = 40a ⋯⋯1"
+        },
+        {
+          "type": "heading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": "  2T - 200 = 20 × aA = 20a ⋯⋯2"
+        },
+        {
+          "type": "heading",
+          "text": "1 × 2 400 - 2T = 80a ⋯⋯3"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 + 3 200 = 100a, a = 2 m/s = aA 代入2 2T - 200 = 20 × 2, T = 120 N"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 7-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示, m1、 m2 質量皆為 10 kg, m1 與水平桌面的動摩擦係數 μ k 為 0.25,"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "不計滑輪質量與摩擦力,試求 m1 的加速度為多少? (g = 10 m/s )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "246"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 如圖所示之滑輪組,將質量 10 kg 的物體懸掛於滑"
+        },
+        {
+          "type": "heading",
+          "text": "輪之下方,若滑輪與繩子的重量皆忽略不計,且"
+        },
+        {
+          "type": "heading",
+          "text": "滑輪與繩子間為光滑無摩擦,若欲使該物體靜止"
+        },
+        {
+          "type": "heading",
+          "text": "不下滑時,在定滑輪端的施力 T 應為多少 N?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 5 (B) 10 (C) 49 (D) 98。 ( ) 2. 如圖所示為光滑斜面之滑輪系統,則下列敘述何"
+        },
+        {
+          "type": "heading",
+          "text": "者錯誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 若 W1 sin q > W2,則 W2 向上升 (B) 若 W1 sin q < W2,則 W2 向下降 (C) 若 W1 sin q = W2,則 W2 靜止或等速運動 (D) 若 W1 sin q < W2,則 T1 < T2。 ( ) 3. 如圖所示,滑塊 m1 = 4 kg、 m2 = 6 kg,所有滑輪"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "均為定滑輪,重力加速度 g = 10 m/s,接觸面的"
+        },
+        {
+          "type": "heading",
+          "text": "動摩擦係數為 0.5,則繩子張力為多少牛頓?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 16 (B) 26 (C) 36 (D) 46。 ( ) 4. 如圖所示,一質量 20 kg 的物體置於動摩擦係數為 0.5 之水平面上, 並以一繩繫之,此繩繞過一無摩擦力之滑輪懸吊另一物體,若該物體 的起始位置高於地面 4 m,則懸吊物於 2 秒後碰觸地面,試求此懸吊"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "物 m 之質量為多少公斤? (g = 10 m/s ) (A) 15 (B) 17.5 (C) 20 (D) 22.5。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 247"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 5. 如圖所示, A、 B、 C 三物體的質量分 別 為 10 kg、 20 kg、 30 kg, A、 B 物"
+        },
+        {
+          "type": "heading",
+          "text": "體與平面間之靜摩擦係數均為 0.25、"
+        },
+        {
+          "type": "paragraph",
+          "text": "動摩擦係數均為 0.2。若繩子不伸長亦"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "不計滑輪重量與繩子間摩擦力影響,假設重力加速度 g = 10 m/s,則 對於 AB 繩、 BC 繩所受的張力,下列敘述何者正確? (A) AB 繩張 力為 30 N、 BC 繩張力為 90 N (B) AB 繩張力為 30 N、 BC 繩張力為 180 N (C) AB 繩張力為 60 N、 BC 繩張力為 90 N (D) AB 繩張力為 60 N、 BC 繩張力為 180 N。 ( ) 6. 如 圖 所 示 之 滑 輪 系 統, 物 體 A 的 質 量 為 60 kg 以"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2.45 m/s 之加速度向上移動,若不計滑輪與繩子的重"
+        },
+        {
+          "type": "paragraph",
+          "text": "量以及二者間的摩擦,則物體 B 的質量為多少 kg? (A) 75 (B) 50 (C) 43 (D) 36。"
+        },
+        {
+          "type": "heading",
+          "text": "7-3 向心力與離心力"
+        },
+        {
+          "type": "paragraph",
+          "text": "前面的單元 6-2 已介紹過,物體作圓周運動會改變物體的運動方向,其中必有一向心 加速度 a n,由牛頓第二運動定律 F = ma 可知,必有一作用力 F 使其產生加速度,其方向必 與向心加速度方向相同指向圓心,稱為向心力 (centripetal force)。 由牛頓第三運動定律得知,有作用力必生一反作用力,故物體作圓周運動必有一與向 心力大小相同、方向相反之力作用於物體上,此使物體往外脫離之力稱為離心力 (centrifugal force),如圖 7-18 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-18 向心力與離心力 ▲ 圖 7-19 雲霄飛車"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "248"
+        },
+        {
+          "type": "paragraph",
+          "text": "質量為 m 的物體作等速率圓周運動,其半徑為 r,角速度為 ω,切線速度為 V t, 向心"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 V t"
+        },
+        {
+          "type": "paragraph",
+          "text": "加速度為 a n = r ω =,故其向心力 F 大小為:"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 V t"
+        },
+        {
+          "type": "paragraph",
+          "text": "F = ma n = mr ω = m ( 公式 7-2)"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "paragraph",
+          "text": "單位系統 F ( 力 ) m ( 質量 ) r ( 半徑 ) ω ( 角速度 ) V t ( 切線速度 ) MKS N ( 牛頓 ) kg ( 公斤 ) m ( 公尺 ) rad/s ( 弧度 / 秒 ) m/s ( 公尺 / 秒 ) CGS dyne ( 達因 ) g ( 公克 ) cm ( 公分 ) rad/s ( 弧度 / 秒 ) cm/s ( 公分 / 秒 )"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "heading",
+          "text": "1. 向心力的方向是指向圓心,離心力的方向則是離開圓心。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 向心力與離心力互為反作用力,但是因為作用在不同的物體上,所以無法互相抵消。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 類型一:以垂直軸為中心 水平面旋轉"
+        },
+        {
+          "type": "paragraph",
+          "text": "一質點以繩子繫上, 在水平面上作圓周運動時,無論在任何一點時, 繩子張 力 T 恆等於物體的離心力 F。如圖 7-20(a)、 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 V t"
+        },
+        {
+          "type": "heading",
+          "text": "T = F = ma n = mr ω = m"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-20 以垂直軸為中心水平面旋轉"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 249"
+        },
+        {
+          "type": "heading",
+          "text": "2. 類型二:以水平軸為中心 鉛直面旋轉"
+        },
+        {
+          "type": "paragraph",
+          "text": "一質點以繩子繫上,在垂直面上作圓周運動時,任何一點瞬間之繩子張力 T 隨著切線速度 V 與重量 mg 的影響而改變。如圖 7-21(a)、 (b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-21 以水平軸為中心鉛直面旋轉"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 最高位置 A 點"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "V A V A"
+        },
+        {
+          "type": "paragraph",
+          "text": "T A = F A n − mg = m − mg = m ( − g )"
+        },
+        {
+          "type": "heading",
+          "text": "r r"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 水平位置 B 點"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V B"
+        },
+        {
+          "type": "heading",
+          "text": "T B = F B n = m"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 最低位置 C 點"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "V C V C"
+        },
+        {
+          "type": "paragraph",
+          "text": "T C = F C n + mg = m + mg = m ( + g )"
+        },
+        {
+          "type": "heading",
+          "text": "r r"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "250"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "各位同學是否曾在國中自然與技術高中的高一物理課程, 聽過能量守恆的觀念呢?在一封閉系統 ( 無 能量進出 ) 中,能量可以互相轉換,例如電能→熱能,位能→動能⋯⋯等,但是能量不會憑空消失、也 不能無中生有。 在重力場中,物體的機械能 ( 動能+位能 ) 恆為一定值,不會因位置之改變而改變。在高處原本靜 止的水只有位能沒有動能,流向低處時因高度降低,在重力場中就失去了部分的位能,而失去的位能會 全部轉換成動能,水因而產生相當的流速。根據水失去的位能等於得到的動能,便可以算出 ( 不計摩擦 力時 ) 水的流速。 在單擺單元中亦是符合能量守恆原則,在高處落到低處,因高度位置有所改變,故落 下的切線速度 V 值會產生變化,故由能量守恆的知識來輔佐理解更為恰當。 本章的牛頓第二運動定律與能量守恆是息息相關且互相影響的學問,下一章認識到功與能將會有更"
+        },
+        {
+          "type": "heading",
+          "text": "多的實例應用,等你來挑戰喔!"
+        },
+        {
+          "type": "heading",
+          "text": "3. 類型三:以水平軸為中心旋轉 - 維持垂直面圓周運動的各點最小切線速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "同類型二的運動模式,將轉速逐漸減緩至仍然可維持垂直面圓周運動,可推 導出位置 A、 B、 C 點上的繩子張力與的最小切線速度。 (1) 最高位置 A 點的切線速度 V A 繩子張力 T A"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-22 以水平軸為中心旋轉 - 維持垂直面圓周運動的各點最小切線速度 如圖 7-22 所示, 欲維持垂直圓周運動的旋轉,當速度最小時,其最高位 置 A 點的繩子張力 T A = 0,向外拉的離心力 FAn 必須克服物重 mg,故有最小 的切線速度 V A 值。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V A"
+        },
+        {
+          "type": "paragraph",
+          "text": "T A + mg = F An, 0 + mg = m, V A = gr"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "paragraph",
+          "text": "繩子張力 T A = 0,切線速度 V A = gr。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 251"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 水平位置 B 點的切線速度 V B 與繩子張力 T B 如圖所示,物體從最高位置 A 點到水平位置 B 點時, 因高度位置有所改變,故切線速度 V B 值會改變,繩子張 力 T B 亦隨之改變。 總機械能 = 位能 A + 動能 A = 位能 B + 動能 B"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "mg ( 2 r ) + m ( gr ) = mgr + mVB, V B = 3 gr"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V B 3 gr"
+        },
+        {
+          "type": "paragraph",
+          "text": "T B = F B n m = = m 3 mg ="
+        },
+        {
+          "type": "heading",
+          "text": "r r"
+        },
+        {
+          "type": "paragraph",
+          "text": "繩子張力 T B = 3mg,切線速度 V B = 3 gr。 (3) 最低位置 C 點的切線速度 V C 與繩子張力 T C 如圖所示,同理,物體從水平位置 B 點到最低位置 C 點 時,其切線速度 V C 值會改變,繩子張力 T C 亦隨之改變。 總機械能 = 位能 A + 動能 A = 位能 C + 動能 C"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "mg ( 2 r ) + m ( gr ) = 0 + mVC, V C = 5 gr"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V C 5 gr"
+        },
+        {
+          "type": "paragraph",
+          "text": "T C = mg + F C n = mg + m = mg + m = 6 mg"
+        },
+        {
+          "type": "heading",
+          "text": "r r"
+        },
+        {
+          "type": "paragraph",
+          "text": "繩子張力 T C = 6mg,切線速度 V C = 5 gr。 類型三需要用到力學第八章機械能守恆求各點之速度,位能 = mgh,"
+        },
+        {
+          "type": "heading",
+          "text": "1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "動能 = mV。若取 C 點當作參考點 h C = 0, V A = gr,"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "總機械能 = 位能 A + 動能 A = 位能 B + 動能 B = 位能 C + 動能 C。"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 1 2 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-21(b) 所示,總機械能 = mg ( 2 r ) + m ( gr ) = mgr + mV B = 0 + mV C,"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "全部乘以 ( );總機械能 = 4gr + gr = 2gr + V B = V C,"
+        },
+        {
+          "type": "heading",
+          "text": "m"
+        },
+        {
+          "type": "paragraph",
+          "text": "∴ V B = 3 gr, V C = 5 gr。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "252"
+        },
+        {
+          "type": "heading",
+          "text": "4. 類型四: 汽車轉彎的速度與半徑之極限值"
+        },
+        {
+          "type": "paragraph",
+          "text": "汽車行駛於水平彎道時,若地面是水平的,此時汽車轉彎時僅以摩擦力來抵 抗離心力,倘若摩擦力不足以抵抗離心力,汽車可能會有打滑翻車的意外,因此, 欲使汽車不打滑翻車的最大極限就是最大靜摩擦力與離心力相等,如圖 7-23 所 示。 ∑ Fy = 0, N − mg = 0, N = mg"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "∑ Fx = 0, F n = f s max, m = μ s × mg 或 mr ω = μ s mg"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "最大切線速度: V = μ s gr"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V μ s g"
+        },
+        {
+          "type": "heading",
+          "text": "最小轉彎半徑: r = 或 r ="
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "μ s g ω"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-23 舒馬克的冠軍座駕法拉利 F2001"
+        },
+        {
+          "type": "heading",
+          "text": "5. 類型五: 外軌超高"
+        },
+        {
+          "type": "heading",
+          "text": "高速公路匝道設計成一邊高一"
+        },
+        {
+          "type": "heading",
+          "text": "邊低是為了防止汽車下匝道因速度"
+        },
+        {
+          "type": "paragraph",
+          "text": "過快而衝出路面之安全設計。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "高度差 h = × d ( 公式 7-3)"
+        },
+        {
+          "type": "heading",
+          "text": "gr"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-24 外軌超高"
+        },
+        {
+          "type": "paragraph",
+          "text": "式中: h:高度差 (m)。 V:車速 (m/s)。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "g:重力加速度 (m/s )。 r:轉彎半徑 (m)。 d:路面水平寬度 (m)。 當離心力與重量之合力與地面垂直時,正向力即可以抵消向外傾向之移動 ( 即 平衡 )。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 253"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-7 題型:以垂直軸為中心的旋轉問題"
+        },
+        {
+          "type": "paragraph",
+          "text": "毛線可承受 20 kgw 的最大張力,若長 50 公分的毛線一端繫上 1 kg 的小錘, 另一端固定在光滑水平桌面上為圓心,並使毛線及小錘於桌面上作等速圓周運"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "動,則小錘可承受的最大角速度為多少弧度 / 秒? (g = 10 公尺 / 秒 )"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "毛線可承受最大張力 = 20 kgw,經單位換算 T = 20 × 10 = 200 N"
+        },
+        {
+          "type": "heading",
+          "text": "水平轉動時,繩子張力 = 離心力氐"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "T = Fn, 200 = mr ω = 1 × 0.5 × ω"
+        },
+        {
+          "type": "heading",
+          "text": "ω = 20 rad/s"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 7-7"
+        },
+        {
+          "type": "paragraph",
+          "text": "質量 1000 kg 的汽車,在直徑 40 m 的彎道上,以 36 km/hr 的速度過彎,求其"
+        },
+        {
+          "type": "heading",
+          "text": "向心力大小?"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "254"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-8 題型:以水平軸為中心的旋轉問題"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,小球以一條不可伸縮且長度為 r 的繩子綁住,繩子質量不計。將小 球提高到 q 角,靜止後自由放開,當小球到達最低點時,繩子的張力恰為小球"
+        },
+        {
+          "type": "heading",
+          "text": "重量的 2 倍,求 q 角為多少度?"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "paragraph",
+          "text": "當單擺、光滑斜面、光滑曲面,靜止下滑時,已知高度差為 h 時末速 V = 2 gh"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "paragraph",
+          "text": "T = 2 mg = mg + Fn, F n = mg m = ∴ V = gr 2 gh ="
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "r 2 1"
+        },
+        {
+          "type": "heading",
+          "text": "h =, cos θ = =, θ = 60 °"
+        },
+        {
+          "type": "heading",
+          "text": "2 r 2"
+        },
+        {
+          "type": "heading",
+          "text": "練習題 7-8"
+        },
+        {
+          "type": "paragraph",
+          "text": "半徑為 r 的半球面,若質量為 m 的小球自半球面上方邊緣自由滑下,忽略摩擦 不計,則小球滑落至底部時對碗底所產生的壓力為多少?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 255"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-9 題型:汽車轉彎的速度與半徑的極限值"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖所示,川普開車以 90 公里 / 時的速率行駛在水平的彎道,已知川普與車的"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "總質量為 2000 公斤,彎道的曲率半徑為 200 公尺。若重力加速度 g = 10 m/s, 則: (1) 此時人與車的向心力為多少牛頓? (2) 若可安全過彎道,地面與輪胎間 的靜摩擦係數至少為多少?才不會打滑。"
+        },
+        {
+          "type": "heading",
+          "text": "解"
+        },
+        {
+          "type": "heading",
+          "text": "90 × 1000 m"
+        },
+        {
+          "type": "heading",
+          "text": "90 km / hr = = 25 m/s"
+        },
+        {
+          "type": "heading",
+          "text": "3600 s"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "V 25"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 向心力 F n = m = 2000 × = 6250 N"
+        },
+        {
+          "type": "heading",
+          "text": "r 200"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 向心力 = 最大靜摩擦力,"
+        },
+        {
+          "type": "paragraph",
+          "text": "F n = f s max = μ s N = μ s mg, 6250 = μ s × 2000 × 10, μ s = 0 3125."
+        },
+        {
+          "type": "heading",
+          "text": "練習題 7-9"
+        },
+        {
+          "type": "paragraph",
+          "text": "汽車開在曲率半徑為 16 公尺的彎曲水平路面上,輪胎與路面的靜摩擦係數為"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "0.4,動摩擦係數為 0.2,重力加速度 g = 10 m/s,則汽車在此道路上能等速過"
+        },
+        {
+          "type": "heading",
+          "text": "彎而不打滑的最大速率為多少公尺 / 秒?"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "256"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 玩具飛機懸吊在一細繩下方,繞水平圓形軌道以 等速飛行,如圖所示。下列有關此玩具飛機運動"
+        },
+        {
+          "type": "heading",
+          "text": "的敘述哪一項正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 飛機的速度保持不變"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 重力作功提供飛機的動能"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 飛機的加速度指向前進方向"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 飛機所受合力指向軌道中心。 ( ) 2. 如圖所示,汽車質量 1000 kg 以速度"
+        },
+        {
+          "type": "heading",
+          "text": "20 m/s 行駛通過拱橋中點,拱橋曲"
+        },
+        {
+          "type": "heading",
+          "text": "率半徑為 200 m,則拱橋與汽車間的"
+        },
+        {
+          "type": "heading",
+          "text": "作用力為多少牛頓?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 4000 (B) 6000 (C) 8000 (D) 10000。 ( ) 3. 一質量為 m 的球用一繩索繫之,以等角速度 ω 作直"
+        },
+        {
+          "type": "heading",
+          "text": "立圓周運動,如圖所示,若對該繩索在四個位置所"
+        },
+        {
+          "type": "paragraph",
+          "text": "受的張力 T 何者正確? (A) T1 最大 (B) T2 最大 (C) T3 最大 (D) T1 = T2 = T3 = T4。 ( ) 4. 汽車等速行駛於高速公路匝道,若路面為水平,靜摩擦係數為 0.25, 匝道曲率半徑為 39.2 m,若要汽車不發生打滑,則容許車速為多少 m/s? (A) 9.8 (B) 14.7 (C) 19.6 (D) 24.5。 ( ) 5. 一繩子繫上質量 0.2 kg 的球,在半徑 20 cm 作直立圓周運動,則最高 點的速度最少需要多少 cm/s 才能保持圓周運動? (A) 1.4 (B) 14 (C) 140 (D) 1400。 ( ) 6. 一物體 A 以長 r = 50 cm 繩索繫於一支點,"
+        },
+        {
+          "type": "heading",
+          "text": "如圖所示,若將物體提至 d = 20 cm 位置"
+        },
+        {
+          "type": "heading",
+          "text": "後靜止釋放,不計繩重,則此物體於擺"
+        },
+        {
+          "type": "heading",
+          "text": "盪期間繩索之最大張力為物體重量的多"
+        },
+        {
+          "type": "paragraph",
+          "text": "少倍? (A)2.1 (B)2.2 (C)2.3 (D)2.4。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch07/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 動力學基本定律及應用 257"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "為什麼人造衛星不會因受到地心引力而掉下來呢?"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 福爾摩沙衛星三號"
+        },
+        {
+          "type": "paragraph",
+          "text": "我們從經驗中知道,用細線綁著物體並使其繞圓圈轉動,手的力量會透過細線提供物體繞圓圈時所 需要的向心力。繞圓圈這個行為稱為「圓周運動」。在做這個實驗時,細線的長度通常是固定的,也就 是物體繞圓圈時的半徑是固定的。"
+        },
+        {
+          "type": "heading",
+          "text": "我們知道圓周運動的公式:"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 V t"
+        },
+        {
+          "type": "heading",
+          "text": "F = ma n = mr ω = m"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "paragraph",
+          "text": "其中, F 是向心力, m 是物體的質量, r 是半徑, V t 則是物體做圓周運動時的切線速度,在半徑固 定的情況下,繞行的速度越快,需要的向心力就越大。這與我們的經驗一致,物體轉動的速度越快,就 需要更大的力氣來抓住它。這意謂著,人的力量會透過細線的張力提供物體轉動的向心力。同理,人造 衛星需要的向心力就是由地球與人造衛星間的萬有引力所提供。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此上面的式子可改寫為 GMm/r = mv /r,其中, m 是人造衛星的質量, G 是萬有引力常數,"
+        },
+        {
+          "type": "heading",
+          "text": "- 11 3 - 1 - 2 24"
+        },
+        {
+          "type": "paragraph",
+          "text": "G = (6.67384 ± 0.00080) × 10 m kg s, M 是地球質量 5.972 × 10 公斤。 G 與 M 這兩個數值都是固"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "定的,因此把上面式子再簡化為 r × v = G × M = 常數。也就是說, 一個在繞著行星做圓周運動的人造衛 星,它轉動的速度只與軌道半徑有關,而與人造衛星本身的質量無關。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "258"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        },
+        {
+          "type": "heading",
+          "text": "鐵軌上的高速過彎:傾斜式列車"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 傾斜過彎中的 JR 北海道 283 系柴聯車"
+        },
+        {
+          "type": "paragraph",
+          "text": "擺式列車 ( 英文 Tilting Train,或 稱傾斜式列車、擺錘式列車、搖擺式列車 ) 是一種車體轉彎時可以 側向擺動的列車。相較於普通列車,擺式列車通過一般彎道時會以較快速度行駛,可以節省行駛時間。 當任何車輛以高速轉彎,車內的物件和乘客都會受到 慣性 的影響。因為車內的物件以本來慣性直線 前進,與車輛轉彎後的前進方向不一致,於是產生了相對的速度變化。在鐵路列車上,引致車廂內的物 件和行李傾側滑行,座位上的乘客亦會被壓向一旁,而站著的乘客更可能失去平衡跌倒。 飛機和單車能夠以較高速轉彎,因為它們在轉彎的時候都會向側面傾斜。但汽車或鐵路列車的車輪 必需著地,本身並不能夠傾斜。為了使到它們可以無需減速高速轉彎,高速公路及高速鐵路的軌道在彎 曲處都被建成向內傾斜的弧形 ( 即外軌超高 )。這樣車內的乘客所需要的 向心力 便可以由 重力的分量 來 提供。 對汽車使用的道路來說,這種傾斜非常重要。如果汽車轉彎時的速度過高,輪胎和地面的摩擦力會 不足以提供夠大的向心力,導致轉彎曲率不夠大,而偏離車道。對鐵路來說,重心高的車輛以太過高的 速度駛過急彎,亦存在著側翻的可能性。將路軌建成斜的弧形亦是避免這種可能的方法。但是一般來說, 當列車還未接近足以側翻的速度和急彎,乘客所感受到的不適已非常嚴重。故此大多數的鐵路設計時所 考慮到的,並非避免車輛側翻,而是乘客所感的不適。 但是多數的鐵路都是早年車速甚低的時候建造。這些路線現在都變成了建築密集的地區,要重建比 較困難。因此這些國家像是義大利、日本投資發展了擺式列車,擺式列車供乘客乘座的車體在轉彎時可 以側向擺動。當車輛向左轉時,車體向左傾擺,讓重力提供足夠的向心力讓車產生向左之加速度。列車 可以是靠慣性自行擺動的被動擺式,亦可以是由電腦控制,動力輔助的主動擺式,像本國的普悠瑪或太 魯閣等火車即是此種列車。"
+        },
+        {
+          "type": "heading",
+          "text": "生活 小 百科"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "7-1 1. 牛頓第一運動定律 ( 慣性定律 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 又稱為 慣性定律。 (2) 物體 不受外力或合力為零時, 靜者恆靜,動者恆作等速直線運動。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 牛頓第二運動定律 ( 運動定律 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當物體受外力作用且 合力不為零 時, 沿合力之方向必產生一加速度,此加 速度的大小與合力大小成正比,而與物體的質量成反比。 (2) 有作用力才有加速度,力量一停止 ( 或移開 ),則加速度為零,若地面為 光滑,則靜者恆靜,動者恆作等速度運動。 (3) 公式為: ∑ F = ma。 (4) 公式中力之單位使用 絕對單位 (SI 公制 ),即以 牛頓 (N) 為單位。"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 1 N 是使 1 kg 物體產生 1 m/s 之加速度所需之力,即 1 N = 1 kg-m/s。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 重量 W = mg"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 重力加速度 g = 9.8 m/s = 980 cm/s。 (2) 1 kgw = 9.8 N。 (3) 1 gw = 980 dyne。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 牛頓第三運動定律 ( 作用力與反作用力定律 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 又稱為 反作用力定律。 (2) 物體受外力作用時,必產生一反作用力,作用力與反作用力大小相等,方 向相反。因作用力與反作用力各別 作用在不同的物體上,所以不能抵消。 7-2 5. 滑輪主要可以分為定滑輪與動滑輪兩種,使用滑輪的目的為 省力 或是 改變施力 的方向。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 定滑輪:滑輪中心軸位置固定不動者,稱為定滑輪,功用是用來 改變施力的方"
+        },
+        {
+          "type": "paragraph",
+          "text": "向。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 動滑輪:滑輪中心軸位置可以改變者,稱為動滑輪,功用是用來 改變施力的大"
+        },
+        {
+          "type": "paragraph",
+          "text": "小。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 定滑輪垂直掛兩物體 ( 若 m 1 > m 2 )"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 − m 2 2 m m 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "a = g, T = g"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 + m 2 m 1 + m 2"
+        },
+        {
+          "type": "heading",
+          "text": "259"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "9. 定滑輪一個置桌面一個垂直懸掛,若桌面為光滑平"
+        },
+        {
+          "type": "heading",
+          "text": "面"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 m m 1 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "a = g, T = g。"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 + m 2 m 1 + m 2"
+        },
+        {
+          "type": "heading",
+          "text": "10. 定滑輪一個在斜面,另一個垂直懸掛,若斜"
+        },
+        {
+          "type": "heading",
+          "text": "面為光滑平面"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 當 m 1 g > m 2 g sin q 時, m 1 會往下運動, m 2 會往上運動。 (2) 當 m 1 g < m 2 g sin q 時, m 1 會往上運動, m 2 會往下運動。 m 1 − m 2 sin θ ( 1 + sin θ ) m m 1 2"
+        },
+        {
+          "type": "heading",
+          "text": "情況 (1) 時, a = g, T = g"
+        },
+        {
+          "type": "heading",
+          "text": "m 1 + m 2 m 1 + m 2"
+        },
+        {
+          "type": "heading",
+          "text": "11. 滑輪系統的解析流程:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 判斷物體是否為等加速度運動? ( 若系統處在平衡狀態 a = 0,則物體為靜 止或等速運動 )。 (2) 繪製個別的分離自由體圖。 (3) 運動的方向即為加速度的方向。 (4) 列出個別物體的 ∑ F = ma。 (5) 解聯立方程式,即可求得繩子張力與加速度。 7-3 12. 向心力: 物體作圓周運動時,受到指向圓心方向的作用力,此力稱為向心力。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V t 2"
+        },
+        {
+          "type": "heading",
+          "text": "F = ma n = m = mr ω"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "13. 離心力:由牛頓第三運動定律可知,有作用力必有反作用力,與向心力大小相"
+        },
+        {
+          "type": "paragraph",
+          "text": "等,方向相反的作用力稱為離心力。"
+        },
+        {
+          "type": "heading",
+          "text": "260"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "14. 離心力應用類型一:以垂直軸為中心 水平面旋轉"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2 V t"
+        },
+        {
+          "type": "paragraph",
+          "text": "T = F = ma n = mr ω = m。"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "15. 離心力應用類型二:以水平軸為中心 鉛直面旋轉"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "V A V A"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 最高位置 A 點: T A = F A n − mg = m − mg = m ( − g )。"
+        },
+        {
+          "type": "heading",
+          "text": "r r"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V B"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 水平位置 B 點: T B = F B n = m。"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "V C V C"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 最低位置 C 點: T C = F C n + mg = m + mg = m ( + g )。"
+        },
+        {
+          "type": "heading",
+          "text": "r r"
+        },
+        {
+          "type": "heading",
+          "text": "16. 離心力應用類型三: 欲維持垂直面圓周運動的各點最小切線速度值"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 最高位置 A 點:繩子張力 T A = 0,切線速度 V A = gr。 (2) 水平位置 B 點:繩子張力 T B = 3mg,切線速度 V B = 3 gr。 (3) 最低位置 C 點:繩子張力 T C = 6mg,切線速度 V C = 5 gr。"
+        },
+        {
+          "type": "heading",
+          "text": "261"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "重點整理"
+        },
+        {
+          "type": "heading",
+          "text": "17. 離心力應用類型四: 汽車轉彎的速度與半徑之極限值"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 最大切線速度: V = μ s gr。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V μ s g"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 最小轉彎半徑: r = 或 r =。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "μ s g ω"
+        },
+        {
+          "type": "heading",
+          "text": "18. 離心力應用類型五: 外軌超高"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "V"
+        },
+        {
+          "type": "heading",
+          "text": "高度差 h = × d"
+        },
+        {
+          "type": "heading",
+          "text": "gr"
+        },
+        {
+          "type": "heading",
+          "text": "262"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

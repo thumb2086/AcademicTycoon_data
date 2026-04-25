@@ -1,0 +1,197 @@
+{
+  "bundle_id": "TEXT_MECH_MECHANICS_CH07",
+  "questions": [
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_001",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "1. 下列何者在單位上相當一牛頓?",
+      "image_url": "",
+      "options": [
+        "1 仟克 · 米 2 / 秒",
+        "1 米 · 秒 2 / 仟克",
+        "1 仟克 · 秒 2 / 米",
+        "1 仟克 · 米 / 秒 2 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_002",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "2 · 下列關於牛頓運動定律的敘述, 何者?",
+      "image_url": "",
+      "options": [
+        "牛頓第三運動定律又稱為反作用力定律",
+        "當物體受力時, 必沿作用力之方向產生一加速度, 其大小與作用力成反比",
+        "當物體不受外力作用或所受外力其合力為零時, 則靜者恆靜, 動者恆作等速直線運動",
+        "當物體受外力作用時, 必產生一與作用力大小相等, 方向相反之反作用力 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_003",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "3 · 質量分別為 M 及 m 放在光滑水平面上, 若 M > m, 以相同的 F 力, 但在不同方向作用於 M 及 m 物體上, 如圖所示, 請問兩物體中間的反作用力何者較大?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch07/p035_0_0_0_r.png",
+      "options": [
+        "a 圖較大",
+        "b 圖較大",
+        "兩者一樣大",
+        "無法判斷 。 (A) (B) )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_004",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "4 · 質量為 40 kg 的物體, 以 10 m/s 的速度在光滑水平面上直線前進, 若欲使該物體在 4 秒內停止運動, 則水平阻力應為多少牛頓?",
+      "image_url": "",
+      "options": [
+        "400",
+        "300",
+        "200",
+        "100 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_005",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "2 · 2 m/s 等速下降, 在到達樓層前 1 秒以等減速度煞車至停止, 求此時乘客對電梯地板施加的作用力大小為何? ( 重力加速度 g=9.8m/s2)",
+      "image_url": "",
+      "options": [
+        "300 N",
+        "400 N",
+        "500 N",
+        "600 N 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_006",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "8 · 一大小可變的力 F 經繩與滑輪拉動一質量為 10 kg 的物體 A, 物體上升的速度 V 與時間 t 的關係如圖所示, 若不計摩擦與繩重, 則時間 t = 7 s ~ 10 s 這段期間, F 力的大小為多少 N?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch07/p036_0_0_0_r.png",
+      "options": [
+        "128",
+        "98",
+        "78",
+        "68 。 v (m/s) 9 t (s) 7 10 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_007",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "10 · 如圖所示之滑輪系統, 不計滑輪與繩索的重量與摩擦力, 求質量 90kg 的物體以等速 2m / s 上升所需的施力 p 為多少牛頓? ()= 10m / s2 ) 90kg",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch07/p036_0_0_0_r.png",
+      "options": [
+        "45",
+        "180",
+        "360",
+        "450 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_008",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "13 · 如圖所示, 滑塊 ml = 3 kg 及 m2 = 2 kg, 所有滑輪均為定滑輪, 若重力加速度值 g = 10 m/s2, 且不計一切接觸面的摩擦力及滑輪的慣性矩, 則繩子的張力為多少牛頓? 1 2 0",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch07/p037_0_0_0_r.png",
+      "options": [
+        "4",
+        "6",
+        "12",
+        "24 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_009",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "16 · 如圖所示, 質量同為 10kg 的兩物體 A 、 B, 在光滑平面上受到外力作用, 所產生的加速度分別為 、 a2, 則 al: a2",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch07/p037_0_0_0_r.png",
+      "options": [
+        "1: 1",
+        "2: 3",
+        "3: 2",
+        "3: 1 。 拉力 5kgw 5 kg )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_010",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "17 · 質量為 m 的物體以繩繫之, 欲維持在鉛直面上半徑為 r 的圓周運動最高點的速度最小值為多少?",
+      "image_url": "",
+      "options": [
+        "gr",
+        "2gr",
+        "3gr",
+        "5gr 265"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_011",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "18 · 長度為 R 的繩子, 繫住一球體作鉛直面上的圓周運動, 已知在最高點的繩子張力等於物體重量, 求該物體在最高點的速度大小是多少?",
+      "image_url": "",
+      "options": [
+        "2gR",
+        "gR",
+        "0",
+        "2 gR )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH07_012",
+      "subject": "機械力學",
+      "unit": "CH7",
+      "q": "24 · 如圖所示的水平旋轉鞦韆, 鋼索長 L 為 5 m, 一端固定於上方旋轉控制盤, 另一端則承載一質量為 20 kg 0 的乘客, 該乘客以等角速度 2 rad / s 在水平面上旋轉, 如果不考慮鋼索質量 、 空氣阻力與摩擦力等其他因素, 則鋼索的張力為多少 N?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch07/p038_0_0_0_r.png",
+      "options": [
+        "300",
+        "400",
+        "500",
+        "600 。 266"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

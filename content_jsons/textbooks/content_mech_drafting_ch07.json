@@ -1,0 +1,1733 @@
+{
+  "content_id": "CONTENT_MECH_DRAFTING_CH07",
+  "subject": "機械製圖",
+  "chapter": {
+    "code": "CH07",
+    "title": "CH7"
+  },
+  "title": "機械製圖 Chapter 7 剖視圖識圖與製圖",
+  "source_pdf": "mechanical_drafting/CH7PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        },
+        {
+          "type": "heading",
+          "text": "剖視圖識圖與製圖"
+        },
+        {
+          "type": "heading",
+          "text": "本章學習內容"
+        },
+        {
+          "type": "heading",
+          "text": "7-1 割面與剖面"
+        },
+        {
+          "type": "heading",
+          "text": "7-2 全剖面視圖"
+        },
+        {
+          "type": "heading",
+          "text": "7-3 半剖面視圖"
+        },
+        {
+          "type": "heading",
+          "text": "7-4 局部剖面視圖"
+        },
+        {
+          "type": "heading",
+          "text": "7-5 旋轉剖面與移轉剖面"
+        },
+        {
+          "type": "heading",
+          "text": "7-6 多個剖視圖之表示法"
+        },
+        {
+          "type": "heading",
+          "text": "7-7 不予剖切之表示法"
+        },
+        {
+          "type": "heading",
+          "text": "( 建議授課: 15 節 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "46"
+        },
+        {
+          "type": "heading",
+          "text": "學習表現"
+        },
+        {
+          "type": "paragraph",
+          "text": "在正投影視圖中遇機件內部隱藏的稜線必須以虛線表示,但是一件內部構造複雜的 物體在正投影視圖中,其虛線必然錯綜複雜,使人讀圖不易;故為了清楚表達物體內部 複雜的形狀,必須以剖視圖繪之。故本章之學習目標為:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 能引起學習興趣與動機,並能體會美感素養,創意概念與應用於日常產品或感"
+        },
+        {
+          "type": "heading",
+          "text": "知科技產品之設計"
+        },
+        {
+          "type": "heading",
+          "text": "2. 了解剖視圖之目的及割面、剖面之意義"
+        },
+        {
+          "type": "heading",
+          "text": "3. 熟練且正確繪製全剖視圖、半剖視圖"
+        },
+        {
+          "type": "heading",
+          "text": "4. 熟練且正確繪製局部剖視圖"
+        },
+        {
+          "type": "heading",
+          "text": "5. 熟練且正確繪製旋轉與移轉剖視圖"
+        },
+        {
+          "type": "heading",
+          "text": "6. 熟練且正確繪製多個剖視圖"
+        },
+        {
+          "type": "heading",
+          "text": "7. 了解機件不予剖視的部分表示法"
+        },
+        {
+          "type": "heading",
+          "text": "8. 能體會剖視圖在工程圖應用上的重要性"
+        },
+        {
+          "type": "heading",
+          "text": "7-1 割面與剖面"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個物體若是只從表面形狀、大小及材質顏色,皆難以得知真實的內部,但若透過適當剖 切則可一窺真實面貌,如圖 7-1 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-1 透過適當剖切方得以一窺荔枝真實面貌"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:收費千庫網斑駁、默默 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "一件內部構造複雜的物體,如圖 7-2 所示其內部隱藏的稜線,在正投影視圖中以虛線表示時 必然縱橫交錯,使人讀圖不易。故一內部複雜的機件或機器,如果使用假想剖切的方式來呈現 其內部的構造,減少虛線的產生,必能使視圖的表達事半功倍。猶如美味可口的紅豆餅,經適 當的剖切後便可知內餡,而能選擇自己喜好的口味,如圖 7-2 所示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 47"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-2 紅豆餅的剖切"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:鏡週刊網 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、割面 (Cutting plane)"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體做假想剖切以了解其內部形狀時,其假想的切割面稱為 割面, 如前述圖 7-3 所述。一物 體基本上由 X、 Y、 Z 三度空間構成, 故假想切割平面常見水平割面、 橫向割面、 縱向割面等方向, 如圖 7-3 所示立體示意圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-3 割面方向 ( 圖片來源: gogoyour 李佳琪 )"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "paragraph",
+          "text": "電腦斷層掃描 (Computed Tomography,簡稱 CT) 電腦斷層掃描是一種影像診斷學的檢查, X 射線電腦斷層掃描 (X-Ray Computed Tomography,簡稱 X-CT) 是一種利用電腦的數位幾何處理後重建的三維放射線醫學影像,掃描三維方式如圖 7-10 所示,切面圖像 呈現如圖 7-43 所示。 一般所謂電腦斷層的「掃描切數」是指「偵檢器」旋轉一圈可得到的切面圖像張數,例如 128 切 ( 最大影 像張數可達 320 或 384) 或 256 切 ( 最大影像張數可達 768)。影像偵檢器的排數越多,一次捕捉身體的範 圍越大且輻射劑量越低。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "48"
+        },
+        {
+          "type": "heading",
+          "text": "二、割面線 (Cutting plane line)"
+        },
+        {
+          "type": "paragraph",
+          "text": "對物體做假想切割時,該假想割面的邊視圖所見的切割線 (Cutting line),在正投影視圖中 稱為 割面線,用以表示割面位置的線。割面線的兩端與轉折處為粗實線,中間為一點細鏈線連 接, 在兩端須以 箭頭表示剖視圖觀察的方向,若是多個割面時應以字母區別之;同一割面之兩 端以同一英文字母標示,字母一律寫在割面線之末端,書寫方向一律朝上,如圖 7-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-4 字母一律寫在割面線之末端"
+        },
+        {
+          "type": "paragraph",
+          "text": "割面除前述圖 7-3 所示割面方向外,每個獨立方向在切割時可配合物體形狀作轉折,如圖 7-5 所示北卡羅來納級戰列艦炮塔立體剖面示意圖例,轉折後可更清楚以貼切與適合的表達出此複 雜內部形狀與構造。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-5 艦炮塔剖面割面轉折圖例"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源: hk.saowen.com)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 49"
+        },
+        {
+          "type": "paragraph",
+          "text": "割面線轉折時, 轉折處以粗實線表示,割面線之兩端須伸出視圖外約 10mm,箭頭距離粗 實線約等於字高 (h),兩端之粗實線最長為 2.5 倍字高 (7.5mm),轉折處之粗線最長為 1.5 倍字高 (4.5mm);其割面線箭頭大小約一般標註尺度箭頭大小之 1.5 至 2 倍,如圖 7-6(f) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-6 割面線"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "50"
+        },
+        {
+          "type": "paragraph",
+          "text": "割面線可轉折,但因視圖為假想剖切,則其剖視圖中不可繪出轉折處之實線,如圖 7-7 所 示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-7 割面線之省略"
+        },
+        {
+          "type": "paragraph",
+          "text": "在圖 7-8(b) 中,在一般全剖切中由於未做適當轉折,故只剖切到柱坑,以致於無法表達方 孔及圓孔,因此,不是一個好的剖切方法。故割面線亦可做任意角度之轉折,必要時可依圓弧 方向之轉折,如圖 7-8(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-8 割面線可轉折"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 51"
+        },
+        {
+          "type": "heading",
+          "text": "三、剖面 (section)"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了解決上述問題,須以更詳盡的規範與定義方更能適合應用在機械工程圖上。如圖 7-9(a) (b) 所示,首先假想一切割面將物體鋸開,鋸開後將靠近觀察者的部份移去,使其內部構造能清 楚看見,如此視圖上的虛線會變成實線如圖 7-9(c) 所示,物體上被假想切割面切割到之平面, 稱為 剖面,觀察者從假想切割面的垂直方向觀察物體被剖切部位所畫成的視圖,稱為 剖視圖 (Sectional drawing 或 Sectional views);如圖 7-9(d)、 (e) 所示為正投影視圖與剖視圖之比較。 所以, 剖視圖的主要目 的是在清楚表達物體內部複雜的形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-9 剖視圖原理"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "52"
+        },
+        {
+          "type": "heading",
+          "text": "四、剖面線 (Section lines)"
+        },
+        {
+          "type": "paragraph",
+          "text": "對物體做假想切割,其切割面所切割接觸的實體部位,在剖視圖上以剖面線表示之,以清 楚分辨出實體部位及空隙部位。繪製方法敘述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 剖面線的方向與間隔:剖面線為一平行且等間隔的細實線,其間隔依剖面之大小而定,一般"
+        },
+        {
+          "type": "paragraph",
+          "text": "介於 2 ∼ 4mm 之間,其方向通常與主軸或物體之外形線成 45 °,如圖 7-10 所示為剖面線繪 製的標準及錯誤例。若物體主要輪廓線成 45 °時,則應改變剖面線的方向或角度,如圖 7-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-10 剖面線畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-11 與中心線或輪廓線平行時剖面線畫法"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 53"
+        },
+        {
+          "type": "heading",
+          "text": "2. 剖面線與尺度數字之相交表示法:剖面線應避免與尺度數字相交,如不可避免時,剖面線應"
+        },
+        {
+          "type": "paragraph",
+          "text": "中斷讓開,如圖 7-12 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-12 剖面線與尺度數字不可相交"
+        },
+        {
+          "type": "heading",
+          "text": "3. 過大或較薄機件的剖面線表示法:大機件剖面時,其剖面面積甚大,可不須將剖面線全部繪"
+        },
+        {
+          "type": "paragraph",
+          "text": "出,得繪出輪廓內 3 ∼ 5mm 剖面線,而將中間部份均勻整齊的省略,如圖 7-13 所示。但是 較薄的機件,其剖面面積甚小,不易畫剖面線,故以塗黑表示,如圖 7-14 所示,若相鄰兩 機件的剖面面積均狹小時,其間須留空隙,如圖 7-15 所示,常用於繪製薄鐵板、型鋼、薄 墊圈⋯等等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-13 過大機件 ▲ 圖 7-14 過薄機件 ▲ 圖 7-15 相鄰狹小剖面"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "54"
+        },
+        {
+          "type": "heading",
+          "text": "7-2 全剖面視圖"
+        },
+        {
+          "type": "heading",
+          "text": "一、全剖面之原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "一割面將物體整個分割為二,並移去靠近觀察者之前半部,此種表示機件被一割面完全剖 切的狀況稱為 全剖面 (Full section),如圖 7-16 所示立體示意圖實例。換言之,全剖面乃是將物 件假想剖切為一半,藉以顯示全部剖切後的內部形狀,如圖 7-17 所示四種水果的內部情形。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-16 全剖面將物體整個分割為二實例"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:橘子與小菠蘿蜜 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-17 將物件假想剖切一半後的內部形狀實例 ( 圖片來源:微悉尼、搜狐網、奇豆美術 - 生活工藝家 kido、收費千庫網念小 V、 Janice 及岑于妍 )"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 55"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此,繪製此種機械工程圖是將機件假想剖切一半,以正投影原理將割面剖切後所繪之視 圖稱為 全剖視圖 (Full section views),如圖 7-18 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-18 全剖面之原理"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "建築全剖面圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程圖除了在機械工程使用全剖面外,建築工程亦常藉此方法表達內部構造與形狀,如圖示 1。"
+        },
+        {
+          "type": "heading",
+          "text": "圖示 1 建築全剖面圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "56"
+        },
+        {
+          "type": "heading",
+          "text": "二、全剖視圖之繪製要領"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製全剖視圖時, 機件實體被剖切部份須加剖面線表示,實體被剖切後之空隙部份經 剖切 後為可見輪廓線,以粗實線表示;如圖 7-19 所示,一物體被剖切,該割面通過中心線,移去剖 切部位後之立體圖示如圖 7-19(a) 所示,從圖 7-19(b) 中知該物體被剖切之實體部位為 1 至 4、 5 至 10、 11 至 14、 15 至 20 四個部位,從視線觀察可判知圓弧線 2-5、 4-10、 6-16、 7-17、 12-15、 14-20 皆為可見輪廓線,因此連接這些圓弧線後即為 全剖右側視圖,如圖 7-19(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-19 全剖面之繪製"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製剖視圖時,一般切割面背後之可見輪廓線不可省略,且須以粗實線表示,但物體之隱 藏線在視圖中盡可能省略,且在繪製剖面線時,同一機件的剖面線方向及間隔均須相同;如圖 7-20 所示為一錯誤繪製範例,圖 (1) 不需繪虛線,圖 (2) 缺少圓弧稜線連接視圖,圖 (3) 之剖面 線方向需一致,圖 (4) 之虛線必須改為粗實線。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-20 右側全剖視圖錯誤繪製例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 57"
+        },
+        {
+          "type": "heading",
+          "text": "三、全剖視圖之特徵"
+        },
+        {
+          "type": "heading",
+          "text": "全剖視圖有幾個特徵,分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 切割位置:割面之切割位置往往在主軸或中心軸上,當這種割面位置很明顯時,可省略其割"
+        },
+        {
+          "type": "paragraph",
+          "text": "面線,如圖 7-21 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-21 不可繪出轉折處之實線"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪製虛線問題:在剖視圖中虛線雖盡可能予以省略,但在視圖表達中,若缺虛線則無法完整"
+        },
+        {
+          "type": "paragraph",
+          "text": "表達該物體時則不能省略,如圖 7-22 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-22 虛線不可省略之範例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "58"
+        },
+        {
+          "type": "heading",
+          "text": "3. 割面轉折問題:遇到較複雜形狀之機件時,假想的割面雖可轉折,如圖 7-23 所示,但轉折"
+        },
+        {
+          "type": "paragraph",
+          "text": "切割處之實線因是假想,故在剖視圖上不繪製,以免與視圖造成混淆,如圖 7-23(f) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-23 割面線轉折之繪製法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 59"
+        },
+        {
+          "type": "heading",
+          "text": "7-3 半剖面視圖"
+        },
+        {
+          "type": "heading",
+          "text": "一、原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "半剖面 (Half section) 乃是假想一割面沿物體之中心位置切割物體四分之一,並假想移去此 1/4 部位後所得之形狀稱之,如圖 7-24 所示之立體示意圖實例。故一般當對稱的物體,為了同時 表達內部與外部形狀,可採用半剖面法,如圖 7-25 所示半剖人形玩具。但機械工程圖為了能更 精準表達此半剖面的正投影視圖,須有更明確的規範。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-24 切割物體四分之一實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:旅行酒吧 -Beverly 王、收費千庫網了了 & 默默 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-25 內外部形狀顯示實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:好大玩具網、紅紡文化網、 paradisetoyland 網 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "60"
+        },
+        {
+          "type": "paragraph",
+          "text": "若假想一割面沿對稱機件之中心位置切割四分之一,並假想移去此 1/4 部位後,以正投影原 理所繪得之視圖稱為 半剖視圖 (Half section view),可同時表達內部與外部形狀,如圖 7-26 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-26 半剖視圖之原理"
+        },
+        {
+          "type": "heading",
+          "text": "二、繪製特徵"
+        },
+        {
+          "type": "heading",
+          "text": "繪製機件之半剖視圖時,具有下列 特徵:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 限應用於對稱的機件上。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 半剖視圖之內、外部形狀以 中心線 (Center line) 做為分界線。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 半剖視圖所表示機件外部形狀上的虛線,通常可不予繪出。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 半剖視圖尺度標註:內部尺度應標註在視圖之同一側,外部尺度則標註在另一側;同時依照"
+        },
+        {
+          "type": "paragraph",
+          "text": "加工部位的不同,分別標註其尺度,如圖 7-27 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 可同時顯現機件內部與外部形狀於一正投影視圖上,如圖 7-28 所示為一半剖視圖與全剖視"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖之比較。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 61"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-27 半剖視圖尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-28 半剖視圖可同時顯示內外部形狀"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "62"
+        },
+        {
+          "type": "heading",
+          "text": "7-4 局部剖面視圖"
+        },
+        {
+          "type": "heading",
+          "text": "一、原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "一些物體若僅將所需之某部位剖切,以表達該部份之內部形狀者,此種剖切方法稱為 局部 剖面 (Part section),如圖 7-29 所示之立體示意圖實例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-29 局部剖視圖實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:收費千庫網使達、獸醫學實習作業網、 ifuun 網 )"
+        },
+        {
+          "type": "heading",
+          "text": "二、繪製要領"
+        },
+        {
+          "type": "paragraph",
+          "text": "若只須表示機件某部份之內部形狀,則僅將所需之部位剖切,以正投影原理繪圖,並以折 斷線分開剖切及不剖切的部位,其所繪製之視圖稱為 局部剖視圖 (Part sectionviews)。如圖 7-30 所示乃假想將欲剖切之部位移去,然後只繪製其局部剖切部位之內部形狀,在局部剖視圖中, 外部形狀之虛線不宜省略。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-30 局部剖視原理"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 63"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製局部剖面時,以折斷線為範圍線,且其折斷處應避免與輪廓線或中心線重疊,如圖 7-31 所示。局部剖視圖中亦可針對機件某些部位做多處之獨立剖切,其尺度標註如圖 7-32 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-31 折斷處避免與輪廓線或中心線重疊"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-32 兩處局部剖切例及其尺度標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "64"
+        },
+        {
+          "type": "heading",
+          "text": "7-5 旋轉剖面與移轉剖面"
+        },
+        {
+          "type": "heading",
+          "text": "一、旋轉剖面"
+        },
+        {
+          "type": "heading",
+          "text": "1. 原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "一物體在某一橫斷面處剖切,割面在原地旋轉 90 °後,將剖切處斷面形狀繪出者,稱為 旋轉剖面 (Rotated section 或 Revolved section 或 Sliced section),如圖 7-33 所示之立體示 意圖實例,旋轉剖切後視圖表達方法有二種,為符合工程圖規範,說明如下。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-33 旋轉剖面示意圖實例"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪製要領"
+        },
+        {
+          "type": "heading",
+          "text": "工程圖以正投影原理繪製旋轉剖面視圖,要領為:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 細實線相疊繪製:如圖 7-34 所示為割面剖切六角柱後,旋轉 90 °後以 細實線 相疊繪出 剖切形狀圖在原剖切正投影視圖上。 (2) 顯示斷面形狀:此法常用於繪製機件上具有規則斷面形狀,如型鋼、輪臂、肋等。經旋 轉剖面後,可顯示出斷面形狀或某些細部結構形狀。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-34 旋轉 90 °後以細實線相疊繪出"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 65"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 不可任意改變外形輪廓線:在繪製旋轉剖面所剖切之斷面形狀以細實線重疊繪製在剖切 處時,並須注意不可任意改變機件之外形輪廓線,如圖 7-35 與 7-36 所示。 (4) 旋轉剖面配合中斷視圖:旋轉剖面亦可配合 中斷視圖 (Broken-out sectionviews) 表示, 當旋轉剖面以中斷視圖表示時,其剖切之斷面形狀應使用 粗實線 繪出,如圖 7-37 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 7-35 旋轉剖面之視圖輪廓外形線不可變更"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-36 旋轉剖面之外形表示"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "66"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-37 旋轉剖面配合中斷視圖"
+        },
+        {
+          "type": "heading",
+          "text": "二、移轉剖面"
+        },
+        {
+          "type": "heading",
+          "text": "1. 原理"
+        },
+        {
+          "type": "heading",
+          "text": "若遇到物體之形狀不規則時,常須繪製 多個旋轉剖視"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖,往往會造成標註尺度空間不足及會干涉或影響到各旋轉 剖視圖的外形輪廓線,則可以將旋轉剖面之視圖沿割面線 之方向移出繪於原圖外者,稱為 移轉剖面 (Shifted section 或 Removed section 或 Separate section),如圖 7-38 實物 示意圖和圖 7-39 所示為正投影視圖例,各移轉剖面圖移繪 ▲ 圖 7-38 移轉剖切實例 於剖切處(割面線)正下方(或可移於正上方)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-39 移轉剖面正投影視圖例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 67"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪製要領"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製移轉剖面時,必要時得平移至任何位置,但在各剖視圖上方加註與割面線相同之字 母以區別之,如 A-A、 B-B、 C-C、 D-D 及 E-E 等大寫拉丁字母代號表示其剖面位置,如圖 7-40 所示。移轉剖面亦可以旋轉,當移轉剖面旋轉後,其視圖上方必須加註旋轉符號及旋轉角度, 如圖 7-41 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-40 移轉剖面之平移"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-41 移轉剖面之旋轉"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "68"
+        },
+        {
+          "type": "heading",
+          "text": "7-6 多個剖視圖之表示法"
+        },
+        {
+          "type": "heading",
+          "text": "一、原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體特別複雜時可使用多個割面剖切,以表達不同位置剖切時的內部形狀及大小,在日常 生活中不乏諸多例子,如圖 7-42 所示果蔬多個剖面之示意實例。再如圖 7-43 所示以電腦斷層為 實例,正前頭像水平切 ( 俯視 )AA、 BB 與縱向切 ( 右視 )CC、 DD、 EE,側頭像橫向切 ( 前視 ) FF、 GG、 HH 等多個剖切實例。但機械工程圖繪製此種視圖時,須有更明確的準則說明如下。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-42 果蔬實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:收費千庫網隨心而動、且行且珍惜、周紅、賣菜小生 &Janice)"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-43 電腦斷層三軸向多個剖切"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:菲特網、視覺中國網、圖中精選網 ).)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 69"
+        },
+        {
+          "type": "heading",
+          "text": "二、繪製要領"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製多個剖視圖時,每一個剖視圖均須單獨考慮,不因移去另一個視圖之部份而有所關聯; 多個割面為表示其各剖面位置,應於同一割面線之末端寫上同一大寫拉丁字母標示,書寫方向 一律朝上書寫,並將字母分別標示在各剖視圖上方,加註與割面線相同之字母予以區別。如圖 7-44 所示,前視圖分別以 A-A、 B-B、 C-C 剖切三個不同位置,再以三個右側剖視圖分別表達其 形狀大小,並在繪各剖視圖時,仍然要依正投影要領行之。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-44 多個剖視圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "70"
+        },
+        {
+          "type": "heading",
+          "text": "7-7 不予剖切之表示法"
+        },
+        {
+          "type": "heading",
+          "text": "一些物體在剖視圖中,會遇到"
+        },
+        {
+          "type": "heading",
+          "text": "在縱剖時保留某部分不加以剖切,"
+        },
+        {
+          "type": "heading",
+          "text": "以增加清楚度的表示法,如圖 7-45"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示水果核果之示意圖實例。"
+        },
+        {
+          "type": "heading",
+          "text": "故一般繪製機件的剖視圖中,"
+        },
+        {
+          "type": "paragraph",
+          "text": "遇 到 肋、 輪 臂 與 耳 縱 剖 時, 常 以 此 原 則, 以 下 介 紹 肋 (Rib)、 輪 臂 (Wheel arm)、 輪 輻 (Spoke)、 耳"
+        },
+        {
+          "type": "heading",
+          "text": "(Ear) 與凸緣 (Flange) 之表示法:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-45 不剖切水果果實"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:收費千庫網別動、 CY、今昔何夕、亂亂碼、默默 & 資源 QQ)"
+        },
+        {
+          "type": "heading",
+          "text": "一、肋之剖切表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "當肋縱向剖切時,不須加繪肋之剖面線,以較容易顯示出機件外形,如圖 7-46(a) 所示;但 肋可使用旋轉剖面的方式,將肋的外形及肋寬度表現出來,此時肋的剖切處須加畫剖面線,如 圖 7-46(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-46 肋之剖切"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖 71"
+        },
+        {
+          "type": "heading",
+          "text": "二、齒輪、皮帶輪、手輪之輻板及輪臂"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪、皮帶輪、手輪等圓形機件,在連接輪緣與輪轂之部份,若是連續環繞者謂之輻板, 剖切時加繪剖面線。若是連接部份為不連續者謂之輪臂,剖切時不加繪剖面線,如圖 7-47 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-47 輪臂與輻板之剖切"
+        },
+        {
+          "type": "heading",
+          "text": "三、耳、凸緣的剖面表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "耳、凸緣在機件上經常見到,如底座、閥蓋、軸承座等。耳若採用縱剖時,耳的部分不須 加繪剖面線,如圖 7-48 所示;但耳若採用橫剖時,耳的部分須加繪剖面線,如圖 7-49(A) 所示。 凸緣的部分則須加繪剖面線,如圖 7-49(B) 所示為凸緣橫剖切。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-48 耳之橫剖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "72"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 7-49 凸緣之縱剖"
+        },
+        {
+          "type": "heading",
+          "text": "四、組合剖視圖標準零件"
+        },
+        {
+          "type": "paragraph",
+          "text": "在組合剖視圖中,有一些機件或標準零件如 軸、銷、鍵、螺栓、螺帽、鉚釘、齒輪之齒、 軸承之滾珠、滾柱、滾針等,習慣上在剖切時不加剖面線,以保持 標準零件 (Standard parts) 外形特徵,增加其辨識度與讀圖容易,更可以達到組合剖視圖在描述機件組合的相關位置與配 合情形的主要目的,如圖 7-50 所示。 ※ 補充說明: 上述軸的部份,習慣上在剖切時不加剖面線,但此軸如有鍵或銷的配合,則常用 局部剖面的方式表達視圖,如圖 7-50(B) 所示之傳動軸,右側有鍵、銷的配合,則使用局部 剖切表達視圖。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 剖視圖識圖與製圖"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 立體系統圖及其組合圖例"
+        },
+        {
+          "type": "heading",
+          "text": "齒之齒"
+        },
+        {
+          "type": "heading",
+          "text": "軸承滾珠"
+        },
+        {
+          "type": "heading",
+          "text": "螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "軸承滾子"
+        },
+        {
+          "type": "heading",
+          "text": "傳動軸"
+        },
+        {
+          "type": "heading",
+          "text": "輪臂"
+        },
+        {
+          "type": "heading",
+          "text": "固定"
+        },
+        {
+          "type": "heading",
+          "text": "螺絲"
+        },
+        {
+          "type": "heading",
+          "text": "墊圏"
+        },
+        {
+          "type": "heading",
+          "text": "螺栓"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 正投影組合圖例"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 7-50 組合剖視圖與標準零件"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch07/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-1 ( )1. 有關剖面線敘述,下列何者錯誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 為平行且等間隔的細一點鏈線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 間隔依剖面之大小而定,一般介於 2 ∼ 4mm 之間"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 方向通常與主軸或物體之外形線成 45°"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 剖面線應避免與尺度數字相交。"
+        },
+        {
+          "type": "heading",
+          "text": "( )2. 有關剖面線敘述,下列何者錯誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 大機件剖面得只繪出輪廓內 3 ∼ 5mm 剖面線"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 較薄的機件可以塗黑表示"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 剖面線如不可避免與尺度數字相交時,尺度數字應直接填在剖面線上 (D) 薄鐵板、型鋼、薄墊圈常以塗黑表示剖面線。"
+        },
+        {
+          "type": "heading",
+          "text": "7-2 ( )3. 有關剖面敘述,下列何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 主要目的是在清楚表達物體內部複雜的形狀"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 割面線用以表示割面方向的線"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 箭頭用以表示剖視圖觀察的範圍"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 割面所切割接觸的實體部位,在剖視圖上以割面線表示之。"
+        },
+        {
+          "type": "heading",
+          "text": "( )4. 有關割面線敘述,下列何者錯誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 兩端及轉折處為粗實線"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 中間以細鏈線連接"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 不可轉折"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 如有多個割面應以大寫拉丁字母寫在割面線之末端且書寫方向一律朝上區別。"
+        },
+        {
+          "type": "heading",
+          "text": "( )5. 有關割面線之繪法,下列何者錯誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 箭頭距離割面線於視圖外之兩端粗實線約等於字高"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 兩端之粗實線最長為 5 倍字高"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 轉折處之粗線最長為 1.5 倍字高"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 割面線箭頭大小約一般標註尺度箭頭大小之 1.5 至 2 倍。 7-3 ( )6. 有關全剖面敘述,下列何者錯誤? (A) 割面將物體整個分割為二,並移去靠近觀察者之部分 (B) 將物件假想剖切為一半,藉以顯示全部剖切後的內部形狀 (C) 繪製全剖視圖時,機件實體被剖切部份須加剖面線表示 (D) 實體被剖切後之空隙部份經剖切後為可見輪廓線,以虛線表示。"
+        },
+        {
+          "type": "heading",
+          "text": "74"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "( )7. 有關全剖面敘述,下列何者錯誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 繪製全剖視圖時,切割面剖切後之可見輪廓線須以粗實線表示 (B) 繪製全剖視圖時,切割面剖切後之隱藏線在視圖中盡可能省略 (C) 在繪製剖面線時,同一機件不同位置的剖面線方向及間隔須不相同以區別之 (D) 當割面之切割位置在主軸或中心軸上時,可省略其割面線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )8. 下列全剖面視圖何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-4 ( )9. 有關半剖面敘述,下列何者錯誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 半剖視圖以中心線做為內、外部形狀之分界線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 對稱的物體為同時表達內部與外部形狀可採用之 (C) 割面沿物體之中心位置切割物體二分之一,並假想移去此 1/2 部位後所繪得之"
+        },
+        {
+          "type": "heading",
+          "text": "視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 半剖視圖所表示機件外部形狀上的虛線通常可不予繪出。"
+        },
+        {
+          "type": "heading",
+          "text": "( )10. 下列半剖面何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。 7-5 ( )11. 有關局部剖面敘述,下列何者錯誤? (A) 僅將所需之某部位剖切以表達該部份內部形狀的方法"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 視圖仍以中心線分開剖切及不剖切的部位"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 在局部剖視圖中,外部形狀之虛線不宜省略"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 剖切及不剖切部位的折斷處應避免與輪廓線或中心線重疊。"
+        },
+        {
+          "type": "heading",
+          "text": "75"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "7-6 ( )12. 有關旋轉剖面敘述,下列何者錯誤? (A) 某一橫斷面處剖切,割面在原地旋轉 90° 後,將剖切處斷面形狀繪出者"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 常用於繪製機件上具有規則斷面形狀者"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 其視圖以假想線相疊繪出剖切形狀圖在原剖切視圖上 (D) 當旋轉剖面以中斷視圖表示時,其剖切之斷面形狀應使用粗實線繪出。"
+        },
+        {
+          "type": "heading",
+          "text": "( )13. 有關移轉剖面敘述,下列何者錯誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 多個旋轉剖視圖若會造成標註尺度空間不足及會干涉或影響到各旋轉剖視圖"
+        },
+        {
+          "type": "heading",
+          "text": "的外形輪廓線,則可採用移轉剖面繪法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 將旋轉剖面沿割面線之方向,移出繪於原圖外者稱之"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 繪製移轉剖面時,必要時得平移至任何位置"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 移轉剖面不可以旋轉其視圖。 7-7 ( )14. 有關多個剖視圖繪法,下列何者錯誤? (A) 繪製時每一個剖視圖均須單獨考慮,不因移去另一個視圖之部份而有所關聯 (B) 多個割面應於同一割面線之末端寫上同一大寫拉丁字母標示 (C) 字母分別標示在各剖視圖上方,加註與割面線相同之字母予以區別 (D) 割面線末端之大寫拉丁字母書寫方向一律朝右。"
+        },
+        {
+          "type": "heading",
+          "text": "( )15. 下列多個剖視圖之敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 可顯示一複雜形狀"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 乃將零件做多個割面"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 每一割面之視圖剖切時應考慮對另一割面之影響 (D) 每一割面位置均須分別以字母識別之。"
+        },
+        {
+          "type": "heading",
+          "text": "7-8 ( )16. 下列敘述何者錯誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 輻板剖切時不加繪剖面線,輪臂剖切時加繪剖面線 (B) 若遇奇數肋經剖切後應予以轉正方式繪之以助肋的寬度與外形表達 (C) 當使用旋轉剖面方式表示肋的寬度與外形時,須加畫剖面線 (D) 當肋縱向剖切時,不須加繪剖面線,以較容易顯示出機件外形。"
+        },
+        {
+          "type": "heading",
+          "text": "76"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "二、實例應用題組題"
+        },
+        {
+          "type": "heading",
+          "text": "第七章整合題"
+        },
+        {
+          "type": "heading",
+          "text": "( )17. 下列敘述何者錯誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 割面線轉折時,轉折處以粗一點鏈線表示"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 當旋轉剖面以中斷視圖表示時,其剖切之斷面形狀應使用粗實線繪出 (C) 旋轉剖面是剖切之斷面形狀以細實線相疊繪出在原剖切視圖上 (D) 半剖視圖之內、外部形狀以中心線做為分界線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )18. 下列敘述何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 移轉剖面是割面在原地旋轉 90° 後將剖切處斷面形狀繪出者 (B) 旋轉剖面割面在原地旋轉 90 °後將剖切處斷面形狀沿割面線之方向,移出繪"
+        },
+        {
+          "type": "heading",
+          "text": "於原圖外者"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 局部剖視乃以折斷線分開剖切及不剖切所需某部位所繪製之視圖 (D) 半剖面視圖可使用在物體特別複雜時表達不同位置剖切的內部形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "第六章及第七章整合題"
+        },
+        {
+          "type": "heading",
+          "text": "( )19. 下列敘述何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 全剖面乃割面將物體整個分割為 1/4"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 半剖面乃將物體整個分割為 1/2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 尺度線與輪廓線間距離以及標註多層尺度線時,"
+        },
+        {
+          "type": "heading",
+          "text": "各尺度線間隔約為字高之 2 倍"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 半徑、直徑與球面符號之高度、粗細與數字之規定皆不相同。"
+        },
+        {
+          "type": "heading",
+          "text": "( )20. 下列敘述何者錯誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 割面線亦可做任意角度之轉折,必要時可做圓弧方向之轉折 (B) 當尺度太小時,可將箭頭移至尺度界線之外側且尺度線不可中斷 (C) 角度之尺度線為一圓弧細實線,其中心點 ( 圓心 ) 即為該角之頂點 (D) 若採用縱剖時,凸緣部分不須加繪剖面線,但耳部分則須加繪剖面線。"
+        },
+        {
+          "type": "heading",
+          "text": "77"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "三、繪圖題"
+        },
+        {
+          "type": "heading",
+          "text": "1. 圖號 7-1:繪製仰視圖之全剖視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:已知前視圖及右側視圖,將仰視圖以 1: 1 比例繪製在圖紙上。 仰視圖以全剖視圖方式表達。 (3) 繪製要領:依右側視圖判斷出仰視圖。 剖面線之區域需繪製正確。 確認剖切位置,繪製仰視圖之全剖視圖。 線條需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "7-1"
+        },
+        {
+          "type": "heading",
+          "text": "78"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2. 圖號 7-2:繪製全剖視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依割面線箭頭方向,將全剖視圖以 1: 1 比例繪製在圖紙上。 依割面線之剖切位置,將全剖視圖表達。 (3) 繪製要領:依割面線箭頭方向判斷出全剖視圖。線條需依 CNS 規定。 確認剖切位置,繪製全剖視圖。剖面線之區域需繪製正確。"
+        },
+        {
+          "type": "heading",
+          "text": "7-2"
+        },
+        {
+          "type": "heading",
+          "text": "79"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "3. 圖號 7-3:依立體圖之圖示尺度,繪製正投影視圖及全剖視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依立體圖之圖示尺度,將視圖以 1: 1 比例繪製在圖紙上。 可參考圖面提示繪製視圖,確認剖切位置。 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領:圖面布局需恰當。 正投影視圖需繪製正確。 全剖視圖需繪製正確。 剖面線之區域需繪製正確。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "7-3"
+        },
+        {
+          "type": "heading",
+          "text": "80"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4. 圖號 7-4:依立體圖之圖示尺度,繪製正投影視圖及前視圖之全剖視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依立體圖之圖示尺度,將視圖以 1: 1 比例繪製在圖紙上。 箭頭方向為前視圖,可參考剖切後之立體圖繪製。 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領:圖面布局需恰當。 正投影視圖需繪製正確。 全剖視圖需繪製正確。 剖面線之區域需繪製正確。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "7-4"
+        },
+        {
+          "type": "heading",
+          "text": "81"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "5. 圖號 7-5:依立體圖之圖示尺度,繪製正投影視圖及半剖視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依立體圖之圖示尺度,將視圖以 1: 1 比例繪製在圖紙上。 可參考圖面提示繪製視圖,確認剖切位置。 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領:圖面布局需恰當。 正投影視圖需繪製正確。 半剖視圖需繪製正確。 剖面線之區域需繪製正確。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "7-5"
+        },
+        {
+          "type": "heading",
+          "text": "82"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6. 圖號 7-6:依圖示繪製局部剖面視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依圖示尺度,將局部剖面視圖以 1: 1 比例繪製在圖紙上。"
+        },
+        {
+          "type": "heading",
+          "text": "( 第 3 題之尺度請自行量取 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "選擇適當位置繪製局部剖面視圖。 (3) 繪製要領:判斷虛線位置,選擇適當位置繪製局部剖面視圖。 折斷線為不規則細實線。 剖面線之區域需繪製正確。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "7-6"
+        },
+        {
+          "type": "heading",
+          "text": "83"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "7. 圖號 7-7:依圖示繪製移轉剖面及旋轉剖面視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依圖示尺度,將移轉剖面及旋轉剖面視圖以 1: 1 比例繪製在圖紙上。  第 1 題繪製移轉剖面,將 A-A 剖面平移至視圖外, 另沿著中心線位置延伸至視圖外。 第 2 題繪製旋轉剖面,沿著中心線位置原地旋轉剖切。 第 3 題繪製旋轉剖面,以中斷視圖的方式表達。 (3) 繪製要領:判斷剖切位置,將視圖之尺度需正確。 平移至視圖外之移轉剖面視圖,文字註解需於視圖上方。 原地旋轉剖切之輪廓線以細實線表示。 中斷視圖的方式表達旋轉剖面,其輪廓線以粗實線表示。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "7-7"
+        },
+        {
+          "type": "heading",
+          "text": "84"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "8. 圖號 7-8:繪製仰視圖之全剖視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依前視圖及右側視圖,將仰視圖以 1: 1 比例繪製在圖紙上。 仰視圖以全剖視圖方式表達。 (3) 繪製要領:依右側視圖判斷出仰視圖。剖面線之區域需繪製正確。 確認剖切位置,繪製仰視圖之全剖視圖。線條需依 CNS 規定。 奇數型態需以轉正視圖表達。輪輻之位置不繪製剖面線。"
+        },
+        {
+          "type": "heading",
+          "text": "7-8"
+        },
+        {
+          "type": "heading",
+          "text": "85"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "9. 圖號 7-9:繪製前視圖之全剖視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依俯視圖及右側視圖,將前視圖以 1: 1 比例繪製在圖紙上。 前視圖以全剖視圖方式表達。 (3) 繪製要領:依右側視圖判斷出前視圖。確認剖切位置,繪製前視圖之全剖視圖。 剖面線之區域需繪製正確。線條需依 CNS 規定。 奇數型態需以轉正視圖表達。 ( 除第 2 題外 )"
+        },
+        {
+          "type": "heading",
+          "text": "7-9"
+        },
+        {
+          "type": "heading",
+          "text": "86"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "10. 圖號 7-10:依圖示尺度繪製 A-A 與 B-B 與 C-C 剖面。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依割面線箭頭方向,將 A-A 與 B-B 與 C-C 剖面以 1: 1 比例繪製在圖紙上。 依割面線之剖切位置,將剖視圖表達。 (3) 繪製要領:依割面線箭頭方向判斷出 A-A 與 B-B 與 C-C 剖面。 確認剖切位置,繪製剖視圖。 剖面線之區域需繪製正確。  A-A 與 B-B 與 C-C 之文字註解位置需於視圖上方。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "7-10"
+        },
+        {
+          "type": "heading",
+          "text": "87"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "¢ 26"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 35"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "11. 圖號 7-11:依立體圖尺度繪製前視圖及 A-A 與 B-B 與 C-C 剖面。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依提示圖中之剖切位置,將前視圖及 A-A 與 B-B 與 C-C 剖面 以 1: 1 比例繪製在圖紙上。 箭頭方向為前視圖,於前視圖中繪製割面線。 依割面線之剖切位置,將剖視圖表達。 (3) 繪製要領:於前視圖繪製割面線,並將符號 A、 B、 C 標註在割面線末端,且朝上書寫。 依割面線箭頭方向繪製出 A-A 與 B-B 與 C-C 剖面。 確認剖切位置,繪製剖視圖。 剖面線之區域需繪製正確。  A-A 與 B-B 與 C-C 之文字註解位置需於視圖上方。 線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "7-11"
+        },
+        {
+          "type": "heading",
+          "text": "89"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "12. 圖號 7-12:依立體圖之圖示尺度,繪製正投影視圖及全剖視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 3 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製說明:依立體圖之圖示尺度,將視圖以 1: 1 比例繪製在圖紙上。 參考圖面提示繪製視圖,確認剖切位置。 依照 CNS 規定將視圖標註尺度。 (3) 繪製要領:圖面布局需恰當。正投影視圖需繪製正確。 全剖視圖需繪製正確。剖面線之區域需繪製正確。 肋之位置不繪製剖面線。線條與尺度需依 CNS 規定。"
+        },
+        {
+          "type": "heading",
+          "text": "7-12"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

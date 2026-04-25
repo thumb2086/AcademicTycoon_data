@@ -1,0 +1,1277 @@
+{
+  "content_id": "CONTENT_MECH_DRAFTING_APPENDIX",
+  "subject": "機械製圖",
+  "chapter": {
+    "code": "APPENDIX",
+    "title": "附錄"
+  },
+  "title": "機械製圖 APPENDIX 附錄 附錄 A 表面織構參數型態",
+  "source_pdf": "mechanical_drafting/附錄.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "APPENDIX"
+        },
+        {
+          "type": "heading",
+          "text": "附錄"
+        },
+        {
+          "type": "heading",
+          "text": "附錄 A 表面織構參數型態"
+        },
+        {
+          "type": "heading",
+          "text": "附錄 B 輪廓參數之表面織構參數代號"
+        },
+        {
+          "type": "heading",
+          "text": "附錄 C 限界之標註"
+        },
+        {
+          "type": "heading",
+          "text": "附錄 D 傳輸波域"
+        },
+        {
+          "type": "heading",
+          "text": "附錄 E 機件之邊緣形態及其符號表示法"
+        },
+        {
+          "type": "heading",
+          "text": "附錄 F 英中名詞對照表"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "附錄 A 表面織構參數型態"
+        },
+        {
+          "type": "paragraph",
+          "text": "參數型態分有輪廓參數、圖形參數與材料比曲線參數,如表 A-1,表面織構參數已加以規範"
+        },
+        {
+          "type": "heading",
+          "text": "且與完整符號連結使用,其定義說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 A-1 參數型態"
+        },
+        {
+          "type": "heading",
+          "text": "參數型態"
+        },
+        {
+          "type": "heading",
+          "text": "材料比曲線"
+        },
+        {
+          "type": "heading",
+          "text": "輪廓 圖形"
+        },
+        {
+          "type": "heading",
+          "text": "線性 機率"
+        },
+        {
+          "type": "heading",
+          "text": "R W P R W R R P"
+        },
+        {
+          "type": "heading",
+          "text": "1. 輪廓參數 ( 參照 IS0 4287):"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪廓參數定義有 3 種 (R、 W 及 P 輪廓 ),採用 Gaussian 濾波器來定義,如表 A-2、 A-3、 A-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 A-2"
+        },
+        {
+          "type": "heading",
+          "text": "振幅參數"
+        },
+        {
+          "type": "heading",
+          "text": "間隔 混合"
+        },
+        {
+          "type": "heading",
+          "text": "曲線及相關參數"
+        },
+        {
+          "type": "heading",
+          "text": "參數 參數"
+        },
+        {
+          "type": "heading",
+          "text": "峰谷值 平均值"
+        },
+        {
+          "type": "heading",
+          "text": "R 輪 廓 參"
+        },
+        {
+          "type": "paragraph",
+          "text": "數 ( 粗 糙 Rp Rv Rz Rc Rt Ra Rq Rsk Rku Rsm R ∆ q Rmr (c) R δ c Rmr"
+        },
+        {
+          "type": "heading",
+          "text": "度參數 )"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 A-3"
+        },
+        {
+          "type": "heading",
+          "text": "振幅參數 間隔 混合"
+        },
+        {
+          "type": "heading",
+          "text": "曲線及相關參數"
+        },
+        {
+          "type": "heading",
+          "text": "峰谷值 峰谷值 參數 參數"
+        },
+        {
+          "type": "heading",
+          "text": "w 輪 廓 參"
+        },
+        {
+          "type": "paragraph",
+          "text": "數 ( 波 紋 Wp Wv Wz Wc Wt Wa Wq Wsk Wku WSm W ∆ q Wmr (c) W δ c Wmr"
+        },
+        {
+          "type": "heading",
+          "text": "參數 )"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 A-4"
+        },
+        {
+          "type": "heading",
+          "text": "振幅參數"
+        },
+        {
+          "type": "heading",
+          "text": "間隔 混合"
+        },
+        {
+          "type": "heading",
+          "text": "曲線及相關參數"
+        },
+        {
+          "type": "heading",
+          "text": "參數 參數"
+        },
+        {
+          "type": "heading",
+          "text": "峰谷值 平均值"
+        },
+        {
+          "type": "heading",
+          "text": "P 輪 廓 參"
+        },
+        {
+          "type": "paragraph",
+          "text": "數 ( 粗 糙 Pp Pv Pz Pc Pt Pa Pq Psk Pku PSm P ∆ q Pmr (c) P δ c Pmr"
+        },
+        {
+          "type": "heading",
+          "text": "度參數 )"
+        },
+        {
+          "type": "heading",
+          "text": "242"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2. 圖形參數 ( 參照 ISO 12085):"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖形參數定義有 2 種 (R 及 W 輪廓 ),採用 1 種圖形濾波方法來定義,如表 A-5、 A-6 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 A-5 ▼ 表 A-6"
+        },
+        {
+          "type": "heading",
+          "text": "參數 參數"
+        },
+        {
+          "type": "heading",
+          "text": "粗糙度輪廓 波紋輪廓"
+        },
+        {
+          "type": "heading",
+          "text": "R Rx AR - W Wx AW Wte"
+        },
+        {
+          "type": "heading",
+          "text": "( 粗糙度圖形參數 ) ( 波紋圖形參數 )"
+        },
+        {
+          "type": "heading",
+          "text": "3. 材料比曲線參數 ( 參照 IS0 1356-2、 IS0 1356-3、 IS0 12085):"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 以線性材料比曲線為基礎的參數"
+        },
+        {
+          "type": "paragraph",
+          "text": "線性材料比曲線參數定義僅有 R 輪廓,採用 2 種不同濾波方法來定義,參照 IS0 13565-1 及 ISO1208,如表 A-7、 A-8 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 A-7"
+        },
+        {
+          "type": "heading",
+          "text": "參數"
+        },
+        {
+          "type": "heading",
+          "text": "粗糙度輪廓參照 ISO 13565-2"
+        },
+        {
+          "type": "heading",
+          "text": "Rk Rpk Rvk Mr 1 Mr 2"
+        },
+        {
+          "type": "heading",
+          "text": "( 濾波方法參照 ISO 13562-1)"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 A-8"
+        },
+        {
+          "type": "heading",
+          "text": "參數"
+        },
+        {
+          "type": "heading",
+          "text": "粗糙度輪廓參照 ISO 13565-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rke Rpke Rvke Mr 1 e Mr 2 e"
+        },
+        {
+          "type": "heading",
+          "text": "( 濾波方法參照 ISO 12085)"
+        },
+        {
+          "type": "paragraph",
+          "text": "備考: 參數代號上加註” e ”表示輪廓的濾波方法參照 ISO 12085。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 以材料機率曲線為基礎之參數"
+        },
+        {
+          "type": "paragraph",
+          "text": "材料機率曲線參數定義有 2 種 (R 及 P 輪廓 ),採用 2 種不同濾波方法來定義,參照 IS0 13565-1 及 λ s,如表 A-9、 A-10 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 A-9 ▼表 A-10"
+        },
+        {
+          "type": "heading",
+          "text": "參數 參數"
+        },
+        {
+          "type": "heading",
+          "text": "粗糙度輪廓 結構輪廓"
+        },
+        {
+          "type": "heading",
+          "text": "Rpq Rvp Rmq Rpq Rvp Rmq"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 濾波方法參照 ISO 13565-1) 濾波方法 λ s"
+        },
+        {
+          "type": "heading",
+          "text": "243"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "附錄 B 輪廓參數之表面織構參數代號"
+        },
+        {
+          "type": "heading",
+          "text": "參數"
+        },
+        {
+          "type": "heading",
+          "text": "參數代號 定義"
+        },
+        {
+          "type": "heading",
+          "text": "特徵"
+        },
+        {
+          "type": "heading",
+          "text": "Rp、 Wp、 Pp 最大輪廓波峰高度"
+        },
+        {
+          "type": "heading",
+          "text": "Rv、 Wv、 Pv 最大輪廓波谷深度"
+        },
+        {
+          "type": "heading",
+          "text": "Rz、 Wz、 Pz 最大輪廓高度"
+        },
+        {
+          "type": "heading",
+          "text": "Rc、 Wc、 Pc 輪廓單元之平均高度"
+        },
+        {
+          "type": "heading",
+          "text": "振幅"
+        },
+        {
+          "type": "heading",
+          "text": "Rt、 Wt、 Pt 輪廓總高度"
+        },
+        {
+          "type": "heading",
+          "text": "參數"
+        },
+        {
+          "type": "heading",
+          "text": "Ra、 Wa、 Pa 輪廓之算術平均偏差"
+        },
+        {
+          "type": "heading",
+          "text": "Rq、 Wq、 Pq 輪廓之均方根偏差"
+        },
+        {
+          "type": "heading",
+          "text": "Rsk、 Wsk、 Psk 輪廓之偏斜度"
+        },
+        {
+          "type": "heading",
+          "text": "Rku、 Wku、 Pku 輪廓之陡峭度"
+        },
+        {
+          "type": "paragraph",
+          "text": "RSm、 WSm、 PSm 輪廓單元之平均間隔"
+        },
+        {
+          "type": "heading",
+          "text": "間隔 L L L"
+        },
+        {
+          "type": "paragraph",
+          "text": "參數 波峰數值之計算 ( RPc =、 WPc =、 PPc = ) RPc、 WPc、 PPc RSm WSm PSm"
+        },
+        {
+          "type": "heading",
+          "text": "L:參照長度"
+        },
+        {
+          "type": "heading",
+          "text": "混合"
+        },
+        {
+          "type": "paragraph",
+          "text": "R Δ q、 W Δ q、 P Δ q 輪廓之均方根斜率"
+        },
+        {
+          "type": "heading",
+          "text": "參數"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rmr(c)、 Wmr(c)、 Pmr(c) 輪廓材料比"
+        },
+        {
+          "type": "heading",
+          "text": "曲 線 與 相"
+        },
+        {
+          "type": "paragraph",
+          "text": "R δ c、 W δ c、 P δ c 輪廓之斷面高度差"
+        },
+        {
+          "type": "heading",
+          "text": "關參數"
+        },
+        {
+          "type": "heading",
+          "text": "Rmr、 Wmr、 Pmr 相對材料比"
+        },
+        {
+          "type": "heading",
+          "text": "244"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "附錄 C 限界之標註"
+        },
+        {
+          "type": "heading",
+          "text": "1. 限界規格分為有 2 種不同方法來標註: 16%- 規則、最大 - 規則"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 16%- 規則:為所有表面織構要求事項的預設規則,於參數代號上可省略不標註。當表面 上於 6 個位置 ( 取樣長度 ) 進行量測,如果 6 個測量值中有 5 個值於表面織構之限制範 圍內,則符合 16%- 規則之要求;或表面上於 12 個位置 ( 取樣長度 ) 進行量測, 12 個測 量值中只允許 2 個或以下的值超出表面織構之限制範圍,亦符合 16%- 規則之要求。 (2) 最大 - 規則:使用最大 - 規則於表面織構要求時,應將 \"max\" 加註於參數代號上。當表 面進行至少三個以上的位置 ( 取樣長度 ) 測量,測量值皆不得超過表面織構之限制範圍, 則符合最大 - 規則之要求。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 限界之標註方法:在不同的參數形態有不同的規範方法,說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 輪廓參數:"
+        },
+        {
+          "type": "paragraph",
+          "text": "16%- 規則及最大 - 規則兩者均適用於輪廓參數。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 圖形參數:"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖形參數僅適用 16%- 規則。"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 以材料 比 曲線為基礎之參數:"
+        },
+        {
+          "type": "paragraph",
+          "text": "16%- 規則及最大 - 規則兩者均適用於材料比曲線相關參數。"
+        },
+        {
+          "type": "heading",
+          "text": "245"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "附錄 D 傳輸波域"
+        },
+        {
+          "type": "paragraph",
+          "text": "表面織構是定義在 1 個傳輸波域上,介於 2 個濾波器間之波長範圍,傳輸波域為包含在評 估過程中的一段波長範圍,由一短波濾波器截止短波長與一長波濾波器截止長波長來限制其範 圍,濾波器以截止值為其特徵值,其中長波濾波器截止值即為取樣長度 (lr)。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 輪廓參數 (ISO 4287)"
+        },
+        {
+          "type": "heading",
+          "text": "(1) R 輪廓"
+        },
+        {
+          "type": "paragraph",
+          "text": "R 輪 廓 傳 輸 波 域 之 短 波 濾 波 器 截 止 值 為 λ s、 長 波 濾 波 器 截 止 值 為 λ c、 取 樣 長 度 (lr)= λ c、評估長度 (ln) 之預設值為 5 倍取樣長度 (lr),粗糙度參數之預設傳輸波域、取 樣長度及評估長度可參考表 D-1,在有些需要標註傳輸波域的事項中,只需標註長波濾 波器 λ c,例如: -0.80,則定義短波濾波器為預設值。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 D-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ra 值 Rz、 Rt 值 RSm 值 λ s λ c=lr ln ( μ m) ( μ m) ( μ m) (mm) (mm) (mm) >0.006 至 0.02 >0.025 至 0.1 >0.013 至 0.04 0.0025 0.08 0.4 >0.02 至 0.1 >0.1 至 0.5 >0.04 至 0.13 0.0025 0.25 1.25 >0.1 至 2 >0.5 至 10 >0.13 至 0.4 0.0025 0.8 4 >2 至 10 >10 至 50 >0.4 至 1.3 0.008 2.5 12.5 >10 至 80 >50 至 200 >1.3 至 4 0.025 8 40 若表面粗糙度參數對傳輸波域中的長波濾波器及短波濾波器須加以限定,則兩者標註時須 以連接符號連接,例: 0.008-0.8。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) W 輪廓"
+        },
+        {
+          "type": "paragraph",
+          "text": "W 輪廓傳輸波域之截止值為 λ c( 短波濾波器 ) 及 λ f( 長波濾波器 ),取樣長度 = λ f, W 輪廓傳輸波域無指定預設值,則傳輸波域應加註 2 個截止值。波紋傳輪波域的標註, 以表面粗糙度之預設截止值 λ c( 短波濾波器 ) 為基礎,相同的表面,如圖 D-1 以 λ c- n ×λ c 加註,其中 \"n\" 值由設計者選擇。"
+        },
+        {
+          "type": "heading",
+          "text": "MRR λ c-12 ×λ c/Wz6.3"
+        },
+        {
+          "type": "heading",
+          "text": "圖 D-1 波紋傳輪波域的標註"
+        },
+        {
+          "type": "heading",
+          "text": "(3) P 輪廓"
+        },
+        {
+          "type": "paragraph",
+          "text": "P 輪廓傳輸波域之截止值為 λ s( 短波濾波器 ),尚未標準化指定長波濾波器, P 輪廓短波 濾波器 λ s 無指定預設截止值。為確保要求事項明確,應該被標註短波濾波器 λ s 之截"
+        },
+        {
+          "type": "heading",
+          "text": "246"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_appendix/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "止值。在預設範例中, P 參數沒有任何長波濾波器 ( 取樣長度 )。若工件的功能被要求, 則 P 參數可以標註長波濾波器 ( 取樣長度 )。例: -25/Pz225。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 圖形參數 (ISO 12085)"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖形參數之短波濾波器 λ s 的預設截止值,被定義為評估長度,說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1 R 輪廓"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳輸波域之限界值為 λ s( 短波長 )、限界 A( 長波長 )。若短波之限界值末被標註, 則其預設值 λ s=0.008mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2 W 輪廓"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳輸波域之限界值為限界 A ( 短波長 )、限界 B( 長波長 )。短波及長波兩者的限 界 A 及限界 B 應該被標註在一起,若沒有限界被標註出,則其預設值 A=0.5mm, B=2.5mm。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以材料比曲線為基礎之參數 (ISO 13565-2、 ISO 13565-3)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) R 輪廓:標準值僅有預設值及 1 個非預設值 R 輪廓傳輸波域之截止值為 λ s( 短波濾波器 )、λ c( 長波濾波器 )。在 ISO 13565-1 中之 R 輪廓,使用 2 種不同的取樣長度 ( 長波濾波器 )。預設傳輸波域之截止 λ c=0.8mm( 長 波濾波器 ) 以及 λ s=0.0025mm( 短波濾波器 )。當傳輸波域末被標註時,傳輸波域則使 用材料比曲線之 R 參數。 當特殊定義標準化之傳輸波域時,其所給之值由 0.008mm 至 2.5mm,為 ISO 3274 中所 規範的標準傳輸波域。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) P 輪廓"
+        },
+        {
+          "type": "paragraph",
+          "text": "P 輪廓傳輸波域之截止值為 λ s( 短波濾波器 ),尚未標準化指定長波濾波器, P 輪廓短波 濾波器 λ s 無指定預設截止值。若 P 參數的標註是依 IS0 1365-3,則短波濾波器 λ s 之 標註應該連接著參數代號以確保要求事項明確。在預設範例中, P 參數沒有任何長波濾 波器 ( 取樣長度 )。若工件的功能被要求,則 P 參數可以標註長波濾波器 ( 取樣長度 )。"
+        },
+        {
+          "type": "heading",
+          "text": "247"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "附錄 E 機件之邊緣形態及其符號表示法"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件之邊緣形態為機件之兩相交面,其邊緣之情形,而邊緣有分為外邊緣與內邊緣兩種, 下列介紹邊緣形態之情況。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 外邊緣 ( 如圖 E-1(a) 所示 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 讓切:外邊緣由其理想幾何形態向內之偏差。 (2) 銳邊:外邊緣與其理想幾何形態幾乎無任何偏差。 (3) 毛頭:外邊緣由其理想幾何形態向外之粗糙凸起。此種凸起是由於機製或其他成型方法 所殘留。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 內邊緣 ( 如圖 E-1(b) 所示 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 讓切:內邊緣由其理想幾何形態向內之偏差。 (2) 銳邊:內邊緣與其理想幾何形態幾乎無任何偏差。 (3) 避尖:內邊緣由其理想幾何形態向外之偏差。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 E-1 邊緣形態之情況"
+        },
+        {
+          "type": "heading",
+          "text": "一、邊緣符號之表示法:"
+        },
+        {
+          "type": "paragraph",
+          "text": "邊緣符號是當機件邊緣有特定形態之要求時,將邊緣符號指在機件之邊緣上,並於邊緣符 號加註事項,其畫法如同指線,且在指線之水平線上方加一成直角之二直線,二直線長為標註 尺度數字字高之 1.5 倍,線條粗細與標註尺度數字相同。依據邊緣要求將加註事項填寫於適當位 置,各位置之代表意義,如圖 E-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 位置 (a):表示邊緣型態及其尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 位置 (b):表示垂直方向之毛頭、避尖或讓切及其尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 位置 (c):表示水平方向之毛頭、避尖或讓切及其尺度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 E-2 邊緣加註事項各位置之代表意義"
+        },
+        {
+          "type": "heading",
+          "text": "248"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_appendix/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "二、邊緣形態與其尺度之標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "當邊緣形態標註” + ”號代表邊緣可凸出理想幾何形態。如:避尖 ( 內邊緣 )、毛頭 ( 外邊緣 ); 當標註” - ”號代表邊緣可內凹理想幾何形態。如:讓切 ( 內、外邊緣 )。於” + ”、” - ”號之後 寫出偏離理想幾何形態之尺度,即為邊緣形態之尺度標註,如圖 E-3 所示。 當尺度有上下之極限時,則將最大極限值寫在上方,最小極限值寫在下方,如圖 E-4 所示; 若無上下之極限時,則表示為最大或最小極限值,另一極限值為 0。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 E-4 邊緣形態之標註"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 E-3 尺度上下極限之標註"
+        },
+        {
+          "type": "heading",
+          "text": "1. 邊緣尺度之建議:依據 CNS 規定,如表 E-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 E-1 邊緣尺度"
+        },
+        {
+          "type": "heading",
+          "text": "尺度 應用"
+        },
+        {
+          "type": "heading",
+          "text": "+2.5 毛頭或避尖"
+        },
+        {
+          "type": "heading",
+          "text": "+1"
+        },
+        {
+          "type": "heading",
+          "text": "+0.5"
+        },
+        {
+          "type": "heading",
+          "text": "+0.3"
+        },
+        {
+          "type": "heading",
+          "text": "+0.1"
+        },
+        {
+          "type": "heading",
+          "text": "+0.05"
+        },
+        {
+          "type": "heading",
+          "text": "+0.02"
+        },
+        {
+          "type": "heading",
+          "text": "銳邊"
+        },
+        {
+          "type": "heading",
+          "text": "-0.02"
+        },
+        {
+          "type": "heading",
+          "text": "-0.05"
+        },
+        {
+          "type": "heading",
+          "text": "-0.1"
+        },
+        {
+          "type": "heading",
+          "text": "-0.3"
+        },
+        {
+          "type": "heading",
+          "text": "-0.5 讓切"
+        },
+        {
+          "type": "heading",
+          "text": "-1"
+        },
+        {
+          "type": "heading",
+          "text": "-2.5"
+        },
+        {
+          "type": "heading",
+          "text": "249"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_appendix/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2. 邊緣形態之標註範例:如表 E-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 E-2 邊緣形態之範例"
+        },
+        {
+          "type": "heading",
+          "text": "邊緣形態之標註 實際情形 意義"
+        },
+        {
+          "type": "heading",
+          "text": "外邊緣之讓切可至 0.3mm,無毛"
+        },
+        {
+          "type": "paragraph",
+          "text": "頭。"
+        },
+        {
+          "type": "heading",
+          "text": "外邊緣之讓切在 0.1 至 0.5mm 之"
+        },
+        {
+          "type": "paragraph",
+          "text": "間,無毛頭。"
+        },
+        {
+          "type": "heading",
+          "text": "內邊緣之避尖可至 0.3mm"
+        },
+        {
+          "type": "heading",
+          "text": "內邊緣之避尖可在 0.1 至 0.3mm"
+        },
+        {
+          "type": "heading",
+          "text": "之間"
+        },
+        {
+          "type": "heading",
+          "text": "250"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "三、公用之邊緣符號表示"
+        },
+        {
+          "type": "paragraph",
+          "text": "若機件上各部位之邊緣之符號完全相同時,可將邊緣符號標註於視圖外或標題欄旁,如圖 E-5 所示。當機件上各部位之外邊緣完全相同時,則標註如圖 E-6(a) 所示;若內邊緣完全相同時, 則標註如圖 E-6(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 E-5 公用之邊緣符號"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 E-6 邊緣完全相同標註"
+        },
+        {
+          "type": "heading",
+          "text": "251"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_appendix/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "英中名詞對照表"
+        },
+        {
+          "type": "heading",
+          "text": "Dimendioningarcs 弧長標註 16"
+        },
+        {
+          "type": "heading",
+          "text": "A"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dimendioningchamfer 去角標註 17 Accumulated error 或 Cumulative error Dimensioning length 長度標註 8"
+        },
+        {
+          "type": "heading",
+          "text": "累積誤差 161"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dimendioningsquare 方形標註 17 Actual dimension 實測尺度 171"
+        },
+        {
+          "type": "heading",
+          "text": "Dimension 尺度 2"
+        },
+        {
+          "type": "heading",
+          "text": "Aligned view 轉正視圖 110"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dimensioning angles 角度標註 9"
+        },
+        {
+          "type": "heading",
+          "text": "Allowance 裕度 181"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dimensioning diameter 直徑標註 11"
+        },
+        {
+          "type": "heading",
+          "text": "Annotation 或 Notes 註解 24"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dimensioning radius 半徑標註 13"
+        },
+        {
+          "type": "heading",
+          "text": "Arcssymbol 弧長符號 16"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dimensioningspherical surface 球面標註 14"
+        },
+        {
+          "type": "heading",
+          "text": "Arrowheads 箭頭 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dimensioning taper 錐度標註 20 Assembly drawing 組合圖,裝配圖 148"
+        },
+        {
+          "type": "heading",
+          "text": "Dimension lines 尺度線 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "Assembly working drawing 組合工作圖 151 Duplicate dimensions 重複尺度 29"
+        },
+        {
+          "type": "heading",
+          "text": "Auxiliary Plane 輔助投影面 98"
+        },
+        {
+          "type": "paragraph",
+          "text": "Auxiliary projection 輔助投影 98 E"
+        },
+        {
+          "type": "heading",
+          "text": "Ear 耳 70"
+        },
+        {
+          "type": "heading",
+          "text": "B"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elemental dimension 基本尺度 171 Barrel finishing 拋光與擦光,滾筒磨光 170"
+        },
+        {
+          "type": "heading",
+          "text": "Extensions lines 尺度界線 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Basic hole system 基孔制 182 Basic shaft system 基軸制 183 F Bilateral tolerance 雙向公差 172"
+        },
+        {
+          "type": "heading",
+          "text": "False view 虛擬視圖 112"
+        },
+        {
+          "type": "paragraph",
+          "text": "Broken-out sectionviews 中斷視圖 65"
+        },
+        {
+          "type": "heading",
+          "text": "Fastener 結件 205"
+        },
+        {
+          "type": "paragraph",
+          "text": "Broken view 或 Interrupted view 中斷視圖 109"
+        },
+        {
+          "type": "heading",
+          "text": "Flange 凸緣 70"
+        },
+        {
+          "type": "paragraph",
+          "text": "Foundationdeviation 基礎偏差 174"
+        },
+        {
+          "type": "heading",
+          "text": "C"
+        },
+        {
+          "type": "heading",
+          "text": "Full section 全剖面 54"
+        },
+        {
+          "type": "heading",
+          "text": "Center line 中心線 60"
+        },
+        {
+          "type": "paragraph",
+          "text": "Full section views 全剖視圖 55"
+        },
+        {
+          "type": "heading",
+          "text": "chamfer 去角 17"
+        },
+        {
+          "type": "paragraph",
+          "text": "Functional dimensions 功能尺度 28"
+        },
+        {
+          "type": "heading",
+          "text": "Clearance 間隙 181"
+        },
+        {
+          "type": "paragraph",
+          "text": "Clearancefits 或 Loose fit 間隙 ( 留隙 ) 配合 181 G Coordinate axis methods 座標軸線法 23 General arrangement 總圖 148"
+        },
+        {
+          "type": "heading",
+          "text": "Cutting line 切割線 48"
+        },
+        {
+          "type": "paragraph",
+          "text": "General note 或 General remarks 一般註解 24 Cutting plane line 割面線 48 Geometrical feature 幾何形特徵 25"
+        },
+        {
+          "type": "heading",
+          "text": "Geometric solid 幾何形體 25"
+        },
+        {
+          "type": "heading",
+          "text": "D"
+        },
+        {
+          "type": "heading",
+          "text": "Datum surface 基準面 162 H"
+        },
+        {
+          "type": "paragraph",
+          "text": "Design drawing of assembly) 組合設計圖 149"
+        },
+        {
+          "type": "heading",
+          "text": "Half section 半剖面 59"
+        },
+        {
+          "type": "heading",
+          "text": "Detail drawing 零件圖 146"
+        },
+        {
+          "type": "paragraph",
+          "text": "Half section view 半剖視圖 60"
+        },
+        {
+          "type": "heading",
+          "text": "Deviation 偏差 171"
+        },
+        {
+          "type": "heading",
+          "text": "Half view 半視圖 106"
+        },
+        {
+          "type": "heading",
+          "text": "Diagram drawing 線圖 152"
+        },
+        {
+          "type": "heading",
+          "text": "Helix 螺旋線 200"
+        },
+        {
+          "type": "heading",
+          "text": "Diameter symbol 直徑符號 11"
+        },
+        {
+          "type": "heading",
+          "text": "Honing 搪磨 170"
+        },
+        {
+          "type": "heading",
+          "text": "252"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_appendix/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Profile 結構 188"
+        },
+        {
+          "type": "heading",
+          "text": "I"
+        },
+        {
+          "type": "heading",
+          "text": "proportion 比例 32"
+        },
+        {
+          "type": "paragraph",
+          "text": "Inscription of dimensions 尺度標註 2 Interference 或 Tightness 過盈 181 R Interfere fits 過盈 ( 干涉 ) 配合 182"
+        },
+        {
+          "type": "heading",
+          "text": "Radius symbol 半徑符號 13"
+        },
+        {
+          "type": "paragraph",
+          "text": "Irregular curve lines 不規則曲線 22 Reference dimensions 參考尺度 28"
+        },
+        {
+          "type": "heading",
+          "text": "Reference plane 參考平面 102"
+        },
+        {
+          "type": "heading",
+          "text": "L"
+        },
+        {
+          "type": "heading",
+          "text": "Rib 肋 70"
+        },
+        {
+          "type": "heading",
+          "text": "Lapping 研磨 170"
+        },
+        {
+          "type": "heading",
+          "text": "Leaders 指線 24 S"
+        },
+        {
+          "type": "heading",
+          "text": "Limit dimension 極限尺度 171"
+        },
+        {
+          "type": "heading",
+          "text": "section 剖面 51"
+        },
+        {
+          "type": "paragraph",
+          "text": "Location dimensions 位置尺度 28 Sectional drawing 或 Sectional views 剖視圖 51"
+        },
+        {
+          "type": "heading",
+          "text": "Luminance 光度 185"
+        },
+        {
+          "type": "heading",
+          "text": "Section lines 剖面線 48"
+        },
+        {
+          "type": "heading",
+          "text": "Sheet metal parts 板金件 18"
+        },
+        {
+          "type": "heading",
+          "text": "M"
+        },
+        {
+          "type": "paragraph",
+          "text": "Shifted section 或 Removed section 或 Separate"
+        },
+        {
+          "type": "heading",
+          "text": "Metric taper 公制錐度 20"
+        },
+        {
+          "type": "heading",
+          "text": "section 移轉剖面 66"
+        },
+        {
+          "type": "heading",
+          "text": "mm 公厘 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "Short horizontal line 水平短線 24"
+        },
+        {
+          "type": "heading",
+          "text": "Morse taper 莫氏錐度 20"
+        },
+        {
+          "type": "heading",
+          "text": "Size dimensions 大小尺度 28"
+        },
+        {
+          "type": "paragraph",
+          "text": "N Size tolerance zone 公差區域 173 Nominal dimension 公稱尺度 171 Specific note 或 Specific remarks 特定註解 24 Non-functional dimensions 非功能尺度 28 Spherical surfacesymbol 球面符號 14 Normal chart 標準圖 156 Spheroid 球體 14"
+        },
+        {
+          "type": "heading",
+          "text": "Spoke 輪輻 70"
+        },
+        {
+          "type": "heading",
+          "text": "O"
+        },
+        {
+          "type": "heading",
+          "text": "Square symbol 方形符號 17"
+        },
+        {
+          "type": "paragraph",
+          "text": "Offset method 支距法 23 Srew thread 螺紋 200 Outline assembly drawing 輪廓組合圖 150 Standard tolerance 標準公差 172"
+        },
+        {
+          "type": "heading",
+          "text": "Super finishing 超級精磨 170"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "paragraph",
+          "text": "Superfluous dimensions 多餘尺度 29 Partial assembly drawing 部份組合圖 150 Surface texture symbol 表面織構符號 185 Partial auxiliary elevation 局部輔助視圖 100 Partial enlarged view 局部放大視圖 95 T Partial view 局部視圖 92 Tabular drawing 或 Collective drawing 列表圖 156 Part section 局部剖面 62 Taper on radius 斜度 19 Part sectionviews 局部剖視圖 62 Taper on radius symbol 斜度符號 19 Parts list 零件表 144, 158 Taper symbol 錐度符號 21 Penetrated body 相貫體 120 Title strip 或 Title block 標題欄 157 Pictorial assembly drawing 立體組合圖 151 Tolerance 公差 171 Piece number 件號 147 Tolerance position 公差位置 173 Polar coordinate method 極座標法 164 Transition 過渡 181"
+        },
+        {
+          "type": "heading",
+          "text": "253"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_appendix/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "ransition fits 過渡配合 182"
+        },
+        {
+          "type": "heading",
+          "text": "True Shape 真實形狀 98"
+        },
+        {
+          "type": "heading",
+          "text": "U"
+        },
+        {
+          "type": "heading",
+          "text": "Under deviation 下偏差 178"
+        },
+        {
+          "type": "paragraph",
+          "text": "Unilateral tolerance 單向公差 172"
+        },
+        {
+          "type": "heading",
+          "text": "Upper deviation 上偏差 178"
+        },
+        {
+          "type": "heading",
+          "text": "W"
+        },
+        {
+          "type": "heading",
+          "text": "Wavy 波紋 188"
+        },
+        {
+          "type": "heading",
+          "text": "Wheel arm 輪臂 70"
+        },
+        {
+          "type": "heading",
+          "text": "Working drawing 工作圖 144"
+        },
+        {
+          "type": "heading",
+          "text": "Z"
+        },
+        {
+          "type": "heading",
+          "text": "Zero line 零線 173"
+        },
+        {
+          "type": "heading",
+          "text": "254"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_appendix/p014.jpg"
+    }
+  ]
+}

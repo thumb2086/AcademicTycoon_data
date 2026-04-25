@@ -80,6 +80,86 @@
       "a": 0,
       "reward": 15,
       "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH03_006",
+      "subject": "機械力學",
+      "unit": "CH3",
+      "q": "1. 凡物體乃由多數小分子集合而成, 故物體之重量為地心引力作用於此等小分子之平行力之合成, 此合力之作用點即為物體之",
+      "image_url": "",
+      "options": [
+        "質心",
+        "形心",
+        "重心",
+        "中心 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH03_007",
+      "subject": "機械力學",
+      "unit": "CH3",
+      "q": "2 · 當物體之重量對於某直線之力矩代數和為零時, 則該直線必通過物體的何處",
+      "image_url": "",
+      "options": [
+        "重心",
+        "內部",
+        "座標原點",
+        "外部 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH03_008",
+      "subject": "機械力學",
+      "unit": "CH3",
+      "q": "3 · 下列敘述何者不正確?",
+      "image_url": "",
+      "options": [
+        "物體之重心必在物體內部",
+        "物體對稱於 x 軸時, y=0",
+        "經過重心之直線, 稱為重心軸",
+        "一物體之重心, 必為兩重心軸的交點 。"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH03_009",
+      "subject": "機械力學",
+      "unit": "CH3",
+      "q": "8 · 如圖所示, 一均匀直角線段被懸掛在 B 點, AB=2cm BC = 4 cm, 口 / 、 ∕ 當干衡時, AB 與鉛直方向成 0 角, 則 tan 0 =",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch03/p024_0_0_0_r.png",
+      "options": [
+        "4",
+        "一",
+        "2",
+        "3 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "如圖所示, 若此面積之重心在 y 軸上, 則 b 應為若干? 2cm 8 cm 、 素養題 小杉是班上的資優生, 老師希望他可以帶領班上同學一起提升立體觀念, 因此 出了如圖 (A) 所示之等角立體圖 ( 單位: (m), 請他教同學們繪出其三視圖 ( 採第三 角法 ) 。 15 20 8 5 A 圖 (A) 122"
+    },
+    {
+      "id": "TEXT_MECH_MECHANICS_CH03_010",
+      "subject": "機械力學",
+      "unit": "CH3",
+      "q": "14 · 如圖所示, ABCD 與 EFCD 為兩塊厚度相等的均質板塊, 已知 ABCD 矩形板的重量是 EFCD 的兩倍, 其重力方向是在座標 y 軸方向, 則下列關於此複合板的重心 、 形心與質心之敘述, 何者錯誤?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_mechanics_ch03/p025_0_0_0_r.png",
+      "options": [
+        "重心 、 形心與質心的 x 座標相同",
+        "重心與質心在同一點 (D) 形心到 x 座標軸的距離為 2a",
+        "",
+        "形心到 x 座標軸的距離為 2a (C) 重心與形心在同一點 3a 3a 2a 2a )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
     }
   ]
 }

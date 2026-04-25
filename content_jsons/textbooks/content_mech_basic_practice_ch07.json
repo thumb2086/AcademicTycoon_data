@@ -1,0 +1,1909 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH07",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH07",
+    "title": "CH7"
+  },
+  "title": "機械基礎實習全冊 Chapter 7 ၌ࠦၾ̮ࢰԓۂ",
+  "source_pdf": "mechanical_basic_practice/CH7PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH07",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        },
+        {
+          "type": "heading",
+          "text": "၌ࠦၾ̮ࢰԓۂ"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 瞭解切削速度與進給率的選擇 7-1 夾頭種類與功用"
+        },
+        {
+          "type": "heading",
+          "text": "2. 學會端面與外徑的車削及量測 7-2 切削速度與進給的選擇"
+        },
+        {
+          "type": "heading",
+          "text": "3. 認識公差與表面粗糙度 7-3 工件外徑與長度之車削及量測"
+        },
+        {
+          "type": "heading",
+          "text": "7-4 認識加工件的公差與表面粗糙度"
+        },
+        {
+          "type": "heading",
+          "text": "7-5 切削劑的種類與應用"
+        },
+        {
+          "type": "heading",
+          "text": "7-6 外徑車削練習"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "126"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "heading",
+          "text": "7-1 Ѱ᎘၇ᗳၾ̌͜"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床加工中,能將工件牢固夾持,使刀具穩定地對工件加工的夾具,有以下常用的六種: 三爪聯動夾頭、四爪獨立夾頭、雞心夾頭、面板、動力夾頭及套筒夾頭等。 7-1-1 cɧ˧ᑌਗѰ᎘ (3-Jaw universal chuck)"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 7-1 所示,在夾頭面上有三個"
+        },
+        {
+          "type": "heading",
+          "text": "互成 120° 的夾爪,當以夾頭扳手轉動"
+        },
+        {
+          "type": "heading",
+          "text": "任一爪時,三爪均能同時在夾頭的直徑"
+        },
+        {
+          "type": "heading",
+          "text": "方向進退,所以夾持工作物,能自動對"
+        },
+        {
+          "type": "heading",
+          "text": "準中心,特別適合圓形或六角形斷面工"
+        },
+        {
+          "type": "paragraph",
+          "text": "件的夾持。"
+        },
+        {
+          "type": "heading",
+          "text": "聯動夾頭可節省校正工件的時間,"
+        },
+        {
+          "type": "heading",
+          "text": "拆卸工件時,速度也快,惟不適於夾持"
+        },
+        {
+          "type": "paragraph",
+          "text": "不規則的工件。一般三爪夾頭的夾爪有"
+        },
+        {
+          "type": "heading",
+          "text": "兩套,用於不同直徑的夾持,如圖 7-2"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-1 ȭɿᦧ⊓Ւपᆑ"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示。"
+        },
+        {
+          "type": "heading",
+          "text": "\u0002 60mm 以下的外徑,夾持方式可"
+        },
+        {
+          "type": "heading",
+          "text": "以使用第一套夾爪,由外而內的外鎖"
+        },
+        {
+          "type": "heading",
+          "text": "式夾持,或由內而外的內張式夾持;第"
+        },
+        {
+          "type": "heading",
+          "text": "二套夾爪用於 \u0002 60mm 以上的外徑之反"
+        },
+        {
+          "type": "paragraph",
+          "text": "夾。因為三爪夾頭無須校正工件,所以"
+        },
+        {
+          "type": "heading",
+          "text": "同心度難免有誤差,如果工件要求的精"
+        },
+        {
+          "type": "heading",
+          "text": "度不是很高,三爪夾頭是很適合協助快"
+        },
+        {
+          "type": "paragraph",
+          "text": "速生產的夾具之一。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-2 ȭɿᦧपᆑະᮢ⎞׆᫧"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 ၌ࠦၾ̮ࢰԓۂ 127"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-1-2 c̬˧ዹͭѰ᎘ (4-Jaw independent chuck)"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 7-3 所示,即四個夾爪各自獨立,"
+        },
+        {
+          "type": "heading",
+          "text": "不受其他夾爪所牽制,使用時,需以夾頭扳"
+        },
+        {
+          "type": "paragraph",
+          "text": "手個別調整其進退,故稱之為獨立夾頭。由"
+        },
+        {
+          "type": "heading",
+          "text": "於夾爪各自獨立,所以夾持工件比「三爪聯"
+        },
+        {
+          "type": "heading",
+          "text": "動夾頭」費時,但對於規則或不規則形狀的"
+        },
+        {
+          "type": "heading",
+          "text": "工件,或偏心件,幾乎都可夾持,且可調整"
+        },
+        {
+          "type": "paragraph",
+          "text": "到良好的同心度,用途很廣。"
+        },
+        {
+          "type": "heading",
+          "text": "ᣅ࣑ԽपྃԻŊɺ⎷宗Ւपᦧ᱿➦ጥࠀ"
+        },
+        {
+          "type": "paragraph",
+          "text": "࿮ᮢᅞഐ➦h (Square thread),如圖 7-3 的右 Ț ߧ 7-3 ȭ߈ᦧपᆑᔌ⣳पྃ 下圖所示。一般四爪獨立夾頭只附一套夾爪, 對一般直徑的工件 ( 如 \u0002 60mm 以下 ),夾爪 以正向方式夾持;而大直徑 ( 如 \u0002 60mm 以上 )"
+        },
+        {
+          "type": "heading",
+          "text": "的工件,則需將四個夾爪退出,再依各爪編"
+        },
+        {
+          "type": "paragraph",
+          "text": "號反裝回去,以反向方式夾持。"
+        },
+        {
+          "type": "heading",
+          "text": "由於夾爪各自獨立,所以也可以視工"
+        },
+        {
+          "type": "heading",
+          "text": "件形狀,調整某些夾爪以正向夾持,某些"
+        },
+        {
+          "type": "paragraph",
+          "text": "夾 爪 以 反 向 夾 持 而 成 混 合 式 夾 持 (Hybrid"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-4 ȭ߈ᦧपᆑʠᛜ׶ೣपྃ"
+        },
+        {
+          "type": "paragraph",
+          "text": "clamping),如圖 7-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "7-1-3 cᕒːѰ᎘ (Lathe dog)"
+        },
+        {
+          "type": "heading",
+          "text": "雞心夾頭 ( 或稱牽引具 ),因夾頭中間部"
+        },
+        {
+          "type": "heading",
+          "text": "位的形狀有如雞心,故名為雞心夾頭,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-5(a) 所示。專用於兩心間車削時,驅動工 件的夾具,使用方式如圖 7-5(b) 所示。 一 般 使 用 三 爪 夾 頭, 因 無 須 校 正, 故"
+        },
+        {
+          "type": "heading",
+          "text": "同心度易有誤差;若使用四爪夾頭,則需"
+        },
+        {
+          "type": "heading",
+          "text": "費時校正,而 ゲൔपᆑဏͧ ɹқൔ⿵డ̳"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Machining Between Centers) ᆹŊ⋱൬Ⳍपُྃ"
+        },
+        {
+          "type": "heading",
+          "text": "བྷ⡶᱿पңŊר҉ᅠ⫄ᆹዮᔌב⋱ᷨΎ"
+        },
+        {
+          "type": "heading",
+          "text": "׺ൔŊᆯബ⳺ᅠञ⸇ᮝᮟ᱿पңŊ 惟工件兩"
+        },
+        {
+          "type": "paragraph",
+          "text": "端需先鑽出中心孔。雞心夾頭的心孔有大小 號數,可依工件直徑的大小選配之。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-5 ȭゲൔपᆑ⎞पྃ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "128"
+        },
+        {
+          "type": "heading",
+          "text": "7-1-4 ؐࠦc (Face plate)"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 7-6 所示,專用於夾持大型或不規則"
+        },
+        {
+          "type": "paragraph",
+          "text": "形狀的工作物,如對連座軸承 (Pillow block) 或肘管 (Elbow) 接頭等機件的端面切削或內孔 加工等。"
+        },
+        {
+          "type": "heading",
+          "text": "將工作物固定於面板上的,可以是螺栓、"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓板、小虎鉗或平型夾等夾治具。為使工件"
+        },
+        {
+          "type": "heading",
+          "text": "在旋轉中不鬆脫,每根螺栓或壓板均需鎖固,"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削轉速在 500rpm 以下為宜。對於不規則形"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-6 ȭㄇኈ"
+        },
+        {
+          "type": "heading",
+          "text": "狀的工件,為避免主軸迴轉時,發生振動,"
+        },
+        {
+          "type": "paragraph",
+          "text": "應考慮在工件的對稱處安裝配重塊 (Weight), 使主軸運轉平衡,如圖 7-7 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-7 ȭㄇኈपྃ"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-1-5 cਗɢѰ᎘ (Power chuck)"
+        },
+        {
+          "type": "heading",
+          "text": "動力夾頭是以壓縮空氣、電力或油壓等"
+        },
+        {
+          "type": "heading",
+          "text": "媒介作為動力源,用以推動夾爪夾緊工件的夾"
+        },
+        {
+          "type": "heading",
+          "text": "具,可提供強而有力的夾持力,夾持力亦可調"
+        },
+        {
+          "type": "heading",
+          "text": "整大小,以適應工件的材質及形狀,不但工作"
+        },
+        {
+          "type": "heading",
+          "text": "速度快,且可節省人力和校正的時間,主要用"
+        },
+        {
+          "type": "paragraph",
+          "text": "於自動車床或數值控制車床的夾持工作。 ᮝᦧ (Soft jaws) ॖ ߧ 7-8 ໽ḻŊᆯ᮫̥ᷦ"
+        },
+        {
+          "type": "heading",
+          "text": "⻘໣ʑᷦ⻘ᣅቨᅆ໽⢌ໞ᱿पᦧŊ͐ᮢԊŊ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-8 ȭᗴࣱपᆑ⎞ᮝᦧ"
+        },
+        {
+          "type": "heading",
+          "text": "ൕᄝ҅ ˫ҙലⰇӝⰇԇपᦧ᱿पྃ ㄇŊ͐ पྃ"
+        },
+        {
+          "type": "heading",
+          "text": "ㄇ᱿ഐᨊ⋱Ὢ׶డ˴⡕पྃ ⵒ̤ ᱿कࠣŊॖ"
+        },
+        {
+          "type": "heading",
+          "text": "べ₤Ȯߥೲᾀഐᨊȯ"
+        },
+        {
+          "type": "heading",
+          "text": "生爪被加工完成後,便可當成一副永久"
+        },
+        {
+          "type": "heading",
+          "text": "性的夾具,以適應量產工作;或可再切削成"
+        },
+        {
+          "type": "heading",
+          "text": "比原尺寸更大的形狀,以適應更大的工件外"
+        },
+        {
+          "type": "paragraph",
+          "text": "型之夾持。專為生爪使用的夾頭,可配以無 限多組的生爪,以適應各種工件的外型。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 ၌ࠦၾ̮ࢰԓۂ 129"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-1-6 cࢁഇѰ᎘ (Collet chuck)"
+        },
+        {
+          "type": "heading",
+          "text": "空壓夾頭如圖 7-9 所示,常用於自動車"
+        },
+        {
+          "type": "heading",
+          "text": "床,它利用高壓空氣當動力源,氣體由進氣"
+        },
+        {
+          "type": "heading",
+          "text": "口輸入,由於高壓空氣的作用,會使夾頭內"
+        },
+        {
+          "type": "paragraph",
+          "text": "的彈簧筒夾 (Spring collet) 往內縮而夾緊工件,"
+        },
+        {
+          "type": "heading",
+          "text": "空氣壓力的大小可調整,以改變夾持力;當"
+        },
+        {
+          "type": "heading",
+          "text": "工件完成加工後,進氣口的閥門即被關閉不"
+        },
+        {
+          "type": "heading",
+          "text": "再進氣,使夾頭內的氣體由出氣口排出,筒"
+        },
+        {
+          "type": "heading",
+          "text": "夾即可因自身的彈力而恢復原形,便可將工"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-9 ȭἇࣱपᆑ"
+        },
+        {
+          "type": "paragraph",
+          "text": "件取下,以便再裝填新工件加工。"
+        },
+        {
+          "type": "heading",
+          "text": "主要用於自動車床、轉塔車床或其他精"
+        },
+        {
+          "type": "heading",
+          "text": "密車床等工件的夾持,因夾頭以彈簧材料製"
+        },
+        {
+          "type": "paragraph",
+          "text": "成,故又稱為彈性夾頭。原理是利用機械方"
+        },
+        {
+          "type": "heading",
+          "text": "式,促使筒夾的彈性夾爪內縮,以便夾緊工"
+        },
+        {
+          "type": "paragraph",
+          "text": "件。如圖 7-10 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "筒夾末端鎖固於拉桿,前端以錐度套筒"
+        },
+        {
+          "type": "heading",
+          "text": "固定於車床頭座,當順時間旋轉拉桿手輪時,"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-10 ȭहᾉपᆑ"
+        },
+        {
+          "type": "heading",
+          "text": "筒夾即可因自身的彈力而鬆開;當逆時間旋"
+        },
+        {
+          "type": "heading",
+          "text": "轉拉桿手輪時,筒夾因自身前端的錐度碰觸"
+        },
+        {
+          "type": "paragraph",
+          "text": "錐度套筒而夾緊工件。 圖 7-11 所示為一般銑床 (Milling machine)"
+        },
+        {
+          "type": "heading",
+          "text": "上所用的套筒夾頭,可透過夾治具裝置於車"
+        },
+        {
+          "type": "paragraph",
+          "text": "床,以夾持圓棒型工件進行切削。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-11 ȭहᾉपᆑ͐ᮢ͛"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "130"
+        },
+        {
+          "type": "heading",
+          "text": "7-2 jۂ஺ܓၾආഗٙ፯኿"
+        },
+        {
+          "type": "paragraph",
+          "text": "有許多因素會影響到車削效率,除了有形的條件,如被削材的性質、車刀的材質及車床的 性能等因素之外,尚有無形的條件,如切削速度、進給速度或進給深度等。正確的切削條件, 是長久經驗或實驗的累積,欲使切削效率達最佳化,使用正確的切削條件,是唯一的選擇。"
+        },
+        {
+          "type": "heading",
+          "text": "7-2-1 ܓ஺ۂcj"
+        },
+        {
+          "type": "paragraph",
+          "text": "ⰇಉȵӡԇⳌಙ (Cutting speed) ȶŊᆯ྆డ˴⠧ㄇʀ᱿ኽɺ㔄Ŋ⃻⳧Ⰷӝӡӟ㔄ᆹ᱿ӡB ⳌಙŊ˫ᕓӠ身ҝଙ (m/min) ⠧ḻȯ 切削速度的高低,取決於下列的幾項因素。"
+        },
+        {
+          "type": "heading",
+          "text": "1. డ˴ቨᅆ᱿ᑨፋඖ⫨Ř 高硬度工件所選用的切削速度應比低硬度的還慢。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 車床性能和剛固性:剛性佳的車床,可採用較高的切削速度。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 刀具種類與性能: ॖ ISO ⣳῅ʑŊ P10 ᱿Ⰷӝሳᕗ P20 ᱿ⰇӝŊሩ⳺׶ネⳌӡԇȯ"
+        },
+        {
+          "type": "heading",
+          "text": "4. 刀具的切削深度: ӡԇᛖಙฬᛖŊҢӡԇⳌಙະฬ๨ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "5. 工件表面粗糙度的要求: ⠧ㄇ⁏⁳ಙ⣬ᖣവฬネŊ͐ᮢ᱿ӡԇⳌಙະฬネȯ"
+        },
+        {
+          "type": "heading",
+          "text": "6. 使用切削劑與否:切削劑具冷卻及潤滑的效果,故適宜採較高的切削速度,以提高"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削效率。 所以, ⴆᮢӡԇⳌಙൕᄝHྃқञ׆ԅŘ֯ሱ⿢᱿ӝңउل⎞ሱネ᱿ᮝᮟᄓ᪓ȯ 對於一般傳統的高速車床,主軸每一檔迴轉速都是固定不變的, ߱ ᳈׺᱿ⲪⱧⳌʁŊᯍ⡕ ԇቨ᱿᳅ലฬञŊҢشߥㄇʀ᱿ɺ㔄Ŋ⃻⳧Ⰷӝӡӟ㔄᱿ӡBⳌಙଔฬञȯ 為使切削速度固定, 我們必須在 ӡԇञ᳅ലᆹŊ⦲̥ʙⰧⲪⱧⳌŊӡԇଅ᳅ലᆹŊ⦲ネʙⰧⲪⱧⳌŊ 以便讓金屬剪 切過程中的能量密度 (Energy density) 保持一定。所以在切削速度、主軸迴轉速及工件直徑三者 之間,會有一關係式。 設工件半徑為 R,以 \u0002 的角速度旋轉,工件圓周面上某一點的切線速度 V,可表示成: V = R × \u0002 ( 其中 \u0002 = 2 \u0003 N, N:工件每分鐘的迴轉圈數 ) = R × 2 \u0003 N (V: m/min、 \u0002: rad/min, N: rev/min, R: m)"
+        },
+        {
+          "type": "heading",
+          "text": "= \u0003 DN (D:工件直徑,單位為 m)"
+        },
+        {
+          "type": "heading",
+          "text": "今將 D 的單位改成 mm,則"
+        },
+        {
+          "type": "heading",
+          "text": "π π DN"
+        },
+        {
+          "type": "heading",
+          "text": "V = = (7-1)"
+        },
+        {
+          "type": "heading",
+          "text": "1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "其中: V = 切削速度 (m/min), D = 工件直徑 (mm), N = 工件迴轉速 (rpm) ȵ N ȶᆯⰇಉడ˴ᕓӠ身᱿ⲪⱧߞᄲŊ܈̤˫ȵ RPM, Revolutions per minute ȶ⠧ḻȯ 在傳 統車床中,為使切削速度固定,必須依工件直徑的大小,調變車床主軸的迴轉速。 ೣ ʑ᱿ȵ V ֯ȶŊ ᆯӡԇⳌಙŊ܈̤˫ȵ m/min ȶ⠧ḻȯ 列舉兩例說明上述關係。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 ၌ࠦၾ̮ࢰԓۂ 131"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "以 P20 車刀對中碳鋼工件做粗車削,如果切削速度 V = 80m/min,工件外徑 40.0mm,則選用"
+        },
+        {
+          "type": "heading",
+          "text": "的主軸迴轉圈數應為?"
+        },
+        {
+          "type": "heading",
+          "text": "⤟"
+        },
+        {
+          "type": "heading",
+          "text": "π DN 3 × 40 × N"
+        },
+        {
+          "type": "paragraph",
+          "text": "V =, 80 = ∴ N = 667 (rpm)"
+        },
+        {
+          "type": "heading",
+          "text": "1000 1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "⦦ᆙ 不同廠牌的車床,所提供的 N 值和建議使用的 V 值均可能不同,如某車床的轉速檔有: 2000、 1200、 675、 330、 195 及 100 等 6 檔,需取接近的轉速檔,即 675(rpm)。"
+        },
+        {
+          "type": "heading",
+          "text": "例題 7-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "以 P10 車刀對中碳鋼工件做精車削,若欲選用 1800rpm 的迴轉速,當工件外徑為 25.0mm 時,"
+        },
+        {
+          "type": "heading",
+          "text": "則切削速度為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "⤟"
+        },
+        {
+          "type": "heading",
+          "text": "π DN 3 × 25 × 1800"
+        },
+        {
+          "type": "paragraph",
+          "text": "V =, V = ∴ V = 135 (m/min)"
+        },
+        {
+          "type": "heading",
+          "text": "1000 1000"
+        },
+        {
+          "type": "heading",
+          "text": "ᾊ"
+        },
+        {
+          "type": "heading",
+          "text": "切削速度 V = 135 (m/min)"
+        },
+        {
+          "type": "heading",
+          "text": "7-2-2 ܓଉۂၾjܓcආഗ஺"
+        },
+        {
+          "type": "paragraph",
+          "text": "ଃᅠЗ⃥᱿ネⳌⰇಉ≟⤵ŊȵⳖ⃛Ⳍಙ (Feed speed) ȶᆯ྆డ˴ᅩⱧɺߞŊӝң໽⠗Ⳗ᱿ ⭡サŊ˫ᕓⱧघଇҝ׀ (mm/rev) ⠧ḻȯ 進給速度的快慢,取決於下列幾項因素:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 車床性能:如剛性佳,馬力大的車床,進給速度可加大。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 車刀材質:如 ネᄎඖ᱿Ⰷӝᕗネʉಙ᱿ⰇӝŊሩ⳺׶ⰱ൬᱿Ⳗ⃛Ⳍಙȯ"
+        },
+        {
+          "type": "heading",
+          "text": "3. 切削深度:切削深度愈深,車刀承受的阻力愈大,進給應愈慢。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 粗、精車削之別:如 Ⰷԇ᱿Ⳗ⃛Ⳍಙະᕗ⁏Ⰷԇ๨ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "5. 工件材質: ฬʉ᱿ቨᅆŊⳖ⃛Ⳍಙະฬ๨Ŋॖ̥ᷦ⻘᱿⁏Ⰷԇר˫ᕗᑁң⻘൬ȯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "ӡԇᛖಙ (Cutting depth) Ŋᆯ྆Ⰷӝ˫ࠡ᳅ᅠⳖ⃛ᅞ׿ӡҘడ˴᱿ᛖಙȯ 此切深與下列因"
+        },
+        {
+          "type": "heading",
+          "text": "素有關:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 車床的剛固性:如剛性愈佳的車床,愈能承受重切削,即切削深度可加大。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 車刀的材質:如 P20 ᱿Ⰷӝሳᕗ P10 ᱿ⰇӝŊሩ⳺׶ᛖ᱿ӡԇᛖಙ。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 工件表面粗糙度: ⠧ㄇ⁏⁳ಙ⣬ᖣฬネ≛Ŋӡԇᛖಙະฬᛞȯ"
+        },
+        {
+          "type": "heading",
+          "text": "4. 工件的材質: ׺ᑂᆯ⁏ӡԇŊฬʉ᱿ቨᅆŊӡԇᛖಙະฬᛞȯ"
+        },
+        {
+          "type": "heading",
+          "text": "5. 切削的速度: ӡԇⳌಙฬネŊӡԇᛖಙະฬᛞȯ"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "132"
+        },
+        {
+          "type": "paragraph",
+          "text": "對於縱向切削而言,切削深度是指橫向的切深,如圖 7-12(a) 所示的「 t 」值,對工件而言, 雖然刀具切入了半徑值,但切削過後,工件是被切了直徑值的量。 而此切深量,在車床上需以橫向進給刻度環控制之,如圖 7-12(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭȭȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-12 ȭӡԇᛖಙ⎞Ⳗ⃛ᅞ׿〦͸"
+        },
+        {
+          "type": "paragraph",
+          "text": "為簡化車床加工時的計算程序,一般而言,車床橫向進給刻度值均以「直徑值」表示,即 從橫向刻度環調整進給深度,其刻度環上的數值是工件直徑的增減量。例如橫向進給刻度環上, 標示一小格為「 \u0002 0.05mm 」,若整圈刻度環共刻劃了 160 小格,表示車刀每橫向進給一小格,工 件的直徑即減少「 \u0002 0.05mm 」,每橫向進給一圈,工件的直徑即減少「 \u0002 8.0mm 」,所以工件直 徑欲從 \u0002 42.35mm 車至 \u0002 42.0mm,則橫向進給應補進 7 小格。由此也可得知,該車床橫向進給導 螺桿的節距為 4.0mm。"
+        },
+        {
+          "type": "heading",
+          "text": "7-3 ʈ΁̮ࢰၾܓڗʘԓۂʿඎ಻"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件外徑與長度的車削及量測,是車床加工最基本的技術。車床進行加工之前,車刀安裝 是很重要的工作。車刀接觸工件且具有切削作用的部位稱為「刃口 (Edge) 」, ᯍⰇӝ⡕મ⇦߱ ӝࢡʀᆹŊᤀ⧄ᆯ⁏Ⰷӝ໣ⰇӝŊӟםネಙⵣト⎞ⰇಉʙⰧ᱿ʑൔ׺ネŊ 所以車刀裝在刀塔 上,需以不同厚度墊片,墊高車刀,使車刀刃口與車床主軸中心的高度相等,此步驟稱為「刀 具中心高度校正」。 校正方式可藉由尾座的頂心或自製的車刀高度台校正,如圖 7-13(a) 及 7-13(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-13 ȭⰇӝӟםະ⎞Ⰷಉʑൔ㕑ネ"
+        },
+        {
+          "type": "paragraph",
+          "text": "ᣅ࣑ԽⰇӝ͐ᮢᆹ᱿ԑߗඖ⎞ᅞ͵ඖŊࣆᦸະѢ⸇࿮ᮢञׂಙ≛Ŋ≟ࣆᦸ᱿ԊMະ⎞ӝࢡ"
+        },
+        {
+          "type": "heading",
+          "text": "᱿ԊMӡ㕑Ŋ༇⋱ᷨΎӝኲ⡕攴ߗȯ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 ၌ࠦၾ̮ࢰԓۂ 133"
+        },
+        {
+          "type": "heading",
+          "text": "7-3-1 ۂԓࠦc၌"
+        },
+        {
+          "type": "heading",
+          "text": "工件端面是工件長度的基準面,許多長度"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺寸,都由端面 ( 基準面 -1) 開始計算,如必要, 亦可選擇基準面 -2 計算,如圖 7-14(a) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "某 些 工 件, 端 面 可 留 下 中 心 孔 (Center"
+        },
+        {
+          "type": "heading",
+          "text": "hole),或必須留下中心孔,此時,需以中心鑽"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Center drill) 鑽削中心孔。由於中心鑽的鑽徑 小,主軸轉速約選用在 1200 ∼ 1400rpm 之間, 鑽削時,以啄鑽 (Peck drilling) 進行。 ʑൔ⿛റ റ⿛Ҙడ˴ὉㄇŊ) 1 Ɯ 2mm രŊἼ֯൬Ⳍⲵ ӝ) 2 Ɯ 4mm ŊҪ⿛ԇ) 1 Ɯ 2mm രŊҪⲵ )ߊ 2 Ɯ 4mm ƥŊⲵӝᲿ᱿߱͐ʑൔઋ࿢ଫૌ"
+        },
+        {
+          "type": "heading",
+          "text": "ᆞŊʏᛧגʑൔ⿛᱿ᝐ֗Ŋ˫〾ʑൔ⿛ᅜ߱డ"
+        },
+        {
+          "type": "heading",
+          "text": "˴Ὁㄇȯʑൔઋ᱿ᛖಙ)ᣅʑൔ⿛⻧ಙⵒ˷᱿"
+        },
+        {
+          "type": "paragraph",
+          "text": "2/3 ᛖŊ 如圖 7-14(b) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "車 刀 進 行 端 面 車 削 時, 可 視 加 工 效 果, 選 擇 由 外 而 內 或 由 內 而 外 的 進 給 方 向, 如 圖 7-14(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "當端面沒有鑽中心孔,且車刀刃口未與車"
+        },
+        {
+          "type": "heading",
+          "text": "床主軸中心同高時,表示刃口無法真正達到工"
+        },
+        {
+          "type": "heading",
+          "text": "件端面的中心,此時無論刃口高或低於工件的"
+        },
+        {
+          "type": "heading",
+          "text": "中心,都會使工件端面中心處留下小凸點,如"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 7-14(d) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-14 ȭడ˴ࡣ᜾ㄇ⎞ʑൔઋԽడ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "134"
+        },
+        {
+          "type": "heading",
+          "text": "此小凸點極易與車刀刃口發生擠壓,造成刃"
+        },
+        {
+          "type": "heading",
+          "text": "口崩裂,所以務必於車削前檢查並調整車刀刃口"
+        },
+        {
+          "type": "paragraph",
+          "text": "與主軸中心等高。"
+        },
+        {
+          "type": "heading",
+          "text": "ᯍⰇӝӟם̥ᅠడ˴ʑൔŊॖኞⰇӝ↧↲ӡ"
+        },
+        {
+          "type": "heading",
+          "text": "ԇ≟⬢ӛʑൔ㔄ŊԅⰇӝӟםബૌᆞטᔍә㔄᱿"
+        },
+        {
+          "type": "paragraph",
+          "text": "̳ᮢו ( ཚ ) Ի≟ཚ⡣Ŋ 如圖 7-15(a) 所示。 ᯍⰇ"
+        },
+        {
+          "type": "heading",
+          "text": "ӝӟםネᅠడ˴ʑൔŊॖኞⰇӝ↧↲Ⳗ⃛Ŋԅӟ"
+        },
+        {
+          "type": "paragraph",
+          "text": "םബૌᆞטᔍә㔄᱿჉ࣱ ≟ɕ⡣Ŋ 如圖 7-15(b) 所示。由上述可知,欲完全去除端面中心的凸"
+        },
+        {
+          "type": "heading",
+          "text": "點,車刀刃口必須完全與工件中心同高,且當車"
+        },
+        {
+          "type": "heading",
+          "text": "刀刃口接近中心點處時,進給速度需緩降至原來"
+        },
+        {
+          "type": "heading",
+          "text": "的一半,這是由於凸點處的周向速度已降至極低"
+        },
+        {
+          "type": "paragraph",
+          "text": "(V ≒ 0),如果進給速度依然維持很快,則車刀很 可能因刃口受擠壓而崩裂。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-15 ȭʑൔઋଃⰇӝӟם᱿ഛᇈ"
+        },
+        {
+          "type": "heading",
+          "text": "對於沒有鑽中心孔的端面,為使端面能獲致"
+        },
+        {
+          "type": "heading",
+          "text": "平整,在車刀刃口接近中心點時,除了上述緩降"
+        },
+        {
+          "type": "heading",
+          "text": "進給速度外,在刃口到達中心點後,再繼續進給"
+        },
+        {
+          "type": "paragraph",
+          "text": "約 0.2 ∼ 0.3mm 的距離,如此可使中心處的凸點"
+        },
+        {
+          "type": "heading",
+          "text": "能完全去除,使端面達到完全的平整,不過車刀"
+        },
+        {
+          "type": "heading",
+          "text": "刃口不得超出中心太多,否則碳化物車刀很容易"
+        },
+        {
+          "type": "paragraph",
+          "text": "受端面反向 ( 向上 ) 的摩擦力而拉裂刃口。至於"
+        },
+        {
+          "type": "heading",
+          "text": "高速鋼車刀,也需如此,否則刃口易受工件端面"
+        },
+        {
+          "type": "paragraph",
+          "text": "反向的摩擦而鈍化。"
+        },
+        {
+          "type": "heading",
+          "text": "對於長桿件的端面加工,如果工件懸量必須"
+        },
+        {
+          "type": "heading",
+          "text": "露出許多,則應以半頂心支撐,使刀具能順利進"
+        },
+        {
+          "type": "paragraph",
+          "text": "入工件端面,並防止工件端部振動,如圖 7-16(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "另外,在大面積端面的車削,為防止床鞍"
+        },
+        {
+          "type": "heading",
+          "text": "發生縱向蠕動,整座床鞍必須先鎖固,改以複式"
+        },
+        {
+          "type": "heading",
+          "text": "刀座做縱向進給,才能保持端面的平整,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-16(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-16 ȭỻહὉㄇⰇԇ᱿ᅞೣ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 ၌ࠦၾ̮ࢰԓۂ 135"
+        },
+        {
+          "type": "heading",
+          "text": "7-3-2 c̮ࢰ୑eၚԓۂ"
+        },
+        {
+          "type": "paragraph",
+          "text": "在粗車削條件下,單位時間內金屬的移除量多, ᣅ࣑Խ࿢ଫᄓኞŊɺ⎷⁏Ⰷӝӡӟⵣ⥑⤺ ሷᅜଫᐥ (Chip breaker) ະŊߌ 如圖 7-17(a) 所示。 ᅜଫᐥߌרᅈ⤑⥑⤺≟͐ӡଫᙟ⃻ᅜଫᐥᅈㄇᆹŊߌ⳧ञ᱿ࣱະԻ (Compression stress) ≟⡕⎊ՒࣱᅜŊ໽˫ӡଫ⋱࿉ሧɺଅᕀരŊ͵⡕ⲐⳌࣱᅜŊ 如圖 7-17(b) 所示, ͐ ࿢ଫᇝᇶŊⴍ"
+        },
+        {
+          "type": "heading",
+          "text": "҉ᱹᮝ↴ଫ᫠⩽Ŋ⋱ሷᄓဏネӡԇᄓ᪓ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-17 ȭⰇӝᅜଫᐥ⥑⤺⎞ະᮢ"
+        },
+        {
+          "type": "paragraph",
+          "text": "至於精車削, 因切削深度淺, 所以可不磨斷屑槽, 或甚至改用粗車刀, 但選擇淺切深的條件。 Ⰷӝ᱿ӟםӡⴗỒBトરҚ౹᝱Ŋʈӡԇ⤑ト⺾Ӵ̟ʃଊ⺤ȯ 決定車削的長度,可以用大手輪上的刻度環, ( 見圖 7-18(a)),或以游標卡尺的階級量測方 式 ( 見圖 7-19(a)),計算所需加工長度。 以大手輪刻度決定長度時,先使用具較大刀端角的外徑車刀,將車床正轉啟動,並使車刀 切邊微觸工件端面,記下大手輪刻度環的刻度值,再將車刀退離,旋轉並計算大手輪,直至所 需的刻度,如圖 7-18(a) 所示,再以車刀刃口對工件圓柱面,輕微切出一條細溝,當成車削長度 的記號,如圖 7-18(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-18 ȭ˫ञ༆ⱐ⤺ᾰ⿢ಙ᱿ԬBᅞೣ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "136"
+        },
+        {
+          "type": "paragraph",
+          "text": "劃線控制長度的方式,也可以使用單腳卡配合鋼尺進行劃線;或更直接且精密的方式,是 以游標卡尺張開所需長度,利用階級量測功能 ( 或深度桿 ),將車刀刃口移至與游標卡尺主尺的 前緣對齊,如圖 7-19(a) 所示,再將游標卡尺移開,啟動車床正轉,以車刀刃口在工件的圓柱面 上輕微刻劃出一條淺溝紋,如圖 7-19(b) 所示,此方式既精確又方便,是車床上劃線最常使用的 方式之一。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-19 ȭ˫ᜀᐻ֦ଙ⤺ᾰ⿢ಙ᱿ԬBᅞೣ"
+        },
+        {
+          "type": "paragraph",
+          "text": "कല⁏ⰇԇŊɺ⎷19点ଇ≙๱Խడㄇ᱿⁏⁳ಙŊ≟˫ȵӡԇᄓ᪓ȶᣅʙ⣬≙⸇ߌ₪Ŋ 尤其是 切除量很多時,為提高切削效率,更需注意到每道次車削時的切深 (Depth of cutting) 分配,例如: 由外徑為 \u0002 60mm 的胚料,欲加工至 \u0002 50.0mm 的精車面,每道次較佳的切深分配建議是 2.5mm、 2.0mm、 0.4mm 以及 0.1mm,主軸迴轉速可調整成 600rpm、 900rpm、 1200rpm。 第三道車削深度會遠小於前兩道者,目的是利用這一道些微的粗切削量,來改善前二道粗 車時所留下的粗糙表面,並且精密控制精車削的切深為 \u0002 0.1mm。 切削過程中,進給速度的控制會影響切削效率、排屑情況與表面粗糙度等,一般 ʑᷦ⻘ቨ ᅆ᱿⁏ⰇԇⳖ⃛᪓Ŋ)߱ 0.2 Ɯ 0.4mm/rev ʠ⿵ŊⰇԇ߱ 0.1 Ɯ 0.2mm/rev ʠ⿵ᣅ්ᯍŊ 超 越此範圍,切削效率及排屑效果反而降低。 無論是粗、精車削,過程中, ӴᮢⰇಉ᱿ȵ⎊ՒⳖ⃛ȶԼ⋱דᔌᷨ᱿Ⳗ⃛᪓Ŋ⋱ሷᄓဏネ ӡԇᄓ᪓ד࣑Խ࿢ଫᇝᇶඖŊʈӝңטԻỻહŊᛧଇӡӟய⡣ۊ丙ȯ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 ၌ࠦၾ̮ࢰԓۂ 137"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-20 所示,使用不同的進給率,有不同的排屑情形:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 如圖 7-20(a) 所示的進給率太慢 (0.15mm/rev),排屑速度慢,又因材料的延性效果,導致切"
+        },
+        {
+          "type": "paragraph",
+          "text": "屑纏繞,這是很危險的,纏屑容易影響加工品質,甚至傷及操作者。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 如圖 7-20(b) 所示的進給率快 (0.35mm/rev),故排屑速度也快,不易發生纏屑行為。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-20 ȭ⁏ⰇԇʠⳖ⃛᪓⎞࿢ଫ〦͸"
+        },
+        {
+          "type": "heading",
+          "text": "7-3-3 c̮ࢰၾܓڗඎ಻"
+        },
+        {
+          "type": "paragraph",
+          "text": "車床工作中,對於各種不同外徑的量測,最方便的量具莫過於游標卡尺。量測時,操作者 須站穩於工件的右側,並以右手持穩游標卡尺,利用拇指的推力,使外測爪的量測面貼住工件 的圓柱面,並稍往夾頭方向傾斜,使視線易垂直於卡尺的刻劃讀數,再觀察讀數值,如圖 7-21(a) 所示。 ⩊ᄲϊ᱿⤐ૣŊト߱ᜀᐻ֦ଙ⎞డ˴࿲⤯᱿ᨊ๗ʁⳖ⠗řॖኞ⸇ᛵരŊҪחӛᜀᐻ֦ଙ〇 ⩊໣૽ᜀଙʀ᱿ߗહ➦⃦攴ߗരҪחӛ〇⩊Ŋⵣר⋱ሳᱹᮝẼ̤⦡ద; ʈ⸇ᛵ᱿̤⇦ະѢ⸇ㄅⲖ ቏ଙⵒ̤᱿ᛵᦧⵒӠŊ˫ᛧଇいΦ⦡ద⸇Ŋ ( ⥘Řᯍ⸇ᛵ᱿̤⇦ʃ⎞⸇ңԀಙ᱿̤⇦׺Ⱗᆹ໽ᱹ ᮝ᱿⦡దŊờᣅいΦ⦡ద (Abbe error)) Ŋ 如圖 7-21(b) 圖示。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-21 ȭⰇಉʀ᱿कല⸇ᛵႽ̳"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "138"
+        },
+        {
+          "type": "heading",
+          "text": "長度或階級量測,鋼尺是很方便的量具之一,量"
+        },
+        {
+          "type": "paragraph",
+          "text": "測時,直接將鋼尺 0 刻劃的一端貼齊工件的階級面,"
+        },
+        {
+          "type": "heading",
+          "text": "並使尺背貼住工件圓柱面,即可量測出工件長度,不"
+        },
+        {
+          "type": "heading",
+          "text": "過鋼尺因讀數值太大,解析度不足,不適於一般精密"
+        },
+        {
+          "type": "paragraph",
+          "text": "的量測工作。"
+        },
+        {
+          "type": "heading",
+          "text": "游標卡尺是車床上長度量測最常用且最簡便的量"
+        },
+        {
+          "type": "paragraph",
+          "text": "具之一。如圖 7-22(a) 所示的階級量測,游標卡尺的游"
+        },
+        {
+          "type": "heading",
+          "text": "尺前端抵住工件較小直徑的端面,主尺前端抵住工件"
+        },
+        {
+          "type": "heading",
+          "text": "較大直徑的端面,並注意量測面與工件端面應完全接"
+        },
+        {
+          "type": "paragraph",
+          "text": "觸,利用此兩階段差,即可量出工件的階級長度。 對 工 件 深 度 的 量 測, 可 利 用 深 度 測 桿, 如 圖 7-22(b) 所示,量測時,以左手持穩主尺,右手四指"
+        },
+        {
+          "type": "heading",
+          "text": "一邊扶著主尺,一邊以拇指推游尺往量測的階級面移"
+        },
+        {
+          "type": "heading",
+          "text": "動,使深度測桿的尾端頂住內階級端面,即可量出正"
+        },
+        {
+          "type": "heading",
+          "text": "確的讀數值,由於測桿斷面細小,故推送的壓力不得"
+        },
+        {
+          "type": "heading",
+          "text": "過大,以防彎曲,並且游標卡尺的縱向尺身應與工件"
+        },
+        {
+          "type": "paragraph",
+          "text": "的軸向平行,以確保量測精度。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-22 ȭⰇಉʀ᱿⿢ಙᅞ׿⸇ᛵ"
+        },
+        {
+          "type": "heading",
+          "text": "7-4 Ⴉᗆ̋ʈ΁ٙʮࢨၾࠦڌ୑ᐳܓ"
+        },
+        {
+          "type": "paragraph",
+          "text": "໽⧨ȵҝద (Tolerance) ȶᆯ྆డ˴⡕⢌ⳍᆹŊಙ᱿ૌ⥓ద⸇ȯ 例如,某一工件,原外徑的設計尺寸為 \u0002 60mm,如果工件只是一支手持的握把,那麼將 \u0002 60mm 改成 \u0002 59mm 或 \u0002 61mm,也不會影響其握持的功能,所以 \u0002 60mm 可改成 \u0002 60 ± 1.0mm, 「 \u0002 60 」便是該工件直徑的基本尺寸,又稱為公稱尺寸 (Nominal size),而「± 1.0 」便是 \u0002 60mm 尺寸的公差。 如此,對工件而言,把手的外徑尺寸可從 \u0002 59.0 ∼ \u0002 61.0,都屬合格尺寸,也不會影響原設計的 功能;對於「運動機構」而言,機件需進行必要的配合與運動,以便獲致原設計者運動規劃的動作。 若為使機件運動達精確路徑與動作,機件配合更需具相當程度的精確度 (Accuracy),因此, 機件被加工除了製作出必要的形狀外,機件的「大小」亦需被精確控制,才能達正確傳遞動作 的目的。所以機件被加工時,便需要有正確且精確的公差。公差愈小,意謂容許的加工誤差的 範圍愈小,加工成本也就愈高。 隨製品品質需求的不同,加工製造所需的公差亦有所區隔,以加工的精密等級區分,大致 可分為一般加工 (Regular machining)、精密加工 (Precision machining)、高精密加工 (High-precision machining) 及超精密加工 (Ultra-precision machining) 等,為符合上述加工等級的需求,國際標 準化組織以基本尺寸 0 至 500mm 之間,將公差等級區分為 20 級,分別從 IT01、 IT0、 IT1、 IT2...... 至 IT18,而 IT(International Tolerance) 即為國際標準化組織所制定公差等級的代號,標準 公差等級之選擇整理如表 7-1。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 ၌ࠦၾ̮ࢰԓۂ 139"
+        },
+        {
+          "type": "heading",
+          "text": "▼ ⠧ 7-1 ȭᐻ᜾ҝదᾀ₤ʠⴆႹ"
+        },
+        {
+          "type": "heading",
+          "text": "ᾀ₤ネ̥ ಙネ̥ ҝదᾀ₤ᮢ Ⳃ"
+        },
+        {
+          "type": "heading",
+          "text": "最高 最高 IT01"
+        },
+        {
+          "type": "heading",
+          "text": "IT0"
+        },
+        {
+          "type": "heading",
+          "text": "IT1"
+        },
+        {
+          "type": "heading",
+          "text": "ͧ⃛ ⸇⣳͐ᮢ᱿⣳ңҝద"
+        },
+        {
+          "type": "heading",
+          "text": "IT2"
+        },
+        {
+          "type": "heading",
+          "text": "IT3"
+        },
+        {
+          "type": "heading",
+          "text": "IT4"
+        },
+        {
+          "type": "heading",
+          "text": "IT5"
+        },
+        {
+          "type": "heading",
+          "text": "IT6"
+        },
+        {
+          "type": "heading",
+          "text": "IT7"
+        },
+        {
+          "type": "heading",
+          "text": "ɺ⎷ᑨፋダ˴ⶪ׶ᮢ᱿ⶪ׶ҝద"
+        },
+        {
+          "type": "heading",
+          "text": "IT8"
+        },
+        {
+          "type": "heading",
+          "text": "IT9"
+        },
+        {
+          "type": "heading",
+          "text": "IT10"
+        },
+        {
+          "type": "heading",
+          "text": "IT11"
+        },
+        {
+          "type": "heading",
+          "text": "IT12"
+        },
+        {
+          "type": "heading",
+          "text": "IT13"
+        },
+        {
+          "type": "heading",
+          "text": "IT14"
+        },
+        {
+          "type": "heading",
+          "text": "ʃトⶪ׶᱿ҝద"
+        },
+        {
+          "type": "heading",
+          "text": "IT15"
+        },
+        {
+          "type": "heading",
+          "text": "IT16"
+        },
+        {
+          "type": "heading",
+          "text": "IT17"
+        },
+        {
+          "type": "heading",
+          "text": "最低 最低 IT18"
+        },
+        {
+          "type": "paragraph",
+          "text": "公 差 除 了 依 大 小 區 分 等 級 外, 也 依 方 向 區 分 雙 向 公 差 (Bilateral tolerance) 與單向公差 (Unilateral tolerance)。"
+        },
+        {
+          "type": "heading",
+          "text": "キ׿ҝదᆯ྆ഺࡣ቏ଙ૸׺ᆹ׿қϳԽɺ⩐⸇໣ᛧɺ⩐"
+        },
+        {
+          "type": "paragraph",
+          "text": "⸇Ŋ໽ഐໞ᱿ద⸇Ŋ 亦即設計者在主要尺寸的兩側 ( 跨越 0 線 ) 都給予公差,例如 24 ± 0.16mm 或 \u0002 60 ± 0.24mm。 キ׿ҝద⳺ᮢ ᅠઋ̤⭡サ໣ʃトⶪ׶᱿ଙ૸ࢍ׶Ŋ 如圖 7-23 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-23 ȭキ׿ҝద"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "140"
+        },
+        {
+          "type": "heading",
+          "text": "܈׿ҝదᆯ྆ഺࡣ቏ଙ૸׿׺ɺϳԽɺ⩐⸇໣ᛧɺ"
+        },
+        {
+          "type": "paragraph",
+          "text": "⩐⸇Ŋ໽ഐໞ᱿ద⸇Ŋ 亦即公差的變量只在 0 線的某一"
+        },
+        {
+          "type": "heading",
+          "text": "\u0004 0 06. \u0004 0 06."
+        },
+        {
+          "type": "paragraph",
+          "text": "側游動,不跨越 0 線,例如 48 \u0004 0 21., \u0002 48 \u0004 0 21., 如圖 7-24。"
+        },
+        {
+          "type": "heading",
+          "text": "܈׿ҝద౑ᮢ ᅠト⣬ⶪ׶᱿ଙ૸ࢍ׶ȯ 一般的配"
+        },
+        {
+          "type": "paragraph",
+          "text": "合,孔工件為正向公差,軸工件為負向公差。 ⠧ㄇ⁏⁳ಙ (Surface roughness) Ŋᆯ྆ డ˴⠧ㄇ ⃻ӡԇԽడരŊ໽ᮽʁӝᰈ᱿⁏₳ỄಙŊⳆʃ׺ᅠ⠧ㄇ҆ ಙ (Surface lightness) Ŋ⠧ㄇ҆ಙᆯ྆⸉଼⠧ㄇוૼ҆"
+        },
+        {
+          "type": "heading",
+          "text": "B᱿ᆙᇯỄಙŊ 兩者就詞意或意義而言,是完全不同"
+        },
+        {
+          "type": "paragraph",
+          "text": "的物理意義。 Ț ߧ 7-24 ȭ܈׿ҝద 零件表面如果有不良的粗糙度,將會造成一些影響,如增加零件的摩擦力和磨耗量,裝配 時,不能達最佳化的配合、降低零件的疲勞強度,有損美觀和觸覺等缺點。 以車削加工為例,影響機件表面粗糙度的因素,除了機器本身的精度外,刀鼻半徑與進給 率也是重要的影響因素。當車刀的刀鼻半徑 r ≠ 0 時,刀鼻半徑、進給率與表面粗糙度三者之間, 有一關係式。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "0.0321f"
+        },
+        {
+          "type": "heading",
+          "text": "Ra \u0005 (7-2)"
+        },
+        {
+          "type": "heading",
+          "text": "r"
+        },
+        {
+          "type": "paragraph",
+          "text": "其中: Ra = 表面粗糙度 (\u0002m), f = 進給率 (mm/rev), r = 刀鼻半徑 (mm) 由以上得知, ᓥが̥⠧ㄇ⁏⁳ಙŊ≟ଃᅠӝ㕆֚ല R ǎ 0 ᱿Ⰷӝ ( ֯ ӝ㕆֚ലሷɺଅߥೲ ᆹ߱એ ) Ŋרが̥Ⳗ⃛᪓໣࣑Խӝ㕆֚ല r ᱿ϊȯ 進給率愈快者,表示車刀留在工件面上的刀痕紋路愈大,表面粗糙度也愈粗。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 ၌ࠦၾ̮ࢰԓۂ 141"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 7-25(a) 中所示,工件左端的進給率為 0.054mm/rev,右端為 0.217mm/rev,雖然工件兩 段的光度幾近相同,但其粗糙度卻完全不同。如圖 7-25(b) 所示,以指甲摳動工件的加工面,可 感知加工刀痕有粗細程度的不同。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-25 ȭⳖ⃛᪓⎞⠧ㄇ⁏⁳ಙ〦͸"
+        },
+        {
+          "type": "paragraph",
+          "text": "對於車床工作件的表面粗糙度量測,一種較簡便的檢驗方式是「比較法」,以「表面粗糙 度標準片 (Surface roughness gauge) 」與加工完成的工件表面進行比對,可決定工件表面粗糙度的 等級,如圖 7-26 所示,也可加用放大鏡將工件表面的粗糙度放大,以協助比對,增加其正確性。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-26 ȭ˫ᕗⰱᘍ⸇ᛵడ˴⠧ㄇ᱿⁏⁳ಙ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "142"
+        },
+        {
+          "type": "heading",
+          "text": "7-5 jۂኒٙ၇ᗳၾᏐ͜"
+        },
+        {
+          "type": "paragraph",
+          "text": "為增進切削效率,切削過程中,必須加入充分的切削劑 \u0003\u0004\u0005\u0006\u0006\u0007\b \u0005\u0007,使刀具與工件均能 獲得充分的冷卻及潤滑,以提高加工效率。 切削劑可以是液體、氣體或固體,需針對材料的特性及加工的性質,來使用不同的切削劑。 切削劑加入加工區域,無論對工件、刀具或機器本身均有相當的助益。 對刀具或機器而言:它能產生冷卻作用,降低刀具溫度及刀具磨耗率,並節省動力輸出、 減少切屑堆積在刃口的機會,即減少所謂的積屑刀口 (Built-Up Edge, BUE) 現象,增加刀具壽命。 對工件而言:具有沖屑及洗淨工件效果、降低切削溫度,減少工件受熱變形的機會、並獲 致較佳的表面粗糙度。切削劑使用有其條件限制,優良的切削劑,必須具備以下特性:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 無礙於人體的健康與安全。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 不腐蝕機器、刀具及工件。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 兼顧冷卻性及潤滑性。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 不發揮性及不起泡沫。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 高溫時,不易著火燃燒,亦即有高的閃火點 (Flash point) 溫度。"
+        },
+        {
+          "type": "heading",
+          "text": "7-5-1 cjۂኒٙ၇ᗳ"
+        },
+        {
+          "type": "paragraph",
+          "text": "ߗナӡԇԵŘɺ⎷ࠀએ߱ᅠడ˴ቨᅆ቏⯿Ŋॖ風隶ቨᅆҙⵒ᱿ᵲࣘᾀŊӡԇᆹሳᮟᮝᦸᨊ ໣⁆ᨊ᱿ӡଫŊଃᅠӝңңሷᏎ̈́᱿។᝱ᄓኞŊʏרᛧଇӡԇぁԻŊ࣑Խӡԇඖ⋱ȯ 氣體切削劑:以水氣、二氧化碳或壓縮空氣為主,能使工件在切削過程中,保持乾淨,刀 具切削狀況、運動軌跡均清晰可見,所以也廣被使用。缺點是切屑容易被吹入機器微縫中,造 成保養上的困擾。 液體切削劑:是三種切削劑中,使用最方便的一種。從切削工作的觀點來看,液體切削劑"
+        },
+        {
+          "type": "heading",
+          "text": "可區分為油基與水基兩類,如下述:"
+        },
+        {
+          "type": "heading",
+          "text": "ɓeذਿjۂኒ"
+        },
+        {
+          "type": "paragraph",
+          "text": "ʙ⣬˫។᝱ᣅᲿ᱿Ŋ 使用時不需以水稀釋。常見的油基切削劑是一種添有硫磺化合物、氯 化合物、磷化合物等極壓添加劑 (Extreme pressure additive) 的有機化合物,稱為「極壓油 (Extreme pressure oil) 」。 極壓油有活性與不活性兩類,表面粗糙度要求較高的工件,適用活性類極壓油,具有保護 刀具刃口的功能, 適於精切削作業; 而低速或斷續切削或考慮刀具壽命者, 適用不活性類極壓油, 尤以重切削或難削材料的加工,可防止刀具與切屑因切削高溫而熔著在一起。 就材料觀點而言,鋼鐵材料適用活性類極壓油;非鐵金屬則適於不活性類極壓油。極壓油 亦有製成糊狀者,可用塗刷法將糊狀極壓油塗於螺絲攻上,攻絲時,切削效果極佳,且可防止 螺絲攻的磨耗與折損,對於改善表面粗糙度,亦有顯著的效果。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 ၌ࠦၾ̮ࢰԓۂ 143"
+        },
+        {
+          "type": "heading",
+          "text": "ɚe˥ਿjۂኒ"
+        },
+        {
+          "type": "paragraph",
+          "text": "ʙ⣬˫ҽִᣅᲿ᱿Ŋ 使用時需以水稀釋,視稀釋的狀態,可分為乳化類、可溶類及熔液類"
+        },
+        {
+          "type": "heading",
+          "text": "三種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 乳化類水基切削劑:此類切削劑以水稀釋後,會成為乳白色的水油狀乳化液,主要是由多"
+        },
+        {
+          "type": "paragraph",
+          "text": "量的礦油與乳化劑所構成, ఱㄇʀΈờ᱿ठמᗴŊ֯ᆯᔍㆩࠣ᱿ӡԇԵŊẽ⸃ᆹŊ˫ 10 Ɯ"
+        },
+        {
+          "type": "heading",
+          "text": "30 Φ᱿ᖛԽҘཝժר֯͐ᮢȯ"
+        },
+        {
+          "type": "heading",
+          "text": "2. 可溶類水基切削劑:此類切削劑以水稀釋後,會成為透明或半透明的膠質熔液,主要是以"
+        },
+        {
+          "type": "paragraph",
+          "text": "界面活性劑為主體。以硫或氯化合物作為極壓添加劑,所以在切削性能或其他性能上,比 乳化類切削劑優越,如潤滑、浸潤或防鏽等能力甚佳,又顏色幾乎呈透明狀,而具可透視 工作切削的優點。稀釋時,以 30 ∼ 50 倍的水加入拌勻即可。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 熔液類水基切削劑:此類切削劑以水稀釋後,會成為完全透明的水熔液,主要是由無機鹽"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 亞硝酸蘇打、鉻酸蘇打等 ) 與醇胺 (Alkylol amine) 所構成,也有加入界面活性劑者。防鏽 性及安定性能力甚佳,此類切削劑主要用於輪磨加工作業,稀釋以 50 ∼ 100 倍的水加入 拌勻即可。"
+        },
+        {
+          "type": "heading",
+          "text": "7-5-2 cjۂኒԴٙ͜ءจԫධ"
+        },
+        {
+          "type": "paragraph",
+          "text": "在車床上使用切削劑,需注意下列事項。"
+        },
+        {
+          "type": "heading",
+          "text": "1. ト˫ҽִᣅʙ᱿ԽడŊॖҙȮकല⁏ⰇԇȮ⁏ӡᐥȮ⿛ઋ໣ӡᅜᾀԽడ≛Ŋ⦲ⶪᕗ͛Ŋठ"
+        },
+        {
+          "type": "heading",
+          "text": "מᗴŘ⎊͗ᖛ =1 Ř 30 Ɯ 50 ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "2. ト˫។᝱ᣅʙ᱿ԽడŊॖ ҙȮ कല᱿ⰇԇȮ ӡᐥȮ ᐥಎ໣➦hᧃࣦ᱿๨Ⳍᄮ҆ᾀԽడ≛Ŋ"
+        },
+        {
+          "type": "paragraph",
+          "text": "⦲ⶪᕗ͛ŊठמᗴŘ⎊͗ᖛ =1 Ř 10 Ɯ 20 ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "3. 對於大切削量的加工,如粗切槽、鑽孔或切斷等,應加入充足的切削劑,以減少工件因溫"
+        },
+        {
+          "type": "paragraph",
+          "text": "差而變形的問題。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 車床底座油槽內的切削劑,需經常循環使用,以防變味或腐臭,如使用機率少,應該將切"
+        },
+        {
+          "type": "paragraph",
+          "text": "削劑漏乾,改以油壺式的加入方式來供給。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 對於腐壞的切削劑,應倒入廢油桶中,以防污染。而 ⦲ⶪᅘ᱿ӡԇԵʠԊŊѲᗴጝҙະჍ"
+        },
+        {
+          "type": "paragraph",
+          "text": "཯ʯᛍŊ଎Ңʃവએሷ˶̬ᑨᗴŊ؋ԅ૽ᤀᘍ˫ᖛ͗᝘⤟ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "6. 因切削劑含有水份,故滴在床台或床軌上的切削劑,應先微略擦淨,待收工時,再完全擦"
+        },
+        {
+          "type": "paragraph",
+          "text": "拭乾淨,並抹上一層薄油,以防鏽蝕。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 對於攻、車螺紋所使用的罐裝式極壓油應酌量使用,不可以傾倒方式加入,且其揮發性高,"
+        },
+        {
+          "type": "paragraph",
+          "text": "故不使用時,應隨時關閉瓶蓋口。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 使用極壓油加工時,如接觸到皮膚,應立即以清水洗淨,如不慎接觸到眼睛,除以清水沖"
+        },
+        {
+          "type": "paragraph",
+          "text": "洗 15 分鐘外,並應迅速就醫。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "144"
+        },
+        {
+          "type": "heading",
+          "text": "൩eҦঐ௅ɦ"
+        },
+        {
+          "type": "heading",
+          "text": "7-6 ࢰԓۂᇖ୦ ̮"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件外徑車削是車床工作最基礎的技術。參考圖 7-27,外徑車削包含工件夾持與校正、外 徑尺度與長度尺度控制、外徑尺度與長度尺度的量測,以及去角後的毛邊移除等工作。控制工 件的外徑與長度,不外採用鋼尺、游標卡尺與分厘卡等量具,再搭配車床上的操作機能與縱、 橫向進給刻度環進行控制,如下章節所述。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-27 ȭ⦀〇कലⰇԇడ̳ߧ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 7 ၌ࠦၾ̮ࢰԓۂ 145"
+        },
+        {
+          "type": "heading",
+          "text": "7-6-1 c̬˧Ѱ᎘ʘʈ΁Ѱܵၾ͍ࣧ"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件車削前,須先經夾頭的夾持與校正,確定工件被安全地夾持在夾頭上後,方可進行切 削。夾頭的夾持校正,可以分三階段,第一階段是對粗胚料進行校正,校正方式主要以「目測 校正」為主,第二階段是「劃線台校正校正」,第三階段是「量錶校正」。"
+        },
+        {
+          "type": "heading",
+          "text": "ୋɓචݬjͦ಻͍ࣧ"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作程序如下,參考圖 7-28。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 車床電源關閉,以防誤觸「正逆轉啟動把手」,"
+        },
+        {
+          "type": "paragraph",
+          "text": "並將主軸齒輪置於空檔。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 夾頭四爪旋開約比工件直徑稍大的範圍。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 將磨光的粗胚工件選取必要的懸量長度夾持,如"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 7-28(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 目視夾頭面板上的某條校正條紋,將四爪成對稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "的粗略固定工件。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 目視比較第 1、 3( 或 2、 4) 爪稜線在夾頭面板上"
+        },
+        {
+          "type": "paragraph",
+          "text": "的某條紋位置,如圖 7-28(b)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 調整第 1、 3 爪,使夾爪稜線與某條紋成對稱,並"
+        },
+        {
+          "type": "paragraph",
+          "text": "將工件旋緊。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 以同樣方式續調第 2, 4 爪。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 最後再一次以對稱方式鎖緊四爪。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 檢查各爪緊度及夾爪稜線是否與某條紋成對稱,"
+        },
+        {
+          "type": "paragraph",
+          "text": "否則應再調整。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 反複練習, 5 分鐘以內,同心度應在 0.3mm 以內"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 7-28 ȭ˫Ჿ⣶ᘍዮᔌ⁏⋙డ˴"
+        },
+        {
+          "type": "paragraph",
+          "text": "者為佳 ( 以量錶校正驗收 )。"
+        },
+        {
+          "type": "heading",
+          "text": "ୋɚචݬjྌᇞ̨͍ࣧ"
+        },
+        {
+          "type": "heading",
+          "text": "初學者在目視校正之後,須再以劃線台進一步協"
+        },
+        {
+          "type": "heading",
+          "text": "助校正,目的在使工件軸心更能接近車床中心,操作"
+        },
+        {
+          "type": "paragraph",
+          "text": "程序如下,參考圖 7-29。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 車床電源關閉,以防誤觸「正逆轉啟動把手」,"
+        },
+        {
+          "type": "paragraph",
+          "text": "並將主軸齒輪置於空檔。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 夾頭四爪旋開約比工件直徑稍大的範圍。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 將磨光的粗胚工件選取必要的懸量長度夾持。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以「目視法」校正胚料工件,至同心度約 0.5mm"
+        },
+        {
+          "type": "paragraph",
+          "text": "以內。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 置劃線台於床台上,調整劃針指向工件上表面的"
+        },
+        {
+          "type": "paragraph",
+          "text": "適當高度,如圖 7-29(a)。 Ț ߧ 7-29 ȭ˫ԬBשዮᔌ⁏⋙డ˴"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "146"
+        },
+        {
+          "type": "heading",
+          "text": "6. 手轉夾頭,觀測工件表面與劃針的間隙,先調整"
+        },
+        {
+          "type": "paragraph",
+          "text": "1、 3 爪的間隙。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 間隙值太小表示該爪需再旋緊,間隙值太大表示"
+        },
+        {
+          "type": "paragraph",
+          "text": "該爪需放鬆再稍旋緊。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 以同樣方式續調第 2、 4 爪,最後再一次以對稱方"
+        },
+        {
+          "type": "paragraph",
+          "text": "式鎖緊四爪。"
+        },
+        {
+          "type": "heading",
+          "text": "9. 檢查各爪緊度及劃針的間隙是否相同,如間隙不"
+        },
+        {
+          "type": "paragraph",
+          "text": "同,應再調整,如圖 7-29(b)。 Ț ߧ 7-29 ȭ˫ԬBשዮᔌ⁏⋙డ˴ ( ↲ )"
+        },
+        {
+          "type": "heading",
+          "text": "10. 反複練習, 5 分鐘以內,同心度應在 0.1mm 以內"
+        },
+        {
+          "type": "paragraph",
+          "text": "者為佳 ( 以量錶校正驗收 )。"
+        },
+        {
+          "type": "heading",
+          "text": "ୋɧචݬjඎ፶͍ࣧ"
+        },
+        {
+          "type": "heading",
+          "text": "對於車削過後的工件,在調頭夾持,欲加工另一"
+        },
+        {
+          "type": "heading",
+          "text": "端時,須以量錶輔助進行校正工作,操作程序如下,"
+        },
+        {
+          "type": "paragraph",
+          "text": "參考圖 7-30。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 車床電源關閉,以防誤觸「正逆轉啟動把手」,"
+        },
+        {
+          "type": "paragraph",
+          "text": "並將主軸齒輪置於空檔。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 夾頭四爪旋開約比工件直徑稍大的範圍。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 將精車件置入夾爪內, 並墊入銅片, 以保護工件表面。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 以目視法將四爪對稱鎖入,使四爪能含住工件的"
+        },
+        {
+          "type": "paragraph",
+          "text": "緊度即可。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 將量錶安置於刀塔上,量錶測桿置於 A 點,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "7-30(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 手轉夾頭,當錶針順鐘向轉至極限時,表示該工"
+        },
+        {
+          "type": "paragraph",
+          "text": "件面為最高點。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 工件最高點處,該爪需再旋緊,工件最低點處,"
+        },
+        {
+          "type": "paragraph",
+          "text": "該爪需先放鬆再稍旋緊。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 校正工件 A 點同心度約至 0.1mm,此時四爪緊度"
+        },
+        {
+          "type": "paragraph",
+          "text": "約只平常的 50%。 Ț ߧ 7-30 ȭ˫⸇二ዮᔌⰇര᱿డ˴"
+        },
+        {
+          "type": "heading",
+          "text": "9. 量錶移至工件 B 點,手轉夾頭,找出 B 處的最低點 ( 即 C 處為最高點 )。"
+        },
+        {
+          "type": "heading",
+          "text": "10. 以銅塊 ( 或鉛錫塊 ) 輕敲 C 點,使 B、 C 間的同心度落於 0.1mm 之間。"
+        },
+        {
+          "type": "heading",
+          "text": "11. 量錶移回工件 A 點,續調同心度至 0.01mm 以內,四爪緊度需稍再增加。"
+        },
+        {
+          "type": "heading",
+          "text": "12. 量錶再移至工件 B 點,重覆第 9、 10 步驟,使 B、 C 間的同心度至 0.01mm 以內。"
+        },
+        {
+          "type": "heading",
+          "text": "13. 量錶再移回工件 A 點,續調同心度至 0.01mm 以內,四爪緊度需再增加。"
+        },
+        {
+          "type": "heading",
+          "text": "14. 量錶再移至工件 B 點, 重覆第 9、 10 步驟,使 B、 C 間的同心度至 0.01mm 以內。"
+        },
+        {
+          "type": "heading",
+          "text": "15. 檢查四爪緊度與 A、 B 點間的同心度應相同,如圖 7-30(b),否則應續第 13、 14 步驟。"
+        },
+        {
+          "type": "heading",
+          "text": "16. 反複練習, 3 分鐘以內,同心度應在 0.01mm 以內者為佳 ( 以量錶校正驗收 )。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch07/p022.jpg"
+    }
+  ]
+}

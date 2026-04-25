@@ -1,0 +1,53 @@
+{
+  "bundle_id": "TEXT_MECH_DRAFTING_CH04",
+  "questions": [
+    {
+      "id": "TEXT_MECH_DRAFTING_CH04_001",
+      "subject": "機械製圖",
+      "unit": "CH4",
+      "q": "26 · 一點沿著直線作等速運動, 同時此直線也繞一定點作等角速運動, 其動點軌跡所成之平面曲線為",
+      "image_url": "",
+      "options": [
+        "圓柱螺旋線",
+        "圓柱螺旋線",
+        "阿基米德螺旋線",
+        "拋物線 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH04_002",
+      "subject": "機械製圖",
+      "unit": "CH4",
+      "q": "27 · 繞於一多邊形或圓形之緊索上之一點, 轉開時所形成之軌跡為",
+      "image_url": "",
+      "options": [
+        "拋物線",
+        "漸開線",
+        "擺線",
+        "螺旋線 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH04_003",
+      "subject": "機械製圖",
+      "unit": "CH4",
+      "q": "28 · 下列敘述何者有?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_drafting_ch04/p081_0_0_0_r.png",
+      "options": [
+        "圓周上一定點在一平面或圓弧上滾動所形成之軌跡稱為擺線",
+        "海螺外形線類屬於漸開線",
+        "將展開後的圓柱螺旋線與底線相交行程之角稱為導程角",
+        "將螺旋線繞在圓柱上, 若將其柱面展開則形成一直角三角形 。 、 實例應用題組題 98 110 94 第三章整 · 合是 ) 1 如圖示繪製圖形時, 下列敘述何者有? (A) 中心線的空白間隔約為 lmm, 兩間隔中之小線段長約為"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

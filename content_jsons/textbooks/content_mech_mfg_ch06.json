@@ -1,0 +1,1173 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH06",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH06",
+    "title": "CH6"
+  },
+  "title": "機械製造 Chapter 6 表面處理",
+  "source_pdf": "mechanical_manufacturing/CH6PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH06",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "表面處理"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "6-1 表面塗層"
+        },
+        {
+          "type": "heading",
+          "text": "6-2 表面硬化"
+        },
+        {
+          "type": "heading",
+          "text": "6-3 防鏽蝕處理"
+        },
+        {
+          "type": "heading",
+          "text": "6-4 電鍍原理與設備"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "266"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "一棟房子的強度要看結構體的設計,而美觀的部分則看其造型與外表磁磚的配色,外 觀漂亮的房子賣相總會比較好。所謂人要衣裝、佛要金裝,機械零件也不例外,適當的表 面處理可以使材料更耐腐蝕、更耐磨耗、更耐熱,且延長材料的使用壽命,改善表面的特 性、光澤美觀等,因此可以大幅提高產品的附加價值。 表面處理的目的主要有下列數項: (1) 美觀; (2) 增加銷售能力和競爭力; (3) 防止電解 分離; (4) 避免腐蝕性空氣之侵蝕; (5) 增加耐磨性。 表面處理 (Surface Treatment) 的對象非常廣泛,從傳統工業到現在的高科技工業,從 早期的金屬材料到現在的塑膠與非金屬材料。 表面處理的方法很多,有物理的、化學的、電化的和機械的種種方法,設計者可根據 不同的需要加以選用。"
+        },
+        {
+          "type": "heading",
+          "text": "6-1 表面塗層"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂表面塗層 (Surface Coating) 是指在機件表面塗佈一層或多層的保護膜,使產品具 有美觀、防鏽等功能者。"
+        },
+        {
+          "type": "heading",
+          "text": "塗層材料分成有機塗層及無機塗層兩種:"
+        },
+        {
+          "type": "heading",
+          "text": "一、有機塗層"
+        },
+        {
+          "type": "heading",
+          "text": "有機塗層包括油漆與塑膠膜:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 油漆"
+        },
+        {
+          "type": "paragraph",
+          "text": "油漆是不溶性顏料混合物懸浮於有機或水性媒質中而成。顏料成分是金屬氧化 物, 例如 TiO 2、 Pb 3 O 4、 Fe 2 O 3 等。媒質成分可能是亞麻仁油、桐油等植物油,或合 成樹脂。 油漆與土壤接觸極易受損,所以油漆不能使用於保護埋於地下的裝置。 大多數 的油漆使用在保護金屬以抵抗大氣腐蝕方面,均有很好的效果。防蝕油漆必須符合"
+        },
+        {
+          "type": "heading",
+          "text": "下列要求:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 供給一良好的水氣阻礙層。 (2) 具有腐蝕抑制性。 (3) 成本低,壽命長。 油漆與鋼料之附著力不強,為增加附著力,可先塗氧化鐵紅底漆或鉻酸鋅黃底 漆,之後再塗面漆。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 表面處理 267"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 6-1 所示之 高級木製傢俱為展現漂亮的木紋,所用之漆不含顏料,稱為亮 光漆或假漆。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-1 黑檀木傢具"
+        },
+        {
+          "type": "paragraph",
+          "text": "油漆的塗佈方式有四種:一般量不大的維修工作用塗刷;大量生產的工業產品 用浸漬;要有亮麗外表的汽車或電器用品用烤漆;面積較大或有不易塗刷之凹角處 用噴敷。 液體油漆要以圖 6-2 所示之松香 水溶劑 (Solvents) 稀釋, 此揮發性的松香水散佈在空氣中對人體有害,若改用 粉體烤 漆 (Powder Coating) 就不需使用溶劑所以沒有汙染。 靜電粉體 塗裝法之粉狀塗料經靜電噴槍讓塗料帶靜電荷附著於物件表 面,經 200 °C烘烤完成。粉體經由靜電吸附,附層非常均勻, 且未附著的粉末還可以回收使用。一次塗裝的膜厚可達 40 ~ 150 μm,可減少塗裝次數。常用於汽車、機車、自行車與電"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-2 松香水"
+        },
+        {
+          "type": "paragraph",
+          "text": "器用品之塗裝。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 塑膠膜"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了保護金屬,免受酸、鹹、腐蝕性氣體或液體侵蝕,可在金屬上粘接厚塑膠 膜或橡膠片。常見的護膜材料有合成橡膠乙基和聚乙烯塑膠。"
+        },
+        {
+          "type": "heading",
+          "text": "二、無機塗層"
+        },
+        {
+          "type": "paragraph",
+          "text": "無機塗層分為玻璃質琺瑯、水泥塗層和化學轉化塗層三種:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 玻璃質琺瑯"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 6-3 所示之彩色鍋,就是玻璃質琺瑯的代表性產品。玻璃襯裏或瓷器琺瑯 均具有適當的熱膨脹係數可熔合於金屬上。除了裝飾用途之外,玻璃質琺瑯通常亦 可保護金屬。 這種玻璃主要組成成分為鹼、硼矽酸鹽,可調製成抗強酸、強鹼之配方。 玻璃 塗層的主要缺點是容易被機械所損害,或由於熱脹、冷縮而破裂。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "268"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-3 彩色鍋"
+        },
+        {
+          "type": "heading",
+          "text": "2. 水泥塗層"
+        },
+        {
+          "type": "paragraph",
+          "text": "水泥塗層可用以保護鑄鐵或鋼製水管的內外表面,或用於水槽、油槽或化學藥 品貯存槽。水泥為弱鹼性,可以抵抗海水和礦物水的侵蝕。 此種塗層的優點是成本低廉,熱膨脹係數與鋼相近,運用或修補容易。缺點則 是容易被機械或熱震所損害,在硫酸鹽含量高的水中容易被侵蝕。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 化學轉化塗層 (Chemical Conversion Coating)"
+        },
+        {
+          "type": "paragraph",
+          "text": "化學轉化塗層是藉與金屬表面起化學反應來形成。例如熱稀焦磷酸錳或鋅鹽溶 液於乾淨的鋼表面反應,結果生成網狀多孔磷酸鹽晶體,可堅固地聯結於鋼的表面 形成保護膜。鋼在高溫氧化,或浸於含過硫酸鹽、硝酸鹽、氯酸鹽的熱濃鹼溶液中, 可獲得氧化物塗層,其主要成分為 Fe 3 O 4。磷酸鹽與 Fe 3 O 4 本身不能抵抗腐蝕,所 以要以抑制油或蠟塗覆,以獲得保護作用。"
+        },
+        {
+          "type": "heading",
+          "text": "6-2 表面硬化"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件要耐磨,硬度就要高;若要耐衝擊,韌性就要大。如果同時要求耐磨又耐衝擊, 麻煩就大了, 因為材料在獲取高韌性的同時, 硬度也會跟著降低 ( 例如淬火後的高溫回火 )。 為了同時能達到這兩種要求,通常採用表面硬化 (Surface Hardening),使零件表面保持硬 度,而心部則具有適當的柔韌性。 表面硬化可分為兩大類。一種是將目標元素 (C、 N、 B 等 ) 滲入材料的表面層,藉以 改變其化學成分,再施以適當的硬化熱處理把表面硬化起來。這種方法是屬於化學的表面 硬化法,有滲碳法、氮化法、滲硫法及滲硼法等。另一種是不改變材料的化學成分,只改 變表面層的組織的方法。此法是利用快速加熱的方式,使表面層達到沃斯田鐵狀態而心部 未達變態溫度之際,施以淬火處理,結果只有表面淬硬,而心部則否。這種方法是屬於物 理的表面硬化法,有高週波硬化、火焰硬化及電解淬火等。 表面硬化法處理後之工件表面大都呈黑色狀態,較不美觀。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 表面處理 269"
+        },
+        {
+          "type": "heading",
+          "text": "一、化學式表面硬化法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 滲碳法 (Carburizing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "將低碳鋼作成的零件 ( 通常含碳量在 0. 2 % 以下 ),在高溫以適當的方法把碳滲 入材料的表面。 俟含碳量達到預期的要求後,實施淬火,則含碳量高的表層硬化, 但心部含碳量低的部分,未達硬化條件,所以硬度低而具有柔韌性。 淬火是將鋼料加熱到適當的溫度,保持適當的時間後,令它急冷而得到高硬度 的麻田散體組織的處理方式。其加熱及冷卻的方法如下:"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 加熱"
+        },
+        {
+          "type": "paragraph",
+          "text": "將亞共析鋼加熱到 A 3 上方 30 ~ 50 °C,共析鋼及過共析鋼加熱到 A 1 上方 30 ~ 50 °C, 如圖 6-4 中所示之粉紅色區。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-4 淬火的加熱區"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "高週波硬化 P272"
+        },
+        {
+          "type": "paragraph",
+          "text": "高週波硬化是利用電磁感應原理在加熱線圈上通高週波電流,將鋼材需硬化的部位急速加熱使變為 沃斯田鐵,然後用水將該部位急冷,則只有該部位變態為麻田散鐵而硬化。"
+        },
+        {
+          "type": "heading",
+          "text": "火焰硬化 P274"
+        },
+        {
+          "type": "paragraph",
+          "text": "火焰硬化係將高溫的氧乙炔火焰吹向零件表面,將欲硬化的部位快速加熱到沃斯田體狀態,然後噴 水急冷之而得到硬化層。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "270"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 冷卻"
+        },
+        {
+          "type": "paragraph",
+          "text": "鋼料由 A 1 變態線上方沿如圖 6 - 5 中所示之 V 1 曲線急冷,變態發生在 M s 與 M f ( 通常在常溫之下,圖中未顯示 ) 之間,而得到麻田散體組織。通常碳鋼在 水中急冷,合金鋼則在空氣中或油中冷卻。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-5 淬火的冷卻方式"
+        },
+        {
+          "type": "paragraph",
+          "text": "滲碳的方法可分為: (1) 固體滲碳; (2) 液體滲碳; (3) 氣體滲碳,茲分述於後:"
+        },
+        {
+          "type": "paragraph",
+          "text": "把零件放入滲碳箱中,周圍填塞滲碳劑 ( 木炭 + 焦炭 + 碳酸鋇 ),加蓋 固體滲碳法 後在滲碳箱與蓋間加黏土密封,然後在加熱爐中加熱到 850 ~ 950 °C, 保持 4 ~ 20 小時候,取出爐外,待冷卻後將零件取出,滲碳即完成。 將鋼料浸入以氰化鈉 (NaCN) 為主成分的鹽浴中, NaCN 分解生成 C 和 液體滲碳法 N 同時滲入鋼料表面而硬化,這種滲碳方式稱為液體滲碳。 因為處理 時 C 與 N 同時滲入,又稱為滲碳氮化法,或稱為氰化法。 將鋼料放在含有 CO、 CH 4 等的滲碳性 ( 還原性 ) 氣體中,加熱到變態 氣體滲碳法 點以上時,氣體中的碳會從鋼料的表面滲入,這種滲碳方式稱為氣體 滲碳法。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 表面處理 271"
+        },
+        {
+          "type": "heading",
+          "text": "2. 氮化法 (Nitriding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "氮化法是把含有 Al 或 Cr 的合金鋼,在通有氨氣或含氮氣的爐中,長時間加熱 到 500 ~ 550 °C,利用固體擴散作用使鋼的表面形成高硬度且具有耐蝕性的氮化合 物的一種表面硬化法。 此種方法是先將鋼料淬火、回火,使具有強韌性後再施以氮 化處理而形成硬化層,因處理後不再實施淬火、回火,所以變形很小。不實施淬火、 回火,直接氮化亦可,變形更小。 氮化用鋼是含有 Al、 Cr、 Mo、 V 等元素的中碳構造用合金鋼,其含碳量一般 為 0.2 ∼ 0.5%。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 硬度可達 1,000 ~ 1,200 HV,耐磨性比滲碳層優。"
+        },
+        {
+          "type": "heading",
+          "text": "氮"
+        },
+        {
+          "type": "heading",
+          "text": "2. 表面殘留很大的壓縮應力,可增加耐疲勞性。"
+        },
+        {
+          "type": "heading",
+          "text": "化 優點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 處理溫度在變態點以下,不會發生由變態所引起的變形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "法 4. 可改良耐蝕性。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "heading",
+          "text": "1. 僅適用於特種合金鋼,不適用於普通碳鋼。"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺點 2. 費時頗長。"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        },
+        {
+          "type": "heading",
+          "text": "3. 處理費用昂貴。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 滲硫法 (Sulfurizing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "滲硫處理是利用滲硫劑將硫滲透擴散到鋼的表面層,使表面生成一層摩擦係數 很低的硫化物,藉以改善機件的耐磨性。 滲硫法適用於摩擦速度高,摩擦壓力大和 摩擦面大的機件,處理對象包括一般構造用鋼、不鏽鋼、工具鋼和鑄鐵等。 機件加工成形之後,應先淬火、回火,再經磨削以後,才做滲硫處理。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 滲硼法"
+        },
+        {
+          "type": "paragraph",
+          "text": "滲硼法是以適當的方法將滲硼劑滲透擴散到鋼的表面,而在表面層生成硼化層 的方法。 硼化層本身的硬度優於碳化、氮化及硫化層,具有優秀的耐熱性、耐蝕性 與耐磨性,所以工件不必再經淬火、回火處理,沒有因變態所引起的變形或破裂。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "272"
+        },
+        {
+          "type": "heading",
+          "text": "二、物理式表面硬化法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 高週波硬化 (Induction Hardening):感應硬化"
+        },
+        {
+          "type": "paragraph",
+          "text": "高週波硬化是先將含碳量 0. 4 ~ 0. 5 % 的鋼料,實施淬火、回火變為強韌的組 織。再利用電磁感應原理在加熱線圈上通高週波交流電,將鋼材需硬化的部位急速 加熱使變為沃斯田體,然後用水將該部位急冷,則只有該部位變態為麻田散體而硬 化。 零件尺度小者加熱速度要快,所以電流之週波數要高;尺度大者可略微降低週 波數。"
+        },
+        {
+          "type": "heading",
+          "text": "高"
+        },
+        {
+          "type": "heading",
+          "text": "1. 處理時間很短。"
+        },
+        {
+          "type": "paragraph",
+          "text": "週 2. 零件的變形量不大。"
+        },
+        {
+          "type": "heading",
+          "text": "優點"
+        },
+        {
+          "type": "paragraph",
+          "text": "波 3. 可依需要局部硬化。 硬 4. 表層氧化或脫碳的機會不高。"
+        },
+        {
+          "type": "heading",
+          "text": "化"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "1. 須按不同零件個別設計加熱線圈。"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺點 2. 僅限於本身可硬化的導磁材料。"
+        },
+        {
+          "type": "heading",
+          "text": "缺"
+        },
+        {
+          "type": "heading",
+          "text": "3. 成本高。"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 6-6 所示者為高週波熱處理機。圖 6-7 所示為高週波硬化的冷卻實例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-6 高週波熱處理機"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "表面處理"
+        },
+        {
+          "type": "heading",
+          "text": "感應子"
+        },
+        {
+          "type": "heading",
+          "text": "加熱層"
+        },
+        {
+          "type": "heading",
+          "text": "(f) 大型齒輪的 - 齒移動淬火用"
+        },
+        {
+          "type": "heading",
+          "text": "Chapter 6"
+        },
+        {
+          "type": "heading",
+          "text": "水"
+        },
+        {
+          "type": "heading",
+          "text": "感應子"
+        },
+        {
+          "type": "heading",
+          "text": "273"
+        },
+        {
+          "type": "heading",
+          "text": "水"
+        },
+        {
+          "type": "heading",
+          "text": "人層"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 連殼移動淬火用感應子"
+        },
+        {
+          "type": "heading",
+          "text": "水"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 長平面的移動淬火用"
+        },
+        {
+          "type": "heading",
+          "text": "感應子"
+        },
+        {
+          "type": "heading",
+          "text": "淬火用水"
+        },
+        {
+          "type": "heading",
+          "text": "感應子"
+        },
+        {
+          "type": "heading",
+          "text": "感應子"
+        },
+        {
+          "type": "heading",
+          "text": "水"
+        },
+        {
+          "type": "heading",
+          "text": "加熱層"
+        },
+        {
+          "type": "heading",
+          "text": "淬火層"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 内面移動淬火用感應子"
+        },
+        {
+          "type": "heading",
+          "text": "冷卻水噴孔"
+        },
+        {
+          "type": "heading",
+          "text": "感應子"
+        },
+        {
+          "type": "heading",
+          "text": "硬亻匕層"
+        },
+        {
+          "type": "heading",
+          "text": "(D) 曲柄軸用分件式感應子"
+        },
+        {
+          "type": "heading",
+          "text": "硬化層"
+        },
+        {
+          "type": "heading",
+          "text": "(g) 鋸齒用感應子"
+        },
+        {
+          "type": "heading",
+          "text": "(e) 大型齒的一齒定置"
+        },
+        {
+          "type": "heading",
+          "text": "淬火用感應子"
+        },
+        {
+          "type": "heading",
+          "text": "水"
+        },
+        {
+          "type": "heading",
+          "text": "週波電流"
+        },
+        {
+          "type": "heading",
+          "text": "絶縁雲母"
+        },
+        {
+          "type": "heading",
+          "text": "- 才 - 矽鋼鐵"
+        },
+        {
+          "type": "heading",
+          "text": "(h) 小型齒的 - 齒移動"
+        },
+        {
+          "type": "heading",
+          "text": "冫人用感應子"
+        },
+        {
+          "type": "paragraph",
+          "text": "A 圖 6-7 高週波硬化實例 ( 取材自參考書目 ( 7 ) )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "274"
+        },
+        {
+          "type": "heading",
+          "text": "2. 火焰硬化 (Flame Hardening)"
+        },
+        {
+          "type": "paragraph",
+          "text": "火焰硬化係將高溫的氧乙炔火焰吹向零件表面,將欲硬化的部位快速加熱到沃 斯田體狀態,然後噴水急冷之而得到硬化層。 此種處理須按零件的形狀設計不同的 加熱及冷卻噴嘴。 適用於火焰硬化的材料為含碳量在 0. 35 % ~ 0. 7 % 的碳鋼或低合 金鋼。 圖 6-8 所示為火焰硬化的加工例。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 6-8 火焰硬化 ( 取材自參考書目 (5))"
+        },
+        {
+          "type": "heading",
+          "text": "火"
+        },
+        {
+          "type": "heading",
+          "text": "1. 硬化深度容易控制。"
+        },
+        {
+          "type": "heading",
+          "text": "焰"
+        },
+        {
+          "type": "paragraph",
+          "text": "優點 2. 可控制需求的硬度。"
+        },
+        {
+          "type": "heading",
+          "text": "硬"
+        },
+        {
+          "type": "heading",
+          "text": "3. 對大加工面的硬化較經濟。"
+        },
+        {
+          "type": "heading",
+          "text": "化"
+        },
+        {
+          "type": "heading",
+          "text": "之"
+        },
+        {
+          "type": "paragraph",
+          "text": "優 1. 須按不同的零件設計不同的加熱及冷卻噴嘴。"
+        },
+        {
+          "type": "heading",
+          "text": "缺點"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺 2. 加熱不當易產生裂痕及變形。"
+        },
+        {
+          "type": "heading",
+          "text": "點"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 表面處理 275"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電解淬火法 (Eelectrolytic Hardening)"
+        },
+        {
+          "type": "paragraph",
+          "text": "電解淬火是把要表面硬化的零件浸入電解液中,以零件為陰極,另以適當材料 為陽極,在兩電極間通直流電實施電解。 將電流與電壓適當的控制,可使零件表面 發熱而升溫。當零件表面溫度到達淬火溫度時將電源切斷,以周圍的電解液充當冷 卻劑,使零件急冷達到表面硬化的效果。 電解淬火主要應用在小形零件或薄肉零件的表面硬化。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 雷射或電子束加熱表面硬化法"
+        },
+        {
+          "type": "paragraph",
+          "text": "以雷射或電子束產生極高的單位面積熱能,迅速達到淬火溫度, 熱能藉由金屬 本身的傳導作用迅速降溫,不須噴灑冷卻液就能得到淬火硬化組織。"
+        },
+        {
+          "type": "heading",
+          "text": "三、其他表面硬化法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 加工硬化表面硬化法"
+        },
+        {
+          "type": "paragraph",
+          "text": "以珠擊或機械滾軋的方式,使材料表面產生應變硬化。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 化學氣相沉積 (Chemical Vapor Deposition, CVD)"
+        },
+        {
+          "type": "paragraph",
+          "text": "CVD 處理是在熱平衡的過程中進行成膜的熱化學製程,通常其鍍膜的組成均 一安定,可作大面積及複雜形狀物體的鍍膜處理。 CVD 技術應用於切削刀具或模具。如圖 6-9 所示者,是在碳化物刀具上沉積氮 化鈦的加工例。將刀具放置在石墨托盤上,並在惰氣及大氣壓力下加熱到 1,000 °C 左右,然後將汽相的四氯化鈦、氫氣及氮氣導入反應室內,經化學反應在刀具表面 產生氮化鈦。若將反應氣體改為甲烷,則可被覆碳化鈦。 CVD 之沉積薄膜較厚、與工件之結合性良好、塗層材料與工件材料之搭配幾 乎不受限,且複雜形狀與孔隙都能沉積。缺點是工作溫度高且循環時間長,由加熱、 沉積到冷卻,約需 15 小時。 半導體產業可以應用 CVD 法在晶圓上沉積薄膜。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-9 CVD"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "276"
+        },
+        {
+          "type": "heading",
+          "text": "3. 物理氣相沉積 (Physical Vapor Deposition, PVD)"
+        },
+        {
+          "type": "paragraph",
+          "text": "物理氣相沉積法是利用電弧、電漿、高頻電場或等離子體等高溫熱源,將原料 加熱至高溫使之氣化,然後在基體上沉積冷卻成薄 膜。 PVD 的操作溫度比 CVD 低, 約 200 ~ 500 °C。 PVD 有真空蒸鍍、濺鍍與離子束電鍍三種,其中 真空蒸鍍與離子束電鍍要在真 空中實施。真空鍍膜的光澤比電鍍佳,導電與不導電材料均適用。光碟的金屬薄膜 就是以 PVD 法沉積而成。 利用 PVD 技術成膜於精密零件、切削工具及模具上,可以提高其使用壽命, 減緩材料的磨耗與腐蝕。 由於 PVD 披覆不使用電解液,因此不會產生腐蝕性流體、有毒氣體及金屬離 子等有害廢棄物。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 表面處理 277"
+        },
+        {
+          "type": "heading",
+          "text": "6-3 防鏽蝕處理"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬的冶煉是以人工將礦物純化。純化後的金屬在使用過程中,接觸到大氣中的氧氣、 水氣、酸、鹼等因素,會有退回化合物 ( 礦物 ) 的趨勢,稱之為腐蝕。 金屬材料中應用最 廣的就是鋼鐵,鋼鐵材料接觸大氣容易在表面生成氧化物,俗稱鐵鏽。 鋼鐵材料的防鏽方法很多,諸如:表面塗層、電鍍、浸鋅、浸錫及磷酸防蝕等。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 無電鍍 (Electroless Plating)"
+        },
+        {
+          "type": "paragraph",
+          "text": "無電鍍又稱為化學鍍或自身催化鍍,是使溶液中的金屬離子在控制的環境下予以化學 還原,而不需以電力鍍在基材上。 鍍鎳的還原劑常用次磷酸鈉鹽,鍍銅用硫酸銅,鍍金用 氯化金。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鍍層比電鍍均勻,沒有電流分佈不均的問題。"
+        },
+        {
+          "type": "paragraph",
+          "text": "無 2. 鍍層孔隙率少,耐蝕性比電鍍層好。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 複合鍍層,多元合金容易形成。"
+        },
+        {
+          "type": "heading",
+          "text": "電 優點"
+        },
+        {
+          "type": "heading",
+          "text": "4. 操作簡單。"
+        },
+        {
+          "type": "heading",
+          "text": "鍍"
+        },
+        {
+          "type": "heading",
+          "text": "5. 精密零件、管子、深孔內部可完全鍍上。"
+        },
+        {
+          "type": "heading",
+          "text": "優"
+        },
+        {
+          "type": "paragraph",
+          "text": "缺 1. 價格較貴。 點 缺點 2. 鍍層厚度受到限制。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 裝飾性光澤較不易達成,大都用於工業上。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "278"
+        },
+        {
+          "type": "heading",
+          "text": "二、 化成處理 (Conversion Coating)"
+        },
+        {
+          "type": "paragraph",
+          "text": "化成處理是使金屬表面接觸反應性液體,並產生化學或電化學反應而變成防蝕性皮膜 的處理法,又稱為化學反應塗底法。常見者有磷酸防蝕、陽極處理與染色處理三種。"
+        },
+        {
+          "type": "paragraph",
+          "text": "磷酸防蝕係將鋼料浸入腐蝕性的磷酸鹽溶液,令表面腐蝕形成磷"
+        },
+        {
+          "type": "heading",
+          "text": "磷酸防蝕"
+        },
+        {
+          "type": "paragraph",
+          "text": "酸鹽皮膜, 可作為油漆或磁漆塗裝前的基底, 以增加漆的附著力。"
+        },
+        {
+          "type": "heading",
+          "text": "(Parkerizing,派克處理 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "此覆層除了上述功用之外,還可用作冷擠加工之潤滑膜。 陽極處理係專為鋁、鈦與鎂所發展的氧化處理。 處理的方法是將 鋁、鈦與鎂等工件作為陽極,直接放入硫酸、草酸、或鉻酸溶液 陽極處理 (Anodizing) 中電解,在工件表面轉化出一層堅硬且多孔性的氧化層 ( 氧化鋁、 氧化鈦或氧化鎂 ),耐蝕性極佳,且多孔性還可讓裝飾性塗料輕 易地附著在面層上。 將鋼鐵製成的零件放入含苛性鈉、硝酸鈉或亞硝酸鈉溶液中處 著色處理 (Coloring) 理, 使零件表面生成一層很薄的黑色氧化膜, 具有極佳的耐蝕性, 稱為染黑處理,如圖 6-10 所示者為其產品例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-10 染黑處理"
+        },
+        {
+          "type": "paragraph",
+          "text": "另有一種著色處裡稱為 發藍處理 (Blueing),乃是將鋼料置於回火爐中進行 320 °C回火, 讓空氣中的氧與鋼材進行氧化而成藍色。發藍的原理和染黑一樣,也就是先氧化飽和,就 不會再氧化。 染黑的防蝕效果比發藍好,所以比較常用。 氧化膜的主要組成物是磁性氧化鐵,其表面比磷化膜美觀,但抗蝕能力較差。為了提 高氧化膜的抗蝕能力,常在染黑或發藍處理後再作磷酸鹽處理。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 表面處理 279"
+        },
+        {
+          "type": "heading",
+          "text": "三、 滲鋁防蝕 (Calorizing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "滲鋁防蝕係在高溫狀態下,使純鋁熔融而滲入鋼之表面,待凝固後造成一層氧化鋁的 保護膜, 可防止鋼於高溫時氧化。此法常用於處理各種加熱爐、煉油設備、乾燥器,以及 窯之零件等。"
+        },
+        {
+          "type": "heading",
+          "text": "四、 熱浸鍍法 (Hot Dipping)"
+        },
+        {
+          "type": "paragraph",
+          "text": "錫與鋅均可電鍍,但成本較高,處理速度較慢。採用熱浸法可改進上述缺點。所謂熱 浸法是將錫或鋅加熱熔化,再將鋼板浸入,提出後表面即附著一層,接著用滾子、攪拌器 和金屬刷子除去較厚部分即可。浸鋅、浸錫亦可稱為滲鋅、滲錫或鍍鋅、鍍錫。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 浸鋅"
+        },
+        {
+          "type": "paragraph",
+          "text": "浸鋅的鋼鐵,如圖 6 - 11 所示,大都用於保護低碳鋼,以免它受大氣的腐蝕而 生鏽。 浸鋅的處理費用低廉,且能提供良好的外觀及耐蝕性。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-11 鍍鋅鐵板"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於鋅的離子化傾向比鋼大,因此,鋅成為陽極,鋼成為陰極,陽極腐蝕而陰 極被保護不腐蝕。圖 6-12 所示者為浸鋅層與浸錫層的比較, 浸錫層破裂後,鋼料逐 漸被腐蝕,浸鋅層則仍有保護作用。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-12 浸鋅與浸錫的比較"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "280"
+        },
+        {
+          "type": "paragraph",
+          "text": "浸鋅常用來處理鋼板、管件、型鋼與如圖 6-13 所示之各種扣件。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-13 浸鋅處理之扣件"
+        },
+        {
+          "type": "heading",
+          "text": "2. 浸錫"
+        },
+        {
+          "type": "paragraph",
+          "text": "浸錫的鐵俗稱馬口鐵。鋅的鹽化物有毒性,錫的鹽化物則無毒,所以食品容器 通常都選用浸錫鐵皮。 如圖 6 - 14 所示者為馬口鐵罐。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-14 馬口鐵罐"
+        },
+        {
+          "type": "heading",
+          "text": "五、 陰極防蝕 (Cathodiz Protection)"
+        },
+        {
+          "type": "paragraph",
+          "text": "陰極防蝕又稱為犧牲陽極保護法,是將還原性較強的金屬作為保護極,與被保護金屬 相連接,還原性較強的金屬將作為陽極發生氧化反應而消耗,被保護的金屬作為陰極就可 以避免腐蝕。 鋼閘門的保護就是用一種更為活潑的金屬 ( 例如鋅 ) 連接在鋼閘門上。當發生電化學 腐蝕時,被腐蝕的就是那種比鐵更活潑的鋅,而鐵就被保護了。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 表面處理 281"
+        },
+        {
+          "type": "heading",
+          "text": "六、 金屬噴敷 (Metal Spray)"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬噴敷係將金屬加熱至熔融狀態,再以壓縮氣流噴射於金屬或非金屬表面,以增加 其耐磨耗及防止腐蝕的性質。 噴敷之前,基材必須以噴砂或粗切的方式,使其粗糙化,以 增加液滴與基材之結合力。 噴敷過程如圖 6-15 所示。金屬噴敷後材料不易扭曲變形,也不 會產生內應力。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-15 噴敷過程"
+        },
+        {
+          "type": "paragraph",
+          "text": "目前,應用於工業界的噴敷方式,基本上可分為:火焰加熱噴敷、電熱噴敷及爆炸噴 敷三種。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 火焰加熱噴敷"
+        },
+        {
+          "type": "paragraph",
+          "text": "此法是以 氧乙炔火焰燃燒所生之熱,將金屬線或金屬粉末加熱熔化,然後以壓 縮空氣將金屬液以霧狀噴出,佈敷於機件表面上。 由於火焰的溫度不高,所以此法 大都用於熔點較低之金屬,如鋼、鋁、鎳及銅等。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 電熱噴敷"
+        },
+        {
+          "type": "paragraph",
+          "text": "電熱噴敷包括金屬線電弧加熱噴敷及電漿加熱噴敷兩種。 金屬線電弧加熱噴敷法如圖 6-16(a) 所示。以兩條金屬線形成正、負電極,一 同進給至噴鎗,藉兩金屬線間產生的電弧來熔化金屬線,同時壓縮空氣流經電弧發 生處,將液態金屬噴成霧狀,射向工件。 電漿加熱噴敷法如圖 6-16(b) 所示。將惰性氣體加壓,快速通過直流電弧,而 得到高溫的電漿 ( 高於 16,000 °C )。粉末材料導入電漿流中,藉電漿之推送而噴射 至工件表面。 由於電漿的溫度很高,所以此法大都用於高熔點材料之噴敷,例如陶瓷與碳化 鎢等。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "282"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-16 電熱噴敷"
+        },
+        {
+          "type": "heading",
+          "text": "3. 爆炸噴敷"
+        },
+        {
+          "type": "paragraph",
+          "text": "爆炸噴敷如圖 6-17 所示。將定量的氧氣、乙炔,以及粉狀材料置於噴鎗中,藉 由火星塞產生之火花,使氧乙炔快速點著而爆炸,其所生之能量足以使粉狀材料熔 化並噴射至工件面上。 此法常用於陶瓷、碳化鎢、鉻及鈷之噴敷。 其被覆層質地極 堅硬、細緻、強度高且鍵結能力很強。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-17 爆炸噴敷"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 表面處理 283"
+        },
+        {
+          "type": "heading",
+          "text": "6-4 電鍍原理與設備"
+        },
+        {
+          "type": "paragraph",
+          "text": "電鍍 (Electroplating) 的裝置如圖 6 - 18 所示,將工件放入電解槽中,接陰極,欲鍍之 純金屬接陽極。通以 6 ~ 24 伏特之直流電,則電解液中之金屬離子逐漸積集在工件表面 還原形成一薄層,而電解液中所失去的金屬離子,由陽極上的材料氧化反應而補充之。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-18 電鍍示意圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "電鍍溶液一般都用欲鍍金屬的金屬鹽類配製,並由該金屬的陽極補充,例如鍍銅時以 硫酸銅為電解液。配製電鍍溶液是將金屬鹽類投入液體攪拌而溶化成一均勻液體,所溶化 的金屬鹽稱為溶質,接受溶質的液體稱為溶劑。 電鍍工廠排出的廢水和廢液,如鍍件漂洗水、廢槽液、設備冷卻水和沖洗地面水等, 其水質含有鉻、鎳與鎘等重金屬,或含氰、酸、鹼等腐蝕性化學物質,會嚴重汙染河川與 土壤,必須有完善的處理設備將這些有害物質處理乾淨之後才可以排入河川。 如圖 6-19 所示的自動化連續電鍍設備,可大幅提高生產效率。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-19 自動化連續電鍍設備"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "284"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 鍍前處理"
+        },
+        {
+          "type": "paragraph",
+          "text": "為確保電鍍之效果,電鍍前必須徹底清潔工件表面,清潔的基本方式有三: (1) 機械式 的,例如噴砂或滾磨; (2) 化學式的,例如酸性、鹼性或有機物之清洗; (3) 電化式的,以 電解法清除表面的污垢層。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 機械式"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械式的鍍前處理有噴砂、滾磨、拋光及刷光等多種。 噴砂是利用壓縮空氣高 速將砂噴向工件表面,藉砂的沖擊除去工件面的不純物。滾磨是將零件與砂粒一起 放入如圖 6-20 所示之滾筒磨光機之多角形的滾筒中,滾筒轉動時砂粒與零件不定向 的流動而在工件表面磨去薄薄的一層。拋光則是以柔軟的麻布、棉布輪,沾研光劑 磨亮工件表面。刷光的機器類似砂輪機,將圓形的鋼刷裝在輪軸上高速旋轉,工件 以手握持與鋼刷接觸而磨去表層的鏽皮。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-20 滾筒磨光機"
+        },
+        {
+          "type": "heading",
+          "text": "2. 化學式"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍍件表面的油污若未清除乾淨,將來鍍層會產生起泡脫皮等現象。要將工件表 面的油污清理乾淨,可 先用有機溶劑初步去油,進一步再以鹼液或酸液去油。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電化式"
+        },
+        {
+          "type": "paragraph",
+          "text": "電解拋光是電鍍的反向應用,將工件接陽極置於酸性電解液中,陰極則用不鏽 鋼、石墨或鉛。 通電時陽極表面流失而除去薄薄的一層。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 表面處理 285"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 純金屬之電鍍"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鍍銀"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍍銀是最古老的電鍍法,大都用於裝飾性電鍍,尤其是餐具。 銀的導電性極佳, 所以也常用在電子工業,鍍在其他金屬上當導電體用。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鍍金"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍍金是指用化學方法在銅或銀的表面通過化學鍍或電鍍的方法附著一層金。由 於金的性質穩定,可用來保護器物不被氧化,所以常被用來電鍍裝飾品。另外, 金 的導電性高、容易銲接且耐腐蝕,也可用來製作如圖 6 - 21 所示之印刷電路板。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-21 印刷電路板"
+        },
+        {
+          "type": "heading",
+          "text": "3. 鍍銅"
+        },
+        {
+          "type": "paragraph",
+          "text": "銅大都直接鍍在鋼鐵機件上,作為鎳、鉻的底層。鋼件作滲碳表面硬化時,不 須硬化之部位,亦可鍍銅加以保護。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 鍍鎳"
+        },
+        {
+          "type": "paragraph",
+          "text": "鍍鎳層的耐蝕性極佳,在空氣中不易氧化,亦不易與空氣中的硫化物起作用, 並能抵抗強鹼。鎳有很好的拋光性,所以常用作反光鏡或聚光鏡的反射面。鍍鉻之 前亦常以鍍鎳法打底。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 鍍鉻"
+        },
+        {
+          "type": "paragraph",
+          "text": "鉻的硬度大,耐磨,所以鍍鉻可以增加底層金屬的表面硬度及耐磨性。 鉻若直 接鍍在鋼鐵表面,則易引起電解作用而使底層金屬逐漸腐蝕,導致鍍層脫落。為了 增加鍍層的耐久性,通常先鍍銅,再鍍鎳,最後才鍍鉻。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "286"
+        },
+        {
+          "type": "heading",
+          "text": "6. 鍍鎘"
+        },
+        {
+          "type": "paragraph",
+          "text": "鎘有毒,是致癌的重金屬。但是對 海水鹽霧的耐蝕性絕佳,所以常被用來電鍍 飛機起落架 ( 如圖 6 - 22 所示 )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-22 飛機起落架"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 合金的電鍍"
+        },
+        {
+          "type": "paragraph",
+          "text": "合金鍍層能作熱處理,獲得較好的物理性質或機械性質,且能取代昂貴的金屬。例如 錫鎳合金可代替純金鍍層在電子方面的應用。鎳磷、鎳鈷合金的磁性薄膜應用在電腦記憶 體 ( 如圖 6-23 所示 )。鈷鎢合金可改進鉻在高溫下的硬度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-23 電腦記憶體"
+        },
+        {
+          "type": "paragraph",
+          "text": "合金鍍層較難控制,需要更高的技術和經驗。兩種金屬要同時電鍍沉積必須電位很接 近 ( 電位相差在 0.2 伏特以內 ),而且其中的金屬能單獨被沉積出來。 若兩金屬電位相差太 多,可用錯合劑使電位拉近,例如黃銅電鍍的銅和鋅電位相差甚多,加上錯合劑氰化鈉就 能使銅、鋅的電位很接近。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch06/p022.jpg"
+    }
+  ]
+}

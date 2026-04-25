@@ -1,0 +1,1629 @@
+{
+  "content_id": "CONTENT_MECH_MFG_CH01",
+  "subject": "機械製造",
+  "chapter": {
+    "code": "CH01",
+    "title": "CH1"
+  },
+  "title": "機械製造 Chapter 1 機械製造的演進",
+  "source_pdf": "mechanical_manufacturing/CH1PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MFG_CH01",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "機械製造的演進"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要"
+        },
+        {
+          "type": "heading",
+          "text": "1-1 加工機器的演進"
+        },
+        {
+          "type": "heading",
+          "text": "1-2 機械製造的過程"
+        },
+        {
+          "type": "heading",
+          "text": "1-3 切削性加工與非切削性加工"
+        },
+        {
+          "type": "heading",
+          "text": "1-4 切削工具的發展"
+        },
+        {
+          "type": "heading",
+          "text": "1-5 機械製造方法之趨勢"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "前 言"
+        },
+        {
+          "type": "paragraph",
+          "text": "製造,廣義上是指將原料轉換成產品的過程。製造業由早期的手工、機械化、半自動 化、硬體式的全自動化,直到目前軟體式的彈性自動化,製造技術的進步可謂一日千里, 大大推動了社會生產力。今天,無論是工業、農業、交通運輸業,還是電子、電機、機械、 化工及航太等各個領域,其發展的速度和所得的成就都是空前的。過去產品的品質和性能 完全依賴於操作者的個人技術,而現在已經可以做到由電腦對生產過程進行監測,並加以 分析補正的 適應控制 (Adaptive Control, AC),使得生產的產品品質好且成本低。人類在自 己的生產過程中不斷地累積經驗,並預測到未來的生產及發展方向。"
+        },
+        {
+          "type": "heading",
+          "text": "1-1 加工機器的演進"
+        },
+        {
+          "type": "paragraph",
+          "text": "依據 國際標準組織 (ISO) 對工具機所提出的定義為: 「無論製出胚料或成品,有無切 屑產生,將固體材料經由一動力源推動,以物理的、化學的或其他方法作成形加工的機 械」。 由這個定義可知,工具機所加工的固體材料包含金屬、木材、石材、塑膠及陶瓷等。 因此, 火焰切割機、 放電加工機、 電化加工機、 超音波加工機、 電子束加工機、 雷射加工機、 塑膠射出成形機、木工機械、車床、銑床、鉋床、磨床、鋸床、拉床及沖壓機等,均屬工 具機的範圍。 我國所稱之工具機定義較狹,以金屬加工為主。其加工方式除了以傳統切削或輪磨等 機製方式將工件製成所需之形狀、尺度及表面精度之外,還包括放電、雷射以及超音波等 工具機。成形方面則有鍛壓、沖壓,及其他金屬成形的工具機。如圖 1 - 1 所示之 CNC 轉 塔沖床即為一例。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "鑄造 P60"
+        },
+        {
+          "type": "heading",
+          "text": "所謂鑄造 (Casting) 是將金屬"
+        },
+        {
+          "type": "heading",
+          "text": "加熱熔解之後,澆入內具空"
+        },
+        {
+          "type": "heading",
+          "text": "穴的鑄模內,待凝固後將鑄"
+        },
+        {
+          "type": "heading",
+          "text": "模打開或加以破壞,取出鑄"
+        },
+        {
+          "type": "paragraph",
+          "text": "件的一種製造方法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-1 CNC 轉塔沖床"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 機械製造的演進 3"
+        },
+        {
+          "type": "heading",
+          "text": "1-1-1 加工機械的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "加工機械基本上可分為四大類型: ( 如圖 1-2 所示 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、 成形型 (Forming)"
+        },
+        {
+          "type": "paragraph",
+          "text": "在不增加或不移除材料的狀況下,改變材料外形的一種加工方法。例如鑄造、粉末冶 金、鍛造、擠製及沖壓等。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 分割型 (Separating)"
+        },
+        {
+          "type": "paragraph",
+          "text": "係指經由移除部分材料,而改變材料外形之加工機。例如車床、銑床、磨床及放電加 工機等。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-2 加工機械之類型"
+        },
+        {
+          "type": "heading",
+          "text": "三、 結合型 (Combining)"
+        },
+        {
+          "type": "paragraph",
+          "text": "將二個或二個以上之零件加以結合的加工機,其方法有 知識超連結 膠合、鉚接及銲接等。"
+        },
+        {
+          "type": "heading",
+          "text": "銲接 P198"
+        },
+        {
+          "type": "heading",
+          "text": "所謂銲接 (Welding),是令兩"
+        },
+        {
+          "type": "heading",
+          "text": "四、 改變物理、機械或化學性質型 (Conditioning)"
+        },
+        {
+          "type": "heading",
+          "text": "件金屬銲件之接合處接近至"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用控制加熱與冷卻,或施加外力來改變材料機械性質 分子的吸引力範圍而產生結 合作用的製程,又稱為熔接。 的加工方法,例如熱處理爐、珠擊機等。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "1-1-2 加工機器的發展過程"
+        },
+        {
+          "type": "paragraph",
+          "text": "認識加工機械的分類以後,下面我們來探討加工機械的發展過程。今日的機械,不論 其構造如何複雜,操作如何自動化,工作能力多麼強大,事實上,都是由極簡單的機械演 進而來。例如現代的數值控制車床,是由如圖 1-3(a) 所示十七世紀之木工車床所演變來的。 車床的原文為 Lathe,就是木條與板條的意思。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-3 車床"
+        },
+        {
+          "type": "heading",
+          "text": "工業革命後,應用蒸汽機及電動馬達將"
+        },
+        {
+          "type": "paragraph",
+          "text": "加工機械化。其後的發展以下列數個時期說"
+        },
+        {
+          "type": "heading",
+          "text": "明: 19 世紀初葉的車床,床台屬於細長、開"
+        },
+        {
+          "type": "heading",
+          "text": "敞之輕型結構,為手動金屬車削機械基本構"
+        },
+        {
+          "type": "paragraph",
+          "text": "造之雛形。車頭主軸上裝有不同直徑之皮帶"
+        },
+        {
+          "type": "heading",
+          "text": "塔輪變速機構,可藉以多段變速,如圖 1-3(b)"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示。動力來源則以天軸 ( 設在數台機器的"
+        },
+        {
+          "type": "heading",
+          "text": "上方,可用一主軸同時驅動數台機器 ) 集中"
+        },
+        {
+          "type": "paragraph",
+          "text": "驅動,如圖 1-4 所示。 ▲ 圖 1-4 天軸傳動示意圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "1925 年間,此時期之車床,配置有獨立驅動之電動馬達,並應用齒輪變速機構調定不 同之主軸轉速,且主軸與變速機構均裝置在封閉之箱形車頭內,具有較高之剛性,適合作 重切削或高速切削。為使縱向車削工作能反覆施行,在床台側面上裝置自動進刀機構以便 自動進刀。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 機械製造的演進 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "1950 年代以後,工具機在自動化機械方面有了革命性的變化,以 數值控制 (Numerical Control) 來生產,從小型車床到大型銑床,皆可應用數值控制設備。應用時係將各種數值 資料儲存於孔帶、卡片、磁帶或直接輸入等方式,來操作機器的運轉,包括馬達的啟動、 冷卻劑的供給與停止,甚至進給大小、轉速快慢等皆可在其控制之下。 1970 年代以後,電子工業在微電腦技術上之發展已經相當成熟且商業化。以程式控制 及微電腦控制之車床躍升為這個時期各式車床的主角。圖 1-5 所示者為 CNC 車床。接著, 如圖 1-6 所示之切削中心機誕生了,此種工具機配有刀具庫、 自動刀具交換器 (Automatic Tool Changer, ATC)、刀具長度與刀具座標設定,因此,將工件定位一次,即可完成數十 種刀具之切削操作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 1-5 CNC 車床 ▲ 圖 1-6 切削中心機 近年來更進一步將工具機複合化,以提升加工效率並精簡加工設備,例如 CNC 車銑 複合機、 CNC 銑磨複合機、 CNC 車磨複合機等。圖 1-7 所示者為 CNC 車銑複合機。 由於生產自動化是工業生產者所企盼的,但每一生產過程,因產品種類和數量的不同 而有不同層次的生產系統和自動化。 為了求得有效的生產少量多樣的產品,而有 彈性製造 系統 (Flexible Manufacturing System, FMS) 的誕生。所謂彈性製造系統是由可自動加 工的 CNC 工具機群、工件自動裝卸機具、自行檢驗零件尺度的感測器與自動倉儲搬運等 所組成,使工業生產達到無人化的境界。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-7 CNC 車銑複合機"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "1-2 機械製造的過程"
+        },
+        {
+          "type": "paragraph",
+          "text": "所謂 機械製造 (Manufacturing) 乃是依加工需求,利用各種機器設備和工具,將金屬或 非金屬材料,加工為成品的過程。 在製造程度的分類上, 機械製造是屬於第二級產業。依照產業的分類方式,第一級產 業泛指一切從事原材料開採的行業,例如農業、漁業與採礦煉鋼業,又稱初級產業。第二 級產業乃是將第一級產業生產出來的原料,或是第二級產業生產的半製成品等進行加工, 包括印刷業、建築業與製造業,又稱次級產業。而第三級產業為不生產物資產品,而透過 行為提供生產力並獲得報酬的服務業,例如貿易、大眾客運、飯店餐飲、倉儲物流、金融 保險、會議展覽、房地產仲介、醫療、教育、法律⋯等。"
+        },
+        {
+          "type": "heading",
+          "text": "1-2-1 機械製造的步驟"
+        },
+        {
+          "type": "paragraph",
+          "text": "設計工程師先依據產品的特性、功能設計出適當的工作圖,再交給製造工程師,依零 件的特質選用適當的加工機器與加工程序,以最低的成本製造出合乎品質要求的產品。產 品之生產流程如圖 1-8 所示。但有些產業已適用電腦科技,採同步工程方式,將製造與設 計作更有效之連結,減少浪費以提高生產效率。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-8 產品之生產流程"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了達到以最低成本產製最適當的產品之要求,機械從業者就必須對各種加工法之特 色與限制有充分的了解,才能夠針對不同的加工需求,決定最適宜的加工方式。"
+        },
+        {
+          "type": "heading",
+          "text": "機械製造依產品數量的大小,可分為三類:"
+        },
+        {
+          "type": "heading",
+          "text": "一、 大量生產 (Mass Production)"
+        },
+        {
+          "type": "paragraph",
+          "text": "在大量生產時,產品在市場上的銷售量大都已經確定,其生產率與個別訂單的多少無 關。為了保持競爭優勢,產品的單價必須絕對的低。 大量生產所使用的生產設備,包括生 產單一產品的自動聯製機械、專用加工機,與部分自動或完全自動的裝配線。其產品例如 銷、螺栓、螺帽、墊圈、軸承⋯⋯等規格化標準零件。大量生產之年產量通常超過 100,000 件。如圖 1-9 所示之扣件 ( 連接機件的統稱 ) 均以大量生產的模式製造。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 機械製造的演進 7"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-9 各種規格化零件"
+        },
+        {
+          "type": "heading",
+          "text": "二、 中量生產 (Moderate Production)"
+        },
+        {
+          "type": "paragraph",
+          "text": "在中量生產時,零件的生產數量是變動的。其產出量較受個別銷貨訂單的影響。生產 批次可能一年只生產一次,或定期生產。 中量生產所選用的加工機械以彈性製造機為主。 產品例子包括機械人、車床、銑床⋯⋯等。中量生產之年產量通常在 2,500 ∼ 100,000 件 之間。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 小批量生產 (Job Lot Production)"
+        },
+        {
+          "type": "paragraph",
+          "text": "小批量生產又稱為零星生產,最具有彈性,其產量與客戶的訂單關係最密切,大都是 在接到訂單後,才開始生產製造。 零星生產的加工設備通常是具有多用途、富彈性的泛用 機械,對從業者的技術要求也相對提高。 機器的損壞部分若非標準零件,須個別或少量訂 製者,其製造方式就屬於零星生產。每批產量約 10 ∼ 500 件。 上列三種生產方式的種類與數量的相對關係如圖 1-10 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-10 三種生產方式的相對關係"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "1-2-2 機械製造的程序"
+        },
+        {
+          "type": "paragraph",
+          "text": "將材料加工製成零件,再裝配成製品之一連串過程稱為製造工程。不同的製品有不同 之製造過程,如圖 1-11 所示為一切割機之製造程序。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-11 切割機之製造程序"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 機械製造的演進 9"
+        },
+        {
+          "type": "heading",
+          "text": "1-2-3 機械製造系統"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械製造的系統如圖 1-12 所示,分為輸入、處理、輸出及回饋四部分。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-12 機械製造系統"
+        },
+        {
+          "type": "heading",
+          "text": "一、 輸入 (Input)"
+        },
+        {
+          "type": "paragraph",
+          "text": "輸入包括顧客需求、人力、材料 ( 原料 )、教育、能源及投資等。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 處理 (Process)"
+        },
+        {
+          "type": "paragraph",
+          "text": "處理為機械製造的第二步工作,包括完成該產品的所有步驟,如設計、生產及管理等。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 輸出 (Output)"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械製造的輸出部分為產品和廢棄物。產品依其使用之性質可分為消耗品及資本財兩 種。消耗品為消耗性物質,如機油、紙、筆及手套等。資本財為非消耗性之生財工具,如 工具機、機器人等設備。"
+        },
+        {
+          "type": "heading",
+          "text": "四、 回饋 (Feedback)"
+        },
+        {
+          "type": "paragraph",
+          "text": "將客戶的抱怨、品管及改善之資訊再送回系統檢討。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "1-2-4 機械製造的要求"
+        },
+        {
+          "type": "heading",
+          "text": "機械製造必須符合一些要求與趨勢:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 產品必須完全符合設計要求、產品規格與標準。材料在符合設計要求下,機械性質、"
+        },
+        {
+          "type": "paragraph",
+          "text": "外形、成本及加工性質之間須得到最佳折衷。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 製造精度必須適合產品所需,過度設計與精度不足都不適當。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 產品必須以最低成本且最環保的方式製造。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 品質從設計到組裝全程控制,而不是僅依賴產品完成後的品質測試。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 製造業組織必須善用其擁有的資源,不斷努力以達成更高的生產力。"
+        },
+        {
+          "type": "heading",
+          "text": "1-2-5 機械製造成本"
+        },
+        {
+          "type": "paragraph",
+          "text": "選擇機械製造的方法必須考慮到成本問題,低的製造成本才可以製造出具有高度競爭 力的產品。"
+        },
+        {
+          "type": "heading",
+          "text": "機械製造成本包括製造成本、銷售成本與管理成本:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 材料費"
+        },
+        {
+          "type": "heading",
+          "text": "製造成本 2. 人工費"
+        },
+        {
+          "type": "heading",
+          "text": "3. 製造費: 折舊費、 水電費、 維護費、 刀具費、 保險費、 廠房租金......等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "指銷售產品或售後服務所發生的成本,包括推銷費、廣告費、運輸費及"
+        },
+        {
+          "type": "heading",
+          "text": "銷售成本"
+        },
+        {
+          "type": "paragraph",
+          "text": "倉儲費等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "在經營管理部門或人員所發生之費用,包括董事長、總經理及各級幹部"
+        },
+        {
+          "type": "heading",
+          "text": "管理成本"
+        },
+        {
+          "type": "paragraph",
+          "text": "與員工之薪資,交通費、房租及利息等。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 機械製造的演進 11"
+        },
+        {
+          "type": "heading",
+          "text": "1-3 切削性加工與非切削性加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬零件可利用切削性或非切削性加工的方法來成形。一般而言,非切削性加工中的 無屑加工法用於初步成形,而切削性加工可進一步提升產品尺度精度,並完成非切削性加 工無法成形之部分。其分類如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 傳統式切削性加工"
+        },
+        {
+          "type": "heading",
+          "text": "切削性加工"
+        },
+        {
+          "type": "heading",
+          "text": "2. 非傳統式切削性加工"
+        },
+        {
+          "type": "heading",
+          "text": "1. 改變材料形狀的加工法 ( 無屑加工 )"
+        },
+        {
+          "type": "heading",
+          "text": "2. 表面層加工法"
+        },
+        {
+          "type": "heading",
+          "text": "非切削性加工"
+        },
+        {
+          "type": "heading",
+          "text": "3. 材料連結加工法"
+        },
+        {
+          "type": "heading",
+          "text": "4. 改變機械性質的加工法"
+        },
+        {
+          "type": "heading",
+          "text": "1-3-1 切削性加工法"
+        },
+        {
+          "type": "paragraph",
+          "text": "將材料與成品間多餘的部分,以切除的方式達到成形的目的,故又稱為有屑加工,其 製品精度大都比無屑加工高。可分為傳統式及非傳統式兩種。圖 1-13 為部分傳統式機器的 加工例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-13 傳統式切削性加工"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "一、傳統式切削性加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳統式切削性加工是以硬質刀具切除軟質工件多餘部分,而製造出製品的加工法。常"
+        },
+        {
+          "type": "heading",
+          "text": "見之傳統式切削加工有:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 車削 (Turning)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 銑削 (Milling)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 磨削 (Grinding)"
+        },
+        {
+          "type": "heading",
+          "text": "4. 牛頭鉋削 (Shaping)"
+        },
+        {
+          "type": "heading",
+          "text": "5. 龍門鉋削 (Planing)"
+        },
+        {
+          "type": "heading",
+          "text": "6. 搪孔 (Boring)"
+        },
+        {
+          "type": "heading",
+          "text": "7. 拉削 (Broaching)"
+        },
+        {
+          "type": "heading",
+          "text": "8. 鉸孔 (Reaming)"
+        },
+        {
+          "type": "heading",
+          "text": "9. 滾齒切削 (Hobbing)"
+        },
+        {
+          "type": "heading",
+          "text": "10. 切槽 (Routing)"
+        },
+        {
+          "type": "heading",
+          "text": "11. 鋸切 (Sawing)"
+        },
+        {
+          "type": "heading",
+          "text": "12. 鑽孔 (Drilling)"
+        },
+        {
+          "type": "heading",
+          "text": "二、非傳統式切削性加工"
+        },
+        {
+          "type": "paragraph",
+          "text": "大部分的非傳統式切削所用的工具大都比工件軟,另外藉電氣、化學腐蝕、電化及機 械能量的作用,達成切削的目的。 其加工速度除少數幾種 ( 例如電化加工 ) 外,普遍上要 比傳統式切削加工慢。常見之非傳統式切削加工有:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 放電加工 (Electrical Discharge Machining, EDM)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 雷射加工 (Laser Beam Machining, LBM)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電子束加工 (Electron Beam Machining, EBM)"
+        },
+        {
+          "type": "heading",
+          "text": "4. 磨料噴射加工 (Abrasive Jet Machining, AJM)"
+        },
+        {
+          "type": "heading",
+          "text": "5. 水噴射加工 (Water Jet Machining, WJM)"
+        },
+        {
+          "type": "heading",
+          "text": "6. 超音波切削 (Ultrasonic Machining, USM)"
+        },
+        {
+          "type": "heading",
+          "text": "7. 電化加工 (Electro-chemical Machining, ECM)"
+        },
+        {
+          "type": "heading",
+          "text": "8. 電化研磨 (Electro-chemical Grinding, ECG)"
+        },
+        {
+          "type": "heading",
+          "text": "9. 化學銑切 (Chemical Milling, CHM)"
+        },
+        {
+          "type": "heading",
+          "text": "10. 化學切胚 (Chemical Blanking, CHB)"
+        },
+        {
+          "type": "heading",
+          "text": "11. 化學雕刻 (Chemical Engraving, CHE)"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 1-14 所示者為部分非傳統式切削的加工例。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 械製造的演進"
+        },
+        {
+          "type": "heading",
+          "text": "反射鏡"
+        },
+        {
+          "type": "heading",
+          "text": "C02 雷射"
+        },
+        {
+          "type": "heading",
+          "text": "電容十"
+        },
+        {
+          "type": "heading",
+          "text": "電極工具"
+        },
+        {
+          "type": "heading",
+          "text": "聚光鏡"
+        },
+        {
+          "type": "heading",
+          "text": "介電液"
+        },
+        {
+          "type": "heading",
+          "text": "輔助氣骨豆"
+        },
+        {
+          "type": "heading",
+          "text": "02"
+        },
+        {
+          "type": "heading",
+          "text": "工件"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 放電加工"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 雷射加工"
+        },
+        {
+          "type": "heading",
+          "text": "陰極進刀用移動臂"
+        },
+        {
+          "type": "heading",
+          "text": "電解液"
+        },
+        {
+          "type": "heading",
+          "text": "供給管"
+        },
+        {
+          "type": "heading",
+          "text": "d-c 電流 ( 負電 )"
+        },
+        {
+          "type": "heading",
+          "text": "超音波振動"
+        },
+        {
+          "type": "heading",
+          "text": "壓力"
+        },
+        {
+          "type": "heading",
+          "text": "成形工具 ( 陰極 )"
+        },
+        {
+          "type": "heading",
+          "text": "研磨顆粒"
+        },
+        {
+          "type": "heading",
+          "text": "電解液"
+        },
+        {
+          "type": "heading",
+          "text": "動力供給"
+        },
+        {
+          "type": "heading",
+          "text": "工件 ( 陽極 )"
+        },
+        {
+          "type": "heading",
+          "text": "工件"
+        },
+        {
+          "type": "heading",
+          "text": "d-c 電流 ( 正電 )"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 超音波加工"
+        },
+        {
+          "type": "heading",
+          "text": "(D) 電化加工"
+        },
+        {
+          "type": "heading",
+          "text": "攪拌器"
+        },
+        {
+          "type": "heading",
+          "text": "槽"
+        },
+        {
+          "type": "heading",
+          "text": "遮罩劑"
+        },
+        {
+          "type": "heading",
+          "text": "工件"
+        },
+        {
+          "type": "heading",
+          "text": "加熱"
+        },
+        {
+          "type": "heading",
+          "text": "化學試劑"
+        },
+        {
+          "type": "heading",
+          "text": "冷卻線圏"
+        },
+        {
+          "type": "heading",
+          "text": "(e) 化學銑切"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 1-14 非傳統式切削之加工例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "1-3-2 非切削性加工法"
+        },
+        {
+          "type": "heading",
+          "text": "一、改變材料形狀的加工法 ( 無屑加工 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "以加溫或加壓的手段,迫使材料產生液態流動、塑性流動或粉態流動而達到成形的目 的,大都用於初步成形。 常見之無屑加工有:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 鑄造 (Casting)"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 普通砂模鑄造"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 特殊鑄造"
+        },
+        {
+          "type": "heading",
+          "text": "2. 塑性加工 (Plastic Working)"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 鍛造 (Forging)"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 滾軋 (Rolling)"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 擠製 (Extrusion)"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 壓擠 (Squeezing)"
+        },
+        {
+          "type": "heading",
+          "text": "(5) 抽製 (Drawing)"
+        },
+        {
+          "type": "heading",
+          "text": "(6) 型鍛 (Swaging)"
+        },
+        {
+          "type": "heading",
+          "text": "(7) 旋壓 (Spinning)"
+        },
+        {
+          "type": "heading",
+          "text": "(8) 穿孔 (Piercing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(9) 伸拉造形 (Stretch Forming)"
+        },
+        {
+          "type": "heading",
+          "text": "(10) 剪切 (Shearing)"
+        },
+        {
+          "type": "heading",
+          "text": "(11) 彎曲 (Bending)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 電積成形 (Electro Forming)"
+        },
+        {
+          "type": "heading",
+          "text": "4. 粉末冶金 (Powder Metallurgy)"
+        },
+        {
+          "type": "heading",
+          "text": "5. 塑膠模壓 (Plastic Molding)"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 1-15 為部分無屑加工之例子。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "滾軋 P146"
+        },
+        {
+          "type": "paragraph",
+          "text": "滾軋是將金屬材料置於上下兩個反向轉動的滾輪之間,以連續塑性變形的方式通過,達到軋薄或改 變斷面形狀目的的加工法。"
+        },
+        {
+          "type": "heading",
+          "text": "旋壓 P155"
+        },
+        {
+          "type": "paragraph",
+          "text": "旋壓係以圓盤金屬為原料,在高速旋轉的模子上,用壓力使其隨模子的形狀而造形。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1"
+        },
+        {
+          "type": "heading",
+          "text": "械製造的演進"
+        },
+        {
+          "type": "heading",
+          "text": "沖頭"
+        },
+        {
+          "type": "heading",
+          "text": "工件"
+        },
+        {
+          "type": "heading",
+          "text": "滾子"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 滾軋"
+        },
+        {
+          "type": "heading",
+          "text": "旋轉模"
+        },
+        {
+          "type": "heading",
+          "text": "車床頭座"
+        },
+        {
+          "type": "heading",
+          "text": "鈍頭工具"
+        },
+        {
+          "type": "heading",
+          "text": "(D) 旋壓"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 鍛造"
+        },
+        {
+          "type": "heading",
+          "text": "導引突縁"
+        },
+        {
+          "type": "heading",
+          "text": "工件"
+        },
+        {
+          "type": "heading",
+          "text": "車床尾座"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 抽製"
+        },
+        {
+          "type": "heading",
+          "text": "沖頭"
+        },
+        {
+          "type": "heading",
+          "text": "沖模"
+        },
+        {
+          "type": "heading",
+          "text": "(e) 彎曲"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖仁 15"
+        },
+        {
+          "type": "heading",
+          "text": "無屑加工之加工例"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "二、表面層加工法"
+        },
+        {
+          "type": "paragraph",
+          "text": "以無屑加工或切削性加工所得之產品,表面未盡理想時,可進一步表面精製,以改善 產品的表面粗糙度、提高工件精度、增進防蝕效果、增加美觀效果並提高產品的價值。 表 面加工大都用於產品的最後加工。"
+        },
+        {
+          "type": "heading",
+          "text": "表面層加工常見者有:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 電鍍 (Electroplating)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 拋光 (Polishing)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 擦光 (Buffing)"
+        },
+        {
+          "type": "heading",
+          "text": "4. 滾筒磨光 (Barrel Tumbling)"
+        },
+        {
+          "type": "heading",
+          "text": "5. 搪磨 (Honing)"
+        },
+        {
+          "type": "heading",
+          "text": "6. 研磨 (Lapping)"
+        },
+        {
+          "type": "heading",
+          "text": "7. 超級精磨 (Super Finishing)"
+        },
+        {
+          "type": "heading",
+          "text": "8. 陽極處理 (Anodizing)"
+        },
+        {
+          "type": "heading",
+          "text": "9. 磷酸防蝕 (Parkerizing)"
+        },
+        {
+          "type": "heading",
+          "text": "10. 無機物塗層 (Inorganic Coating)"
+        },
+        {
+          "type": "heading",
+          "text": "三、材料連結加工法"
+        },
+        {
+          "type": "heading",
+          "text": "機械係由多件機件組合而成,其結合的方法有:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 銲接 (Welding)"
+        },
+        {
+          "type": "heading",
+          "text": "2. 鉚接 (Riveting)"
+        },
+        {
+          "type": "heading",
+          "text": "3. 螺紋接合 (Screw Fastening)"
+        },
+        {
+          "type": "heading",
+          "text": "4. 黏著接合 (Adhesive Joining)"
+        },
+        {
+          "type": "heading",
+          "text": "四、改變機械性質的加工法"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬材料以不同的加熱、冷卻操作,而獲致不同的組織,或利用加壓的方式,來 改變其機械性質。例如: 熱處理 (Heat Treatment)、 熱作 (Hot Working)、 冷作 (Cold Working) 及 珠擊 (Shot Peening) 等。 熱作與冷作的主要目的為改變金屬形狀,但對其物理性質、機械性質與結構,亦起相 當程度的影響。"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "陽極處理 P278"
+        },
+        {
+          "type": "paragraph",
+          "text": "陽極處理係將鋁工件作為陽極,直接放入硫酸、草酸、或鉻酸溶液中 電解,在工件表面轉化出一層堅硬且多孔性的氧化層保護膜的加工法。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 機械製造的演進 17"
+        },
+        {
+          "type": "heading",
+          "text": "1-4 切削工具的發展"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削工具為了適應各種不同條件的切削加工,必須具有韌性、耐磨性,以及紅熱硬度 等。 以便在間歇式切削時,能抵抗衝擊;在高速切削時,能抵抗磨損與耐高溫軟化。一般 的刀具材料很難兼具上列之特性,例如高速鋼的韌性好,但是與其他非鐵類切削刀具相比, 其硬度較低;陶瓷的硬度高,但缺乏韌性。因此,必須依工作的特性,選用適當性質的切 削刀具。 切削工具隨著高速切削的需求而趨向高強度,高硬度與耐高溫之方向發展。"
+        },
+        {
+          "type": "heading",
+          "text": "一、 高碳鋼 (High Carbon Steel, HCS)"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削用的 HCS 為含碳量 0.8 ∼ 1.2% 的碳鋼,可施以淬火處理使其硬化。此種刀具超 過 200 °C時會軟化,缺乏韌性及紅熱硬度,不適用於工作母機的切削工作。通常用於製造 不要求耐高溫的手工具,如:銼刀 ( 如圖 1-16 所示 )、刮刀、衝子、鋸片及鏨子等。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-16 銼刀"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "18"
+        },
+        {
+          "type": "heading",
+          "text": "二、 高速鋼 (High Speed Steel, HSS)"
+        },
+        {
+          "type": "paragraph",
+          "text": "HSS 為 W-Cr-V-Fe 之多元合金, CNS 之規範為 SKH,依需要還可加入 Mo 及 Co 等。 此類合金的韌性最好,常用於間歇式切削及成形切削。 HSS 具有紅熱硬度,在 600 °C的紅 熱狀態,仍能保持其原有的硬度及銳利的刀鋒。 目前常用的 HSS 有下列二種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 鎢系 (T 系 ) 高速鋼"
+        },
+        {
+          "type": "paragraph",
+          "text": "此系高速鋼耐熱性好,常用於車削加工。例如 18 - 4 - 1 型高速鋼即屬此類,其成分為鋼 基材料中含有 18 % 之鎢、 4 % 之鉻,以及 1 % 之釩。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 鉬系 (M 系 ) 高速鋼"
+        },
+        {
+          "type": "paragraph",
+          "text": "此系高速鋼的韌性特別好,適用於鑽頭及鉸刀之製作。例如 6 - 6 - 4 - 2 型高速鋼即屬此 類,其成分為鋼基材料中含有 6 % 之鎢、 6 % 之鉬、 4 % 之鉻及 2 % 之釩。 在 T 系或 M 系高速鋼中加入 5 ~ 10 % 鈷元素,以增加刀具的耐高溫性及硬度者稱為 含鈷高速鋼或超高速鋼。如圖 1 - 17 所示者為高速鋼鑽頭。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-17 高速鋼鑽頭"
+        },
+        {
+          "type": "heading",
+          "text": "三、 非鐵鑄合金 (Nonferrous Cast Alloy)"
+        },
+        {
+          "type": "paragraph",
+          "text": "此種合金又名超硬鑄合金,其主要成分為鈷、鉻及鎢,以鑄造方式成形。其紅熱硬度、 耐磨性,以及耐震性皆介於高速鋼與碳化鎢之間。非鐵鑄合金可耐 820 °C之高溫,切削速 度可達高速鋼的 1.5 倍。此種刀具目前已完全被碳化物取代。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 機械製造的演進 19"
+        },
+        {
+          "type": "heading",
+          "text": "四、 碳化物 (Carbide)"
+        },
+        {
+          "type": "paragraph",
+          "text": "將碳化鎢 (WC)、碳化鉭 (TaC)、以及碳化鈦 (TiC) 等,加入鈷當結合劑,利用粉末冶 金的方式製成刀尖塊。 此類刀具有良好的性質,壽命長,但成本較高。為了節省成本,沒 有必要做成長條狀。通常將此刀尖塊以銅銲或螺絲固定等方式固定在高碳鋼刀柄上,如圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 註 1 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "1-18 所示。 此類刀具的耐熱度可達 1, 100 °C,硬度值為 88 ~ 92 HRA,切削速度約為 高速鋼的 3 ~ 4 倍。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-18 碳化物車刀"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 1-16(a) 所示之 銲刃式碳化物刀具必須磨出適當的刀角才可使用。磨削碳化物刀具 要用到三種不同材質的磨輪: 粗磨選用綠色碳化矽 (GC) 磨輪,精磨選用鑽石 (D) 磨輪, 刀柄部分則選用氧化鋁 (A) 磨輪。如圖 1-16(b) 所示之 捨棄式刀片已用粉末冶金法壓製出適 當的刀角,可以直接裝在特製的刀把上使用。當刀口磨損至不堪使用時,可鬆開固定螺絲, 調換另一個新的刀口繼續切削,直到所有刀口都鈍化了,再取下丟棄,更換新刀片。此種 設計可節省修磨刀具的時間,所以比前者更廣用。"
+        },
+        {
+          "type": "heading",
+          "text": "常見的碳化物刀具可分成三類,如表 1-1 所示:"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 1-1 碳化物刀具的分類 ( 一 )"
+        },
+        {
+          "type": "heading",
+          "text": "項目 刀柄顏色 說明"
+        },
+        {
+          "type": "paragraph",
+          "text": "P 類 藍色 適用於碳鋼及鑄鋼的切削。 K 類 紅色 適用於灰鑄鐵、石頭及非鐵金屬的切削。"
+        },
+        {
+          "type": "heading",
+          "text": "適用於切削不鏽鋼、高強度鑄鐵及合金鋼等抗拉強度大"
+        },
+        {
+          "type": "heading",
+          "text": "M 類 黃色"
+        },
+        {
+          "type": "paragraph",
+          "text": "而難切削的材料。"
+        },
+        {
+          "type": "paragraph",
+          "text": "之耐熱度為 1,000 ~ 1,100 °C。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "paragraph",
+          "text": "每類碳化物刀具又有許多編號,例如 P01 ∼ P50。 編號大者韌性大,用於慢速重切削; 編號小者硬度高,用於高速輕切削。如表 1-2 所示。 另有 刀把塗成綠色的 N 類刀具用於切削非鐵金屬;塗成棕色的 S 類刀具用於切削超合 金及鈦合金;塗成灰色的 H 類刀具用於切削硬材料。 碳化物刀具編號依刀柄型態、刀柄尺度、材質種類、材質編號之次序標註,例如“ 33 - 2 - P10 ”,表示刀柄型態為 33、刀柄尺度為 2、材質種類為 P、材質編號為 10。 碳化物刀具為了降低摩擦係數與增加抗磨耗性,常以物理氣相沉積法 (PVD) 或化學氣 相沉積法 (CVD) 做鍍層處理。鍍層一般約 6 ∼ 8 μ m 厚,鍍層刀具結合碳化物刀具的高韌 性與鍍層的高硬度,以提高刀具的使用壽命。常見的鍍層有 白色的氧化鋁、 金黃色的氮化 鈦、銀灰色的碳化鈦,與紅褐色的氰化鈦 (TiCN)。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 1-2 碳化物刀具的分類 ( 二 )"
+        },
+        {
+          "type": "heading",
+          "text": "國際規格 硬度"
+        },
+        {
+          "type": "heading",
+          "text": "使用類別 切削材料 適用條件"
+        },
+        {
+          "type": "heading",
+          "text": "ISO 比率"
+        },
+        {
+          "type": "heading",
+          "text": "P01.2"
+        },
+        {
+          "type": "heading",
+          "text": "硬度 高碳鋼、低強度合金鋼 高速切削及精密切削"
+        },
+        {
+          "type": "heading",
+          "text": "P01.4"
+        },
+        {
+          "type": "heading",
+          "text": "P10"
+        },
+        {
+          "type": "heading",
+          "text": "耐磨性 中速切削及細切削"
+        },
+        {
+          "type": "heading",
+          "text": "P15"
+        },
+        {
+          "type": "heading",
+          "text": "中碳鋼、鑄鋼"
+        },
+        {
+          "type": "heading",
+          "text": "鋼、鋼類切削 P20"
+        },
+        {
+          "type": "heading",
+          "text": "韌性 低速切削及重切削"
+        },
+        {
+          "type": "heading",
+          "text": "P25"
+        },
+        {
+          "type": "heading",
+          "text": "P30"
+        },
+        {
+          "type": "heading",
+          "text": "P40 普通鐵、鑄鋼 適用震動大情況"
+        },
+        {
+          "type": "heading",
+          "text": "P50"
+        },
+        {
+          "type": "heading",
+          "text": "M10 硬度 高強度鋼、不鏽鋼 高速及精密切削"
+        },
+        {
+          "type": "heading",
+          "text": "M15"
+        },
+        {
+          "type": "paragraph",
+          "text": "中間切削材料 耐磨性 高強度合金鋼、高強度鑄鐵 粗及細切削"
+        },
+        {
+          "type": "heading",
+          "text": "M20"
+        },
+        {
+          "type": "heading",
+          "text": "M40 韌性 低強度鋼 一般切削、鉋床切削"
+        },
+        {
+          "type": "heading",
+          "text": "K01"
+        },
+        {
+          "type": "heading",
+          "text": "硬度 淬硬、高硬鋼 高速及精密切削"
+        },
+        {
+          "type": "heading",
+          "text": "K05"
+        },
+        {
+          "type": "heading",
+          "text": "K10"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑄鐵、非鐵金屬 耐磨性 銅、鋁及其合金 粗及細切削"
+        },
+        {
+          "type": "heading",
+          "text": "K20"
+        },
+        {
+          "type": "heading",
+          "text": "K30"
+        },
+        {
+          "type": "heading",
+          "text": "韌性 普通鑄鐵、非鐵金屬 一般粗切削"
+        },
+        {
+          "type": "heading",
+          "text": "K40"
+        },
+        {
+          "type": "heading",
+          "text": "知識超連結"
+        },
+        {
+          "type": "heading",
+          "text": "物理氣相沉積法 P276"
+        },
+        {
+          "type": "paragraph",
+          "text": "物理氣相沉積法是利用電弧、電漿、高頻電場或等離子體等高溫熱 源,將原料加熱至高溫使之氣化,然後在基體上沉積冷卻成薄膜。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 機械製造的演進 21"
+        },
+        {
+          "type": "heading",
+          "text": "五、 陶瓷 (Ceramic)"
+        },
+        {
+          "type": "paragraph",
+          "text": "陶瓷刀具是以氧化鋁 (Al 2 O 3 ) 為主成分,加入結合劑,以粉末冶金法壓製而成,刀片 呈白色。 陶瓷刀具大都用來切削高強度鋼、硬鋼及鑄鐵。此類刀具的抗壓強度高,脆性亦"
+        },
+        {
+          "type": "heading",
+          "text": "( 註 2 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "大,硬度高達 94HRA,耐熱溫度約 1,200 °C,切削速度約為碳化物刀具的 1.5 ∼ 4 倍。 使用陶瓷刀具時,工作母機、刀具,以及工件裝置的剛性非常重要,因為有任何振動 的情形都會造成刀口破裂,所以重切削或斷續切削不適合使用陶瓷刀具,另外,切屑處理 亦很重要,長條式的連續切屑也會致使刀口破裂。 一般陶瓷刀具的刀口斜角都取負 5 ~ 7 度,以增加其強度。以此種刀具切削時,通常不加切削劑。 陶瓷刀片如圖 1-19 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-19 陶瓷刀片"
+        },
+        {
+          "type": "heading",
+          "text": "六、 瓷金 (Cermets)"
+        },
+        {
+          "type": "paragraph",
+          "text": "瓷金是白色陶瓷中有 15 ∼ 30% 的 Al 2 O 3 被 TiC 取代,又稱為半陶瓷。其耐磨性、熱 安定性與化學安定性比碳化鎢高,而韌性比陶瓷刀具高,可用於切削硬度極高之合金鑄鐵。"
+        },
+        {
+          "type": "heading",
+          "text": "七、 立方晶氮化硼 (Cubic Boron Nitride, CBN)"
+        },
+        {
+          "type": "paragraph",
+          "text": "CBN 是由相同數量的氮原子和硼原子所組成的雙化合物,硬度高達 97HRA,可耐 1300 °C之高溫。 由於立方晶氮化硼具有很高的硬度與熱傳導率,且不容易與鐵系金屬起擴 散反應,極適合高硬度淬火鋼、鐵系燒結合金,以及耐熱合金等難削材料的切削加工。"
+        },
+        {
+          "type": "paragraph",
+          "text": "度可達 1,200 °C。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "22"
+        },
+        {
+          "type": "heading",
+          "text": "八、鑽石 (Diamond)"
+        },
+        {
+          "type": "paragraph",
+          "text": "鑽石之硬度最高,雖然熔點接近 4000 °C,但是在大氣中燃點只有 800 °C左右。此種刀 具主要用途為修光或尺度的精密修正。以 單點鑽石刀具 (Single Point Diamond Tool) 鏡面切 削純銅時,表面粗糙度之算術平均數 (Ra) 可低至 0.01 μ m。由於摩擦係數很低,所以加工 時不易產生刀口積屑 (BUE)。 鑽石刀具的使用時機有二:一為工件硬度太高,例如陶瓷、 玻璃,以及碳化鎢等,常將鑽石作成磨輪狀來磨削;另一為工件很軟,但須獲得高精度及 光亮如鏡的表面狀況者,例如鋁、銅、金、銀、塑膠、鈹及鎳等,常將鑽石作成點狀刀具 來切削。鑽石與鐵、鈦、鈷與鎳等金屬之親和力高,所以不適合切削此類金屬。 鑽石車刀如圖 1-20 所示。鑽石磨輪如圖 1-21 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-20 鑽石車刀"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-21 鑽石磨輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "上列刀具之紅熱硬度、耐磨性、切削速度與刀具材料成本,由高而低依序為:鑽石、 立方晶氮化硼、陶瓷、瓷金、碳化鎢、非鐵鑄合金、高速鋼。而韌性 ( 抗衝擊強度 )、抗切 削壓力與抗熱振動之能力則與上述排列次序相反,高速鋼最高,鑽石最低。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mfg_ch01/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 機械製造的演進 23"
+        },
+        {
+          "type": "heading",
+          "text": "1-5 機械製造方法之趨勢"
+        },
+        {
+          "type": "paragraph",
+          "text": "機械製造方法隨著科技的發展,亦不斷的在進步,求新、求變的結果,各種高精度、 高效率、自動化、電腦化及無人化的製造方法不斷的問世。對於日趨嚴苛的生產要求,諸 如低成本、高產能及高精度,這些發展提供了絕佳的競爭條件。 綜觀近代機械製造方法的演變,有下列幾點主要的趨勢:"
+        },
+        {
+          "type": "heading",
+          "text": "一、加工方式趨向無屑加工及非傳統式切削,生產型態趨向專業化"
+        },
+        {
+          "type": "paragraph",
+          "text": "傳統式切削加工係將材料多餘部分切除以達到成形的目的,此舉對材料的消耗甚多。 若能儘量選用無屑加工做初步成形,再視需要以切削方式獲取更高的精度,減少廢料的產 生,對增加產量及降低成本來說是相當有利的。 在高精度要求下,材料往往必須先淬火硬化再加工,以免硬化過程中的變形破壞先 前的加工精度。以硬刀具切削軟工件的傳統式切削觀念,在這種要求下就行不通了,必 須 仰 賴 放 電 加 工 (Electrical Discharge Machining, EDM)、 電 化 學 加 工 (Electro-chemical Machining, ECM)、 超 音 波 加 工 (Ultrasonic Machining, USM) 及 雷 射 加 工 (Laser Beam Machining, LBM) ⋯⋯等非傳統式切削加工。 專業化的生產機器係針對加工要求特別設計的,在生產效率、降低成本及提高精度方 面較能同時兼顧,以提升產品的競爭力。 但是目前流行的智慧型手機、平板電腦如 iPhone、 iPad、 iPad mini 等機殼,雖然量大, 但是為了高質感,常採用銑削加工,此又另當別論。"
+        },
+        {
+          "type": "heading",
+          "text": "二、控制方式趨向電腦化與自動化"
+        },
+        {
+          "type": "paragraph",
+          "text": "在工資日益高漲的今日,製造業者要降低生產成本就必須設法減少對人工的依賴,自 動化正是解決此一問題最有利的方式。所謂自動化就是以人力以外的資源,例如機械、液 壓、電力、電子及氣壓等能源,代替人力操作、控制與監控等,可有效節省人力與時間, 降低人為錯誤的機率,減少人員暴露在危險的環境中,並提昇品質。 電腦與機械的結合,讓無人化的生產方式不再是遙不可及。從早期的讀帶式數值控 制,逐漸發展出更具彈性,及功能更強的 電腦數值控制 (Computer Numerical Control, CNC)、 電 腦 輔 助 設 計 (Computer Aided Design, CAD)、 電 腦 輔 助 製 造 (Computer Aided Manufacturing, CAM)、 電 腦 輔 助 工 程 (Computer Aided Engineering, CAE)、 切 削 中 心 (Machine Center, MC)、 電腦整合製造 (Computer Integrated Manufacturing, CIM) 等,一個 現代化的生產工廠再也離不開電腦了。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "24"
+        },
+        {
+          "type": "heading",
+          "text": "三、奈米製造、微機電系統與 3D 列印等新型態加工之開發"
+        },
+        {
+          "type": "paragraph",
+          "text": "奈米製造與微機電系統開啟微細製造的新領域,為機械製造注入新元素。 3D 列印將電 腦設計的 3D 圖形具體化為實體模型,大幅縮短新產品的開發時程。"
+        },
+        {
+          "type": "heading",
+          "text": "四、材料使用趨向多元化"
+        },
+        {
+          "type": "paragraph",
+          "text": "金屬材料在多元化的產品設計中,已無法一一滿足各種特性上的要求。因此工程師在 材料的選用上也就逐漸擺脫對金屬材料的過度依賴,轉而慢慢加重對塑膠、陶瓷、複合材 料及粉末冶金製品的使用比例。例如複合材料用在航太產品,以陶瓷代替金屬所製的引擎, 具有耐高溫、耐磨耗及重量輕的特色,可說是汽車引擎的一大革命,全面商業化的生產應 該為時不遠。"
+        },
+        {
+          "type": "heading",
+          "text": "五、切削刀具趨向耐高溫及耐磨損"
+        },
+        {
+          "type": "paragraph",
+          "text": "看刀具材料的發展,頗能印證「優勝劣敗、物競天擇」的道理。十九世紀初期所廣泛 使用的高碳鋼刀具,到了二十世紀初期已逐漸被高速鋼刀具所取代,到了今天,除少數木 工機械外,金屬加工用的機械已不再使用高碳鋼刀具。而高速鋼的耐磨性及耐熱性在不斷 發展的高速切削中也已不堪負荷,代之而起的是更耐高溫及更耐磨耗的碳化物刀具。如果 切削速度進一步提高,就必須選用更耐磨的瓷金刀具、陶瓷刀具、塗層刀具 ( 例如高速鋼 或碳化物被覆氮化鈦、碳化鈦等 )、立方晶氮化硼刀具 (CBN) 及鑽石刀具等。"
+        },
+        {
+          "type": "heading",
+          "text": "六、工具機趨向高速度與高精度"
+        },
+        {
+          "type": "paragraph",
+          "text": "早期的工具機加工精度以條 (0.01mm) 為單位,轉速由數百至數千 rpm。現時的工具機"
+        },
+        {
+          "type": "heading",
+          "text": "- 6 - 1 - 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "則以微米 ( μ m = 10 m) 或次微米 (10 μ m) 甚至奈米 (nm = 10 μ m) 為加工單位,轉速由 每分鐘數百至數千轉。"
+        },
+        {
+          "type": "heading",
+          "text": "七、加工設備趨向彈性化"
+        },
+        {
+          "type": "paragraph",
+          "text": "為了因應近代工業的產品趨向多樣化,加工型態逐漸趨向批量化,所以加工設備必須 具有高度的加工彈性、數量彈性與流程彈性,例如應用變更工作容易之 CNC、 MC 與 FMS 等設備。"
+        },
+        {
+          "type": "heading",
+          "text": "八、製造分工"
+        },
+        {
+          "type": "paragraph",
+          "text": "早期大同電鍋的製造可在同一工廠中完成,現代的電子產品必須靠多數工廠協作。例 如手機的製造,由 IC 設計、晶圓代工、封裝測試⋯,到組裝完成,幾乎都在不同的工廠 中完成。"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

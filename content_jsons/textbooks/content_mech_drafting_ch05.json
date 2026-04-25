@@ -1,0 +1,4105 @@
+{
+  "content_id": "CONTENT_MECH_DRAFTING_CH05",
+  "subject": "機械製圖",
+  "chapter": {
+    "code": "CH05",
+    "title": "CH5"
+  },
+  "title": "機械製圖 Chapter 5 正投影識圖與製圖",
+  "source_pdf": "mechanical_drafting/CH5PDF.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "正投影識圖與製圖"
+        },
+        {
+          "type": "heading",
+          "text": "本章學習內容"
+        },
+        {
+          "type": "heading",
+          "text": "5-1 投影與分類"
+        },
+        {
+          "type": "heading",
+          "text": "5-2 正投影原理"
+        },
+        {
+          "type": "heading",
+          "text": "5-3 視圖中線條的意義與優先順序"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 正投影多視圖"
+        },
+        {
+          "type": "heading",
+          "text": "5-5 立體正投影圖"
+        },
+        {
+          "type": "heading",
+          "text": "5-6 識圖方法"
+        },
+        {
+          "type": "heading",
+          "text": "5-7 製圖要領"
+        },
+        {
+          "type": "heading",
+          "text": "5-8 視圖之選擇與排列"
+        },
+        {
+          "type": "heading",
+          "text": "( 建議授課: 3 節 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 187 2022/4/13 下午 04:39:40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "188"
+        },
+        {
+          "type": "heading",
+          "text": "學習表現"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個物體基本上由寬度、高度及深度所構成的大小,所以製圖的目的是在於表達物 體的正確形狀外,也包括該物體的大小。因此,在了解幾何圖形的畫法後,此章我們進 一步的來說明如何遵循一定投影法則,將物體的形狀以最完善的方法表達出來,以做為 繪圖者與加工者之間的媒介。故本章之學習目標如下:"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能了解投影與分類、正投影的原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 能了解第一角法及第三角法,與點、線、面與體的投影原理"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能了解視圖中線條的意義、線條重疊之優先次序"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能了解正投影多視圖與立體正投影圖"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能具備讀圖與繪圖之能力,及製圖方法與製圖要領"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能引起學習製圖之興趣"
+        },
+        {
+          "type": "heading",
+          "text": "5-1 投影與分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "人們常藉影子用於提升生活樂趣,如圖 5-1 所示。影子雖是一種類似投影原理的應用,然而 在工程或機械所繪製之圖形,須以更嚴格加以規範,方能擔任設計者與製造者的溝通橋樑。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-1 玩影之趣"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: miao7171 部落格淨捨、.ifuun.com) 工程或機械所繪製之圖形,乃假設在物體之前方或後方放置一假想的透明平面 ( 稱為 投影 面 ),觀察者站在無窮遠或一定距離位置;眼睛所在之點為 視點,視點與投影面上各端點的連線 稱為 視線, 投影面與物體上各端點的連線稱為 投射線; 投射線與投影面的交點, 構成物體的投影, 若將投影面視為畫面,則投影即為 視圖,如圖 5-2 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 188 2022/4/13 下午 04:39:41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 189"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-2 投影種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "依投影原理可分為 平行投影 與 透視投影 兩大方法,以同一物體而言,不同的投影法得到的 視圖是不同的,分述如後。"
+        },
+        {
+          "type": "heading",
+          "text": "一、平行投影 (Paralleled projection):"
+        },
+        {
+          "type": "paragraph",
+          "text": "假想觀察者站在無窮遠處看一物體,其視線、投射線 相互平行,則在投影面上得到該物體 之視圖,此法稱為 平行投影,平行投影又分為正投影與斜投影,分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 正投影:在平行投影中,其投射線與投影面成 垂直,稱為 正投影,如圖 5-2(a)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 斜投影:在平行投影中,若投射線與投影面不垂直,則稱為 斜投影,如圖 5-2(b) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "綜合而言, 平行投影法不論物體距離投影面之遠近,所得的 圖形大小皆不變。故易用於工 程圖上對物體形狀的表達,本章節請務必要積極學習。"
+        },
+        {
+          "type": "heading",
+          "text": "二、透視投影 (Perspective projection):"
+        },
+        {
+          "type": "paragraph",
+          "text": "假想觀察者站在一定距離內看物體,那麼其視線會凝集於視點,投射線並非相互平行,則 在投影面上得到該物體之視圖,此法稱為 透視投影,此法之視點、投影面與物體三者間距離會 影響投影面上視圖的大小,如圖 5-2(c) 所示,如果 投影面越靠近視點,則視圖越小;投影面越遠 離視點,則視圖越大。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 189 2022/4/13 下午 04:39:42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "190"
+        },
+        {
+          "type": "heading",
+          "text": "5-2 正投影原理"
+        },
+        {
+          "type": "heading",
+          "text": "一、正投影視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "正投影 (Orthographic projection) 為平行投影的一種,係 觀察者在無窮遠處, 視線、 投射線 互相平行, 且 垂直於投影面。 利用正投影原理所投影出之視圖, 稱為 正投影視圖, 如圖 5-3 所示。 假設投影面置於視點與物體之間,亦即當物體前方假設放置一透明平面 ( 投影面 ),如圖 5-3(a) 自物體上各點各引垂線垂直於投影面,如圖 5-3(b) 所示,因視點在無窮遠處,故視線亦互相平 行且垂直投影面。最後將投影所得之各點連接,即可在投影面上得到該物體的視圖,如圖 5-3(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-3 正投影原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於一物體是由三度空間所構成,所以要完整表達一物體,須由三個互為垂直的三個方向 觀看。如圖 5-3(d) 所示,在物體之正前方放置一 直立投影面 (Vertical plane, VP),以正投影的 方法可在此投影面上得到該物體正前方的圖形,則此圖形我們可稱為 前視圖 (Front view)。如圖 5-3(e) 所示,在物體正上方放置一 水平投影面 (Horizontal plane, HP),以正投影法可在此投影面 上得到該物體正上方的圖形,則此圖形稱為 俯視圖 (Top view)。如圖 5-3(f) 所示,在物體右側方 放置一 側投影面 (Profile plane, PP),以相同方法可在該投影面上投影到該物體右側方的圖形, 我們稱此圖形為 右側視圖 (Rightside view)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 190 2022/4/13 下午 04:39:44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 191"
+        },
+        {
+          "type": "heading",
+          "text": "二、投影面與象限"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體為了表現其形狀,常以三度空間來表達,即是如圖 5-4(a) 所示, 即水平投影面 (HP)、 直立投影面 (VP) 及側投影面 (PP),這三個投影面總稱為 三主要投影面。三主要投影面中任二者 皆可將空間劃分為四個部分,今僅以水平投影面 (HP) 與直立投影面 (VP) 說明,如圖 5-4(b) 所示, 將 空間分為四個部分, 即為四個象限。即:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-4 空間象限"
+        },
+        {
+          "type": "heading",
+          "text": "1. 第一象限 ( I Q): 在 HP 之上方, VP 之前方。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 第二象限 ( II Q): 在 HP 之上方, VP 之後方。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 第三象限 ( III Q): 在 HP 之下方, VP 之後方。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 第四象限 ( IV Q): 在 HP 之下方, VP 之前方。"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "paragraph",
+          "text": "象限儀(拉丁語: Quadrans Muralis ) 象限儀常以六分儀 (sextant) 為代表,因其弧長約為圓周之六分之一(即約為 60 ° )而得名,由分度弧、 指標臂、指標鏡(與指標色鏡)、水平鏡(與水平色鏡)、儀架、望遠鏡和測微鼓組成,主要運用於天體 之觀測與航海時面上的定位,特別是經度的計算,以確定觀測者的自身位置,廣泛用於航海和航空中。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(圖片來源: chnmuseum 網 & 百度百科)"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 191 2022/4/13 下午 04:39:45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "192"
+        },
+        {
+          "type": "heading",
+          "text": "三、空間三度"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-5(a) 所示商標圖形之平面設計,只須空間二度表達高度與寬度(或長度)。但是一 個物體除了形狀之外,須由空間三度方能完整表達其大小,如圖 5-5(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-5 空間二度與三度"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: freewechat、 R73D 我形我塑 FB、 sites.google-buddin 網、 nipic 網 ) 那何謂空間三度呢?所謂 空間三度是指高度、 寬度及深度,對 X、 Y、 Z 三座標軸而言,可 分別表示 X 軸為寬度 ( 左右方向 )、 Y 軸為高度 ( 上下方向 ) 及 Z 軸為深度 ( 前後方向 ),敘述如 下,如圖 5-6 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-6 空間三度"
+        },
+        {
+          "type": "heading",
+          "text": "1. 高度 (Height):任意兩點間 由上至下垂直的高度差,即包含兩點的兩水平投影面間垂直距離"
+        },
+        {
+          "type": "paragraph",
+          "text": "量度。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 寬度 (Width):任意兩點間 由左至右的寬度差,即包含兩點的兩側垂直面間的垂直距離量度,"
+        },
+        {
+          "type": "paragraph",
+          "text": "換言之,寬度指兩側投影面間垂直距離。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 深度 (Depth):任意兩點間 由前至後的深度差,即包含兩點的兩直立投影面間垂直距離量度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 192 2022/4/13 下午 04:39:46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 193"
+        },
+        {
+          "type": "heading",
+          "text": "四、第一角與第三角投影法"
+        },
+        {
+          "type": "paragraph",
+          "text": "水平投影面 (HP) 與直立投影面 (VP) 之相交線稱為 基線 (Ground line),以英文 G.L. 或 H.V. 表 示。而物體可置於任一象限中,然後將其外形投影到各投影面上,投影結果最後必須以平面來 表達,所以吾人以基線為轉軸,以將第二、四象限合併的方式使水平投影面旋轉至與直立投影 面重合,即可得到物體的兩個視圖。如此一來,即可將視圖移繪至圖紙上。如圖 5-7 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-7 象限之投影面迴轉"
+        },
+        {
+          "type": "paragraph",
+          "text": "當物體在第一象限時,以 觀察者→物體→投影面 之順序關係,如圖 5-7(b) 左所示,利用正 投影原理投影,將物體投影至水平投影面與直立投影面,再以基線為軸,以將第二、四象限合 併的方式使水平投影面旋轉至與直立投影面重合,形成平面,即直立投影面視圖在基線上方、 水平投影面視圖在基線下方,一般稱為 第一角投影法 (First-angle projection),又稱為 第一象限法、 第一角法。通常瑞士、德國、法國等常採用。 當物體在第三象限時,以 觀察者 → 投影面 → 物體 之順序關係,如圖 5-7(b) 右所示,利用 正投影原理投影,將物體投影至水平投影面與直立投影面,再以基線為軸,以將第二、四象限 合併的方式使水平投影面旋轉至與直立投影面重合,形成平面,即 直立投影面視圖在基線下方, 水平投影面視圖在基線上方,一般稱為 第三角投影法 (Third-angle projection),又稱為 第三象限 法、 第三角法。通常美國、日本等常採用第三角法,本書以第三角法加以繪圖敘述。 但當物體在第二、四象限時,經正投影原理投影,水平投影面旋轉至與直立投影面重合形 成平面時,發現視圖會相互重疊而使視圖線條會混淆不清,致繪圖與讀圖不易,且容易發生錯 誤而不能成圖,如圖 5-7(c)。故一般繪圖只使用第一、三角法,而沒有第二、四角法。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 193 2022/4/13 下午 04:39:47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "194"
+        },
+        {
+          "type": "paragraph",
+          "text": "現在,我們對第三角投影法與第一角投影法進一步來敘述:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 第三角投影法:將物體放置在第三象限內,如圖 5-8,利用正投影原理,則可在 直立投影面"
+        },
+        {
+          "type": "paragraph",
+          "text": "上投影得一直立投影視圖,謂之 前視圖;在 水平投影面 上投影得一水平投影視圖,謂之 俯視 圖。經投影面迴轉後,即可發現 俯視圖位在前視圖正上方。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-8 第三角投影法"
+        },
+        {
+          "type": "heading",
+          "text": "2. 第一角投影法:將物體放置在第一象限內,如圖 5-9,利用正投影原理,則可在直立投影面"
+        },
+        {
+          "type": "paragraph",
+          "text": "上投影得一直立投影視圖,謂之前視圖;在水平投影面上投影得一水平投影視圖,謂之俯視 圖。經投影面之迴轉後,即可發現 俯視圖位在前視圖正下方。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-9 第一角投影法"
+        },
+        {
+          "type": "paragraph",
+          "text": "依據中華民國國家標準規定, 第一角法與第三角法同等適用, 但是在同一張圖中不可同時 使用第一角法和第三角法。 註 台灣大都採用第三角投影法、且適合初學正投影者,故本書除特別說明外,均以第三角投影法作說 明。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 194 2022/4/13 下午 04:39:47"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 195"
+        },
+        {
+          "type": "heading",
+          "text": "五、點、線與面之投影"
+        },
+        {
+          "type": "heading",
+          "text": "1. 點之投影"
+        },
+        {
+          "type": "heading",
+          "text": "h"
+        },
+        {
+          "type": "paragraph",
+          "text": "將點放置於四個象限中,經正投影原理將點投影至投影面上,於 水平投影面 得 P, 直立"
+        },
+        {
+          "type": "heading",
+          "text": "v"
+        },
+        {
+          "type": "paragraph",
+          "text": "投影面 得 P,再以基線為軸,以將第二、四象限合併的方式使水平投影面旋轉至與直立投影 面重合形成平面,會有四種不同的投影結果,如下表 5-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 5-1 點之投影"
+        },
+        {
+          "type": "heading",
+          "text": "點位置 圖例 投影結果"
+        },
+        {
+          "type": "heading",
+          "text": "第一象限"
+        },
+        {
+          "type": "heading",
+          "text": "第二象限"
+        },
+        {
+          "type": "heading",
+          "text": "第三象限"
+        },
+        {
+          "type": "heading",
+          "text": "第四象限"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 195 2022/4/13 下午 04:39:49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "196"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體上任何一點在投影中皆有其相對的位置,如圖 5-10 所示,一點 P 放在 第三象限 內,經"
+        },
+        {
+          "type": "heading",
+          "text": "h v"
+        },
+        {
+          "type": "paragraph",
+          "text": "投影與水平投影面旋轉後, 水平投影 P ( 俯視圖 ) 位在直立投影 P 正上方 ( 前視圖 )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-10 第三象限的投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "若點放在第三象限內,且考慮側投影面 (PP) 時,則如圖 5-11 所示,點 P 分別在 HP、 VP、"
+        },
+        {
+          "type": "heading",
+          "text": "h v p"
+        },
+        {
+          "type": "paragraph",
+          "text": "PP 三個投影面所得 P ( 俯視圖 )、 P ( 前視圖 )、 P ( 左側視圖 ) 的相對投影位置,圖 5-11(c) 中繪 45 ° 線,其目的為使側視圖之深度與俯視圖相同。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-11 點在三主要投影面投影情形"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 196 2022/4/13 下午 04:39:49"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 197"
+        },
+        {
+          "type": "heading",
+          "text": "2. 線的投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "點依一定方向移動所經過的軌跡構成線,線分直線與曲線,直線一般分為 正垂線、 單斜 線 與 複斜線。分述如下: (1) 正垂線 (Normal line):如圖 5-12 所示直線 AB 被放置在第三象限內,經正投影後可分別"
+        },
+        {
+          "type": "heading",
+          "text": "v v h h p p v v"
+        },
+        {
+          "type": "paragraph",
+          "text": "在直立投影面、水平投影面與側投影面得到 a b、 a b 與 a b,其中 a b 呈現為一點。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-12 正垂線之投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此,若直線與三個投影面之任 兩個投影面平行,且與另 一個投影面垂直,則此種線條 稱為 正垂線。正垂線在三個投影視圖中,於 兩平行之投影面 上會投影出 實長 (TL),此實 長稱為直線的 正垂視圖;於 一垂直之投影面 上會投影出 一點。此點稱為該直線的 端視圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 197 2022/4/13 下午 04:39:50"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "198"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 單斜線 (Inclined line):若一直線與 一個投影面平行,且 與另外 兩個投影面傾斜 者,稱為 單斜線。如圖 5-13 所示, 此種線條在 VP、 HP、 PP 三個主要投影面上所顯現之視 圖中,若與投影面平行者,可顯示出實長 (TL) 的傾斜線, 是為直線的正垂視圖,與投影面 傾斜 者會投影出 比實長 (TL) 還短的線條。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-13 單斜線之投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 複斜線 (Oblique line):若一直線 不平行或不垂直 於 VP、 HP、 PP 三個主要投影面中任何一個投影面者,稱為 複斜 線。如圖 5-14 所示,此種線條在三個主要投影視圖中所 顯示者皆非實長,均為 縮短的線段。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-14 複斜線之投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 198 2022/4/13 下午 04:39:51"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 199"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 曲線 (Curve line):三點以上不共直線的點,將它們相連 接即成曲線。平面曲線在主要視圖中至多只能在一個投 影視圖上顯示出實際外形,如圖 5-15 所示。繪製方法乃"
+        },
+        {
+          "type": "heading",
+          "text": "以顯示出實際外形之視圖上任意定出若干點,再以點的"
+        },
+        {
+          "type": "heading",
+          "text": "正投影法畫出其他兩個投影面的相對應點,再將之連接"
+        },
+        {
+          "type": "paragraph",
+          "text": "出曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-15 曲線之投影"
+        },
+        {
+          "type": "heading",
+          "text": "3. 面之投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "一個物體乃由很多個面所構成,而在空間中要決定平面的條件,如下表 5-2 所示:"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 5-2 空間中決定平面的條件"
+        },
+        {
+          "type": "heading",
+          "text": "說明 圖例 說明 圖例"
+        },
+        {
+          "type": "heading",
+          "text": "經過不在同一直線上的三點 經過兩相交直線"
+        },
+        {
+          "type": "heading",
+          "text": "經過一直線與線外一點 經過兩平行線"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 199 2022/4/13 下午 04:39:52"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "200"
+        },
+        {
+          "type": "paragraph",
+          "text": "依據平面與三主要投影面之關係,大致可分為 正垂面、 單斜面、 複斜面,如圖 5-16 所示,"
+        },
+        {
+          "type": "heading",
+          "text": "以下介紹正垂面、單斜面、複斜面及曲面:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-16 正垂面、單斜面與複斜面"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 正垂面 (Normal plane): 凡平面於三個主要投影面 (HP、 VP、 PP) 中, 與任 一個投影面平行, 且與另 兩個投影面垂直,稱為 正垂面。於 一個投影面平行 中會投影出平面的真實形狀, 稱為 實形 (TS),此 實形 (TS) 稱為該平面的 正垂視圖。於其他 兩個投影面垂直 中會投影 出 直線,此直線稱為該平面的 邊視圖。 若平面 ABCDEF 平行直立投影面, 則在三個主要視圖中, 在直立投影面上得其正垂視圖, 呈現真實大小與形狀,另外兩主要投影面卻顯示出兩個邊視圖,如圖 5-17 所示。換言之, 若前視圖呈現為一正垂面,則在俯視圖及側視圖呈現為一直線,則此平面為正垂面,而 呈現之直線稱為此正垂面之邊視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-17 正垂面之投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 200 2022/4/13 下午 04:39:53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 201"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 單斜面 (Inclined plane):凡平面與三個主要投影面之 一垂直,而與另外 兩個投影面傾斜 者稱為 單斜面。於一個投影面垂直中會投影出直線,此直線稱為該平面的邊視圖。如圖 5-18 假設平面 ABCD 垂直於 HP 時,則在 HP 投影面上顯示出平面之邊視圖,形成一傾 斜線,另外與兩個主要投影面 傾斜,則投影出 較實形 (TS) 小的平面。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-18 單斜面投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "單斜面投影出之視圖,其特色是 邊數相等, 圖形近似,可稱為 斜面同形,如圖 5-19 所示, 該單斜面之角度雖然不同,但所顯示出來的形狀皆相似。故斜面同形運用在識圖中,不 但可了解斜面的特性,尚可檢查所繪圖形是否正確。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-19 斜面同形"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 201 2022/4/13 下午 04:39:53"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "202"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 複斜面 (Oblique plane):凡平面與三主要投影面 均成傾斜 者,亦即平面不與任一主要投 影面垂直或平行者,稱為 複斜面。如圖 5-20 所示,平面 ABC 經投影後,在三個主要投 影面中得到 三個縮小平面 的視圖。這三個圖形的特色是 邊數相等, 圖形近似,亦可稱為 斜面同形。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-20 複斜面投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 曲面 (Curve plane):曲面在三個主要投影面中無法顯示其實形及真實大小,如圖 5-21 所 示,求法必須先在曲面邊視圖稜線上定出若干點,再以正投影方法投影出相對位置點, 最後分別連接各點。所以,曲面若在一投影面上顯示邊視圖,其他兩個視圖則顯示非實 形及非真實大小的圖形。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-21 曲面投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 202 2022/4/13 下午 04:39:54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 203"
+        },
+        {
+          "type": "heading",
+          "text": "5-3 視圖中線條的意義與優先順序"
+        },
+        {
+          "type": "heading",
+          "text": "一、視圖中線條的意義"
+        },
+        {
+          "type": "paragraph",
+          "text": "一張圖簡單的說,就是由許多線條所組成,但是一條線所代表的意義卻有三種,如圖 5-22 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-22 視圖中的線條意義"
+        },
+        {
+          "type": "heading",
+          "text": "(一)面之邊視"
+        },
+        {
+          "type": "paragraph",
+          "text": "若一面與 投影面成垂直,則在投影面上即成 一直線,該直線稱為面的 邊視圖 (Edge view),如圖 5-22 中俯視圖的線段 AB 或右側視圖的圓弧 R。"
+        },
+        {
+          "type": "heading",
+          "text": "(二)面與面的交線"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩平面相交所形成的稜線,稱為 交線 (Inter section),如圖 5-22 中前視圖的線段 EF。"
+        },
+        {
+          "type": "heading",
+          "text": "(三)面的極限"
+        },
+        {
+          "type": "paragraph",
+          "text": "當曲面之極限時,其轉向素線稱為 面的極限 (Surface limit),如圖 5-22 中前視圖的線段 CD。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 203 2022/4/13 下午 04:39:54"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "204"
+        },
+        {
+          "type": "heading",
+          "text": "二、線條重疊之優先順序"
+        },
+        {
+          "type": "paragraph",
+          "text": "一機件形狀的表達,其所繪製的線條為了容易區別起見,把它區分成常見的粗實線、虛線 與中心線⋯⋯等。一般外形可見的稜邊線、輪廓線用粗實線表示;物體內部無法看見或被遮蔽 部分的稜線用虛線表示;若是物體為對稱的中心或圓柱、圓孔等中心均用中心線表示,其長度 應超出該圖形 2 ∼ 3 mm,如圖 5-23 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-23 實線與虛線重疊"
+        },
+        {
+          "type": "paragraph",
+          "text": "因此,一機件形狀的表達,往往產生很多線條重疊,在此情況下,必須根據圖形的線條, 依照其重要性規定出優先順序,如圖 5-24 所示。敘述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-24 線條重疊時之優先次序"
+        },
+        {
+          "type": "heading",
+          "text": "1. 以表達可見的外形輪廓線為第一優先,即 粗實線為首要。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以表達隱藏內部之外形線為第二優先,即 虛線次之。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 線條重疊時,均以 較粗者為優先;線條遇粗細相同時,以 重要者為優先。"
+        },
+        {
+          "type": "paragraph",
+          "text": "綜合上述,當線條重疊時,優先順序為: 粗實線→隱藏線 ( 虛線 ) →中心線 ( 或割面線 ) → 折斷線→尺度 ( 界 ) 線→剖面線與假想線。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 204 2022/4/13 下午 04:39:55"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 205"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 正投影多視圖"
+        },
+        {
+          "type": "heading",
+          "text": "一、物體之投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體是由空間三度所構成, 代表的三個尺度分別為寬度、 高度、 深度。 那麼, 在圖 5-25 所示, 三個主要投影面上分別所得的視圖中,發現 前視圖 顯示出該物體的 寬度與高度, 俯視圖 顯示出 該物體的 寬度與深度, 右側視圖 顯示出該物體的 深度與高度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-25 物體之三主要投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "換言之,如圖 5-26 所示,任一視圖可標註出寬度、高度、深度之其中兩種度量。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-26 視圖中顯示的兩個尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 205 2022/4/13 下午 04:39:55"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "206"
+        },
+        {
+          "type": "heading",
+          "text": "二、投影箱"
+        },
+        {
+          "type": "paragraph",
+          "text": "由於正投影的每一個視圖只能表達出兩個尺度,所以要完整表達物體的形狀及大小,必須 同時藉幾個互相垂直的投影視圖才能達到,所以有正投影多視圖之稱。 一個物體通常可分以六個互為垂直的方向來觀察,如此可得此六個方向的圖形來表達該物 體的形狀。今將物體放置於第三象限,並以一個正六面體的透明箱中 ( 稱為投影箱 ) 來觀察,六 個投影面中每一投影面均與其他兩投影面互為垂直, 此時觀察者分別從前方、 後方、 上方、 下方、 右側方及左側方六個方向看物體,依據正投影原理,則可在六個投影面上得到視圖,分別為 前 視圖、後視圖、 俯 ( 上 ) 視圖、仰 ( 下 ) 視圖、 右側視圖 及左側視圖,如圖 5-27(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-27 投影箱"
+        },
+        {
+          "type": "paragraph",
+          "text": "若將投影箱的六個投影面展開成一平面,可方便將這六個視圖畫在同一張圖紙上,如圖 5-27(c) 所示可以清楚地顯示該物體的形狀大小及位置。在這六個視圖中,在 直立投影面正前方 所得視圖稱為 前視圖,在後方稱為後視圖。在 水平投影面之上方 所得視圖稱為 俯視圖,在下方 往上看可得仰視圖。在 側立投影面之右方 可得 右側視圖,在左方可得左側視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 206 2022/4/13 下午 04:39:56"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 207"
+        },
+        {
+          "type": "paragraph",
+          "text": "投影箱展開後六個視圖的相對位置,如圖 5-28 所示,其中俯視圖、前視圖、仰視圖與後視 圖有相同的寬度;而前視圖、右側及左側視圖、後視圖具有相同的高度;而俯視圖、左側及右 側視圖及仰視圖具有相同的深度。換言之, 前視圖與後視圖 可標註 寬度與高度; 俯視圖與仰視 圖 可標註 寬度與深度; 右側視圖與左側視圖 可標註 深度與高度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-28 投影箱展開後之各視圖及尺度"
+        },
+        {
+          "type": "heading",
+          "text": "三、投影法之視圖位置與投影符號"
+        },
+        {
+          "type": "heading",
+          "text": "1. 投影法視圖位置"
+        },
+        {
+          "type": "paragraph",
+          "text": "今將放置在 第三象限 的投影箱打開成一平面,呈現出六個視圖的相對位置。 右側視圖在前 視圖右方、左側視圖在前視圖左方、 俯視圖在前視圖上方、仰視圖在前視圖下方、後視圖在左 側視圖左方。如圖 5-29。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-29 第三角投影法"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 207 2022/4/13 下午 04:39:56"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "208"
+        },
+        {
+          "type": "paragraph",
+          "text": "若將放置在 第一象限 的投影箱打開成一平面,可呈現六個視圖的相對位置。右側視圖在前 視圖左方、左側視圖在前視圖右方、俯視圖在前視圖下方、仰視圖在前視圖上方、後視圖在左 側視圖右方。如圖 5-30。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-30 第一角投影法"
+        },
+        {
+          "type": "heading",
+          "text": "2. 投影法符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "當繪製工程圖時,須將投影法標註在標題欄內或其他明顯處,可用文字分別加註“第一 角法”或“第三角法”字樣,或可用 符號 表示,符號如圖 5-31 所示。依據中華民國國家標準 CNS3 B1001 規定,第一角法和第三角法同等適用,但在同一張圖中不可混淆使用。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-31 第一角法與第三角法符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 208 2022/4/13 下午 04:39:57"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 209"
+        },
+        {
+          "type": "heading",
+          "text": "5-5 立體正投影圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "立體圖是指能同時表達出物體三個主要平面形狀及空間三度的度量,而能呈現出立體效果 的投影視圖。在正投影視圖中,任一個視圖只能表達物體之兩個度量,讀圖者通常需在瞭解投 影原理以後,方能透過多個投影視圖在腦海中呈現空間,進而組合出物體的形狀,故對 未受過 製圖與識圖訓練的人而言,對正投影視圖就不容易了解。因此,繪製立體圖可以很清楚表達出 物體的尺度大小和形狀,幫助讀圖者很容易看懂圖形。"
+        },
+        {
+          "type": "heading",
+          "text": "一、立體圖的用途及種類"
+        },
+        {
+          "type": "heading",
+          "text": "1. 用途:立體圖最容易讓人了解物體的形狀,日常生活中具有下列用途:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 用於工廠之機械立體組合圖及系統圖,藉以表達機械組合外形、機構及位置,如圖 5-32 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-32 工廠機械立體系統圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:新傑燈光科技公司 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 209 2022/4/13 下午 04:39:58"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 用於申請專利圖及系統裝配圖,如圖 5-33 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-33 專利立體圖示"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: T 客邦網、北美智權報 99 期 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 用於建築圖、技術性圖書之插圖、目錄說明圖及管路圖等,如圖 5-34 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-34 各種用途的立體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: walldevil 網、 shop2000 網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 協助正投影多視圖中不易描述之細節部分。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 210 2022/4/13 下午 04:39:59"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 211"
+        },
+        {
+          "type": "heading",
+          "text": "2. 種類:常見立體圖之繪製法有 立體正投影圖、 斜投影圖 及 透視投影圖,如表 5-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 5-3 立體圖的種類"
+        },
+        {
+          "type": "heading",
+          "text": "投影方式 種類 名稱 圖例"
+        },
+        {
+          "type": "heading",
+          "text": "等角圖"
+        },
+        {
+          "type": "heading",
+          "text": "立體正投影圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 投 射 線 相 互 平 行"
+        },
+        {
+          "type": "heading",
+          "text": "且垂直於投影面 )"
+        },
+        {
+          "type": "heading",
+          "text": "等角投影圖"
+        },
+        {
+          "type": "heading",
+          "text": "平行投影"
+        },
+        {
+          "type": "heading",
+          "text": "等斜圖"
+        },
+        {
+          "type": "heading",
+          "text": "斜投影圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 投 射 線 相 互 平 行"
+        },
+        {
+          "type": "heading",
+          "text": "且傾斜於投影面 )"
+        },
+        {
+          "type": "heading",
+          "text": "半斜圖"
+        },
+        {
+          "type": "heading",
+          "text": "一點透視圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 平行透視圖 )"
+        },
+        {
+          "type": "heading",
+          "text": "透視投影圖 二點透視圖"
+        },
+        {
+          "type": "heading",
+          "text": "透視投影"
+        },
+        {
+          "type": "heading",
+          "text": "( 投射線交於點 ) ( 成角透視圖 )"
+        },
+        {
+          "type": "heading",
+          "text": "三點透視圖"
+        },
+        {
+          "type": "heading",
+          "text": "( 傾斜透視圖 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 211 2022/4/13 下午 04:40:00"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "212"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 等角投影圖、等角圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "等角投影圖與等角圖為利用 正投影 之原理所繪製出來的立體圖。在一個正方體的三視圖 中,如圖 5-35(a) 所示,以空間概念來轉動物體,繞著直立軸旋轉 45 °,如圖 5-35(b) 所示, 再將該物體前角點 O 繞著水平軸向前傾 35 ° 16 ′, 則前視圖能同時看到三個面, 如圖 5-35(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-35 等角投影圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "經旋轉及前傾後,所形成的立體方塊之稜線 OX、 OY、 OZ,稱為 等角軸, 互為 120 °, 因投影關係, 各等角軸長度約縮至原來長度的 81/100,如圖 5-36(a)、 (b) 所示,此及稱 為 等角投影圖。 故 等角投影圖 所產生的立體形狀,繪製真實的投影長度時,必須將每一個尺度均乘以 81/100。故為了改善此種繪製方法的不便,我們習慣上將物體上的實際尺度,直接量取 並繪製在等角軸上,則所繪製出來的立體圖稱為 等角圖,如圖 5-36(c) 所示,故 等角圖的 每一等角軸線大於等角投影圖 1.23 倍,等角圖與等角投影圖上線段長之比例如表所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-36 等角投影圖與等角圖"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 5-4 等角圖與等角投影圖之線段長之比例"
+        },
+        {
+          "type": "heading",
+          "text": "等角圖的線段長: 等角投影圖線段長"
+        },
+        {
+          "type": "heading",
+          "text": "1: 0.816"
+        },
+        {
+          "type": "heading",
+          "text": "1.23: 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 212 2022/4/13 下午 04:40:01"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 213"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 等斜圖、半斜圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "等斜圖與半斜圖為利用 斜投影原理 所繪製出來的立體圖,斜投影之原理係觀察者在無窮 遠處,投射線彼此相互平行但不與投影面垂直,而與投影面呈傾斜。此種利用斜投影之 原理所繪製出之視圖,稱為 斜投影視圖。 等斜圖 繪製方法是將物體之一面與投影面平行,利用斜投影原理,使投射線與投影面呈 傾斜 45 °,所繪製出之立體圖。其中與投影面平行之面所繪製的視圖,會和三視圖中的 前視圖相同,而 寬度、高度、深度之比為 1: 1: 1,如圖 5-37(a) 所示。 半斜圖 繪製方法是將物體之一面與投影面平行,利用斜投影原理,使投射線與投影面呈 傾斜 63 ° 26',所繪製出之立體圖;其中與投影面平行之面所繪製的視圖,會和三視圖中 的前視圖相同,而 寬度、高度、深度之比為 1: 1: 0.5,因深度長為等斜圖的一半,所 以稱為 半斜圖,如圖 5-37(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-37 等斜圖與半斜圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "等斜圖繪製常將圓形或不規則面與投影面平行繪製,如圖 5-38 所示,已知視圖是圓柱階 級件,以等斜圖繪製時,首先定中心位置,再依圓之直徑繪圓, ( 不必像等角圖必須在 等角面上繪橢圓 ),依視圖深度在深度投影線上找出其他圓形的中心續畫圓,即可完成 等斜圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-38 等斜圖步驟"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 213 2022/4/13 下午 04:40:02"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 透視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "透視圖乃利用透視投影之原理,係 假想觀察者於距物體不遠處,而投射線形成一錐形射 線,此錐形射線與投影面相交點組合而成之圖形稱為透視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-39 透視原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製時較為費時,一般用於建築用製圖,或大型且須特殊表現的物體。常表現的透視圖"
+        },
+        {
+          "type": "heading",
+          "text": "法有三種,說明如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(a) 一點透視:空間三度 ( 寬度、高度、深度 ) 中,任意二度 ( 即一座標面 ) 與投影面平行, 只有 一個消失點 所繪得之視圖稱之,又稱為 平行透視圖,如圖 5-40 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-40 一點透視原理與應用實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: wiskundeleraar 網 & 茶樹網學院 TT 單老師 )"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 214 2022/4/13 下午 04:40:02"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 215"
+        },
+        {
+          "type": "paragraph",
+          "text": "(b) 兩點透視:空間三度中,任意一度 ( 即一軸線 ) 與投影面平行,有 兩個消失點 所繪得 之視圖稱之,又稱為 成角透視圖,如圖 5-41 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-41 二點透視原理與應用實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:馬克教學網 & 手繪 100 網 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(c) 三點透視:空間三度中,任意一度與投影面均不平行,有 三個消失點 所繪得之視圖 稱之,又稱為 傾斜透視圖,如圖 5-42 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-42 三點透視原理與應用實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:百度知道網 & Youtube 網 Circle line art school)"
+        },
+        {
+          "type": "heading",
+          "text": "5-6 識圖方法"
+        },
+        {
+          "type": "paragraph",
+          "text": "一位製圖員懂了上述投影原理後,接著必須能夠從已知的視圖上,在腦海裡悟出該物體的 形狀及大小,即識圖能力。而增強此能力除了對以上所學的知識能靈活應用外,不外圖看得愈 多、畫的愈多、練習愈多,識圖能力就愈強。"
+        },
+        {
+          "type": "heading",
+          "text": "除此之外,可以藉下列方法來幫助識圖:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 由各視圖之輪廓判斷物體之外形。 2. 應用簡單幾何形體判斷物體之形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 將視圖聯想成各種形狀,再配合其他視圖加以判斷。 4. 藉切割材料以幫助判斷其形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 將物面編號,藉投影可幫助判斷位置。 6. 藉畫立體草圖幫助判斷外形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 215 2022/4/13 下午 04:40:04"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "216"
+        },
+        {
+          "type": "heading",
+          "text": "一、由各視圖之輪廓判斷物體之外形"
+        },
+        {
+          "type": "paragraph",
+          "text": "在識圖中,可由輪廓來判斷物體之外形。首先從視圖中找出最具物體外形之視圖,尤指視 圖具有缺口、凸出者,由此先判斷物體外形。如圖 5-43 中,圖 (a) 顯然該物體在前方及右側各有 一圓孔,圖 (b) 在上方截切一塊,圖 (c) 可從右側視圖得知該物體為凸出件,圖 (d) 亦從右側視圖 得知為一凹件。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-43 由物體之輪廓來判斷形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-44 中,在前視圖有一彎折線與圓形,配合俯視圖與右側視圖可截取出圖示 B 與 A; 在俯視圖中有一缺口,可截取出圖示 C。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-44 由物體缺口判斷形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 216 2022/4/13 下午 04:40:04"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 217"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-45 中,雖然該機件較為複雜,但仍可發現此三視圖上各有缺口,只要分別移除三視 圖上缺口處,最後加以倒圓角即可判知形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-45 較複雜外形的判斷步驟"
+        },
+        {
+          "type": "heading",
+          "text": "二、應用簡單幾何形體判斷形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "接著,可應用幾何圖形組合之概念,將視圖分為幾個簡單個別的幾何形狀以助判斷。如圖 5-46 所示,可分成三塊幾何形體,再加以組成之物體。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-46 應用簡單幾何形體判斷形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 217 2022/4/13 下午 04:40:04"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "218"
+        },
+        {
+          "type": "heading",
+          "text": "三、聯想物體形狀法"
+        },
+        {
+          "type": "paragraph",
+          "text": "此種方法乃是將其中一個視圖,想像成物體可能發生之各種形狀,再配合其他視圖加以選 擇出所需形狀。如圖 5-47 中 ABC 代為三個面,而面不外有正垂面、單斜面、複斜面、曲面所構 成,然而這些面亦可能是凸面或凹面,將這些想像加以組合,自然有數種形狀,若配以其他視 圖則容易找出其中正確圖形。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-47 由前視圖聯想物體可能形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-48 所示,若單以右側視圖則可聯想出 (a) ∼ (h) 八種形狀,若配以前視圖,則很容易 地知道該物體形狀。通常可叫做“以一求二”,乃是由一個視圖 ( 通常為前視圖最能表現物體特 徵 ) 想像出空間立體形狀後,利用線的端視圖及面的邊視圖的投影原理,即可決定第二個視圖, 通常用於簡單形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-48 由右側視圖聯想可能形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 218 2022/4/13 下午 04:40:05"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 219"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-49 所示,若單以前視圖及俯視圖則可聯想出 (a) ∼ (d) 四種形狀,但配以右側視圖則 很清楚地分辨出該物體形狀的不同處。通常可叫做“以二求三”,乃依據兩視圖所表示的空間 立體形狀 ( 可能一解,也可能多解 ),利用高度要平齊、寬度要等寬、深度要轉為同深的投影定 律來決定第三視圖,為判斷較複雜形狀之法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-49 由兩視圖聯想可能形狀"
+        },
+        {
+          "type": "heading",
+          "text": "四、藉切割以助判斷形狀"
+        },
+        {
+          "type": "paragraph",
+          "text": "我們可以藉切割材料來幫助判斷物體形狀,常用的切割材料為黏土、化學土、粉筆、木塊、 石膏、肥皂⋯等,另外亦可藉助硬紙板之摺疊,皆有助對物體形狀之了解,如圖 5-50 所示為一 物體切割之過程,可以很快地顯示出物體形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-50 藉切割助判斷形狀之一"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 219 2022/4/13 下午 04:40:05"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "220"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-51 所示為一物體,經過切割出三塊後,很快地顯示出物體形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-51 藉切割助判斷形狀之二"
+        },
+        {
+          "type": "heading",
+          "text": "五、藉以編號來幫助判斷位置"
+        },
+        {
+          "type": "heading",
+          "text": "此種方法乃在視圖上各交點處標註阿拉伯數字,"
+        },
+        {
+          "type": "paragraph",
+          "text": "再藉投影原理找出該點在其他視圖上之相對位置。 圖 5-52 所示為一單斜面藉投影原理,可決定前視圖 形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-52 藉投影助判斷形狀之一"
+        },
+        {
+          "type": "heading",
+          "text": "圖 5-53 為複斜面藉投影原理決定畫出右側視圖"
+        },
+        {
+          "type": "heading",
+          "text": "之情形,例如點 2,在前視圖上以細線平行投影至右"
+        },
+        {
+          "type": "paragraph",
+          "text": "側視圖,而在俯視圖上之點 2,經 45 ° 之折線投影後"
+        },
+        {
+          "type": "heading",
+          "text": "與先前之投影線相交之點,即為右側視圖點 2 之位"
+        },
+        {
+          "type": "paragraph",
+          "text": "置所在,同理方法可找出點 1 及點 3,點 1、 2、 3 所 形成面積即為該複斜面之右側視圖圖形。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-53 藉投影助判斷形狀之二"
+        },
+        {
+          "type": "heading",
+          "text": "六、藉畫立體草圖幫助判斷外形"
+        },
+        {
+          "type": "paragraph",
+          "text": "在實務上常見由實物 ( 立體圖 ) 測繪後,做判斷與繪製出正投影視圖,如三視圖之平面表現 法;另一種為從正投影視圖中繪製立體圖,以做立體之表現。故吾人常以「兩個視圖」來建構 空間觀念,進而判斷與繪製第三個視圖,以達上述能力;而這種方法,初學者一般會草繪製出 立體圖,協助判斷與繪製出第三個視圖。以 等角圖 徒手草繪,將平面視圖描繪成立體,藉以幫 助判斷物體形狀,並可檢視三視圖的正確性。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 220 2022/4/13 下午 04:40:06"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 221"
+        },
+        {
+          "type": "paragraph",
+          "text": "對於尚未受過正統製圖訓練 ( 正投影原理 ) 的初學者,立體圖是最容易被初學者所接受的, 而繪製等角投影圖 ( 或繪製等角圖 ) 是立體投體法中作圖最單純,效果較佳的一種立體表現法之 一,故常以徒手繪立體圖,藉以顯現出物體形狀,亦可幫助判斷物體的形狀。在徒手繪製這種"
+        },
+        {
+          "type": "heading",
+          "text": "圖前,需先瞭解一些常用名詞,說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 等角軸線"
+        },
+        {
+          "type": "paragraph",
+          "text": "繪製等角圖, 乃以 1: 1 將尺度繪在等角軸線上;故繪等角圖時必須先決定等角軸,且 在繪製互成 120 ° 之等角軸線時,應以最能明顯表達物體外形為首要考慮因素,其次再考慮 視圖之自然美觀。故等角軸線的位置選定如圖 5-54 所示立體圖例,則以圖 (a) 最佳表達位置。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-54 等角軸線"
+        },
+        {
+          "type": "heading",
+          "text": "2. 等角線與非等角線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 等角線: 在等角圖上凡與等角軸線之一平行的直線, 稱為等角線。等角線係指正垂面上 各稜線之尺度, 可直接 1: 1 比例量度在等角圖之等角軸線上。如圖 5-55 所示立方塊上 各寬度 (W)、高度 (H)、深度 (D) 及孔之大小尺度 (B)、 (E)。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-55 等角線繪立方塊"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 221 2022/4/13 下午 04:40:06"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "222"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 非等角線: 在等角圖上, 凡不與等角軸線之一平行的直線, 稱為非等角線,非等角線不 能直接度量繪製。如圖 5-56 所示,在圖 (a) 中 BG、 HD 兩斜線即為非等角線,此兩斜線 分別與水平線 ( 即等角線 ) 之夾角為 60 °,但在等角圖上不能直接度量角度繪製。非等 角線繪製時需先找出 G、 H 兩點距離等角軸線上的相對位置,如從視圖中找出 G 點距 A 點的水平位置 AG (X 之距離 ) 及 H 點距 E 點的水平位置 HE (X 之距離 )。此 AG、 HE 則為等角線,可在等角圖之等角軸線上直接度量,於等角圖找到 G、 H 兩點,將等角圖 上 B、 G 兩點連線及 H、 D 兩點連線,即可繪出非等角線 BG、 HD。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-56 非等角線"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 222 2022/4/13 下午 04:40:07"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 223"
+        },
+        {
+          "type": "heading",
+          "text": "3. 徒手繪立體圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "吾人常徒手繪製立體圖,藉以顯現出物體的形狀,或藉以幫助判斷物體形狀。而徒手繪"
+        },
+        {
+          "type": "heading",
+          "text": "等角圖是最常採用的方法,其繪製方法敘述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 方盒法"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-57 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-57 徒手繪立體圖"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 徒手繪等角軸線:用一軟等級鉛筆 (F) 以極淡之筆劃出等角軸線,三軸線約互成 120 度,作"
+        },
+        {
+          "type": "paragraph",
+          "text": "為草圖之結構線。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 略定物體尺度:大約決定物體之寬度、高度與深度,以決定包圍整個物體或其一主要部分之"
+        },
+        {
+          "type": "paragraph",
+          "text": "長方盒比例。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 徒手繪立體方盒:在決定之寬、高與深度處,作各等角軸線之平行線,完成徒手繪立體方盒。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 將前視圖之線條輕描於立體方盒之前面,並完成可以切割部位之圖形 ( 此時,可配合參考其"
+        },
+        {
+          "type": "paragraph",
+          "text": "他兩個視圖 )。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 將俯視圖之線條輕描於立體方盒之頂面,配合前一步驟完成切割出圖形。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 若有側視圖,則將其線條輕描於立體方盒之側面,配合前兩步驟完成切割出圖形。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 完成草圖:除需藉以表示該物體者外,凡屬不可見之邊均可省去,作圖時之結構線除足以混"
+        },
+        {
+          "type": "paragraph",
+          "text": "淆圖形者外,無需擦去。 註 步驟 4、 5、 6 在切割圖形時,可從最顯著部位開始著手,然後再從較小細節部位,切割後將可 見之邊緣用筆加深。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 223 2022/4/13 下午 04:40:07"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "224"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 支距法"
+        },
+        {
+          "type": "paragraph",
+          "text": "當物體上有不規則曲線時,以支距法繪製等角圖最為容易,如圖 5-58 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Y"
+        },
+        {
+          "type": "heading",
+          "text": "7 \u001f"
+        },
+        {
+          "type": "heading",
+          "text": "6 \u001f"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "4 \u001f 1 1"
+        },
+        {
+          "type": "heading",
+          "text": "1 2 3 \u001f 2 3 6"
+        },
+        {
+          "type": "heading",
+          "text": "4 5"
+        },
+        {
+          "type": "heading",
+          "text": "\u001f 7"
+        },
+        {
+          "type": "heading",
+          "text": "X \u001f"
+        },
+        {
+          "type": "heading",
+          "text": "\u001f"
+        },
+        {
+          "type": "heading",
+          "text": "\u001f"
+        },
+        {
+          "type": "heading",
+          "text": "ߧ఩γ⣶"
+        },
+        {
+          "type": "heading",
+          "text": "1 1"
+        },
+        {
+          "type": "heading",
+          "text": "2 2"
+        },
+        {
+          "type": "heading",
+          "text": "3 3 4 5 6"
+        },
+        {
+          "type": "heading",
+          "text": "4 5 6 7 7"
+        },
+        {
+          "type": "heading",
+          "text": "1\u001f 5\u001f6\u001f"
+        },
+        {
+          "type": "heading",
+          "text": "2\u001f"
+        },
+        {
+          "type": "heading",
+          "text": "3\u001f 4\u001f \u001f 7\u001f"
+        },
+        {
+          "type": "heading",
+          "text": "ഐߧરໞ"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-58 支距法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 將曲線分成許多點,再將各點之位置尺度沿著等角軸定出其相對位置,如此便可在等角軸上"
+        },
+        {
+          "type": "paragraph",
+          "text": "之相對位置尺度繪出等角線相交出曲線上之各點。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 如點 1 沿等角軸之距離為 A、 B,以此類推,求出各點之相對位置,最後連接各點 1、 2、 3、"
+        },
+        {
+          "type": "paragraph",
+          "text": "4、 5、 6、 7 即為所求曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 224 2022/4/13 下午 04:40:08"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 225"
+        },
+        {
+          "type": "heading",
+          "text": "(3) 座標法"
+        },
+        {
+          "type": "paragraph",
+          "text": "當物體很多斜面時,除了方盒法外,亦可用座標法求其等角圖。其原理為斜面上各點與 位於參考平面上基準線有相對之關係,如圖 5-59 所示 D 點,位於基準線之距離為 b 與 d, 其高度為 H。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-59 座標法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先依非等角線法繪製 ABC。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 在基準面上依 b、 d、 H 尺度定出 D 點,最後連接各點即得此視圖之等角圖。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 225 2022/4/13 下午 04:40:08"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "226"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 複斜面繪法"
+        },
+        {
+          "type": "paragraph",
+          "text": "複斜面繪法可依方盒法定出各點在等角線上之相對位置,再連接之即可。如圖 5-60 所示 ABCD 複斜面。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-60 複斜面之等角圖繪法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先求出點 A 在等角線線之距離 a,點 B 在等角線之距離 e,即可在等角面上連接 A、 B 兩點"
+        },
+        {
+          "type": "paragraph",
+          "text": "得 AB。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 再求出點 C、 D 在等角線上之距離,分為 b、 d,即可再另一等角面上連接 C、 D 兩點得"
+        },
+        {
+          "type": "paragraph",
+          "text": "CD。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 最後再連接 AD、 BC 即可得此複斜面。"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 226 2022/4/13 下午 04:40:09"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 227"
+        },
+        {
+          "type": "heading",
+          "text": "(5) 等角圖上圓之畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "等角圖上的圓或圓弧因正垂面傾斜成等角面, 故成橢圓。繪製等角面上橢圓時,除了可 使用 35 ° 16' 之橢圓模板繪製外,常利用三角板及圓規方法繪製,如圖 5-61 所示為一近似 橢圓的畫法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-61 等角圖上橢圓畫法"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 畫內角成 60 ° 菱形:乃假設一圓為一正方形所切,則此正方形移至等角面上時變成內角成"
+        },
+        {
+          "type": "paragraph",
+          "text": "60 ° 菱形,其邊長等於圓之直徑。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 作各邊長之垂直平分線,恰自兩對角處作對邊之中點連線 ( 即各邊長之中點 )。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 以兩對角為圓心,角至對邊之垂直距離為半徑,徒手畫兩圓弧而切於邊上。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 繼以垂線之兩交點為圓心,各點至邊之垂直距離為半徑,徒手畫兩圓弧與前兩圓弧相接,即"
+        },
+        {
+          "type": "paragraph",
+          "text": "形成一橢圓。 註 徒手繪製等角面上橢圓要領,乃徒手繪製內角成 60 ° 菱形後,取各邊長之中點連接成橢圓,如 圖 5-62 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-62 等角面上橢圓圖例"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 227 2022/4/13 下午 04:40:09"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "228"
+        },
+        {
+          "type": "heading",
+          "text": "(6) 等角圖上之半圓及圓弧畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "半圓在等角圖上形成一半個橢圓,圓弧在等角圖上形成部分橢圓。如圖 5-63 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-63 等角圖上部分橢圓範例"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 繪製半個橢圓或橢圓之大部分時,徒手繪一外切 60 ° 菱形和中心線,然後作各菱形邊之垂直"
+        },
+        {
+          "type": "paragraph",
+          "text": "平分線 ( 或各邊長之中點 ),即可求出橢圓的圓心。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪製部分橢圓或 1/4 橢圓時,各單一菱形角之兩邊量取圓之半徑長,並在此菱形邊之上作垂"
+        },
+        {
+          "type": "paragraph",
+          "text": "線,其相交點即為 1/4 橢圓部分之圓心。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 若在物體上互相平行的兩等角平面繪同一橢圓或部分橢圓,可將已畫好之第一個橢圓之圓心"
+        },
+        {
+          "type": "paragraph",
+          "text": "移動此兩等角平面距離,即可求得另一相對部分的橢圓之圓心位置。"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "丙級電腦輔助立體製圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(資料來源:勞發署技能檢定中心與 learn.104 網證照中心)"
+        },
+        {
+          "type": "heading",
+          "text": "一、 工作內涵與項目:能擔任零件立體圖繪製及圖面管理等工作。工作項目包括應用作業系統、安裝軟體"
+        },
+        {
+          "type": "paragraph",
+          "text": "與使用電腦週邊設備、設定繪圖環境、控制圖形螢幕、輸出圖形與管理圖面等基本工作及繪製單件立 體圖、立體剖視圖等項。"
+        },
+        {
+          "type": "heading",
+          "text": "二、相關職務推薦: 1.CAD / CAM 工程師、 2. 機械設計/繪圖人員。"
+        },
+        {
+          "type": "heading",
+          "text": "三、相關技能推薦: 1. 實物測量繪圖、 2. 繪製電腦相關配圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 228 2022/4/13 下午 04:40:09"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p042.jpg"
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 229"
+        },
+        {
+          "type": "heading",
+          "text": "七、識圖練習"
+        },
+        {
+          "type": "heading",
+          "text": "1. 正垂面:在圖形中可以瞭解輪廓外形及隱藏外形在三視圖中之相對位置。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 輪廓外形識圖練習,如圖 5-64 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-64 輪廓外形識圖練習"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 隱藏外形識圖練習,如圖 5-65 所示,提供瞭解虛線的表達。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-65 隱藏外形識圖練習"
+        },
+        {
+          "type": "heading",
+          "text": "2. 單斜面:單斜面特色是在三主要視圖中,有一視圖呈邊視圖,另外兩個呈斜面同形。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 俯視圖呈現為邊視圖之單斜面識圖練習,如圖 5-66 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-66 單斜面識圖練習之一"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 229 2022/4/13 下午 04:40:10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p043.jpg"
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "230"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 右側視圖呈現為邊視圖之單斜面識圖練習,如圖 5-67 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-67 單斜面識圖練習之二"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 前視圖呈現為邊視圖之單斜面識圖練習,如圖 5-68 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-68 單斜面識圖練習之三"
+        },
+        {
+          "type": "heading",
+          "text": "3. 複斜面:特色是在三主要視圖中皆呈現「斜面同形」特色,如圖 5-69 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-69 複斜面識圖練習"
+        },
+        {
+          "type": "heading",
+          "text": "4. 曲面:包括圓弧、圓孔、曲面等,識圖練習如圖 5-70 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-70 曲面識圖練習"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 230 2022/4/13 下午 04:40:11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 231"
+        },
+        {
+          "type": "heading",
+          "text": "5-7 製圖要領"
+        },
+        {
+          "type": "heading",
+          "text": "一、佈圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用製圖儀器繪製視圖時,除依正投影原理並合乎 CNS 製圖規範外,在一張圖紙中應佈置 勻稱、美觀,以正確的製圖儀器使用方法將視圖繪製完成。如圖 5-71,通常繪製程序如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-71 佈圖與製圖步驟"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 決定投影法:選擇第一角投影法或第三角投影法,但不可混淆使用。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 選用圖紙大小、畫圖框線及標題欄。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 決定視圖方向、數量及排列位置,並決定比例。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 佈置視圖:如圖所示,假設使用 A4 圖紙,視圖間距離為 30、物體寬度 100、高度 40、深度"
+        },
+        {
+          "type": "paragraph",
+          "text": "60,則計算出 C 為 36、 B 為 20。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 定出基準線 ( 或中心線 ),並畫出視圖最大範圍作圖線。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 依工件之構造由外至內、由大處至細節,三個視圖同時配合投影畫出各視圖之主要線條作圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "線。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 畫視圖內各圓角、圓弧及次要細節部分。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 依線條之種類、粗細畫出完成線。最後擦拭不必要之作圖線並校核。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 231 2022/4/13 下午 04:40:11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "232"
+        },
+        {
+          "type": "heading",
+          "text": "二、徒手繪平面圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "徒手繪製其草圖時,亦須應用投影原理及應用幾何。徒手繪正投影多視圖時,並非依照 其比例繪製,但顯示物體之大小仍不可差距太大,以免失真如圖 5-72 所示。因此,常使用 有方格的紙,藉以代替用眼判定投影,有助於尺度的判斷與計算。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 5-72 判斷物體大小尺度在各視圖間不可失真"
+        },
+        {
+          "type": "paragraph",
+          "text": "徒手畫正投影多視圖之步驟如圖 5-73 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-73 徒手繪正垂視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 232 2022/4/13 下午 04:40:12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 233"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 決定視圖組合:觀察草圖,並決定以何種視圖組合,方能充份表達零件之形狀。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 繪製正投影多視圖之間隔及位置:使用中質類等級鉛筆 ( 如 B、 HB 或 F),大約依物體尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "輕輕畫出各視圖間之位置,務使視圖間之間隔均勻美觀。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 畫出視圖主要部位:先繪製每一視圖主要部位,此時注意各視圖要同時進行。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 畫出視圖細節部位:完成繪製每一視圖之細節部位,各視圖要同時進行。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 繪視圖主部位輪廓:用顯著之線顯示每一視圖之主要部位輪廓。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 繪視圖次要部位輪廓:用顯著之線顯示每一視圖中之細節,將圖中實線部分完全畫出。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 繪視圖隱藏部位輪廓:若物體之視圖須繪製虛線時,用較實線稍淡之虛線畫出不可見之輪廓"
+        },
+        {
+          "type": "paragraph",
+          "text": "線,則對物體形狀之平面圖繪製完成。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 核對草圖:依所繪三視圖在腦海中摹想該物體之形成,細心複核草圖。"
+        },
+        {
+          "type": "heading",
+          "text": "三、藉立體草圖補繪視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "我們常須由兩個視圖來判斷或繪製第三個視圖,若藉立體草圖協助,則能事半功倍。將徒"
+        },
+        {
+          "type": "heading",
+          "text": "手畫立體圖之步驟分別說明如下:"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 依據兩個視圖的寬度、高度、深度,將等角方格繪製出來。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 將兩個視圖的輪廓於等角方格上的對應位置繪製線條,視圖如由缺口處,可優先處理。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 判斷出線條的正確位置,並繪製出來,建構成立體圖。 ( 此步驟需將 5-7 節讀圖方法應用,"
+        },
+        {
+          "type": "paragraph",
+          "text": "讀者需多加練習,經驗的累積,會使讀圖能力提升許多 )"
+        },
+        {
+          "type": "heading",
+          "text": "4. 視圖如果有虛線,建議先將可見輪廓線繪製出來後,再於等角方格上的對應位置繪製虛線。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 由所繪製的立體圖,判斷出第三個視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "6. 核對草圖:依所繪三視圖與立體圖在腦海中摹想該物體之形成,細心複核草圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "綜合上述,下列舉三個範例提供練習。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 233 2022/4/13 下午 04:40:12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p047.jpg"
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "234"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-74(a) 左所示已知兩視圖,藉手繪等角圖協助繪製第三視圖如圖右。"
+        },
+        {
+          "type": "paragraph",
+          "text": "構想如圖 5-74(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-74 範例一"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先將等角方格畫出來,遇到缺口部分優先處理。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 再將已知兩視圖的線條畫至立體圖上。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 由步驟 2 判斷出紅色線段,建構完整立體圖。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 擦去多於線條,完成立體圖。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 將右側視圖畫出來,校對與立體圖是否符合。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 234 2022/4/13 下午 04:40:12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 235"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-75(a) 所示已知兩視圖,藉手繪等角圖協助繪製第三視圖如圖右。"
+        },
+        {
+          "type": "paragraph",
+          "text": "構想如圖 5-75(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-75 範例二"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先將等角方格畫出來,此題無缺口部分。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 由步驟 1 判斷出紅色線段。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 由步驟 2 判斷出紅色線段,建構完整立體圖。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 擦去多於線條,完成立體圖。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 將右側視圖畫出來,校對與立體圖是否符合。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 235 2022/4/13 下午 04:40:13"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p049.jpg"
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "236"
+        },
+        {
+          "type": "heading",
+          "text": "例題 5-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-76(a) 所示已知兩視圖,藉手繪等角圖協助繪製第三視圖如圖右。"
+        },
+        {
+          "type": "paragraph",
+          "text": "構想如圖 5-76(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "步驟說明"
+        },
+        {
+          "type": "heading",
+          "text": "1. 先將等角方格畫出來,並將虛線部分 ( 綠線 ) 畫出。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 由步驟 1 判斷出紅色線段。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 擦去多於線條,完成立體圖。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 將右側視圖畫出來,校對與立體圖是否符合。"
+        },
+        {
+          "type": "paragraph",
+          "text": "註 立體圖虛線部分亦可畫成斜面或曲面,如圖 5-76(c) 所示,答案皆符合。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-76 範例三"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 236 2022/4/13 下午 04:40:14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p050.jpg"
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 237"
+        },
+        {
+          "type": "heading",
+          "text": "5-8 視圖之選擇與排列"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件的形狀簡單或複雜各有不同,選擇加工機械的種類亦不同,所以機件在放入投影箱經 投影後,雖然可得六個不同方向的視圖,如圖 5-77 所示,但不一定非要以此六個視圖來表達該 機件形狀。那麼,視圖如何取捨呢?視圖太多並非必要,但是視圖太少卻不足以表達形狀,所"
+        },
+        {
+          "type": "heading",
+          "text": "以請參考下列幾項原則:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-77 視圖之選擇"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 237 2022/4/13 下午 04:40:14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p051.jpg"
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "238"
+        },
+        {
+          "type": "heading",
+          "text": "1. 前視圖之選擇視向"
+        },
+        {
+          "type": "paragraph",
+          "text": "選擇物體前視圖之視向,必須考慮到三項因素,如圖 5-78 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-78 前視圖之取捨"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 最能 表達物體某種形狀之特徵。 (2) 最容易判斷物體之形狀。 (3) 虛線最少 之視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 視圖數目以表達此物體之形狀後,越少越好"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-77 與圖 5-79 所示,視圖的表達盡量選擇不重複性與虛線較少的視圖為原則,俯 視圖與仰視圖圖形相似,且仰視圖有虛線,所以選擇俯視圖;而左側視圖與右側視圖,以選 擇右側視圖較為恰當;後視圖與前視圖相較下,後視圖可以省略。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-79 三視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "故在圖中得知選擇 前視圖、 右側視圖 與 俯視圖,即可將該物體清楚地表達形狀及空間三 度。製圖上也常使用前視圖、俯視圖及右側視圖或前視圖、俯視圖及左側視圖來表達,當物 體用三個視圖來呈現時,我們常稱此為物體的 三視圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 238 2022/4/13 下午 04:40:14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p052.jpg"
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 239"
+        },
+        {
+          "type": "heading",
+          "text": "3. 選擇視圖不可過猶不及"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 5-80 所示,圖 (a)、 (b)、 (c)、 (d) 中雖具有相同的前視圖,但卻有不同的右側視圖, 故若只繪前視圖不足以顯示出物體形狀。然而雖只有兩個視圖,卻能清楚表達該機件形狀, 所以可予以省略其他視圖,故選擇視圖時不可過猶不及。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-80 選擇視圖不可過猶不及"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般視圖之取捨原則如下說明,如圖 5-81 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-81 視圖之取捨"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 斷面且形狀簡單機件 者以 單一視圖 即可表示,通常取前視圖再 配合符號 t ( 厚度 )、 f ( 直 徑 )、 S ( 球面符號 ) 加以表示,如薄板件、實心球等。如圖 (a) 所示為一薄板件,只需繪 一個視圖,並在圖上附近標註 t( 厚度符號 ),即可表達物體的形狀大小。 (2) 簡單機件 通常選擇前視圖與右側視圖,或選擇前視圖與俯視圖,以二個視圖表示即可, 如圖 (b) 所示。 (3) 複雜機件 通常選擇前視圖、俯視圖及右側視圖,如圖 (c) 所示,必須使用三視圖方能顯 示 A、 B、 C 三個主要形狀。"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 239 2022/4/13 下午 04:40:15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p053.jpg"
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "240"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 特別複雜機件或產品,有時須要用到更多視圖與搭配,如第二冊將敘述之剖面視圖、輔 助視圖或特殊視圖等。然而有時候只為了強調造型或加強某部位,並不須要完整表達該 複雜機件或產品,如圖 5-82 所示汽車,一般汽車經銷商之汽車型錄通常很少顯示仰視圖 與後視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-82 汽車型錄表達 4 個視圖方式"
+        },
+        {
+          "type": "heading",
+          "text": "4. 角柱、角錐、圓錐、圓柱體之取捨"
+        },
+        {
+          "type": "paragraph",
+          "text": "如角柱、角錐、圓錐、圓柱體等,皆是簡單又對稱的形體,在視圖取捨上,一般只繪兩 個視圖,如圖 5-83 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-83 角柱、圓柱體之視圖取捨"
+        },
+        {
+          "type": "paragraph",
+          "text": "甚至可用一個視圖來表達圓柱或圓錐,如圖 5-84 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-84 一個視圖表達圓柱、圓錐"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 240 2022/4/13 下午 04:40:16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p054.jpg"
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 5 正投影識圖與製圖 241"
+        },
+        {
+          "type": "heading",
+          "text": "5. 視圖的擺置方向"
+        },
+        {
+          "type": "paragraph",
+          "text": "一般視圖的擺置方向以 自然擺設為原則,如圖 5-85 例,圖 (a) 為直立圓錐正常的自然擺 置。而圖 (b) 所示階級圓桿件,通常以工作母機車床加工,其加工安置方向為水平,故中心 軸線置於水平位置,而且依加工程序而言,小徑擺放在右邊,大徑擺在左邊為原則。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-85 視圖之擺置方向"
+        },
+        {
+          "type": "heading",
+          "text": "6. 不同繪圖空間的視圖排列法"
+        },
+        {
+          "type": "paragraph",
+          "text": "往往一張圖紙須同時繪製兩個以上機件的視圖,此時,視圖排列的位置必須依視圖在圖 紙上所佔空間是否適當而定。尤其遇到扁平或深度特長的機件時,可將視圖安排成逆向 L 字 形排列。如圖 5-86 所示,可將 V 形枕原來的前視圖變成仰視圖,則挪出來的空間因而改變。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 5-86 不同繪圖空間的視圖排列法"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 241 2022/4/13 下午 04:40:17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "heading",
+          "text": "5-1 ( )1. 下列敘述投影何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 投影時表示眼睛所在位置之點,謂之視點"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 正投影之原理乃是假設視點置於離物體無限遠處"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 物體離投影面愈遠所得之正投影愈大"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 透視圖的視線集中於一點。"
+        },
+        {
+          "type": "heading",
+          "text": "( )2. 下列敘述投影何者正確?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 以觀察者、投影面、物體三者順次排列的一種正投影法稱為第三角法 (B) 正投影法中 CNS 規定採用第一角法和第三角法同時使用 (C) 在投影箱直立投影面上所得之投影視圖稱為俯視圖 (D) 工作圖中最常用之投影法為透視圖法。"
+        },
+        {
+          "type": "heading",
+          "text": "( )3. 下列敘述投影何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 當一平面與某一投影面垂直時,則此面在該投影面成一直線 (B) 某工作物面的正投影為其實形,則此面與投影面相交"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 一單斜面在主要三視圖中總共呈現二面一線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 一正垂面在主要三視圖中總共呈現一面二線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )4. 下列敘述投影何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 一直線與水平投影面垂直,則直立投影可投影成與該直線同長之直線 (B) 一面與三主要投影面都不平行或不垂直,則此面稱為複斜面 (C) 根據投影的原理,描述物件形狀的方法有立體表現法和平面表現法 (D) 空間三度是指長、寬、高。 ( )5. 在水平投影面 (HP) 上方,直立投影面 (VP) 前方者,稱為第幾象限 (A) 一 (B) 二 (C) 三 (D) 四。"
+        },
+        {
+          "type": "heading",
+          "text": "( )6. 下列敘述投影何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 透視投影其視線相互平行 (B) 正投影是指投射線與投影面成垂直 (C) 平行投影之視線、投射線相互平行 (D) 正投影為平行投影的一種。"
+        },
+        {
+          "type": "heading",
+          "text": "( )7. 下列敘述投影之象限何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 第一象限是指在 HP 之上方, VP 之前方"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 第二象限是指在 HP 與 VP 之前方"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 第三象限是指在 HP 之下方, VP 之後方 (D) 第四象限是指在 HP 之下方, VP 之前方。"
+        },
+        {
+          "type": "heading",
+          "text": "242"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 242 2022/4/13 下午 04:40:17"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( )8. 下列敘述投影法何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A)CNS 規定第一角法與第三角法同等適用,但不可混合使用"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 第一角法是視點→投影面→物體"
+        },
+        {
+          "type": "heading",
+          "text": "h v"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 一點 P 放在第三象限內時,其水平投影 P 位在直立投影 P 正上方 (D) 若平面平行直立投影面,則在直立投影面上得其正垂視圖。 5-2 ( )9. 在正投影視圖中形成線的,可能代表物件的 (A) 面 (B) 面與面之交線 (C) 面的極限 (D) 以上皆可能。 ( )10. 於視圖中,凡是被遮蔽部分之邊線、交線及面之極限均用 (A) 粗線 (B) 中心線 (C) 尺度界線 (D) 隱藏線 表之。"
+        },
+        {
+          "type": "heading",
+          "text": "( )11. 下列敘述物體之投影何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 前視圖可顯示該物體的寬度與高度"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 在水平投影面之上方所得視圖稱為前視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 第一角投影之視圖排列是左側視圖位在前視圖右側 (D) 第三角投影之視圖排列是俯視圖位在前視圖上方。"
+        },
+        {
+          "type": "heading",
+          "text": "5-3 ( )12. 下列哪一種線是屬於粗線?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 輪廓線 (B) 尺度界線 (C) 中心線 (D) 隱藏線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )13. 表示物面特殊處理的範圍用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 徒手畫線 (B) 細鏈線 (C) 粗鏈線 (D) 實線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )14. 細鏈線不可繪製"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 旋轉剖面輪廓線 (B) 中心線 (C) 節線 (D) 假想線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )15. 線條重疊時,其優先順序為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 剖面線、尺度線、實線、虛線 (B) 尺度線、實線、虛線、剖面線 (C) 實線、虛線、尺度線、剖面線 (D) 虛線、實線、剖面線、尺度線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )16. 下列敘述正投影有關線條何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 若一平面在投影面上成一直線,則該直線稱為面的邊視圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 線條重疊時均以細者為優先"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 線條遇粗細相同時,以重要者為優先"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 線條以可見的外形輪廓線為第一優先。"
+        },
+        {
+          "type": "heading",
+          "text": "5-4 ( )17. 下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 正投影箱展開後,可得 6 個視圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 正投影中之水平投影面視圖為右、左側視圖"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 俯視圖在前視圖的上方者為第三角法投影"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 第一角法右側視圖的位置在前視圖之左方。"
+        },
+        {
+          "type": "heading",
+          "text": "243"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 243 2022/4/13 下午 04:40:17"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( )18. 下列敘述何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 正投影之每一視圖能表示物體一度的空間度量"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 如前視圖可表示物體之高與寬,則側視圖可表示物體之深、寬"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 右側視圖無法顯示出高度"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 前視圖無法顯示出深度。"
+        },
+        {
+          "type": "heading",
+          "text": "( )19. 下列投影法之敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 第三角投影符號"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 依據中華民國國家標準規定,第一角法和第三角法同等適用,"
+        },
+        {
+          "type": "heading",
+          "text": "但在同一張圖中不可混淆使用"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 俯視圖在前視圖下方為第一角法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 右側視圖在前視圖右方為第三角法。"
+        },
+        {
+          "type": "heading",
+          "text": "5-5 ( )20. 下列何者屬於立體正投影圖?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 等斜圖 (B) 半斜圖 (C) 等角圖 (D) 透視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "( )21. 下列敘述徒手畫立體圖何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 在等角圖上凡與等角軸線之一平行的直線稱為等角線 (B) 非等角線係指正垂面上各稜線之尺度,可直接 1: 1 量度在等角圖"
+        },
+        {
+          "type": "heading",
+          "text": "之等角軸線上"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 不規則曲線物體常以支距法繪製等角圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 等角圖上的圓因等角面傾斜正垂面,故成橢圓。"
+        },
+        {
+          "type": "heading",
+          "text": "5-6 ( )22. 下列敘述識圖方法何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 可應用簡單之幾何形體判斷物體之形狀"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 可藉切割材料以幫助判斷其形狀"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 將物面編號後藉投影可幫助判斷位置"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 以上皆是。"
+        },
+        {
+          "type": "heading",
+          "text": "5-7 ( )23. 下列敘述視圖選擇何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 厚度相同之薄材料,可用一個視圖表示即可"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 表示圓形、六角形、三角形等單純柱體之物件可採用二視圖表示 (C) 呈現該物體特性的輪廓或形狀的面,通常都以俯視圖來表示 (D) 實心球體以 1 個視圖表示。"
+        },
+        {
+          "type": "heading",
+          "text": "244"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 244 2022/4/13 下午 04:40:18"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( )24. 下列視圖敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 以最能表達物體某種形狀之特徵作為前視圖之取向"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 視圖數目以表達物體之形狀愈多愈好"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 角柱、角錐一般只繪兩個視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 一般視圖之擺置方向以自然擺設及考慮加工安置方向為原則。"
+        },
+        {
+          "type": "heading",
+          "text": "5-8 ( )25. 左圖之右側視圖為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "( )26. 左圖之右側視圖為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "( )27. 左圖之右側視圖為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "( )28. 左圖之右側視圖為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "245"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 245 2022/4/13 下午 04:40:21"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( )29. 左圖之右側視圖為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "( )30. 左圖之右側視圖為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "( )31. 左圖之右側視圖為"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( )32. 依正投影視圖,試選出正確的立體圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( )33. 已知一物體之立體圖,如圖所示,則下列何者為正確之第三角法正投影"
+        },
+        {
+          "type": "heading",
+          "text": "視圖?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "246"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 246 2022/4/13 下午 04:40:26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( )34. 如圖所示之立體圖,若以第一角法繪出其前視圖、右側視圖及左側視"
+        },
+        {
+          "type": "heading",
+          "text": "圖,則下列何者正確?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) (D)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( )35. 已知俯視圖與側視圖,請選出正確的前視圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "( )36. 已知俯視圖與側視圖,請選出正確的前視圖。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) (B) (C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "( )37. 下列視圖何者錯誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) (B)"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) (D)。"
+        },
+        {
+          "type": "heading",
+          "text": "247"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 247 2022/4/13 下午 04:40:30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p061.jpg"
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "二、實例應用題組題"
+        },
+        {
+          "type": "heading",
+          "text": "第三章整合題"
+        },
+        {
+          "type": "heading",
+          "text": "( )1. 如圖示圖例,下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 一般工程或機械繪製圖形時,須以厘米作為測量與繪圖單位 (B) 圖例若標註圓孔尺度時必須以直徑符號 φ 加上數字表示 (C) 圖示中心線與剖面所繪製之剖面線用細實線外, 對於尺度線、 尺度界線、 指線、 圓角消失之稜線、作圖線、旋轉剖面的輪廓線等亦用細實線 (D) 圖例中心線與中心線相交,或圖中圓之中心線交會,皆應以長劃相交。"
+        },
+        {
+          "type": "heading",
+          "text": "第五章整合題"
+        },
+        {
+          "type": "heading",
+          "text": "( )2. 如圖示圖例,下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A)AB 線為單斜面之邊視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 此視圖乃利用正投影原理所投影出,係觀察者在無窮遠處,視線、投射線互"
+        },
+        {
+          "type": "heading",
+          "text": "相平行且垂直於投影面"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 係將物體放在第一象限以觀察者→投影面→物體之順序關係投影而得之第一"
+        },
+        {
+          "type": "heading",
+          "text": "角法視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 前視圖的線段 EF 為兩平面相交所形成的稜線稱為交線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )3. 如圖示圖例,下列敘述何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 圖例中 EF 為例,代表三種線條重疊時優先順序為:粗實線→隱藏線 ( 虛線 ) →"
+        },
+        {
+          "type": "heading",
+          "text": "中心線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 圖例中 EF 為例,代表線條重疊時均以較粗者為優先 (C) 此前視圖顯示出該物體的寬度與高度,俯視圖顯示出該物體的寬度與深度 (D) 此俯視圖與右側視圖具有相同的高度。"
+        },
+        {
+          "type": "heading",
+          "text": "248"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 248 2022/4/13 下午 04:40:32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "三、繪圖題"
+        },
+        {
+          "type": "heading",
+          "text": "1. 圖號 5-1:依圖示將立體圖之編號填入三視圖中,並指出正垂面、單斜面、複斜面編號。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 0.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:依序將編號填入前視圖、俯視圖及右側視圖。 (3) 繪製要領:熟悉正投影原理及三視圖之相對位置。"
+        },
+        {
+          "type": "heading",
+          "text": "249"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 249 2022/4/13 下午 04:40:32"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "2. 圖號 5-2:依圖示將立體圖 NO.1 ∼ 12 填入正確三視圖括弧中,並將編號填入三視圖中,"
+        },
+        {
+          "type": "paragraph",
+          "text": "與指出複斜面編號。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 0.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:配對出正確的立體圖與三視圖。 依序將編號填入前視圖、俯視圖及右側視圖。 (3) 繪製要領:熟悉正投影原理及三視圖之相對位置。"
+        },
+        {
+          "type": "heading",
+          "text": "250"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 250 2022/4/13 下午 04:40:33"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "3. 圖號 5-3:已知立體圖示,將三視圖中缺少的線條,補畫於三視圖中。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:判讀立體圖的線條將前視圖、俯視圖及右側視圖缺少的線條,補繪之。 (3) 繪製要領:將各視圖已知之線條與立體圖的判讀,運用正投影原理, 補畫線條 ( 依 CNS 規定繪製線條,輪廓線為粗實線、隱藏線為中線 )。 補畫線條的投影線 ( 細實線 ) 依據,請使用 0.3 的筆繪製。"
+        },
+        {
+          "type": "heading",
+          "text": "251"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 251 2022/4/13 下午 04:40:33"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "4A. 圖號 5-4:已知立體圖示,將三視圖中缺少的視圖,補畫於三視圖中。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間:每張 1 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:判讀立體圖將缺少的視圖,補繪之。 (3) 繪製要領:將各視圖已知之線條與立體圖的判讀,運用正投影原理, 補畫視圖 ( 線條粗細依 CNS 規定繪製 )。 補畫視圖的投影線 ( 細實線 ) 依據,請使用 0.3 的筆繪製。 檢查是否有虛線,不要遺漏。"
+        },
+        {
+          "type": "heading",
+          "text": "252"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 252 2022/4/13 下午 04:40:33"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "4B. 圖號 5-5:已知立體圖示,將三視圖中缺少的視圖,補畫於三視圖中。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間:每張 1 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:判讀立體圖將缺少的視圖,補繪之。 (3) 繪製要領:將各視圖已知之線條與立體圖的判讀,運用正投影原理, 補畫視圖 ( 線條粗細依 CNS 規定繪製 )。 補畫視圖的投影線 ( 細實線 ) 依據,請使用 0.3 的筆繪製。 檢查是否有虛線,不要遺漏。"
+        },
+        {
+          "type": "heading",
+          "text": "253"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 253 2022/4/13 下午 04:40:34"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "5A. 圖號 5-6:已知立體圖示,將三視圖畫於方格中。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:利用方格,計算立體圖中的線條長度。 判讀立體圖中的線條長度,並將三視圖畫於方格中。 (3) 繪製要領:立體圖中的線條長度,必須判讀正確。 運用正投影原理,補畫三視圖 ( 線條粗細依 CNS 規定繪製 )。 檢查是否有虛線,不要遺漏。"
+        },
+        {
+          "type": "heading",
+          "text": "254"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 254 2022/4/13 下午 04:40:34"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "5B. 圖號 5-7:已知立體圖示,將三視圖畫於方格中。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 2 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:利用方格,計算立體圖中的線條長度。 判讀立體圖中的線條長度,並將三視圖畫於方格中。 (3) 繪製要領:立體圖中的線條長度,必須判讀正確。 運用正投影原理,補畫三視圖 ( 線條粗細依 CNS 規定繪製 )。 檢查是否有虛線,不要遺漏。"
+        },
+        {
+          "type": "heading",
+          "text": "255"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 255 2022/4/13 下午 04:40:34"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 70,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "6. 圖號 5-8:已知立體圖示,將三視圖畫於方框中。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:利用方格,計算立體圖中的線條長度。 判讀立體圖中的線條長度,並將三視圖畫於方框中。 (3) 繪製要領:立體圖中的線條長度,必須判讀正確。 運用正投影原理,補畫三視圖 ( 線條粗細依 CNS 規定繪製 )。 檢查是否有虛線,不要遺漏。"
+        },
+        {
+          "type": "heading",
+          "text": "256"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 256 2022/4/13 下午 04:40:35"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 71,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "〔範例說明〕"
+        },
+        {
+          "type": "heading",
+          "text": "257"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 257 2022/4/13 下午 04:40:35"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 72,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "7. 圖號 5-9:已知三視圖,分析其物體之平面性質。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間: 1.5 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟: 可參考課本圖 5-55 之步驟,將已知視圖線條使用徒手畫的方式預判立體圖 形狀,將立體圖轉繪於等角方格中。 判斷物體之平面性質,將單斜面、複斜面與所有面之數量寫至表格中。 (3) 繪製要領: 判斷物體之平面性質,可參考課本圖 5-18,可知單斜面於三視圖中呈現二 面一線 ( 邊視圖 );複斜面於三視圖中呈現三面 ( 縮小變形面 ), 可於三視圖中編號,以利於辨識物體之平面性質。 將各類型面的數量,正確的統計出來。"
+        },
+        {
+          "type": "heading",
+          "text": "258"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 258 2022/4/13 下午 04:40:36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p072.jpg"
+    },
+    {
+      "page": 73,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "8. 圖號 5-10 ∼ 5-12:已知三視圖之部分線條,將缺少線條,補繪之。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間:每張 1 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟: 可參考課本圖 5-55 之步驟,將已知視圖線條使用徒手畫的方式預判立體圖 形狀,將立體圖轉繪於等角方格中。 將判斷之立體圖形,轉繪至三視圖,並將所缺少之線條補足。 (3) 繪製要領: 將各視圖已知之線條與立體圖的判讀,運用正投影原理,補畫線條 ( 依 CNS 規定繪製線條,輪廓線為粗實線、隱藏線為中線 )。 補畫線條的投影線 ( 細實線 ) 依據,請使用 0.3 的筆繪製。 檢查是否有虛線,不要遺漏。"
+        },
+        {
+          "type": "heading",
+          "text": "259"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 259 2022/4/13 下午 04:40:36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p073.jpg"
+    },
+    {
+      "page": 74,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 8 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "260"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 260 2022/4/13 下午 04:40:36"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 75,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 8 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "261"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 261 2022/4/13 下午 04:40:37"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 76,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "9. 圖號 5-13 ∼ 5-15:已知三視圖之其中兩個視圖,將缺少之視圖,補繪之。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間:每張 1 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟: 可參考課本圖 5-55 之步驟,將已知視圖線條使用徒手畫的方式預判立體圖 形狀,將立體圖轉繪於等角方格中。 將判斷之立體圖形,轉繪至三視圖,並將所缺少之視圖,補畫出。 (3) 繪製要領:立體圖中的線條長度,必須判讀正確。 運用正投影原理,補畫三視圖 ( 線條粗細依 CNS 規定繪製 )。 檢查是否有虛線,不要遺漏。"
+        },
+        {
+          "type": "heading",
+          "text": "262"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 262 2022/4/13 下午 04:40:37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p076.jpg"
+    },
+    {
+      "page": 77,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 9 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "263"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 263 2022/4/13 下午 04:40:37"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 78,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 9 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "264"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 264 2022/4/13 下午 04:40:38"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 79,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "10. 圖號 5-16 ∼ 5-25:依圖上尺度以 1: 1 比例繪出適當之視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 繪製時間:每張 2 節課"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 繪製步驟:依立體圖之寬、高、深,將三視圖佈圖。 依立體圖上之尺度,正確的將三視圖繪製。 (3) 繪製要領:運用正投影原理,補畫三視圖 ( 線條粗細依 CNS 規定繪製 )。 檢查是否有虛線,不要遺漏。 中心線須超出輪廓線約 2 ~ 3mm。 前視圖、俯視圖、右側視圖的位置需擺放正確。 線條之接點處需繪製正確。圖 5-24、 5-25 建議可繪出前視圖與俯視圖即可。"
+        },
+        {
+          "type": "heading",
+          "text": "265"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 265 2022/4/13 下午 04:40:38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p079.jpg"
+    },
+    {
+      "page": 80,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 10 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "266"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 266 2022/4/13 下午 04:40:38"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 81,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 10 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "267"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 267 2022/4/13 下午 04:40:39"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 82,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 10 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "268"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 268 2022/4/13 下午 04:40:39"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 83,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 10 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "269"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 269 2022/4/13 下午 04:40:40"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 84,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 10 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "270"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 270 2022/4/13 下午 04:40:40"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 85,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 10 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "271"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 271 2022/4/13 下午 04:40:40"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 86,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 10 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "272"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 272 2022/4/13 下午 04:40:41"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 87,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 10 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "273"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 273 2022/4/13 下午 04:40:41"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 88,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "( 承第 10 題 )"
+        },
+        {
+          "type": "heading",
+          "text": "274"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 274 2022/4/13 下午 04:40:41"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 89,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "四、創意繪圖題"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖示獎座實物,請依圖示尺度繪製三視圖於 A3 圖紙上"
+        },
+        {
+          "type": "heading",
+          "text": "275"
+        },
+        {
+          "type": "paragraph",
+          "text": "CH05.indd 275 2022/4/13 下午 04:40:43"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch05/p089.jpg"
+    },
+    {
+      "page": 90,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "筆記百 - 一"
+        },
+        {
+          "type": "heading",
+          "text": "CH05_indd 276"
+        },
+        {
+          "type": "heading",
+          "text": "2022 / 13 下午 044"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

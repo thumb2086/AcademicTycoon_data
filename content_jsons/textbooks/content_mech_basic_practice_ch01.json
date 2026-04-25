@@ -1,0 +1,869 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH01",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH01",
+    "title": "CH1"
+  },
+  "title": "機械基礎實習全冊 Chapter 1 ਿ͉ʈՈeඎՈԴ͜",
+  "source_pdf": "mechanical_basic_practice/CH1PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH01",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "ਿ͉ʈՈeඎՈԴ͜"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 瞭解鉗工工作的內容與特性 1-1 鉗工工作內容"
+        },
+        {
+          "type": "heading",
+          "text": "2. 認識基本手工具的種類與功用 1-2 基本手工具種類與功用"
+        },
+        {
+          "type": "heading",
+          "text": "3. 熟悉常用量具的使用與保養 1-3 基本量具的種類、功用與原理"
+        },
+        {
+          "type": "heading",
+          "text": "4. 瞭解手工具與量具使用注意事項 1-4 量具的保養與維護"
+        },
+        {
+          "type": "heading",
+          "text": "1-5 手工具、量具的使用與注意事項"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "heading",
+          "text": "1-1 ཌʈʈЪʫ࢙"
+        },
+        {
+          "type": "paragraph",
+          "text": "十八世紀英國人瓦特 (Watt) 發明了蒸汽機,以機器取代人工,掀起了工業革命,隨著科技 的進步、電腦資訊的發達、電腦數值控制機器 (CNC, Computer Numerical Control machine) 以 及機器人 (Robot) 的廣泛應用,生產作業得以邁向自動化,提升了生產速度與產品精度,同時 無人化工廠 (Unmaned factory) 的興起也減少對操作人員的技術依賴。然而,在許多的工作場 合,卻無法以某種全新的技術完全取代人工,如設備組立安裝、機台調整校正及修護保養等等 這些均屬於鉗工工作 (Bench work),鉗工因工具簡單、操作靈活,可以完成機械加工不易完成 的工作。"
+        },
+        {
+          "type": "heading",
+          "text": "1-2 ਿ͉˓ʈՈ၇ᗳၾ̌͜"
+        },
+        {
+          "type": "paragraph",
+          "text": "鉗工工作的完成常須藉助一些刀具、量具及手工具進行切削加工、量測、裝配、校正或調 整,來達到吾人或設計者所想要的功能。所以認識手工具的種類與功用是最基本的知識與技"
+        },
+        {
+          "type": "heading",
+          "text": "能,鉗工工作中常用的手工具如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1-2-1 cᑮകৎɿ"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺絲起子 (Screw drivers) 如圖 1-1 所示,用來鬆緊螺釘。"
+        },
+        {
+          "type": "heading",
+          "text": "起子含把手、刀桿與刀口, ⣳ጁ˫ӝጥ⿢ಙ⠧ḻȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-1 ȭ➦⃦⬚ઈ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch01/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 ਿ͉ʈՈeඎՈԴ͜ 3"
+        },
+        {
+          "type": "heading",
+          "text": "1-2-2 c˓ᕈ"
+        },
+        {
+          "type": "heading",
+          "text": "手鎚又稱鎯頭 (Hammer) 是用"
+        },
+        {
+          "type": "heading",
+          "text": "來做敲擊的工具,依頭部材料分"
+        },
+        {
+          "type": "paragraph",
+          "text": "為鋼鎚與軟鎚。鋼鎚的頭部以碳 ⻘方 素工具鋼經鍛造製成。圓球端用"
+        },
+        {
+          "type": "heading",
+          "text": "於鉚釘頭部或鐵板的敲擊,平面"
+        },
+        {
+          "type": "paragraph",
+          "text": "端作為一般的敲擊工作。"
+        },
+        {
+          "type": "heading",
+          "text": "手柄以硬質木材製成,握持"
+        },
+        {
+          "type": "heading",
+          "text": "Ⱆ方"
+        },
+        {
+          "type": "heading",
+          "text": "處為橢圓形斷面,以便頭部方向"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ ߧ ߧ 1-3 ȭ⻘方⎞Ⱆ方 ⻘方⎞Ⱆ方 ⻘方⎞Ⱆ方"
+        },
+        {
+          "type": "heading",
+          "text": "定位,木柄頸部直徑較小可降低"
+        },
+        {
+          "type": "heading",
+          "text": "敲擊的反力, ⻘方⣳ጁ˫方ᆑ⸅"
+        },
+        {
+          "type": "heading",
+          "text": "⸇⠧ḻŊ 由 0.1 公斤至 2 公斤等多"
+        },
+        {
+          "type": "heading",
+          "text": "種規格, ᑨፋడೇʑ౑ᮢ 0.45 ҝ"
+        },
+        {
+          "type": "heading",
+          "text": "ᅏ (1 ᷯ ) ᱿⻘方ȯ ࢞(木)ᒛ方"
+        },
+        {
+          "type": "heading",
+          "text": "軟鎚以塑膠或銅、錫、鉛等"
+        },
+        {
+          "type": "heading",
+          "text": "軟金屬為頭部材料,主要用在已"
+        },
+        {
+          "type": "paragraph",
+          "text": "加工面的敲擊或機件安裝之調整。 各手鎚如圖 1-3 及 1-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "⍑方"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-4 ȭ(木)ᒛ方⎞࢞⍑方"
+        },
+        {
+          "type": "heading",
+          "text": "螺 絲 起 子 以 十 字"
+        },
+        {
+          "type": "heading",
+          "text": "和 一 字 最 常 用, 分 別"
+        },
+        {
+          "type": "heading",
+          "text": "配 合 螺 釘 頭 上 的 十 字"
+        },
+        {
+          "type": "heading",
+          "text": "槽 與 一 字 槽, 使 用 時"
+        },
+        {
+          "type": "heading",
+          "text": "刀 口 大 小 應 與 槽 寬 吻"
+        },
+        {
+          "type": "heading",
+          "text": "合 避 免 刀 口 或 螺 釘 頭"
+        },
+        {
+          "type": "paragraph",
+          "text": "受損,如圖 1-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-2 ȭ➦⃦⬚ઈӝםञଅະ⎞ᐥ૰׶"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch01/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "1-2-3 cҮ˓"
+        },
+        {
+          "type": "paragraph",
+          "text": "扳手 (Wrench) 是在一端施力,於另一端產生扭力的手工具,用來鬆緊螺栓或螺帽,常用扳"
+        },
+        {
+          "type": "heading",
+          "text": "如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 六角扳手 (Hexagon socket wrench):"
+        },
+        {
+          "type": "heading",
+          "text": "ᮢ ᅠҙҞ⤑ᗖᆑ➦ዤ᱿⡶ֲడ̳Ŋ"
+        },
+        {
+          "type": "heading",
+          "text": "規格以六角形對邊尺寸表示, 如 3、"
+        },
+        {
+          "type": "paragraph",
+          "text": "4、 5、 6、 8mm ⋯⋯等。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-5 ȭҞ⤑༡༆"
+        },
+        {
+          "type": "heading",
+          "text": "2. 開 口 扳 手 (Open-End wrench):"
+        },
+        {
+          "type": "heading",
+          "text": "用 於 外 六 角 頭 螺 栓、 螺 帽 的 鬆"
+        },
+        {
+          "type": "heading",
+          "text": "緊,材質以工具鋼或合金鋼鍛造"
+        },
+        {
+          "type": "heading",
+          "text": "而成, ⣳ጁ˫⿭םञଅ⠧ḻŊ 如"
+        },
+        {
+          "type": "heading",
+          "text": "17 × 19mm, 開口愈大, 扳手愈長,"
+        },
+        {
+          "type": "paragraph",
+          "text": "可施加之扭力也愈大。開口中心"
+        },
+        {
+          "type": "heading",
+          "text": "線與手柄成 15°,其目的是在有限"
+        },
+        {
+          "type": "paragraph",
+          "text": "的空間內,可翻轉扳手繼續使用。 Ț ߧ 1-6 ȭ⿭ם༡༆"
+        },
+        {
+          "type": "heading",
+          "text": "3. 梅花扳手 \u0002\u0003㑅\u0005\u0006\u0007\b \u0006 \u000e:內孔採"
+        },
+        {
+          "type": "heading",
+          "text": "十二角形設計能將整個螺栓頭套"
+        },
+        {
+          "type": "heading",
+          "text": "住,使六角形頭平均受力,安全性"
+        },
+        {
+          "type": "heading",
+          "text": "高,而且每隔 30° 就可以換個角度"
+        },
+        {
+          "type": "paragraph",
+          "text": "再繼續施力。"
+        },
+        {
+          "type": "heading",
+          "text": "梅花扳手的規格以六角形對邊大小"
+        },
+        {
+          "type": "paragraph",
+          "text": "表示,如 17 × 19、 19 × 21mm ⋯⋯等。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ ߧ 1-7 1 7 ȭጪ␕༡༆ ጪ␕༡༆"
+        },
+        {
+          "type": "heading",
+          "text": "4. 活 動 扳 手 (Adjustable wrench):"
+        },
+        {
+          "type": "heading",
+          "text": "開口大小可在一定範圍內調整,"
+        },
+        {
+          "type": "paragraph",
+          "text": "⣳ ጁ ˫ ༡ ༆ Қ ⿢ ⠧ ḻŊ 如 200、 250、 300mm ⋯⋯等。尺寸愈大,"
+        },
+        {
+          "type": "heading",
+          "text": "開口調整量愈大,用於大螺栓的"
+        },
+        {
+          "type": "heading",
+          "text": "鬆緊,小螺栓應使用小規格扳手"
+        },
+        {
+          "type": "paragraph",
+          "text": "以免損壞螺栓。 Ț ߧ 1-8 ȭᙙՒ༡༆"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 ਿ͉ʈՈeඎՈԴ͜ 5"
+        },
+        {
+          "type": "heading",
+          "text": "1-2-4 c˓ཌ"
+        },
+        {
+          "type": "paragraph",
+          "text": "手鉗 (Pincers) 是於手柄處施加外力,藉槓桿原理產生極大夾持力的手工具,用來夾持物件 或做彎曲、 剪斷小直徑之線材等, 依用途不同有各式類型, 機械工作常用手鉗有鋼絲鉗、 尖嘴鉗、 斜口鉗與鯉魚鉗,如圖 1-9(a) ∼ (d) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-9 ȭᑨፋడ̳ࢍ໽౑ᮢ༆⹥"
+        },
+        {
+          "type": "heading",
+          "text": "1-3 ਿ͉ඎՈٙ၇ᗳě͜ၾࡡଣ"
+        },
+        {
+          "type": "paragraph",
+          "text": "在介紹量具前,我們先來了解一下長度單位與公差。長度單位有公制與英制之分,公制長 度的基本單位為公尺 (meter),而 ֔ Ӡʠɺҝଙờᣅȵᕥ›ȶŊבờȵҝ׀ȶ (millimeter Ŋ mm) Ŋҝ׀ᆯᑨፋ⠗Ꮘ໽͐ᮢ᱿܈̤Ŋ 該單位與其他常用長度的換算參閱表 1-1。"
+        },
+        {
+          "type": "heading",
+          "text": "Ȝ ⠧ 1-1 ȭ⿢ಙ܈̤᱿ဘᾰ"
+        },
+        {
+          "type": "heading",
+          "text": "̤܈ ˩⚦ 10 ᄲߌ᱿ 1 ܈̤᱿ञଅ⸇"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "公里 km 10 約操場 2 ∼ 3 圈的周長"
+        },
+        {
+          "type": "heading",
+          "text": "公尺 ( 米 ) m 1 約兩手臂張開寬度"
+        },
+        {
+          "type": "heading",
+          "text": "- 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "公分 ( 厘米 ) cm 10 )ᔍሬ 200 ಙׂᇎʠ"
+        },
+        {
+          "type": "heading",
+          "text": "- 3"
+        },
+        {
+          "type": "heading",
+          "text": "公厘 ( 毫米 ) mm 10 約一元硬幣的厚度"
+        },
+        {
+          "type": "heading",
+          "text": "- 6"
+        },
+        {
+          "type": "heading",
+          "text": "微米 \u000fm 10 一個紅血球大小約數微米"
+        },
+        {
+          "type": "heading",
+          "text": "- 9"
+        },
+        {
+          "type": "heading",
+          "text": "奈米 nm 10 約為分子或 DNA 的大小"
+        },
+        {
+          "type": "heading",
+          "text": "- 12 - 10"
+        },
+        {
+          "type": "heading",
+          "text": "皮米 pm 10 1Å =10 m"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch01/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "paragraph",
+          "text": "在零件製造過程由於機器震動、溫度變化、量具精度... 等因素,導致尺度 ( 尺寸與角度 ) 無法絕對精準。因此,在不影響零件功能的前提下,製造過程均允許尺度有些微的誤差量,這 些誤差量稱為公差 (tolerance)。公差大小是一項非常重要的關鍵,些微尺度的誤差可能導致整個 機構無法運作或過於鬆動。所以在製造過程需對加工物進行量測,以滿足公差要求。除此之外, 機械設備的安裝、調整或校正,也需藉助量具的檢測以達到應有的精密度。 目前傳統機械加工所能達到的精密度約 10 微米 (\u000fm) 左右, 10\u0002m ᾀᅠ 0.01mm ŊᏈ᮹ờ"
+        },
+        {
+          "type": "heading",
+          "text": "0.01mm ᣅȵ 1 ጻȶŊ͛ॖ 0.05mm ԅờ 5 ጻŊㇷᔍㆩ࿴ȯ 公差愈小,精密度愈高,檢測的量具"
+        },
+        {
+          "type": "paragraph",
+          "text": "也需愈精密;反之,公差大,則選用精密度較低的量具,使量具達到最佳經濟效益。以下針對 鉗工常用量具進行介紹與說明。"
+        },
+        {
+          "type": "heading",
+          "text": "1-3-1 cԉˉ"
+        },
+        {
+          "type": "paragraph",
+          "text": "角尺 (Square) 又稱直角規,內側與外側均為 90°,角尺係用合金鋼或不鏽鋼經淬火硬化再輪 磨加工。刀口形狀有平直形、台座形與刀口形三種,如圖 1-10 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-10 ȭ⤑ଙ"
+        },
+        {
+          "type": "paragraph",
+          "text": "角尺主要用來檢查工件的垂直度,如圖 1-11,亦可用來檢查平面度、直角設定或協助劃 垂直線等,是工廠中重要且常用的量具之一, ⤑ଙ⣳ጁ˫ȵ⿢ⴗଙ૸ ć ᵬⴗଙ૸ȶ⠧ḻŊ 如 100 × 70mm。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-11 ȭ⤑ଙᒑውడ˴᱿ࠡ᳅ಙ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch01/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 ਿ͉ʈՈeඎՈԴ͜ 7"
+        },
+        {
+          "type": "paragraph",
+          "text": "1-3-2 cದᅺ̔ˉ (Vernier calipers) 游標卡尺是工廠使用頻率很高的量具,主要構造由本尺 ( 主尺 )、游尺 ( 副尺 )、測爪與深度 測桿組成,各部位名稱如圖 1-12 所示。尺寸讀取方式有刻劃式、附錶式與電子式三種。 ԀԬೣ ᱿ᜀᐻ֦ଙಙሷ 0.02mm ⎞ 0.05mm қỚȮ 附錶游標卡尺 (Dial caliper) 精度 0.01 或 0.02mm、 電子式游標卡尺 (Digimatic caliper) 精度 0.01 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-12 ȭᜀᐻ֦ଙ׳ⵒ̤׻ờ"
+        },
+        {
+          "type": "heading",
+          "text": "當游標卡尺的游尺移動時,"
+        },
+        {
+          "type": "heading",
+          "text": "固定在游尺的外側測爪、內側測"
+        },
+        {
+          "type": "heading",
+          "text": "爪、深度測桿也會同時移動,本"
+        },
+        {
+          "type": "heading",
+          "text": "尺與游尺前端也形成一個段差,"
+        },
+        {
+          "type": "heading",
+          "text": "使得 ᜀᐻ֦ଙңሷʽỚԼ⋱Ř 1. क"
+        },
+        {
+          "type": "heading",
+          "text": "ϳ⸇ᛵ 2. ҙϳ⸇ᛵ 3. べ₤⸇ᛵ"
+        },
+        {
+          "type": "heading",
+          "text": "4. ᛖಙ⸇ᛵ 5. ၒⶪԬBడң֠"
+        },
+        {
+          "type": "paragraph",
+          "text": "ՀԬBŊ 如圖 1-13 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-13 ȭᜀᐻ֦ଙʠԼ⋱"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch01/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "ɓeದᅺ̔ˉٙࡡଣ"
+        },
+        {
+          "type": "paragraph",
+          "text": "就刻劃式游標卡尺而言,其精度取決於本尺與游尺刻劃的相差量,其原理是 ߱ ɺહ⿢ಙ (L)"
+        },
+        {
+          "type": "heading",
+          "text": "L L"
+        },
+        {
+          "type": "paragraph",
+          "text": "ҙŊ༴቏ଙᾀӠໞ n ጁŊᜀଙᾀӠໞ n + 1 ጁŊ቏ଙᕓጁञଅᣅ Ŋᜀଙᕓጁञଅᣅ Ŋқ≛"
+        },
+        {
+          "type": "heading",
+          "text": "n n+1"
+        },
+        {
+          "type": "heading",
+          "text": "L L"
+        },
+        {
+          "type": "heading",
+          "text": "᱿᳈ద⸇ᣅ – Ŋᔍϊ֯ᆯᜀᐻ֦ଙ᱿ಙȯ"
+        },
+        {
+          "type": "heading",
+          "text": "n n+1"
+        },
+        {
+          "type": "paragraph",
+          "text": "以精度 0.02mm 的游標卡尺為例,本尺取 49mm 長,等分成 49 格 ( 每格 1mm),在該長度內"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        },
+        {
+          "type": "paragraph",
+          "text": "將游尺等分成 49 + 1 格 ( 每格大小為 = 0.98mm),本尺與游尺每格的相差量= 1 - 0.98 ="
+        },
+        {
+          "type": "heading",
+          "text": "49+1"
+        },
+        {
+          "type": "heading",
+          "text": "0.02mm。刻劃情形與原理如圖 1-14(a)、 (b) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 1-14 ȭಙ 0.02mm ᜀᐻ֦ଙԀԬ׆᫧"
+        },
+        {
+          "type": "paragraph",
+          "text": "精度 0.05mm 的原理如同 0.02mm,刻劃情形如圖 1-15(a)、 (b) 兩種。圖 1-15(a) 是取本"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺 19mm,在游尺等分成 20 格,本尺與游尺每格相差量 1– = 0.05mm。圖 1-15(b) 是取本尺"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        },
+        {
+          "type": "paragraph",
+          "text": "39mm,在游尺等分成 20 格,本尺兩格與游尺一格相差量 =2– = 0.05mm,此目的是加大游"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺刻劃,使尺寸判讀更容易。"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 1-15 ȭಙ 0.05mm ᜀᐻ֦ଙԀԬ׆᫧"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch01/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 ਿ͉ʈՈeඎՈԴ͜ 9"
+        },
+        {
+          "type": "heading",
+          "text": "ɚeದᅺ̔ˉᛘج"
+        },
+        {
+          "type": "paragraph",
+          "text": "游標卡尺讀取尺寸分成「整數」與「小數」兩部分,兩數相加即為測定值。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 以精度 0.02mm 的游標卡尺為例,請參閱圖 1-16(a) 下排刻劃。 ( 註:上排為英制刻劃 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) ᄮᄲⵒӠŘ⩊חᜀଙȵ 0 ȶ໽྆ḻ᱿቏ଙԀಙϊ 圖中本尺刻度值為 10mm。 ( 由游尺「 0 」刻劃可知該尺寸比 10mm 大一些,至於大多少"
+        },
+        {
+          "type": "heading",
+          "text": "須藉游尺讀取小數部分 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) ଅᄲⵒӠŘ༪ӛᜀଙ⎞቏ଙԀԬଃ㕑᱿ȵᜀଙȶᄲϊ 游尺上每刻劃代表 0.02mm,數字 1、 2 ⋯分別表示 0.1mm、 0.2mm ⋯。圖中游尺與本尺 刻劃對齊處在數字「 3 」右方的第 4 條刻劃,讀值為 0.3 + 0.02 × 4 = 0.38mm 測定值: (1) + (2) = 10 + 0.38 = 10.38 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 以讀數 0.02mm 之附錶游標卡尺為例,參閱圖 1-16(b)。"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 整數部分:讀取本尺顯示之刻劃值,如圖本尺刻劃值為 17mm。 (2) 小數部分:順時針方向讀取錶面指針之指示值,圖中指針之顯示值為 0.08mm。 測定值: (1) + (2) = 17 + 0.08 = 17.08 mm。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-16 ȭᜀᐻ֦ଙ᱿⩊ᘍ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch01/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "1-3-3 cɦ᩶̔"
+        },
+        {
+          "type": "paragraph",
+          "text": "֦׀ Ӡ (Micrometer) Ӵᮢ ➦ h ׆ ᫧͗ ⸇ ᛵ ᧎ ˴ ଙ ૸Ŋ ב ờ ➦ ᅩ ᛵ െ ݽŊ ౑ᮢ ಙ ᣅ"
+        },
+        {
+          "type": "heading",
+          "text": "0.01mm ȯ 依用途不同有各式分厘卡,如外徑分厘卡、內徑分厘卡、深度分厘卡、螺紋分厘卡等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "其中以 कലӠ֦׀ሱ౑ᮢŊᕓぽ 25mm ɺᄄŊॖ 0 Ɯ 25mm Ȯ 25 Ɯ 50mm ƥᾀȯ 外徑分厘卡各 部位名稱如圖 1-17 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-17 ȭकലӠ׳֦׀ⵒ̤׻ờ"
+        },
+        {
+          "type": "paragraph",
+          "text": "外徑分厘卡內部構造如圖 1-18 所示, Ң׆᫧ᆯ߱ᛵⰧʀ⢌ӛ➦⭡ 0.5mm ᱿➦hŊकहᾉ ᾀӠໞشߥ 50 ጁŊᯍकहᾉⱧՒɺΤԀԬ (1/50 ߞ ) ŊᛵⰧẼՒ⸇ = 0.5mm \u0002 1/50 = 0.01mm ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-18 ȭकലӠ֦׀᱿ҙⵒᐉⳍ"
+        },
+        {
+          "type": "paragraph",
+          "text": "因精密度高,測軸移動較慢,大的移動量可由手掌 ( 或手臂 ) 驅使套筒轉動,如圖 1-19 所示, ࿲⤯డ˴ԊະⱧՒ።ⱐʏ͐Ңᱹӛ 2 Ɯ 3 ⊖ᇈ֯ᣅᛵહϊȯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ț ߧ 1-19 ȭ☼༆࿜ၷჍԻ宗͐हᾉ൬ⳌⱧՒŊᣅⳭ⸇ᛵԻ⸇ሱ̈́ջŊ።ⱐᱹӛ 2 Ɯ 3 ר֯ᇈ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch01/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 ਿ͉ʈՈeඎՈԴ͜ 11"
+        },
+        {
+          "type": "heading",
+          "text": "1-3-4 cඎ፶"
+        },
+        {
+          "type": "paragraph",
+          "text": "量錶是用來檢測尺寸微小變化量的量具,如同心度、高低 段差、平行度、偏擺量等,精度有 0.001mm(1\u000fm)、 0.002(2\u000fm)、"
+        },
+        {
+          "type": "heading",
+          "text": "0.005(5\u000fm)、 0.01mm 等, డ̳᫠ࢍ˫ 0.01mm ሱᇒ⳦ȯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "量錶大多無法單獨使用,一般常固定在量錶台座上從事量 測工作。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 指示量錶 (Dial indicators):又稱針盤量錶或千分錶,其原"
+        },
+        {
+          "type": "paragraph",
+          "text": "理是把測軸直線位移經齒輪系放大,藉指針顯示在錶面刻 劃上,使用情形如圖 1-20 所示。 Ț ߧ 1-20 ȭ྆ḻ⸇二͐ᮢ෼ഐ 內部構造如圖 1-21 所示,指針每轉動一格表示測軸移動 0.01mm。量錶的靈敏度很高,測 軸勿加潤滑油,以免油的黏滯性影響測軸靈敏性。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-21 ȭ྆ḻ⸇二דҙⵒᐉⳍ"
+        },
+        {
+          "type": "heading",
+          "text": "2. 槓桿量錶 (Universal dial test indicators):係利用槓桿原理進"
+        },
+        {
+          "type": "paragraph",
+          "text": "行量測,使用情形如圖 1-22(a) 所示。 當測頭受到微量的位移變化時,透過扇形齒輪把微小量放 大,測桿可在 240° 範圍內調整量測位置,如圖 1-22(c) 所 示, ʙ⣬ᮢᅠᨯἍㄇ໣ҙᐥ᱿⸇ᛵŊ 補足指示量錶不易測 量之處。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-22 ȭᐏጥ⸇二דҢ͐ᮢ෼ഐ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch01/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "1-3-5 c෯஝"
+        },
+        {
+          "type": "paragraph",
+          "text": "塊規 (Block gage; Gage block) 又稱規矩塊, ᆯᑨፋԽడ᱿⿢ಙᐻ᜾Ŋ 採用高碳合金鋼、 鎢鋼、陶瓷或石英材料製成,硬度高、耐磨性佳,各種塊規與盒裝塊規如圖 1-23 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-23 ⣳࢘ȭ"
+        },
+        {
+          "type": "paragraph",
+          "text": "࢘ ⣳ͩಙ⎞ᮢⳂӠໞ AA Ȯ A Ȯ B Ȯ C Ớᾀ₤߈ ( ໣ 00 Ȯ 0 Ȯ 1 Ȯ 2 ₤߈ ) ŊҢಙ⎞ᮢⳂॖ"
+        },
+        {
+          "type": "heading",
+          "text": "⠧ 1-2 ໽ḻȯ"
+        },
+        {
+          "type": "heading",
+          "text": "▼ ⠧ 1-2 ȭ࢘⣳ಙ⎞ᮢⳂ"
+        },
+        {
+          "type": "heading",
+          "text": "ೣࠣ⿛ಉ KSD-13"
+        },
+        {
+          "type": "paragraph",
+          "text": "AA ₤ ( 00 ₤ ) ą 0.05 \u0002 m 光學量測實驗或學術研究用 A ₤ ( 0 ₤ ) ą 0.10 \u0002 m ( 00 ₤᱿ 2 Φ ) డңᒑ44ા᱿ᛵહяݽᒑ44 B ₤ ( 1 ₤ ) ą 0.20 \u0002 m ( 0 ₤᱿ 2 Φ ) డңા໣᫠ࢍᑨፋȮяݽʠᒑ44Ŋॖᜀᐻ֦ଙȮӠ֦׀ C ₤ ( 2 ₤ ) ą 0.40 \u0002 m ( 1 ₤᱿ 2 Φ ) ᫠ࢍᑨፋడ̳ᮢŊॖԬBȮ⡶ⶪ໣ӝңȮడң᱿⥑હ"
+        },
+        {
+          "type": "heading",
+          "text": "1-3-6 cඎԉኜ"
+        },
+        {
+          "type": "paragraph",
+          "text": "量角器 (Protractor) 是由一半圓形的分度器"
+        },
+        {
+          "type": "heading",
+          "text": "與直尺組成,如圖 1-24,用於角度量測或劃線,"
+        },
+        {
+          "type": "paragraph",
+          "text": "是最簡易的角度量測儀器。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-24 ݽȭ⸇⤑"
+        },
+        {
+          "type": "paragraph",
+          "text": "萬能量角器 (Universal bevel protractor) 或稱"
+        },
+        {
+          "type": "heading",
+          "text": "萬能角度儀,如圖 1-25 所示,它是將游標卡尺"
+        },
+        {
+          "type": "heading",
+          "text": "的微分原理應用在圓周上, ⤑ಙᛵ⸇ಙרⳭ 5"
+        },
+        {
+          "type": "heading",
+          "text": "Ӡȯ ( 註: 1 度 = 60 分 )"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 1-25 ȭ┋⋱⸇⤑ݽ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch01/p012.jpg"
+    }
+  ]
+}

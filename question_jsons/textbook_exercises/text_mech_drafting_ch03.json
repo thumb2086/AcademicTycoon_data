@@ -1,0 +1,261 @@
+{
+  "bundle_id": "TEXT_MECH_DRAFTING_CH03",
+  "questions": [
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_001",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "10 · 下列之敘述何者有誤?",
+      "image_url": "",
+      "options": [
+        "兩平行虛線相距甚近時應錯開",
+        "線 、 弧相切, 切點處為線條之寬粗度",
+        "不論大小圓中心線均長劃相交",
+        "虛線為實線之延伸時, 應維持相交 。 )11. 上墨圖時最先繪製之線為 (A) 實線直線 (B) 實線圓弧 (C) 中心線 (D) 尺度線 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_002",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "12 · 線條上墨之繪製順序為",
+      "image_url": "",
+      "options": [
+        "由右而左, 由上而下",
+        "而右而左, 由下而上",
+        "由左而右, 由上而下",
+        "由左而右, 由下而上 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_003",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "13 · 下列敘述何者有?",
+      "image_url": "",
+      "options": [
+        "畫水平線是由左至右運筆",
+        "畫垂直線可利用三角板配合丁字尺, 鉛筆由下往上移動",
+        "鉛筆繪工程圖是先繪各圓或弧的中心線",
+        "繪製上墨線條之一般原則依序是寫字一直線一圓或弧 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_004",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "14 · 等線體書寫之要領, 下列何者有?",
+      "image_url": "",
+      "options": [
+        "橫平豎直",
+        "填滿方格",
+        "單筆書寫",
+        "字體一律由右向左橫寫 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_005",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "15 · 下列敘述何者有?",
+      "image_url": "",
+      "options": [
+        "中文字筆劃的粗細約為字高的 1 / 15",
+        "中文工程字之行間隔以 1 / 3 字高度為原則",
+        "件號字體大小其字高為尺度數字高之兩倍",
+        "長形的中文字體字寬為字高的 4 / 3 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_006",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "16 · 下列敘述工程圖上中文字何者有?",
+      "image_url": "",
+      "options": [
+        "以等線體字法書寫為原則",
+        "字體一律從左至右橫寫",
+        "字法之大小乃以其最小字高來分",
+        "長形的字寬為字高的 4 / 3 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_007",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "17 · 下列敘述何者有?",
+      "image_url": "",
+      "options": [
+        "斜體阿拉伯字之傾斜角度為 75 。",
+        "在數字中, 整個分數之高度為整數字高的二倍",
+        "拉丁字母書寫時, 單字與單字的間隔以容得下一個 B 字母為原則",
+        "英文字母的寬窄標準非僅一種, 其中最寬者為 w )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_008",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "19 · 下列敘述工程圖上阿拉伯數字何者有誤?",
+      "image_url": "",
+      "options": [
+        "斜體字角度約在 75 。",
+        "筆劃粗細約為字高 1 / 10",
+        "行與行的間隔約為字高 2 / 3",
+        "以標楷體字書寫 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_009",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "20 · 下列敘述工程圖上拉丁字母, 何者有?",
+      "image_url": "",
+      "options": [
+        "一般小楷拉丁字母用於一些特定符號或縮寫",
+        "大楷字與字間之距離等於大楷字母 O 之字寬",
+        "大楷字母 w 最寬",
+        "筆劃粗細約為字高 1 / 15 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_010",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "22 · 下列敘述長度單位與符號何者有?",
+      "image_url": "",
+      "options": [
+        "奈米符號 nm",
+        "微米符號 cm",
+        "公厘符號 mm",
+        "公里符號 km 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_011",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "23 · 下列敘述何者有?",
+      "image_url": "",
+      "options": [
+        "尺度界線用以表示物體尺度之範圍",
+        "尺度線為表示尺度大小與方向",
+        "標註尺度時必須繪箭頭於尺度界線兩端",
+        "凡不能用視圖或尺度表達的資料, 用文字來表達者稱為註解 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_012",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "25 · 下列尺度符號合者正確?",
+      "image_url": "",
+      "options": [
+        "( 40 ) 表示參考尺度",
+        "表示實際尺度",
+        "表示更改尺度",
+        "表示未依比例尺度 。 (B) s 表球面 (D) 表錐度 。 92 CH03.indd 92 2022 / 4 / 13 下午 04: 2 & 45"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_013",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "2 · 如圖所示, 繪製此圖形時會用到鉛筆或針筆上墨 、 圓規等工具, 下列對其敘述何者有誤?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_drafting_ch03/p023_0_0_0_r.png",
+      "options": [
+        "以鉛筆繪製圖形時, 通常用 3H 、 2H 繪製底線, 用 H 、 HB 繪製原圖及描圖, 而寫字用 H 、 F 筆心等級",
+        "使用木削鉛筆時是用小刀在註明筆心硬度等級的一端削去木皮, 切削長度約 30mm, 使筆心露出約 10mm",
+        "以針筆繪製圖形時, 其規格是採用等距分類, 亦有採等比分級, 各級間比例為 1:",
+        "以針筆繪製圖形時, 針筆運筆畫線應使針筆筆尖與紙面成垂直, 一般往運筆移動方向可略微傾斜且以不超過 5 。 為限 。 93 2022 / 4 / 13 下午 04: 2 46"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_014",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "3 · 如圖示繪製此圖形時, 下列對其敘述何者有誤?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_drafting_ch03/p024_0_0_0_r.png",
+      "options": [
+        "以上墨繪此圖之順序為: 圓或弧的中心線一圓或弧一直線 ( 先實線再虛線 ) 一寫字",
+        "圖示虛線為隱藏線, 用以表達目視不到的物體外形輪廓, 為一短劃細線",
+        "圖示中心線為一點細鏈線以表達圓或孔的中心 、 機件的對稱中心或運動機件的機構中心或用於表示齒輪 、 鏈輪輪齒部位節圓等",
+        "圖示尺度線 、 尺度界線為細線, 亦可應用於指線 、 剖面線 、 圓角消失之稜線 、 作圖線 、 旋轉剖面的輪廓線等 。 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_015",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "4 · 指出下列虛線的畫法中何者錹?",
+      "image_url": "",
+      "options": [
+        "f——Sl",
+        "∕ 人丶",
+        "4",
+        "94 CH03.indd 94 )"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    },
+    {
+      "id": "TEXT_MECH_DRAFTING_CH03_016",
+      "subject": "機械製圖",
+      "unit": "CH3",
+      "q": "5 · 如圖示繪製此圖形時, 依據中華民國國家標準 (CNS) 規定, 下列敘述何者有誤?",
+      "image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/question_images/text_mech_drafting_ch03/p024_0_0_0_r.png",
+      "options": [
+        "線條種類分為實線 、 虛線和鏈線三種",
+        "虛線為實線的延伸線或當虛線與其餘線條交會時, 均維持相交",
+        "兩虛線相互平行且相距間隔很小時應交錯畫出, 兩虛線相互平行且相距間隔很小時, 若中央有中心線應對齊畫出",
+        "實線與虛線相交時, 交會應與虛線之短劃相交; 虛線與虛線相交時, 交會應與兩虛線之短劃相交 。 2022 / 4 / 13 下午 04: 2 46"
+      ],
+      "a": 0,
+      "reward": 15,
+      "explanation": "自動整理答案：(A)"
+    }
+  ]
+}

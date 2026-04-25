@@ -1,0 +1,2145 @@
+{
+  "content_id": "CONTENT_MECH_DRAFTING_CH06",
+  "subject": "機械製圖",
+  "chapter": {
+    "code": "CH06",
+    "title": "CH6"
+  },
+  "title": "機械製圖 Chapter 6 尺度標註與註解",
+  "source_pdf": "mechanical_drafting/CH6PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_DRAFTING_CH06",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "尺度標註與註解"
+        },
+        {
+          "type": "heading",
+          "text": "本章學習內容"
+        },
+        {
+          "type": "heading",
+          "text": "6-1 尺度基本規範"
+        },
+        {
+          "type": "heading",
+          "text": "6-2 長度"
+        },
+        {
+          "type": "heading",
+          "text": "6-3 角度標註"
+        },
+        {
+          "type": "heading",
+          "text": "6-4 直徑、半徑、球面與弧長標註"
+        },
+        {
+          "type": "heading",
+          "text": "6-5 方形、去角及板厚標註"
+        },
+        {
+          "type": "heading",
+          "text": "6-6 斜度與錐度標註"
+        },
+        {
+          "type": "heading",
+          "text": "6-7 不規則曲線標註"
+        },
+        {
+          "type": "heading",
+          "text": "6-8 指線、註解與其他標註法"
+        },
+        {
+          "type": "heading",
+          "text": "6-9 尺度之選擇、安置與修改"
+        },
+        {
+          "type": "heading",
+          "text": "6-10 比例"
+        },
+        {
+          "type": "heading",
+          "text": "( 建議授課: 9 節 )"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "學習表現"
+        },
+        {
+          "type": "paragraph",
+          "text": "一張工程圖的使用,除表達設計者或繪圖者的創造構想外,此張工程圖尚需使加工 製造者能按圖加工,最後能夠予以裝配。因此,繪圖除須正確、清晰及美觀外,尚要依 一定的準則加註尺度及文字的註解方能達到製圖最佳的要件。所以,本章節之學習目標"
+        },
+        {
+          "type": "heading",
+          "text": "如下:"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 能引起學習興趣與動機,並能體會美感素養,創意概念與應用於日常產品或感"
+        },
+        {
+          "type": "heading",
+          "text": "知科技產品之設計"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解一般尺度標註時之基本尺度規範"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解長度、角度、去角、方形及板厚之尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解直徑、半徑、球面與弧長之尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解錐度與斜度的定義與尺度標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "◎ 了解不規則曲線之尺度標註與了解指線與註解之應用"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 了解尺度之選擇與安置要領與了解比例的使用要領"
+        },
+        {
+          "type": "heading",
+          "text": "◎ 能熟練且正確標註尺度"
+        },
+        {
+          "type": "heading",
+          "text": "6-1 尺度基本規範"
+        },
+        {
+          "type": "heading",
+          "text": "一 個 物 體 的 描 述 包 括"
+        },
+        {
+          "type": "heading",
+          "text": "形狀及大小兩部份,而視圖"
+        },
+        {
+          "type": "heading",
+          "text": "在 表 達 機 件 的 形 狀, 尺 度"
+        },
+        {
+          "type": "heading",
+          "text": "(Dimension) 乃在表示機件的"
+        },
+        {
+          "type": "paragraph",
+          "text": "大小。一個完整的 尺度標註 (Inscription of dimensions) 要"
+        },
+        {
+          "type": "heading",
+          "text": "素包括尺度界線、尺度線、"
+        },
+        {
+          "type": "heading",
+          "text": "箭頭、數字、指線與註解等,"
+        },
+        {
+          "type": "heading",
+          "text": "如圖 6-1 所示機械加工丙檢"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖例。在標註時均有一定的"
+        },
+        {
+          "type": "heading",
+          "text": "格式與規範,分述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-1 尺度要素"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 3"
+        },
+        {
+          "type": "heading",
+          "text": "一、尺度界線 (Extensions lines)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 尺度界線為表示 物件尺度範圍 而延伸至"
+        },
+        {
+          "type": "heading",
+          "text": "視圖以外的細線,依 CNS 規定,尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "界線用 細實線 繪製。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 尺度界線之畫法是沿所欲標註尺度之兩"
+        },
+        {
+          "type": "heading",
+          "text": "端與輪廓線約留 1mm 之空隙延伸,並"
+        },
+        {
+          "type": "heading",
+          "text": "超出最後一尺度線外 2 ∼ 3mm 處,如"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 6-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 表示中心點位置時,中心線可做為尺度"
+        },
+        {
+          "type": "heading",
+          "text": "界線使用,但須注意其延伸部份為細實"
+        },
+        {
+          "type": "heading",
+          "text": "線,且經過輪廓線部位不留間隙,如圖"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-2 尺度界線"
+        },
+        {
+          "type": "paragraph",
+          "text": "6-2 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 尺度界線應盡量繪於視圖外,但若因繪"
+        },
+        {
+          "type": "heading",
+          "text": "於視圖內時可使圖面更顯清楚時例外,"
+        },
+        {
+          "type": "heading",
+          "text": "此時可用視圖之輪廓線做為尺度界線使"
+        },
+        {
+          "type": "paragraph",
+          "text": "用,如圖 6-3 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-3 輪廓線做為尺度界線"
+        },
+        {
+          "type": "heading",
+          "text": "5. 尺度界線通常與欲標註尺度方向垂直,"
+        },
+        {
+          "type": "heading",
+          "text": "但在特殊情況下可不沿輪廓線延伸,如"
+        },
+        {
+          "type": "heading",
+          "text": "尺度界線與輪廓線近似平行時,可自欲"
+        },
+        {
+          "type": "heading",
+          "text": "標註處引出與尺度線約成 60 °的兩傾斜"
+        },
+        {
+          "type": "paragraph",
+          "text": "平行線做為尺度界線,如圖 6-4 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-4 兩傾斜平行線"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "6. 尺度界線自視圖內引出時,與視圖輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "廓線相交處不必中斷。兩個相鄰或部"
+        },
+        {
+          "type": "heading",
+          "text": "份重疊之尺度可以共用一條尺度界"
+        },
+        {
+          "type": "paragraph",
+          "text": "線,如圖 6-5 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-5 尺度界線之使用"
+        },
+        {
+          "type": "heading",
+          "text": "二、尺度線 (Dimension lines)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 尺度線為表示物件尺度的大小和方"
+        },
+        {
+          "type": "heading",
+          "text": "向,通常尺度線之兩端須加箭頭,依"
+        },
+        {
+          "type": "paragraph",
+          "text": "CNS 規定,尺度線以細實線繪製。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 尺度線之畫法是以尺度界線為界限,"
+        },
+        {
+          "type": "heading",
+          "text": "繪製時常與輪廓線平行或垂直於尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "界線。一般而言,尺度線與輪廓線間"
+        },
+        {
+          "type": "heading",
+          "text": "距離以及標註多層尺度線時,各尺度"
+        },
+        {
+          "type": "heading",
+          "text": "線間隔約為字高之 2 倍且應力求均"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-6 尺度線之畫法"
+        },
+        {
+          "type": "paragraph",
+          "text": "勻,如圖 6-6 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 輪廓線、中心線,皆不可做為尺度線使用,虛線位置亦盡量不標註尺度,如圖 6-7 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-7 錯誤尺度線使用"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 5"
+        },
+        {
+          "type": "heading",
+          "text": "三、箭頭 (Arrowheads)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 箭頭有填空式及開尾式兩種。箭頭"
+        },
+        {
+          "type": "heading",
+          "text": "開尾角度為 20 °,箭頭長約等於"
+        },
+        {
+          "type": "paragraph",
+          "text": "字高 (h),如圖 6-8 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 標註尺度時,通常將箭頭繪於尺度"
+        },
+        {
+          "type": "heading",
+          "text": "線兩端,尖端應接觸尺度界線、輪"
+        },
+        {
+          "type": "heading",
+          "text": "廓線或中心線之延長線如圖 6-9 所"
+        },
+        {
+          "type": "paragraph",
+          "text": "示為不良的箭頭。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-8 箭頭"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-9 錯誤箭頭例"
+        },
+        {
+          "type": "heading",
+          "text": "3. 當尺度太小時,可將箭頭移至尺度界線之外側,但尺度線不可中斷,如圖 6-10 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-10 尺度線不可中斷"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "四、數字及其方向"
+        },
+        {
+          "type": "heading",
+          "text": "1. 尺度單位: 我國尺度採用公制,圖上的單位皆為 公厘 (mm),可將尺度單位填入標題欄內;"
+        },
+        {
+          "type": "paragraph",
+          "text": "如有少數尺度單位不同時,則必須將該單位寫在尺度數字之後,如圖 6-11 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-11 單位註記"
+        },
+        {
+          "type": "heading",
+          "text": "2. 長度、尺度數字之位置與方向"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 尺度數字通常會寫在尺度線中央之上方,尺度線不得中斷,如圖 6-12 所示。尺度數字之 字體大小應力求一致。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-12 尺度數字之書寫要領"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 水平方向之尺度數字朝上書寫,垂直方"
+        },
+        {
+          "type": "paragraph",
+          "text": "向之尺度數字朝左書寫。傾斜之尺度, 其尺度數字沿尺度線方向書寫。尺度線"
+        },
+        {
+          "type": "heading",
+          "text": "之位置應盡量避免在圖中之陰影部份,"
+        },
+        {
+          "type": "paragraph",
+          "text": "不可避免時,則如圖 6-13 所示擺放。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-13 陰影部位避免標註尺度"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 7"
+        },
+        {
+          "type": "heading",
+          "text": "3. 角度數字之位置與方向"
+        },
+        {
+          "type": "paragraph",
+          "text": "角度數字之方向,可以採用沿尺度線方向書寫,如圖 6-14 所示,圖中陰影部位則儘量避免 使用。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-14 角度數字之書寫要領"
+        },
+        {
+          "type": "heading",
+          "text": "4. 與線條相交之尺度數字"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺度數字及符號不可與輪廓線相交,而中心線亦應避免與尺度數字相交,如不可避免時,中 心線條應中斷讓開,如圖 6-15 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-15 與線條相交之尺度數字"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "6-2 長度"
+        },
+        {
+          "type": "heading",
+          "text": "一、長度標註"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 長度尺度標註形式"
+        },
+        {
+          "type": "paragraph",
+          "text": "常見的長度標註 (Dimensioning length) 方式有邊長尺度、弦長尺度、弧長尺度三種形式,如 圖 6-16(a)(b)(c) 所示。但是遇見角度時,其標註方式如圖 (d) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-16 長度尺度標註種類"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 狹窄部位之尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "1. 狹窄部位之尺度,箭頭畫在尺"
+        },
+        {
+          "type": "heading",
+          "text": "度界線之外側,其尺度線不中"
+        },
+        {
+          "type": "heading",
+          "text": "斷,尺度數字寫在尺度線上"
+        },
+        {
+          "type": "paragraph",
+          "text": "方,如圖 6-17 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-17 狹窄部位標註"
+        },
+        {
+          "type": "heading",
+          "text": "2. 若有多個狹窄部位在同一尺"
+        },
+        {
+          "type": "heading",
+          "text": "度線上,而且無法標記箭頭"
+        },
+        {
+          "type": "heading",
+          "text": "時,可與相鄰尺度共用箭頭或"
+        },
+        {
+          "type": "heading",
+          "text": "可用清楚的小圓點替代相鄰"
+        },
+        {
+          "type": "heading",
+          "text": "之兩箭頭,其尺度數字應分為"
+        },
+        {
+          "type": "heading",
+          "text": "高低兩排交錯書寫,如圖 6-18"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-18 連續狹窄部位標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 9"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 稜角消失部位之尺度標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "機件之稜角因圓角或去角 ( 逃角 ) 而消失時,其尺度應標註於原有之稜角上,此稜角須用細 實線繪出,並在交點處加一小圓點,標註方法如圖 6-19 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-19 稜角消失部位之尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "6-3 角度標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常用品或器具的實例中,一些部位常需要有角度標註 (Dimensioning angles),如圖 6-20 所 示之立體示意圖實例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲圖 6-20 角度部位之實例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: zeczec.com、京東運動戶外 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 角度之尺度線"
+        },
+        {
+          "type": "paragraph",
+          "text": "為一圓弧細實線,其中心點 ( 圓心 ) 即為該角之頂點。畫弧時以該頂點為圓心,以構成角度 的兩邊輪廓線延伸做為尺度界線,標註方法如 圖 6-21 所示, (a)~(d) 為正確畫法, (e)~(h) 為錯誤 畫法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-21 角度之尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 對頂角角度標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "為清晰起見或位置狹窄時,尺度盡量標註於輪廓線之外側,故有時須標註於對頂角方向, 如圖 6-22 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-22 對頂角角度之標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 11"
+        },
+        {
+          "type": "heading",
+          "text": "6-4 直徑、半徑、球面與弧長標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "日常物件常有圓形、圓弧、球面與弧長之實物設計,如圖 6-23 所示放大鏡安全剪刀所示之 立體示意圖實例,在標註尺度時有一定的符號規定。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 6-23 放大鏡安全剪刀 ( 露天拍賣網 )"
+        },
+        {
+          "type": "heading",
+          "text": "一、直徑標註 (Dimensioning diameter)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 直徑符號 (Diameter symbol): 遇到圓形物件標註尺度時,以直徑符號“ φ ”表示,其高度、"
+        },
+        {
+          "type": "paragraph",
+          "text": "粗細與數字相同,寫在直徑數字前面,符號中的直線與尺度線約成 75 °,其封閉曲線為一 正圓形,標註直徑時須加註“ φ ”,不得省略,如圖 6-24 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 6-24 直徑符號 ( 新浪部落格李建水 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "2. 直徑標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 凡圓或大於半圓之圓弧,應標註其直徑;半圓得標註直徑或半徑,如圖 6-25(a) 所示。特 殊需要時亦可標註於圓形視圖上,若由圓周上所引出之尺度界線必須平行於該圓的中心 線,如圖 6-25(b) 所示。 (2) 全圓之直徑以標註於非圓形之視圖上為原則,如圖 6-26 所示在正投影視圖中,可省略全 圓形右側視圖。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-25 直徑標註法"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-26 直徑標註於非圓形視圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 13"
+        },
+        {
+          "type": "heading",
+          "text": "二、半徑標註 (Dimensioning radius)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 半徑符號 (Radius symbol):"
+        },
+        {
+          "type": "heading",
+          "text": "半徑符號以“ R ”表示,其高度與數字相"
+        },
+        {
+          "type": "paragraph",
+          "text": "同,寫在半徑數字之前。標註半徑時必須加註 “ R ”,不得省略,如圖 6-27 所示之立體示意 圖實例。 ▲ 圖 6-27 半徑符號"
+        },
+        {
+          "type": "heading",
+          "text": "2. 半徑標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 半徑之尺度線應畫在圓心及圓弧之間為原則,用一個箭頭指在圓弧上,如圖 6-28 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-28 半徑標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 圓弧之半徑若太大時,則半徑之尺度線可以縮短,但必須對準圓心,如圖 6-29(a) 所示。 (3) 圓弧之半徑若太小時,則半徑之尺度線可伸長,或畫在圓弧外側,但必須通過圓心或對 準圓心,如圖 6-29(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-29 圓弧之半徑標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p013.jpg"
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 若圓弧半徑很大且圓心離圓弧很遠時,在移近圓心位置時,可將尺度線做 90 °之折線, 但帶箭頭之一段尺度線必須對準圓心,另一段轉折尺度線必須與此段平行,半徑符號、 尺度數字必須標註在帶箭頭之一段上,如圖 6-30 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-30 大半徑弧之標註"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:阿里巴巴網 )"
+        },
+        {
+          "type": "heading",
+          "text": "三、球面標註 (Dimensioningspherical surface)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 球面符號 (Spherical surfacesymbol):"
+        },
+        {
+          "type": "paragraph",
+          "text": "球體 (Spheroid) 常運用於生活用品中,如圖 6-31 所示,在 製圖時除標註尺度外亦須搭配球面符號。球面符號以“ S ” 表示,如圖 6-31(a) 所示,其高度、粗細與尺度數字相同, 標示在 φ 或 R 符號前面,符號不得省略。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-31 球面符號與實物例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: storemarais 網、 SERAX、似初 & 別動 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 15"
+        },
+        {
+          "type": "heading",
+          "text": "2. 球面標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 球面標註時,若表示球面直徑,則將“ S ”標註在 φ 之前;若表示球面半徑,則將“ S ” 標 註 在 R 之 前。 如 圖 6-32 所 示, 圖 中 S φ 20 及 S φ 32 表 示 球 面 直 徑 為 20mm 及 32mm; SR23 表示球面半徑為 23mm。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-32 球面標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 球面符號之省略:下列機件之球面符號可省略,如圖 6-33 所示。 (a) 圓桿端圓 (b) 銷子端面 (c) 鉚釘頭、螺釘頭 (d) 手柄尖端"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-33 球面符號之省略"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "四、弧長標註 (Dimendioningarcs)"
+        },
+        {
+          "type": "heading",
+          "text": "1. 弧長符號 (Arcssymbol):弧長符號以“ ”表示,其"
+        },
+        {
+          "type": "paragraph",
+          "text": "粗細與尺度數字相同,畫在弧長數字前方,如圖 6-34(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 弧長標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 在標註一個非連續弧長時,若其圓心角小於 90 度,"
+        },
+        {
+          "type": "heading",
+          "text": "則該弧長的兩尺度界線須相互平行且與該弧長之弦"
+        },
+        {
+          "type": "paragraph",
+          "text": "保 持 垂 直, 如 圖 6-34(b) 所 示 38 與 圖 (d) 所 示 35 之兩尺度界線。但若是一連續弧長,則以半 徑之延長線做為尺度界線,如圖 6-34(c) 所示 42 與 38。 (2) 弧長的尺度線為一段圓弧,且須與該弧線同一圓 心,如圖 6-34(c)、 (d) 所示。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 6-34 圓心角小於 90 度之弧長表示法 (3) 在標註一個非連續弧長時,若其圓心角大於 90 度,則該弧長的兩尺度界線與角度的尺度 界線標註方法相同;即在該弧長的兩端點處,以半徑的延長線做為尺度界線,如圖 6-35(a) 所示的 65.8。 (4) 若標註兩個以上同心圓弧時,則需用箭頭指明弧長尺度數字所表示的圓弧,如圖 6-35(b) 所示的 58.6,且箭頭尾端與尺度線或尺度數字之間需留 1mm 空隙。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-35 弧長標註實例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 17"
+        },
+        {
+          "type": "heading",
+          "text": "6-5 方形、去角及板厚標註"
+        },
+        {
+          "type": "heading",
+          "text": "一、去角、方形標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 6-36 所示玉瓷與筷子實例,除方形設計外,尚在外緣增一去角 ( 倒角 )。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-36 方形、去角設計實物例"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: depositphotos 網、露天拍賣網 )"
+        },
+        {
+          "type": "heading",
+          "text": "1. 去角標註 (Dimendioningchamfer)"
+        },
+        {
+          "type": "paragraph",
+          "text": "去角 (chamfer, 倒角 ) 為 45 °者, 其標註如圖 6-37(a) 所示; 去角非 45 °者, 其標註如圖 6-37(bc) 所示。若螺紋去角為 45 °者,只標註長度,可省略不標註角度。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-37 去角標註"
+        },
+        {
+          "type": "heading",
+          "text": "2. 方形標註 (Dimendioningsquare)"
+        },
+        {
+          "type": "paragraph",
+          "text": "方形符號 (Square symbol) 以“□”表示,符號之高度約為數字 2/3 倍,粗細與數字相同,一 律寫在邊長數字前面,如圖 6-38 所示,並以標註於方形的視圖上為原則。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-38 方形標註"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "18"
+        },
+        {
+          "type": "heading",
+          "text": "三、板厚標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "板料厚度之標註,常見於板金件 (Sheet metal parts),如圖 6-39 所示。可於視圖內部或外部 之適當位置,在尺度數字前加“ t ”表示之,如圖 6-39 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-39 鈑金設計實物例"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:三詰公司、宏達鈑金公司 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-40 厚度標註"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "heading",
+          "text": "丙級板金工技術士"
+        },
+        {
+          "type": "heading",
+          "text": "一、 檢定分級:板金技術為機械加工行業之一,依技能範圍及專精程度分甲、乙、丙三級,甲級為具備板"
+        },
+        {
+          "type": "paragraph",
+          "text": "金製作設計管理與估算、技術指導及成本分析之從業人員;乙級為具備板金獨立作業及技術指導能力 之從業人員,丙級為具備板金基本作業能力之從業人員。"
+        },
+        {
+          "type": "heading",
+          "text": "二、 工作內涵:具有板金基本作業能力,對板金製作行業之作業程序及相關器材有所認知並能應用,且能"
+        },
+        {
+          "type": "paragraph",
+          "text": "依工作圖從事板金製作。"
+        },
+        {
+          "type": "heading",
+          "text": "三、 工作範圍:使用各種板金機器及手工具,從事金屬板之剪切、成形,及邊緣與接縫之製作並能從事錫"
+        },
+        {
+          "type": "paragraph",
+          "text": "銲、氣銲等工作。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 19"
+        },
+        {
+          "type": "heading",
+          "text": "6-6 斜度與錐度標註"
+        },
+        {
+          "type": "heading",
+          "text": "一、斜度之尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "1. 斜度之定義:斜度 (Taper on radius) 為"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩 端 高 低 差 與 斜 度 長 之 比 值, 如 圖 6-41(a) 所 示, 斜 度 公 式: 斜 度 = H1 – H2 / L,式中 H1-H2 為兩端高低差, L 為 其長度。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 斜度符號與標註:斜度符號 (Taper on"
+        },
+        {
+          "type": "paragraph",
+          "text": "radius symbol) 以“ ” 表 示, 如 圖 6-41(b)、 (c) 所示符號之高度約為字高"
+        },
+        {
+          "type": "heading",
+          "text": "之半 (0.5h),符號之粗細與數字相同,"
+        },
+        {
+          "type": "heading",
+          "text": "符號水平方向之長度約符號高度三倍"
+        },
+        {
+          "type": "heading",
+          "text": "長,即尖角約為 15 °,符號之尖端方"
+        },
+        {
+          "type": "heading",
+          "text": "向恆指向右方,斜度之尺度標註,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "6-41(d) 所示常配合指線使用。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-41 斜度符號及其標註註圖例"
+        },
+        {
+          "type": "heading",
+          "text": "( 圖片來源:金東不繡鋼廠 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "text": "二、錐度之尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "1. 錐度標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 錐度標註 (Dimensioning taper):錐度之標註配合符號表示時,常使用如圖 6-42 所示方法。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-42 錐度標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 不使用錐度符號之標註法:依一般尺度標註法標註,如圖 6-43 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-43 錐度符號標註法"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 特殊規定之錐度: 如莫氏錐度 (Morse taper)、公制錐度 (Metric taper)、美國標準銑床錐 度 (Millingtaper of United States standard) ⋯等,在錐度符號之後寫其代號以代替比值,如 MT3 表示莫氏 3 號錐度 ( 錐度值約 1/20)。如 NT3 表示美國標準銑床刀軸,錐 度代號 3 號 ( 銑床錐度 10-60 共 6 號,其錐度為 7/24),如圖 6-44 所示。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 21"
+        },
+        {
+          "type": "heading",
+          "text": "2. 錐度之定義:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-44 刀桿接示意圖實物例"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 6-44 所示具有錐度的刀桿為實例, 錐度為錐體兩端直徑差與錐度長之比值。 如圖 6-45(a)"
+        },
+        {
+          "type": "heading",
+          "text": "D − d θ"
+        },
+        {
+          "type": "paragraph",
+          "text": "所示,錐度公式為:錐度 = = 2 tan;其中 D 表示大徑 (mm), d 表示小徑 (mm), L 表示"
+        },
+        {
+          "type": "heading",
+          "text": "L 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "錐度部位長度 (mm); T 表示錐度值,若是以角度計,則需再乘以 57.3 °。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-45 錐度"
+        },
+        {
+          "type": "heading",
+          "text": "3. 錐度符號 (Taper symbol):錐度之符號以 表示,符號之高度與字高相同,符號之粗細與"
+        },
+        {
+          "type": "paragraph",
+          "text": "數字相同,符號水平方向之長度約為其高之 1.5 倍,繪法如圖 6-45(b) 所示,符號尖端方向 指向右方,通常配合指線使用。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "22"
+        },
+        {
+          "type": "heading",
+          "text": "6-7 不規則曲線標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "在日常生活物件中或機件,如手柄、飛機機翼、汽車、建築物、球棒⋯等,如圖 6-46 所示 皆具有不規則曲線 (Irregular curve lines 或 Odd curve) 之外形實例,常須標註不同尺度來表達各"
+        },
+        {
+          "type": "heading",
+          "text": "部位之大小及位置,其標註方法有二,敘述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-46 不規則曲線外形之美"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源:儀立鑫企業、 archi.ru 網、 getit01.com、中華航空網 )"
+        },
+        {
+          "type": "heading",
+          "text": "充電小站"
+        },
+        {
+          "type": "paragraph",
+          "text": "丙級機械製圖技術士 ( 資料來源: /learn. 104 網 - 證照中心 ) 註:勞動部已刪除此項目並納入丙級電腦輔助機械設計製圖技術士"
+        },
+        {
+          "type": "heading",
+          "text": "一、工作內容..係擔任整理抄繪機械工作圖等工作,包括 1. 基本工作、視圖、尺度標註、標準機件及工"
+        },
+        {
+          "type": "paragraph",
+          "text": "作圖等項。 2. 尺寸精度能達公差八級,表面粗糙度能達 1.60Ra ( 6.3 S )。"
+        },
+        {
+          "type": "heading",
+          "text": "二、相關職務推薦: 1. CAD / CAM 工程師、 2. 機械設計/繪圖人員"
+        },
+        {
+          "type": "heading",
+          "text": "三、相關技能推薦: 1. 標準機件繪製、 2. 機械相關圖表繪製、 3. 工程測量、 4. 機械相關圖表繪製。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 23"
+        },
+        {
+          "type": "heading",
+          "text": "一、座標軸線法 (Coordinate axis methods)"
+        },
+        {
+          "type": "paragraph",
+          "text": "此法標註是先找出機件各位置之大小尺度予以標註,再以機件的一端為基準,自各位置之 大小尺度引出尺度界線標註其位置尺度,如圖 6-47 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-47 座標法"
+        },
+        {
+          "type": "heading",
+          "text": "二、支距法 (Offset method)"
+        },
+        {
+          "type": "paragraph",
+          "text": "支距法標註時先標註各位置之大小尺度,再標註各大小尺度間相鄰的位置尺度,如圖 6-48 所示。此法用於不規則曲線僅要求曲線光滑,但因位置尺度累積誤差,造成精度不高是其缺點。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-48 支距法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "24"
+        },
+        {
+          "type": "heading",
+          "text": "6-8 指線、註解與其他標註法"
+        },
+        {
+          "type": "heading",
+          "text": "一、指線 (Leaders)"
+        },
+        {
+          "type": "heading",
+          "text": "圖上某部位需要以註解說明時可以指線"
+        },
+        {
+          "type": "heading",
+          "text": "指引之,即專用於註解,用細實線帶箭頭表"
+        },
+        {
+          "type": "paragraph",
+          "text": "示,並與水平方向成 45 °或 60 °,尾端為一 水平短線 (Short horizontal line),註解寫在水"
+        },
+        {
+          "type": "heading",
+          "text": "平線上方處,其水平線長度與註解等長,若"
+        },
+        {
+          "type": "heading",
+          "text": "註解太長時,可由左至右,由上往下寫成多"
+        },
+        {
+          "type": "paragraph",
+          "text": "層方式,指線之水平部份需於文字之最下面 ▲ 圖 6-49 指線之使用法 一行,如圖 6-49 所示。「此處淬火且硬度需"
+        },
+        {
+          "type": "heading",
+          "text": "達 HRC56 」之意涵為下方之表面需經淬火,"
+        },
+        {
+          "type": "paragraph",
+          "text": "且硬度需達到洛氏硬度 HRC56。指線指示端"
+        },
+        {
+          "type": "heading",
+          "text": "應避免與輪廓線、尺度線、尺度界線或剖面"
+        },
+        {
+          "type": "heading",
+          "text": "線平行、相交或形成小角度;且不可替代尺"
+        },
+        {
+          "type": "paragraph",
+          "text": "度線使用。"
+        },
+        {
+          "type": "heading",
+          "text": "二、註解 (Annotation 或 Notes)"
+        },
+        {
+          "type": "heading",
+          "text": "凡不能用視圖或尺度表達的資料,用文"
+        },
+        {
+          "type": "paragraph",
+          "text": "字來表達者,稱為 註解。常用於說明加工方"
+        },
+        {
+          "type": "heading",
+          "text": "法、熱處理或標準規格,用以彌補視圖與尺"
+        },
+        {
+          "type": "paragraph",
+          "text": "度之不足。註解依性質不同,可分為兩種,"
+        },
+        {
+          "type": "heading",
+          "text": "敘述如下:"
+        },
+        {
+          "type": "heading",
+          "text": "1. 一般註解 (General note 或 General remarks):"
+        },
+        {
+          "type": "heading",
+          "text": "為共通性之註解方式,不標註於指線之水"
+        },
+        {
+          "type": "heading",
+          "text": "平線上,而於圖紙上適當空間或標題欄處"
+        },
+        {
+          "type": "paragraph",
+          "text": "標註,如圖 6-50(a) 所示 ( 註:逃角孔皆 為 φ 3)。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 特定註解 (Specific note 或 Specific remarks):"
+        },
+        {
+          "type": "heading",
+          "text": "於物體之某特定部份有個別之規定,不同"
+        },
+        {
+          "type": "heading",
+          "text": "於其他各處時,可使用指線引出並在水平"
+        },
+        {
+          "type": "paragraph",
+          "text": "線上做文字說明,如圖 6-50(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-50 註解範例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 25"
+        },
+        {
+          "type": "heading",
+          "text": "三、其他標註法"
+        },
+        {
+          "type": "heading",
+          "text": "1. 表面特殊處理標註:物件須表達某部位之表面特殊處理的範圍或加工法時,以 一點粗鏈線 區"
+        },
+        {
+          "type": "paragraph",
+          "text": "別以表示表面特殊處理處,其註解說明以指線指引之,如圖 6-51(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 特殊位置標註:物件之表面織構符號標註,可藉由指線連結,如圖 6-51(b) 所示,表面織構"
+        },
+        {
+          "type": "paragraph",
+          "text": "符號於 9-4 詳述之。"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 6-51 表面特殊處理與特殊位置標置並呈現圖 (a)(b)"
+        },
+        {
+          "type": "heading",
+          "text": "6-9 尺度之選擇、安置與修改"
+        },
+        {
+          "type": "heading",
+          "text": "一、尺度標註原理"
+        },
+        {
+          "type": "paragraph",
+          "text": "無論物體之形狀如何複雜,物體基本上皆由許多的幾何形體 (Geometric solid),如角柱、 圓柱、圓錐、角錐、多角形孔、⋯⋯等組合而成,故在標註尺度時,可將此等基本幾何形特徵 (Geometrical feature) 分別標註尺度,則任何物體均可做簡易而有系統的標註其尺度,完成該物體 之大小與位置之描述,如圖 6-52 所示為常見幾何形體之尺度標註法,與 6-53 所示為大小尺度與 位置尺度標註圖例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-52 幾何形體之尺度標註法"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "26"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        },
+        {
+          "type": "heading",
+          "text": "○ ◎"
+        },
+        {
+          "type": "heading",
+          "text": "(D) 直立正"
+        },
+        {
+          "type": "heading",
+          "text": "三角錐"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 27"
+        },
+        {
+          "type": "heading",
+          "text": "(g) 正圓柱"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 1 6"
+        },
+        {
+          "type": "heading",
+          "text": "(j) 斜圓錐"
+        },
+        {
+          "type": "heading",
+          "text": "A 圖 6-52"
+        },
+        {
+          "type": "heading",
+          "text": "2 3"
+        },
+        {
+          "type": "heading",
+          "text": "( e ) 斜角錐"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 27"
+        },
+        {
+          "type": "heading",
+          "text": "(h) 斜圓柱"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 23"
+        },
+        {
+          "type": "heading",
+          "text": "(k) 截圓錐"
+        },
+        {
+          "type": "heading",
+          "text": "囗 22"
+        },
+        {
+          "type": "heading",
+          "text": "( 0 直立四角錐"
+        },
+        {
+          "type": "heading",
+          "text": "¢ 21"
+        },
+        {
+          "type": "heading",
+          "text": "(i) 正圓錐"
+        },
+        {
+          "type": "heading",
+          "text": "(I) 斜圓錐台"
+        },
+        {
+          "type": "heading",
+          "text": "幾何形體之尺度標註法 ( 續 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 27"
+        },
+        {
+          "type": "paragraph",
+          "text": "▲ 圖 6-53 依幾何形體標註尺度描述其大小與位置"
+        },
+        {
+          "type": "heading",
+          "text": "二、尺度分類"
+        },
+        {
+          "type": "heading",
+          "text": "1. 尺度依功能性分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "尺度依功能性可分成三類,如圖 6-54 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-54 功能尺度與非功能尺度"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "28"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 功能尺度 (Functional dimensions):機件的尺度與他件組合有關者,須標註公差。 (2) 非功能尺度 (Non-functional dimensions):機件的尺度與非他件組合無關者,須顧及加工 及檢驗順序與要求。 (3) 參考尺度 (Reference dimensions):可省略而僅供參考者,不標註公差,若標註須加括弧。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 大小尺度與位置尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "工程圖標註的尺度必包含兩種尺度,即大小尺度與位置尺度,分述如下: (1) 大小尺度 (Size dimensions):為表達物體的大小,標註時必須同時考慮寬度、高度及深 度之三個空間度的尺度距離,直徑尺度與半徑尺度亦屬於大小尺度,如圖 6-55(b) 所示。 (2) 位置尺度 (Location dimensions):是表達物體各部份間的相關位置,每一位置亦須以三 度空間之方向來表示;而位置尺度之標註尚須考慮機件的加工面及基準面,如圖 6-55(c) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-55 大小尺度與位置尺度標註"
+        },
+        {
+          "type": "heading",
+          "text": "三、尺度之選擇與安置"
+        },
+        {
+          "type": "heading",
+          "text": "1. 尺度之選擇"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 位置尺度 (Location dimensions):一般位"
+        },
+        {
+          "type": "heading",
+          "text": "置尺度若是為平面之位置,尺度標註在該"
+        },
+        {
+          "type": "heading",
+          "text": "平面之邊緣上,若是圓或圓弧之位置尺度"
+        },
+        {
+          "type": "paragraph",
+          "text": "應標註於圓心,如圖 6-56 所示。為避免"
+        },
+        {
+          "type": "heading",
+          "text": "累積誤差,標註時須考慮加工面及其基準"
+        },
+        {
+          "type": "paragraph",
+          "text": "面。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-56 圓及圓弧之位置尺度標註於圓心"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 29"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 重複尺度 (Duplicate dimensions):一個尺度在某一視圖上標註一次即可,不得在另一個 視圖上再次出現,如圖 6-57 所示。圖 (a) 為正確圖例,圖 (b) 有出現重複尺度是一錯誤 範例。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-57 尺度不可重複"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 多餘尺度 (Superfluous dimensions):若某一形態之大小或位置可有二種或二種以上之 尺度方式決定時,只許選用一種方式標註,其他省略,否則即有多餘尺度。但是多餘尺 度可供參考用,此時須將該 尺度加括弧 以區別之,如圖 6-58 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-58 多餘尺度與參考尺度"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 未按比例尺度之標註:圖中某尺度未依比"
+        },
+        {
+          "type": "paragraph",
+          "text": "例 (NTS, not to scale) 繪製時,應在 尺度"
+        },
+        {
+          "type": "heading",
+          "text": "數字下方加畫一橫線 ( 其粗細與數字筆畫"
+        },
+        {
+          "type": "paragraph",
+          "text": "相同 ) 以茲區別,如圖 6-59 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-59 未按比例尺度"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "2. 尺度之排列"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 尺度應儘量標註在視圖之外,且尺度由小至大順序排列,尺度線與尺度界線應避免交叉, 以避免產生交錯而影響圖面的清晰,如圖 6-60 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-60 尺度應儘量標註在視圖之外"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 若標註尺度時,當尺度界線必須延伸甚長或穿越太多條輪廓線時,會造成影響讀圖,則 可將尺度標註在視圖內以達到視圖上的簡明及清晰,如圖 6-61 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-61 尺度標註要簡明易讀圖"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 31"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 在正投影視圖中標註尺度時,尺度應儘量在視圖與視圖之間,視圖間不可共用尺度界線 及中心線,如圖 6-62 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-62 正投影視圖尺度標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "(4) 非必要時,尺度線之層數不宜過多,可在同一層上標註之尺度,不可分註成多層,如圖 6-63 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-63 尺度線之層數不宜過多"
+        },
+        {
+          "type": "heading",
+          "text": "重 點 隨 筆"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "三、尺度之修改"
+        },
+        {
+          "type": "paragraph",
+          "text": "要更改已發出之圖時,不可將原尺度擦去,應加雙線劃去,而將新尺度數字寫在其附近, 新數字旁須加註 更改記號及號碼 以與更改欄對照,如圖 6-64 所示。更改欄使用於 A0 ∼ A3 圖, 可附於標題欄左方、左下方 ( 或接於標題欄上方 ), 記號之填寫次序由下而上。若使用單頁 A4、 A5 圖紙,則附於圖之右上角,記號之填寫次序由上而下。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-64 更改尺度與更改欄"
+        },
+        {
+          "type": "heading",
+          "text": "6-10 比例"
+        },
+        {
+          "type": "heading",
+          "text": "一、比例的重要性"
+        },
+        {
+          "type": "paragraph",
+          "text": "比例 (proportion) 是製圖時必備之一項基本知識,往往一張圖常不能以 1: 1 來繪製物體大小, 如一架飛機之外形圖,必須縮小至千分之一倍,即使是飛機的機翼亦需縮小百倍方能畫在一張 A3 大小的圖紙上,如圖 6-65 所示實例。又如手錶零件須以放大倍數方能清楚表達該機件之大小 及形狀。因此,製圖的比例成了一項很重要的課題。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-65 比例 -B-24 飛機設計圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 圖片來源: shuaishuailai.wordpress 網 )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 6 尺度標註與註解 33"
+        },
+        {
+          "type": "heading",
+          "text": "二、常用的比例"
+        },
+        {
+          "type": "paragraph",
+          "text": "製圖時常用的縮放比例,如表 6-1 所示,製圖時須依照此表做適當之選擇,通常以 2、 5、 10 倍數的比例最為常用。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ 表 6-1 常用縮放比例"
+        },
+        {
+          "type": "heading",
+          "text": "實大比例 1:1"
+        },
+        {
+          "type": "heading",
+          "text": "1:2 1:2.5 1:4 1:5 1:10"
+        },
+        {
+          "type": "heading",
+          "text": "縮小比例 1:1000"
+        },
+        {
+          "type": "paragraph",
+          "text": "1:20 1:50 1:100 1:200 1:500 放大比例 2:1 5:1 10:1 20:1 50:1 100:1"
+        },
+        {
+          "type": "heading",
+          "text": "三、比例的標註"
+        },
+        {
+          "type": "paragraph",
+          "text": "比例在標註時,全張圖以用一種比例繪製為原則,並在標題欄內註明該圖所用的比例。若 有必要在一張圖中用到其它種比例時,應在所屬 視圖正下方另行註明,並將該比例用括弧填記 於標題欄內,如圖 6-66 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 6-66 圖中使用其它比例"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_drafting_ch06/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "一、選擇題"
+        },
+        {
+          "type": "heading",
+          "text": "6-1 ( )1. 下列敘述尺度界線何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 兩個相鄰或部份重疊之尺度不可以共用一條尺度界線 (B) 尺度界線為表示物件尺度範圍而延伸至視圖以外的細實線。 (C) 尺度界線兩端與輪廓線約留 1mm 之空隙,並超出最後一尺度線外 2 ∼ 3mm 處 (D) 中心線做尺度界線時,其延伸部份須畫成細實線。"
+        },
+        {
+          "type": "heading",
+          "text": "( )2. 下列敘述尺度線何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 為表示物件尺度的大小和方向,以細實線繪製"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 繪製時常與輪廓線平行或垂直於尺度界線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 多層標註尺度時,各尺度線間隔約為字高之 2 倍 (D) 輪廓線、中心線皆可做為尺度線使用。"
+        },
+        {
+          "type": "heading",
+          "text": "( )3. 下列敘述尺度與箭頭何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 標註尺度時乃將箭頭繪於尺度線兩端,尖端應接觸尺度界線、輪廓線或中心"
+        },
+        {
+          "type": "heading",
+          "text": "線之延長線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 箭頭開尾角度為 20 °,箭頭長約等於字高 (C) 一個物體的視圖在表達機件的形狀,尺度乃在表示機件的大小 (D) 當尺度太小時可將箭頭移至尺度界線之外側,且尺度線須中斷。"
+        },
+        {
+          "type": "heading",
+          "text": "( )4. 下列敘述尺度何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 我國尺度採用公制,圖上的單位皆為公厘 (mm)"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 尺度數字通常會寫在尺度線中斷之中間"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 角度數字之方向,可以採用沿尺度線方向書寫"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 尺度數字及符號不可與輪廓線相交,中心線亦應避免相交。"
+        },
+        {
+          "type": "heading",
+          "text": "6-2 ( )5. 下列敘述尺度何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 狹窄部位尺度之箭頭可畫在尺度界線之外側"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 若有多個狹窄部位在同一尺度線上,可用小圓點替代相鄰之兩箭頭 (C) 機件之稜角因圓角或去角 ( 逃角 ) 而消失時,其尺度應直接標註於原有之稜角上 (D) 狹窄部位之尺度,其尺度線不中斷,尺度數字寫在尺度線上方。"
+        },
+        {
+          "type": "heading",
+          "text": "6-3 ( )6. 下列敘述角度尺度何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 角度尺度線畫弧時應以該角度頂點為圓心"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 角度位置狹窄時,其尺度應盡量標註於輪廓線之外側,故有時須標註於對頂"
+        },
+        {
+          "type": "heading",
+          "text": "角方向"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 角度尺度標註乃以構成角度的兩邊輪廓線延伸做為尺度界線 (D) 角度之尺度線為一圓弧粗實線,其中心點即為該角之頂點。"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "6-4 ( )7. 下列敘述直徑與半徑尺度何者有誤? (A) 直徑符號“ φ ”,符號中直線與尺度線約成 60 °,其高度、粗細與尺度線相同,"
+        },
+        {
+          "type": "heading",
+          "text": "寫在直徑數字前面"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 在正投影視圖中,全圓直徑以標註於非圓形視圖上為原則,並可省略全圓形"
+        },
+        {
+          "type": "heading",
+          "text": "側視圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 若圓弧半徑很大時,可將尺度線做 90 °之折線,但帶箭頭之一段尺度線必須"
+        },
+        {
+          "type": "heading",
+          "text": "對準圓心"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 半徑之尺度線應畫在圓心及圓弧之間為原則,用一個箭頭指在圓弧上。"
+        },
+        {
+          "type": "heading",
+          "text": "( )8. 下列敘述尺度何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 球面符號以“ S ”表示,其高度、粗細與尺度數字相同"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 球面符號標註在 φ 或 R φ 之前"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 弧長符號以“ ”表示,其粗細與尺度線相同,畫在弧長數字後方 (D) 弧長的尺度線為一段圓弧,且須與該弧線同一圓心。"
+        },
+        {
+          "type": "heading",
+          "text": "( )9. 下列機件之球面符號不可省略?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 獨立球 (B) 銷子端面 (C) 鉚釘頭、螺釘頭 (D) 手柄尖端。"
+        },
+        {
+          "type": "heading",
+          "text": "6-5 ( )10. 下列敘述尺度何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 非連續弧長若其圓心角小於 90 度,標註該弧長的兩尺度界線可相互平行且與"
+        },
+        {
+          "type": "heading",
+          "text": "該弧長之弦保持垂直"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 連續弧長標註乃以半徑之延長線做為尺度線"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 方形符號以“□”表示,符號之高度約為數字 2/3 倍 (D) 板料厚度標註可於視圖內部或外部之適當位置,在尺度數字前加“ t ”表示之。 6-6 ( )11. 下列敘述錐度尺度標註何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 符號以 表示,其高度與字高相同"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 符號之粗細與數字相同,符號水平方向之長度約為其高之 1.5 倍"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 符號尖端方向恆指向左方,通常配合指線使用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) MT3 表示莫氏 3 號錐度,錐度值約 1/20。"
+        },
+        {
+          "type": "heading",
+          "text": "( )12. 下列敘述何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 斜度為兩端高低差與斜度長之比值"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 錐度為錐體兩端直徑差與錐度長之比值"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 斜度符號以“ ”表示,其高度約為字高之半"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 斜度符號水平方向之長度約符號高度 2 倍長,即尖角約為 30 °,符號之尖端 方向恆指向右方。"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "學後評量"
+        },
+        {
+          "type": "heading",
+          "text": "6-7 ( )13. 下列敘述尺度標註何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 座標軸線法標註是先找出機件各位置之大小尺度予以標註,再以機件的一端 為基準,自各位置之大小尺度引出尺度界線標註其位置尺度 (B) 支距法標註時先標註各位置之大小尺度,再標註各大小尺度間相鄰的位置尺度 (C) 不規則曲線要求曲線光滑與精度尺度時採用支距法標註最理想 (D) 不規則曲線標註主要尺度是表達各部位之大小尺度及位置尺度。 6-8 ( )14. 下列敘述指線標註時何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 可替代尺度線使用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 用細實線帶箭頭表示,並與水平方向成 45 °或 60 °,尾端為一水平線 (C) 註解寫在水平線上方處,其水平線長度與註解等長,若註解太長時,可寫成"
+        },
+        {
+          "type": "heading",
+          "text": "多層方式"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 指線指示端應避免與輪廓線、尺度線、尺度界線或剖面線平行、相交或形成 小角度。"
+        },
+        {
+          "type": "heading",
+          "text": "( )15. 下列敘述註解何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 專用註解是圖上某部位需要以註解說明時可以箭頭指引之 (B) 凡不能用視圖或尺度表達的資料,用文字來表達者稱之 (C) 常用於說明加工方法、熱處理或標準規格,用以彌補視圖與尺度之不足 (D) 一般註解不標註於指線之水平線上,而於圖紙上適當空間或標題欄處標註。"
+        },
+        {
+          "type": "heading",
+          "text": "6-9 ( )16. 下列敘述尺度何者有誤?"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 功能尺度是與他件組合有關者,須標註公差"
+        },
+        {
+          "type": "paragraph",
+          "text": "(B) 與他件組合無關者稱為非功能尺度,須顧及加工及檢驗順序與要求 (C) 參考尺度可省略而僅供參考者,不加括弧但標註公差 (D) 位置尺度標註為避免累積誤差,標註時須考慮加工面及其基準面。"
+        },
+        {
+          "type": "heading",
+          "text": "( )17. 下列敘述尺度何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 一個尺度在某一視圖上標註一次即可,不得在另一個視圖上再次出現 (B) 若某一形態之大小或位置可有二種或二種以上之尺度方式決定時,只許選用"
+        },
+        {
+          "type": "heading",
+          "text": "一種方式標註,省略其他以免有多餘尺度"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 須將多餘尺度加括弧,可供參考用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 圖中某尺度未依比例繪製時,應將尺度數字以正方形框住。"
+        },
+        {
+          "type": "heading",
+          "text": "( )18. 下列敘述標註尺度何者有誤?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 需要更改已發出之圖時,應加雙線劃去原尺度,寫上新尺度數字時,旁須加"
+        },
+        {
+          "type": "heading",
+          "text": "註更改記號及號碼"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 尺度線與尺度界線可交叉"
+        },
+        {
+          "type": "paragraph",
+          "text": "(C) 在正投影視圖中標註尺度時,尺度應盡量在視圖與視圖之間 (D) 在正投影視圖中標註尺度時,視圖之間不可共用尺度界線。"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": ""
+    }
+  ]
+}

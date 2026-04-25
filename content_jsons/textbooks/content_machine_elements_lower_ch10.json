@@ -1,0 +1,6957 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_LOWER_CH10",
+  "subject": "技術型高中機械群機件原理下冊_PPT",
+  "chapter": {
+    "code": "CH10",
+    "title": "10_齒輪"
+  },
+  "title": "技術型高中機械群機件原理下冊_PPT 10 齒輪",
+  "source_pdf": "machine_elements_lower_ppt/10_齒輪.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "本簡報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 內容來源; 108 華興機件原理 - 下冊 / 連結影片及部分圖片取自網路"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "10-1 齒 輪 的 用 途 與 種 類"
+        },
+        {
+          "type": "heading",
+          "text": "10-1 齒輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "10-2 齒 輪 各 部 名 稱"
+        },
+        {
+          "type": "heading",
+          "text": "10-2 齒輪各部名稱"
+        },
+        {
+          "type": "heading",
+          "text": "10-3 齒 輪 的 基 本 定 律"
+        },
+        {
+          "type": "heading",
+          "text": "10-3 齒輪的基本定律"
+        },
+        {
+          "type": "heading",
+          "text": "10-4 齒 形 的 種 類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "10-4 齒形的種類 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "10-5 齒 形 與 齒 輪 的 規 格 數"
+        },
+        {
+          "type": "heading",
+          "text": "10-5 齒形與齒輪的規格"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "10-1 齒輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "將摩擦輪之周緣製成規律形狀的輪齒 ( tooth ),且以一定之速"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "比相互接觸而傳達動力者,稱之為齒輪 ( gear )。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪是藉由輪齒間之相互接觸而推動,傳動時齒面為滑動接觸 (在節圓上為滾動接觸),其角速比恆為一定,不受摩擦力之 限制,可傳達較大之力量,且兩輪間之正壓力不再是傳動之必 需條件,可減輕軸承的壓力,缺點為只允許近距離的傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "一、齒輪的用途 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪的主要功用有: 齒輪傳動的優點有: 途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 傳達動力; (1) 速比正確;"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 改變運動方向; (2) 所占空間較小;"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 改變運動速度。 (3) 可變換速度;"
+        },
+        {
+          "type": "heading",
+          "text": "(4) 可變換方向;"
+        },
+        {
+          "type": "paragraph",
+          "text": "(5) 大小動力均可傳達。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "二、齒輪的種類 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪的種類甚多,依傳動時兩軸間的相對位置關係,可分為: 途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 兩軸平行之齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "應用於傳達兩平行傳動軸間的動力。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 正齒輪 ( spur gear )"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 外接齒輪 ( external gear ):傳動時兩輪軸之轉動方向相 反,是兩平行軸間使用最廣泛的齒輪。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數 3"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 機械上之應用"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 IO - 1 外接齒輪"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 內接齒輪 ( internal gear ):傳動時兩輪軸之轉動方向相同。 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-2 內接齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p007.jpg"
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "2. 螺旋齒輪 ( helical gear ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為正扭齒輪 ( twisted spur gear ), 輪齒之齒向與軸中心線成"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "一傾斜角度,稱為螺旋角 ( angle of helical ),用於兩軸平行傳"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "動之螺旋齒輪,其螺旋角必相同,而螺旋線旋向須相反,即一 左一右相互嚙合,其優點為傳動時較平滑、安靜,適合高速傳 動;但缺點是在傳動時,會產生沿軸向之推力,設垂直作用於 齒輪之力為 R,螺旋角為 β,則其軸向推力 R 為"
+        },
+        {
+          "type": "heading",
+          "text": "n"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回"
+        },
+        {
+          "type": "heading",
+          "text": "主動件"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "( 右旋 )"
+        },
+        {
+          "type": "heading",
+          "text": "回 ·"
+        },
+        {
+          "type": "heading",
+          "text": "推力"
+        },
+        {
+          "type": "heading",
+          "text": "主動輪"
+        },
+        {
+          "type": "heading",
+          "text": "Rn=Rsin"
+        },
+        {
+          "type": "heading",
+          "text": "推力"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數 4"
+        },
+        {
+          "type": "heading",
+          "text": "從動輪"
+        },
+        {
+          "type": "heading",
+          "text": "從動件"
+        },
+        {
+          "type": "heading",
+          "text": "( 左旋 )"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 螺旋角及軸向推力"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 IO -3 螺旋齒輪"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p009.jpg"
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "由上式可知,若螺旋角愈大,所產生之軸向推力亦愈大,故螺 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "旋角不宜太大,一般以 15 ° ~ 35 ° 之間為佳,而欲消除軸向推力 用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "之方法有: 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 在產生軸向推力方向加裝止推軸承;"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 在兩軸上分別再裝置兩個方向相反的螺旋齒輪; (3) 直接改用人字齒輪替代。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺旋齒輪在傳動時所產生之軸向推力及方向判別如下: 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 螺旋齒輪可分為右旋與左旋兩種,判別方法是將軸垂直放"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "置後,若螺旋線呈右上左下時,如圖 10-4(a) 則為右旋;若"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "旋線呈左上右下時,如圖 10-4(c) 則為左旋。"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 軸向推力方向判別以「主動輪」為基準:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 若主動輪為右旋時,採用右手定則,即四指表示主動輪 轉向,拇指即為軸向推力方向,如圖 10-4(b) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 若主動輪為左旋時:採用左手定則,即四指表示主動輪 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉向,拇指即為軸向推力方向,如圖 10-4(d)。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 從動輪之軸向推力與主動輪相反。"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-4 軸向推力及方向判別"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "螺旋齒輪與正齒輪比較,具有下列優點: 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 較高接觸比。"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 較高的容許轉速,可達正齒輪 4 倍。 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 相同空間之下,可傳達較大動力。 (4) 較低噪音及磨損。"
+        },
+        {
+          "type": "heading",
+          "text": "其缺點:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 產生軸向推力,減少軸承使用壽命。 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 具有螺旋角,製造時較繁複。"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "3. 人字齒輪 ( herringbone gear ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為雙螺旋齒輪 ( double helical gear ),是將左旋及右旋的"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩螺旋齒輪組合製成一體,因此不同旋向產生的軸向推力可以"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "互相抵消,故傳動時無軸向推力,但缺點為製造較繁複。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-5 人字齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "4. 齒條 ( rack ) 與小齒輪 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "將一外接齒輪之節圓直徑視為無限大時,其輪齒排列在一直線"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "上者,即稱為「齒條」,其應用時,通常以小齒輪為主動件,"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "當小齒輪作正反方向迴轉時,齒條則作往復直線運動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-6 齒條與小齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "5. 針狀齒輪 ( pin gear ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩嚙合之齒輪中,較大齒輪無輪齒,僅在節圓周上裝置針或圓"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "柱銷代替輪齒,故又稱為銷齒輪,另一個小齒輪的齒形,其節"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓下半部製成是與銷相同之圓弧形,上半部則是外擺線齒形。 應用時,均以小齒輪為主動件,其優點為製造容易,大都應用 於儀器之調節,而不作動力之傳動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數 7"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 立體示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 平面示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 IO -7 針狀齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p017.jpg"
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 兩軸相交之齒輪 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩軸中心相交於一點的齒輪,稱為斜齒輪 ( bevel gear ),又稱"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "傘形齒輪。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "1. 直齒斜齒輪 ( straight-tooth bevel gear )"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱平斜齒輪,傳動之兩軸中心線夾角可為任意角度,而一般 最常用的角度為 90 °,若兩嚙合的直齒斜齒輪大小相等,且兩 軸中心線夾角為正交時,則稱為斜方齒輪 ( miter gear ),僅用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "於改變轉向。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回 • 回"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數 7"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 生活中之應用"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 斜方齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 IO -8 直齒斜齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p019.jpg"
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "2. 冠狀齒輪 ( crown gear ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩嚙合之斜齒輪中有一斜齒輪的頂角為 180 °,即節圓錐角為"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "90 °,節圓錐面呈一圓形平盤時,其輪齒形狀近似頭冠,故稱"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "冠狀齒輪,其功用與直齒斜齒輪相同,惟兩軸中心線夾角(軸 角)必大於 90 ° 以上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-9 冠狀齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "3. 螺旋斜齒輪 ( helical bevel gear ) 與蝸線斜齒輪 ( spiral-tooth bevel gear ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "其螺旋角一般都在 20 ° ~ 25 ° 之間;而蝸線斜齒輪之齒形為對數"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "螺旋線,適於高速及重負載傳動,缺點為兩者傳動時均會產生"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸向推力,早期的汽車差速器常採用蝸線斜齒輪。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-10 8"
+        },
+        {
+          "type": "heading",
+          "text": "螺旋斜齒輪與"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "蝸線斜齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p021.jpg"
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 兩軸不平行且不相交之齒輪 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "1. 雙曲面齒輪 ( hyperboloidal gear )"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱為歪齒輪 ( skew bevel gear ),製造不易,且齒面間的滑動 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "率大,應用範圍不廣,較常見於紡織機械中。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-11 雙曲面齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "2. 戟齒輪 ( hypoid gear ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "常用於汽車差速器中,因兩軸組裝時能不平行不相交,故可降"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "低車軸的中心位置,進而提升汽車的平穩性。"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-12 戟齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p023.jpg"
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "3. 交叉螺旋齒輪 ( crossed helical gear ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱螺輪 ( screw gears ),是將一對螺旋齒輪以 (1) 螺旋方向相"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "反,螺旋角不等; (2) 螺旋方向相同,螺旋角相等或不等,兩種"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "方式之一的組裝,僅適用於輕負載之動力傳送。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-13 交叉螺旋齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "4. 蝸桿 ( worm ) 與蝸輪 ( worm wheel ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "一對螺旋齒輪,其中有一個齒輪是由圓桿製成的,在圓桿上刻"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一條(或數條)螺旋線輪齒者稱為蝸桿,而與蝸桿嚙合之螺"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "旋齒輪則稱為蝸輪。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-14 蝸桿與蝸輪"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "蝸桿與蝸輪之速比與節圓直徑無關,僅與蝸桿之螺旋線數及蝸 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "輪之齒數有關,兩輪傳動之速比為 用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "蝸桿與蝸輪可傳達極大的速比,故常用於蝸桿為主動,蝸輪為"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "1 頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "從動的減速機構中,其速比可達。 數"
+        },
+        {
+          "type": "heading",
+          "text": "40 10"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "蝸桿與蝸輪傳動之特點如下: 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) 轉速比相差很大,常用者有 1: 5, 1: 20, 1: 40。"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) 右旋之蝸桿僅適合順時針旋轉,而左旋之蝸桿僅適合逆時 種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "針旋轉,若反向轉動,則不易倒行逆轉,適用於起重機械。 (3) 具螺旋齒輪傳動之優缺點,嚙合以漸進接觸,運轉時較穩 定安靜,缺點為傳動效率差,且會產生軸向推力,而其軸 向推力方向之判別如圖 10-15 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-15 蝸桿與蝸輪之軸向推力及轉向判別"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 以「主動輪」之旋向為基準,採用其旋向之右、左手定 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "則:四指表示蝸桿之轉向,拇指表示蝸桿之軸向推力方 用"
+        },
+        {
+          "type": "heading",
+          "text": "途"
+        },
+        {
+          "type": "paragraph",
+          "text": "向,而蝸輪之轉向會與蝸桿之軸向推力方向相反。 與"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 「從動輪」之軸向推力方向,則採用與嚙合蝸桿相反旋"
+        },
+        {
+          "type": "heading",
+          "text": "向之右、左手定則判別:四指表示蝸輪之轉向,拇指表"
+        },
+        {
+          "type": "paragraph",
+          "text": "示蝸輪之軸向推力方向。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒輪的用途與種類"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-1"
+        },
+        {
+          "type": "paragraph",
+          "text": "一雙線蝸桿與 40 齒之蝸輪嚙合傳動, 若蝸桿之轉速為 300rpm, 則蝸輪之轉速為多少"
+        },
+        {
+          "type": "heading",
+          "text": "rpm?"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 T 桿 = 2, T 輪 = 40 'Nw=300rpm"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 10-2 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": ", N%=15rpm"
+        },
+        {
+          "type": "heading",
+          "text": "300 40"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p030.jpg"
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "10-2 齒輪各部名稱"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "一、正齒輪 名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "1. 節面 ( pitch surface ):齒輪的假想"
+        },
+        {
+          "type": "paragraph",
+          "text": "曲面。正齒輪之節面為圓柱面, 斜齒輪之節面則為圓錐面。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-16 齒輪各部名稱"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p031.jpg"
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "2. 節圓 ( pitch circle ) 及節線 ( pitch line ):齒輪節面與垂直輪 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸平面之截面的交線,其交線若為圓形則稱「節圓」,若為 部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "paragraph",
+          "text": "直線則稱「節線」。 稱"
+        },
+        {
+          "type": "heading",
+          "text": "3. 節點 ( pitch point ):兩相嚙合齒輪的節圓或節線之相切點稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "為節點,其節點必位於兩齒輪的連心線上。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 節圓直徑 ( pitch diameter ):節圓的直徑,簡稱「節徑」,"
+        },
+        {
+          "type": "paragraph",
+          "text": "常以 D 與 d 表示大小齒輪之節圓直徑。"
+        },
+        {
+          "type": "heading",
+          "text": "5. 中心距 ( center distance ):兩嚙合齒輪軸中心間之距離,常 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "以 C 表示。若兩嚙合齒輪外切時,中心距等於兩齒輪之節圓 數"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "paragraph",
+          "text": "半徑和;若兩嚙合齒輪內切時,中心距等於兩齒輪之節圓半"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "徑差。"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "6. 齒冠圓 ( addendum circle ):又稱為「外圓」 ( outside circle ) 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "或「齒頂圓」,即經過各齒頂端的圓,其直徑稱為「齒冠圓 部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "paragraph",
+          "text": "直徑」或「外徑」,常以 D O 與 d O 表示大小齒輪之齒冠圓直 稱 徑,亦等於節圓直徑加上兩倍齒冠。"
+        },
+        {
+          "type": "heading",
+          "text": "7. 齒冠 ( addendum ):又稱「齒頂」,為從節圓至齒冠圓間的"
+        },
+        {
+          "type": "paragraph",
+          "text": "徑向長度,即等於齒冠圓半徑與節圓半徑之差。"
+        },
+        {
+          "type": "heading",
+          "text": "8. 齒頂面 ( top land ):又稱「頂面」,齒冠圓在輪齒上所構成"
+        },
+        {
+          "type": "paragraph",
+          "text": "之平面區域。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "9. 齒根圓 ( dedendum circle ):又稱「根圓」 ( root circle ) 或 數"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "paragraph",
+          "text": "「底圓」,為經過各齒根底部而成的圓,其直徑稱為「根徑」"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "( root diameter ),等於節圓直徑減兩倍齒根。"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "10. 齒根 ( dedendum ):又稱「齒底」,為從節圓至齒根圓間 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "的徑向長度,即等於節圓半徑與齒根圓半徑之差。 部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "11. 齒間底面 ( bottom land ):相鄰二齒之齒腹間所構成的底部"
+        },
+        {
+          "type": "paragraph",
+          "text": "區域。"
+        },
+        {
+          "type": "heading",
+          "text": "12. 齒深 ( tooth depth ):亦稱「齒高」,為齒冠圓至齒根圓間"
+        },
+        {
+          "type": "paragraph",
+          "text": "的徑向長度,即等於齒冠與齒根之和。"
+        },
+        {
+          "type": "heading",
+          "text": "13. 間隙 ( clearance ):又稱「餘隙」,為一齒輪之齒根圓與其"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "相嚙合齒輪之齒冠圓之徑向間距,等於齒根與齒冠之差。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "14. 工作深度 ( working depth of tooth ):為兩嚙合齒輪的齒冠"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "圓之徑向距離,即等於二倍齒冠,或齒深與間隙之差。"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "15. 齒面 ( face of the tooth ):介於節圓與齒冠圓間的輪齒曲面。 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "16. 齒腹 ( flank of the tooth ):介於節圓與齒根圓間的輪齒曲面。"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "17. 齒面寬 ( width of face ):又稱為「齒寬」 ( tooth width ),"
+        },
+        {
+          "type": "paragraph",
+          "text": "為輪齒沿軸向齒頂面之長度,即為齒頂面的寬度。"
+        },
+        {
+          "type": "heading",
+          "text": "18. 齒厚 ( tooth thickness ):在節圓圓弧上一輪齒的弧線長,"
+        },
+        {
+          "type": "paragraph",
+          "text": "等於周節的一半。"
+        },
+        {
+          "type": "heading",
+          "text": "19. 弦齒厚 ( chordal tooth thickness ):齒厚之弦長。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "20. 齒間 ( tooth space ):在節圓圓弧上相鄰兩齒間的弧線長。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "21. 背隙 ( backlash ):又稱「齒隙」,為一齒輪之齒間與其相 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "嚙合齒輪之齒厚的空隙,即等於齒間與齒厚之差。 部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "22. 周節 ( circular pitch ):在節圓圓弧上一輪齒之任一點至相鄰"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒同位點之弧線長,即等於齒厚與齒間之和,用於表示齒 輪齒形的大小,常以 P 表示,兩嚙合齒輪的周節必須相等。"
+        },
+        {
+          "type": "heading",
+          "text": "c"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "23. 模數 ( module ):每一輪齒所占有節圓直徑的長度,用於表 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "示公制齒輪齒形的大小,常以 M 表示 (單位為 mm ),兩嚙合 部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪的模數必須相等。 稱"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "由上式可知,公制齒輪若節圓直徑固定,齒數愈少,模數愈大, 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "則齒輪之齒形亦愈大;反之齒數多,模數愈小,其齒形則愈小。 15"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "周節與模數兩者的關係式為 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "24. 徑節 ( diametral pitch ):又稱「節數」 ( pitch number ),"
+        },
+        {
+          "type": "paragraph",
+          "text": "為每吋 ( in ) 節圓直徑所佔有的齒數,用於表示英制齒輪齒"
+        },
+        {
+          "type": "heading",
+          "text": "形的大小,常以 P 表示"
+        },
+        {
+          "type": "heading",
+          "text": "d"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "徑節用於表示英制齒輪齒形大小時,若節圓直徑固定,徑節愈 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "大,則齒形愈小;反之,徑節愈小,其齒形則愈大。 部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "周節與徑節兩者的關係式為"
+        },
+        {
+          "type": "heading",
+          "text": "模數與徑節是單位不同且互成倒數之關係,其關係式為"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "25. 作用線 ( line of action ):又稱 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "「壓力線」 ( pressure line ), 部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "為兩嚙合齒輪輪齒之接觸點至 稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "節點的連線。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-17 齒輪之嚙合示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "26. 壓力角 ( pressure angle ):又稱「傾斜角」 ( angle of 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "obliquity ),為作用線與節點上之節圓公切線的夾角,常以 部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "paragraph",
+          "text": "θ 表示,壓力角過小,兩齒輪則容易產生干涉現象,故壓 稱 力角在 14.5 ° ~ 22.5 ° 之間為佳。不同齒形之齒輪其壓力角 亦不同,擺線齒輪之壓力角是變值;而漸開線齒輪之壓力 角則為定值,其常見壓力角有 14.5 °、 15 °、 20 ° 及 22.5 ° 等 四種,而我國 CNS 標準之壓力角為 20 °。"
+        },
+        {
+          "type": "heading",
+          "text": "27. 接觸線 ( path of contact ):兩嚙合齒輪,自開始接觸起至"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "脫離接觸止,其接觸點連接起來所成之軌跡曲線,接觸線 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "paragraph",
+          "text": "必經過節點,且會因齒形不同而有所不同,例如擺線齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "之接觸線為曲線,而漸開線齒輪之接觸線為直線。"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "28. 漸近角 ( angle of approach ):兩嚙合齒輪,由開始接觸之 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "接觸點至節點,其間齒輪所旋轉的角度。 部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "29. 漸遠角 ( angle of recess ):兩嚙合齒輪,由節點至脫離接觸"
+        },
+        {
+          "type": "paragraph",
+          "text": "之接觸點止,其間齒輪所旋轉的角度。"
+        },
+        {
+          "type": "heading",
+          "text": "30. 作用角 ( angle of action ):兩嚙合齒輪,由開始至脫離接觸"
+        },
+        {
+          "type": "paragraph",
+          "text": "之接觸點,其間齒輪所旋轉的角度,即等於漸近角與漸遠 角之和。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "31. 漸近弧 ( arc of approach ):漸近角所對應的節圓弧長。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        },
+        {
+          "type": "heading",
+          "text": "32. 漸遠弧 ( arc of recess ):漸遠角所應對的節圓弧長。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 43,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "33. 作用弧 ( arc of action ):作用角所對應的節圓弧長,即等於 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "漸近弧與漸遠弧之和,兩嚙合齒輪的作用弧恆相等,且須 部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "paragraph",
+          "text": "大於或等於周節,否則無法順利傳動。 稱"
+        },
+        {
+          "type": "heading",
+          "text": "34. 接觸率 ( contact ratio ):又稱接觸比,為作用弧與周節之"
+        },
+        {
+          "type": "paragraph",
+          "text": "比值,接觸率的最小極限值為 1,接觸率愈大,則齒輪運轉 愈平穩、傳動效率愈好,通常用於傳達功率的齒輪接觸率 皆在 1.4 以上可確保品質。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "43"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 44,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒輪各部名稱"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩嚙合正齒輪模數為 1 · 5, 齒數分別為 40 及 80, 試求: ( 1 ) 兩齒輪之節圓直徑為若干 mm? ( 2 ) 中心距為多少 mm? ( 3 ) 周節為多少 mm? ( 4 ) 徑節為多少 in?"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "44"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p044.jpg"
+    },
+    {
+      "page": 45,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒輪各部名稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "已知 M = 1 · 5, TI = 40, T2 = 80"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 由公式 ( 10 一 4 ), 得"
+        },
+        {
+          "type": "paragraph",
+          "text": "DI = M × TI = 1 · 5 × 40 = 60mm D2 = M × T2 = 1 · 5 × 80 = 120mm"
+        },
+        {
+          "type": "heading",
+          "text": "D1+D2"
+        },
+        {
+          "type": "heading",
+          "text": "60 十 120"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 兩正齒輪外接時: C="
+        },
+        {
+          "type": "heading",
+          "text": "= 90mm"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "D2—DI"
+        },
+        {
+          "type": "heading",
+          "text": "120 一 60"
+        },
+        {
+          "type": "heading",
+          "text": "兩正齒輪內接時: C="
+        },
+        {
+          "type": "heading",
+          "text": "= 30mm"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "heading",
+          "text": "( 3 ) 由公式 ( 10 一 5 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "P = M = × 1 · 5 = 4 · 71mm"
+        },
+        {
+          "type": "heading",
+          "text": "( 4 ) 由公式 ( 10 一 8 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": "25 · 4"
+        },
+        {
+          "type": "heading",
+          "text": "25 · 4"
+        },
+        {
+          "type": "heading",
+          "text": "25 · 4"
+        },
+        {
+          "type": "heading",
+          "text": ", 即 PF"
+        },
+        {
+          "type": "heading",
+          "text": "= 16 · 93in"
+        },
+        {
+          "type": "heading",
+          "text": "M="
+        },
+        {
+          "type": "heading",
+          "text": "Pd"
+        },
+        {
+          "type": "heading",
+          "text": "M"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 5"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "45"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p045.jpg"
+    },
+    {
+      "page": 46,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "二、斜齒輪 輪"
+        },
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "部"
+        },
+        {
+          "type": "heading",
+          "text": "名"
+        },
+        {
+          "type": "heading",
+          "text": "稱"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-18 斜齒輪各部分名稱"
+        },
+        {
+          "type": "heading",
+          "text": "46"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p046.jpg"
+    },
+    {
+      "page": 47,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "10-3 齒輪的基本定律"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "基"
+        },
+        {
+          "type": "heading",
+          "text": "一、齒輪的基本定律 本"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "heading",
+          "text": "律"
+        },
+        {
+          "type": "paragraph",
+          "text": "欲使齒輪傳達時能維持順暢及一定的速比,則兩相嚙合齒輪輪 齒之曲線必須滿足下列條件:「兩相嚙合齒輪之輪齒,其接觸 點之公法線必經過節點」,此條件即為「齒輪基本定律」 ( fundamental law of gearing ),能完全符合齒輪基本定律,則 此曲線必互為共軛,即稱為「共軛曲線」 ( conjugate curve ),"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "以共軛曲線製成之輪齒,稱為「共軛齒」 ( conjugate teeth ),"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        },
+        {
+          "type": "paragraph",
+          "text": "目前常用的共軛曲線齒形有「漸開線」與「擺線」兩種。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "47"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 48,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒輪的基本定律"
+        },
+        {
+          "type": "heading",
+          "text": "( 接觸點 a 之公切線 ) T"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "VI 接觸點 b 之公切線 )"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 IO -19 齒輪基本定律"
+        },
+        {
+          "type": "heading",
+          "text": "48"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p048.jpg"
+    },
+    {
+      "page": 49,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "二、齒輪傳動的特性 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "基"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪傳動是利用輪齒相互接觸來傳達動力,輪齒曲線必須滿足 本"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪基本定律,兩相嚙合齒輪傳動之角速比才能維持恆定,而 律 一般齒輪傳動的特性。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "49"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 50,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 作用角與節圓直徑之關係 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "基"
+        },
+        {
+          "type": "heading",
+          "text": "因兩嚙合齒輪之作用弧必為相等,則"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "heading",
+          "text": "律"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩嚙合齒輪之作用角與節圓直徑(半徑)成反比。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "50"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 51,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 轉速與節圓直徑之關係 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "基"
+        },
+        {
+          "type": "paragraph",
+          "text": "因純滾動接觸,兩嚙合齒輪在節點上之切線速度必相等,則"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "heading",
+          "text": "律"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩嚙合齒輪之轉速與節圓直徑(半徑)成反比。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "51"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 52,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 齒數、節圓直徑、作用角及轉速之關係 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "基"
+        },
+        {
+          "type": "heading",
+          "text": "因兩嚙合齒輪的模數必須相等"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "heading",
+          "text": "律"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩嚙合齒輪之齒數、節圓直徑與作用角、轉速成反比。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "52"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 53,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 作用弧與周節之關係 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "基"
+        },
+        {
+          "type": "paragraph",
+          "text": "因兩嚙合齒輪之作用弧必須大於或等於周節,而作用弧與周節"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "heading",
+          "text": "之比值稱為「接觸率」即"
+        },
+        {
+          "type": "heading",
+          "text": "律"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "接觸率愈大,則運轉愈順暢,傳動效率愈高,一般傳達動力用 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "的齒輪,其接觸率大於 1.4 時可確保品質。 23"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "53"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 54,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 斜齒輪的速比 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "基"
+        },
+        {
+          "type": "paragraph",
+          "text": "與正齒輪的速比計算方法相同,惟斜齒輪的節圓直徑與節圓錐"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "定"
+        },
+        {
+          "type": "heading",
+          "text": "角之正弦值有正比關係"
+        },
+        {
+          "type": "heading",
+          "text": "律"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩嚙合斜齒輪之轉速與節圓直徑、齒數、節圓錐角之正弦值成 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "paragraph",
+          "text": "反比。 23"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "54"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 55,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒輪的基本定律"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "一對正齒輪, 主動輪齒數為 20, 轉速為 650rpm, 從動輪齒數為 100, 試求從動輪之"
+        },
+        {
+          "type": "heading",
+          "text": "轉速為多少 rpm?"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 TI = 20, NF650rpm, T2 = 100"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 10-11 )"
+        },
+        {
+          "type": "heading",
+          "text": ", 得"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "T2 一 NI 一 100 一 650"
+        },
+        {
+          "type": "heading",
+          "text": "· · · N2 = 130rpm"
+        },
+        {
+          "type": "heading",
+          "text": "TI N2 20"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "5 5"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p055.jpg"
+    },
+    {
+      "page": 56,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "10-4 齒形的種類"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "構成齒輪齒形之曲線,必須符合齒輪基本定律,而符合齒輪基"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "本定律之齒形曲線必為共軛曲線,齒輪輪齒常用之共軛曲線有 漸開線、擺線、漸開線與擺線之混合曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "56"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 57,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "一、漸開線齒形 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪齒形之曲線由「漸開線」所構成者,稱為漸開線齒輪。 類"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 漸開線的定義"
+        },
+        {
+          "type": "paragraph",
+          "text": "將一條不可伸長的細繩,緊繞在一圓上,當此繩沿圓的圓周張 開時,繩上任一點的軌跡曲線,或一直線繞一圓之圓周滾動時, 此直線上任一點之軌跡曲線,即稱為「漸開線」,其所繞之圓 則稱為「基圓」 ( base circle )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "57"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 58,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形的種類"
+        },
+        {
+          "type": "heading",
+          "text": "繩線"
+        },
+        {
+          "type": "heading",
+          "text": "漸開線"
+        },
+        {
+          "type": "heading",
+          "text": "漸開線"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "基圓"
+        },
+        {
+          "type": "heading",
+          "text": "基圓"
+        },
+        {
+          "type": "heading",
+          "text": "(B)"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-20 漸開線"
+        },
+        {
+          "type": "heading",
+          "text": "58"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p058.jpg"
+    },
+    {
+      "page": 59,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 漸開線的特性 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "相同基圓之漸開線,其曲度必相同,「基圓大小」是決定漸開"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "線齒輪齒形的要素,因基圓直徑愈大,漸開線曲度愈大,則齒 形愈平直;反之,基圓直徑愈小,漸開線曲度愈小,則齒形愈 彎曲。"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 基圓與節圓的關係"
+        },
+        {
+          "type": "paragraph",
+          "text": "假設 D 為基圓直徑, D 為節圓直徑, θ 為壓力角,則"
+        },
+        {
+          "type": "heading",
+          "text": "b"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "59"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 60,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形的種類"
+        },
+        {
+          "type": "heading",
+          "text": "X"
+        },
+        {
+          "type": "heading",
+          "text": "T"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪 2"
+        },
+        {
+          "type": "heading",
+          "text": "齒輪 1"
+        },
+        {
+          "type": "heading",
+          "text": "基圓"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "節圓"
+        },
+        {
+          "type": "heading",
+          "text": "基圓"
+        },
+        {
+          "type": "heading",
+          "text": "節圓"
+        },
+        {
+          "type": "heading",
+          "text": "壓力角 ("
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "基圓與節圓的關係"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-21"
+        },
+        {
+          "type": "heading",
+          "text": "60"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p060.jpg"
+    },
+    {
+      "page": 61,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 漸開線齒形的干涉 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "當一齒輪之漸開線齒面,與另一齒輪在基圓內部之非漸開線齒"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "腹相接觸時,易造成齒面之齒尖切入齒腹的現象,此現象即稱 為「干涉」 ( interference )。干涉現象會使兩嚙合齒輪在運轉時, 造成鎖緊、切入等情形,致使輪齒有過度磨損或運轉不順、振 動、噪音、速比不正確等不良現象,所以應儘量避免。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "61"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 62,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形的種類"
+        },
+        {
+          "type": "heading",
+          "text": "齒冠圓"
+        },
+        {
+          "type": "heading",
+          "text": "從動輪"
+        },
+        {
+          "type": "heading",
+          "text": "0"
+        },
+        {
+          "type": "heading",
+          "text": "主動輪"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "基圓"
+        },
+        {
+          "type": "heading",
+          "text": "節圓"
+        },
+        {
+          "type": "heading",
+          "text": "壓力角 ("
+        },
+        {
+          "type": "heading",
+          "text": "作用線"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 IO -22 漸開線齒形的干涉"
+        },
+        {
+          "type": "heading",
+          "text": "62"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p062.jpg"
+    },
+    {
+      "page": 63,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "消除干涉現象的方法: 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "1. 縮減齒冠圓"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "2. 齒腹向內凹陷"
+        },
+        {
+          "type": "heading",
+          "text": "3. 增加壓力角"
+        },
+        {
+          "type": "heading",
+          "text": "4. 增大中心距"
+        },
+        {
+          "type": "heading",
+          "text": "5. 使用移位齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-23 短齒與清角齒"
+        },
+        {
+          "type": "heading",
+          "text": "63"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p063.jpg"
+    },
+    {
+      "page": 64,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 漸開線齒輪嚙合的必要條件 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "1. 兩齒輪的模數、徑節、周節相等。"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "2. 兩齒輪的壓力角必相等,接觸線為一直線。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 兩齒輪傳動時,輪齒間不可發生干涉現象。"
+        },
+        {
+          "type": "heading",
+          "text": "4. 作用弧必等於或大於周節。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "64"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 65,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形的種類"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-4"
+        },
+        {
+          "type": "paragraph",
+          "text": "一漸開線齒輪之齒數為 30, 周節為 6 · 28mm, 壓力角為 20。, 試求其基圓直徑為多少 mm? ( sin200= 0 · 342, c0s20。 = 0 · 94 ) 解已知 T = 30, P = 6 · 28mm, = 20。"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 10-3 ), 得"
+        },
+        {
+          "type": "heading",
+          "text": ", 6 · 28 ="
+        },
+        {
+          "type": "heading",
+          "text": "•.D=60mm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "由公式 ( 10-14 ), 得"
+        },
+        {
+          "type": "paragraph",
+          "text": "Db=D ><cos = 60 × cos20。 = 60 × 0 · 94 = 56 · 4mm"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "65"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p065.jpg"
+    },
+    {
+      "page": 66,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "二、擺線齒形 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒輪齒形之曲線由「擺線」所構成者,稱為擺線齒輪。擺線齒 類 輪的發明比漸開線齒輪早,但在製造上較困難,成本亦較貴, 目前在使用已較漸開線齒輪少。"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 擺線的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "依滾圓在不同線段上滾動之軌跡可分為下列三種。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "66"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 67,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "1. 正擺線 ( cycloid ) 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "一圓(滾圓)在一直線(節線)上滾動,其圓周上任一點之軌"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "跡曲線,主要為擺線齒條的齒形曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-24 正擺線"
+        },
+        {
+          "type": "heading",
+          "text": "67"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p067.jpg"
+    },
+    {
+      "page": 68,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "2. 外擺線 ( epicycloid ) 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "一圓(外滾圓)在另一圓(節圓)"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "的外緣上滾動,其圓周上任一點"
+        },
+        {
+          "type": "heading",
+          "text": "之軌跡曲線,主要為擺線齒輪的"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒面部分之曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-25 外擺線與內擺線"
+        },
+        {
+          "type": "heading",
+          "text": "68"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p068.jpg"
+    },
+    {
+      "page": 69,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "3. 內擺線 ( hypocycloid ) 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "一圓(內滾圓)在另一圓(節圓)的內緣上滾動,其圓周上任"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "一點之軌跡曲線,主要為擺線齒輪的齒腹部分之曲線。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "69"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 70,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 擺線齒輪的齒形 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "擺線齒輪之齒形係由外擺線與內擺線兩種曲線所構成。一對相"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "互嚙合之擺線齒輪,其主動輪之齒面與從動輪之齒腹,須以相 同大小之滾圓構成其外、內擺線,同理,主動輪之齒腹與從動 輪之齒面,亦須以相同大小之滾圓構成其內、外擺線,如此兩 嚙合之齒輪才能符合齒輪基本定律。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "70"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 71,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 內滾圓與齒形的關係 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "1. 內滾圓直徑大於節圓半徑時,所得的內擺線齒形會使齒腹呈"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "向內凹陷之形狀,則輪齒的強度較弱。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 內滾圓直徑等於節圓半徑時,齒腹由徑線構成,稱為「徑向"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒腹」 ( radial tooth flank ),其輪齒的強度中等。"
+        },
+        {
+          "type": "heading",
+          "text": "3. 內滾圓直徑小於節圓半徑時,所得的內擺線齒形會使齒腹根"
+        },
+        {
+          "type": "paragraph",
+          "text": "部較寬,則輪齒的強度較大。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "71"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 72,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 10-26 內滾圓大小與齒形的關係"
+        },
+        {
+          "type": "heading",
+          "text": "72"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p072.jpg"
+    },
+    {
+      "page": 73,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 擺線齒輪嚙合的必要條件 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩相互嚙合之擺線齒輪,除模數、徑節、周節應相等外,其齒"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪之齒面與嚙合齒輪之齒腹,必須由同一大小之滾圓所產生之 外、內擺線所形成,而齒輪本身的齒面及齒腹,無須由大小相 同之滾圓所產生之內、外擺線所形成,但為增加互換性,則齒 輪本身的齒面及齒腹,以相同之內、外滾圓為優。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "73"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 74,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "( 五 ) 擺線齒輪的傳動特性 形"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "1. 齒輪傳動時,其接觸線為一曲線,壓力角為不定值,由大而"
+        },
+        {
+          "type": "heading",
+          "text": "類"
+        },
+        {
+          "type": "paragraph",
+          "text": "小,至節點為零,再由小而大,到兩齒分離。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 輪齒嚙合傳動時,沒有干涉的問題,即時齒數較少(例如 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒的齒輪),都可得到良好的連續運動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "74"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 75,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形的種類"
+        },
+        {
+          "type": "heading",
+          "text": "、 漸開線齒輪及擺線齒輪之比較"
+        },
+        {
+          "type": "heading",
+          "text": "表 10-1 漸開線齒輪及擺線齒輪之比較"
+        },
+        {
+          "type": "heading",
+          "text": "性質"
+        },
+        {
+          "type": "heading",
+          "text": "漸開線齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "擺線齒輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "基圓外為漸開線, 基圓內為徑向齒面為外擺線, 齒腹為內擺線"
+        },
+        {
+          "type": "heading",
+          "text": "齒形"
+        },
+        {
+          "type": "heading",
+          "text": "直線"
+        },
+        {
+          "type": "heading",
+          "text": "齒條齒形為正擺線"
+        },
+        {
+          "type": "heading",
+          "text": "齒條齒形為斜直線"
+        },
+        {
+          "type": "heading",
+          "text": "滾圓大小"
+        },
+        {
+          "type": "heading",
+          "text": "基圓大小"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 滾圓 > 節圓半徑, 齒腹內陷"
+        },
+        {
+          "type": "heading",
+          "text": "決定齒形要素 ( 1 ) 基圓愈大, 齒形愈平直"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 滾圓 = 節圓半徑, 徑向齒腹"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 基圓愈小, 齒形愈彎曲"
+        },
+        {
+          "type": "heading",
+          "text": "( 3 ) 滾圓 < 節圓半徑, 齒腹根寬"
+        },
+        {
+          "type": "heading",
+          "text": "接觸線直線"
+        },
+        {
+          "type": "heading",
+          "text": "曲線"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "75"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p075.jpg"
+    },
+    {
+      "page": 76,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形的種類"
+        },
+        {
+          "type": "heading",
+          "text": "表 10-1 漸開線齒輪及擺線齒輪之比較"
+        },
+        {
+          "type": "heading",
+          "text": "性質"
+        },
+        {
+          "type": "heading",
+          "text": "漸開線齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "擺線齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "除模數、 徑節、 周節須相等外,"
+        },
+        {
+          "type": "heading",
+          "text": "嚙合條件"
+        },
+        {
+          "type": "paragraph",
+          "text": "模數、 徑節、 周節、 壓力角均相一齒輪之齒面與嚙合齒輪之齒"
+        },
+        {
+          "type": "heading",
+          "text": "腹, 所用的滾圓大小亦須相同,"
+        },
+        {
+          "type": "heading",
+          "text": "( 互換性 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "等, 互換性較佳。 互換性較差。"
+        },
+        {
+          "type": "heading",
+          "text": "由兩種不同曲線組成, 製造較困"
+        },
+        {
+          "type": "paragraph",
+          "text": "僅由一種曲線組成, 製造較容易。 難。"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "壓力角"
+        },
+        {
+          "type": "paragraph",
+          "text": "壓力角恆為定值, 則軸承所承受壓力角為變值, 則軸承所承受之"
+        },
+        {
+          "type": "heading",
+          "text": "( 軸承受力 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "之應力較為均勻。 力亦隨時在變化, 受力易不勻。 在周節、 齒數相同下, 其輪齒齒在周節、 齒數相同下, 其輪齒齒"
+        },
+        {
+          "type": "heading",
+          "text": "強度"
+        },
+        {
+          "type": "heading",
+          "text": "根較厚, 強度較佳"
+        },
+        {
+          "type": "paragraph",
+          "text": "根較窄, 強度較差。"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "76"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p076.jpg"
+    },
+    {
+      "page": 77,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形的種類"
+        },
+        {
+          "type": "heading",
+          "text": "表 10-1 漸開線齒輪及擺線齒輪之比較"
+        },
+        {
+          "type": "heading",
+          "text": "性質"
+        },
+        {
+          "type": "heading",
+          "text": "漸開線齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "擺線齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "以節圓為界, 由外擺線及內擺線"
+        },
+        {
+          "type": "heading",
+          "text": "僅一種曲線所組成, 故兩輪中心"
+        },
+        {
+          "type": "heading",
+          "text": "角速比"
+        },
+        {
+          "type": "heading",
+          "text": "所組成, 故傳動時, 節圓必須確"
+        },
+        {
+          "type": "heading",
+          "text": "距若有少許誤差, 其角速比仍能"
+        },
+        {
+          "type": "heading",
+          "text": "( 中心距 )"
+        },
+        {
+          "type": "heading",
+          "text": "實相切, 兩齒輪之中心距必須完"
+        },
+        {
+          "type": "paragraph",
+          "text": "維持正確, 故安裝較為容易。"
+        },
+        {
+          "type": "heading",
+          "text": "( 安裝 )"
+        },
+        {
+          "type": "heading",
+          "text": "全準確, 才能獲得正確角速比,"
+        },
+        {
+          "type": "paragraph",
+          "text": "故安裝較為困難。"
+        },
+        {
+          "type": "heading",
+          "text": "干涉現象"
+        },
+        {
+          "type": "paragraph",
+          "text": "有干涉現象, 且輪齒嚙合傳動時, 沒有干涉的間題, 輪齒嚙合傳動"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( 磨耗 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "為凸面與凸面的接觸, 故磨耗較時, 為凸面與凹面的接觸, 故磨 大, 則傳動效率較差。"
+        },
+        {
+          "type": "heading",
+          "text": "( 傳動效率 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "耗較小, 則傳動效率較佳。 適用於較粗重, 振動、 衝擊較大適用於振動、 衝擊較小、 精度較"
+        },
+        {
+          "type": "heading",
+          "text": "用途"
+        },
+        {
+          "type": "paragraph",
+          "text": "的場合, 如起重機、 汽車上之齒高、 效率較大的傳動機械, 如鐘"
+        },
+        {
+          "type": "heading",
+          "text": "錶上之齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "77"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p077.jpg"
+    },
+    {
+      "page": 78,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "10-5 齒形與齒輪的規格"
+        },
+        {
+          "type": "heading",
+          "text": "形"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "將齒輪之模數或徑節、齒冠、齒根、間隙、工作深度、齒深、"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒厚、齒間等各部尺度,訂出一定之標準關係,即謂「齒輪之 規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "paragraph",
+          "text": "標準化」。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "78"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 79,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "一、公制標準齒輪 形"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "公制標準齒輪之齒形大小係以「模數」表示,單位為公厘 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "( mm ),齒形採漸開線齒輪,我國國家標準 ( CNS ) 即採用此 規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "paragraph",
+          "text": "制,則採用 20 ° 之壓力角。公制標準齒輪之齒制可分為全齒制 及短齒制兩種,兩者主要的差異為齒冠及齒根長度不同,一般 而言短齒制齒形之齒輪,其強度較大,且較不會發生干涉現象, 但接觸率較小,運轉較不平穩、傳動效率較差。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "79"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 80,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形與齒輪的規格"
+        },
+        {
+          "type": "heading",
+          "text": "表 10-2"
+        },
+        {
+          "type": "heading",
+          "text": "公制標準齒輪的各部尺度"
+        },
+        {
+          "type": "heading",
+          "text": "齒制各部名稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "20。 全齒制 20。 短齒制"
+        },
+        {
+          "type": "heading",
+          "text": "齒冠"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 8M"
+        },
+        {
+          "type": "heading",
+          "text": "齒根"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 25M"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 25M"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 2M"
+        },
+        {
+          "type": "heading",
+          "text": "工作深度"
+        },
+        {
+          "type": "heading",
+          "text": "2M"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 6M"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "2 · 25M"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 8M"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 5708M"
+        },
+        {
+          "type": "paragraph",
+          "text": "主: M 表示模數, T 表示齒數。"
+        },
+        {
+          "type": "heading",
+          "text": "1111 口"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "80"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p080.jpg"
+    },
+    {
+      "page": 81,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形與齒輪的規格"
+        },
+        {
+          "type": "heading",
+          "text": "表 10-2"
+        },
+        {
+          "type": "heading",
+          "text": "公制標準齒輪的各部尺度"
+        },
+        {
+          "type": "heading",
+          "text": "齒制各部名稱"
+        },
+        {
+          "type": "paragraph",
+          "text": "20。 全齒制 20。 短齒制"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 5708M"
+        },
+        {
+          "type": "heading",
+          "text": "周節"
+        },
+        {
+          "type": "heading",
+          "text": "節圓直徑"
+        },
+        {
+          "type": "heading",
+          "text": "MT"
+        },
+        {
+          "type": "heading",
+          "text": "M(T+2)"
+        },
+        {
+          "type": "heading",
+          "text": "M()+ 1 · 6 )"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "齒根圓角半徑"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 236M"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 3M"
+        },
+        {
+          "type": "paragraph",
+          "text": "主: M 表示模數, T 表示齒數。"
+        },
+        {
+          "type": "heading",
+          "text": "1111 口"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "81"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p081.jpg"
+    },
+    {
+      "page": 82,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "二、英制標準齒輪 形"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "英制標準齒輪之齒形大小係以「徑節」表示,單位為吋 ( in ), 輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "而英制齒輪中使用最多者為美國標準協會 ( American Standards 規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "paragraph",
+          "text": "Association, ASA ) 制定的標準齒輪。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "82"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 83,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形與齒輪的規格"
+        },
+        {
+          "type": "heading",
+          "text": "表 10-3 美國標準齒輪的各部尺度"
+        },
+        {
+          "type": "heading",
+          "text": "齒制各部"
+        },
+        {
+          "type": "paragraph",
+          "text": "20。 全深 20。 短齒 14 · 5。 布朗一 14 · 5。 全深"
+        },
+        {
+          "type": "heading",
+          "text": "費洛氏"
+        },
+        {
+          "type": "heading",
+          "text": "沙普混合制漸開線制"
+        },
+        {
+          "type": "heading",
+          "text": "漸開線制漸開線制"
+        },
+        {
+          "type": "heading",
+          "text": "短齒制"
+        },
+        {
+          "type": "heading",
+          "text": "名稱"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 8"
+        },
+        {
+          "type": "heading",
+          "text": "齒冠"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 157"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 25"
+        },
+        {
+          "type": "heading",
+          "text": "齒根"
+        },
+        {
+          "type": "heading",
+          "text": "0.157"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 2"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 25"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "間隙"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 6"
+        },
+        {
+          "type": "heading",
+          "text": "工作深度"
+        },
+        {
+          "type": "paragraph",
+          "text": "主: Pd 表示徑節, Pd1 表示第一徑節, P 表示第二徑節, T 表示齒數。"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 1 一"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "83"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p083.jpg"
+    },
+    {
+      "page": 84,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形與齒輪的規格"
+        },
+        {
+          "type": "heading",
+          "text": "表 10-3 美國標準齒輪的各部尺度"
+        },
+        {
+          "type": "heading",
+          "text": "齒制各部"
+        },
+        {
+          "type": "paragraph",
+          "text": "20。 短齒"
+        },
+        {
+          "type": "heading",
+          "text": "費洛氏"
+        },
+        {
+          "type": "paragraph",
+          "text": "14 · 5。 布朗一 14 · 5。 全深 20。 全深"
+        },
+        {
+          "type": "heading",
+          "text": "沙普混合制漸開線制漸開線制漸開線制"
+        },
+        {
+          "type": "heading",
+          "text": "短齒制"
+        },
+        {
+          "type": "heading",
+          "text": "名稱"
+        },
+        {
+          "type": "heading",
+          "text": "2.157"
+        },
+        {
+          "type": "heading",
+          "text": "2 · 25"
+        },
+        {
+          "type": "heading",
+          "text": "齒深"
+        },
+        {
+          "type": "heading",
+          "text": "1.5708"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 5708"
+        },
+        {
+          "type": "heading",
+          "text": "齒厚"
+        },
+        {
+          "type": "heading",
+          "text": "dl"
+        },
+        {
+          "type": "heading",
+          "text": "1.5708"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 5708"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "齒間"
+        },
+        {
+          "type": "heading",
+          "text": "dl"
+        },
+        {
+          "type": "heading",
+          "text": "周節"
+        },
+        {
+          "type": "heading",
+          "text": "dl"
+        },
+        {
+          "type": "paragraph",
+          "text": "主: Pd 表示徑節, Pd1 表示第一徑節, P 表示第二徑節, T 表示齒數。"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 1 一"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "84"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p084.jpg"
+    },
+    {
+      "page": 85,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形與齒輪的規格"
+        },
+        {
+          "type": "heading",
+          "text": "表 10-3 美國標準齒輪的各部尺度"
+        },
+        {
+          "type": "heading",
+          "text": "齒制各部"
+        },
+        {
+          "type": "paragraph",
+          "text": "20。 短齒"
+        },
+        {
+          "type": "heading",
+          "text": "費洛氏"
+        },
+        {
+          "type": "paragraph",
+          "text": "14 · 5。 布朗一 14 · 5。 全深 20。 全深"
+        },
+        {
+          "type": "heading",
+          "text": "沙普混合制漸開線制"
+        },
+        {
+          "type": "heading",
+          "text": "漸開線制漸開線制"
+        },
+        {
+          "type": "heading",
+          "text": "短齒制"
+        },
+        {
+          "type": "heading",
+          "text": "名稱"
+        },
+        {
+          "type": "heading",
+          "text": "節圓直徑"
+        },
+        {
+          "type": "heading",
+          "text": "dl"
+        },
+        {
+          "type": "heading",
+          "text": "T+2"
+        },
+        {
+          "type": "heading",
+          "text": "T 十 1.6"
+        },
+        {
+          "type": "heading",
+          "text": "T 2"
+        },
+        {
+          "type": "heading",
+          "text": "外徑"
+        },
+        {
+          "type": "heading",
+          "text": "dl"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 209"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 236"
+        },
+        {
+          "type": "heading",
+          "text": "0 · 25"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "齒根圓角半徑"
+        },
+        {
+          "type": "heading",
+          "text": "dl"
+        },
+        {
+          "type": "paragraph",
+          "text": "主: Pd 表示徑節, Pd1 表示第一徑節, P 表示第二徑節, T 表示齒數。"
+        },
+        {
+          "type": "heading",
+          "text": "1 一 1 一"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "85"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p085.jpg"
+    },
+    {
+      "page": 86,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 14.5 ° 布朗 – 沙普混合制 ( 14.5 ° Brown & Sharpe composite system ) 形"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "齒形曲線上下兩段為外、內擺線,中間段為漸開線,其同時具"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "有擺線齒輪無干涉現象,及漸開線齒輪中心距稍有變動亦不影"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "paragraph",
+          "text": "響角速比之優點。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 10-27 14.5 ° 布朗 – 沙普混合制"
+        },
+        {
+          "type": "heading",
+          "text": "86"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p086.jpg"
+    },
+    {
+      "page": 87,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 14.5 °全深漸開線制 ( 14.5 ° full depth involute system ) 形"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 14.5 °之壓力角製成漸開線齒形之全深制齒輪,所謂「全深」"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "1 的"
+        },
+        {
+          "type": "paragraph",
+          "text": "即為齒冠為 者,而為避免干涉現象,其齒數應在 32 齒以上 規"
+        },
+        {
+          "type": "heading",
+          "text": "P"
+        },
+        {
+          "type": "heading",
+          "text": "d 格"
+        },
+        {
+          "type": "paragraph",
+          "text": "為宜。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "圖 10-28 14.5 ° 全深漸開線制、 20 ° 全深漸開線制與 20 ° 短齒漸開線制"
+        },
+        {
+          "type": "heading",
+          "text": "87"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p087.jpg"
+    },
+    {
+      "page": 88,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 20 ° 全深漸開線制 ( 20 ° full depth involute system ) 形"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "為避免干涉現象,其齒數應在 18 齒以上為宜。 20 ° 全深漸開線"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "制之齒根較 14.5 ° 者為厚,且 20 ° 全深漸開線制之齒根圓角半徑"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "paragraph",
+          "text": "亦較大,故壓力角較大者,齒根會較厚,齒根圓角半徑亦較大, 所能承受之強度較高,因此 20 ° 全深漸開線制廣用於須高強度的 機械、汽車之傳動上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "88"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 89,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 20 ° 短齒漸開線制 ( 20 ° stub involute system ) 形"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "與 20 ° 全深漸開線制之齒形相同,差異於其齒冠、齒根為全深制"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "的 80%,齒根圓角半徑亦較大,故齒深較短,齒根較厚,則強"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "paragraph",
+          "text": "度較大,較不易折斷,齒數減至 12 齒時尚不致產生干涉現象, 但接觸率減小,傳動時不平穩易生噪音。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "89"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 90,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 費洛氏短齒制 ( Fellows gear shaper co. system ) 形"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱「株狀齒」,以 20 ° 之壓力角製成短齒制之漸開線齒形,"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "此種齒制之各部尺度是由兩種徑節計算而得,其徑節以「第一"
+        },
+        {
+          "type": "heading",
+          "text": "規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "paragraph",
+          "text": "徑節 ( P ) – 第二徑節 ( P ) 」表示,第一徑節主要用以計算"
+        },
+        {
+          "type": "heading",
+          "text": "d1 d2"
+        },
+        {
+          "type": "paragraph",
+          "text": "節圓直徑、齒數、周節及齒厚、齒間等部分,第二徑節則用以 計算齒冠、齒根及間隙部分。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "90"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 91,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形與齒輪的規格"
+        },
+        {
+          "type": "heading",
+          "text": "表 10-4"
+        },
+        {
+          "type": "heading",
+          "text": "費洛氏短齒制常用之徑節規格"
+        },
+        {
+          "type": "heading",
+          "text": "4 L.n 8"
+        },
+        {
+          "type": "heading",
+          "text": "Pd1 一 Pd2"
+        },
+        {
+          "type": "heading",
+          "text": "Pd1 一 Pd2"
+        },
+        {
+          "type": "heading",
+          "text": "dl"
+        },
+        {
+          "type": "heading",
+          "text": "d2"
+        },
+        {
+          "type": "heading",
+          "text": "8 一 10"
+        },
+        {
+          "type": "heading",
+          "text": "14 一 18"
+        },
+        {
+          "type": "heading",
+          "text": "9 一 11"
+        },
+        {
+          "type": "heading",
+          "text": "15 一 20"
+        },
+        {
+          "type": "heading",
+          "text": "10 一 12"
+        },
+        {
+          "type": "heading",
+          "text": "16 一 21"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "12 一 14"
+        },
+        {
+          "type": "heading",
+          "text": "17 一 22"
+        },
+        {
+          "type": "heading",
+          "text": "13 一 16"
+        },
+        {
+          "type": "heading",
+          "text": "18 一 24"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "91"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p091.jpg"
+    },
+    {
+      "page": 92,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "此種齒制在汽車使用甚多,其優點有: 形"
+        },
+        {
+          "type": "heading",
+          "text": "與"
+        },
+        {
+          "type": "heading",
+          "text": "齒"
+        },
+        {
+          "type": "heading",
+          "text": "(1) 齒強度較大;"
+        },
+        {
+          "type": "heading",
+          "text": "輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "(2) 齒面之磨損較均勻; 規"
+        },
+        {
+          "type": "heading",
+          "text": "格"
+        },
+        {
+          "type": "paragraph",
+          "text": "(3) 淬火處理時,收縮彎曲變形之現象較小。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "92"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 93,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形與齒輪的規格"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-5"
+        },
+        {
+          "type": "paragraph",
+          "text": "一齒輪採用 20。 全齒制之公制標準齒輪, 模數為 4mm, 齒數為 30 齒, 試求齒輪各部"
+        },
+        {
+          "type": "heading",
+          "text": "尺度為若干?"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "93"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p093.jpg"
+    },
+    {
+      "page": 94,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形與齒輪的規格"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 M=4mm, T = 30, 由表 10-2, 得"
+        },
+        {
+          "type": "heading",
+          "text": "( 1 ) 齒冠 = M = 4mm"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 2 ) 齒根 = 1 · 25M = 1 · 25 × 4 = 5mm ( 3 ) 間隙 = 0 · 25M = 0 · 25 × 4 = lmm ( 4 ) 工作深度 = 2M = 2 × 4 = 8mm ( 5 ) 齒深 = 2 · 25M = 2 · 25 × 4 = 9mm ( 6 ) 齒厚 = 1 · 508M = 1 · 5708 × 4 = 6 · 2832mm ( 7 ) 齒間 = 1 · 508M = 1 · 5708 × 4 = 6 · 2832mm"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 8 ) 周節 = M = 3 · 14 × 4 = 12 · 56mm ( 9 ) 節圓直徑 = MT = 4 × 30 = 120mm ( 10 ) 外徑 = M ( T 十 2 ) = 4 × ( 30 十 2 ) = 128mm ( 11 ) 齒根圓角半徑 = 0 · 236M = 0 · 236 × 4 = 0 · 944mm"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "94"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p094.jpg"
+    },
+    {
+      "page": 95,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "齒形與齒輪的規格"
+        },
+        {
+          "type": "heading",
+          "text": "例題 10-6"
+        },
+        {
+          "type": "paragraph",
+          "text": "有一費洛氏短齒制齒輪, 節圓直徑為 10 吋, 徑節為 4 一 5, 試求齒輪之齒數、 齒厚、"
+        },
+        {
+          "type": "heading",
+          "text": "周節及齒冠、 齒根各為若干 mm?"
+        },
+        {
+          "type": "paragraph",
+          "text": "解已知 D = 10in, PdF4, pæ=5, 由"
+        },
+        {
+          "type": "heading",
+          "text": ", 得"
+        },
+        {
+          "type": "heading",
+          "text": "表 10-3"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 1 ) 齒數 = PdI × D = 4 × 10 = 40 齒"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 508"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 508"
+        },
+        {
+          "type": "heading",
+          "text": "( 2 ) 齒厚 ="
+        },
+        {
+          "type": "heading",
+          "text": "= 0 · 3927 吋 = 9 · 97mm"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "3 · 14"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "( 3 ) 周節 ="
+        },
+        {
+          "type": "heading",
+          "text": "= 0 · 785 吋 = 19 · 94mm"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "( 4 ) 齒冠 ="
+        },
+        {
+          "type": "heading",
+          "text": "= 0 · 2 吋 = 5 · 08mm"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "1 · 25"
+        },
+        {
+          "type": "heading",
+          "text": "1.25"
+        },
+        {
+          "type": "heading",
+          "text": "( 5 ) 齒根 ="
+        },
+        {
+          "type": "heading",
+          "text": "= 0 · 25 吋 = 6 · 35mm"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "95"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p095.jpg"
+    },
+    {
+      "page": 96,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "96"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch10/p096.jpg"
+    }
+  ]
+}

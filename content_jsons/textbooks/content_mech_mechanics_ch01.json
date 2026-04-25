@@ -1,0 +1,741 @@
+{
+  "content_id": "CONTENT_MECH_MECHANICS_CH01",
+  "subject": "機械力學",
+  "chapter": {
+    "code": "CH01",
+    "title": "CH1"
+  },
+  "title": "機械力學 Chapter 1 力的特性與認識",
+  "source_pdf": "mechanical_mechanics/CH1PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_MECHANICS_CH01",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "1"
+        },
+        {
+          "type": "heading",
+          "text": "力的特性與認識"
+        },
+        {
+          "type": "heading",
+          "text": "本章綱要 學習目標"
+        },
+        {
+          "type": "paragraph",
+          "text": "1-1 力學的種類 1. 能瞭解力學之種類、力的觀念 1-2 力的觀念 及舉例說出向量、純量之定義。 1-3 向量與純量 2. 能熟練力的單位及換算。 1-4 力的單位 3. 能知悉剛體的定義及力的可傳 1-5 力系 性原理。 1-6 力的可傳性 4. 能瞭解日常生活應用力學的範 1-7 力學與生活 例。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "6"
+        },
+        {
+          "type": "paragraph",
+          "text": "在機械力學的研究範圍中,對力和力學的定義與瞭解是基礎且重要的知識建構,本章 將就學習機械力學幫各位同學做一基本介紹與認識。力學的基本原理往往是其他理論學科 的基礎,在各種生活及工程應用上也有諸多的應用實例,如果同學們用心體會將會發現力 學的應用跟我們日常生活中息息相關。 以 風力發電 ( 圖 1-1) 為例,透過風力發電機 ( 圖 1-2) 的內部構造可瞭解和機械產業密 不可分,構造與機械設計是重點,而機械力學更是基礎知能。例如: 葉片的離心力 ( 速度、 質量、重心 )、 風力發電機的扭矩 ( 力、力臂 )、 轉速控制 ( 功與能 ) ⋯⋯等,風力發電機藉 由空氣的氣動力作用轉動葉片,將風的 動能轉換成電能,風速愈大,風能愈高,可產出的 電力也愈多,但風力太大時,為了保護機組安全,必須停機和鎖住。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-1 風力發電"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-2 風力發電機"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch01/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 力的特性與認識 7"
+        },
+        {
+          "type": "heading",
+          "text": "1-1 力學的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "力學 (mechanics) 是物理學的一個分支,主要研究物體受力作用後所產生 運動狀態的改 變 或 變形效應 的科學。凡機械工程、土木工程、造船工程、航空工程,力學均為其必需具 備的基礎科學。"
+        },
+        {
+          "type": "heading",
+          "text": "一、力學的種類"
+        },
+        {
+          "type": "paragraph",
+          "text": "力學的研究, 通常可分為 剛體力學、非剛體力學及流體力學 三部分。 ( 如圖 1-3 所示 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-3 力學的種類"
+        },
+        {
+          "type": "heading",
+          "text": "二、技術高中之力學研究範圍"
+        },
+        {
+          "type": "paragraph",
+          "text": "上冊包括靜力學、運動學、動力學三部分,下冊包括材料力學。"
+        },
+        {
+          "type": "heading",
+          "text": "靜力學"
+        },
+        {
+          "type": "paragraph",
+          "text": "研究 物體之平衡 條件。物體平衡時,為 靜止 或 等速度直線運動。"
+        },
+        {
+          "type": "heading",
+          "text": "(statics)"
+        },
+        {
+          "type": "paragraph",
+          "text": "運動學 研究 物體運動時,時間與空間之關係,不討論影響運動之因素;也 (kinematics) 就是與外力及重量無關。 動力學 研究 物體運動 和 討論影響運動因素之間的關係;即時間、空間、力 (dynamics) 與質量之關係。"
+        },
+        {
+          "type": "heading",
+          "text": "材料力學"
+        },
+        {
+          "type": "paragraph",
+          "text": "研究 物體受力作用後, 內部所生應力和變形之關係。"
+        },
+        {
+          "type": "heading",
+          "text": "(mechanics of materials)"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch01/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "三、研究力學時,需要考慮到四個基本項目"
+        },
+        {
+          "type": "paragraph",
+          "text": "時間、空間、力與質量。"
+        },
+        {
+          "type": "heading",
+          "text": "知識 大 補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "用鋁棒或木棒打擊棒球,球飛的遠近不一樣,討論影響運動因素 ( 鋁棒與木棒 ) 之間的關係,屬於動力 學範疇。"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 研 究 物 體 之 運 動 與 影 響 運 動 的 因 素 間 之 關 係 者 稱 為 (A) 靜 力 學 (B) 運動學 (C) 動力學 (D) 材料力學。 ( ) 2. 物體受力作用後,分析物體平衡時或為靜止,或作等速直線運動的研 究之科學,稱為 (A) 靜力學 (B) 運動學 (C) 動力學 (D) 材料力 學。 ( ) 3. 力學之研究,必須考慮之四個基本項目為 (A) 時間、空間、重量與 力 (B) 時間、 速度、 重量與力 (C) 時間、 空間、 質量與力 (D) 時間、 速度、質量與力。 ( ) 4. 下列哪一門學科,不能將物體視為剛體? (A) 材料力學 (B) 靜力學 (C) 動力學 (D) 運動學。"
+        },
+        {
+          "type": "heading",
+          "text": "1-2 力的觀念"
+        },
+        {
+          "type": "heading",
+          "text": "一、力 (force) 的定義"
+        },
+        {
+          "type": "heading",
+          "text": "使物體產生 變形 或使物體 運動狀態改變 趨"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "paragraph",
+          "text": "勢者稱為 力。力是一種相互 作用 在二物體間, 故力不能單獨存在,必須是 成對 的,即作用力 力的存在必定為偶數 ⇒ 因為依據牛頓第三運動"
+        },
+        {
+          "type": "heading",
+          "text": "定律:有作用力就會產生反作用力 ( 推人時也會"
+        },
+        {
+          "type": "paragraph",
+          "text": "和反作用力同時發生。 被推 ),所以力不能單獨存在。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 力的特性與認識 9"
+        },
+        {
+          "type": "heading",
+          "text": "二、力的三要素"
+        },
+        {
+          "type": "paragraph",
+          "text": "為大小、方向、作用點。 ( 如圖 1-4 所示 )"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-4 力的三要素"
+        },
+        {
+          "type": "heading",
+          "text": "三、力的分類"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 力依受力部位,可分為二種"
+        },
+        {
+          "type": "heading",
+          "text": "種類 定義 舉例圖示"
+        },
+        {
+          "type": "paragraph",
+          "text": "外力 從物體之外面加於其上之力稱為外力。"
+        },
+        {
+          "type": "heading",
+          "text": "物體受外力作用後,內部相應所生的抵"
+        },
+        {
+          "type": "heading",
+          "text": "內力"
+        },
+        {
+          "type": "paragraph",
+          "text": "抗力。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 力依作用方式,可分為二種"
+        },
+        {
+          "type": "heading",
+          "text": "種類 定義 舉例圖示"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體間必須接觸才有力之作用。如摩擦"
+        },
+        {
+          "type": "heading",
+          "text": "接觸力"
+        },
+        {
+          "type": "paragraph",
+          "text": "力、壓力、推力等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "不需接觸即有力之作用。如靜電力、磁"
+        },
+        {
+          "type": "heading",
+          "text": "超距力"
+        },
+        {
+          "type": "paragraph",
+          "text": "力、重力、萬有引力等。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch01/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 力依分佈情況,可分為二種"
+        },
+        {
+          "type": "heading",
+          "text": "種類 定義 舉例圖示"
+        },
+        {
+          "type": "paragraph",
+          "text": "集中力 作用力集中於一點者。"
+        },
+        {
+          "type": "paragraph",
+          "text": "分佈力 作用力分佈於一段長度或某一面積者。"
+        },
+        {
+          "type": "heading",
+          "text": "四、力的效應"
+        },
+        {
+          "type": "heading",
+          "text": "力的效應分為外效應與內效應兩種:"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 外效應"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體受力作用而 改變其運動狀態,產生阻力或反作用力,為 應用力學 所研究之問題。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 內效應"
+        },
+        {
+          "type": "paragraph",
+          "text": "物體受力而 產生變形,使物體內部為抵抗力之作用 而產生內應力,為 材料力學 所研究 之問題。"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 任何一力必須具備的三要素為 (A) 大小、方向、指向 (B) 大小、方 向、空間 (C) 大小、時間、空間 (D) 大小、方向、作用點。 ( ) 2. 力的觀念是 (A) 力可以單獨存在 (B) 任何一物體都有力之表現 (C) 兩物體間才會有力之表現 (D) 力是一種能量。 ( ) 3. 力之傳遞可經由接觸或不經接觸,下列何者為不經接觸傳遞之力? (A) 桌椅對地板之壓力 (B) 汽缸中蒸氣對活塞之推力 (C) 兩球相撞 之碰撞力 (D) 磁力。 ( ) 4. 下列何者屬於內效應? (A) 旋轉 (B) 移動 (C) 運動 (D) 變形。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 力的特性與認識 11"
+        },
+        {
+          "type": "heading",
+          "text": "1-3 向量與純量"
+        },
+        {
+          "type": "heading",
+          "text": "一、向量與純量"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 向量 (vector)"
+        },
+        {
+          "type": "paragraph",
+          "text": "具有大小及方向 之物理量,如力、力矩、位移、速度、力偶、加速度、衝量、動量、 重量等。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 純量 (scalar)"
+        },
+        {
+          "type": "paragraph",
+          "text": "只有大小無方向 之物理量。僅須標明其數值及單位,就可完整表示此量。如距離、路 徑、面積、速率、慣性矩、質量、時間、密度、功、功率等。"
+        },
+        {
+          "type": "heading",
+          "text": "二、向量的分類"
+        },
+        {
+          "type": "heading",
+          "text": "向量依其作用情形,可分為三種:"
+        },
+        {
+          "type": "heading",
+          "text": "自由向量 凡一向量之 原點可以自由決定,如力"
+        },
+        {
+          "type": "paragraph",
+          "text": "(free vector) 偶。"
+        },
+        {
+          "type": "heading",
+          "text": "滑動向量 凡一向量之 原點可在其作用線上任意"
+        },
+        {
+          "type": "paragraph",
+          "text": "(sliding vector) 移動,如產生 運動效應 之力、力矩。"
+        },
+        {
+          "type": "heading",
+          "text": "凡一向量之 原點固定不能任意移動,"
+        },
+        {
+          "type": "heading",
+          "text": "固定向量、拘束向量"
+        },
+        {
+          "type": "heading",
+          "text": "如產生 變形效應 之力 ( 即內應力或材"
+        },
+        {
+          "type": "heading",
+          "text": "(fixed vector)"
+        },
+        {
+          "type": "paragraph",
+          "text": "料力學所指之力 )。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. ( 甲 ) 速率 ( 乙 ) 速度 ( 丙 ) 位移 ( 丁 ) 路徑 ( 戊 ) 時間 ( 己 ) 重量 ( 庚 ) 力 ( 辛 ) 功 ( 壬 ) 衝量 ( 癸 ) 慣性矩, 屬於純量的有 (A) 4 項 (B) 5 項 (C) 6 項 (D) 7 項。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 2. 下列各物理量何者不具方向性?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 加速度 (B) 速率 (C) 位移 (D) 作用力。 ( ) 3. 下列何者為純量? (A) 力 (B) 力矩 (C) 功 (D) 動量。 ( ) 4. 下列何者屬於向量? (A) 時間 (B) 長度 (C) 質量 (D) 重量。"
+        },
+        {
+          "type": "heading",
+          "text": "1-4 力的單位"
+        },
+        {
+          "type": "paragraph",
+          "text": "力的單位分為絕對單位和重力單位兩種,並分為 SI 制國際單位及 FPS 英制單位。本 書使用 SI 公制,以符合工業趨勢。"
+        },
+        {
+          "type": "heading",
+          "text": "一、絕對單位 (SI 制 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 長度、質量、時間 為基本量所制定之單位。力的絕對單位常用者有牛頓及達因二 種。"
+        },
+        {
+          "type": "heading",
+          "text": "單位系統 力 定義 (F = ma)"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "使 1 kg 物體產生 1 m/s 的加速度所需之力。"
+        },
+        {
+          "type": "heading",
+          "text": "M.K.S 制 牛頓 (N) 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 N = 1 kg-m/s"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "使 1 g 物體產生 1 cm/s 的加速度所需之力。"
+        },
+        {
+          "type": "heading",
+          "text": "C.G.S 制 達因 (dyne) 2"
+        },
+        {
+          "type": "heading",
+          "text": "1 dyne = 1 g-cm/s"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 力的特性與認識 13"
+        },
+        {
+          "type": "heading",
+          "text": "二、重力單位"
+        },
+        {
+          "type": "paragraph",
+          "text": "由 長度、重量、時間 為基本量所制定之單位。力的重力單位常用者有公斤重及公克重 二種。"
+        },
+        {
+          "type": "heading",
+          "text": "單位系統 重力 定義 (W = mg)"
+        },
+        {
+          "type": "paragraph",
+          "text": "公斤重 質量 1 公斤的物體,在緯度 45 ° 海平面所受之引力大小稱為一公斤重。"
+        },
+        {
+          "type": "heading",
+          "text": "M.K.S 制 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(kgf、 kgw) 1 kgf = 1 kg × 9.8 m/s = 9.8 N 公克重 質量 1 公克的物體,在緯度 45 ° 海平面所受之引力大小稱為一公克重。"
+        },
+        {
+          "type": "heading",
+          "text": "C.G.S 制 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "(gf、 gw) 1 gf = 1 g × 980 cm/s = 980 dyne"
+        },
+        {
+          "type": "heading",
+          "text": "常用單位換算:"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 公斤重 = 9.8 牛頓, 1 克重 = 980 達因, 1 牛頓 = 1 kg-m/s"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 Pa( 巴斯卡 ) = 1 N/m ( 應力、彈性係數之單位 ) 1 瓦特 = 1 N-m/s, 1 馬力 = 736 瓦特"
+        },
+        {
+          "type": "heading",
+          "text": "2 2 5 2 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 牛頓 = 1 kg-m/s = 1000 g × 100 cm/s = 10 g-cm/s = 10 達因 功 (Work) 的 單 位 為 焦 耳 (Joule) 或 爾 格 (Erg), 功 率 (Power) 的 單 位 為 馬 力 (Horse Power,簡稱 HP) 或瓦特 (Watt,簡稱 W) 或仟瓦 (kW)。"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 在 C.G.S. 制中,力的絕對單位為 (A) 公克 (B) 盎斯 (C) 牛頓 (D) 達因。"
+        },
+        {
+          "type": "heading",
+          "text": "2"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 2. 使質量 1 kg 的物體產生 1 m/s 的加速度所需的力稱為 (A) 1 牛頓 (B) 1 公斤重 (C) 1 達因 (D) 1 焦耳。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 3. 下列何者為力的單位?"
+        },
+        {
+          "type": "paragraph",
+          "text": "(A) 巴斯卡 (Pa) (B) 瓦特 (W) (C) 達因 (dyne) (D) 馬力 (HP)。 ( ) 4. 以下針對力的單位敘述何者正確? (A) 力的單位可分為絕對單位及 重力單位兩種 (B) 國際單位系統簡稱 SI 單位,大多採用絕對單位中 之 C.G.S. 制 (C) 重力單位中力之 M.K.S. 制單位為牛頓 (D) 絕對單 位中力之 M.K.S. 制單位為仟克重。"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "14"
+        },
+        {
+          "type": "heading",
+          "text": "1-5 力系"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩 個 或 兩 個 以 上 的 力, 同 時 作 用 於 一 物 體 上, 則 這 些 力 的 組 成 稱 為 力 系 (force system)。分類如下:"
+        },
+        {
+          "type": "heading",
+          "text": "一、依平衡狀態而分"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 平衡力系"
+        },
+        {
+          "type": "paragraph",
+          "text": "一力系對原來物體 不發生運動效應 時,則稱為平衡力系 (equilibrium force system)。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 不平衡力系"
+        },
+        {
+          "type": "paragraph",
+          "text": "一力系會 改變原來物體之運動效應 時,則稱為不平衡力系。"
+        },
+        {
+          "type": "heading",
+          "text": "二、依作用位置而分"
+        },
+        {
+          "type": "paragraph",
+          "text": "力系依作用位置之分類,如圖 1-5,而技術高中所學習的內容如圖 1-6。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-5 力系種類"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch01/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 1 力的特性與認識 15"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-6 力系"
+        },
+        {
+          "type": "heading",
+          "text": "三、等值力系"
+        },
+        {
+          "type": "paragraph",
+          "text": "當 一 力 系 與 另 一 力 系, 對 同 一 物 體 所 產 生 之 外 效 應 完 全 相 同, 則 稱 為 等 值 力 系 (equivalent force system)。"
+        },
+        {
+          "type": "heading",
+          "text": "立即評量"
+        },
+        {
+          "type": "paragraph",
+          "text": "( ) 1. 對同一物體所產生之外效應完全相同時,則此兩力系稱為 (A) 共點力系 (B) 平行力系 (C) 平衡力系 (D) 等值力系。"
+        },
+        {
+          "type": "heading",
+          "text": "( ) 2. 此力系為"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 不同平面不共點力系"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 不同平面共點力系"
+        },
+        {
+          "type": "heading",
+          "text": "(C) 同平面不共點力系"
+        },
+        {
+          "type": "paragraph",
+          "text": "(D) 同平面共點力系。 ( ) 3. 一力系對原來物體不發生運動效應 ( 靜止或等速直線運動 ) 時,此 力系為 (A) 同平面共點力系 (B) 同平面平行力系 (C) 平衡力系 (D) 等值力系。 ( ) 4. 二個以上的力,作用於一物體上,可以稱為? (A) 力系 (B) 力偶 (C) 力矩 (D) 力量。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch01/p011.jpg"
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "heading",
+          "text": "1-6 力的可傳性"
+        },
+        {
+          "type": "paragraph",
+          "text": "作用於物體的力量,可沿其作用線前後移動,而不會改變力所產生的外效應,稱為力 的可傳性原理 (principle of transmissibility)。 如圖 1-7 所示,一力 F 作用於 A 點為推力,若不改變力的大小及方向,將其移至作用 線上之 B 點為拉力,則兩物體均向右移動,其外效應相同,但其內效應完全不相同,如虛 線所示。 力的可傳性 僅適用於 剛體 對 外效應 沒有影響,可將力視為 滑動向量;而在討論力 之 內效應 時則不可使用,此時只能將力視為 固定向量。"
+        },
+        {
+          "type": "heading",
+          "text": "▲ 圖 1-7 力的可傳性"
+        },
+        {
+          "type": "heading",
+          "text": "一、質點與剛體"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 質點 (particle)"
+        },
+        {
+          "type": "paragraph",
+          "text": "質點為物體質量的集中點。當一物體的體積與運動路程相差甚遠時, 即忽略形狀及大 小,僅具有座標位置。例如在研究各星球繞著太陽的運轉時,卻可將各星球視為質點來進 行分析處理。質點只考慮質量和位置,而形狀大小忽略的點。"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 剛體 (rigid body)"
+        },
+        {
+          "type": "heading",
+          "text": "知識大補帖"
+        },
+        {
+          "type": "heading",
+          "text": "物體受外力作用時,其形狀及大小均無改變者;"
+        },
+        {
+          "type": "heading",
+          "text": "鑽石是我們已知在地球上最硬的物質,"
+        },
+        {
+          "type": "heading",
+          "text": "亦即體內任二質點間之距離均保持不變者,稱為剛"
+        },
+        {
+          "type": "heading",
+          "text": "透過機器都能破壞它,由此可知剛體並"
+        },
+        {
+          "type": "paragraph",
+          "text": "體,剛體為一 理想 之物體。宇宙間沒有真正的剛體, 不存在。 在應用力學中均把物體當成剛體。"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_mechanics_ch01/p012.jpg"
+    }
+  ]
+}

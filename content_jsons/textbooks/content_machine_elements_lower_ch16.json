@@ -1,0 +1,3073 @@
+{
+  "content_id": "CONTENT_MACHINE_ELEMENTS_LOWER_CH16",
+  "subject": "技術型高中機械群機件原理下冊_PPT",
+  "chapter": {
+    "code": "CH16",
+    "title": "16_間歇運動機構"
+  },
+  "title": "技術型高中機械群機件原理下冊_PPT 16",
+  "source_pdf": "machine_elements_lower_ppt/16_間歇運動機構.pdf",
+  "question_bundle_id": null,
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "16"
+        },
+        {
+          "type": "paragraph",
+          "text": "本簡報資料僅供學校教師授課參考之用, 禁止一切商業行為之用。 內容來源; 108 華興機件原理 - 下冊 / 連結影片及部分圖片取自網路"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p001.jpg"
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "16-1 間 歇 運 動 機 構 的 分 類"
+        },
+        {
+          "type": "heading",
+          "text": "16-1 間歇運動機構的分類"
+        },
+        {
+          "type": "paragraph",
+          "text": "16-2 各 種 間 歇 運 動 機 構 的 特 性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "16-2 各種間歇運動機構的特性 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "16-3 反 向 運 動 機 構 數"
+        },
+        {
+          "type": "heading",
+          "text": "16-3 反向運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "16-1 間歇運動機構的分類"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "當一機構中之主動件作連續性迴轉或搖擺運動,而其從動件會"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "產生時而停止、時而運動之狀態時,此種機構稱為「間歇運動 的"
+        },
+        {
+          "type": "heading",
+          "text": "分"
+        },
+        {
+          "type": "paragraph",
+          "text": "機構」 ( intermittent motion mechanism )。間歇運動機構依主動 類 件運動方式,可分為二類,分述如下。"
+        },
+        {
+          "type": "heading",
+          "text": "1. 由搖擺運動所產生的間歇運動:棘輪機構、擒縱器機構。"
+        },
+        {
+          "type": "heading",
+          "text": "2. 由迴轉運動所產生的間歇運動:凸輪機構、間歇齒輪機構及"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "日內瓦機構。"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "206"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "3"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "16-2 各種間歇運動機構的特性"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "一、棘輪機構 ( ratchet mechanism ) 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "棘輪機構又稱「閘輪機構」,當主動臂作搖擺運動,藉由棘爪"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "paragraph",
+          "text": "( pawl ) 又稱「掣子」,推動有齒形或銷子之輪(即為棘輪), 特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "paragraph",
+          "text": "使其產生單一方向之間歇迴轉運動的機構。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "206"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "4"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 單爪棘輪 ( single pawl ratchet ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "單爪棘輪缺點有:當搖臂向下擺動棘爪滑過棘輪的棘齒時,有"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "可能因摩擦作用造成棘輪產生反轉,使棘爪無法正確地退回到"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "下一個棘齒的起始位置,此時可在機構中加裝一個或多個「止"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "paragraph",
+          "text": "動爪」,藉由止動爪之阻力防止棘輪因起動爪回程的摩擦作用 性 而產生反轉現象發生;此外,當搖臂每推動一棘齒回程時,棘 輪呈現靜止無動作,此時即形成無效擺動,若搖臂擺動角度太 大時,則很浪費時間,欲減少無效的擺動角度可減小棘齒大小, 課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "paragraph",
+          "text": "但如此亦會減弱棘齒強度,故此方法大多應用於釣桿之捲線器 數"
+        },
+        {
+          "type": "heading",
+          "text": "206"
+        },
+        {
+          "type": "paragraph",
+          "text": "及絞盤等處,而藉由多爪棘輪亦可改善無效擺動之缺點。"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "5"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "回回"
+        },
+        {
+          "type": "heading",
+          "text": "各種間歇運動機構的特性"
+        },
+        {
+          "type": "heading",
+          "text": "止動爪"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "棘輪 A 止動爪"
+        },
+        {
+          "type": "heading",
+          "text": "(A) 示意圖"
+        },
+        {
+          "type": "heading",
+          "text": "(B) 實體圖"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-1 單爪棘輪"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p006.jpg"
+    },
+    {
+      "page": 7,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 多爪棘輪 ( multi pawl ratchet ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "在使用單爪棘輪時,搖臂每推動一棘齒即為棘輪之周節,亦等"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "於棘輪每次之迴轉量,如欲使迴轉量小於周節,減少無效的擺"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "動角度,又不減弱棘齒的強度,則可採用多爪棘輪機構,棘輪"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "paragraph",
+          "text": "的傳動效果變的更細密,且可改善單爪棘輪無效擺動之缺點, 性 其常應用於套筒扳手。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "207"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "7"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 8,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各種間歇運動機構的特性"
+        },
+        {
+          "type": "heading",
+          "text": "搖臂 B"
+        },
+        {
+          "type": "heading",
+          "text": "一課本頁數"
+        },
+        {
+          "type": "heading",
+          "text": "棘輪 A"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-2 多爪棘輪"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p008.jpg"
+    },
+    {
+      "page": 9,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 雙動棘輪 ( double acting ratchet ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "搖桿無論前進或後退擺動,均可使棘輪朝單一方向作間歇迴轉"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "運動,且棘輪轉動的速度為單爪棘輪的兩倍,故可用於棘輪轉"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "速須較快速之處。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "208"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "9"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 10,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "208"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-3 雙動棘輪"
+        },
+        {
+          "type": "heading",
+          "text": "10"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p010.jpg"
+    },
+    {
+      "page": 11,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 四 ) 可逆棘輪 ( reversible ratchet ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱「反向棘輪」、「回動爪棘輪」,其棘爪具有回動的功能,"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "棘輪可視需要作正、逆方向之迴轉,故可用在棘輪須正反兩方"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "向轉動處,此種棘輪常見於機構傳動一定時間後,需要改變一"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "paragraph",
+          "text": "次運動方向的牛頭鉋床之進給機構,及可調正反向的快速棘輪 性 扳手。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "209"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "11"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 12,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "209"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-4 可逆棘輪"
+        },
+        {
+          "type": "heading",
+          "text": "12"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p012.jpg"
+    },
+    {
+      "page": 13,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 五 ) 無聲棘輪 ( silent ratchet ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱「摩擦棘輪」 ( friction ratchet ),係以滾子代替棘爪,利"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "用滾子與棘輪間之摩擦力來產生單方向的間歇迴轉運動,此種"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "棘輪常應用在輕負荷之扳鉗及鑽床 ( drill ) 之棘輪機構。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "209"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "13"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 14,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-5 無聲棘輪"
+        },
+        {
+          "type": "heading",
+          "text": "14"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p014.jpg"
+    },
+    {
+      "page": 15,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 六 ) 起重棘輪 ( jack ratchet ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "將棘輪機構中之棘輪改為棘齒條 ( ratchet bar ) 型式,使其產生"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "間歇直線運動者,如圖 16-6 所示為爪式千斤頂 ( jack ),即為"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "起重棘輪之應用,即可頂起重物,是汽車換輪胎常備之工具。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "15"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p015.jpg"
+    },
+    {
+      "page": 16,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "210"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-6 起重棘輪"
+        },
+        {
+          "type": "heading",
+          "text": "16"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p016.jpg"
+    },
+    {
+      "page": 17,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "二、擒縱器機構 ( escapement mechanism ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "利用一個搖擺機件,有節奏的阻止與縱脫一個有齒之轉輪,使 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "其產生等時性之間歇迴轉運動的機構,此類機構常應用於需保 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "持固定頻率轉動之鐘錶中。 的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 一 ) 錨形擒縱器 ( anchor escapement ) 但此種擒縱器有其缺點為當托板回擺時,會因摩擦力作用而使 擒縱輪略為反轉,而引起週期不精確,若需正確週期可改採用"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "不擺擒縱器來補救。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "211"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "17"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 18,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "211"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-7 錨形擒縱器"
+        },
+        {
+          "type": "heading",
+          "text": "18"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p018.jpg"
+    },
+    {
+      "page": 19,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 二 ) 不擺擒縱器 ( dead-beat escapement ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱「無晃擒縱器」,係將錨形擒縱器兩臂托板之接觸面加以"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "改良,以改善錨形擒縱器因摩擦力作用產生逆轉、週期不精確"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "之缺點。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "212"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "19"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 20,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "213"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-8 不擺擒縱器"
+        },
+        {
+          "type": "heading",
+          "text": "20"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p020.jpg"
+    },
+    {
+      "page": 21,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "( 三 ) 圓柱形擒縱器 ( cylinder escapement ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "係由輪齒呈前低後高斜面狀之擒縱輪及藉由游絲之動力繞天心"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "軸作左右不停擺動之半圓柱擺輪 ( balance wheel ) 所組成,此種"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "擒縱器可得到正確之週期,常應用於手錶中。"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "213"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "21"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 22,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-9 圓柱形擒縱器"
+        },
+        {
+          "type": "heading",
+          "text": "22"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p022.jpg"
+    },
+    {
+      "page": 23,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "三、間歇齒輪機構 ( intermittent gear mechanism ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱「不完全齒輪機構」,係指一對傳動齒輪機構,其主動齒 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "輪之圓周上僅部分有齒,即稱此齒輪為不完全齒輪,當主動之 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "不完全齒輪作等速迴轉運動時,從動之完全齒輪(全部有齒) 的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "paragraph",
+          "text": "將沿一定方向作間歇迴轉運動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "23"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 24,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 間歇正齒輪 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "係用於傳動兩軸平行之間歇運動。"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "214"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-10 間歇正齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "24"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p024.jpg"
+    },
+    {
+      "page": 25,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 間歇斜齒輪 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "主要用於傳動兩軸相交之間歇運動。"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "215"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-11 間歇斜齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "25"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p025.jpg"
+    },
+    {
+      "page": 26,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 間歇螺旋齒輪 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "又叫間歇歪齒輪,主要用於傳動"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "兩軸不平行亦不相交之間歇運動。"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "215"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-12 間歇螺旋齒輪"
+        },
+        {
+          "type": "heading",
+          "text": "26"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p026.jpg"
+    },
+    {
+      "page": 27,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "四、日內瓦機構 ( Geneva mechanism ) 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "又稱「星輪機構」,係由一具有圓銷轉盤的主動件作連續迴轉 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "運動時,帶動一具有等角徑向溝槽的從動件作間歇性之迴轉運 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "動者。 的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "216"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-13 四槽日內瓦機構"
+        },
+        {
+          "type": "heading",
+          "text": "27"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p027.jpg"
+    },
+    {
+      "page": 28,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "paragraph",
+          "text": "主動件迴轉一周,主動件帶動 4 槽從動件作迴轉的角度為 90 °, 種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "1 3"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "paragraph",
+          "text": "即為 周的時間在作動,其餘 270 °( 周)的時間靜止不動,"
+        },
+        {
+          "type": "heading",
+          "text": "4 4 運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "依此類推,如圖 6-14 所示之從動件具有 6 個溝槽,當主動件轉 機"
+        },
+        {
+          "type": "heading",
+          "text": "1 構"
+        },
+        {
+          "type": "paragraph",
+          "text": "一圈,則從動件僅能轉 圈,而從動件在主動件帶動從動件迴 的"
+        },
+        {
+          "type": "heading",
+          "text": "6 特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "paragraph",
+          "text": "轉之作動角 120 °的時間中作迴轉,其餘 240 °的時間為暫停無 動作。 日內瓦機構常應用於工具機的分度機構,以及使影片能正確定"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "paragraph",
+          "text": "位在鏡頭上,作為送片用之電影放映機。 頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "216"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "28"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p028.jpg"
+    },
+    {
+      "page": 29,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "各"
+        },
+        {
+          "type": "heading",
+          "text": "種"
+        },
+        {
+          "type": "heading",
+          "text": "間"
+        },
+        {
+          "type": "heading",
+          "text": "歇"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "的"
+        },
+        {
+          "type": "heading",
+          "text": "特"
+        },
+        {
+          "type": "heading",
+          "text": "性"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "217"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-14 六槽日內瓦機構"
+        },
+        {
+          "type": "heading",
+          "text": "29"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p029.jpg"
+    },
+    {
+      "page": 30,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "16-3 反向運動機構"
+        },
+        {
+          "type": "heading",
+          "text": "向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "當一機構之主動件作定向等速迴轉運動時,其從動件作往復之"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "直線反向運動,或產生順逆時針之迴轉反向運動,此機構稱為 反向運動機構 ( direction reversing motion mechanism )。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "217"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "30"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 31,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "一、由迴轉運動產生往復直線運動之機構 向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 不完全齒輪與齒條傳動機構 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "由僅部分有齒之不完全齒輪為主動件,以及具有上下排齒條之 從動件組成,當主動件以逆時針方向迴轉,其具有輪齒部分與 從動件上排齒條嚙合時,會使從動件向左移動;反之,當主動 件有輪齒部分與從動件下排齒條嚙合時,會使從動件向右移動, 故當不完全齒輪連續迴轉時,即可使從動件之齒條產生左右之"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "paragraph",
+          "text": "往復運動。 本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "217"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "31"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 32,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "217"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-15 不完全齒輪與齒條傳動機構"
+        },
+        {
+          "type": "heading",
+          "text": "32"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p032.jpg"
+    },
+    {
+      "page": 33,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 16-15(b) 所示,主動件係由只有部分輪齒的不完全小齒輪, 向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "paragraph",
+          "text": "與從動件為一齒條嚙合之情形,當主動小齒輪以順時針迴轉, 動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "paragraph",
+          "text": "若小齒輪有輪齒部分與齒條嚙合時,可將從動件向上舉高;而 構 若主動小齒輪無輪齒部位與齒條嚙合時,從動件會受本身重力 或彈簧作用而回復至原本位置,此類機構常應用於重錘機、鉚 釘機上。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "218"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "33"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p033.jpg"
+    },
+    {
+      "page": 34,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 棘輪機構 向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "218"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-16 棘輪機構"
+        },
+        {
+          "type": "heading",
+          "text": "34"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p034.jpg"
+    },
+    {
+      "page": 35,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 曲柄滑塊機構 向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "218"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-17 曲柄滑塊機構"
+        },
+        {
+          "type": "heading",
+          "text": "35"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p035.jpg"
+    },
+    {
+      "page": 36,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 凸輪機構 向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "218"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-18 凸輪機構"
+        },
+        {
+          "type": "heading",
+          "text": "36"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p036.jpg"
+    },
+    {
+      "page": 37,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "二、由迴轉運動產生正反迴轉運動之機構 向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "( 一 ) 惰輪齒輪系傳動機構 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "係單式輪系利用惰輪的個數,以使從動輪作順時針或逆時針兩 方向之迴轉運動。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "219"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-19 齒輪換向機構"
+        },
+        {
+          "type": "heading",
+          "text": "37"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p037.jpg"
+    },
+    {
+      "page": 38,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "( 二 ) 斜齒輪與離合器傳動機構 向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "219"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-20 斜齒輪與離合器傳動機構"
+        },
+        {
+          "type": "heading",
+          "text": "38"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p038.jpg"
+    },
+    {
+      "page": 39,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "( 三 ) 圓盤與滾子摩擦傳動機構 向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "此機構除了能夠改變圓盤之轉向外,亦可依兩輪接觸點位置來"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "paragraph",
+          "text": "改變圓盤之轉速。"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "220"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-21 圓盤與滾子摩擦傳動機構"
+        },
+        {
+          "type": "heading",
+          "text": "39"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p039.jpg"
+    },
+    {
+      "page": 40,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "( 四 ) 皮帶輪與離合器傳動機構 向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "heading",
+          "text": "機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "220"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-22 皮帶輪與離合器傳動機構"
+        },
+        {
+          "type": "heading",
+          "text": "40"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p040.jpg"
+    },
+    {
+      "page": 41,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "反"
+        },
+        {
+          "type": "heading",
+          "text": "三、由液壓系統產生往復運動之機構 向"
+        },
+        {
+          "type": "heading",
+          "text": "運"
+        },
+        {
+          "type": "heading",
+          "text": "動"
+        },
+        {
+          "type": "paragraph",
+          "text": "其液壓機構亦常應用於火車、捷運、公車的自動門之開關。 機"
+        },
+        {
+          "type": "heading",
+          "text": "構"
+        },
+        {
+          "type": "heading",
+          "text": "課"
+        },
+        {
+          "type": "heading",
+          "text": "本"
+        },
+        {
+          "type": "heading",
+          "text": "頁"
+        },
+        {
+          "type": "heading",
+          "text": "數"
+        },
+        {
+          "type": "heading",
+          "text": "221"
+        },
+        {
+          "type": "heading",
+          "text": "Page Page"
+        },
+        {
+          "type": "heading",
+          "text": "圖 16-23 牛頭鉋床液壓機構"
+        },
+        {
+          "type": "heading",
+          "text": "41"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p041.jpg"
+    },
+    {
+      "page": 42,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "THE END"
+        },
+        {
+          "type": "heading",
+          "text": "Page"
+        },
+        {
+          "type": "heading",
+          "text": "42"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_machine_elements_lower_ch16/p042.jpg"
+    }
+  ]
+}

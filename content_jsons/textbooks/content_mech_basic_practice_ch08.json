@@ -1,0 +1,493 @@
+{
+  "content_id": "CONTENT_MECH_BASIC_PRACTICE_CH08",
+  "subject": "機械基礎實習全冊",
+  "chapter": {
+    "code": "CH08",
+    "title": "CH8"
+  },
+  "title": "機械基礎實習全冊 Chapter 8 ࢰචॴԓۂ ̮",
+  "source_pdf": "mechanical_basic_practice/CH8PDF.pdf",
+  "question_bundle_id": "TEXT_MECH_BASIC_PRACTICE_CH08",
+  "pages": [
+    {
+      "page": 1,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter"
+        },
+        {
+          "type": "heading",
+          "text": "8"
+        },
+        {
+          "type": "heading",
+          "text": "ࢰචॴԓۂ ̮"
+        },
+        {
+          "type": "heading",
+          "text": "ኪ୦ͦᅺ ࠅ௝ၤ ͉"
+        },
+        {
+          "type": "heading",
+          "text": "1. 瞭解階級之外徑與長度控制 8-1 階級之外徑與長度控制"
+        },
+        {
+          "type": "heading",
+          "text": "2. 學會階級之外徑與長度量測 8-2 階級之外徑與長度量測"
+        },
+        {
+          "type": "heading",
+          "text": "3. 熟悉階級桿加工程序與方法 8-3 階級桿加工程序與方法"
+        },
+        {
+          "type": "heading",
+          "text": "8-4 階級桿加工程序"
+        }
+      ],
+      "page_image_url": ""
+    },
+    {
+      "page": 2,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "156"
+        },
+        {
+          "type": "heading",
+          "text": "ఠe޴ᗫٝᗆ"
+        },
+        {
+          "type": "heading",
+          "text": "8-1 චॴʘ̮ࢰၾܓڗછՓ"
+        },
+        {
+          "type": "paragraph",
+          "text": "外徑階級車削與外徑車削相似,也包含工件夾持與校正、外徑尺度與長度尺度控制、外徑 尺度與長度尺度量測補償,以及去角後的毛邊移除等工作,如以下章節所述。"
+        },
+        {
+          "type": "heading",
+          "text": "8-1-1 cਿ๟ࠦ፯኿"
+        },
+        {
+          "type": "heading",
+          "text": "為獲致精準的長度控制,階級車削前的基準"
+        },
+        {
+          "type": "paragraph",
+          "text": "面選擇是很重要的技術。如圖 8-1 所示,視工作"
+        },
+        {
+          "type": "heading",
+          "text": "圖上尺度標註處的公差及其重要性而定,長度基"
+        },
+        {
+          "type": "paragraph",
+          "text": "準面可選擇於工件的端面 ( 如基準面 –1) 或工件的 階級端面處 ( 如基準面 –2)。"
+        },
+        {
+          "type": "heading",
+          "text": "ᣅ⥑⤺⎞Խడʀ᱿ᅞ͵ඖŊघᄲࢍ׶Ŋడ˴"
+        },
+        {
+          "type": "paragraph",
+          "text": "⿢ಙ᱿ࡣ᜾ㄇⵣહ߱డ˴Ὁㄇʀ ( ᜾ㄇࡣ – 1) Ŋॖ"
+        },
+        {
+          "type": "heading",
+          "text": "ᔍŊɺӡ᱿⿢ಙଙಙⵣഺడ˴Ὁㄇᾰ⬚Ŋ໽˫ᤀ"
+        },
+        {
+          "type": "heading",
+          "text": "⧄ᆯ⿢ಙ⸇ᛵ໣⿢ಙ⡵ѥ࿳Ӽⵣᅞ͵ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 8-1 ȭడ˴ߧपྃᅠⰇಉߧከʀ"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件校正完畢後,選用高轉速檔位 ( 約 1100- 1400rpm) 進行中心孔鑽削工作。如第 7 章所述,"
+        },
+        {
+          "type": "heading",
+          "text": "啄鑽可使中心孔鑽削的排屑容易,減緩中心鑽的"
+        },
+        {
+          "type": "paragraph",
+          "text": "溫升,並預防中心鑽斷在工件端面上。"
+        },
+        {
+          "type": "heading",
+          "text": "中心孔鑽削完畢後,再進行端面車削,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "8-2 所示。端面車削以手動方式轉動橫向進給手"
+        },
+        {
+          "type": "heading",
+          "text": "輪,並使刀具由工件中心朝工件外徑方向徐徐車"
+        },
+        {
+          "type": "heading",
+          "text": "削, ӝң᮫ҙ≟कⰇԇŊרᛧଇӡԇぁ༾ŊʏHྃ"
+        },
+        {
+          "type": "heading",
+          "text": "Ⰷӝӟଊⵒ̤᱿⺤Ӵಙȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 8-2 ȭ᮫ҙ≟कⰇԇడ˴Ὁㄇ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch08/p002.jpg"
+    },
+    {
+      "page": 3,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 ࢰචॴԓۂ ̮ 157"
+        },
+        {
+          "type": "heading",
+          "text": "8-1-2 c̮ࢰˉʂછՓ"
+        },
+        {
+          "type": "heading",
+          "text": "參考前一章圖 7-33 所示步驟,依工作圖上最"
+        },
+        {
+          "type": "paragraph",
+          "text": "大外徑尺寸進行外徑車削。"
+        },
+        {
+          "type": "heading",
+          "text": "第一道外徑車削完畢後,以游標卡尺量測外"
+        },
+        {
+          "type": "heading",
+          "text": "徑尺寸,並注意儘量使工件軸徑靠近游標卡尺的"
+        },
+        {
+          "type": "heading",
+          "text": "主尺部位進行量測,以減少阿倍誤差的問題,且"
+        },
+        {
+          "type": "heading",
+          "text": "兩測爪需貼緊工件外徑,眼睛視線垂直於刻度,"
+        },
+        {
+          "type": "heading",
+          "text": "再讀取刻度上的數字,並注意 ᑲ׿Ⳗ⃛Ԁಙ᭔໽"
+        },
+        {
+          "type": "heading",
+          "text": "Ⳗ⃛ ᱿⸇ᆯడ˴᱿܈ⴗӡԇᛖಙŊ≟Ԁಙ᭔ʀ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 8-3 ȭकലଙ૸⸇ᛵ⎞⤺ᾰ"
+        },
+        {
+          "type": "heading",
+          "text": "໽ᐻḻ᱿Ԁಙᄽ઎͸྆డ˴ᛧଇ᱿᳅ല⸇Ŋ 如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "8-3。 在粗車削階段,切除量很多時,為提高切削效率,需注意到每道次車削時的切深分配,例如: 外徑為 \u0002 60mm 的胚料,欲加工至 \u0002 50.0mm 的精車面,每道次較佳的切深分配如表 8-1 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "▼ ⠧ 8-1 ȭकല⁏ȮⰇԇ೘⩀᱿ⳬᓝӠⶪ"
+        },
+        {
+          "type": "paragraph",
+          "text": "⋙ᅆकല \u0002 60mm ŊⰇര᱿कല \u0002 50mm"
+        },
+        {
+          "type": "heading",
+          "text": "⁏ⰇὮɺⳬ ⁏ⰇὮwⳬ ⁏Ⰷሱരⳬ Ⰷሱരⳬ"
+        },
+        {
+          "type": "paragraph",
+          "text": "切削深度 (mm) 2.5 2.0 0.4 0.1 直徑移除量 (mm) \u0002 5 \u0002 4 \u0002 0.8 \u0002 0.2 車削後的直徑 (mm) \u0002 55.0 \u0002 51.0 \u0002 50.20 \u0002 50.00 進給速度 (mm/rev) 0.2 ∼ 0.4 0.2 ∼ 0.4 0.1 ∼ 0.2 0.1 主軸迴轉速 (rpm) 600 ∼ 800 600 ∼ 800 1000 ∼ 1400 1000 ∼ 1400"
+        },
+        {
+          "type": "paragraph",
+          "text": "粗車削的最後一道切深會遠小於前兩道,目的是利用這道些微的粗切削量 ( \u0002 0.8mm),改善 前二道粗車時所留下的粗糙表面,並且精密控制精車削的切深為 \u0002 0.2mm,換句話說, ߱ ⁏Ⰷӝ ʃሩဘ᱿෼ഐʁŊӴᮢሱരɺⳬ⁏ⰇԇŊ૽Ⳗ⃛᪓⦲גŊʙⰧⱧⳌ⦲ネŊᯍໞⰇԇŊɺԅרᷨ"
+        },
+        {
+          "type": "heading",
+          "text": "࿳ӼⰇԇᄩᮽ⸇ŊwԅרᄊۧԽడㄇ᱿⁏⁳ಙȯ"
+        },
+        {
+          "type": "heading",
+          "text": "在精車削階段,如圖 8-4 所示,若圖面上的"
+        },
+        {
+          "type": "paragraph",
+          "text": "工 件 外 徑 需 求 為 \u0002 36.0mm, 對 於 \u0002 36.20mm 的"
+        },
+        {
+          "type": "heading",
+          "text": "外徑而言,其直徑殘餘量為 0.2mm,橫向進給"
+        },
+        {
+          "type": "heading",
+          "text": "刻度環需再補進 5 小格,亦即先使車刀刃尖輕微"
+        },
+        {
+          "type": "heading",
+          "text": "接觸工件表面後,轉動大手輪,使車刀刃尖離開"
+        },
+        {
+          "type": "heading",
+          "text": "工件表面,再補進 5 小格,即可移除工件外徑的"
+        },
+        {
+          "type": "paragraph",
+          "text": "殘餘量。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 8-4 ȭ˫ᑲ׿Ⳗ⃛Ԁಙ᭔࿳Ӽकലଙ૸"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch08/p003.jpg"
+    },
+    {
+      "page": 4,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "158"
+        },
+        {
+          "type": "heading",
+          "text": "8-1-3 cܓڗˉʂછՓ"
+        },
+        {
+          "type": "paragraph",
+          "text": "工件經外徑粗車削後,在工件的外肩角處,會因材料的延性而在端面上擠出毛邊 (Burrs), 必須先將它移除,再進行工件長度的度量或控制,以免長度量測受毛邊影響,更可避免危害操 作者。 毛邊移除可用外徑車刀當去角刀 (Chamferingtool) 使用,如圖 8-5(a) 所示,將刀塔旋轉約 45°,使外徑車刀的切刃邊與工件主軸互成 45° 角,再對工件外肩角進行去角車削,如圖 8-5(b)。 ⰇӝⳖ⠗׏⤑ӡԇᆹŊトѢ⸇࿮ȵ൬׏൬ߊȶ᱿Ⳗ⃛ⳌಙŊ˫҉Ⰷӝӟⴗ⎞क⊹⤑᱿׏⤑ ⴗߌ࿲⤯ㄇỬ⳧ञ≟ᱹᮝㆳྚ (Chattering) ᫠⩽ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "paragraph",
+          "text": "為精確控制車削的長度,利用車刀刃尖先在工件圓周面上劃線,當成車削停止的長度位置。 在工件圓周面上劃線,最方便且精密的方式是使用游標卡尺,將游標卡尺張開所需長度,利用 階級量測功能 ( 或深度桿 ),將車刀刃尖移至與游標卡尺主尺的前緣對齊,如圖 8-5(c),再將游 標卡尺移開,正轉啟動車床,以車刀刃尖在工件的圓柱面上劃一條淺溝紋,如圖 8-5(d)。工件圓 周面上劃線也可以使用單腳卡配合鋼尺來進行。"
+        },
+        {
+          "type": "heading",
+          "text": "ȭȭ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 8-5 ȭ⿢ಙଙ૸࿳Ӽ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch08/p004.jpg"
+    },
+    {
+      "page": 5,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Chapter 8 ࢰචॴԓۂ ̮ 159"
+        },
+        {
+          "type": "heading",
+          "text": "車床上的大手輪,亦是控制工件長度的利器,"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用前,先將刻度環歸零,如圖 8-5(e),再視工件"
+        },
+        {
+          "type": "heading",
+          "text": "所需切削的長度,一邊旋轉大手輪,一邊計數刻"
+        },
+        {
+          "type": "paragraph",
+          "text": "度環上的刻度,直至所需的長度為止。"
+        },
+        {
+          "type": "heading",
+          "text": "至於 ⢒ೣӝಚŊ઩⃻౑⡕͐ᮢ ᅠడ˴⿢ಙʃ"
+        },
+        {
+          "type": "paragraph",
+          "text": "⭁ᆹŊⳖ⠗⡵ѥӡԇʠᮢŊ 如圖 8-5(f) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "當使用複式刀座時,驅動刀座的導螺桿在正"
+        },
+        {
+          "type": "paragraph",
+          "text": "逆轉間,會發生背隙 (Backlash), ➦ጥ⋍めሳ଄⎐"
+        },
+        {
+          "type": "heading",
+          "text": "ӝಚԊⳖ໣രⲵ᱿⭡サŊʃᆯᔌᷨ᱿⭡サŊ໽˫͐ᮢ"
+        },
+        {
+          "type": "heading",
+          "text": "⢒ೣӝಚԊŊト҅૽ ӝಚ༆ⱐⲻⱧߊɺߞ˫"
+        },
+        {
+          "type": "heading",
+          "text": "ʀŊҪᔌⱧ⎏׆͗᱿Ԁಙ̤⇦Ŋ˫͵ᚉぜ➦ጥ⋍"
+        },
+        {
+          "type": "paragraph",
+          "text": "めŊ 背隙消除後,便可逐次進行補償加工。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 8-5 ȭ⿢ಙଙ૸࿳Ӽ ( ↲ )"
+        },
+        {
+          "type": "heading",
+          "text": "8-2 චॴʘ̮ࢰၾܓڗඎ಻"
+        },
+        {
+          "type": "heading",
+          "text": "Ⰷಉడ̳ʑŊଃᅠ׳Ớʃ׺᱿कല⎞⿢ಙ⸇"
+        },
+        {
+          "type": "heading",
+          "text": "ᛵŊሱᅞ͵᱿⸇ңD⳧ᅠᜀᐻ֦ଙȯ 量測時,操"
+        },
+        {
+          "type": "heading",
+          "text": "作者須站穩於車床操作位置及工件的右側方,並"
+        },
+        {
+          "type": "heading",
+          "text": "以右手持穩游標卡尺,利用拇指的推力,使外測"
+        },
+        {
+          "type": "heading",
+          "text": "爪量測面貼住工件的圓柱面,並稍往夾頭方向傾"
+        },
+        {
+          "type": "heading",
+          "text": "斜,使視線易垂直於卡尺的刻劃讀數,再觀察讀"
+        },
+        {
+          "type": "paragraph",
+          "text": "數值,如圖 8-6(a) 所示。"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 8-6 ȭकല⎞⿢ಙ⸇ᛵ"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch08/p005.jpg"
+    },
+    {
+      "page": 6,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "160"
+        },
+        {
+          "type": "paragraph",
+          "text": "⤐ૣ⩊ᄲϊト߱ᜀᐻ֦ଙ⎞డ˴࿲⤯᱿ᨊ๗ʁⳖ⠗řॖኞ⸇ᛵരŊҪחӛᜀᐻ֦ଙ〇⩊໣૽ ᜀଙʀ᱿ߗહ➦⃦攴ߗരҪחӛ〇⩊Ŋⵣר⋱ሳᱹᮝẼ̤⦡దȯ"
+        },
+        {
+          "type": "heading",
+          "text": "更精準的外徑量測可使用外徑分厘卡,如圖"
+        },
+        {
+          "type": "paragraph",
+          "text": "8-6(b) 所示,以量測範圍 25mm-50mm 的分厘卡為"
+        },
+        {
+          "type": "heading",
+          "text": "例,操作時,左手輕扶卡架,右手中指與無名指"
+        },
+        {
+          "type": "heading",
+          "text": "托住外套筒,並由拇指與食指一起轉動棘輪停止"
+        },
+        {
+          "type": "paragraph",
+          "text": "器 (Ratchet stop), ͐ ϟᔋݽᱹӛ 2-3 ᇈ⊖ŊᲿ᱿߱͐ Ӡ֦׀᱿ʙⰧᛵᆑ⎞ᶐಚ (Anvil) Ҡ׺ⱀ⤯డ˴"
+        },
+        {
+          "type": "heading",
+          "text": "᱿ሱञकലŊʏ᪀⎐ሱ⳺᱿⸇ᛵࣱԻŊҪ⤐ૣ⩊"
+        },
+        {
+          "type": "heading",
+          "text": "ᄲϊȯ"
+        },
+        {
+          "type": "paragraph",
+          "text": "為避免視差,分厘卡也應旋轉一角度,使刻劃面儘量與視線垂直,才能量出正確的尺度。 Ӡ֦׀͐ᮢԊŊぜະᘜาᛵᆑ࿲⤯ㄇᆯ؋ʯᛍकŊሩະᘜา⣠ᾉ⎞हᾉʠ⿵᱿ԀԬB̤⇦ᆯ؋"
+        },
+        {
+          "type": "heading",
+          "text": "ᔌᷨଃ㕑Ŋˇ֯ଃӠ֦׀ϝᔖダ᱿ᒑ44ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "外徑分厘卡亦可用單手操作量測 ( 多用於小型"
+        },
+        {
+          "type": "paragraph",
+          "text": "分厘卡 ),量測方式如圖 8-6(c) 所示,右手小指勾"
+        },
+        {
+          "type": "heading",
+          "text": "住分厘卡的卡架,中指和無名指輕扶分厘卡襯筒,"
+        },
+        {
+          "type": "heading",
+          "text": "拇指和食指轉動外套筒,使主軸測頭與砧座共同"
+        },
+        {
+          "type": "heading",
+          "text": "輕觸工件的最大外徑,再以拇指和食指轉動棘輪"
+        },
+        {
+          "type": "paragraph",
+          "text": "停止器 (Ratchet Stop) 約 2 ∼ 3 轉,使量測力達最 佳化。"
+        },
+        {
+          "type": "heading",
+          "text": "長度或階級量測,鋼尺是很方便的量具之一,"
+        },
+        {
+          "type": "paragraph",
+          "text": "如圖 8-6(d),量測時,直接將鋼尺 0 刻劃的一端貼"
+        },
+        {
+          "type": "heading",
+          "text": "齊工件的階級面,並使尺背貼住工件圓柱面,即"
+        },
+        {
+          "type": "heading",
+          "text": "可量測出工件的長度,不過 ⻘ଙߌሱଅ⩊ᄲϊХ"
+        },
+        {
+          "type": "heading",
+          "text": "0.5mm Ŋ⤟ኔಙठ̥Ŋʃ⳺ᅠ૓᱿డ̳ȯ"
+        },
+        {
+          "type": "heading",
+          "text": "Ț ߧ 8-6 ȭकല⎞⿢ಙ⸇ᛵ ( ↲ )"
+        }
+      ],
+      "page_image_url": "https://raw.githubusercontent.com/thumb2086/AcademicTycoon_data/main/assets/content_pages/content_mech_basic_practice_ch08/p006.jpg"
+    }
+  ]
+}
